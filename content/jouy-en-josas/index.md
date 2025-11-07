@@ -1,0 +1,23 @@
+---
+title: "⚡ Électricien 24/7 Jouy-En-Josas | Dépannage 78"
+slug: "jouy-en-josas"
+city: "JOUY-EN-JOSAS"
+zipCode: "78350"
+department: "78"
+keyword: "Électricien 24/7 Jouy-En-Josas 78350"
+company: "CircuitJouy78"
+phone: "07 56 79 95 59"
+phoneRaw: "0756799559"
+description: "Électricien Jouy-En-Josas 78350 ⚡ Réparation, panne, installation électrique. Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-275-hero"
+  og: "elec-275-og"
+  featured: "elec-275-featured"
+  video: "elec-275-video"
+draft: false
+---

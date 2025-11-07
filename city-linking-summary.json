@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-11-06T11:44:14.965Z",
+  "mode": "production",
+  "stats": {
+    "total": 3351,
+    "processed": 3351,
+    "updated": 3351,
+    "skipped": 0,
+    "failed": 0,
+    "errors": []
+  },
+  "report_source": "C:\\Users\\rober\\allo-electricien.pro\\city-linking-report.json"
+}

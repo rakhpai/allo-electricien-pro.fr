@@ -1,0 +1,23 @@
+---
+title: "⚡ Électricien Urgence ABLIS | Dépannage 78660"
+slug: "ablis"
+city: "ABLIS"
+zipCode: "78660"
+department: "78"
+keyword: "Électricien Urgence ABLIS"
+company: "ABLISExpert"
+phone: "06 44 98 58 58"
+phoneRaw: "0644985858"
+description: "Électricien d'urgence ABLIS 78 ⚡ Court-circuit, panne, installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-092-hero"
+  og: "elec-092-og"
+  featured: "elec-092-featured"
+  video: "elec-092-video"
+draft: false
+---

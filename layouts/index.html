@@ -1,0 +1,115 @@
+{{ define "main" }}
+{{ partial "hero.html" . }}
+
+<!-- Services Section -->
+<section id="services" class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+        Nos Services d'Électricité
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+          <div class="text-4xl mb-4">⚡</div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3">Dépannage Urgent</h3>
+          <p class="text-gray-700">Intervention rapide 24h/24 pour tous vos problèmes électriques : panne de courant, court-circuit, disjoncteur.</p>
+        </div>
+        <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+          <div class="text-4xl mb-4">🔧</div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3">Installation</h3>
+          <p class="text-gray-700">Pose de prises, interrupteurs, luminaires, tableaux électriques et tous travaux d'installation.</p>
+        </div>
+        <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+          <div class="text-4xl mb-4">✓</div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3">Mise aux Normes</h3>
+          <p class="text-gray-700">Conformité NF C 15-100, diagnostic électrique, rénovation complète de votre installation.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Directory Section -->
+<section id="directory" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
+        Trouvez Votre Électricien
+      </h2>
+      <p class="text-center text-gray-600 mb-12 text-lg">
+        {{ .Site.Data.sites.total_sites }} électriciens dans {{ len .Site.Data.sites.departments }} départements
+      </p>
+
+      <!-- Department Tabs -->
+      <div class="mb-8">
+        <div class="flex flex-wrap gap-2 justify-center">
+          <button class="dept-filter-btn active bg-primary text-white px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition" data-dept="all">
+            Tous ({{ .Site.Data.sites.total_sites }})
+          </button>
+          {{ range .Site.Data.sites.departments }}
+          <button class="dept-filter-btn bg-gray-200 text-gray-700 px-6 py-2 rounded-full font-semibold hover:bg-gray-300 transition" data-dept="{{ . }}">
+            {{ . }} ({{ index $.Site.Data.sites.stats . }})
+          </button>
+          {{ end }}
+        </div>
+      </div>
+
+      <!-- Search Box -->
+      <div class="mb-8 max-w-2xl mx-auto">
+        <input type="text"
+               id="city-search"
+               placeholder="Rechercher une commune..."
+               class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-lg focus:border-primary focus:outline-none">
+      </div>
+
+      <!-- Cities Grid -->
+      <div id="cities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {{ range .Site.Data.sites.sites }}
+    markers.addLayer(L.marker([{{ .coordinates.lat }}, {{ .coordinates.lng }}])
+      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Voir l\'électricien</a>'));
+    {{ end }}
+      </div>
+
+      <div id="no-results" class="hidden text-center py-12">
+        <p class="text-gray-600 text-lg">Aucune commune trouvée.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Map Section -->
+<section id="coverage" class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+        Zone de Couverture
+      </h2>
+      <div class="bg-white rounded-lg shadow-lg p-4">
+        <div id="homepage-map" class="h-96 md:h-[600px] rounded-lg"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Initialize Map -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Initialize map centered on Île-de-France
+    const map = L.map('homepage-map').setView([48.8566, 2.3522], 9);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Add markers for all sites
+    const markers = L.markerClusterGroup();
+
+    {{ range .Site.Data.sites.sites }}
+    markers.addLayer(L.marker([{{ .coordinates.lat }}, {{ .coordinates.lng }}])
+      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Voir l\'électricien</a>'));
+    {{ end }}
+
+    map.addLayer(markers);
+  });
+</script>
+{{ end }}

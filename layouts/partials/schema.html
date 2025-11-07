@@ -1,0 +1,119 @@
+{{- if .IsHome }}
+<!-- Organization Schema for Homepage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Params.companyName }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo.png",
+  "description": "{{ .Site.Params.description }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ .Site.Params.address }}",
+    "addressLocality": "{{ .Site.Params.city }}",
+    "postalCode": "{{ .Site.Params.postalCode }}",
+    "addressCountry": "FR"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "{{ .Site.Params.mainPhone }}",
+    "contactType": "customer service",
+    "areaServed": "FR",
+    "availableLanguage": "French"
+  },
+  "sameAs": []
+}
+</script>
+{{- else }}
+<!-- LocalBusiness Schema for Individual Pages -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ .Params.company | default .Site.Params.companyName }}",
+  {{- if .Params.images.og }}
+  "image": [
+    "{{ .Site.BaseURL }}images/og/{{ .Params.images.og }}.jpg",
+    "{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.jpg"
+  ],
+  {{- else }}
+  "image": "{{ .Site.BaseURL }}images/logo.png",
+  {{- end }}
+  "description": "{{ .Params.description }}",
+  "@id": "{{ .Permalink }}",
+  "url": "{{ .Permalink }}",
+  "telephone": "{{ .Params.phone | default .Site.Params.mainPhone }}",
+  "priceRange": "€€",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "{{ .Params.city }}",
+    "postalCode": "{{ .Params.zipCode }}",
+    "addressCountry": "FR"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ .Params.coordinates.lat }},
+    "longitude": {{ .Params.coordinates.lng }}
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "areaServed": {
+    "@type": "City",
+    "name": "{{ .Params.city }}"
+  },
+  "serviceType": "Électricien",
+  "parentOrganization": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.companyName }}",
+    "url": "{{ .Site.BaseURL }}"
+  }
+}
+</script>
+
+<!-- Breadcrumb Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Accueil",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Électricien",
+      "item": "{{ .Site.BaseURL }}electricien/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Params.department }}",
+      "item": "{{ .Site.BaseURL }}electricien/{{ .Params.department }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "name": "{{ .Params.city }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{- end }}

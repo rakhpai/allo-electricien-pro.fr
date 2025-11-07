@@ -1,0 +1,47 @@
+[
+  {
+    "city": "BONNEUIL-SUR-MARNE",
+    "postal": "94380",
+    "note": "Keep entry with correct coords [48.7746355, 2.487723], remove duplicate with [48.8566, 2.3522]"
+  },
+  {
+    "city": "BRUNOY",
+    "postal": "91800",
+    "note": "Keep entry with correct coords, remove duplicate"
+  },
+  {
+    "city": "BUC",
+    "postal": "78530",
+    "note": "Keep entry with correct coords, remove duplicate"
+  },
+  {
+    "city": "CHAMBOURCY",
+    "postal": "78240",
+    "note": "Keep entry with correct coords, remove duplicate"
+  },
+  {
+    "city": "CHEVILLY-LARUE",
+    "postal": "94550",
+    "note": "Keep entry with correct coords, remove duplicate"
+  },
+  {
+    "city": "EPINAY-SUR-SEINE",
+    "postal": "93800",
+    "note": "Keep entry with correct coords, remove duplicate"
+  },
+  {
+    "city": "FLEURY-MEROGIS",
+    "postal": "91700",
+    "note": "Keep entry with correct coords, remove duplicate"
+  },
+  {
+    "city": "Paris 1",
+    "postal": "75001",
+    "note": "Remove one of the duplicate Paris 1 entries"
+  },
+  {
+    "city": "",
+    "postal": "null",
+    "note": "NULL entry - remove completely"
+  }
+]

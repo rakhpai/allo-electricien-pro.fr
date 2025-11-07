@@ -1,0 +1,23 @@
+---
+title: "Électricien dépannage Paris - Dans les plus brefs délais TEL: 06 44 60 80 61"
+slug: "paris"
+city: "PARIS"
+zipCode: "75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116"
+department: "75"
+keyword: "SOS Électricien Paris"
+company: "Watt75"
+phone: "06 44 64 46 99"
+phoneRaw: "0644644699"
+description: "Services d'urgence 24/24 7/7 Paris"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-001-hero"
+  og: "elec-001-og"
+  featured: "elec-001-featured"
+  video: "elec-001-video"
+draft: false
+---

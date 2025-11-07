@@ -1,0 +1,90 @@
+/* Custom Styles for Allo-Electricien.pro */
+
+/* Leaflet Marker Cluster Customization */
+.marker-cluster-small {
+  background-color: rgba(0, 102, 255, 0.6);
+}
+
+.marker-cluster-small div {
+  background-color: rgba(0, 102, 255, 0.8);
+}
+
+.marker-cluster-medium {
+  background-color: rgba(255, 215, 0, 0.6);
+}
+
+.marker-cluster-medium div {
+  background-color: rgba(255, 215, 0, 0.8);
+}
+
+.marker-cluster-large {
+  background-color: rgba(255, 0, 0, 0.6);
+}
+
+.marker-cluster-large div {
+  background-color: rgba(255, 0, 0, 0.8);
+}
+
+/* Leaflet Popup Customization */
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  margin: 12px;
+  font-family: 'Inter', sans-serif;
+}
+
+/* Smooth Transitions */
+* {
+  transition-property: color, background-color, border-color, box-shadow, transform;
+  transition-duration: 200ms;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Skip transitions on page load */
+.no-transition * {
+  transition: none !important;
+}
+
+/* Focus States for Accessibility */
+a:focus,
+button:focus,
+input:focus {
+  outline: 2px solid #0066FF;
+  outline-offset: 2px;
+}
+
+/* Print Styles */
+@media print {
+  nav,
+  footer,
+  #homepage-map,
+  #map {
+    display: none;
+  }
+}
+
+/* Loading State */
+.loading {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0066FF;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0052CC;
+}

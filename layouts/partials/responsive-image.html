@@ -1,0 +1,44 @@
+{{/*
+  Responsive Image Partial
+  Usage: {{ partial "responsive-image.html" (dict "context" . "variant" "hero" "alt" "Alt text" "class" "custom-class" "loading" "lazy") }}
+
+  Parameters:
+  - context: The page context (required)
+  - variant: Image variant to use: "hero", "og", "featured", "video" (default: "og")
+  - alt: Alt text for the image (default: page title)
+  - class: Additional CSS classes (optional)
+  - loading: Image loading strategy: "lazy" or "eager" (default: "lazy")
+*/}}
+
+{{- $variant := .variant | default "og" -}}
+{{- $alt := .alt | default .context.Title -}}
+{{- $class := .class | default "" -}}
+{{- $loading := .loading | default "lazy" -}}
+
+{{- if .context.Params.images -}}
+  {{- $imagePath := "" -}}
+  {{- if eq $variant "hero" -}}
+    {{- $imagePath = .context.Params.images.hero -}}
+  {{- else if eq $variant "og" -}}
+    {{- $imagePath = .context.Params.images.og -}}
+  {{- else if eq $variant "featured" -}}
+    {{- $imagePath = .context.Params.images.featured -}}
+  {{- else if eq $variant "video" -}}
+    {{- $imagePath = .context.Params.images.video -}}
+  {{- end -}}
+
+  {{- if $imagePath -}}
+    {{- $baseURL := .context.Site.BaseURL -}}
+    {{- $variantPath := print "images/" $variant "/" -}}
+
+    <picture>
+      <source srcset="{{ $baseURL }}{{ $variantPath }}{{ $imagePath }}.avif" type="image/avif">
+      <source srcset="{{ $baseURL }}{{ $variantPath }}{{ $imagePath }}.webp" type="image/webp">
+      <img src="{{ $baseURL }}{{ $variantPath }}{{ $imagePath }}.jpg"
+           alt="{{ $alt }}"
+           {{- if $class }} class="{{ $class }}"{{ end }}
+           loading="{{ $loading }}"
+           decoding="async">
+    </picture>
+  {{- end -}}
+{{- end -}}

@@ -1,0 +1,23 @@
+---
+title: "⚡ Électricien Urgence Paris 17e | Dépannage 75117"
+slug: "paris-17e"
+city: "Paris 17e"
+zipCode: "75117"
+department: "75"
+keyword: "Électricien Urgence Paris 17e"
+company: "PExpert"
+phone: "06 44 95 55 55"
+phoneRaw: "0644955555"
+description: "Électricien d'urgence Paris 17e 75 ⚡ Court-circuit, panne, installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-175-hero"
+  og: "elec-175-og"
+  featured: "elec-175-featured"
+  video: "elec-175-video"
+draft: false
+---

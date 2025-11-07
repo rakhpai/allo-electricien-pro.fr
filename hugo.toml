@@ -1,0 +1,41 @@
+baseURL = "https://allo-electricien.pro/"
+languageCode = "fr-FR"
+title = "Allo Électricien - 410 Électriciens d'Urgence Île-de-France & Oise"
+
+[params]
+  description = "Trouvez votre électricien d'urgence 24h/24. 410 professionnels certifiés en Île-de-France et Oise pour dépannage électrique, installation, réparation. Intervention rapide garantie."
+
+  # Company Information
+  companyName = "AMPERE EXPRESS ELECTRICITE"
+  companyLegalForm = "SARL (Société à associé unique)"
+  siret = "988 585 626"
+  rcs = "988 585 626 R.C.S. Nanterre"
+  capital = "1 000,00 €"
+  address = "95 Rue Jean Bleuzen"
+  postalCode = "92170"
+  city = "Vanves"
+  country = "France"
+
+  # Contact
+  mainPhone = "01 44 90 11 31"
+  mainPhoneRaw = "0144901131"
+  email = "contact@allo-electricien.pro"
+
+  # SEO
+  keywords = "électricien urgence, dépannage électrique, panne électricité, électricien 24/7, réparation électrique, installation électrique"
+
+[permalinks]
+  pages = "/:slug/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allow raw HTML in markdown
+
+[outputs]
+  home = ["HTML", "JSON"]
+  page = ["HTML"]
+
+[minify]
+  disableXML = false
+  minifyOutput = true

@@ -1,0 +1,23 @@
+---
+title: "⚡ Électricien Maisons-Laffitte | Dépannage Rapide 78"
+slug: "maisons-laffitte"
+city: "MAISONS-LAFFITTE"
+zipCode: "78600"
+department: "78"
+keyword: "Intervention Électricien Maisons-Laffitte 78600"
+company: "RapideWatt78"
+phone: "06 44 60 07 27"
+phoneRaw: "0644600727"
+description: "Intervention électricien Maisons-Laffitte 78600 ⚡ Panne, installation, réparation. Dépannage 24h/7j garanti. Devis gratuit. Artisan qualifié. Appelez!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-138-hero"
+  og: "elec-138-og"
+  featured: "elec-138-featured"
+  video: "elec-138-video"
+draft: false
+---

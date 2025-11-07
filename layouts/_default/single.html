@@ -1,0 +1,272 @@
+{{ define "main" }}
+<!-- Breadcrumb -->
+<div class="bg-gray-100 border-b border-gray-200 py-3">
+  <div class="container mx-auto px-4">
+    <nav class="flex items-center space-x-2 text-sm">
+      <a href="/" class="text-primary hover:underline">Accueil</a>
+      <span class="text-gray-400">/</span>
+      <a href="/electricien/" class="text-primary hover:underline">Électricien</a>
+      <span class="text-gray-400">/</span>
+      <a href="/electricien/{{ .Params.department }}/" class="text-primary hover:underline">{{ .Params.department }}</a>
+      <span class="text-gray-400">/</span>
+      <span class="text-gray-600">{{ .Params.city }}</span>
+    </nav>
+  </div>
+</div>
+
+<!-- Hero Section -->
+<section class="relative bg-gradient-to-r from-primary to-blue-700 text-white py-12 overflow-hidden">
+  {{- if .Params.images.hero }}
+  <!-- Background Image Layer -->
+  <div class="absolute inset-0 z-0">
+    <picture>
+      <source srcset="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.avif" type="image/avif">
+      <source srcset="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.webp" type="image/webp">
+      <img src="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.jpg"
+           alt="Électricien {{ .Params.city }}"
+           class="w-full h-full object-cover opacity-40"
+           loading="eager">
+    </picture>
+  </div>
+  <!-- Gradient Overlay for Text Readability -->
+  <div class="absolute inset-0 bg-gradient-to-r from-primary/80 to-blue-700/80 z-10"></div>
+  {{- end }}
+
+  <div class="container mx-auto px-4 relative z-20">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-3xl md:text-4xl font-bold mb-4 drop-shadow-lg">
+        {{ .Title }}
+      </h1>
+      <p class="text-xl mb-6 text-blue-100 drop-shadow-md">
+        {{ .Params.description }}
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <a href="tel:{{ .Params.phoneRaw }}"
+           class="bg-emergency hover:bg-red-700 text-white font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition hover:scale-105 flex items-center gap-2">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+          </svg>
+          {{ .Params.phone }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Main Content -->
+<section class="py-12 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+        <!-- Main Column -->
+        <div class="lg:col-span-2">
+          <!-- Service Info -->
+          <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">
+              Électricien {{ .Params.city }} ({{ .Params.zipCode }})
+            </h2>
+            <p class="text-gray-700 mb-6">
+              Besoin d'un électricien d'urgence à {{ .Params.city }} ? {{ .Params.company }} intervient rapidement pour tous vos dépannages électriques 24h/24 et 7j/7.
+            </p>
+
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Nos Services</h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
+              <div class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <h4 class="font-bold text-gray-900">Dépannage Électrique</h4>
+                  <p class="text-sm text-gray-600">Intervention rapide en cas de panne</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <h4 class="font-bold text-gray-900">Installation Électrique</h4>
+                  <p class="text-sm text-gray-600">Pose de prises, interrupteurs, luminaires</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <h4 class="font-bold text-gray-900">Mise aux Normes</h4>
+                  <p class="text-sm text-gray-600">Conformité électrique NF C 15-100</p>
+                </div>
+              </div>
+              <div class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <h4 class="font-bold text-gray-900">Réparation Urgente</h4>
+                  <p class="text-sm text-gray-600">Court-circuit, disjoncteur qui saute</p>
+                </div>
+              </div>
+            </div>
+
+            <h3 class="text-xl font-bold text-gray-900 mb-3">Pourquoi Nous Choisir ?</h3>
+            <ul class="space-y-2 mb-6">
+              <li class="flex items-center gap-2">
+                <span class="text-primary font-bold">⚡</span>
+                <span class="text-gray-700">Intervention en moins de 30 minutes à {{ .Params.city }}</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="text-primary font-bold">🕐</span>
+                <span class="text-gray-700">Service disponible 24h/24, 7j/7, jours fériés inclus</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="text-primary font-bold">✓</span>
+                <span class="text-gray-700">Électriciens qualifiés et certifiés</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="text-primary font-bold">💰</span>
+                <span class="text-gray-700">Devis gratuit avant intervention</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <span class="text-primary font-bold">🔧</span>
+                <span class="text-gray-700">Équipement professionnel et matériel de qualité</span>
+              </li>
+            </ul>
+          </div>
+
+          <!-- Nearby Electricians -->
+          {{ $electricians := index .Site.Data.commune_electricians .Params.slug }}
+          {{ if $electricians }}
+          <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h3 class="text-2xl font-bold text-gray-900 mb-2">Électriciens Certifiés à Proximité</h3>
+            <p class="text-gray-600 mb-6">Professionnels vérifiés intervenant dans votre secteur</p>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+              {{ range $index, $elec := $electricians }}
+              <div class="bg-gradient-to-br from-gray-50 to-white border-2 border-gray-200 rounded-lg p-6 hover:border-primary hover:shadow-xl transition-all">
+                <!-- Header -->
+                <div class="flex items-start justify-between mb-4">
+                  <div class="flex-1">
+                    <h4 class="font-bold text-gray-900 text-lg mb-1">{{ $elec.name }}</h4>
+                    {{ if $elec.rating }}
+                    <div class="flex items-center gap-1 mb-2">
+                      <span class="text-accent text-xl">★</span>
+                      <span class="font-bold text-gray-900">{{ $elec.rating }}</span>
+                      <span class="text-sm text-gray-500">({{ $elec.reviews }} avis)</span>
+                    </div>
+                    {{ end }}
+                  </div>
+                  <div class="bg-primary text-white rounded-full w-10 h-10 flex items-center justify-center font-bold text-lg flex-shrink-0">
+                    {{ add $index 1 }}
+                  </div>
+                </div>
+
+                <!-- Distance -->
+                <div class="flex items-center gap-2 text-sm text-gray-600 mb-4 pb-4 border-b border-gray-200">
+                  <svg class="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+                  </svg>
+                  <span class="font-semibold text-primary">{{ $elec.distance }} km</span>
+                  {{ if $elec.city }}
+                  <span>• {{ $elec.city }}</span>
+                  {{ end }}
+                </div>
+
+                <!-- Contact -->
+                <div class="space-y-3">
+                  <a href="tel:{{ $elec.phone }}"
+                     class="block w-full bg-primary hover:bg-blue-700 text-white font-bold py-3 px-4 rounded-lg text-center transition transform hover:scale-105 flex items-center justify-center gap-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                    </svg>
+                    <span>{{ $elec.phone }}</span>
+                  </a>
+                  {{ if $elec.website }}
+                  <a href="{{ $elec.website }}" target="_blank" rel="noopener noreferrer"
+                     class="block w-full bg-white hover:bg-gray-50 text-primary border-2 border-primary font-semibold py-2 px-4 rounded-lg text-center transition text-sm">
+                    Voir le site web
+                  </a>
+                  {{ end }}
+                </div>
+              </div>
+              {{ end }}
+            </div>
+
+            <p class="text-xs text-gray-500 mt-6 text-center">
+              ℹ️ Ces professionnels sont indépendants et référencés automatiquement par proximité géographique.
+            </p>
+          </div>
+          {{ end }}
+
+          <!-- Map -->
+          <div class="bg-white rounded-lg shadow-lg p-8">
+            <h3 class="text-xl font-bold text-gray-900 mb-4">Zone d'Intervention</h3>
+            <div id="map" class="h-96 rounded-lg border border-gray-200"></div>
+          </div>
+        </div>
+
+        <!-- Sidebar -->
+        <div class="lg:col-span-1">
+          <!-- Contact Card -->
+          <div class="bg-gradient-to-br from-primary to-blue-700 text-white rounded-lg shadow-lg p-6 mb-6 sticky top-20">
+            <h3 class="text-xl font-bold mb-4">Urgence Électrique ?</h3>
+            <p class="mb-4 text-blue-100">Contactez-nous immédiatement pour une intervention rapide à {{ .Params.city }}.</p>
+            <a href="tel:{{ .Params.phoneRaw }}"
+               class="block w-full bg-emergency hover:bg-red-700 text-white font-bold py-4 px-6 rounded-lg text-center text-xl mb-4 transition transform hover:scale-105">
+              {{ .Params.phone }}
+            </a>
+            <div class="space-y-2 text-sm text-blue-100">
+              <p class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                </svg>
+                Disponible 24h/24
+              </p>
+              <p class="flex items-center gap-2">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+                </svg>
+                Intervention < 30min
+              </p>
+            </div>
+          </div>
+
+          <!-- Company Info -->
+          <div class="bg-white rounded-lg shadow-lg p-6">
+            <h4 class="font-bold text-gray-900 mb-3">{{ .Params.company }}</h4>
+            <div class="space-y-2 text-sm text-gray-600">
+              <p><strong>SIRET:</strong> {{ .Site.Params.siret }}</p>
+              <p><strong>{{ .Site.Params.rcs }}</strong></p>
+              <p><strong>Capital:</strong> {{ .Site.Params.capital }}</p>
+              <p class="pt-2 border-t border-gray-200">
+                {{ .Site.Params.address }}<br>
+                {{ .Site.Params.postalCode }} {{ .Site.Params.city }}
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Initialize Map -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const lat = {{ .Params.coordinates.lat }};
+    const lng = {{ .Params.coordinates.lng }};
+
+    const map = L.map('map').setView([lat, lng], 14);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    L.marker([lat, lng]).addTo(map)
+      .bindPopup('<b>{{ .Params.company }}</b><br>{{ .Params.city }}')
+      .openPopup();
+  });
+</script>
+{{ end }}

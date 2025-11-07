@@ -1,0 +1,117 @@
+{{ define "main" }}
+<!-- Breadcrumb -->
+<div class="bg-gray-100 border-b border-gray-200 py-3">
+  <div class="container mx-auto px-4">
+    <nav class="flex items-center space-x-2 text-sm">
+      <a href="/" class="text-primary hover:underline">Accueil</a>
+      <span class="text-gray-400">/</span>
+      <a href="/electricien/" class="text-primary hover:underline">Électricien</a>
+      <span class="text-gray-400">/</span>
+      <span class="text-gray-600">{{ .Title }}</span>
+    </nav>
+  </div>
+</div>
+
+<!-- Hero Section -->
+<section class="bg-gradient-to-r from-primary to-blue-700 text-white py-12">
+  <div class="container mx-auto px-4">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-3xl md:text-4xl font-bold mb-4">
+        {{ .Title }}
+      </h1>
+      <p class="text-xl mb-6 text-blue-100">
+        {{ .Params.description | default "Trouvez votre électricien d'urgence dans le département" }}
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- Stats Section -->
+{{ if .Params.stats }}
+<section class="bg-white border-b border-gray-200 py-8">
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">{{ .Params.stats.total_communes }}</div>
+        <div class="text-gray-600">Communes</div>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">{{ .Params.stats.total_electricians }}</div>
+        <div class="text-gray-600">Électriciens</div>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">24/7</div>
+        <div class="text-gray-600">Disponibilité</div>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">&lt;30min</div>
+        <div class="text-gray-600">Intervention</div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+<!-- Main Content -->
+<section class="py-12 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Top Cities -->
+      {{ if .Params.topCities }}
+      <div class="mb-12">
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">Principales Villes</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+          {{ range .Params.topCities }}
+          <a href="{{ .url }}" class="bg-white rounded-lg shadow-md hover:shadow-xl transition p-6 group">
+            <h3 class="text-xl font-bold text-gray-900 group-hover:text-primary mb-2">{{ .city }}</h3>
+            <p class="text-gray-600 text-sm mb-3">{{ .zipCode }}</p>
+            <div class="flex items-center text-primary font-semibold">
+              <span>Voir les électriciens</span>
+              <svg class="w-5 h-5 ml-2 group-hover:translate-x-1 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      <!-- All Communes -->
+      <div>
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">Toutes les Communes</h2>
+        <div class="bg-white rounded-lg shadow-lg p-6">
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {{ range .Pages.ByTitle }}
+            <a href="{{ .Permalink }}" class="flex items-center justify-between p-3 rounded hover:bg-gray-50 transition group">
+              <div>
+                <div class="font-semibold text-gray-900 group-hover:text-primary">{{ .Params.city }}</div>
+                <div class="text-sm text-gray-600">{{ .Params.zipCode }}</div>
+              </div>
+              <svg class="w-5 h-5 text-gray-400 group-hover:text-primary group-hover:translate-x-1 transition" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </a>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+
+      <!-- FAQ Section -->
+      {{ if .Params.faq }}
+      <div class="mt-12">
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">Questions Fréquentes</h2>
+        <div class="bg-white rounded-lg shadow-lg p-6 space-y-6">
+          {{ range .Params.faq }}
+          <div>
+            <h3 class="font-bold text-gray-900 mb-2">{{ .question }}</h3>
+            <p class="text-gray-700">{{ .answer }}</p>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,23 @@
+---
+title: "⚡ SOS Électricien Epinay-Sur-Seine | 24/7 93800"
+slug: "epinay-sur-seine"
+city: "EPINAY-SUR-SEINE"
+zipCode: "93800"
+department: "93"
+keyword: "SOS Électricien Epinay-Sur-Seine"
+company: "FixWatt93"
+phone: "07 56 79 95 59"
+phoneRaw: "0756799559"
+description: "SOS Électricien Epinay-Sur-Seine 93800 ⚡ Court-circuit, panne, installation. Dépannage 24h/7j. Intervention rapide. Devis gratuit. Artisan certifié FixWatt93."
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-027-hero"
+  og: "elec-027-og"
+  featured: "elec-027-featured"
+  video: "elec-027-video"
+draft: false
+---

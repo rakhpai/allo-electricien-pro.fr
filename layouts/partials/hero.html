@@ -1,0 +1,48 @@
+<section class="bg-gradient-to-r from-primary to-blue-700 text-white py-16">
+  <div class="container mx-auto px-4">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">
+        ⚡ {{ .Site.Title }}
+      </h1>
+      <p class="text-xl md:text-2xl mb-8 text-blue-100">
+        {{ .Site.Params.description }}
+      </p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+        <a href="tel:{{ .Site.Params.mainPhoneRaw }}"
+           class="bg-emergency hover:bg-red-700 text-white font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition hover:scale-105 flex items-center gap-2">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+          </svg>
+          {{ .Site.Params.mainPhone }}
+        </a>
+        <a href="#directory" class="bg-white text-primary hover:bg-gray-100 font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition hover:scale-105">
+          Trouver un Électricien
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats Section -->
+<section class="bg-white border-b border-gray-200 py-8">
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto">
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">{{ .Site.Data.sites.total_sites }}</div>
+        <div class="text-gray-600">Professionnels</div>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">{{ len .Site.Data.sites.departments }}</div>
+        <div class="text-gray-600">Départements</div>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">24/7</div>
+        <div class="text-gray-600">Disponibilité</div>
+      </div>
+      <div class="text-center">
+        <div class="text-4xl font-bold text-primary mb-2">&lt;30min</div>
+        <div class="text-gray-600">Intervention</div>
+      </div>
+    </div>
+  </div>
+</section>

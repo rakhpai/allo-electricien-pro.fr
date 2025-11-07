@@ -1,0 +1,23 @@
+---
+title: "⚡ Électricien Urgence SAINT-MAMMES | Dépannage 77670"
+slug: "saint-mammes"
+city: "SAINT-MAMMES"
+zipCode: "77670"
+department: "77"
+keyword: "Électricien Urgence SAINT-MAMMES"
+company: "SAINTMAMMESExpert"
+phone: "06 44 97 57 57"
+phoneRaw: "0644975757"
+description: "Électricien d'urgence SAINT-MAMMES 77 ⚡ Court-circuit, panne, installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-100-hero"
+  og: "elec-100-og"
+  featured: "elec-100-featured"
+  video: "elec-100-video"
+draft: false
+---

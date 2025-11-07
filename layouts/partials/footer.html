@@ -1,0 +1,59 @@
+<footer class="bg-gray-900 text-white py-12">
+  <div class="container mx-auto px-4">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+      <!-- Company Info -->
+      <div>
+        <h3 class="text-xl font-bold mb-4">⚡ {{ .Site.Params.companyName }}</h3>
+        <p class="text-gray-400 mb-2">{{ .Site.Params.description }}</p>
+        <p class="text-gray-400">
+          <strong>SIRET:</strong> {{ .Site.Params.siret }}<br>
+          <strong>{{ .Site.Params.rcs }}</strong><br>
+          Capital: {{ .Site.Params.capital }}
+        </p>
+      </div>
+
+      <!-- Quick Links -->
+      <div>
+        <h4 class="text-lg font-bold mb-4">Navigation</h4>
+        <ul class="space-y-2">
+          <li><a href="/" class="text-gray-400 hover:text-white transition">Accueil</a></li>
+          <li><a href="/#directory" class="text-gray-400 hover:text-white transition">Annuaire</a></li>
+          <li><a href="/#services" class="text-gray-400 hover:text-white transition">Services</a></li>
+          <li><a href="/#coverage" class="text-gray-400 hover:text-white transition">Zones Couvertes</a></li>
+        </ul>
+      </div>
+
+      <!-- Services -->
+      <div>
+        <h4 class="text-lg font-bold mb-4">Nos Services</h4>
+        <ul class="space-y-2 text-gray-400">
+          <li>Dépannage électrique</li>
+          <li>Installation électrique</li>
+          <li>Réparation urgente</li>
+          <li>Mise aux normes</li>
+          <li>Intervention 24h/24</li>
+        </ul>
+      </div>
+
+      <!-- Contact -->
+      <div>
+        <h4 class="text-lg font-bold mb-4">Contact</h4>
+        <p class="text-gray-400 mb-4">
+          {{ .Site.Params.address }}<br>
+          {{ .Site.Params.postalCode }} {{ .Site.Params.city }}
+        </p>
+        <a href="tel:{{ .Site.Params.mainPhoneRaw }}" class="inline-block bg-emergency hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg transition">
+          {{ .Site.Params.mainPhone }}
+        </a>
+      </div>
+    </div>
+
+    <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
+      <p>&copy; {{ now.Year }} {{ .Site.Params.companyName }}. Tous droits réservés.</p>
+      <p class="mt-2 text-sm">
+        <a href="/mentions-legales/" class="hover:text-white transition">Mentions Légales</a> |
+        <a href="/politique-confidentialite/" class="hover:text-white transition">Politique de Confidentialité</a>
+      </p>
+    </div>
+  </div>
+</footer>

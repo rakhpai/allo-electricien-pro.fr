@@ -1,0 +1,23 @@
+---
+title: "⚡ Électricien 24/7 La Queue-En-Brie | Urgent 94"
+slug: "la-queue-en-brie"
+city: "LA QUEUE-EN-BRIE"
+zipCode: "94510"
+department: "94"
+keyword: "Électricien 24/7 La queue-En-Brie 94510"
+company: "AmpèrePlus"
+phone: "06 44 64 46 99"
+phoneRaw: "0644644699"
+description: "Électricien La Queue-En-Brie 94510 ⚡ Panne électrique, installation, réparation. Dépannage 24h/7j. Intervention garantie. Devis gratuit. AmpèrePlus certifié."
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.8566
+  lng: 2.3522
+images:
+  hero: "elec-235-hero"
+  og: "elec-235-og"
+  featured: "elec-235-featured"
+  video: "elec-235-video"
+draft: false
+---
