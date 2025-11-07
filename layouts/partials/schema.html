@@ -6,7 +6,7 @@
   "@type": "Organization",
   "name": "{{ .Site.Params.companyName }}",
   "url": "{{ .Site.BaseURL }}",
-  "logo": "{{ .Site.BaseURL }}images/logo.png",
+  "logo": "{{ .Site.BaseURL }}images/logo_1.svg",
   "description": "{{ .Site.Params.description }}",
   "address": {
     "@type": "PostalAddress",
@@ -38,7 +38,7 @@
     "{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.jpg"
   ],
   {{- else }}
-  "image": "{{ .Site.BaseURL }}images/logo.png",
+  "image": "{{ .Site.BaseURL }}images/logo_1.svg",
   {{- end }}
   "description": "{{ .Params.description }}",
   "@id": "{{ .Permalink }}",
