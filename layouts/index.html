@@ -64,10 +64,16 @@
 
       <!-- Cities Grid -->
       <div id="cities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {{ range .Site.Data.sites.sites }}
-    markers.addLayer(L.marker([{{ .coordinates.lat }}, {{ .coordinates.lng }}])
-      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Voir l\'électricien</a>'));
-    {{ end }}
+        {{ range .Site.Data.sites.sites }}
+        <div class="city-card bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition"
+             data-city="{{ .city }}"
+             data-zip="{{ .zipCode }}"
+             data-dept="{{ substr .zipCode 0 2 }}">
+          <h3 class="text-xl font-bold text-gray-900 mb-2">{{ .city }}</h3>
+          <p class="text-gray-600 mb-4">{{ .zipCode }}</p>
+          <a href="{{ .url }}" class="text-primary font-semibold hover:underline">Voir l'électricien →</a>
+        </div>
+        {{ end }}
       </div>
 
       <div id="no-results" class="hidden text-center py-12">
