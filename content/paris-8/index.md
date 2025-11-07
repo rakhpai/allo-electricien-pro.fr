@@ -14,5 +14,10 @@ kwSource: "électricité"
 coordinates:
   lat: 48.8566
   lng: 2.3522
+images:
+  hero: "elec-338-hero"
+  og: "elec-338-og"
+  featured: "elec-338-featured"
+  video: "elec-338-video"
 draft: false
 ---

@@ -14,5 +14,10 @@ kwSource: "électricité"
 coordinates:
   lat: 48.8566
   lng: 2.3522
+images:
+  hero: "elec-321-hero"
+  og: "elec-321-og"
+  featured: "elec-321-featured"
+  video: "elec-321-video"
 draft: false
 ---
