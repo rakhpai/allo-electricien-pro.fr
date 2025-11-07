@@ -41,6 +41,13 @@
 <!-- Favicon -->
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
+<!-- Preload Critical Hero Images for LCP Optimization -->
+{{- if .IsHome }}
+<link rel="preload" as="image" href="/images/hero/elec-1-hero.avif" type="image/avif" fetchpriority="high">
+{{- else if .Params.images.hero }}
+<link rel="preload" as="image" href="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.avif" type="image/avif" fetchpriority="high">
+{{- end }}
+
 <!-- Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -60,10 +67,23 @@
         fontFamily: {
           sans: ['Inter', 'sans-serif'],
         },
+        height: {
+          '20': '3.2rem',
+        },
       }
     }
   }
 </script>
+<style>
+  .from-primary\/85 {
+    --tw-gradient-from: rgb(0 102 255 / 70%) var(--tw-gradient-from-position);
+    --tw-gradient-to: rgb(0 102 255 / 0) var(--tw-gradient-to-position);
+    --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+  }
+  .to-blue-700\/85 {
+    --tw-gradient-to: rgb(29 78 216 / 56%) var(--tw-gradient-to-position);
+  }
+</style>
 
 {{- if .IsHome }}
 <!-- Leaflet.js for Maps -->
