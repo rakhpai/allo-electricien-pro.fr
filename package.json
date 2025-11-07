@@ -1,7 +1,7 @@
 {
   "name": "allo-electricien-pro",
   "version": "1.0.0",
-  "description": "410 électriciens urgence IDF + Oise - AMPERE EXPRESS ELECTRICITE",
+  "description": "410 électriciens urgence IDF + Oise - Allo Électricien",
   "main": "index.js",
   "scripts": {
     "data": "node scripts/generate-data.js",
@@ -19,7 +19,7 @@
     "île-de-france",
     "oise"
   ],
-  "author": "AMPERE EXPRESS ELECTRICITE",
+  "author": "Allo Électricien",
   "license": "ISC",
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
