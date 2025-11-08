@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-268-hero"
-  og: "elec-268-og"
-  featured: "elec-268-featured"
-  video: "elec-268-video"
+  hero: "electricien-urgence-montevrain-77144-hero"
+  og: "electricien-montevrain-77144-og"
+  featured: "electricien-montevrain-77144-featured"
+  video: "electricien-montevrain-77144-video"
 draft: false
 ---

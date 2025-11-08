@@ -15,9 +15,9 @@ coordinates:
   lat: 48.899013
   lng: 2.560754
 images:
-  hero: "elec-218-hero"
-  og: "elec-218-og"
-  featured: "elec-218-featured"
-  video: "elec-218-video"
+  hero: "electricien-urgence-arnouville-95400-hero"
+  og: "electricien-arnouville-95400-og"
+  featured: "electricien-arnouville-95400-featured"
+  video: "electricien-arnouville-95400-video"
 draft: false
 ---

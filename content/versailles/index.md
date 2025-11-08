@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-008-hero"
-  og: "elec-008-og"
-  featured: "elec-008-featured"
-  video: "elec-008-video"
+  hero: "electricien-urgence-versailles-78000-hero"
+  og: "electricien-versailles-78000-og"
+  featured: "electricien-versailles-78000-featured"
+  video: "electricien-versailles-78000-video"
 draft: false
 ---

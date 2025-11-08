@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-244-hero"
-  og: "elec-244-og"
-  featured: "elec-244-featured"
-  video: "elec-244-video"
+  hero: "electricien-urgence-epinay-sur-orge-91360-hero"
+  og: "electricien-epinay-sur-orge-91360-og"
+  featured: "electricien-epinay-sur-orge-91360-featured"
+  video: "electricien-epinay-sur-orge-91360-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-055-hero"
-  og: "elec-055-og"
-  featured: "elec-055-featured"
-  video: "elec-055-video"
+  hero: "electricien-urgence-garges-les-gonesse-95140-hero"
+  og: "electricien-garges-les-gonesse-95140-og"
+  featured: "electricien-garges-les-gonesse-95140-featured"
+  video: "electricien-garges-les-gonesse-95140-video"
 draft: false
 ---

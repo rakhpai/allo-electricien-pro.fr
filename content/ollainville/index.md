@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-036-hero"
-  og: "elec-036-og"
-  featured: "elec-036-featured"
-  video: "elec-036-video"
+  hero: "electricien-urgence-ollainville-91290-hero"
+  og: "electricien-ollainville-91290-og"
+  featured: "electricien-ollainville-91290-featured"
+  video: "electricien-ollainville-91290-video"
 draft: false
 ---

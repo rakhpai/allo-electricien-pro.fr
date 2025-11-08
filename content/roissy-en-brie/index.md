@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-141-hero"
-  og: "elec-141-og"
-  featured: "elec-141-featured"
-  video: "elec-141-video"
+  hero: "electricien-urgence-roissy-en-brie-77680-hero"
+  og: "electricien-roissy-en-brie-77680-og"
+  featured: "electricien-roissy-en-brie-77680-featured"
+  video: "electricien-roissy-en-brie-77680-video"
 draft: false
 ---

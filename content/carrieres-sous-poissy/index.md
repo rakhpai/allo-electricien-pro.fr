@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-201-hero"
-  og: "elec-201-og"
-  featured: "elec-201-featured"
-  video: "elec-201-video"
+  hero: "electricien-urgence-carrieres-sous-poissy-78955-hero"
+  og: "electricien-carrieres-sous-poissy-78955-og"
+  featured: "electricien-carrieres-sous-poissy-78955-featured"
+  video: "electricien-carrieres-sous-poissy-78955-video"
 draft: false
 ---

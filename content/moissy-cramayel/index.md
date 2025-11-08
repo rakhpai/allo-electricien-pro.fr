@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-181-hero"
-  og: "elec-181-og"
-  featured: "elec-181-featured"
-  video: "elec-181-video"
+  hero: "electricien-urgence-moissy-cramayel-77550-hero"
+  og: "electricien-moissy-cramayel-77550-og"
+  featured: "electricien-moissy-cramayel-77550-featured"
+  video: "electricien-moissy-cramayel-77550-video"
 draft: false
 ---

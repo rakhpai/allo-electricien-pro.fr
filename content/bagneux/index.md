@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-059-hero"
-  og: "elec-059-og"
-  featured: "elec-059-featured"
-  video: "elec-059-video"
+  hero: "electricien-urgence-bagneux-92220-hero"
+  og: "electricien-bagneux-92220-og"
+  featured: "electricien-bagneux-92220-featured"
+  video: "electricien-bagneux-92220-video"
 draft: false
 ---

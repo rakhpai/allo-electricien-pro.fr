@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8004306
   lng: 2.9982641
 images:
-  hero: "elec-101-hero"
-  og: "elec-101-og"
-  featured: "elec-101-featured"
-  video: "elec-101-video"
+  hero: "electricien-urgence-bezons-95870-hero"
+  og: "electricien-bezons-95870-og"
+  featured: "electricien-bezons-95870-featured"
+  video: "electricien-bezons-95870-video"
 draft: false
 ---

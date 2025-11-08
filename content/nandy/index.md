@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-332-hero"
-  og: "elec-332-og"
-  featured: "elec-332-featured"
-  video: "elec-332-video"
+  hero: "electricien-urgence-nandy-77176-hero"
+  og: "electricien-nandy-77176-og"
+  featured: "electricien-nandy-77176-featured"
+  video: "electricien-nandy-77176-video"
 draft: false
 ---

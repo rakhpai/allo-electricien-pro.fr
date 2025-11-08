@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-028-hero"
-  og: "elec-028-og"
-  featured: "elec-028-featured"
-  video: "elec-028-video"
+  hero: "electricien-urgence-pantin-93500-hero"
+  og: "electricien-pantin-93500-og"
+  featured: "electricien-pantin-93500-featured"
+  video: "electricien-pantin-93500-video"
 draft: false
 ---

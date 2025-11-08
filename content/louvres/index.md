@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-255-hero"
-  og: "elec-255-og"
-  featured: "elec-255-featured"
-  video: "elec-255-video"
+  hero: "electricien-urgence-louvres-95380-hero"
+  og: "electricien-louvres-95380-og"
+  featured: "electricien-louvres-95380-featured"
+  video: "electricien-louvres-95380-video"
 draft: false
 ---

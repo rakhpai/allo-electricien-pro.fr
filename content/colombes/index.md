@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9227298
   lng: 2.2543631
 images:
-  hero: "elec-010-hero"
-  og: "elec-010-og"
-  featured: "elec-010-featured"
-  video: "elec-010-video"
+  hero: "electricien-urgence-colombes-92700-hero"
+  og: "electricien-colombes-92700-og"
+  featured: "electricien-colombes-92700-featured"
+  video: "electricien-colombes-92700-video"
 draft: false
 ---

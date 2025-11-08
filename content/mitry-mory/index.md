@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-170-hero"
-  og: "elec-170-og"
-  featured: "elec-170-featured"
-  video: "elec-170-video"
+  hero: "electricien-urgence-mitry-mory-77290-hero"
+  og: "electricien-mitry-mory-77290-og"
+  featured: "electricien-mitry-mory-77290-featured"
+  video: "electricien-mitry-mory-77290-video"
 draft: false
 ---

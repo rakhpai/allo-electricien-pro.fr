@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9802035
   lng: 2.5589558
 images:
-  hero: "elec-066-hero"
-  og: "elec-066-og"
-  featured: "elec-066-featured"
-  video: "elec-066-video"
+  hero: "electricien-urgence-tremblay-en-france-93290-hero"
+  og: "electricien-tremblay-en-france-93290-og"
+  featured: "electricien-tremblay-en-france-93290-featured"
+  video: "electricien-tremblay-en-france-93290-video"
 draft: false
 ---

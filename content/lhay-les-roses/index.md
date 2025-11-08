@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7790514
   lng: 2.3373021
 images:
-  hero: "elec-316-hero"
-  og: "elec-316-og"
-  featured: "elec-316-featured"
-  video: "elec-316-video"
+  hero: "electricien-urgence-l-hay-les-roses-94240-hero"
+  og: "electricien-l-hay-les-roses-94240-og"
+  featured: "electricien-l-hay-les-roses-94240-featured"
+  video: "electricien-l-hay-les-roses-94240-video"
 draft: false
 ---

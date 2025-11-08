@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-023-hero"
-  og: "elec-023-og"
-  featured: "elec-023-featured"
-  video: "elec-023-video"
+  hero: "electricien-urgence-sarcelles-95200-hero"
+  og: "electricien-sarcelles-95200-og"
+  featured: "electricien-sarcelles-95200-featured"
+  video: "electricien-sarcelles-95200-video"
 draft: false
 ---

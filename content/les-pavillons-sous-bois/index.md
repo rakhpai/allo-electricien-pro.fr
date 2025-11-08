@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-143-hero"
-  og: "elec-143-og"
-  featured: "elec-143-featured"
-  video: "elec-143-video"
+  hero: "electricien-urgence-les-pavillons-sous-bois-93320-hero"
+  og: "electricien-les-pavillons-sous-bois-93320-og"
+  featured: "electricien-les-pavillons-sous-bois-93320-featured"
+  video: "electricien-les-pavillons-sous-bois-93320-video"
 draft: false
 ---

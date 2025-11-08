@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-083-hero"
-  og: "elec-083-og"
-  featured: "elec-083-featured"
-  video: "elec-083-video"
+  hero: "electricien-urgence-les-mureaux-78130-hero"
+  og: "electricien-les-mureaux-78130-og"
+  featured: "electricien-les-mureaux-78130-featured"
+  video: "electricien-les-mureaux-78130-video"
 draft: false
 ---

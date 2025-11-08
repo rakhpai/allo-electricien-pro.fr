@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8279362
   lng: 2.1894241
 images:
-  hero: "elec-199-hero"
-  og: "elec-199-og"
-  featured: "elec-199-featured"
-  video: "elec-199-video"
+  hero: "electricien-urgence-carrieres-sur-seine-78420-hero"
+  og: "electricien-carrieres-sur-seine-78420-og"
+  featured: "electricien-carrieres-sur-seine-78420-featured"
+  video: "electricien-carrieres-sur-seine-78420-video"
 draft: false
 ---

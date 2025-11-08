@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-295-hero"
-  og: "elec-295-og"
-  featured: "elec-295-featured"
-  video: "elec-295-video"
+  hero: "electricien-urgence-lisses-91090-hero"
+  og: "electricien-lisses-91090-og"
+  featured: "electricien-lisses-91090-featured"
+  video: "electricien-lisses-91090-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-008-hero"
-  og: "elec-008-og"
-  featured: "elec-008-featured"
-  video: "elec-008-video"
+  hero: "electricien-urgence-menucourt-95180-hero"
+  og: "electricien-menucourt-95180-og"
+  featured: "electricien-menucourt-95180-featured"
+  video: "electricien-menucourt-95180-video"
 draft: false
 ---

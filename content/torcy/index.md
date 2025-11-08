@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-139-hero"
-  og: "elec-139-og"
-  featured: "elec-139-featured"
-  video: "elec-139-video"
+  hero: "electricien-urgence-torcy-77200-hero"
+  og: "electricien-torcy-77200-og"
+  featured: "electricien-torcy-77200-featured"
+  video: "electricien-torcy-77200-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-126-hero"
-  og: "elec-126-og"
-  featured: "elec-126-featured"
-  video: "elec-126-video"
+  hero: "electricien-urgence-les-ulis-91940-hero"
+  og: "electricien-les-ulis-91940-og"
+  featured: "electricien-les-ulis-91940-featured"
+  video: "electricien-les-ulis-91940-video"
 draft: false
 ---

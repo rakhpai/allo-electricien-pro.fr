@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-213-hero"
-  og: "elec-213-og"
-  featured: "elec-213-featured"
-  video: "elec-213-video"
+  hero: "electricien-urgence-montmagny-95360-hero"
+  og: "electricien-montmagny-95360-og"
+  featured: "electricien-montmagny-95360-featured"
+  video: "electricien-montmagny-95360-video"
 draft: false
 ---

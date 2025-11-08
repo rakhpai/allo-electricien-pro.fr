@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-022-hero"
-  og: "elec-022-og"
-  featured: "elec-022-featured"
-  video: "elec-022-video"
+  hero: "electricien-urgence-vaux-sur-seine-78740-hero"
+  og: "electricien-vaux-sur-seine-78740-og"
+  featured: "electricien-vaux-sur-seine-78740-featured"
+  video: "electricien-vaux-sur-seine-78740-video"
 draft: false
 ---

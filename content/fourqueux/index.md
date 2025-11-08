@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-057-hero"
-  og: "elec-057-og"
-  featured: "elec-057-featured"
+  hero: "elec-57-hero"
+  og: "elec-57-og"
+  featured: "elec-57-featured"
   video: "elec-057-video"
 draft: false
 ---

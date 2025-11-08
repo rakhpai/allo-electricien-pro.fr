@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-061-hero"
-  og: "elec-061-og"
-  featured: "elec-061-featured"
-  video: "elec-061-video"
+  hero: "electricien-urgence-poissy-78300-hero"
+  og: "electricien-poissy-78300-og"
+  featured: "electricien-poissy-78300-featured"
+  video: "electricien-poissy-78300-video"
 draft: false
 ---

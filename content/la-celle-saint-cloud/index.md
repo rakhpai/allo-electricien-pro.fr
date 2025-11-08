@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-149-hero"
-  og: "elec-149-og"
-  featured: "elec-149-featured"
-  video: "elec-149-video"
+  hero: "electricien-urgence-la-celle-saint-cloud-78170-hero"
+  og: "electricien-la-celle-saint-cloud-78170-og"
+  featured: "electricien-la-celle-saint-cloud-78170-featured"
+  video: "electricien-la-celle-saint-cloud-78170-video"
 draft: false
 ---

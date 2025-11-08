@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8112265
   lng: 2.3022982
 images:
-  hero: "elec-046-hero"
-  og: "elec-046-og"
-  featured: "elec-046-featured"
-  video: "elec-046-video"
+  hero: "electricien-urgence-alfortville-94140-hero"
+  og: "electricien-alfortville-94140-og"
+  featured: "electricien-alfortville-94140-featured"
+  video: "electricien-alfortville-94140-video"
 draft: false
 ---

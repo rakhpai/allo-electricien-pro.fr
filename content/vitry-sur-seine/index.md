@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-009-hero"
-  og: "elec-009-og"
-  featured: "elec-009-featured"
-  video: "elec-009-video"
+  hero: "electricien-urgence-vitry-sur-seine-94400-hero"
+  og: "electricien-vitry-sur-seine-94400-og"
+  featured: "electricien-vitry-sur-seine-94400-featured"
+  video: "electricien-vitry-sur-seine-94400-video"
 draft: false
 ---

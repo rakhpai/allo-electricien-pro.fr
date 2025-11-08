@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-031-hero"
-  og: "elec-031-og"
-  featured: "elec-031-featured"
-  video: "elec-031-video"
+  hero: "electricien-urgence-le-coudray-montceaux-91830-hero"
+  og: "electricien-le-coudray-montceaux-91830-og"
+  featured: "electricien-le-coudray-montceaux-91830-featured"
+  video: "electricien-le-coudray-montceaux-91830-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-175-hero"
-  og: "elec-175-og"
-  featured: "elec-175-featured"
-  video: "elec-175-video"
+  hero: "electricien-urgence-chennevieres-sur-marne-94430-hero"
+  og: "electricien-chennevieres-sur-marne-94430-og"
+  featured: "electricien-chennevieres-sur-marne-94430-featured"
+  video: "electricien-chennevieres-sur-marne-94430-video"
 draft: false
 ---

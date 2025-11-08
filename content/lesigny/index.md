@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-288-hero"
-  og: "elec-288-og"
-  featured: "elec-288-featured"
-  video: "elec-288-video"
+  hero: "electricien-urgence-lesigny-77150-hero"
+  og: "electricien-lesigny-77150-og"
+  featured: "electricien-lesigny-77150-featured"
+  video: "electricien-lesigny-77150-video"
 draft: false
 ---

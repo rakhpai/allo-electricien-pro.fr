@@ -22,9 +22,141 @@
     "areaServed": "FR",
     "availableLanguage": "French"
   },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "200"
+  },
   "sameAs": []
 }
 </script>
+
+<!-- LocalBusiness Schema with Enhanced Rating -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ .Site.Params.companyName }}",
+  "image": "{{ .Site.BaseURL }}images/logo_1b.svg",
+  "description": "{{ .Site.Params.description }}",
+  "@id": "{{ .Site.BaseURL }}",
+  "url": "{{ .Site.BaseURL }}",
+  "telephone": "{{ .Site.Params.mainPhone }}",
+  "priceRange": "€€",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ .Site.Params.address }}",
+    "addressLocality": "{{ .Site.Params.city }}",
+    "postalCode": "{{ .Site.Params.postalCode }}",
+    "addressCountry": "FR"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.8",
+    "bestRating": "5",
+    "worstRating": "1",
+    "ratingCount": "200",
+    "reviewCount": "200"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Paris"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Île-de-France"
+    }
+  ],
+  "serviceType": "Électricien",
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Services Électricité",
+    "itemListElement": [
+      {
+        "@type": "OfferCatalog",
+        "name": "Dépannage Urgent",
+        "description": "Intervention rapide 24h/24 pour panne électrique, court-circuit, disjoncteur"
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Installation Électrique",
+        "description": "Pose de prises, interrupteurs, luminaires, tableaux électriques"
+      },
+      {
+        "@type": "OfferCatalog",
+        "name": "Mise aux Normes",
+        "description": "Conformité NF C 15-100, diagnostic électrique, rénovation"
+      }
+    ]
+  }
+}
+</script>
+
+<!-- FAQPage Schema for SEO -->
+{{ with .Site.Data.faq }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $index, $item := . }}{{ if $index }},{{ end }}
+    {
+      "@type": "Question",
+      "name": "{{ $item.question }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ $item.answer }}"
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+{{ end }}
+
+<!-- Review Schema Examples (First 3 Testimonials) -->
+{{ range first 3 .Site.Data.testimonials }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "itemReviewed": {
+    "@type": "LocalBusiness",
+    "name": "{{ $.Site.Params.companyName }}"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": "{{ .rating }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{ .name }}"
+  },
+  "reviewBody": "{{ .text }}",
+  "datePublished": "{{ .date }}"
+}
+</script>
+{{ end }}
+
 {{- else }}
 <!-- LocalBusiness Schema for Individual Pages -->
 <script type="application/ld+json">
@@ -116,4 +248,50 @@
   ]
 }
 </script>
+
+<!-- VideoObject Schema (if video exists for this city) -->
+{{ if and .Params.slug .Site.Data.commune_videos }}
+{{ $videoData := index .Site.Data.commune_videos .Params.slug }}
+{{ if $videoData }}
+{{ $cityName := .Params.city | default .Title }}
+{{ $videoTitle := printf "Électricien d'urgence à %s" $cityName }}
+{{ $thumbnailPath := "" }}
+{{ if $videoData.thumbnail_path }}
+  {{ $thumbnailPath = printf "%s%s" .Site.BaseURL $videoData.thumbnail_path }}
+{{ else if .Params.images.hero }}
+  {{ $thumbnailPath = printf "%simages/hero/%s.jpg" .Site.BaseURL .Params.images.hero }}
+{{ end }}
+{{ $videoUrl := "" }}
+{{ if $videoData.video_mp4_compressed }}
+  {{ $videoUrl = printf "%s%s" .Site.BaseURL $videoData.video_mp4_compressed }}
+{{ else if $videoData.video_mp4 }}
+  {{ $videoUrl = printf "%s%s" .Site.BaseURL $videoData.video_mp4 }}
+{{ end }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "{{ $videoTitle }}",
+  "description": "{{ if $videoData.voiceover_script }}{{ $videoData.voiceover_script | plainify }}{{ else }}Découvrez les services d'électricien à {{ $cityName }}. Intervention rapide 24/7 pour tous vos besoins électriques.{{ end }}",
+  {{ if $thumbnailPath }}"thumbnailUrl": "{{ $thumbnailPath }}",{{ end }}
+  {{ if $videoUrl }}"contentUrl": "{{ $videoUrl }}",{{ end }}
+  {{ if $videoData.video_webm }}"embedUrl": "{{ printf "%s%s" .Site.BaseURL $videoData.video_webm }}",{{ end }}
+  "uploadDate": "{{ if $videoData.created_at }}{{ $videoData.created_at }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
+  {{ if $videoData.duration_iso }}"duration": "{{ $videoData.duration_iso }}",{{ end }}
+  "width": "1920",
+  "height": "1080",
+  {{ if $videoData.voiceover_script }}"transcript": "{{ $videoData.voiceover_script | plainify }}",{{ end }}
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.companyName }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo_1b.svg"
+    }
+  }
+}
+</script>
+{{ end }}
+{{ end }}
 {{- end }}

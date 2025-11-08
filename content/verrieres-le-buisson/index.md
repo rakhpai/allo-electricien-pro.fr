@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7606566
   lng: 2.2707085
 images:
-  hero: "elec-200-hero"
-  og: "elec-200-og"
-  featured: "elec-200-featured"
-  video: "elec-200-video"
+  hero: "electricien-urgence-verrieres-le-buisson-91370-hero"
+  og: "electricien-verrieres-le-buisson-91370-og"
+  featured: "electricien-verrieres-le-buisson-91370-featured"
+  video: "electricien-verrieres-le-buisson-91370-video"
 draft: false
 ---

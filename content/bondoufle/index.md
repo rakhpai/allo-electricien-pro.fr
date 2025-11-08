@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-257-hero"
-  og: "elec-257-og"
-  featured: "elec-257-featured"
-  video: "elec-257-video"
+  hero: "electricien-urgence-bondoufle-91070-hero"
+  og: "electricien-bondoufle-91070-og"
+  featured: "electricien-bondoufle-91070-featured"
+  video: "electricien-bondoufle-91070-video"
 draft: false
 ---

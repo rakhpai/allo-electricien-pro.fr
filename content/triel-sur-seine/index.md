@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-234-hero"
-  og: "elec-234-og"
-  featured: "elec-234-featured"
-  video: "elec-234-video"
+  hero: "electricien-urgence-triel-sur-seine-78510-hero"
+  og: "electricien-triel-sur-seine-78510-og"
+  featured: "electricien-triel-sur-seine-78510-featured"
+  video: "electricien-triel-sur-seine-78510-video"
 draft: false
 ---

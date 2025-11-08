@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-057-hero"
-  og: "elec-057-og"
-  featured: "elec-057-featured"
-  video: "elec-057-video"
+  hero: "electricien-urgence-melun-77000-hero"
+  og: "electricien-melun-77000-og"
+  featured: "electricien-melun-77000-featured"
+  video: "electricien-melun-77000-video"
 draft: false
 ---

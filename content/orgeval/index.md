@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-330-hero"
-  og: "elec-330-og"
-  featured: "elec-330-featured"
-  video: "elec-330-video"
+  hero: "electricien-urgence-orgeval-78630-hero"
+  og: "electricien-orgeval-78630-og"
+  featured: "electricien-orgeval-78630-featured"
+  video: "electricien-orgeval-78630-video"
 draft: false
 ---

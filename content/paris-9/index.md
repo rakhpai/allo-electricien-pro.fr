@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-339-hero"
-  og: "elec-339-og"
-  featured: "elec-339-featured"
-  video: "elec-339-video"
+  hero: "electricien-urgence-paris-9-75009-hero"
+  og: "electricien-paris-9-75009-og"
+  featured: "electricien-paris-9-75009-featured"
+  video: "electricien-paris-9-75009-video"
 draft: false
 ---

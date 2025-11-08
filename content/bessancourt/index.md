@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8437412
   lng: 2.219344
 images:
-  hero: "elec-300-hero"
-  og: "elec-300-og"
-  featured: "elec-300-featured"
-  video: "elec-300-video"
+  hero: "electricien-urgence-bessancourt-95550-hero"
+  og: "electricien-bessancourt-95550-og"
+  featured: "electricien-bessancourt-95550-featured"
+  video: "electricien-bessancourt-95550-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-266-hero"
-  og: "elec-266-og"
-  featured: "elec-266-featured"
-  video: "elec-266-video"
+  hero: "electricien-urgence-meulan-en-yvelines-78250-hero"
+  og: "electricien-meulan-en-yvelines-78250-og"
+  featured: "electricien-meulan-en-yvelines-78250-featured"
+  video: "electricien-meulan-en-yvelines-78250-video"
 draft: false
 ---

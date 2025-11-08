@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-174-hero"
-  og: "elec-174-og"
-  featured: "elec-174-featured"
-  video: "elec-174-video"
+  hero: "electricien-urgence-garches-92380-hero"
+  og: "electricien-garches-92380-og"
+  featured: "electricien-garches-92380-featured"
+  video: "electricien-garches-92380-video"
 draft: false
 ---

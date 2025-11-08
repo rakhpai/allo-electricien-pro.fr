@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8012045
   lng: 2.4309703
 images:
-  hero: "elec-031-hero"
-  og: "elec-031-og"
-  featured: "elec-031-featured"
-  video: "elec-031-video"
+  hero: "electricien-urgence-maisons-alfort-94700-hero"
+  og: "electricien-maisons-alfort-94700-og"
+  featured: "electricien-maisons-alfort-94700-featured"
+  video: "electricien-maisons-alfort-94700-video"
 draft: false
 ---

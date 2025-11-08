@@ -1,0 +1,63 @@
+=== EXPORT ELECTRICIANS FROM SUPABASE ===
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 1: FETCH CITIES FROM GEOGRAPHIC_LOCATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Fetched page 1: 1000 cities (total: 1000)
+  Fetched page 2: 1000 cities (total: 2000)
+  Fetched page 3: 1000 cities (total: 3000)
+  Fetched page 4: 1000 cities (total: 4000)
+  Fetched page 5: 1000 cities (total: 5000)
+  Fetched page 6: 1000 cities (total: 6000)
+  Fetched page 7: 1000 cities (total: 7000)
+  Fetched page 8: 1000 cities (total: 8000)
+  Fetched page 9: 1000 cities (total: 9000)
+  Fetched page 10: 732 cities (total: 9732)
+
+✓ Found 9732 cities in database
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 2: FETCH ELECTRICIANS FOR EACH CITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ⊘ Abancourt (abancourt): No electricians found
+  ⊘ ABANCOURT (abancourt-59265): No electricians found
+  ⊘ ABBARETZ (abbaretz-44170): No electricians found
+  ⊘ Abbecourt (abbecourt): No electricians found
+  ⊘ Abbéville-la-Rivière (abbeville-la-riviere): No electricians found
+  ⊘ Abbeville-Saint-Lucien (abbeville-saint-lucien): No electricians found
+  ⊘ ABEILHAN (abeilhan-34290): No electricians found
+  ⊘ ABLANCOURT (ablancourt-51240): No electricians found
+  ✓ Ableiges (ableiges): 1 electricians
+  ✓ Ablis (ablis): 2 electricians
+  Progress: 450/9732 cities (4.6%)
+  Progress: 2150/9732 cities (22.1%)
+  Progress: 3000/9732 cities (30.8%)
+  Progress: 3800/9732 cities (39.0%)
+  Progress: 3900/9732 cities (40.1%)
+  Progress: 5850/9732 cities (60.1%)
+  Progress: 6200/9732 cities (63.7%)
+  Progress: 9500/9732 cities (97.6%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 3: WRITE TO FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Successfully wrote to: /home/proalloelectrici/hugosource/data/commune_electricians.json
+  File size: 1338.78 KB
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EXPORT COMPLETE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Statistics:
+  Cities processed:          9732
+  Cities with electricians:  623
+  Cities skipped (no data):  9107
+  Total electricians:        2741
+  Errors:                    0
+
+
+✓ Export summary saved to: export-summary.json
+

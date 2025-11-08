@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9636566
   lng: 2.5347541
 images:
-  hero: "elec-265-hero"
-  og: "elec-265-og"
-  featured: "elec-265-featured"
-  video: "elec-265-video"
+  hero: "electricien-urgence-beaumont-sur-oise-95260-hero"
+  og: "electricien-beaumont-sur-oise-95260-og"
+  featured: "electricien-beaumont-sur-oise-95260-featured"
+  video: "electricien-beaumont-sur-oise-95260-video"
 draft: false
 ---

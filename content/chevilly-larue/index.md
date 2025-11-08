@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-171-hero"
-  og: "elec-171-og"
-  featured: "elec-171-featured"
-  video: "elec-171-video"
+  hero: "electricien-urgence-chevilly-larue-94550-hero"
+  og: "electricien-chevilly-larue-94550-og"
+  featured: "electricien-chevilly-larue-94550-featured"
+  video: "electricien-chevilly-larue-94550-video"
 draft: false
 ---

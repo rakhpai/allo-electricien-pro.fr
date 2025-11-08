@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-067-hero"
-  og: "elec-067-og"
-  featured: "elec-067-featured"
-  video: "elec-067-video"
+  hero: "electricien-urgence-sainte-genevieve-des-bois-91700-hero"
+  og: "electricien-sainte-genevieve-des-bois-91700-og"
+  featured: "electricien-sainte-genevieve-des-bois-91700-featured"
+  video: "electricien-sainte-genevieve-des-bois-91700-video"
 draft: false
 ---

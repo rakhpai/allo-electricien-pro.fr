@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-197-hero"
-  og: "elec-197-og"
-  featured: "elec-197-featured"
-  video: "elec-197-video"
+  hero: "electricien-urgence-noisiel-77186-hero"
+  og: "electricien-noisiel-77186-og"
+  featured: "electricien-noisiel-77186-featured"
+  video: "electricien-noisiel-77186-video"
 draft: false
 ---

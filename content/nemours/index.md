@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-220-hero"
-  og: "elec-220-og"
-  featured: "elec-220-featured"
-  video: "elec-220-video"
+  hero: "electricien-urgence-nemours-77140-hero"
+  og: "electricien-nemours-77140-og"
+  featured: "electricien-nemours-77140-featured"
+  video: "electricien-nemours-77140-video"
 draft: false
 ---

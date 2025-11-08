@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-290-hero"
-  og: "elec-290-og"
-  featured: "elec-290-featured"
-  video: "elec-290-video"
+  hero: "electricien-urgence-ecouen-95440-hero"
+  og: "electricien-ecouen-95440-og"
+  featured: "electricien-ecouen-95440-featured"
+  video: "electricien-ecouen-95440-video"
 draft: false
 ---

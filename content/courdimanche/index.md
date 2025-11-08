@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-312-hero"
-  og: "elec-312-og"
-  featured: "elec-312-featured"
-  video: "elec-312-video"
+  hero: "electricien-urgence-courdimanche-95800-hero"
+  og: "electricien-courdimanche-95800-og"
+  featured: "electricien-courdimanche-95800-featured"
+  video: "electricien-courdimanche-95800-video"
 draft: false
 ---

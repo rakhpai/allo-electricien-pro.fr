@@ -15,9 +15,9 @@ coordinates:
   lat: 48.6224365
   lng: 2.3518108
 images:
-  hero: "elec-261-hero"
-  og: "elec-261-og"
-  featured: "elec-261-featured"
-  video: "elec-261-video"
+  hero: "electricien-urgence-fleury-merogis-91700-hero"
+  og: "electricien-fleury-merogis-91700-og"
+  featured: "electricien-fleury-merogis-91700-featured"
+  video: "electricien-fleury-merogis-91700-video"
 draft: false
 ---

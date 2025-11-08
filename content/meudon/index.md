@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-044-hero"
-  og: "elec-044-og"
-  featured: "elec-044-featured"
-  video: "elec-044-video"
+  hero: "electricien-urgence-meudon-92190-92360-hero"
+  og: "electricien-meudon-92190-92360-og"
+  featured: "electricien-meudon-92190-92360-featured"
+  video: "electricien-meudon-92190-92360-video"
 draft: false
 ---

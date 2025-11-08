@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-189-hero"
-  og: "elec-189-og"
-  featured: "elec-189-featured"
-  video: "elec-189-video"
+  hero: "electricien-urgence-le-pecq-78230-hero"
+  og: "electricien-le-pecq-78230-og"
+  featured: "electricien-le-pecq-78230-featured"
+  video: "electricien-le-pecq-78230-video"
 draft: false
 ---

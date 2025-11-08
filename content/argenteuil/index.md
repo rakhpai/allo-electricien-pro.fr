@@ -15,9 +15,9 @@ coordinates:
   lat: 48.785641
   lng: 2.5483998
 images:
-  hero: "elec-003-hero"
-  og: "elec-003-og"
-  featured: "elec-003-featured"
-  video: "elec-003-video"
+  hero: "electricien-urgence-argenteuil-95100-hero"
+  og: "electricien-argenteuil-95100-og"
+  featured: "electricien-argenteuil-95100-featured"
+  video: "electricien-argenteuil-95100-video"
 draft: false
 ---

@@ -1,0 +1,343 @@
+<!-- NAVBAR VARIANT 1: CLASSIC PROFESSIONAL -->
+<!-- Strategy: Clean, traditional, trust-focused with prominent certifications -->
+<!-- Best for: Traditional users, desktop-heavy traffic, professional appearance -->
+
+<nav class="navbar-v1 bg-white shadow-md sticky top-0 z-50 transition-all duration-300">
+  <div class="container mx-auto px-4">
+    <div class="flex justify-between items-center h-16">
+      <!-- Logo -->
+      <div class="flex items-center">
+        <a href="/" class="flex items-center" aria-label="Allo Électricien - Accueil">
+          <img src="/images/logo_1b.svg" alt="{{ .Site.Params.companyName }} - Électriciens d'urgence 24/7" class="h-14 w-auto">
+        </a>
+      </div>
+
+      <!-- Desktop Navigation -->
+      <div class="hidden lg:flex items-center space-x-6">
+        <!-- Main Navigation Links -->
+        <a href="/#directory" class="nav-link text-gray-700 hover:text-primary transition-colors duration-200 font-medium">
+          Annuaire
+        </a>
+        <a href="/#services" class="nav-link text-gray-700 hover:text-primary transition-colors duration-200 font-medium">
+          Services
+        </a>
+        <a href="/#videos" class="nav-link text-gray-700 hover:text-primary transition-colors duration-200 font-medium flex items-center gap-1">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+            <path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"/>
+          </svg>
+          Vidéos
+        </a>
+        <a href="/#coverage" class="nav-link text-gray-700 hover:text-primary transition-colors duration-200 font-medium">
+          Zones
+        </a>
+
+        <!-- Trust Badges -->
+        <div class="flex items-center gap-2 ml-2 pl-4 border-l border-gray-200">
+          <!-- Certifié Badge -->
+          <div class="trust-badge group relative">
+            <img src="/eleclogos/certifie_icon.svg" alt="Électriciens Certifiés" class="h-8 w-auto hover:scale-110 transition-transform duration-200">
+            <div class="tooltip hidden group-hover:block absolute top-full mt-2 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-xs rounded px-2 py-1 whitespace-nowrap">
+              Certifiés NF C 15-100
+            </div>
+          </div>
+
+          <!-- 24/7 Badge -->
+          <div class="trust-badge group relative">
+            <img src="/eleclogos/247_icon.svg" alt="Service 24h/24 7j/7" class="h-8 w-auto hover:scale-110 transition-transform duration-200">
+            <div class="tooltip hidden group-hover:block absolute top-full mt-2 left-1/2 -translate-x-1/2 bg-gray-900 text-white text-xs rounded px-2 py-1 whitespace-nowrap">
+              Disponible 24/7
+            </div>
+          </div>
+        </div>
+
+        <!-- Primary CTA Button -->
+        <a href="tel:{{ .Site.Params.mainPhoneRaw }}"
+           class="cta-button bg-primary hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300 flex items-center gap-2 shadow-md hover:shadow-lg transform hover:scale-105"
+           itemscope itemtype="https://schema.org/ContactPoint">
+          <svg class="w-5 h-5 phone-ring" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+          </svg>
+          <span itemprop="telephone" content="+33144901131">{{ .Site.Params.mainPhone }}</span>
+          <meta itemprop="contactType" content="emergency">
+          <meta itemprop="areaServed" content="FR-IDF">
+          <meta itemprop="availableLanguage" content="French">
+        </a>
+      </div>
+
+      <!-- Mobile menu button -->
+      <div class="lg:hidden flex items-center gap-3">
+        <!-- Mobile Trust Badges (small) -->
+        <div class="hidden sm:flex items-center gap-1.5">
+          <img src="/eleclogos/certifie_icon.svg" alt="Certifié" class="h-6 w-auto">
+          <img src="/eleclogos/247_icon.svg" alt="24/7" class="h-6 w-auto">
+        </div>
+
+        <!-- Hamburger Button -->
+        <button id="mobile-menu-button-v1"
+                class="text-gray-700 hover:text-primary focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded p-2 transition-colors"
+                aria-label="Menu de navigation"
+                aria-expanded="false">
+          <svg class="w-6 h-6 hamburger-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path class="line line-1" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16"/>
+            <path class="line line-2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 12h16"/>
+            <path class="line line-3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 18h16"/>
+          </svg>
+        </button>
+      </div>
+    </div>
+
+    <!-- Mobile menu (slide-in from right) -->
+    <div id="mobile-menu-v1"
+         class="mobile-menu-v1 fixed inset-y-0 right-0 w-80 bg-white shadow-2xl transform translate-x-full transition-transform duration-300 ease-in-out lg:hidden overflow-y-auto z-50">
+      <!-- Mobile Menu Header -->
+      <div class="flex items-center justify-between p-4 border-b border-gray-200">
+        <div class="flex items-center gap-2">
+          <img src="/eleclogos/logoicon-9.svg" alt="{{ .Site.Params.companyName }}" class="h-10 w-10">
+          <span class="font-bold text-gray-900">Menu</span>
+        </div>
+        <button id="mobile-menu-close-v1"
+                class="text-gray-700 hover:text-primary p-2 rounded-full hover:bg-gray-100 transition"
+                aria-label="Fermer le menu">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+
+      <!-- Mobile Navigation Links -->
+      <div class="p-4 space-y-1">
+        <a href="/#directory" class="mobile-nav-link block py-3 px-4 text-gray-700 hover:bg-primary hover:text-white rounded-lg transition-all duration-200 font-medium">
+          📍 Annuaire
+        </a>
+        <a href="/#services" class="mobile-nav-link block py-3 px-4 text-gray-700 hover:bg-primary hover:text-white rounded-lg transition-all duration-200 font-medium">
+          🔧 Services
+        </a>
+        <a href="/#videos" class="mobile-nav-link block py-3 px-4 text-gray-700 hover:bg-primary hover:text-white rounded-lg transition-all duration-200 font-medium">
+          🎥 Vidéos
+        </a>
+        <a href="/#coverage" class="mobile-nav-link block py-3 px-4 text-gray-700 hover:bg-primary hover:text-white rounded-lg transition-all duration-200 font-medium">
+          🗺️ Zones
+        </a>
+      </div>
+
+      <!-- Mobile Trust Section -->
+      <div class="p-4 border-t border-gray-200">
+        <div class="grid grid-cols-2 gap-3 mb-4">
+          <div class="flex flex-col items-center p-3 bg-blue-50 rounded-lg">
+            <img src="/eleclogos/certifie_icon.svg" alt="Certifié" class="h-10 w-auto mb-1">
+            <span class="text-xs text-gray-700 font-medium text-center">Certifiés<br>NF C 15-100</span>
+          </div>
+          <div class="flex flex-col items-center p-3 bg-blue-50 rounded-lg">
+            <img src="/eleclogos/247_icon.svg" alt="24/7" class="h-10 w-auto mb-1">
+            <span class="text-xs text-gray-700 font-medium text-center">Disponible<br>24h/24 7j/7</span>
+          </div>
+        </div>
+
+        <!-- Mobile CTA Button -->
+        <a href="tel:{{ .Site.Params.mainPhoneRaw }}"
+           class="block w-full bg-emergency hover:bg-red-700 text-white font-bold py-4 px-6 rounded-lg text-center transition-all duration-300 shadow-lg flex items-center justify-center gap-2">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+          </svg>
+          <span>{{ .Site.Params.mainPhone }}</span>
+        </a>
+        <p class="text-center text-xs text-gray-600 mt-2">Appel gratuit • Intervention &lt;30min</p>
+      </div>
+
+      <!-- Mobile Footer Info -->
+      <div class="p-4 bg-gray-50 text-center text-xs text-gray-600">
+        <p class="font-semibold text-primary mb-1">410 Électriciens</p>
+        <p>Île-de-France & Oise</p>
+      </div>
+    </div>
+
+    <!-- Mobile Menu Overlay -->
+    <div id="mobile-menu-overlay-v1"
+         class="mobile-menu-overlay-v1 fixed inset-0 bg-black bg-opacity-50 hidden lg:hidden z-40 transition-opacity duration-300"
+         onclick="closeMobileMenuV1()">
+    </div>
+  </div>
+</nav>
+
+<!-- Variant 1 Specific Styles -->
+<style>
+  /* Navbar V1 Animations */
+  .navbar-v1 .phone-ring {
+    animation: phoneRing 2s ease-in-out infinite;
+  }
+
+  @keyframes phoneRing {
+    0%, 100% { transform: rotate(0deg); }
+    10%, 30% { transform: rotate(-10deg); }
+    20% { transform: rotate(10deg); }
+  }
+
+  /* Nav Links Hover Effect */
+  .navbar-v1 .nav-link {
+    position: relative;
+  }
+
+  .navbar-v1 .nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%) scaleX(0);
+    width: 80%;
+    height: 2px;
+    background: #0066FF;
+    transition: transform 0.3s ease;
+  }
+
+  .navbar-v1 .nav-link:hover::after {
+    transform: translateX(-50%) scaleX(1);
+  }
+
+  /* Trust Badge Tooltip */
+  .trust-badge .tooltip {
+    z-index: 1000;
+    animation: tooltipFadeIn 0.2s ease-out;
+  }
+
+  @keyframes tooltipFadeIn {
+    from {
+      opacity: 0;
+      transform: translateX(-50%) translateY(-5px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(-50%) translateY(0);
+    }
+  }
+
+  /* Mobile Menu Slide Animation */
+  .mobile-menu-v1.active {
+    transform: translateX(0);
+  }
+
+  .mobile-menu-overlay-v1.active {
+    display: block;
+    animation: fadeIn 0.3s ease-out;
+  }
+
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+
+  /* Mobile Nav Link Animation */
+  .mobile-nav-link {
+    animation: slideInRight 0.3s ease-out;
+  }
+
+  @keyframes slideInRight {
+    from {
+      opacity: 0;
+      transform: translateX(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+
+  /* Hamburger to X Animation */
+  .hamburger-icon .line {
+    transition: all 0.3s ease;
+    transform-origin: center;
+  }
+
+  .hamburger-icon.active .line-1 {
+    transform: translateY(6px) rotate(45deg);
+  }
+
+  .hamburger-icon.active .line-2 {
+    opacity: 0;
+  }
+
+  .hamburger-icon.active .line-3 {
+    transform: translateY(-6px) rotate(-45deg);
+  }
+
+  /* CTA Button Pulse Effect */
+  .cta-button {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cta-button::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s ease, height 0.6s ease;
+  }
+
+  .cta-button:hover::before {
+    width: 300px;
+    height: 300px;
+  }
+</style>
+
+<!-- Variant 1 Specific JavaScript -->
+<script>
+  (function() {
+    // Mobile Menu Toggle for V1
+    const menuButton = document.getElementById('mobile-menu-button-v1');
+    const mobileMenu = document.getElementById('mobile-menu-v1');
+    const menuOverlay = document.getElementById('mobile-menu-overlay-v1');
+    const menuClose = document.getElementById('mobile-menu-close-v1');
+    const hamburgerIcon = menuButton?.querySelector('.hamburger-icon');
+
+    function openMobileMenuV1() {
+      mobileMenu?.classList.add('active');
+      menuOverlay?.classList.add('active');
+      menuOverlay?.classList.remove('hidden');
+      hamburgerIcon?.classList.add('active');
+      document.body.style.overflow = 'hidden';
+      menuButton?.setAttribute('aria-expanded', 'true');
+    }
+
+    function closeMobileMenuV1() {
+      mobileMenu?.classList.remove('active');
+      menuOverlay?.classList.remove('active');
+      setTimeout(() => menuOverlay?.classList.add('hidden'), 300);
+      hamburgerIcon?.classList.remove('active');
+      document.body.style.overflow = '';
+      menuButton?.setAttribute('aria-expanded', 'false');
+    }
+
+    // Make closeMobileMenuV1 globally accessible for overlay onclick
+    window.closeMobileMenuV1 = closeMobileMenuV1;
+
+    menuButton?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      if (mobileMenu?.classList.contains('active')) {
+        closeMobileMenuV1();
+      } else {
+        openMobileMenuV1();
+      }
+    });
+
+    menuClose?.addEventListener('click', closeMobileMenuV1);
+
+    // Close menu on link click
+    document.querySelectorAll('.mobile-nav-link').forEach(link => {
+      link.addEventListener('click', () => {
+        setTimeout(closeMobileMenuV1, 300);
+      });
+    });
+
+    // Close on Escape key
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && mobileMenu?.classList.contains('active')) {
+        closeMobileMenuV1();
+      }
+    });
+  })();
+</script>

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-025-hero"
-  og: "elec-025-og"
-  featured: "elec-025-featured"
-  video: "elec-025-video"
+  hero: "electricien-urgence-cergy-95000-95800-hero"
+  og: "electricien-cergy-95000-95800-og"
+  featured: "electricien-cergy-95000-95800-featured"
+  video: "electricien-cergy-95000-95800-video"
 draft: false
 ---

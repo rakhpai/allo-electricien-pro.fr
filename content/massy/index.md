@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-049-hero"
-  og: "elec-049-og"
-  featured: "elec-049-featured"
-  video: "elec-049-video"
+  hero: "electricien-urgence-massy-91300-hero"
+  og: "electricien-massy-91300-og"
+  featured: "electricien-massy-91300-featured"
+  video: "electricien-massy-91300-video"
 draft: false
 ---

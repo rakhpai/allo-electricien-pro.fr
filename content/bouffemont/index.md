@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-327-hero"
-  og: "elec-327-og"
-  featured: "elec-327-featured"
-  video: "elec-327-video"
+  hero: "electricien-urgence-bouffemont-95570-hero"
+  og: "electricien-bouffemont-95570-og"
+  featured: "electricien-bouffemont-95570-featured"
+  video: "electricien-bouffemont-95570-video"
 draft: false
 ---

@@ -1,6 +1,9 @@
 {{ define "main" }}
 {{ partial "hero.html" . }}
 
+<!-- Featured Videos Section -->
+{{ partial "featured-videos.html" . }}
+
 <!-- Services Section -->
 <section id="services" class="py-16 bg-gray-50">
   <div class="container mx-auto px-4">
@@ -65,13 +68,38 @@
       <!-- Cities Grid -->
       <div id="cities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {{ range .Site.Data.sites.sites }}
+        {{ $citySlug := .citySlug }}
+        {{ $hasVideo := false }}
+        {{ if and $citySlug $.Site.Data.commune_videos }}
+          {{ if index $.Site.Data.commune_videos $citySlug }}
+            {{ $hasVideo = true }}
+          {{ end }}
+        {{ end }}
         <div class="city-card bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition"
              data-city="{{ .city }}"
              data-zip="{{ .zipCode }}"
-             data-dept="{{ substr .zipCode 0 2 }}">
-          <h3 class="text-xl font-bold text-gray-900 mb-2">{{ .city }}</h3>
+             data-dept="{{ substr .zipCode 0 2 }}"
+             data-has-video="{{ $hasVideo }}">
+          <div class="flex items-start justify-between mb-2">
+            <h3 class="text-xl font-bold text-gray-900 flex-1">{{ .city }}</h3>
+            {{ if $hasVideo }}
+            <div class="ml-2 flex-shrink-0">
+              <span class="inline-flex items-center gap-1 bg-red-100 text-red-700 text-xs font-semibold px-2 py-1 rounded-full" title="Vidéo disponible">
+                <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"/>
+                </svg>
+                Vidéo
+              </span>
+            </div>
+            {{ end }}
+          </div>
           <p class="text-gray-600 mb-4">{{ .zipCode }}</p>
-          <a href="{{ .url }}" class="text-primary font-semibold hover:underline">Voir l'électricien →</a>
+          <a href="{{ .url }}" class="text-primary font-semibold hover:underline inline-flex items-center gap-1">
+            Voir l'électricien
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </a>
         </div>
         {{ end }}
       </div>

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-107-hero"
-  og: "elec-107-og"
-  featured: "elec-107-featured"
-  video: "elec-107-video"
+  hero: "electricien-urgence-ermont-95120-hero"
+  og: "electricien-ermont-95120-og"
+  featured: "electricien-ermont-95120-featured"
+  video: "electricien-ermont-95120-video"
 draft: false
 ---

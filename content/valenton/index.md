@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-229-hero"
-  og: "elec-229-og"
-  featured: "elec-229-featured"
-  video: "elec-229-video"
+  hero: "electricien-urgence-valenton-94460-hero"
+  og: "electricien-valenton-94460-og"
+  featured: "electricien-valenton-94460-featured"
+  video: "electricien-valenton-94460-video"
 draft: false
 ---

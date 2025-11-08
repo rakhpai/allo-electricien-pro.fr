@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-233-hero"
-  og: "elec-233-og"
-  featured: "elec-233-featured"
-  video: "elec-233-video"
+  hero: "electricien-urgence-voisins-le-bretonneux-78960-hero"
+  og: "electricien-voisins-le-bretonneux-78960-og"
+  featured: "electricien-voisins-le-bretonneux-78960-featured"
+  video: "electricien-voisins-le-bretonneux-78960-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8620481
   lng: 2.0183226
 images:
-  hero: "elec-007-hero"
-  og: "elec-007-og"
-  featured: "elec-007-featured"
-  video: "elec-007-video"
+  hero: "electricien-urgence-buc-78530-hero"
+  og: "electricien-buc-78530-og"
+  featured: "electricien-buc-78530-featured"
+  video: "electricien-buc-78530-video"
 draft: false
 ---

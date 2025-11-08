@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-043-hero"
-  og: "elec-043-og"
-  featured: "elec-043-featured"
-  video: "elec-043-video"
+  hero: "electricien-urgence-mormant-77720-hero"
+  og: "electricien-mormant-77720-og"
+  featured: "electricien-mormant-77720-featured"
+  video: "electricien-mormant-77720-video"
 draft: false
 ---

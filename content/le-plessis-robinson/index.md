@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-104-hero"
-  og: "elec-104-og"
-  featured: "elec-104-featured"
-  video: "elec-104-video"
+  hero: "electricien-urgence-le-plessis-robinson-92350-hero"
+  og: "electricien-le-plessis-robinson-92350-og"
+  featured: "electricien-le-plessis-robinson-92350-featured"
+  video: "electricien-le-plessis-robinson-92350-video"
 draft: false
 ---

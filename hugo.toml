@@ -24,6 +24,24 @@ title = "Allo Électricien - 410 Électriciens d'Urgence Île-de-France & Oise"
   # SEO
   keywords = "électricien urgence, dépannage électrique, panne électricité, électricien 24/7, réparation électrique, installation électrique"
 
+  # Video Configuration
+  [params.video]
+    # Local video paths (relative to static/)
+    basePathLocal = "/videos-downloaded"
+    # Thumbnail paths (when available)
+    thumbnailPath = "/images/video"
+    # Video formats priority (WebM first for better compression)
+    preferredFormat = "webm"
+    # Enable/disable video player
+    enabled = true
+    # Preload strategy: "none", "metadata", "auto"
+    preload = "metadata"
+    # Video player controls
+    showControls = true
+    playsinline = true
+    muted = false
+    autoplay = false
+
 [permalinks]
   pages = "/:slug/"
 

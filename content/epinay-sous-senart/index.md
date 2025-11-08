@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-227-hero"
-  og: "elec-227-og"
-  featured: "elec-227-featured"
-  video: "elec-227-video"
+  hero: "electricien-urgence-epinay-sous-senart-91860-hero"
+  og: "electricien-epinay-sous-senart-91860-og"
+  featured: "electricien-epinay-sous-senart-91860-featured"
+  video: "electricien-epinay-sous-senart-91860-video"
 draft: false
 ---

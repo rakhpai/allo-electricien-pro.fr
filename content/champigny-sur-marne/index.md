@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-015-hero"
-  og: "elec-015-og"
-  featured: "elec-015-featured"
-  video: "elec-015-video"
+  hero: "electricien-urgence-champigny-sur-marne-94500-hero"
+  og: "electricien-champigny-sur-marne-94500-og"
+  featured: "electricien-champigny-sur-marne-94500-featured"
+  video: "electricien-champigny-sur-marne-94500-video"
 draft: false
 ---

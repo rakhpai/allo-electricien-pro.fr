@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-305-hero"
-  og: "elec-305-og"
-  featured: "elec-305-featured"
-  video: "elec-305-video"
+  hero: "electricien-urgence-gargenville-78440-hero"
+  og: "electricien-gargenville-78440-og"
+  featured: "electricien-gargenville-78440-featured"
+  video: "electricien-gargenville-78440-video"
 draft: false
 ---

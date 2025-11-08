@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-242-hero"
-  og: "elec-242-og"
-  featured: "elec-242-featured"
-  video: "elec-242-video"
+  hero: "electricien-urgence-persan-95340-hero"
+  og: "electricien-persan-95340-og"
+  featured: "electricien-persan-95340-featured"
+  video: "electricien-persan-95340-video"
 draft: false
 ---

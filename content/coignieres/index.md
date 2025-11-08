@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-038-hero"
-  og: "elec-038-og"
-  featured: "elec-038-featured"
-  video: "elec-038-video"
+  hero: "electricien-urgence-coignieres-78310-hero"
+  og: "electricien-coignieres-78310-og"
+  featured: "electricien-coignieres-78310-featured"
+  video: "electricien-coignieres-78310-video"
 draft: false
 ---

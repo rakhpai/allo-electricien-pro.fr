@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-211-hero"
-  og: "elec-211-og"
-  featured: "elec-211-featured"
-  video: "elec-211-video"
+  hero: "electricien-urgence-saint-maurice-94410-hero"
+  og: "electricien-saint-maurice-94410-og"
+  featured: "electricien-saint-maurice-94410-featured"
+  video: "electricien-saint-maurice-94410-video"
 draft: false
 ---

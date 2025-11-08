@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-027-hero"
-  og: "elec-027-og"
-  featured: "elec-027-featured"
-  video: "elec-027-video"
+  hero: "electricien-urgence-l-etang-la-ville-78620-hero"
+  og: "electricien-l-etang-la-ville-78620-og"
+  featured: "electricien-l-etang-la-ville-78620-featured"
+  video: "electricien-l-etang-la-ville-78620-video"
 draft: false
 ---

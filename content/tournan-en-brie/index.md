@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-276-hero"
-  og: "elec-276-og"
-  featured: "elec-276-featured"
-  video: "elec-276-video"
+  hero: "electricien-urgence-tournan-en-brie-77220-hero"
+  og: "electricien-tournan-en-brie-77220-og"
+  featured: "electricien-tournan-en-brie-77220-featured"
+  video: "electricien-tournan-en-brie-77220-video"
 draft: false
 ---

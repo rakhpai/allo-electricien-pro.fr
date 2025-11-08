@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-172-hero"
-  og: "elec-172-og"
-  featured: "elec-172-featured"
-  video: "elec-172-video"
+  hero: "electricien-urgence-chilly-mazarin-91380-hero"
+  og: "electricien-chilly-mazarin-91380-og"
+  featured: "electricien-chilly-mazarin-91380-featured"
+  video: "electricien-chilly-mazarin-91380-video"
 draft: false
 ---

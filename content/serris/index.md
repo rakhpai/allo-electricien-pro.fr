@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-287-hero"
-  og: "elec-287-og"
-  featured: "elec-287-featured"
-  video: "elec-287-video"
+  hero: "electricien-urgence-serris-77700-hero"
+  og: "electricien-serris-77700-og"
+  featured: "electricien-serris-77700-featured"
+  video: "electricien-serris-77700-video"
 draft: false
 ---

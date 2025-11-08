@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-301-hero"
-  og: "elec-301-og"
-  featured: "elec-301-featured"
-  video: "elec-301-video"
+  hero: "electricien-urgence-vert-saint-denis-77240-hero"
+  og: "electricien-vert-saint-denis-77240-og"
+  featured: "electricien-vert-saint-denis-77240-featured"
+  video: "electricien-vert-saint-denis-77240-video"
 draft: false
 ---

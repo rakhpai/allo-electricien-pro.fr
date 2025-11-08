@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-125-hero"
-  og: "elec-125-og"
-  featured: "elec-125-featured"
-  video: "elec-125-video"
+  hero: "electricien-urgence-villeneuve-la-garenne-92390-hero"
+  og: "electricien-villeneuve-la-garenne-92390-og"
+  featured: "electricien-villeneuve-la-garenne-92390-featured"
+  video: "electricien-villeneuve-la-garenne-92390-video"
 draft: false
 ---

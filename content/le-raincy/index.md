@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-215-hero"
-  og: "elec-215-og"
-  featured: "elec-215-featured"
-  video: "elec-215-video"
+  hero: "electricien-urgence-le-raincy-93340-hero"
+  og: "electricien-le-raincy-93340-og"
+  featured: "electricien-le-raincy-93340-featured"
+  video: "electricien-le-raincy-93340-video"
 draft: false
 ---

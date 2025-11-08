@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-297-hero"
-  og: "elec-297-og"
-  featured: "elec-297-featured"
-  video: "elec-297-video"
+  hero: "electricien-urgence-paray-vieille-poste-91550-hero"
+  og: "electricien-paray-vieille-poste-91550-og"
+  featured: "electricien-paray-vieille-poste-91550-featured"
+  video: "electricien-paray-vieille-poste-91550-video"
 draft: false
 ---

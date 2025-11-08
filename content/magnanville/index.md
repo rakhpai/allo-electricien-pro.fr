@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-331-hero"
-  og: "elec-331-og"
-  featured: "elec-331-featured"
-  video: "elec-331-video"
+  hero: "electricien-urgence-magnanville-78200-hero"
+  og: "electricien-magnanville-78200-og"
+  featured: "electricien-magnanville-78200-featured"
+  video: "electricien-magnanville-78200-video"
 draft: false
 ---

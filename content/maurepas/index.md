@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-168-hero"
-  og: "elec-168-og"
-  featured: "elec-168-featured"
-  video: "elec-168-video"
+  hero: "electricien-urgence-maurepas-78310-hero"
+  og: "electricien-maurepas-78310-og"
+  featured: "electricien-maurepas-78310-featured"
+  video: "electricien-maurepas-78310-video"
 draft: false
 ---

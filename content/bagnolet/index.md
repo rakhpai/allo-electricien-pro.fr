@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-068-hero"
-  og: "elec-068-og"
-  featured: "elec-068-featured"
-  video: "elec-068-video"
+  hero: "electricien-urgence-bagnolet-93170-hero"
+  og: "electricien-bagnolet-93170-og"
+  featured: "electricien-bagnolet-93170-featured"
+  video: "electricien-bagnolet-93170-video"
 draft: false
 ---

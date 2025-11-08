@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-138-hero"
-  og: "elec-138-og"
-  featured: "elec-138-featured"
-  video: "elec-138-video"
+  hero: "electricien-urgence-maisons-laffitte-78600-hero"
+  og: "electricien-maisons-laffitte-78600-og"
+  featured: "electricien-maisons-laffitte-78600-featured"
+  video: "electricien-maisons-laffitte-78600-video"
 draft: false
 ---

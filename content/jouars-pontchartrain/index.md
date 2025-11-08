@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-009-hero"
-  og: "elec-009-og"
-  featured: "elec-009-featured"
-  video: "elec-009-video"
+  hero: "electricien-urgence-jouars-pontchartrain-78760-hero"
+  og: "electricien-jouars-pontchartrain-78760-og"
+  featured: "electricien-jouars-pontchartrain-78760-featured"
+  video: "electricien-jouars-pontchartrain-78760-video"
 draft: false
 ---

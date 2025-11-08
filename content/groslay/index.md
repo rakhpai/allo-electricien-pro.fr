@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-271-hero"
-  og: "elec-271-og"
-  featured: "elec-271-featured"
-  video: "elec-271-video"
+  hero: "electricien-urgence-groslay-95410-hero"
+  og: "electricien-groslay-95410-og"
+  featured: "electricien-groslay-95410-featured"
+  video: "electricien-groslay-95410-video"
 draft: false
 ---

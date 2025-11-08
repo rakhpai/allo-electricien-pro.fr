@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-071-hero"
-  og: "elec-071-og"
-  featured: "elec-071-featured"
-  video: "elec-071-video"
+  hero: "electricien-urgence-montigny-le-bretonneux-78180-hero"
+  og: "electricien-montigny-le-bretonneux-78180-og"
+  featured: "electricien-montigny-le-bretonneux-78180-featured"
+  video: "electricien-montigny-le-bretonneux-78180-video"
 draft: false
 ---

@@ -22,9 +22,29 @@
 <meta property="og:image:secure_url" content="{{ .Site.BaseURL }}images/og/{{ .Params.images.og }}.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="{{ .Params.title | default .Title }}">
+<meta property="og:image:alt" content="Service électricien professionnel {{ .Params.city | title }} {{ .Params.zipCode }}">
 <meta property="og:image:type" content="image/jpeg">
 {{- end }}
+
+<!-- Video Open Graph Tags (if video exists for this page) -->
+{{ if and .Params.slug .Site.Data.commune_videos }}
+{{ $videoData := index .Site.Data.commune_videos .Params.slug }}
+{{ if $videoData }}
+{{ $videoUrl := "" }}
+{{ if $videoData.video_mp4_compressed }}
+  {{ $videoUrl = printf "%s%s" .Site.BaseURL $videoData.video_mp4_compressed }}
+{{ else if $videoData.video_mp4 }}
+  {{ $videoUrl = printf "%s%s" .Site.BaseURL $videoData.video_mp4 }}
+{{ end }}
+{{ if $videoUrl }}
+<meta property="og:video" content="{{ $videoUrl }}">
+<meta property="og:video:secure_url" content="{{ $videoUrl }}">
+<meta property="og:video:type" content="video/mp4">
+<meta property="og:video:width" content="1920">
+<meta property="og:video:height" content="1080">
+{{ end }}
+{{ end }}
+{{ end }}
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
@@ -39,6 +59,7 @@
 <link rel="canonical" href="{{ .Permalink }}">
 
 <!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="/images/logo_1.svg">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
 <!-- Preload Critical Hero Images for LCP Optimization -->

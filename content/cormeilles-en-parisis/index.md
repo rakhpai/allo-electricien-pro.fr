@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-135-hero"
-  og: "elec-135-og"
-  featured: "elec-135-featured"
-  video: "elec-135-video"
+  hero: "electricien-urgence-cormeilles-en-parisis-95240-hero"
+  og: "electricien-cormeilles-en-parisis-95240-og"
+  featured: "electricien-cormeilles-en-parisis-95240-featured"
+  video: "electricien-cormeilles-en-parisis-95240-video"
 draft: false
 ---

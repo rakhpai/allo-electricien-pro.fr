@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-321-hero"
-  og: "elec-321-og"
-  featured: "elec-321-featured"
-  video: "elec-321-video"
+  hero: "electricien-urgence-saint-thibault-des-vignes-77400-hero"
+  og: "electricien-saint-thibault-des-vignes-77400-og"
+  featured: "electricien-saint-thibault-des-vignes-77400-featured"
+  video: "electricien-saint-thibault-des-vignes-77400-video"
 draft: false
 ---

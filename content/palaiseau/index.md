@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-085-hero"
-  og: "elec-085-og"
-  featured: "elec-085-featured"
-  video: "elec-085-video"
+  hero: "electricien-urgence-palaiseau-91120-hero"
+  og: "electricien-palaiseau-91120-og"
+  featured: "electricien-palaiseau-91120-featured"
+  video: "electricien-palaiseau-91120-video"
 draft: false
 ---

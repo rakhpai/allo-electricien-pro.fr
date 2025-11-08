@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-097-hero"
-  og: "elec-097-og"
-  featured: "elec-097-featured"
-  video: "elec-097-video"
+  hero: "electricien-urgence-savigny-le-temple-77176-hero"
+  og: "electricien-savigny-le-temple-77176-og"
+  featured: "electricien-savigny-le-temple-77176-featured"
+  video: "electricien-savigny-le-temple-77176-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-072-hero"
-  og: "elec-072-og"
-  featured: "elec-072-featured"
-  video: "elec-072-video"
+  hero: "electricien-urgence-franconville-95130-hero"
+  og: "electricien-franconville-95130-og"
+  featured: "electricien-franconville-95130-featured"
+  video: "electricien-franconville-95130-video"
 draft: false
 ---

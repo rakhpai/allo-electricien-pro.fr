@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-026-hero"
-  og: "elec-026-og"
-  featured: "elec-026-featured"
-  video: "elec-026-video"
+  hero: "electricien-urgence-saint-cheron-91530-hero"
+  og: "electricien-saint-cheron-91530-og"
+  featured: "electricien-saint-cheron-91530-featured"
+  video: "electricien-saint-cheron-91530-video"
 draft: false
 ---

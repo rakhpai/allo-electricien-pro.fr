@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-124-hero"
-  og: "elec-124-og"
-  featured: "elec-124-featured"
-  video: "elec-124-video"
+  hero: "electricien-urgence-montfermeil-93370-hero"
+  og: "electricien-montfermeil-93370-og"
+  featured: "electricien-montfermeil-93370-featured"
+  video: "electricien-montfermeil-93370-video"
 draft: false
 ---

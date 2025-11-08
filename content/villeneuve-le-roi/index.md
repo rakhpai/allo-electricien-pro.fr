@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-173-hero"
-  og: "elec-173-og"
-  featured: "elec-173-featured"
-  video: "elec-173-video"
+  hero: "electricien-urgence-villeneuve-le-roi-94290-hero"
+  og: "electricien-villeneuve-le-roi-94290-og"
+  featured: "electricien-villeneuve-le-roi-94290-featured"
+  video: "electricien-villeneuve-le-roi-94290-video"
 draft: false
 ---

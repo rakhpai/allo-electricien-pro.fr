@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-335-hero"
-  og: "elec-335-og"
-  featured: "elec-335-featured"
-  video: "elec-335-video"
+  hero: "electricien-urgence-chevreuse-78460-hero"
+  og: "electricien-chevreuse-78460-og"
+  featured: "electricien-chevreuse-78460-featured"
+  video: "electricien-chevreuse-78460-video"
 draft: false
 ---

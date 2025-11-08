@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-087-hero"
-  og: "elec-087-og"
-  featured: "elec-087-featured"
-  video: "elec-087-video"
+  hero: "electricien-urgence-chatou-78400-hero"
+  og: "electricien-chatou-78400-og"
+  featured: "electricien-chatou-78400-featured"
+  video: "electricien-chatou-78400-video"
 draft: false
 ---

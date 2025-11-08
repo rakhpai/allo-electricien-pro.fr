@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-246-hero"
-  og: "elec-246-og"
-  featured: "elec-246-featured"
-  video: "elec-246-video"
+  hero: "electricien-urgence-dourdan-91410-hero"
+  og: "electricien-dourdan-91410-og"
+  featured: "electricien-dourdan-91410-featured"
+  video: "electricien-dourdan-91410-video"
 draft: false
 ---

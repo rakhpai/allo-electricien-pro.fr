@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-167-hero"
-  og: "elec-167-og"
-  featured: "elec-167-featured"
-  video: "elec-167-video"
+  hero: "electricien-urgence-montigny-les-cormeilles-95370-hero"
+  og: "electricien-montigny-les-cormeilles-95370-og"
+  featured: "electricien-montigny-les-cormeilles-95370-featured"
+  video: "electricien-montigny-les-cormeilles-95370-video"
 draft: false
 ---

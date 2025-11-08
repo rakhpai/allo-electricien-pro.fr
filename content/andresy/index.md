@@ -15,9 +15,9 @@ coordinates:
   lat: 48.3891
   lng: 2.8468534
 images:
-  hero: "elec-226-hero"
-  og: "elec-226-og"
-  featured: "elec-226-featured"
-  video: "elec-226-video"
+  hero: "electricien-urgence-andresy-78570-hero"
+  og: "electricien-andresy-78570-og"
+  featured: "electricien-andresy-78570-featured"
+  video: "electricien-andresy-78570-video"
 draft: false
 ---

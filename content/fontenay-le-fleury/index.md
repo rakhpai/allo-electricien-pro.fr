@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-221-hero"
-  og: "elec-221-og"
-  featured: "elec-221-featured"
-  video: "elec-221-video"
+  hero: "electricien-urgence-fontenay-le-fleury-78330-hero"
+  og: "electricien-fontenay-le-fleury-78330-og"
+  featured: "electricien-fontenay-le-fleury-78330-featured"
+  video: "electricien-fontenay-le-fleury-78330-video"
 draft: false
 ---

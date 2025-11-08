@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-064-hero"
-  og: "elec-064-og"
-  featured: "elec-064-featured"
-  video: "elec-064-video"
+  hero: "electricien-urgence-pontault-combault-77340-hero"
+  og: "electricien-pontault-combault-77340-og"
+  featured: "electricien-pontault-combault-77340-featured"
+  video: "electricien-pontault-combault-77340-video"
 draft: false
 ---

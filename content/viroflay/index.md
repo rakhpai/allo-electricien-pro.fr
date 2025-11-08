@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-196-hero"
-  og: "elec-196-og"
-  featured: "elec-196-featured"
-  video: "elec-196-video"
+  hero: "electricien-urgence-viroflay-78220-hero"
+  og: "electricien-viroflay-78220-og"
+  featured: "electricien-viroflay-78220-featured"
+  video: "electricien-viroflay-78220-video"
 draft: false
 ---

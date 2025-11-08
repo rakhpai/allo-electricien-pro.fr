@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-340-hero"
-  og: "elec-340-og"
-  featured: "elec-340-featured"
-  video: "elec-340-video"
+  hero: "electricien-urgence-bois-le-roi-77590-hero"
+  og: "electricien-bois-le-roi-77590-og"
+  featured: "electricien-bois-le-roi-77590-featured"
+  video: "electricien-bois-le-roi-77590-video"
 draft: false
 ---

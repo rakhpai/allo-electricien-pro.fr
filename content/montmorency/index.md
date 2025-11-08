@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-148-hero"
-  og: "elec-148-og"
-  featured: "elec-148-featured"
-  video: "elec-148-video"
+  hero: "electricien-urgence-montmorency-95160-hero"
+  og: "electricien-montmorency-95160-og"
+  featured: "electricien-montmorency-95160-featured"
+  video: "electricien-montmorency-95160-video"
 draft: false
 ---

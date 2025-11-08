@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9525181
   lng: 2.3145039
 images:
-  hero: "elec-313-hero"
-  og: "elec-313-og"
-  featured: "elec-313-featured"
-  video: "elec-313-video"
+  hero: "electricien-urgence-compiegne-60200-hero"
+  og: "electricien-compiegne-60200-og"
+  featured: "electricien-compiegne-60200-featured"
+  video: "electricien-compiegne-60200-video"
 draft: false
 ---

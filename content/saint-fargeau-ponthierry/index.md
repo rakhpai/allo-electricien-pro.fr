@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-223-hero"
-  og: "elec-223-og"
-  featured: "elec-223-featured"
-  video: "elec-223-video"
+  hero: "electricien-urgence-saint-fargeau-ponthierry-77310-hero"
+  og: "electricien-saint-fargeau-ponthierry-77310-og"
+  featured: "electricien-saint-fargeau-ponthierry-77310-featured"
+  video: "electricien-saint-fargeau-ponthierry-77310-video"
 draft: false
 ---

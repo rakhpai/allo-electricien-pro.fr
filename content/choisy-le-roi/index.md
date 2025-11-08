@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-053-hero"
-  og: "elec-053-og"
-  featured: "elec-053-featured"
-  video: "elec-053-video"
+  hero: "electricien-urgence-choisy-le-roi-94600-hero"
+  og: "electricien-choisy-le-roi-94600-og"
+  featured: "electricien-choisy-le-roi-94600-featured"
+  video: "electricien-choisy-le-roi-94600-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-284-hero"
-  og: "elec-284-og"
-  featured: "elec-284-featured"
-  video: "elec-284-video"
+  hero: "electricien-urgence-noisy-le-roi-78590-hero"
+  og: "electricien-noisy-le-roi-78590-og"
+  featured: "electricien-noisy-le-roi-78590-featured"
+  video: "electricien-noisy-le-roi-78590-video"
 draft: false
 ---

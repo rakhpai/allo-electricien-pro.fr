@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-032-hero"
-  og: "elec-032-og"
-  featured: "elec-032-featured"
-  video: "elec-032-video"
+  hero: "electricien-urgence-noiseau-94880-hero"
+  og: "electricien-noiseau-94880-og"
+  featured: "electricien-noiseau-94880-featured"
+  video: "electricien-noiseau-94880-video"
 draft: false
 ---

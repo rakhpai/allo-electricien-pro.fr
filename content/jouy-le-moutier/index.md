@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-187-hero"
-  og: "elec-187-og"
-  featured: "elec-187-featured"
-  video: "elec-187-video"
+  hero: "electricien-urgence-jouy-le-moutier-95280-hero"
+  og: "electricien-jouy-le-moutier-95280-og"
+  featured: "electricien-jouy-le-moutier-95280-featured"
+  video: "electricien-jouy-le-moutier-95280-video"
 draft: false
 ---

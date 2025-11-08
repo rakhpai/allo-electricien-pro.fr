@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-204-hero"
-  og: "elec-204-og"
-  featured: "elec-204-featured"
-  video: "elec-204-video"
+  hero: "electricien-urgence-fontainebleau-77300-hero"
+  og: "electricien-fontainebleau-77300-og"
+  featured: "electricien-fontainebleau-77300-featured"
+  video: "electricien-fontainebleau-77300-video"
 draft: false
 ---

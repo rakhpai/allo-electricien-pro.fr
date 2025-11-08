@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-329-hero"
-  og: "elec-329-og"
-  featured: "elec-329-featured"
-  video: "elec-329-video"
+  hero: "electricien-urgence-chambourcy-78240-hero"
+  og: "electricien-chambourcy-78240-og"
+  featured: "electricien-chambourcy-78240-featured"
+  video: "electricien-chambourcy-78240-video"
 draft: false
 ---

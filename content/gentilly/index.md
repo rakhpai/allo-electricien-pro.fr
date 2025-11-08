@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-182-hero"
-  og: "elec-182-og"
-  featured: "elec-182-featured"
-  video: "elec-182-video"
+  hero: "electricien-urgence-gentilly-94250-hero"
+  og: "electricien-gentilly-94250-og"
+  featured: "electricien-gentilly-94250-featured"
+  video: "electricien-gentilly-94250-video"
 draft: false
 ---

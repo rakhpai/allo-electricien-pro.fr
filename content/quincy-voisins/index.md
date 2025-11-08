@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-015-hero"
-  og: "elec-015-og"
-  featured: "elec-015-featured"
-  video: "elec-015-video"
+  hero: "electricien-urgence-quincy-voisins-77860-hero"
+  og: "electricien-quincy-voisins-77860-og"
+  featured: "electricien-quincy-voisins-77860-featured"
+  video: "electricien-quincy-voisins-77860-video"
 draft: false
 ---

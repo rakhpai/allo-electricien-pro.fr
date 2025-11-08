@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-326-hero"
-  og: "elec-326-og"
-  featured: "elec-326-featured"
-  video: "elec-326-video"
+  hero: "electricien-urgence-laverriere-60210-hero"
+  og: "electricien-laverriere-60210-og"
+  featured: "electricien-laverriere-60210-featured"
+  video: "electricien-laverriere-60210-video"
 draft: false
 ---

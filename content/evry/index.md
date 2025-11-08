@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-034-hero"
-  og: "elec-034-og"
-  featured: "elec-034-featured"
-  video: "elec-034-video"
+  hero: "electricien-urgence-evry-91090-hero"
+  og: "electricien-evry-91090-og"
+  featured: "electricien-evry-91090-featured"
+  video: "electricien-evry-91090-video"
 draft: false
 ---

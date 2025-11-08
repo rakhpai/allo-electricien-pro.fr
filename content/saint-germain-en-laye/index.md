@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-054-hero"
-  og: "elec-054-og"
-  featured: "elec-054-featured"
-  video: "elec-054-video"
+  hero: "electricien-urgence-saint-germain-en-laye-78100-hero"
+  og: "electricien-saint-germain-en-laye-78100-og"
+  featured: "electricien-saint-germain-en-laye-78100-featured"
+  video: "electricien-saint-germain-en-laye-78100-video"
 draft: false
 ---

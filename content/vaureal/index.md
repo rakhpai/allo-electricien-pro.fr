@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-194-hero"
-  og: "elec-194-og"
-  featured: "elec-194-featured"
-  video: "elec-194-video"
+  hero: "electricien-urgence-vaureal-95490-hero"
+  og: "electricien-vaureal-95490-og"
+  featured: "electricien-vaureal-95490-featured"
+  video: "electricien-vaureal-95490-video"
 draft: false
 ---

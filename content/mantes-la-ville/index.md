@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-165-hero"
-  og: "elec-165-og"
-  featured: "elec-165-featured"
-  video: "elec-165-video"
+  hero: "electricien-urgence-mantes-la-ville-78200-hero"
+  og: "electricien-mantes-la-ville-78200-og"
+  featured: "electricien-mantes-la-ville-78200-featured"
+  video: "electricien-mantes-la-ville-78200-video"
 draft: false
 ---

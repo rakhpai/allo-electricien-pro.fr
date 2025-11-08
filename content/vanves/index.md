@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-110-hero"
-  og: "elec-110-og"
-  featured: "elec-110-featured"
-  video: "elec-110-video"
+  hero: "electricien-urgence-vanves-92170-hero"
+  og: "electricien-vanves-92170-og"
+  featured: "electricien-vanves-92170-featured"
+  video: "electricien-vanves-92170-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-235-hero"
-  og: "elec-235-og"
-  featured: "elec-235-featured"
-  video: "elec-235-video"
+  hero: "electricien-urgence-la-queue-en-brie-94510-hero"
+  og: "electricien-la-queue-en-brie-94510-og"
+  featured: "electricien-la-queue-en-brie-94510-featured"
+  video: "electricien-la-queue-en-brie-94510-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-019-hero"
-  og: "elec-019-og"
-  featured: "elec-019-featured"
-  video: "elec-019-video"
+  hero: "electricien-urgence-noisy-le-grand-93160-hero"
+  og: "electricien-noisy-le-grand-93160-og"
+  featured: "electricien-noisy-le-grand-93160-featured"
+  video: "electricien-noisy-le-grand-93160-video"
 draft: false
 ---

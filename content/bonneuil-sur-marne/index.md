@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-188-hero"
-  og: "elec-188-og"
-  featured: "elec-188-featured"
-  video: "elec-188-video"
+  hero: "electricien-urgence-bonneuil-sur-marne-94380-hero"
+  og: "electricien-bonneuil-sur-marne-94380-og"
+  featured: "electricien-bonneuil-sur-marne-94380-featured"
+  video: "electricien-bonneuil-sur-marne-94380-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-033-hero"
-  og: "elec-033-og"
-  featured: "elec-033-featured"
-  video: "elec-033-video"
+  hero: "electricien-urgence-clamart-92140-hero"
+  og: "electricien-clamart-92140-og"
+  featured: "electricien-clamart-92140-featured"
+  video: "electricien-clamart-92140-video"
 draft: false
 ---

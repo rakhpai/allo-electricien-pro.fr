@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-241-hero"
-  og: "elec-241-og"
-  featured: "elec-241-featured"
-  video: "elec-241-video"
+  hero: "electricien-urgence-arpajon-91290-hero"
+  og: "electricien-arpajon-91290-og"
+  featured: "electricien-arpajon-91290-featured"
+  video: "electricien-arpajon-91290-video"
 draft: false
 ---

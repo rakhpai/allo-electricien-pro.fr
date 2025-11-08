@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-333-hero"
-  og: "elec-333-og"
-  featured: "elec-333-featured"
-  video: "elec-333-video"
+  hero: "electricien-urgence-wissous-91320-hero"
+  og: "electricien-wissous-91320-og"
+  featured: "electricien-wissous-91320-featured"
+  video: "electricien-wissous-91320-video"
 draft: false
 ---

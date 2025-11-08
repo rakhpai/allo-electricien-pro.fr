@@ -15,9 +15,9 @@ coordinates:
   lat: 48.755239
   lng: 2.5339546
 images:
-  hero: "elec-160-hero"
-  og: "elec-160-og"
-  featured: "elec-160-featured"
-  video: "elec-160-video"
+  hero: "electricien-urgence-bourg-la-reine-92340-hero"
+  og: "electricien-bourg-la-reine-92340-og"
+  featured: "electricien-bourg-la-reine-92340-featured"
+  video: "electricien-bourg-la-reine-92340-video"
 draft: false
 ---

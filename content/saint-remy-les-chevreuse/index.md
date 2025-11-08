@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-282-hero"
-  og: "elec-282-og"
-  featured: "elec-282-featured"
-  video: "elec-282-video"
+  hero: "electricien-urgence-saint-remy-les-chevreuse-78470-hero"
+  og: "electricien-saint-remy-les-chevreuse-78470-og"
+  featured: "electricien-saint-remy-les-chevreuse-78470-featured"
+  video: "electricien-saint-remy-les-chevreuse-78470-video"
 draft: false
 ---

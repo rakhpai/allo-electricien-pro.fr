@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="tiny" version="1.2" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="New_Gradient_Swatch_1" data-name="New Gradient Swatch 1" x1="163.8" y1="259" x2="419" y2="259" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#26a9e0"/>
+      <stop offset="1" stop-color="#2b388f"/>
+    </linearGradient>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.6.0, SVG Export Plug-In . SVG Version: 1.2.0 Build 709)  -->
+  <g>
+    <g id="Layer_1">
+      <g>
+        <path d="M351.2,80.2h-82.5l-79.5,178.8h52.2l-45.9,96.7h0c-34.2-21.1-56.9-58.9-56.9-102s1.6-22.6,4.6-33.1c10.1-35.2,35.9-63.8,69.3-77.6l-7.4,60.5,32.7-73.5,16.4-36.9c-53.4,1.4-100.3,28.8-128.5,70.1-17.6,25.8-27.9,56.9-27.9,90.5,0,56.7,29.4,106.5,73.7,135.1h0s.3.2.3.2c2,1.3,4,2.5,6.1,3.7h0l-21.4,45.1,161.3-227.3h-46.6l80.1-130.4Z" fill="#ffc50a"/>
+        <path d="M347.3,119.9l24.4-39.7h-13.2l-76.3,124.2h47.5l-73.3,103.2-92.6,130.2,181.4-238.7h-46.6l27.3-44.4h0c31.6,21.6,52.3,57.9,52.3,99s-29.9,91.8-72.5,110.2c-14.5,6.3-30.5,9.7-47.4,9.7s-7.2-.2-10.7-.5l20.1-58.6-41.6,54.7h0l-26.1,34.3c18,7,37.7,10.9,58.2,10.9s32.4-2.5,47.4-7.1c65.6-20.2,113.3-81.3,113.3-153.6s-28.5-105-71.7-133.8Z" fill="url(#New_Gradient_Swatch_1)"/>
+      </g>
+    </g>
+  </g>
+</svg>

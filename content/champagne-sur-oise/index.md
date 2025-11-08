@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-033-hero"
-  og: "elec-033-og"
-  featured: "elec-033-featured"
-  video: "elec-033-video"
+  hero: "electricien-urgence-champagne-sur-oise-95660-hero"
+  og: "electricien-champagne-sur-oise-95660-og"
+  featured: "electricien-champagne-sur-oise-95660-featured"
+  video: "electricien-champagne-sur-oise-95660-video"
 draft: false
 ---

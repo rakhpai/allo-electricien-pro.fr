@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-003-hero"
-  og: "elec-003-og"
-  featured: "elec-003-featured"
-  video: "elec-003-video"
+  hero: "electricien-urgence-rosny-sur-seine-78710-hero"
+  og: "electricien-rosny-sur-seine-78710-og"
+  featured: "electricien-rosny-sur-seine-78710-featured"
+  video: "electricien-rosny-sur-seine-78710-video"
 draft: false
 ---

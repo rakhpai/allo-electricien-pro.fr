@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-011-hero"
-  og: "elec-011-og"
-  featured: "elec-011-featured"
-  video: "elec-011-video"
+  hero: "electricien-urgence-saint-nom-la-breteche-78860-hero"
+  og: "electricien-saint-nom-la-breteche-78860-og"
+  featured: "electricien-saint-nom-la-breteche-78860-featured"
+  video: "electricien-saint-nom-la-breteche-78860-video"
 draft: false
 ---

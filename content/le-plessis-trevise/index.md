@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-166-hero"
-  og: "elec-166-og"
-  featured: "elec-166-featured"
-  video: "elec-166-video"
+  hero: "electricien-urgence-le-plessis-trevise-94420-hero"
+  og: "electricien-le-plessis-trevise-94420-og"
+  featured: "electricien-le-plessis-trevise-94420-featured"
+  video: "electricien-le-plessis-trevise-94420-video"
 draft: false
 ---

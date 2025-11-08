@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-190-hero"
-  og: "elec-190-og"
-  featured: "elec-190-featured"
-  video: "elec-190-video"
+  hero: "electricien-urgence-limay-78520-hero"
+  og: "electricien-limay-78520-og"
+  featured: "electricien-limay-78520-featured"
+  video: "electricien-limay-78520-video"
 draft: false
 ---

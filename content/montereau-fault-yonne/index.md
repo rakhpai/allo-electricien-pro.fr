@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-185-hero"
-  og: "elec-185-og"
-  featured: "elec-185-featured"
-  video: "elec-185-video"
+  hero: "electricien-urgence-montereau-fault-yonne-77130-hero"
+  og: "electricien-montereau-fault-yonne-77130-og"
+  featured: "electricien-montereau-fault-yonne-77130-featured"
+  video: "electricien-montereau-fault-yonne-77130-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-224-hero"
-  og: "elec-224-og"
-  featured: "elec-224-featured"
-  video: "elec-224-video"
+  hero: "electricien-urgence-provins-77160-hero"
+  og: "electricien-provins-77160-og"
+  featured: "electricien-provins-77160-featured"
+  video: "electricien-provins-77160-video"
 draft: false
 ---

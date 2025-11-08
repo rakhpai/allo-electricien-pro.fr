@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-079-hero"
-  og: "elec-079-og"
-  featured: "elec-079-featured"
-  video: "elec-079-video"
+  hero: "electricien-urgence-houilles-78800-hero"
+  og: "electricien-houilles-78800-og"
+  featured: "electricien-houilles-78800-featured"
+  video: "electricien-houilles-78800-video"
 draft: false
 ---

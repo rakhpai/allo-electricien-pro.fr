@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-210-hero"
-  og: "elec-210-og"
-  featured: "elec-210-featured"
-  video: "elec-210-video"
+  hero: "electricien-urgence-coulommiers-77120-hero"
+  og: "electricien-coulommiers-77120-og"
+  featured: "electricien-coulommiers-77120-featured"
+  video: "electricien-coulommiers-77120-video"
 draft: false
 ---

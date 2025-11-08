@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-036-hero"
-  og: "elec-036-og"
-  featured: "elec-036-featured"
-  video: "elec-036-video"
+  hero: "electricien-urgence-sartrouville-78500-hero"
+  og: "electricien-sartrouville-78500-og"
+  featured: "electricien-sartrouville-78500-featured"
+  video: "electricien-sartrouville-78500-video"
 draft: false
 ---

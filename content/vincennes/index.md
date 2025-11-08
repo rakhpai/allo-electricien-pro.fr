@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-040-hero"
-  og: "elec-040-og"
-  featured: "elec-040-featured"
-  video: "elec-040-video"
+  hero: "electricien-urgence-vincennes-94300-hero"
+  og: "electricien-vincennes-94300-og"
+  featured: "electricien-vincennes-94300-featured"
+  video: "electricien-vincennes-94300-video"
 draft: false
 ---

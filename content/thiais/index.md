@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-090-hero"
-  og: "elec-090-og"
-  featured: "elec-090-featured"
-  video: "elec-090-video"
+  hero: "electricien-urgence-thiais-94320-hero"
+  og: "electricien-thiais-94320-og"
+  featured: "electricien-thiais-94320-featured"
+  video: "electricien-thiais-94320-video"
 draft: false
 ---

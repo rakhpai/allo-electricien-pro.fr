@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-309-hero"
-  og: "elec-309-og"
-  featured: "elec-309-featured"
-  video: "elec-309-video"
+  hero: "electricien-urgence-boulogne-billancourt-92100-hero"
+  og: "electricien-boulogne-billancourt-92100-og"
+  featured: "electricien-boulogne-billancourt-92100-featured"
+  video: "electricien-boulogne-billancourt-92100-video"
 draft: false
 ---

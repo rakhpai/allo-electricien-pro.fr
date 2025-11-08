@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-231-hero"
-  og: "elec-231-og"
-  featured: "elec-231-featured"
-  video: "elec-231-video"
+  hero: "electricien-urgence-enghien-les-bains-95880-hero"
+  og: "electricien-enghien-les-bains-95880-og"
+  featured: "electricien-enghien-les-bains-95880-featured"
+  video: "electricien-enghien-les-bains-95880-video"
 draft: false
 ---

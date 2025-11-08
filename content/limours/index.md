@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-316-hero"
-  og: "elec-316-og"
-  featured: "elec-316-featured"
-  video: "elec-316-video"
+  hero: "electricien-urgence-limours-91470-hero"
+  og: "electricien-limours-91470-og"
+  featured: "electricien-limours-91470-featured"
+  video: "electricien-limours-91470-video"
 draft: false
 ---

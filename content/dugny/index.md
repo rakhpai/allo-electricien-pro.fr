@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-239-hero"
-  og: "elec-239-og"
-  featured: "elec-239-featured"
-  video: "elec-239-video"
+  hero: "electricien-urgence-dugny-93440-hero"
+  og: "electricien-dugny-93440-og"
+  featured: "electricien-dugny-93440-featured"
+  video: "electricien-dugny-93440-video"
 draft: false
 ---

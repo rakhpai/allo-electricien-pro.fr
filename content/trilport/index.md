@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-021-hero"
-  og: "elec-021-og"
-  featured: "elec-021-featured"
-  video: "elec-021-video"
+  hero: "electricien-urgence-trilport-77470-hero"
+  og: "electricien-trilport-77470-og"
+  featured: "electricien-trilport-77470-featured"
+  video: "electricien-trilport-77470-video"
 draft: false
 ---

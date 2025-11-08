@@ -1,0 +1,61 @@
+{
+  "timestamp": "2025-11-08T02:13:43.016Z",
+  "mode": "test",
+  "stats": {
+    "citiesProcessed": 10,
+    "totalCities": 409,
+    "sharedImagesCopied": 27,
+    "uniqueImagesRenamed": 0,
+    "frontmatterUpdated": 10,
+    "totalFiles": 27
+  },
+  "testCities": [
+    "rueil-malmaison",
+    "paris-1",
+    "versailles",
+    "nanterre",
+    "melun",
+    "argenteuil",
+    "sarcelles",
+    "ablon-sur-seine",
+    "paris-20",
+    "paris-4"
+  ],
+  "sampleMappings": [
+    {
+      "city": "ABLON-SUR-SEINE",
+      "oldHero": "elec-010-hero.jpg",
+      "newHero": "electricien-urgence-ablon-sur-seine-94480-hero.jpg",
+      "altTag": "Électricien d'urgence à Ablon Sur Seine (94480) - Dépannage 24/7",
+      "isShared": true
+    },
+    {
+      "city": "ARGENTEUIL",
+      "oldHero": "elec-003-hero.jpg",
+      "newHero": "electricien-urgence-argenteuil-95100-hero.jpg",
+      "altTag": "Électricien d'urgence à Argenteuil (95100) - Dépannage 24/7",
+      "isShared": true
+    },
+    {
+      "city": "MELUN",
+      "oldHero": "elec-057-hero.jpg",
+      "newHero": "electricien-urgence-melun-77000-hero.jpg",
+      "altTag": "Électricien d'urgence à Melun (77000) - Dépannage 24/7",
+      "isShared": false
+    },
+    {
+      "city": "NANTERRE",
+      "oldHero": "elec-006-hero.jpg",
+      "newHero": "electricien-urgence-nanterre-92000-hero.jpg",
+      "altTag": "Électricien d'urgence à Nanterre (92000) - Dépannage 24/7",
+      "isShared": true
+    },
+    {
+      "city": "Paris 1",
+      "oldHero": "elec-320-hero.jpg",
+      "newHero": "electricien-urgence-paris-1-75001-hero.jpg",
+      "altTag": "Électricien d'urgence à Paris 1 (75001) - Dépannage 24/7",
+      "isShared": true
+    }
+  ]
+}

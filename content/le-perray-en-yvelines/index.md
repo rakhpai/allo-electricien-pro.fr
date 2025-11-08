@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-307-hero"
-  og: "elec-307-og"
-  featured: "elec-307-featured"
-  video: "elec-307-video"
+  hero: "electricien-urgence-le-perray-en-yvelines-78610-hero"
+  og: "electricien-le-perray-en-yvelines-78610-og"
+  featured: "electricien-le-perray-en-yvelines-78610-featured"
+  video: "electricien-le-perray-en-yvelines-78610-video"
 draft: false
 ---

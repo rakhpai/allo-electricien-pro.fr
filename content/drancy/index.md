@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-017-hero"
-  og: "elec-017-og"
-  featured: "elec-017-featured"
-  video: "elec-017-video"
+  hero: "electricien-urgence-drancy-93700-hero"
+  og: "electricien-drancy-93700-og"
+  featured: "electricien-drancy-93700-featured"
+  video: "electricien-drancy-93700-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-006-hero"
-  og: "elec-006-og"
-  featured: "elec-006-featured"
-  video: "elec-006-video"
+  hero: "electricien-urgence-nanterre-92000-hero"
+  og: "electricien-nanterre-92000-og"
+  featured: "electricien-nanterre-92000-featured"
+  video: "electricien-nanterre-92000-video"
 draft: false
 ---

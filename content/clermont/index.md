@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8865297
   lng: 2.0644977
 images:
-  hero: "elec-312-hero"
-  og: "elec-312-og"
-  featured: "elec-312-featured"
-  video: "elec-312-video"
+  hero: "electricien-urgence-clermont-60600-hero"
+  og: "electricien-clermont-60600-og"
+  featured: "electricien-clermont-60600-featured"
+  video: "electricien-clermont-60600-video"
 draft: false
 ---

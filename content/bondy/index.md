@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-029-hero"
-  og: "elec-029-og"
-  featured: "elec-029-featured"
-  video: "elec-029-video"
+  hero: "electricien-urgence-bondy-93140-hero"
+  og: "electricien-bondy-93140-og"
+  featured: "electricien-bondy-93140-featured"
+  video: "electricien-bondy-93140-video"
 draft: false
 ---

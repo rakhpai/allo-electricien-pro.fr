@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-111-hero"
-  og: "elec-111-og"
-  featured: "elec-111-featured"
-  video: "elec-111-video"
+  hero: "electricien-urgence-elancourt-78990-hero"
+  og: "electricien-elancourt-78990-og"
+  featured: "electricien-elancourt-78990-featured"
+  video: "electricien-elancourt-78990-video"
 draft: false
 ---

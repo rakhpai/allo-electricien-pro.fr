@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-336-hero"
-  og: "elec-336-og"
-  featured: "elec-336-featured"
-  video: "elec-336-video"
+  hero: "electricien-urgence-esbly-77450-hero"
+  og: "electricien-esbly-77450-og"
+  featured: "electricien-esbly-77450-featured"
+  video: "electricien-esbly-77450-video"
 draft: false
 ---

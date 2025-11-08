@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-122-hero"
-  og: "elec-122-og"
-  featured: "elec-122-featured"
-  video: "elec-122-video"
+  hero: "electricien-urgence-romainville-93230-hero"
+  og: "electricien-romainville-93230-og"
+  featured: "electricien-romainville-93230-featured"
+  video: "electricien-romainville-93230-video"
 draft: false
 ---

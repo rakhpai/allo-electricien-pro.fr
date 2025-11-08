@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-130-hero"
-  og: "elec-130-og"
-  featured: "elec-130-featured"
-  video: "elec-130-video"
+  hero: "electricien-urgence-saint-ouen-l-aumone-95310-hero"
+  og: "electricien-saint-ouen-l-aumone-95310-og"
+  featured: "electricien-saint-ouen-l-aumone-95310-featured"
+  video: "electricien-saint-ouen-l-aumone-95310-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-026-hero"
-  og: "elec-026-og"
-  featured: "elec-026-featured"
-  video: "elec-026-video"
+  hero: "electricien-urgence-villejuif-94800-hero"
+  og: "electricien-villejuif-94800-og"
+  featured: "electricien-villejuif-94800-featured"
+  video: "electricien-villejuif-94800-video"
 draft: false
 ---

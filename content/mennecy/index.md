@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-219-hero"
-  og: "elec-219-og"
-  featured: "elec-219-featured"
-  video: "elec-219-video"
+  hero: "electricien-urgence-mennecy-91540-hero"
+  og: "electricien-mennecy-91540-og"
+  featured: "electricien-mennecy-91540-featured"
+  video: "electricien-mennecy-91540-video"
 draft: false
 ---

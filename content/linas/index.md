@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-314-hero"
-  og: "elec-314-og"
-  featured: "elec-314-featured"
-  video: "elec-314-video"
+  hero: "electricien-urgence-linas-91310-hero"
+  og: "electricien-linas-91310-og"
+  featured: "electricien-linas-91310-featured"
+  video: "electricien-linas-91310-video"
 draft: false
 ---

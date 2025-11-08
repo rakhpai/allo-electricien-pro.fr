@@ -15,9 +15,9 @@ coordinates:
   lat: 48.6099887
   lng: 2.3075288
 images:
-  hero: "elec-308-hero"
-  og: "elec-308-og"
-  featured: "elec-308-featured"
-  video: "elec-308-video"
+  hero: "electricien-urgence-beauvais-60155-hero"
+  og: "electricien-beauvais-60155-og"
+  featured: "electricien-beauvais-60155-featured"
+  video: "electricien-beauvais-60155-video"
 draft: false
 ---

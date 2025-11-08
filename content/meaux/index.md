@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-037-hero"
-  og: "elec-037-og"
-  featured: "elec-037-featured"
-  video: "elec-037-video"
+  hero: "electricien-urgence-meaux-77100-hero"
+  og: "electricien-meaux-77100-og"
+  featured: "electricien-meaux-77100-featured"
+  video: "electricien-meaux-77100-video"
 draft: false
 ---

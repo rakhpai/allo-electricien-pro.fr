@@ -1,0 +1,112 @@
+{{/* Video Player Component */}}
+{{/* Loads video data from data/commune_videos.json based on page slug */}}
+
+{{ $videoData := dict }}
+{{ if and .Params.slug .Site.Data.commune_videos }}
+  {{ $videoData = index .Site.Data.commune_videos .Params.slug }}
+{{ end }}
+{{ $videoConfig := .Site.Params.video }}
+
+{{ if and $videoData $videoConfig.enabled }}
+  {{ $cityName := .Params.city | default .Title }}
+  {{ $videoTitle := printf "Électricien d'urgence à %s" $cityName }}
+
+  {{/* Build video paths */}}
+  {{ $videoWebm := $videoData.video_webm }}
+  {{ $videoMp4Compressed := $videoData.video_mp4_compressed }}
+  {{ $videoMp4 := $videoData.video_mp4 }}
+
+  {{/* Thumbnail path (fallback to hero image if no video thumbnail) */}}
+  {{ $thumbnailPath := "" }}
+  {{ if $videoData.thumbnail_path }}
+    {{ $thumbnailPath = $videoData.thumbnail_path }}
+  {{ else if .Params.images }}
+    {{ if .Params.images.hero }}
+      {{/* Use hero image as video poster fallback */}}
+      {{ $thumbnailPath = printf "/images/hero/%s.jpg" .Params.images.hero }}
+    {{ end }}
+  {{ end }}
+
+  <section class="video-section mb-12" itemscope itemtype="https://schema.org/VideoObject">
+    <div class="container mx-auto px-4">
+      <div class="max-w-5xl mx-auto">
+
+        {{/* Video Title */}}
+        <h2 class="text-2xl font-bold text-gray-900 mb-4" itemprop="name">
+          {{ $videoTitle }}
+        </h2>
+
+        {{/* Video Player Container */}}
+        <div class="relative bg-gray-900 rounded-lg overflow-hidden shadow-2xl"
+             style="aspect-ratio: 16/9; width: 100%;">
+
+          <video
+            id="city-video"
+            class="w-full h-full"
+            {{ if $thumbnailPath }}poster="{{ $thumbnailPath }}"{{ end }}
+            controls
+            playsinline
+            {{ if $videoConfig.preload }}preload="{{ $videoConfig.preload }}"{{ else }}preload="metadata"{{ end }}
+            {{ if $videoConfig.muted }}muted{{ end }}
+            {{ if $videoConfig.autoplay }}autoplay{{ end }}
+            width="1920"
+            height="1080"
+            itemprop="contentUrl">
+
+            {{/* Prefer WebM for better compression, fallback to MP4 */}}
+            {{ if $videoWebm }}
+              <source src="{{ $videoWebm }}" type="video/webm">
+            {{ end }}
+
+            {{ if $videoMp4Compressed }}
+              <source src="{{ $videoMp4Compressed }}" type="video/mp4">
+            {{ else if $videoMp4 }}
+              <source src="{{ $videoMp4 }}" type="video/mp4">
+            {{ end }}
+
+            {{/* Captions/Subtitles (if available) */}}
+            {{ $vttPath := printf "/videos/captions/%s.vtt" .Params.slug }}
+            {{ if (fileExists (printf "static%s" $vttPath)) }}
+              <track kind="captions" src="{{ $vttPath }}" srclang="fr" label="Français" default>
+            {{ end }}
+
+            {{/* Fallback message for browsers that don't support HTML5 video */}}
+            <p class="text-white p-8 text-center">
+              Votre navigateur ne supporte pas la lecture de vidéos HTML5.
+              <a href="{{ $videoMp4Compressed | default $videoMp4 }}" class="text-blue-400 underline" download>
+                Télécharger la vidéo
+              </a>
+            </p>
+          </video>
+
+        </div>
+
+        {{/* Video Description (from voiceover script) */}}
+        {{ if $videoData.voiceover_script }}
+          <div class="mt-6 bg-gray-50 p-6 rounded-lg">
+            <h3 class="text-lg font-semibold text-gray-900 mb-3">
+              À propos de cette vidéo
+            </h3>
+            <p class="text-gray-700 whitespace-pre-line leading-relaxed" itemprop="description">
+              {{ $videoData.voiceover_script }}
+            </p>
+          </div>
+        {{ end }}
+
+        {{/* Hidden Schema.org metadata */}}
+        <meta itemprop="thumbnailUrl" content="{{ absURL $thumbnailPath }}">
+        <meta itemprop="uploadDate" content="{{ $videoData.created_at }}">
+        {{ if $videoData.duration_iso }}
+          <meta itemprop="duration" content="{{ $videoData.duration_iso }}">
+        {{ end }}
+        {{ if $videoData.voiceover_script }}
+          <meta itemprop="transcript" content="{{ $videoData.voiceover_script }}">
+        {{ end }}
+        <meta itemprop="width" content="1920">
+        <meta itemprop="height" content="1080">
+
+      </div>
+    </div>
+  </section>
+
+{{ end }}

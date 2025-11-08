@@ -15,9 +15,9 @@ coordinates:
   lat: 48.2612891
   lng: 2.7161562
 images:
-  hero: "elec-020-hero"
-  og: "elec-020-og"
-  featured: "elec-020-featured"
-  video: "elec-020-video"
+  hero: "electricien-urgence-antony-92160-hero"
+  og: "electricien-antony-92160-og"
+  featured: "electricien-antony-92160-featured"
+  video: "electricien-antony-92160-video"
 draft: false
 ---

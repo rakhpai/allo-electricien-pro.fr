@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-309-hero"
-  og: "elec-309-og"
-  featured: "elec-309-featured"
-  video: "elec-309-video"
+  hero: "electricien-urgence-longpont-sur-orge-91310-hero"
+  og: "electricien-longpont-sur-orge-91310-og"
+  featured: "electricien-longpont-sur-orge-91310-featured"
+  video: "electricien-longpont-sur-orge-91310-video"
 draft: false
 ---

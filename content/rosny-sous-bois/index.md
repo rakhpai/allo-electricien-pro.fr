@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-052-hero"
-  og: "elec-052-og"
-  featured: "elec-052-featured"
-  video: "elec-052-video"
+  hero: "electricien-urgence-rosny-sous-bois-93110-hero"
+  og: "electricien-rosny-sous-bois-93110-og"
+  featured: "electricien-rosny-sous-bois-93110-featured"
+  video: "electricien-rosny-sous-bois-93110-video"
 draft: false
 ---

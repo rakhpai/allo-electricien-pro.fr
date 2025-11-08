@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-249-hero"
-  og: "elec-249-og"
-  featured: "elec-249-featured"
-  video: "elec-249-video"
+  hero: "electricien-urgence-chanteloup-les-vignes-78570-hero"
+  og: "electricien-chanteloup-les-vignes-78570-og"
+  featured: "electricien-chanteloup-les-vignes-78570-featured"
+  video: "electricien-chanteloup-les-vignes-78570-video"
 draft: false
 ---

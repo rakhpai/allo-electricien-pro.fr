@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-011-hero"
-  og: "elec-011-og"
-  featured: "elec-011-featured"
-  video: "elec-011-video"
+  hero: "electricien-urgence-asnieres-sur-seine-92600-hero"
+  og: "electricien-asnieres-sur-seine-92600-og"
+  featured: "electricien-asnieres-sur-seine-92600-featured"
+  video: "electricien-asnieres-sur-seine-92600-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-253-hero"
-  og: "elec-253-og"
-  featured: "elec-253-featured"
-  video: "elec-253-video"
+  hero: "electricien-urgence-bures-sur-yvette-91440-hero"
+  og: "electricien-bures-sur-yvette-91440-og"
+  featured: "electricien-bures-sur-yvette-91440-featured"
+  video: "electricien-bures-sur-yvette-91440-video"
 draft: false
 ---

@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-11-08T03:51:25.545Z",
+  "mode": "production",
+  "stats": {
+    "videos_fetched": 440,
+    "videos_exported": 440,
+    "slug_mappings_applied": 0,
+    "videos_without_city": 0,
+    "errors": []
+  },
+  "slug_mappings": {
+    "letang-la-ville": "l-etang-la-ville",
+    "lisle-adam": "l-isle-adam",
+    "bois-darcy": "bois-d-arcy",
+    "saint-ouen-laumone": "saint-ouen-l-aumone",
+    "saint-cyr-lecole": "saint-cyr-l-ecole",
+    "ville-davray": "ville-d-avray",
+    "montfort-lamaury": "montfort-l-amaury"
+  }
+}

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-108-hero"
-  og: "elec-108-og"
-  featured: "elec-108-featured"
-  video: "elec-108-video"
+  hero: "electricien-urgence-villiers-sur-marne-94350-hero"
+  og: "electricien-villiers-sur-marne-94350-og"
+  featured: "electricien-villiers-sur-marne-94350-featured"
+  video: "electricien-villiers-sur-marne-94350-video"
 draft: false
 ---

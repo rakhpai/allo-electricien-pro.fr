@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-216-hero"
-  og: "elec-216-og"
-  featured: "elec-216-featured"
-  video: "elec-216-video"
+  hero: "electricien-urgence-courcouronnes-91080-hero"
+  og: "electricien-courcouronnes-91080-og"
+  featured: "electricien-courcouronnes-91080-featured"
+  video: "electricien-courcouronnes-91080-video"
 draft: false
 ---

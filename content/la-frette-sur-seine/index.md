@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-035-hero"
-  og: "elec-035-og"
-  featured: "elec-035-featured"
-  video: "elec-035-video"
+  hero: "electricien-urgence-la-frette-sur-seine-95530-hero"
+  og: "electricien-la-frette-sur-seine-95530-og"
+  featured: "electricien-la-frette-sur-seine-95530-featured"
+  video: "electricien-la-frette-sur-seine-95530-video"
 draft: false
 ---

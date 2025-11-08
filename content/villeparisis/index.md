@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-128-hero"
-  og: "elec-128-og"
-  featured: "elec-128-featured"
-  video: "elec-128-video"
+  hero: "electricien-urgence-villeparisis-77270-hero"
+  og: "electricien-villeparisis-77270-og"
+  featured: "electricien-villeparisis-77270-featured"
+  video: "electricien-villeparisis-77270-video"
 draft: false
 ---

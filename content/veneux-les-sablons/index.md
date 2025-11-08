@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-025-hero"
-  og: "elec-025-og"
-  featured: "elec-025-featured"
-  video: "elec-025-video"
+  hero: "electricien-urgence-veneux-les-sablons-77250-hero"
+  og: "electricien-veneux-les-sablons-77250-og"
+  featured: "electricien-veneux-les-sablons-77250-featured"
+  video: "electricien-veneux-les-sablons-77250-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9156784
   lng: 2.602362
 images:
-  hero: "elec-094-hero"
-  og: "elec-094-og"
-  featured: "elec-094-featured"
-  video: "elec-094-video"
+  hero: "electricien-urgence-bois-colombes-92270-hero"
+  og: "electricien-bois-colombes-92270-og"
+  featured: "electricien-bois-colombes-92270-featured"
+  video: "electricien-bois-colombes-92270-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8841522
   lng: 2.2368863
 images:
-  hero: "elec-045-hero"
-  og: "elec-045-og"
-  featured: "elec-045-featured"
-  video: "elec-045-video"
+  hero: "electricien-urgence-puteaux-92800-hero"
+  og: "electricien-puteaux-92800-og"
+  featured: "electricien-puteaux-92800-featured"
+  video: "electricien-puteaux-92800-video"
 draft: false
 ---

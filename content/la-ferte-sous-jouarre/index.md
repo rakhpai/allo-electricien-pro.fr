@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-262-hero"
-  og: "elec-262-og"
-  featured: "elec-262-featured"
-  video: "elec-262-video"
+  hero: "electricien-urgence-la-ferte-sous-jouarre-77260-hero"
+  og: "electricien-la-ferte-sous-jouarre-77260-og"
+  featured: "electricien-la-ferte-sous-jouarre-77260-featured"
+  video: "electricien-la-ferte-sous-jouarre-77260-video"
 draft: false
 ---

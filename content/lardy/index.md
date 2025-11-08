@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-002-hero"
-  og: "elec-002-og"
-  featured: "elec-002-featured"
-  video: "elec-002-video"
+  hero: "electricien-urgence-lardy-91510-hero"
+  og: "electricien-lardy-91510-og"
+  featured: "electricien-lardy-91510-featured"
+  video: "electricien-lardy-91510-video"
 draft: false
 ---

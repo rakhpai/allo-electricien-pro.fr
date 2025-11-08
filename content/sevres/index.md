@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-136-hero"
-  og: "elec-136-og"
-  featured: "elec-136-featured"
-  video: "elec-136-video"
+  hero: "electricien-urgence-sevres-92310-hero"
+  og: "electricien-sevres-92310-og"
+  featured: "electricien-sevres-92310-featured"
+  video: "electricien-sevres-92310-video"
 draft: false
 ---

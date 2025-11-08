@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-114-hero"
-  og: "elec-114-og"
-  featured: "elec-114-featured"
-  video: "elec-114-video"
+  hero: "electricien-urgence-gonesse-95500-hero"
+  og: "electricien-gonesse-95500-og"
+  featured: "electricien-gonesse-95500-featured"
+  video: "electricien-gonesse-95500-video"
 draft: false
 ---

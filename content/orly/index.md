@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7431683
   lng: 2.402391
 images:
-  hero: "elec-146-hero"
-  og: "elec-146-og"
-  featured: "elec-146-featured"
-  video: "elec-146-video"
+  hero: "electricien-urgence-orly-94310-hero"
+  og: "electricien-orly-94310-og"
+  featured: "electricien-orly-94310-featured"
+  video: "electricien-orly-94310-video"
 draft: false
 ---

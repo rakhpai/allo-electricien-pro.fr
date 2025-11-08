@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-102-hero"
-  og: "elec-102-og"
-  featured: "elec-102-featured"
-  video: "elec-102-video"
+  hero: "electricien-urgence-guyancourt-78280-hero"
+  og: "electricien-guyancourt-78280-og"
+  featured: "electricien-guyancourt-78280-featured"
+  video: "electricien-guyancourt-78280-video"
 draft: false
 ---

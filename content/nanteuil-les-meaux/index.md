@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-005-hero"
-  og: "elec-005-og"
-  featured: "elec-005-featured"
-  video: "elec-005-video"
+  hero: "electricien-urgence-nanteuil-les-meaux-77100-hero"
+  og: "electricien-nanteuil-les-meaux-77100-og"
+  featured: "electricien-nanteuil-les-meaux-77100-featured"
+  video: "electricien-nanteuil-les-meaux-77100-video"
 draft: false
 ---

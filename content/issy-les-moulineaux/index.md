@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-315-hero"
-  og: "elec-315-og"
-  featured: "elec-315-featured"
-  video: "elec-315-video"
+  hero: "electricien-urgence-issy-les-moulineaux-92130-hero"
+  og: "electricien-issy-les-moulineaux-92130-og"
+  featured: "electricien-issy-les-moulineaux-92130-featured"
+  video: "electricien-issy-les-moulineaux-92130-video"
 draft: false
 ---

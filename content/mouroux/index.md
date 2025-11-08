@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-019-hero"
-  og: "elec-019-og"
-  featured: "elec-019-featured"
-  video: "elec-019-video"
+  hero: "electricien-urgence-mouroux-77120-hero"
+  og: "electricien-mouroux-77120-og"
+  featured: "electricien-mouroux-77120-featured"
+  video: "electricien-mouroux-77120-video"
 draft: false
 ---

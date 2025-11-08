@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-281-hero"
-  og: "elec-281-og"
-  featured: "elec-281-featured"
-  video: "elec-281-video"
+  hero: "electricien-urgence-pierrelaye-95480-hero"
+  og: "electricien-pierrelaye-95480-og"
+  featured: "electricien-pierrelaye-95480-featured"
+  video: "electricien-pierrelaye-95480-video"
 draft: false
 ---

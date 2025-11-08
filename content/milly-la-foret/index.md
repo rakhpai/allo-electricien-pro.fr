@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-028-hero"
-  og: "elec-028-og"
-  featured: "elec-028-featured"
-  video: "elec-028-video"
+  hero: "electricien-urgence-milly-la-foret-91490-hero"
+  og: "electricien-milly-la-foret-91490-og"
+  featured: "electricien-milly-la-foret-91490-featured"
+  video: "electricien-milly-la-foret-91490-video"
 draft: false
 ---

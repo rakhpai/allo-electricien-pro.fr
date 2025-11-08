@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-260-hero"
-  og: "elec-260-og"
-  featured: "elec-260-featured"
-  video: "elec-260-video"
+  hero: "electricien-urgence-crosne-91560-hero"
+  og: "electricien-crosne-91560-og"
+  featured: "electricien-crosne-91560-featured"
+  video: "electricien-crosne-91560-video"
 draft: false
 ---

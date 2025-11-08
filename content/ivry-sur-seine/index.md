@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-024-hero"
-  og: "elec-024-og"
-  featured: "elec-024-featured"
-  video: "elec-024-video"
+  hero: "electricien-urgence-ivry-sur-seine-94200-hero"
+  og: "electricien-ivry-sur-seine-94200-og"
+  featured: "electricien-ivry-sur-seine-94200-featured"
+  video: "electricien-ivry-sur-seine-94200-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-192-hero"
-  og: "elec-192-og"
-  featured: "elec-192-featured"
-  video: "elec-192-video"
+  hero: "electricien-urgence-le-vesinet-78110-hero"
+  og: "electricien-le-vesinet-78110-og"
+  featured: "electricien-le-vesinet-78110-featured"
+  video: "electricien-le-vesinet-78110-video"
 draft: false
 ---

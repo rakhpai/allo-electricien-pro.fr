@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7997756
   lng: 2.2897124
 images:
-  hero: "elec-073-hero"
-  og: "elec-073-og"
-  featured: "elec-073-featured"
-  video: "elec-073-video"
+  hero: "electricien-urgence-chatillon-92320-hero"
+  og: "electricien-chatillon-92320-og"
+  featured: "electricien-chatillon-92320-featured"
+  video: "electricien-chatillon-92320-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-118-hero"
-  og: "elec-118-og"
-  featured: "elec-118-featured"
-  video: "elec-118-video"
+  hero: "electricien-urgence-sannois-95110-hero"
+  og: "electricien-sannois-95110-og"
+  featured: "electricien-sannois-95110-featured"
+  video: "electricien-sannois-95110-video"
 draft: false
 ---

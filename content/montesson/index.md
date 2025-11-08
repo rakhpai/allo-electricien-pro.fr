@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-202-hero"
-  og: "elec-202-og"
-  featured: "elec-202-featured"
-  video: "elec-202-video"
+  hero: "electricien-urgence-montesson-78360-hero"
+  og: "electricien-montesson-78360-og"
+  featured: "electricien-montesson-78360-featured"
+  video: "electricien-montesson-78360-video"
 draft: false
 ---

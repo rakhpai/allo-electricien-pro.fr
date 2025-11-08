@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-273-hero"
-  og: "elec-273-og"
-  featured: "elec-273-featured"
-  video: "elec-273-video"
+  hero: "electricien-urgence-saint-pierre-du-perray-91280-hero"
+  og: "electricien-saint-pierre-du-perray-91280-og"
+  featured: "electricien-saint-pierre-du-perray-91280-featured"
+  video: "electricien-saint-pierre-du-perray-91280-video"
 draft: false
 ---

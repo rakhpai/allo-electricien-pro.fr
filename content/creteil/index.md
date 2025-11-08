@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-005-hero"
-  og: "elec-005-og"
-  featured: "elec-005-featured"
-  video: "elec-005-video"
+  hero: "electricien-urgence-creteil-94000-hero"
+  og: "electricien-creteil-94000-og"
+  featured: "electricien-creteil-94000-featured"
+  video: "electricien-creteil-94000-video"
 draft: false
 ---

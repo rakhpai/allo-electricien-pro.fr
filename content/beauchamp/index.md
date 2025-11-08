@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-267-hero"
-  og: "elec-267-og"
-  featured: "elec-267-featured"
-  video: "elec-267-video"
+  hero: "electricien-urgence-beauchamp-95250-hero"
+  og: "electricien-beauchamp-95250-og"
+  featured: "electricien-beauchamp-95250-featured"
+  video: "electricien-beauchamp-95250-video"
 draft: false
 ---

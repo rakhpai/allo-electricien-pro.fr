@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-147-hero"
-  og: "elec-147-og"
-  featured: "elec-147-featured"
-  video: "elec-147-video"
+  hero: "electricien-urgence-longjumeau-91160-hero"
+  og: "electricien-longjumeau-91160-og"
+  featured: "electricien-longjumeau-91160-featured"
+  video: "electricien-longjumeau-91160-video"
 draft: false
 ---

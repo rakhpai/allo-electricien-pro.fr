@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-004-hero"
-  og: "elec-004-og"
-  featured: "elec-004-featured"
-  video: "elec-004-video"
+  hero: "electricien-urgence-marly-la-ville-95670-hero"
+  og: "electricien-marly-la-ville-95670-og"
+  featured: "electricien-marly-la-ville-95670-featured"
+  video: "electricien-marly-la-ville-95670-video"
 draft: false
 ---

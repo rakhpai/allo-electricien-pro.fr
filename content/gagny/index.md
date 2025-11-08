@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-058-hero"
-  og: "elec-058-og"
-  featured: "elec-058-featured"
-  video: "elec-058-video"
+  hero: "electricien-urgence-gagny-93220-hero"
+  og: "electricien-gagny-93220-og"
+  featured: "electricien-gagny-93220-featured"
+  video: "electricien-gagny-93220-video"
 draft: false
 ---

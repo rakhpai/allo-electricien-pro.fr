@@ -15,9 +15,9 @@ coordinates:
   lat: 48.894254
   lng: 2.1347291
 images:
-  hero: "elec-319-hero"
-  og: "elec-319-og"
-  featured: "elec-319-featured"
-  video: "elec-319-video"
+  hero: "electricien-urgence-meru-60110-hero"
+  og: "electricien-meru-60110-og"
+  featured: "electricien-meru-60110-featured"
+  video: "electricien-meru-60110-video"
 draft: false
 ---

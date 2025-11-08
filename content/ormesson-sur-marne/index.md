@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-247-hero"
-  og: "elec-247-og"
-  featured: "elec-247-featured"
-  video: "elec-247-video"
+  hero: "electricien-urgence-ormesson-sur-marne-94490-hero"
+  og: "electricien-ormesson-sur-marne-94490-og"
+  featured: "electricien-ormesson-sur-marne-94490-featured"
+  video: "electricien-ormesson-sur-marne-94490-video"
 draft: false
 ---

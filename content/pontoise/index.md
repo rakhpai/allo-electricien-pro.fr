@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-091-hero"
-  og: "elec-091-og"
-  featured: "elec-091-featured"
-  video: "elec-091-video"
+  hero: "electricien-urgence-pontoise-95300-hero"
+  og: "electricien-pontoise-95300-og"
+  featured: "electricien-pontoise-95300-featured"
+  video: "electricien-pontoise-95300-video"
 draft: false
 ---

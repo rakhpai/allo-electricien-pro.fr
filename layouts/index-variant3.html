@@ -1,0 +1,633 @@
+{{ define "main" }}
+
+<!-- VARIANT 3: SMART PERSONALIZED JOURNEY -->
+<!-- Strategy: Adaptive experience based on user intent & context -->
+<!-- Mobile-First 2025 UX: Geo-detection, Intent-based routing, Adaptive CTAs, Progressive disclosure -->
+
+<!-- Geo-Aware Hero Section -->
+<section class="relative bg-gradient-to-br from-primary via-blue-700 to-primary text-white py-16 md:py-24 overflow-hidden">
+  <!-- Animated Background -->
+  <div class="absolute inset-0 z-0 opacity-20">
+    <div class="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent animate-shimmer"></div>
+  </div>
+
+  <!-- Background Hero Image -->
+  <div class="absolute inset-0 z-0">
+    <picture>
+      <source srcset="/images/hero/elec-1-hero.avif" type="image/avif">
+      <source srcset="/images/hero/elec-1-hero.webp" type="image/webp">
+      <img src="/images/hero/elec-1-hero.jpg"
+           alt="Électricien professionnel dans votre ville"
+           class="w-full h-full object-cover opacity-25"
+           width="1920"
+           height="1080"
+           loading="eager"
+           fetchpriority="high">
+    </picture>
+  </div>
+
+  <!-- Gradient Overlay -->
+  <div class="absolute inset-0 bg-gradient-to-br from-primary/90 via-blue-700/85 to-primary/90 z-10"></div>
+
+  <!-- Content Layer -->
+  <div class="container mx-auto px-4 relative z-20">
+    <div class="max-w-4xl mx-auto text-center">
+      <!-- Location Detection Badge -->
+      <div id="geo-badge" class="inline-flex items-center gap-2 bg-white/20 backdrop-blur-md px-5 py-2.5 rounded-full mb-6 geo-pulse" style="opacity: 0;">
+        <svg class="w-5 h-5 text-yellow-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+        </svg>
+        <span id="detected-location" class="font-semibold text-sm md:text-base">Détection de votre position...</span>
+      </div>
+
+      <!-- Dynamic Headline (Changes based on time/location) -->
+      <h1 class="text-3xl md:text-5xl font-bold mb-4 leading-tight">
+        <span id="time-greeting">⚡</span>
+        <span id="geo-headline">Électricien d'Urgence en Île-de-France</span>
+      </h1>
+
+      <!-- Dynamic Subheadline -->
+      <p class="text-lg md:text-xl text-blue-100 mb-8" id="dynamic-subheadline">
+        Intervention rapide &lt;30 min • 410 électriciens certifiés disponibles
+      </p>
+
+      <!-- Primary CTA (Adaptive) -->
+      <div class="flex flex-col sm:flex-row gap-4 justify-center mb-8">
+        <a href="tel:{{ .Site.Params.mainPhoneRaw }}"
+           id="hero-cta"
+           class="bg-emergency hover:bg-red-700 text-white font-bold py-5 px-10 rounded-xl text-xl shadow-2xl transform transition-all duration-300 hover:scale-105 flex items-center justify-center gap-3 cta-adaptive">
+          <svg class="w-6 h-6 phone-ring" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+          </svg>
+          <span id="cta-text">Appeler Maintenant</span>
+        </a>
+        <a href="#intent-selector"
+           class="bg-white text-primary hover:bg-gray-100 font-bold py-5 px-10 rounded-xl text-xl shadow-2xl transform transition-all duration-300 hover:scale-105 scroll-smooth">
+          Voir les Services →
+        </a>
+      </div>
+
+      <!-- Trust Badges -->
+      <div class="flex flex-wrap gap-3 justify-center items-center text-xs md:text-sm">
+        <div class="flex items-center gap-2 bg-white/25 backdrop-blur-sm px-4 py-2 rounded-lg trust-badge-animate">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+          <span class="font-semibold">Certifiés & Assurés</span>
+        </div>
+        <div class="flex items-center gap-2 bg-white/25 backdrop-blur-sm px-4 py-2 rounded-lg trust-badge-animate">
+          <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+          </svg>
+          <span class="font-semibold">4.8/5 (200+ avis)</span>
+        </div>
+        <div class="flex items-center gap-2 bg-white/25 backdrop-blur-sm px-4 py-2 rounded-lg trust-badge-animate">
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+          </svg>
+          <span class="font-semibold">Garantie 2 ans</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Stats Bar -->
+<section class="bg-white py-12 border-t-4 border-primary shadow-lg">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+      <div class="transform transition-all duration-300 hover:scale-105">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2">{{ .Site.Data.sites.total_sites }}</div>
+        <div class="text-gray-600 font-semibold">Professionnels</div>
+      </div>
+      <div class="transform transition-all duration-300 hover:scale-105">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2">{{ len .Site.Data.sites.departments }}</div>
+        <div class="text-gray-600 font-semibold">Départements</div>
+      </div>
+      <div class="transform transition-all duration-300 hover:scale-105">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2">24/7</div>
+        <div class="text-gray-600 font-semibold">Disponibilité</div>
+      </div>
+      <div class="transform transition-all duration-300 hover:scale-105">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2">&lt;30min</div>
+        <div class="text-gray-600 font-semibold">Intervention</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Intent Selector Component -->
+<div id="intent-selector">
+  {{ partial "intent-selector.html" . }}
+</div>
+
+<!-- Dynamic Content Zone (Changes based on Intent) -->
+<div class="dynamic-content-zone">
+  <!-- Emergency Path Content -->
+  <div id="emergency-content" class="intent-content" style="display: none;">
+    <!-- Nearest Electricians (Geo-sorted) -->
+    <section class="py-14 bg-gradient-to-br from-red-50 to-white">
+      <div class="container mx-auto px-4">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-3">
+            <span class="text-emergency">⚡</span> Électriciens Disponibles Maintenant
+          </h2>
+          <p class="text-center text-gray-600 mb-10 text-lg" id="nearest-message">
+            Les 6 électriciens les plus proches de vous
+          </p>
+
+          <div id="nearest-electricians" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Will be populated by JavaScript -->
+          </div>
+
+          <div class="text-center mt-8">
+            <a href="tel:{{ .Site.Params.mainPhoneRaw }}"
+               class="inline-flex items-center gap-3 bg-emergency hover:bg-red-700 text-white font-bold py-4 px-8 rounded-xl text-lg shadow-xl transform transition-all duration-300 hover:scale-105">
+              <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+              </svg>
+              Urgence: {{ .Site.Params.mainPhone }}
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Social Proof for Emergency -->
+    {{ partial "testimonials-carousel.html" . }}
+  </div>
+
+  <!-- Planned Path Content -->
+  <div id="planned-content" class="intent-content" style="display: none;">
+    <!-- Services Section (Detailed) -->
+    <section id="services" class="py-16 bg-white">
+      <div class="container mx-auto px-4">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
+            Nos Services d'Électricité
+          </h2>
+          <p class="text-center text-gray-600 mb-12 text-lg">
+            Des solutions complètes pour tous vos besoins électriques
+          </p>
+
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-gradient-to-br from-red-50 to-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 border-l-4 border-emergency">
+              <div class="text-5xl mb-4">⚡</div>
+              <h3 class="text-xl font-bold text-gray-900 mb-3">Dépannage Urgent</h3>
+              <p class="text-gray-700 mb-4">Intervention rapide 24h/24 : panne de courant, court-circuit, disjoncteur.</p>
+            </div>
+            <div class="bg-gradient-to-br from-blue-50 to-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 border-l-4 border-primary">
+              <div class="text-5xl mb-4">🔧</div>
+              <h3 class="text-xl font-bold text-gray-900 mb-3">Installation</h3>
+              <p class="text-gray-700 mb-4">Pose de prises, interrupteurs, luminaires, tableaux électriques.</p>
+            </div>
+            <div class="bg-gradient-to-br from-green-50 to-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 border-l-4 border-green-500">
+              <div class="text-5xl mb-4">✓</div>
+              <h3 class="text-xl font-bold text-gray-900 mb-3">Mise aux Normes</h3>
+              <p class="text-gray-700 mb-4">Conformité NF C 15-100, diagnostic, rénovation complète.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Directory Section -->
+    <section id="directory" class="py-14 bg-gray-50">
+      <div class="container mx-auto px-4">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-3">
+            Trouvez Votre Électricien
+          </h2>
+          <p class="text-center text-gray-600 mb-10 text-lg">
+            {{ .Site.Data.sites.total_sites }} électriciens dans {{ len .Site.Data.sites.departments }} départements
+          </p>
+
+          <!-- Department Filter -->
+          <div class="mb-6">
+            <div class="flex flex-wrap gap-2 justify-center">
+              <button class="dept-filter-btn active bg-primary text-white px-5 py-2 rounded-full text-sm font-semibold hover:bg-blue-700 transition" data-dept="all">
+                Tous ({{ .Site.Data.sites.total_sites }})
+              </button>
+              {{ range .Site.Data.sites.departments }}
+              <button class="dept-filter-btn bg-white text-gray-700 px-5 py-2 rounded-full text-sm font-semibold hover:bg-gray-100 transition shadow-sm" data-dept="{{ . }}">
+                {{ . }} ({{ index $.Site.Data.sites.stats . }})
+              </button>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Search Box -->
+          <div class="mb-8 max-w-2xl mx-auto">
+            <input type="text"
+                   id="city-search"
+                   placeholder="Rechercher une commune..."
+                   class="w-full px-6 py-4 text-base border-2 border-gray-300 rounded-xl focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all shadow-sm">
+          </div>
+
+          <!-- Cities Grid -->
+          <div id="cities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {{ range .Site.Data.sites.sites }}
+            <div class="city-card bg-white rounded-lg shadow-md p-5 hover:shadow-xl transition-all duration-300 hover:-translate-y-1"
+                 data-city="{{ .city }}"
+                 data-zip="{{ .zipCode }}"
+                 data-dept="{{ substr .zipCode 0 2 }}"
+                 data-lat="{{ .coordinates.lat }}"
+                 data-lng="{{ .coordinates.lng }}">
+              <div class="flex items-start justify-between mb-2">
+                <h3 class="text-lg font-bold text-gray-900">{{ .city }}</h3>
+                <span class="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded-full">{{ .zipCode }}</span>
+              </div>
+              <a href="{{ .url }}" class="text-primary font-semibold hover:underline text-sm inline-flex items-center gap-1 group">
+                Voir l'électricien
+                <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                </svg>
+              </a>
+            </div>
+            {{ end }}
+          </div>
+
+          <div id="no-results" class="hidden text-center py-12">
+            <p class="text-gray-600 text-lg">Aucune commune trouvée.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    {{ partial "testimonials-carousel.html" . }}
+  </div>
+
+  <!-- Default Content (Before Intent Selection) -->
+  <div id="default-content" class="intent-content">
+    <!-- Services Section -->
+    <section id="services" class="py-16 bg-white">
+      <div class="container mx-auto px-4">
+        <div class="max-w-6xl mx-auto">
+          <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+            Nos Services d'Électricité
+          </h2>
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+            <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+              <div class="text-4xl mb-4">⚡</div>
+              <h3 class="text-xl font-bold text-gray-900 mb-3">Dépannage Urgent</h3>
+              <p class="text-gray-700">Intervention rapide 24h/24 : panne, court-circuit, disjoncteur.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+              <div class="text-4xl mb-4">🔧</div>
+              <h3 class="text-xl font-bold text-gray-900 mb-3">Installation</h3>
+              <p class="text-gray-700">Pose de prises, interrupteurs, luminaires, tableaux.</p>
+            </div>
+            <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+              <div class="text-4xl mb-4">✓</div>
+              <h3 class="text-xl font-bold text-gray-900 mb-3">Mise aux Normes</h3>
+              <p class="text-gray-700">Conformité NF C 15-100, diagnostic, rénovation.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials -->
+    {{ partial "testimonials-carousel.html" . }}
+  </div>
+</div>
+
+<!-- Map Section -->
+<section id="coverage" class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+        Zone de Couverture
+      </h2>
+      <div class="bg-white rounded-lg shadow-lg p-4">
+        <div id="homepage-map" class="h-96 md:h-[600px] rounded-lg"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Sticky Thumb-Zone CTA Bar (Adaptive) -->
+{{ partial "sticky-cta-bar.html" . }}
+
+<!-- Personalization & Geo-Detection Script -->
+<script>
+  // Variant 3 Personalization Engine
+  (function() {
+    let userLocation = null;
+    const sites = {{ .Site.Data.sites.sites | jsonify }};
+
+    // Time-based personalization
+    function personalizeByTime() {
+      const hour = new Date().getHours();
+      const greeting = document.getElementById('time-greeting');
+      const subheadline = document.getElementById('dynamic-subheadline');
+      const ctaText = document.getElementById('cta-text');
+
+      if (hour >= 22 || hour < 6) {
+        // Night time
+        if (greeting) greeting.textContent = '🌙';
+        if (subheadline) subheadline.textContent = 'Service nuit actif • Intervention d\'urgence 24h/24';
+        if (ctaText) ctaText.textContent = 'Urgence Nuit';
+      } else if (hour >= 6 && hour < 9) {
+        // Morning
+        if (greeting) greeting.textContent = '☀️';
+        if (subheadline) subheadline.textContent = 'Intervention dès ce matin • 410 électriciens disponibles';
+        if (ctaText) ctaText.textContent = 'Appeler ce Matin';
+      } else if (hour >= 18 && hour < 22) {
+        // Evening
+        if (greeting) greeting.textContent = '🌆';
+        if (subheadline) subheadline.textContent = 'Intervention possible ce soir • Service rapide garanti';
+        if (ctaText) ctaText.textContent = 'Appeler ce Soir';
+      }
+    }
+
+    // Geo-detection (simplified - using IP geolocation API)
+    async function detectLocation() {
+      try {
+        const response = await fetch('https://ipapi.co/json/');
+        const data = await response.json();
+
+        if (data.city && data.postal) {
+          userLocation = {
+            city: data.city,
+            postal: data.postal,
+            lat: data.latitude,
+            lng: data.longitude
+          };
+
+          updateGeoElements(data.city);
+        } else {
+          showDefaultLocation();
+        }
+      } catch (error) {
+        console.log('Geo-detection unavailable:', error);
+        showDefaultLocation();
+      }
+    }
+
+    function updateGeoElements(city) {
+      const geoBadge = document.getElementById('geo-badge');
+      const detectedLocation = document.getElementById('detected-location');
+      const geoHeadline = document.getElementById('geo-headline');
+
+      if (geoBadge) {
+        geoBadge.style.opacity = '1';
+      }
+
+      if (detectedLocation) {
+        detectedLocation.textContent = `📍 ${city}`;
+      }
+
+      if (geoHeadline) {
+        geoHeadline.textContent = `Électricien d'Urgence à ${city}`;
+      }
+    }
+
+    function showDefaultLocation() {
+      const geoBadge = document.getElementById('geo-badge');
+      const detectedLocation = document.getElementById('detected-location');
+
+      if (geoBadge) {
+        geoBadge.style.opacity = '1';
+      }
+
+      if (detectedLocation) {
+        detectedLocation.textContent = '📍 Île-de-France';
+      }
+    }
+
+    // Content switching based on intent
+    window.addEventListener('storage', function(e) {
+      if (e.key === 'userIntent') {
+        switchContent(e.newValue);
+      }
+    });
+
+    function switchContent(intent) {
+      const emergencyContent = document.getElementById('emergency-content');
+      const plannedContent = document.getElementById('planned-content');
+      const defaultContent = document.getElementById('default-content');
+
+      if (intent === 'emergency') {
+        if (emergencyContent) emergencyContent.style.display = 'block';
+        if (plannedContent) plannedContent.style.display = 'none';
+        if (defaultContent) defaultContent.style.display = 'none';
+
+        // Show nearest electricians
+        if (userLocation) {
+          showNearestElectricians();
+        } else {
+          showRandomElectricians();
+        }
+      } else if (intent === 'planned') {
+        if (emergencyContent) emergencyContent.style.display = 'none';
+        if (plannedContent) plannedContent.style.display = 'block';
+        if (defaultContent) defaultContent.style.display = 'none';
+      } else {
+        if (emergencyContent) emergencyContent.style.display = 'none';
+        if (plannedContent) plannedContent.style.display = 'none';
+        if (defaultContent) defaultContent.style.display = 'block';
+      }
+    }
+
+    function calculateDistance(lat1, lon1, lat2, lon2) {
+      const R = 6371; // Earth radius in km
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLon = (lon2 - lon1) * Math.PI / 180;
+      const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                Math.sin(dLon/2) * Math.sin(dLon/2);
+      const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+      return R * c;
+    }
+
+    function showNearestElectricians() {
+      if (!userLocation || !sites) return;
+
+      const sitesWithDistance = sites.map(site => ({
+        ...site,
+        distance: calculateDistance(
+          userLocation.lat,
+          userLocation.lng,
+          site.coordinates.lat,
+          site.coordinates.lng
+        )
+      }));
+
+      sitesWithDistance.sort((a, b) => a.distance - b.distance);
+      const nearest = sitesWithDistance.slice(0, 6);
+
+      renderElectricians(nearest);
+    }
+
+    function showRandomElectricians() {
+      if (!sites) return;
+      const shuffled = [...sites].sort(() => 0.5 - Math.random());
+      const selected = shuffled.slice(0, 6);
+      renderElectricians(selected);
+    }
+
+    function renderElectricians(electricians) {
+      const container = document.getElementById('nearest-electricians');
+      if (!container) return;
+
+      container.innerHTML = electricians.map((site, index) => `
+        <div class="bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-all duration-300 hover:-translate-y-1 fade-in-up" style="animation-delay: ${index * 100}ms">
+          <div class="flex items-start justify-between mb-3">
+            <h3 class="text-xl font-bold text-gray-900">${site.city}</h3>
+            <span class="text-xs bg-emergency/10 text-emergency px-2 py-1 rounded-full font-bold">
+              ${site.distance ? Math.round(site.distance) + ' km' : 'Proche'}
+            </span>
+          </div>
+          <p class="text-gray-600 mb-4 text-sm">${site.zipCode}</p>
+          <a href="${site.url}" class="inline-block w-full text-center bg-emergency hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300">
+            Contacter Maintenant →
+          </a>
+        </div>
+      `).join('');
+    }
+
+    // Initialize on load
+    document.addEventListener('DOMContentLoaded', function() {
+      personalizeByTime();
+      detectLocation();
+
+      // Check for existing intent
+      const savedIntent = sessionStorage.getItem('userIntent');
+      if (savedIntent) {
+        switchContent(savedIntent);
+      }
+
+      // Initialize map
+      const map = L.map('homepage-map').setView([48.8566, 2.3522], 9);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+      }).addTo(map);
+
+      const markers = L.markerClusterGroup();
+
+      sites.forEach(site => {
+        markers.addLayer(L.marker([site.coordinates.lat, site.coordinates.lng])
+          .bindPopup(`<b>${site.city}</b><br>${site.zipCode}<br><a href="${site.url}" class="text-primary font-semibold">Voir l'électricien</a>`));
+      });
+
+      map.addLayer(markers);
+
+      // Add user location marker if available
+      if (userLocation) {
+        L.marker([userLocation.lat, userLocation.lng], {
+          icon: L.divIcon({
+            className: 'user-location-marker',
+            html: '<div style="background: #FF0000; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"></div>'
+          })
+        }).addTo(map).bindPopup('📍 Votre position');
+      }
+    });
+  })();
+</script>
+
+<style>
+  /* Variant 3 Specific Styles */
+  @keyframes shimmer {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100%); }
+  }
+
+  .animate-shimmer {
+    animation: shimmer 3s infinite;
+  }
+
+  .geo-pulse {
+    animation: geoPulse 2s ease-in-out infinite;
+  }
+
+  @keyframes geoPulse {
+    0%, 100% {
+      transform: scale(1);
+      opacity: 1;
+    }
+    50% {
+      transform: scale(1.05);
+      opacity: 0.9;
+    }
+  }
+
+  .cta-adaptive {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cta-adaptive::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: translate(-50%, -50%);
+    transition: width 0.6s, height 0.6s;
+  }
+
+  .cta-adaptive:hover::before {
+    width: 300px;
+    height: 300px;
+  }
+
+  .phone-ring {
+    animation: phoneRing 2s ease-in-out infinite;
+  }
+
+  @keyframes phoneRing {
+    0%, 100% { transform: rotate(0deg); }
+    10%, 30% { transform: rotate(-12deg); }
+    20% { transform: rotate(12deg); }
+  }
+
+  .trust-badge-animate {
+    animation: fadeInScale 0.6s ease-out forwards;
+    opacity: 0;
+  }
+
+  .trust-badge-animate:nth-child(1) { animation-delay: 0.1s; }
+  .trust-badge-animate:nth-child(2) { animation-delay: 0.2s; }
+  .trust-badge-animate:nth-child(3) { animation-delay: 0.3s; }
+
+  @keyframes fadeInScale {
+    from {
+      opacity: 0;
+      transform: scale(0.8);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+  .fade-in-up {
+    animation: fadeInUp 0.6s ease-out forwards;
+    opacity: 0;
+  }
+
+  @keyframes fadeInUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Smooth scrolling for intent selector */
+  html {
+    scroll-behavior: smooth;
+  }
+</style>
+
+{{ end }}

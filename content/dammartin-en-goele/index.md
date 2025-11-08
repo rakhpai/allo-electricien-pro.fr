@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-277-hero"
-  og: "elec-277-og"
-  featured: "elec-277-featured"
-  video: "elec-277-video"
+  hero: "electricien-urgence-dammartin-en-goele-77230-hero"
+  og: "electricien-dammartin-en-goele-77230-og"
+  featured: "electricien-dammartin-en-goele-77230-featured"
+  video: "electricien-dammartin-en-goele-77230-video"
 draft: false
 ---

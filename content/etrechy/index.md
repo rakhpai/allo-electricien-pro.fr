@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-322-hero"
-  og: "elec-322-og"
-  featured: "elec-322-featured"
-  video: "elec-322-video"
+  hero: "electricien-urgence-etrechy-91580-hero"
+  og: "electricien-etrechy-91580-og"
+  featured: "electricien-etrechy-91580-featured"
+  video: "electricien-etrechy-91580-video"
 draft: false
 ---

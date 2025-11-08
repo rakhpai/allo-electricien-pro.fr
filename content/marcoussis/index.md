@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-283-hero"
-  og: "elec-283-og"
-  featured: "elec-283-featured"
-  video: "elec-283-video"
+  hero: "electricien-urgence-marcoussis-91460-hero"
+  og: "electricien-marcoussis-91460-og"
+  featured: "electricien-marcoussis-91460-featured"
+  video: "electricien-marcoussis-91460-video"
 draft: false
 ---

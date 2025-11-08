@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-184-hero"
-  og: "elec-184-og"
-  featured: "elec-184-featured"
-  video: "elec-184-video"
+  hero: "electricien-urgence-boissy-saint-leger-94470-hero"
+  og: "electricien-boissy-saint-leger-94470-og"
+  featured: "electricien-boissy-saint-leger-94470-featured"
+  video: "electricien-boissy-saint-leger-94470-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-205-hero"
-  og: "elec-205-og"
-  featured: "elec-205-featured"
-  video: "elec-205-video"
+  hero: "electricien-urgence-le-bourget-93350-hero"
+  og: "electricien-le-bourget-93350-og"
+  featured: "electricien-le-bourget-93350-featured"
+  video: "electricien-le-bourget-93350-video"
 draft: false
 ---

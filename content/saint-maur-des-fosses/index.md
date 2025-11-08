@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-016-hero"
-  og: "elec-016-og"
-  featured: "elec-016-featured"
-  video: "elec-016-video"
+  hero: "electricien-urgence-saint-maur-des-fosses-94100-94210-hero"
+  og: "electricien-saint-maur-des-fosses-94100-94210-og"
+  featured: "electricien-saint-maur-des-fosses-94100-94210-featured"
+  video: "electricien-saint-maur-des-fosses-94100-94210-video"
 draft: false
 ---

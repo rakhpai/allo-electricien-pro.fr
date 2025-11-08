@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-178-hero"
-  og: "elec-178-og"
-  featured: "elec-178-featured"
-  video: "elec-178-video"
+  hero: "electricien-urgence-les-clayes-sous-bois-78340-hero"
+  og: "electricien-les-clayes-sous-bois-78340-og"
+  featured: "electricien-les-clayes-sous-bois-78340-featured"
+  video: "electricien-les-clayes-sous-bois-78340-video"
 draft: false
 ---

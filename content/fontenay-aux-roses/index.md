@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-131-hero"
-  og: "elec-131-og"
-  featured: "elec-131-featured"
-  video: "elec-131-video"
+  hero: "electricien-urgence-fontenay-aux-roses-92260-hero"
+  og: "electricien-fontenay-aux-roses-92260-og"
+  featured: "electricien-fontenay-aux-roses-92260-featured"
+  video: "electricien-fontenay-aux-roses-92260-video"
 draft: false
 ---

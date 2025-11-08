@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-134-hero"
-  og: "elec-134-og"
-  featured: "elec-134-featured"
-  video: "elec-134-video"
+  hero: "electricien-urgence-etampes-91150-hero"
+  og: "electricien-etampes-91150-og"
+  featured: "electricien-etampes-91150-featured"
+  video: "electricien-etampes-91150-video"
 draft: false
 ---

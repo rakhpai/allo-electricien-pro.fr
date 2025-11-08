@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-177-hero"
-  og: "elec-177-og"
-  featured: "elec-177-featured"
-  video: "elec-177-video"
+  hero: "electricien-urgence-joinville-le-pont-94340-hero"
+  og: "electricien-joinville-le-pont-94340-og"
+  featured: "electricien-joinville-le-pont-94340-featured"
+  video: "electricien-joinville-le-pont-94340-video"
 draft: false
 ---

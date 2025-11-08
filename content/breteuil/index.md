@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-310-hero"
-  og: "elec-310-og"
-  featured: "elec-310-featured"
-  video: "elec-310-video"
+  hero: "electricien-urgence-breteuil-60120-hero"
+  og: "electricien-breteuil-60120-og"
+  featured: "electricien-breteuil-60120-featured"
+  video: "electricien-breteuil-60120-video"
 draft: false
 ---

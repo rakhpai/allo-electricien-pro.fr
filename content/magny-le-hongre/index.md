@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-328-hero"
-  og: "elec-328-og"
-  featured: "elec-328-featured"
-  video: "elec-328-video"
+  hero: "electricien-urgence-magny-le-hongre-77700-hero"
+  og: "electricien-magny-le-hongre-77700-og"
+  featured: "electricien-magny-le-hongre-77700-featured"
+  video: "electricien-magny-le-hongre-77700-video"
 draft: false
 ---

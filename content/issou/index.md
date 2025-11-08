@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-037-hero"
-  og: "elec-037-og"
-  featured: "elec-037-featured"
-  video: "elec-037-video"
+  hero: "electricien-urgence-issou-78440-hero"
+  og: "electricien-issou-78440-og"
+  featured: "electricien-issou-78440-featured"
+  video: "electricien-issou-78440-video"
 draft: false
 ---

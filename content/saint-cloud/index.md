@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-088-hero"
-  og: "elec-088-og"
-  featured: "elec-088-featured"
-  video: "elec-088-video"
+  hero: "electricien-urgence-saint-cloud-92210-hero"
+  og: "electricien-saint-cloud-92210-og"
+  featured: "electricien-saint-cloud-92210-featured"
+  video: "electricien-saint-cloud-92210-video"
 draft: false
 ---

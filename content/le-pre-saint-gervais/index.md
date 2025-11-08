@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-176-hero"
-  og: "elec-176-og"
-  featured: "elec-176-featured"
-  video: "elec-176-video"
+  hero: "electricien-urgence-le-pre-saint-gervais-93310-hero"
+  og: "electricien-le-pre-saint-gervais-93310-og"
+  featured: "electricien-le-pre-saint-gervais-93310-featured"
+  video: "electricien-le-pre-saint-gervais-93310-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-308-hero"
-  og: "elec-308-og"
-  featured: "elec-308-featured"
-  video: "elec-308-video"
+  hero: "electricien-urgence-itteville-91760-hero"
+  og: "electricien-itteville-91760-og"
+  featured: "electricien-itteville-91760-featured"
+  video: "electricien-itteville-91760-video"
 draft: false
 ---

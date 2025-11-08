@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-203-hero"
-  og: "elec-203-og"
-  featured: "elec-203-featured"
-  video: "elec-203-video"
+  hero: "electricien-urgence-verneuil-sur-seine-78480-hero"
+  og: "electricien-verneuil-sur-seine-78480-og"
+  featured: "electricien-verneuil-sur-seine-78480-featured"
+  video: "electricien-verneuil-sur-seine-78480-video"
 draft: false
 ---

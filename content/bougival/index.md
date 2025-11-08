@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-272-hero"
-  og: "elec-272-og"
-  featured: "elec-272-featured"
-  video: "elec-272-video"
+  hero: "electricien-urgence-bougival-78380-hero"
+  og: "electricien-bougival-78380-og"
+  featured: "electricien-bougival-78380-featured"
+  video: "electricien-bougival-78380-video"
 draft: false
 ---

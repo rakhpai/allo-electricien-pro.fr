@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-099-hero"
-  og: "elec-099-og"
-  featured: "elec-099-featured"
-  video: "elec-099-video"
+  hero: "electricien-urgence-cachan-94230-hero"
+  og: "electricien-cachan-94230-og"
+  featured: "electricien-cachan-94230-featured"
+  video: "electricien-cachan-94230-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-243-hero"
-  og: "elec-243-og"
-  featured: "elec-243-featured"
-  video: "elec-243-video"
+  hero: "electricien-urgence-igny-91430-hero"
+  og: "electricien-igny-91430-og"
+  featured: "electricien-igny-91430-featured"
+  video: "electricien-igny-91430-video"
 draft: false
 ---

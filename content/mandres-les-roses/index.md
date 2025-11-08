@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-042-hero"
-  og: "elec-042-og"
-  featured: "elec-042-featured"
-  video: "elec-042-video"
+  hero: "electricien-urgence-mandres-les-roses-94520-hero"
+  og: "electricien-mandres-les-roses-94520-og"
+  featured: "electricien-mandres-les-roses-94520-featured"
+  video: "electricien-mandres-les-roses-94520-video"
 draft: false
 ---

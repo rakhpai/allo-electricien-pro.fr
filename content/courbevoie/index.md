@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-007-hero"
-  og: "elec-007-og"
-  featured: "elec-007-featured"
-  video: "elec-007-video"
+  hero: "electricien-urgence-courbevoie-92400-hero"
+  og: "electricien-courbevoie-92400-og"
+  featured: "electricien-courbevoie-92400-featured"
+  video: "electricien-courbevoie-92400-video"
 draft: false
 ---

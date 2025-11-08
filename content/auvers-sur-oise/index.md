@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-304-hero"
-  og: "elec-304-og"
-  featured: "elec-304-featured"
-  video: "elec-304-video"
+  hero: "electricien-urgence-auvers-sur-oise-95760-hero"
+  og: "electricien-auvers-sur-oise-95760-og"
+  featured: "electricien-auvers-sur-oise-95760-featured"
+  video: "electricien-auvers-sur-oise-95760-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-193-hero"
-  og: "elec-193-og"
-  featured: "elec-193-featured"
-  video: "elec-193-video"
+  hero: "electricien-urgence-osny-95520-hero"
+  og: "electricien-osny-95520-og"
+  featured: "electricien-osny-95520-featured"
+  video: "electricien-osny-95520-video"
 draft: false
 ---

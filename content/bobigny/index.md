@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-041-hero"
-  og: "elec-041-og"
-  featured: "elec-041-featured"
-  video: "elec-041-video"
+  hero: "electricien-urgence-bobigny-93000-hero"
+  og: "electricien-bobigny-93000-og"
+  featured: "electricien-bobigny-93000-featured"
+  video: "electricien-bobigny-93000-video"
 draft: false
 ---

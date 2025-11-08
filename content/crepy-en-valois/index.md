@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9229803
   lng: 2.4455201
 images:
-  hero: "elec-314-hero"
-  og: "elec-314-og"
-  featured: "elec-314-featured"
-  video: "elec-314-video"
+  hero: "electricien-urgence-crepy-en-valois-60800-hero"
+  og: "electricien-crepy-en-valois-60800-og"
+  featured: "electricien-crepy-en-valois-60800-featured"
+  video: "electricien-crepy-en-valois-60800-video"
 draft: false
 ---

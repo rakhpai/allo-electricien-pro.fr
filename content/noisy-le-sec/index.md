@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-056-hero"
-  og: "elec-056-og"
-  featured: "elec-056-featured"
-  video: "elec-056-video"
+  hero: "electricien-urgence-noisy-le-sec-93130-hero"
+  og: "electricien-noisy-le-sec-93130-og"
+  featured: "electricien-noisy-le-sec-93130-featured"
+  video: "electricien-noisy-le-sec-93130-video"
 draft: false
 ---

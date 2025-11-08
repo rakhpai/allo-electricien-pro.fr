@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-045-hero"
-  og: "elec-045-og"
-  featured: "elec-045-featured"
-  video: "elec-045-video"
+  hero: "electricien-urgence-moret-sur-loing-77250-hero"
+  og: "electricien-moret-sur-loing-77250-og"
+  featured: "electricien-moret-sur-loing-77250-featured"
+  video: "electricien-moret-sur-loing-77250-video"
 draft: false
 ---

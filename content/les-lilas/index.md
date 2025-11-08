@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-142-hero"
-  og: "elec-142-og"
-  featured: "elec-142-featured"
-  video: "elec-142-video"
+  hero: "electricien-urgence-les-lilas-93260-hero"
+  og: "electricien-les-lilas-93260-og"
+  featured: "electricien-les-lilas-93260-featured"
+  video: "electricien-les-lilas-93260-video"
 draft: false
 ---

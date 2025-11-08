@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-027-hero"
-  og: "elec-027-og"
-  featured: "elec-027-featured"
-  video: "elec-027-video"
+  hero: "electricien-urgence-epinay-sur-seine-93800-hero"
+  og: "electricien-epinay-sur-seine-93800-og"
+  featured: "electricien-epinay-sur-seine-93800-featured"
+  video: "electricien-epinay-sur-seine-93800-video"
 draft: false
 ---

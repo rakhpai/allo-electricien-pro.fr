@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-137-hero"
-  og: "elec-137-og"
-  featured: "elec-137-featured"
-  video: "elec-137-video"
+  hero: "electricien-urgence-montgeron-91230-hero"
+  og: "electricien-montgeron-91230-og"
+  featured: "electricien-montgeron-91230-featured"
+  video: "electricien-montgeron-91230-video"
 draft: false
 ---

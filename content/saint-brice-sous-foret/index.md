@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-212-hero"
-  og: "elec-212-og"
-  featured: "elec-212-featured"
-  video: "elec-212-video"
+  hero: "electricien-urgence-saint-brice-sous-foret-95350-hero"
+  og: "electricien-saint-brice-sous-foret-95350-og"
+  featured: "electricien-saint-brice-sous-foret-95350-featured"
+  video: "electricien-saint-brice-sous-foret-95350-video"
 draft: false
 ---

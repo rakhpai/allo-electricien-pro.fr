@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-11-08T03:16:05.124Z",
+  "mode": "production",
+  "stats": {
+    "cities_processed": 9732,
+    "cities_with_electricians": 623,
+    "total_electricians": 2741,
+    "cities_skipped": 9107,
+    "errors": []
+  }
+}

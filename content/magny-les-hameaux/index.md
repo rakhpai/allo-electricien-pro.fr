@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-263-hero"
-  og: "elec-263-og"
-  featured: "elec-263-featured"
-  video: "elec-263-video"
+  hero: "electricien-urgence-magny-les-hameaux-78114-hero"
+  og: "electricien-magny-les-hameaux-78114-og"
+  featured: "electricien-magny-les-hameaux-78114-featured"
+  video: "electricien-magny-les-hameaux-78114-video"
 draft: false
 ---

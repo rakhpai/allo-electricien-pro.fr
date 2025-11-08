@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-062-hero"
-  og: "elec-062-og"
-  featured: "elec-062-featured"
-  video: "elec-062-video"
+  hero: "electricien-urgence-savigny-sur-orge-91600-hero"
+  og: "electricien-savigny-sur-orge-91600-og"
+  featured: "electricien-savigny-sur-orge-91600-featured"
+  video: "electricien-savigny-sur-orge-91600-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-132-hero"
-  og: "elec-132-og"
-  featured: "elec-132-featured"
-  video: "elec-132-video"
+  hero: "electricien-urgence-bussy-saint-georges-77600-hero"
+  og: "electricien-bussy-saint-georges-77600-og"
+  featured: "electricien-bussy-saint-georges-77600-featured"
+  video: "electricien-bussy-saint-georges-77600-video"
 draft: false
 ---

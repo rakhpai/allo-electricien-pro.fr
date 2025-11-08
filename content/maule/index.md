@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-334-hero"
-  og: "elec-334-og"
-  featured: "elec-334-featured"
-  video: "elec-334-video"
+  hero: "electricien-urgence-maule-78580-hero"
+  og: "electricien-maule-78580-og"
+  featured: "electricien-maule-78580-featured"
+  video: "electricien-maule-78580-video"
 draft: false
 ---

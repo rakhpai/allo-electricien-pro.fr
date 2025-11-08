@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-022-hero"
-  og: "elec-022-og"
-  featured: "elec-022-featured"
-  video: "elec-022-video"
+  hero: "electricien-urgence-clichy-92110-hero"
+  og: "electricien-clichy-92110-og"
+  featured: "electricien-clichy-92110-featured"
+  video: "electricien-clichy-92110-video"
 draft: false
 ---

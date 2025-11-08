@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-286-hero"
-  og: "elec-286-og"
-  featured: "elec-286-featured"
-  video: "elec-286-video"
+  hero: "electricien-urgence-beynes-78650-hero"
+  og: "electricien-beynes-78650-og"
+  featured: "electricien-beynes-78650-featured"
+  video: "electricien-beynes-78650-video"
 draft: false
 ---

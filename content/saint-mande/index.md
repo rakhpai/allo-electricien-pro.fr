@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-140-hero"
-  og: "elec-140-og"
-  featured: "elec-140-featured"
-  video: "elec-140-video"
+  hero: "electricien-urgence-saint-mande-94160-hero"
+  og: "electricien-saint-mande-94160-og"
+  featured: "electricien-saint-mande-94160-featured"
+  video: "electricien-saint-mande-94160-video"
 draft: false
 ---

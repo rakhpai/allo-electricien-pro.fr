@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-076-hero"
-  og: "elec-076-og"
-  featured: "elec-076-featured"
-  video: "elec-076-video"
+  hero: "electricien-urgence-chatenay-malabry-92290-hero"
+  og: "electricien-chatenay-malabry-92290-og"
+  featured: "electricien-chatenay-malabry-92290-featured"
+  video: "electricien-chatenay-malabry-92290-video"
 draft: false
 ---

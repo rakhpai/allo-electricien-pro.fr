@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-337-hero"
-  og: "elec-337-og"
-  featured: "elec-337-featured"
-  video: "elec-337-video"
+  hero: "electricien-urgence-magny-en-vexin-95420-hero"
+  og: "electricien-magny-en-vexin-95420-og"
+  featured: "electricien-magny-en-vexin-95420-featured"
+  video: "electricien-magny-en-vexin-95420-video"
 draft: false
 ---

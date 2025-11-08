@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-191-hero"
-  og: "elec-191-og"
-  featured: "elec-191-featured"
-  video: "elec-191-video"
+  hero: "electricien-urgence-brie-comte-robert-77170-hero"
+  og: "electricien-brie-comte-robert-77170-og"
+  featured: "electricien-brie-comte-robert-77170-featured"
+  video: "electricien-brie-comte-robert-77170-video"
 draft: false
 ---

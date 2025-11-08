@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-043-hero"
-  og: "elec-043-og"
-  featured: "elec-043-featured"
-  video: "elec-043-video"
+  hero: "electricien-urgence-suresnes-92150-hero"
+  og: "electricien-suresnes-92150-og"
+  featured: "electricien-suresnes-92150-featured"
+  video: "electricien-suresnes-92150-video"
 draft: false
 ---

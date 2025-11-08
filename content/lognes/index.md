@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-209-hero"
-  og: "elec-209-og"
-  featured: "elec-209-featured"
-  video: "elec-209-video"
+  hero: "electricien-urgence-lognes-77185-hero"
+  og: "electricien-lognes-77185-og"
+  featured: "electricien-lognes-77185-featured"
+  video: "electricien-lognes-77185-video"
 draft: false
 ---

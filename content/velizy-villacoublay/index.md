@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-158-hero"
-  og: "elec-158-og"
-  featured: "elec-158-featured"
-  video: "elec-158-video"
+  hero: "electricien-urgence-velizy-villacoublay-78140-hero"
+  og: "electricien-velizy-villacoublay-78140-og"
+  featured: "electricien-velizy-villacoublay-78140-featured"
+  video: "electricien-velizy-villacoublay-78140-video"
 draft: false
 ---

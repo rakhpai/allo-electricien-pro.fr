@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-112-hero"
-  og: "elec-112-og"
-  featured: "elec-112-featured"
-  video: "elec-112-video"
+  hero: "electricien-urgence-villiers-le-bel-95400-hero"
+  og: "electricien-villiers-le-bel-95400-og"
+  featured: "electricien-villiers-le-bel-95400-featured"
+  video: "electricien-villiers-le-bel-95400-video"
 draft: false
 ---

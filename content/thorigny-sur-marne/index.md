@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-259-hero"
-  og: "elec-259-og"
-  featured: "elec-259-featured"
-  video: "elec-259-video"
+  hero: "electricien-urgence-thorigny-sur-marne-77400-hero"
+  og: "electricien-thorigny-sur-marne-77400-og"
+  featured: "electricien-thorigny-sur-marne-77400-featured"
+  video: "electricien-thorigny-sur-marne-77400-video"
 draft: false
 ---

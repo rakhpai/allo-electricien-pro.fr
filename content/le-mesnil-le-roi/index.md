@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-318-hero"
-  og: "elec-318-og"
-  featured: "elec-318-featured"
-  video: "elec-318-video"
+  hero: "electricien-urgence-le-mesnil-le-roi-78600-hero"
+  og: "electricien-le-mesnil-le-roi-78600-og"
+  featured: "electricien-le-mesnil-le-roi-78600-featured"
+  video: "electricien-le-mesnil-le-roi-78600-video"
 draft: false
 ---

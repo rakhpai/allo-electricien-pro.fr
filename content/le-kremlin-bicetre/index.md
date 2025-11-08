@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-119-hero"
-  og: "elec-119-og"
-  featured: "elec-119-featured"
-  video: "elec-119-video"
+  hero: "electricien-urgence-le-kremlin-bicetre-94270-hero"
+  og: "electricien-le-kremlin-bicetre-94270-og"
+  featured: "electricien-le-kremlin-bicetre-94270-featured"
+  video: "electricien-le-kremlin-bicetre-94270-video"
 draft: false
 ---

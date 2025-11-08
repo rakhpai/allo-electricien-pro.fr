@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-144-hero"
-  og: "elec-144-og"
-  featured: "elec-144-featured"
-  video: "elec-144-video"
+  hero: "electricien-urgence-combs-la-ville-77380-hero"
+  og: "electricien-combs-la-ville-77380-og"
+  featured: "electricien-combs-la-ville-77380-featured"
+  video: "electricien-combs-la-ville-77380-video"
 draft: false
 ---

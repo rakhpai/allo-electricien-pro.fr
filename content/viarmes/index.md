@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-017-hero"
-  og: "elec-017-og"
-  featured: "elec-017-featured"
-  video: "elec-017-video"
+  hero: "electricien-urgence-viarmes-95270-hero"
+  og: "electricien-viarmes-95270-og"
+  featured: "electricien-viarmes-95270-featured"
+  video: "electricien-viarmes-95270-video"
 draft: false
 ---

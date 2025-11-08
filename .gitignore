@@ -27,3 +27,18 @@ Thumbs.db
 # Temporary files
 *.tmp
 .cache/
+.env
+
+# Video files - too large for git, stored locally
+videos-downloaded/
+*.mp4
+*.webm
+*.mov
+*.avi
+
+# Video thumbnails
+videos-thumbnails/
+
+# Build archives
+*.tar.gz
+*.zip

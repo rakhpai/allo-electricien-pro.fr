@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-250-hero"
-  og: "elec-250-og"
-  featured: "elec-250-featured"
-  video: "elec-250-video"
+  hero: "electricien-urgence-villebon-sur-yvette-91940-hero"
+  og: "electricien-villebon-sur-yvette-91940-og"
+  featured: "electricien-villebon-sur-yvette-91940-featured"
+  video: "electricien-villebon-sur-yvette-91940-video"
 draft: false
 ---

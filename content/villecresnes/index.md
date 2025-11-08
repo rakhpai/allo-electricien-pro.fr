@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7391
   lng: 2.55424
 images:
-  hero: "elec-251-hero"
-  og: "elec-251-og"
-  featured: "elec-251-featured"
-  video: "elec-251-video"
+  hero: "electricien-urgence-villecresnes-94440-hero"
+  og: "electricien-villecresnes-94440-og"
+  featured: "electricien-villecresnes-94440-featured"
+  video: "electricien-villecresnes-94440-video"
 draft: false
 ---

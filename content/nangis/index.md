@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-280-hero"
-  og: "elec-280-og"
-  featured: "elec-280-featured"
-  video: "elec-280-video"
+  hero: "electricien-urgence-nangis-77370-hero"
+  og: "electricien-nangis-77370-og"
+  featured: "electricien-nangis-77370-featured"
+  video: "electricien-nangis-77370-video"
 draft: false
 ---

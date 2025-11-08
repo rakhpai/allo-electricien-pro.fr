@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-206-hero"
-  og: "elec-206-og"
-  featured: "elec-206-featured"
-  video: "elec-206-video"
+  hero: "electricien-urgence-domont-95330-hero"
+  og: "electricien-domont-95330-og"
+  featured: "electricien-domont-95330-featured"
+  video: "electricien-domont-95330-video"
 draft: false
 ---

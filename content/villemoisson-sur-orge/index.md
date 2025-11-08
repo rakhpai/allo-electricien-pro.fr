@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-302-hero"
-  og: "elec-302-og"
-  featured: "elec-302-featured"
-  video: "elec-302-video"
+  hero: "electricien-urgence-villemoisson-sur-orge-91360-hero"
+  og: "electricien-villemoisson-sur-orge-91360-og"
+  featured: "electricien-villemoisson-sur-orge-91360-featured"
+  video: "electricien-villemoisson-sur-orge-91360-video"
 draft: false
 ---

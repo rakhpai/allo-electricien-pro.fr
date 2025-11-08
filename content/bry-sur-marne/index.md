@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-198-hero"
-  og: "elec-198-og"
-  featured: "elec-198-featured"
-  video: "elec-198-video"
+  hero: "electricien-urgence-bry-sur-marne-94360-hero"
+  og: "electricien-bry-sur-marne-94360-og"
+  featured: "electricien-bry-sur-marne-94360-featured"
+  video: "electricien-bry-sur-marne-94360-video"
 draft: false
 ---

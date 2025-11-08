@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-161-hero"
-  og: "elec-161-og"
-  featured: "elec-161-featured"
-  video: "elec-161-video"
+  hero: "electricien-urgence-limeil-brevannes-94450-hero"
+  og: "electricien-limeil-brevannes-94450-og"
+  featured: "electricien-limeil-brevannes-94450-featured"
+  video: "electricien-limeil-brevannes-94450-video"
 draft: false
 ---

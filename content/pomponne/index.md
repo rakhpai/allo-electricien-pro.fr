@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8816121
   lng: 2.6913606
 images:
-  hero: "elec-084-hero"
-  og: "elec-084-og"
-  featured: "elec-084-featured"
-  video: "elec-084-video"
+  hero: "electricien-urgence-pomponne-77400-hero"
+  og: "electricien-pomponne-77400-og"
+  featured: "electricien-pomponne-77400-featured"
+  video: "electricien-pomponne-77400-video"
 draft: false
 ---

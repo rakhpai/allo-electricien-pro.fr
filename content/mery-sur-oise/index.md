@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-258-hero"
-  og: "elec-258-og"
-  featured: "elec-258-featured"
-  video: "elec-258-video"
+  hero: "electricien-urgence-mery-sur-oise-95540-hero"
+  og: "electricien-mery-sur-oise-95540-og"
+  featured: "electricien-mery-sur-oise-95540-featured"
+  video: "electricien-mery-sur-oise-95540-video"
 draft: false
 ---

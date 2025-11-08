@@ -1,0 +1,16 @@
+# Robots.txt for allo-electricien.pro
+# Generated to optimize SEO and video discoverability
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://allo-electricien.pro/sitemap.xml
+Sitemap: https://allo-electricien.pro/video_sitemap.xml
+
+# Crawl-delay (optional, adjust if needed)
+# Crawl-delay: 1
+
+# Disallow certain paths (if any)
+# Disallow: /admin/
+# Disallow: /private/

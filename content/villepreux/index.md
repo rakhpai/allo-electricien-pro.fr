@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-248-hero"
-  og: "elec-248-og"
-  featured: "elec-248-featured"
-  video: "elec-248-video"
+  hero: "electricien-urgence-villepreux-78450-hero"
+  og: "electricien-villepreux-78450-og"
+  featured: "electricien-villepreux-78450-featured"
+  video: "electricien-villepreux-78450-video"
 draft: false
 ---

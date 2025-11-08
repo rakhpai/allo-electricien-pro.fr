@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-089-hero"
-  og: "elec-089-og"
-  featured: "elec-089-featured"
-  video: "elec-089-video"
+  hero: "electricien-urgence-clichy-sous-bois-93390-hero"
+  og: "electricien-clichy-sous-bois-93390-og"
+  featured: "electricien-clichy-sous-bois-93390-featured"
+  video: "electricien-clichy-sous-bois-93390-video"
 draft: false
 ---

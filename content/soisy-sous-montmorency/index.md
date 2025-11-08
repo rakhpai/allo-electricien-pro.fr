@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-179-hero"
-  og: "elec-179-og"
-  featured: "elec-179-featured"
-  video: "elec-179-video"
+  hero: "electricien-urgence-soisy-sous-montmorency-95230-hero"
+  og: "electricien-soisy-sous-montmorency-95230-og"
+  featured: "electricien-soisy-sous-montmorency-95230-featured"
+  video: "electricien-soisy-sous-montmorency-95230-video"
 draft: false
 ---

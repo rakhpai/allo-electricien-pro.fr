@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-021-hero"
-  og: "elec-021-og"
-  featured: "elec-021-featured"
-  video: "elec-021-video"
+  hero: "electricien-urgence-neuilly-sur-seine-92200-hero"
+  og: "electricien-neuilly-sur-seine-92200-og"
+  featured: "electricien-neuilly-sur-seine-92200-featured"
+  video: "electricien-neuilly-sur-seine-92200-video"
 draft: false
 ---

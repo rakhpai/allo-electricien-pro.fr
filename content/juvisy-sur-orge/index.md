@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-208-hero"
-  og: "elec-208-og"
-  featured: "elec-208-featured"
-  video: "elec-208-video"
+  hero: "electricien-urgence-juvisy-sur-orge-91260-hero"
+  og: "electricien-juvisy-sur-orge-91260-og"
+  featured: "electricien-juvisy-sur-orge-91260-featured"
+  video: "electricien-juvisy-sur-orge-91260-video"
 draft: false
 ---

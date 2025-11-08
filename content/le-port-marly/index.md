@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-024-hero"
-  og: "elec-024-og"
-  featured: "elec-024-featured"
-  video: "elec-024-video"
+  hero: "electricien-urgence-le-port-marly-78560-hero"
+  og: "electricien-le-port-marly-78560-og"
+  featured: "electricien-le-port-marly-78560-featured"
+  video: "electricien-le-port-marly-78560-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-098-hero"
-  og: "elec-098-og"
-  featured: "elec-098-featured"
-  video: "elec-098-video"
+  hero: "electricien-urgence-draveil-91210-hero"
+  og: "electricien-draveil-91210-og"
+  featured: "electricien-draveil-91210-featured"
+  video: "electricien-draveil-91210-video"
 draft: false
 ---

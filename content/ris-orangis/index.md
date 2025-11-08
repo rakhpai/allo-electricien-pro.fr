@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-106-hero"
-  og: "elec-106-og"
-  featured: "elec-106-featured"
-  video: "elec-106-video"
+  hero: "electricien-urgence-ris-orangis-91000-hero"
+  og: "electricien-ris-orangis-91000-og"
+  featured: "electricien-ris-orangis-91000-featured"
+  video: "electricien-ris-orangis-91000-video"
 draft: false
 ---

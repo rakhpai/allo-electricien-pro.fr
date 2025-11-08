@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-034-hero"
-  og: "elec-034-og"
-  featured: "elec-034-featured"
-  video: "elec-034-video"
+  hero: "electricien-urgence-bievres-91570-hero"
+  og: "electricien-bievres-91570-og"
+  featured: "electricien-bievres-91570-featured"
+  video: "electricien-bievres-91570-video"
 draft: false
 ---

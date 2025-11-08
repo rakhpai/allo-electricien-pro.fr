@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-299-hero"
-  og: "elec-299-og"
-  featured: "elec-299-featured"
-  video: "elec-299-video"
+  hero: "electricien-urgence-l-ile-saint-denis-93450-hero"
+  og: "electricien-l-ile-saint-denis-93450-og"
+  featured: "electricien-l-ile-saint-denis-93450-featured"
+  video: "electricien-l-ile-saint-denis-93450-video"
 draft: false
 ---

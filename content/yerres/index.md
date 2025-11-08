@@ -15,9 +15,9 @@ coordinates:
   lat: 48.716811
   lng: 2.4879753
 images:
-  hero: "elec-095-hero"
-  og: "elec-095-og"
-  featured: "elec-095-featured"
-  video: "elec-095-video"
+  hero: "electricien-urgence-yerres-91330-hero"
+  og: "electricien-yerres-91330-og"
+  featured: "electricien-yerres-91330-featured"
+  video: "electricien-yerres-91330-video"
 draft: false
 ---

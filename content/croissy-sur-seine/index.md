@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-245-hero"
-  og: "elec-245-og"
-  featured: "elec-245-featured"
-  video: "elec-245-video"
+  hero: "electricien-urgence-croissy-sur-seine-78290-hero"
+  og: "electricien-croissy-sur-seine-78290-og"
+  featured: "electricien-croissy-sur-seine-78290-featured"
+  video: "electricien-croissy-sur-seine-78290-video"
 draft: false
 ---

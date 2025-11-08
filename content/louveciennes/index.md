@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8616969
   lng: 2.1130641
 images:
-  hero: "elec-293-hero"
-  og: "elec-293-og"
-  featured: "elec-293-featured"
-  video: "elec-293-video"
+  hero: "electricien-urgence-louveciennes-78430-hero"
+  og: "electricien-louveciennes-78430-og"
+  featured: "electricien-louveciennes-78430-featured"
+  video: "electricien-louveciennes-78430-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-291-hero"
-  og: "elec-291-og"
-  featured: "elec-291-featured"
-  video: "elec-291-video"
+  hero: "electricien-urgence-emerainville-77184-hero"
+  og: "electricien-emerainville-77184-og"
+  featured: "electricien-emerainville-77184-featured"
+  video: "electricien-emerainville-77184-video"
 draft: false
 ---

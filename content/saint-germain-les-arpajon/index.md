@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-256-hero"
-  og: "elec-256-og"
-  featured: "elec-256-featured"
-  video: "elec-256-video"
+  hero: "electricien-urgence-saint-germain-les-arpajon-91180-hero"
+  og: "electricien-saint-germain-les-arpajon-91180-og"
+  featured: "electricien-saint-germain-les-arpajon-91180-featured"
+  video: "electricien-saint-germain-les-arpajon-91180-video"
 draft: false
 ---

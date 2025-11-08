@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-155-hero"
-  og: "elec-155-og"
-  featured: "elec-155-featured"
-  video: "elec-155-video"
+  hero: "electricien-urgence-ozoir-la-ferriere-77330-hero"
+  og: "electricien-ozoir-la-ferriere-77330-og"
+  featured: "electricien-ozoir-la-ferriere-77330-featured"
+  video: "electricien-ozoir-la-ferriere-77330-video"
 draft: false
 ---

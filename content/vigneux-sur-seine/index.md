@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-109-hero"
-  og: "elec-109-og"
-  featured: "elec-109-featured"
-  video: "elec-109-video"
+  hero: "electricien-urgence-vigneux-sur-seine-91270-hero"
+  og: "electricien-vigneux-sur-seine-91270-og"
+  featured: "electricien-vigneux-sur-seine-91270-featured"
+  video: "electricien-vigneux-sur-seine-91270-video"
 draft: false
 ---

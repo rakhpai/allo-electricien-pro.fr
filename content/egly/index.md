@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-006-hero"
-  og: "elec-006-og"
-  featured: "elec-006-featured"
-  video: "elec-006-video"
+  hero: "electricien-urgence-egly-91520-hero"
+  og: "electricien-egly-91520-og"
+  featured: "electricien-egly-91520-featured"
+  video: "electricien-egly-91520-video"
 draft: false
 ---

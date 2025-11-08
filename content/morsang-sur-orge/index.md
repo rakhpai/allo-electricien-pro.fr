@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-150-hero"
-  og: "elec-150-og"
-  featured: "elec-150-featured"
-  video: "elec-150-video"
+  hero: "electricien-urgence-morsang-sur-orge-91390-hero"
+  og: "electricien-morsang-sur-orge-91390-og"
+  featured: "electricien-morsang-sur-orge-91390-featured"
+  video: "electricien-morsang-sur-orge-91390-video"
 draft: false
 ---

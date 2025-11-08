@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8224751
   lng: 1.7546058
 images:
-  hero: "elec-158-hero"
-  og: "elec-158-og"
-  featured: "elec-158-featured"
-  video: "elec-158-video"
+  hero: "electricien-urgence-garancieres-78890-hero"
+  og: "electricien-garancieres-78890-og"
+  featured: "electricien-garancieres-78890-featured"
+  video: "electricien-garancieres-78890-video"
 draft: false
 ---

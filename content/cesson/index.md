@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-270-hero"
-  og: "elec-270-og"
-  featured: "elec-270-featured"
-  video: "elec-270-video"
+  hero: "electricien-urgence-cesson-77240-hero"
+  og: "electricien-cesson-77240-og"
+  featured: "electricien-cesson-77240-featured"
+  video: "electricien-cesson-77240-video"
 draft: false
 ---

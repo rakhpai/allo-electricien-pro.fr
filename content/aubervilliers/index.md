@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7956748
   lng: 2.6503965
 images:
-  hero: "elec-014-hero"
-  og: "elec-014-og"
-  featured: "elec-014-featured"
-  video: "elec-014-video"
+  hero: "electricien-urgence-aubervilliers-93300-hero"
+  og: "electricien-aubervilliers-93300-og"
+  featured: "electricien-aubervilliers-93300-featured"
+  video: "electricien-aubervilliers-93300-video"
 draft: false
 ---

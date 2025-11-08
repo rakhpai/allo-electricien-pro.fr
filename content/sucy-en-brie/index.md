@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-121-hero"
-  og: "elec-121-og"
-  featured: "elec-121-featured"
-  video: "elec-121-video"
+  hero: "electricien-urgence-sucy-en-brie-94880-hero"
+  og: "electricien-sucy-en-brie-94880-og"
+  featured: "electricien-sucy-en-brie-94880-featured"
+  video: "electricien-sucy-en-brie-94880-video"
 draft: false
 ---

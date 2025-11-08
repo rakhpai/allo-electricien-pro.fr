@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-269-hero"
-  og: "elec-269-og"
-  featured: "elec-269-featured"
-  video: "elec-269-video"
+  hero: "electricien-urgence-vaucresson-92420-hero"
+  og: "electricien-vaucresson-92420-og"
+  featured: "electricien-vaucresson-92420-featured"
+  video: "electricien-vaucresson-92420-video"
 draft: false
 ---

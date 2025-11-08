@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-289-hero"
-  og: "elec-289-og"
-  featured: "elec-289-featured"
-  video: "elec-289-video"
+  hero: "electricien-urgence-ballancourt-sur-essonne-91610-hero"
+  og: "electricien-ballancourt-sur-essonne-91610-og"
+  featured: "electricien-ballancourt-sur-essonne-91610-featured"
+  video: "electricien-ballancourt-sur-essonne-91610-video"
 draft: false
 ---

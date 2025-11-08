@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-310-hero"
-  og: "elec-310-og"
-  featured: "elec-310-featured"
-  video: "elec-310-video"
+  hero: "electricien-urgence-bailly-romainvilliers-77700-hero"
+  og: "electricien-bailly-romainvilliers-77700-og"
+  featured: "electricien-bailly-romainvilliers-77700-featured"
+  video: "electricien-bailly-romainvilliers-77700-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-074-hero"
-  og: "elec-074-og"
-  featured: "elec-074-featured"
-  video: "elec-074-video"
+  hero: "electricien-urgence-le-perreux-sur-marne-94170-hero"
+  og: "electricien-le-perreux-sur-marne-94170-og"
+  featured: "electricien-le-perreux-sur-marne-94170-featured"
+  video: "electricien-le-perreux-sur-marne-94170-video"
 draft: false
 ---

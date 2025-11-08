@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-018-hero"
-  og: "elec-018-og"
-  featured: "elec-018-featured"
-  video: "elec-018-video"
+  hero: "electricien-urgence-marolles-en-brie-77120-hero"
+  og: "electricien-marolles-en-brie-77120-og"
+  featured: "electricien-marolles-en-brie-77120-featured"
+  video: "electricien-marolles-en-brie-77120-video"
 draft: false
 ---

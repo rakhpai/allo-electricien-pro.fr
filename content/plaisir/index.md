@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-082-hero"
-  og: "elec-082-og"
-  featured: "elec-082-featured"
-  video: "elec-082-video"
+  hero: "electricien-urgence-plaisir-78370-hero"
+  og: "electricien-plaisir-78370-og"
+  featured: "electricien-plaisir-78370-featured"
+  video: "electricien-plaisir-78370-video"
 draft: false
 ---

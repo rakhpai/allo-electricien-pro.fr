@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-050-hero"
-  og: "elec-050-og"
-  featured: "elec-050-featured"
-  video: "elec-050-video"
+  hero: "electricien-urgence-livry-gargan-93190-hero"
+  og: "electricien-livry-gargan-93190-og"
+  featured: "electricien-livry-gargan-93190-featured"
+  video: "electricien-livry-gargan-93190-video"
 draft: false
 ---

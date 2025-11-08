@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-186-hero"
-  og: "elec-186-og"
-  featured: "elec-186-featured"
-  video: "elec-186-video"
+  hero: "electricien-urgence-marly-le-roi-78160-hero"
+  og: "electricien-marly-le-roi-78160-og"
+  featured: "electricien-marly-le-roi-78160-featured"
+  video: "electricien-marly-le-roi-78160-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8534951
   lng: 2.3483915
 images:
-  hero: "elec-010-hero"
-  og: "elec-010-og"
-  featured: "elec-010-featured"
-  video: "elec-010-video"
+  hero: "electricien-urgence-ablon-sur-seine-94480-hero"
+  og: "electricien-ablon-sur-seine-94480-og"
+  featured: "electricien-ablon-sur-seine-94480-featured"
+  video: "electricien-ablon-sur-seine-94480-video"
 draft: false
 ---

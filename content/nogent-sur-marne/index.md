@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-078-hero"
-  og: "elec-078-og"
-  featured: "elec-078-featured"
-  video: "elec-078-video"
+  hero: "electricien-urgence-nogent-sur-marne-94130-hero"
+  og: "electricien-nogent-sur-marne-94130-og"
+  featured: "electricien-nogent-sur-marne-94130-featured"
+  video: "electricien-nogent-sur-marne-94130-video"
 draft: false
 ---

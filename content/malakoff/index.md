@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-081-hero"
-  og: "elec-081-og"
-  featured: "elec-081-featured"
-  video: "elec-081-video"
+  hero: "electricien-urgence-malakoff-92240-hero"
+  og: "electricien-malakoff-92240-og"
+  featured: "electricien-malakoff-92240-featured"
+  video: "electricien-malakoff-92240-video"
 draft: false
 ---

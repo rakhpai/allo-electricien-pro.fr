@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-324-hero"
-  og: "elec-324-og"
-  featured: "elec-324-featured"
-  video: "elec-324-video"
+  hero: "electricien-urgence-courtry-77181-hero"
+  og: "electricien-courtry-77181-og"
+  featured: "electricien-courtry-77181-featured"
+  video: "electricien-courtry-77181-video"
 draft: false
 ---

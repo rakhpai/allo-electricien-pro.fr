@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-127-hero"
-  og: "elec-127-og"
-  featured: "elec-127-featured"
-  video: "elec-127-video"
+  hero: "electricien-urgence-champs-sur-marne-77420-hero"
+  og: "electricien-champs-sur-marne-77420-og"
+  featured: "electricien-champs-sur-marne-77420-featured"
+  video: "electricien-champs-sur-marne-77420-video"
 draft: false
 ---

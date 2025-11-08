@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-319-hero"
-  og: "elec-319-og"
-  featured: "elec-319-featured"
-  video: "elec-319-video"
+  hero: "electricien-urgence-gournay-sur-marne-93460-hero"
+  og: "electricien-gournay-sur-marne-93460-og"
+  featured: "electricien-gournay-sur-marne-93460-featured"
+  video: "electricien-gournay-sur-marne-93460-video"
 draft: false
 ---

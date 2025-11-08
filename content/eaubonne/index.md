@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-129-hero"
-  og: "elec-129-og"
-  featured: "elec-129-featured"
-  video: "elec-129-video"
+  hero: "electricien-urgence-eaubonne-95600-hero"
+  og: "electricien-eaubonne-95600-og"
+  featured: "electricien-eaubonne-95600-featured"
+  video: "electricien-eaubonne-95600-video"
 draft: false
 ---

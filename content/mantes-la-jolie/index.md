@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-048-hero"
-  og: "elec-048-og"
-  featured: "elec-048-featured"
-  video: "elec-048-video"
+  hero: "electricien-urgence-mantes-la-jolie-78200-hero"
+  og: "electricien-mantes-la-jolie-78200-og"
+  featured: "electricien-mantes-la-jolie-78200-featured"
+  video: "electricien-mantes-la-jolie-78200-video"
 draft: false
 ---

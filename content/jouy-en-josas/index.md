@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-275-hero"
-  og: "elec-275-og"
-  featured: "elec-275-featured"
-  video: "elec-275-video"
+  hero: "electricien-urgence-jouy-en-josas-78350-hero"
+  og: "electricien-jouy-en-josas-78350-og"
+  featured: "electricien-jouy-en-josas-78350-featured"
+  video: "electricien-jouy-en-josas-78350-video"
 draft: false
 ---

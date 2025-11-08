@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-070-hero"
-  og: "elec-070-og"
-  featured: "elec-070-featured"
-  video: "elec-070-video"
+  hero: "electricien-urgence-neuilly-sur-marne-93330-hero"
+  og: "electricien-neuilly-sur-marne-93330-og"
+  featured: "electricien-neuilly-sur-marne-93330-featured"
+  video: "electricien-neuilly-sur-marne-93330-video"
 draft: false
 ---

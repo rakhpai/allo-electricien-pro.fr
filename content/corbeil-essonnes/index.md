@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-047-hero"
-  og: "elec-047-og"
-  featured: "elec-047-featured"
-  video: "elec-047-video"
+  hero: "electricien-urgence-corbeil-essonnes-91100-hero"
+  og: "electricien-corbeil-essonnes-91100-og"
+  featured: "electricien-corbeil-essonnes-91100-featured"
+  video: "electricien-corbeil-essonnes-91100-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-069-hero"
-  og: "elec-069-og"
-  featured: "elec-069-featured"
-  video: "elec-069-video"
+  hero: "electricien-urgence-stains-93240-hero"
+  og: "electricien-stains-93240-og"
+  featured: "electricien-stains-93240-featured"
+  video: "electricien-stains-93240-video"
 draft: false
 ---

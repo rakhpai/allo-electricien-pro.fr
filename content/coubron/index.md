@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-029-hero"
-  og: "elec-029-og"
-  featured: "elec-029-featured"
-  video: "elec-029-video"
+  hero: "electricien-urgence-coubron-93470-hero"
+  og: "electricien-coubron-93470-og"
+  featured: "electricien-coubron-93470-featured"
+  video: "electricien-coubron-93470-video"
 draft: false
 ---

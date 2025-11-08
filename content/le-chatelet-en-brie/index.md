@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-041-hero"
-  og: "elec-041-og"
-  featured: "elec-041-featured"
-  video: "elec-041-video"
+  hero: "electricien-urgence-le-chatelet-en-brie-77820-hero"
+  og: "electricien-le-chatelet-en-brie-77820-og"
+  featured: "electricien-le-chatelet-en-brie-77820-featured"
+  video: "electricien-le-chatelet-en-brie-77820-video"
 draft: false
 ---

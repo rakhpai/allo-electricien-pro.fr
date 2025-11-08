@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-051-hero"
-  og: "elec-051-og"
-  featured: "elec-051-featured"
-  video: "elec-051-video"
+  hero: "electricien-urgence-gennevilliers-92230-hero"
+  og: "electricien-gennevilliers-92230-og"
+  featured: "electricien-gennevilliers-92230-featured"
+  video: "electricien-gennevilliers-92230-video"
 draft: false
 ---

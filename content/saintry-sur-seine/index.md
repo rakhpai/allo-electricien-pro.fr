@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-013-hero"
-  og: "elec-013-og"
-  featured: "elec-013-featured"
-  video: "elec-013-video"
+  hero: "electricien-urgence-saintry-sur-seine-91250-hero"
+  og: "electricien-saintry-sur-seine-91250-og"
+  featured: "electricien-saintry-sur-seine-91250-featured"
+  video: "electricien-saintry-sur-seine-91250-video"
 draft: false
 ---

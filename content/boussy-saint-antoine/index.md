@@ -15,9 +15,9 @@ coordinates:
   lat: 48.9435844
   lng: 1.7330307
 images:
-  hero: "elec-323-hero"
-  og: "elec-323-og"
-  featured: "elec-323-featured"
-  video: "elec-323-video"
+  hero: "electricien-urgence-boussy-saint-antoine-91800-hero"
+  og: "electricien-boussy-saint-antoine-91800-og"
+  featured: "electricien-boussy-saint-antoine-91800-featured"
+  video: "electricien-boussy-saint-antoine-91800-video"
 draft: false
 ---

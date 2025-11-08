@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-222-hero"
-  og: "elec-222-og"
-  featured: "elec-222-featured"
-  video: "elec-222-video"
+  hero: "electricien-urgence-villetaneuse-93430-hero"
+  og: "electricien-villetaneuse-93430-og"
+  featured: "electricien-villetaneuse-93430-featured"
+  video: "electricien-villetaneuse-93430-video"
 draft: false
 ---

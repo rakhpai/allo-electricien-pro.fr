@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-306-hero"
-  og: "elec-306-og"
-  featured: "elec-306-featured"
-  video: "elec-306-video"
+  hero: "electricien-urgence-le-mesnil-saint-denis-78320-hero"
+  og: "electricien-le-mesnil-saint-denis-78320-og"
+  featured: "electricien-le-mesnil-saint-denis-78320-featured"
+  video: "electricien-le-mesnil-saint-denis-78320-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-103-hero"
-  og: "elec-103-og"
-  featured: "elec-103-featured"
-  video: "elec-103-video"
+  hero: "electricien-urgence-pierrefitte-sur-seine-93380-hero"
+  og: "electricien-pierrefitte-sur-seine-93380-og"
+  featured: "electricien-pierrefitte-sur-seine-93380-featured"
+  video: "electricien-pierrefitte-sur-seine-93380-video"
 draft: false
 ---

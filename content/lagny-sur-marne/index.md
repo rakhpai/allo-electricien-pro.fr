@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-156-hero"
-  og: "elec-156-og"
-  featured: "elec-156-featured"
-  video: "elec-156-video"
+  hero: "electricien-urgence-lagny-sur-marne-77400-hero"
+  og: "electricien-lagny-sur-marne-77400-og"
+  featured: "electricien-lagny-sur-marne-77400-featured"
+  video: "electricien-lagny-sur-marne-77400-video"
 draft: false
 ---

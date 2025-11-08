@@ -1,0 +1,460 @@
+{{ define "main" }}
+
+<!-- VARIANT 2: TRUST-DRIVEN FUNNEL -->
+<!-- Strategy: Build credibility first, then convert skeptical users -->
+<!-- Mobile-First 2025 UX: Social proof first, Sticky thumb-zone CTA, Time-based personalization -->
+
+<!-- Social Proof Hero Section -->
+<section class="relative bg-gradient-to-br from-blue-900 via-primary to-blue-700 text-white py-16 md:py-24 overflow-hidden">
+  <!-- Background Pattern -->
+  <div class="absolute inset-0 z-0 opacity-10">
+    <div class="absolute inset-0" style="background-image: url('data:image/svg+xml,%3Csvg width=&quot;60&quot; height=&quot;60&quot; viewBox=&quot;0 0 60 60&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;%3E%3Cg fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;%3E%3Cg fill=&quot;%23ffffff&quot; fill-opacity=&quot;0.4&quot;%3E%3Cpath d=&quot;M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z&quot;/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');"></div>
+  </div>
+
+  <!-- Content Layer -->
+  <div class="container mx-auto px-4 relative z-20">
+    <div class="max-w-4xl mx-auto text-center">
+      <!-- Trust Badge Header -->
+      <div class="mb-8">
+        <div class="inline-flex items-center gap-3 bg-white/20 backdrop-blur-md px-6 py-3 rounded-full mb-4">
+          <svg class="w-6 h-6 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+            <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+          </svg>
+          <div class="text-left">
+            <div class="font-bold text-2xl stars-animate">4.8/5</div>
+            <div class="text-xs text-blue-100">200+ avis vérifiés</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Featured Testimonial (Large) -->
+      <div class="bg-white/10 backdrop-blur-lg border border-white/20 rounded-2xl p-8 md:p-10 mb-8 testimonial-featured">
+        <div class="flex gap-2 justify-center mb-4 stars-row">
+          <svg class="w-6 h-6 text-yellow-400 fill-current star-pop" style="animation-delay: 0ms" viewBox="0 0 20 20">
+            <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+          </svg>
+          <svg class="w-6 h-6 text-yellow-400 fill-current star-pop" style="animation-delay: 100ms" viewBox="0 0 20 20">
+            <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+          </svg>
+          <svg class="w-6 h-6 text-yellow-400 fill-current star-pop" style="animation-delay: 200ms" viewBox="0 0 20 20">
+            <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+          </svg>
+          <svg class="w-6 h-6 text-yellow-400 fill-current star-pop" style="animation-delay: 300ms" viewBox="0 0 20 20">
+            <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+          </svg>
+          <svg class="w-6 h-6 text-yellow-400 fill-current star-pop" style="animation-delay: 400ms" viewBox="0 0 20 20">
+            <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+          </svg>
+        </div>
+        <blockquote class="text-xl md:text-2xl font-light italic mb-6 leading-relaxed">
+          "Intervention rapide en moins de 25 minutes pour une panne électrique totale. Électricien professionnel et courtois. Je recommande vivement !"
+        </blockquote>
+        <div class="flex items-center justify-center gap-3">
+          <div class="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center font-bold text-xl">
+            SM
+          </div>
+          <div class="text-left">
+            <div class="font-semibold">Sophie Martin</div>
+            <div class="text-sm text-blue-200">Paris 15ème • Janvier 2025</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Hero Headline -->
+      <h1 class="text-3xl md:text-5xl font-bold mb-4 leading-tight">
+        ⚡ {{ .Site.Title }}
+      </h1>
+      <p class="text-lg md:text-xl text-blue-100 mb-6">
+        {{ .Site.Params.description }}
+      </p>
+    </div>
+  </div>
+
+  <!-- Background Hero Image (Subtle) -->
+  <div class="absolute inset-0 z-0 opacity-10">
+    <picture>
+      <source srcset="/images/hero/elec-1-hero.avif" type="image/avif">
+      <source srcset="/images/hero/elec-1-hero.webp" type="image/webp">
+      <img src="/images/hero/elec-1-hero.jpg"
+           alt="Électricien professionnel certifié"
+           class="w-full h-full object-cover"
+           width="1920"
+           height="1080"
+           loading="eager"
+           fetchpriority="high">
+    </picture>
+  </div>
+</section>
+
+<!-- Stats Bar -->
+<section class="bg-white py-12 border-t-4 border-primary shadow-md">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+      <div class="transform transition-all duration-300 hover:scale-105 stat-item">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2 counter-animate">{{ .Site.Data.sites.total_sites }}</div>
+        <div class="text-gray-600 font-semibold">Professionnels</div>
+      </div>
+      <div class="transform transition-all duration-300 hover:scale-105 stat-item">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2 counter-animate">{{ len .Site.Data.sites.departments }}</div>
+        <div class="text-gray-600 font-semibold">Départements</div>
+      </div>
+      <div class="transform transition-all duration-300 hover:scale-105 stat-item">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2">24/7</div>
+        <div class="text-gray-600 font-semibold">Disponibilité</div>
+      </div>
+      <div class="transform transition-all duration-300 hover:scale-105 stat-item">
+        <div class="text-4xl md:text-5xl font-bold text-primary mb-2">&lt;30min</div>
+        <div class="text-gray-600 font-semibold">Intervention</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Trust Badges / Certifications -->
+<section class="py-12 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h3 class="text-center text-xl md:text-2xl font-bold text-gray-900 mb-8">
+        Certifications et Garanties
+      </h3>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+        <div class="bg-white rounded-xl shadow-md p-6 hover:shadow-xl transition-all duration-300 trust-badge">
+          <div class="text-4xl mb-3">✓</div>
+          <div class="font-bold text-gray-900 mb-1">Certifiés</div>
+          <div class="text-sm text-gray-600">NF C 15-100</div>
+        </div>
+        <div class="bg-white rounded-xl shadow-md p-6 hover:shadow-xl transition-all duration-300 trust-badge">
+          <div class="text-4xl mb-3">🔒</div>
+          <div class="font-bold text-gray-900 mb-1">Assurés</div>
+          <div class="text-sm text-gray-600">RC Pro</div>
+        </div>
+        <div class="bg-white rounded-xl shadow-md p-6 hover:shadow-xl transition-all duration-300 trust-badge">
+          <div class="text-4xl mb-3">⭐</div>
+          <div class="font-bold text-gray-900 mb-1">Garantie</div>
+          <div class="text-sm text-gray-600">2 ans travaux</div>
+        </div>
+        <div class="bg-white rounded-xl shadow-md p-6 hover:shadow-xl transition-all duration-300 trust-badge">
+          <div class="text-4xl mb-3">📞</div>
+          <div class="font-bold text-gray-900 mb-1">Support</div>
+          <div class="text-sm text-gray-600">24h/24 7j/7</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Value Proposition + CTA Section -->
+<section class="py-16 bg-gradient-to-br from-primary to-blue-700 text-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">
+        Besoin d'un Électricien de Confiance ?
+      </h2>
+      <p class="text-xl text-blue-100 mb-8">
+        <span id="time-based-message">Nos électriciens certifiés sont disponibles 24h/24</span> pour vous dépanner rapidement
+      </p>
+
+      <!-- Emergency CTA -->
+      <a href="tel:{{ .Site.Params.mainPhoneRaw }}"
+         class="inline-flex items-center justify-center gap-3 bg-emergency hover:bg-red-700 text-white font-bold py-5 px-10 rounded-xl text-xl md:text-2xl shadow-2xl transform transition-all duration-300 hover:scale-105 mb-4 w-full sm:w-auto cta-glow">
+        <svg class="w-7 h-7" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+        </svg>
+        <span>{{ .Site.Params.mainPhone }}</span>
+      </a>
+
+      <p class="text-sm text-blue-200">
+        ✓ Devis gratuit • ✓ Intervention rapide • ✓ Prix transparent
+      </p>
+    </div>
+  </div>
+</section>
+
+<!-- More Testimonials Carousel -->
+{{ partial "testimonials-carousel.html" . }}
+
+<!-- Services Section (Detailed) -->
+<section id="services" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
+        Nos Services d'Électricité
+      </h2>
+      <p class="text-center text-gray-600 mb-12 text-lg">
+        Des solutions complètes pour tous vos besoins électriques
+      </p>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <!-- Dépannage Urgent -->
+        <div class="bg-gradient-to-br from-red-50 to-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 border-t-4 border-emergency service-card">
+          <div class="text-5xl mb-4">⚡</div>
+          <h3 class="text-2xl font-bold text-gray-900 mb-3">Dépannage Urgent</h3>
+          <p class="text-gray-700 mb-4 leading-relaxed">Intervention rapide 24h/24 pour tous vos problèmes électriques : panne de courant, court-circuit, disjoncteur qui saute.</p>
+          <ul class="text-sm text-gray-600 space-y-2 mb-6">
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-emergency flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Intervention &lt;30 minutes</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-emergency flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Disponible 24/7</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-emergency flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Tarif transparent</span>
+            </li>
+          </ul>
+          <a href="tel:{{ .Site.Params.mainPhoneRaw }}" class="inline-block w-full text-center bg-emergency hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300">
+            Appeler Maintenant
+          </a>
+        </div>
+
+        <!-- Installation -->
+        <div class="bg-gradient-to-br from-blue-50 to-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 border-t-4 border-primary service-card">
+          <div class="text-5xl mb-4">🔧</div>
+          <h3 class="text-2xl font-bold text-gray-900 mb-3">Installation</h3>
+          <p class="text-gray-700 mb-4 leading-relaxed">Pose de prises, interrupteurs, luminaires, tableaux électriques et tous travaux d'installation électrique.</p>
+          <ul class="text-sm text-gray-600 space-y-2 mb-6">
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-primary flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Devis gratuit sous 24h</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-primary flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Matériel de qualité</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-primary flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Garantie 2 ans</span>
+            </li>
+          </ul>
+          <a href="#directory" class="inline-block w-full text-center bg-primary hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300">
+            Trouver un Électricien
+          </a>
+        </div>
+
+        <!-- Mise aux Normes -->
+        <div class="bg-gradient-to-br from-green-50 to-white rounded-xl shadow-lg p-8 hover:shadow-2xl transition-all duration-300 border-t-4 border-green-500 service-card">
+          <div class="text-5xl mb-4">✓</div>
+          <h3 class="text-2xl font-bold text-gray-900 mb-3">Mise aux Normes</h3>
+          <p class="text-gray-700 mb-4 leading-relaxed">Conformité NF C 15-100, diagnostic électrique complet, rénovation de votre installation électrique.</p>
+          <ul class="text-sm text-gray-600 space-y-2 mb-6">
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Diagnostic gratuit</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Certification NF C 15-100</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <svg class="w-5 h-5 text-green-600 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+              </svg>
+              <span>Financement disponible</span>
+            </li>
+          </ul>
+          <a href="#directory" class="inline-block w-full text-center bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg transition-all duration-300">
+            Demander un Devis
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Directory Section -->
+<section id="directory" class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
+        Trouvez Votre Électricien
+      </h2>
+      <p class="text-center text-gray-600 mb-12 text-lg">
+        {{ .Site.Data.sites.total_sites }} électriciens dans {{ len .Site.Data.sites.departments }} départements
+      </p>
+
+      <!-- Department Tabs -->
+      <div class="mb-8">
+        <div class="flex flex-wrap gap-2 justify-center">
+          <button class="dept-filter-btn active bg-primary text-white px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition" data-dept="all">
+            Tous ({{ .Site.Data.sites.total_sites }})
+          </button>
+          {{ range .Site.Data.sites.departments }}
+          <button class="dept-filter-btn bg-white text-gray-700 px-6 py-2 rounded-full font-semibold hover:bg-gray-100 transition shadow-sm" data-dept="{{ . }}">
+            {{ . }} ({{ index $.Site.Data.sites.stats . }})
+          </button>
+          {{ end }}
+        </div>
+      </div>
+
+      <!-- Search Box -->
+      <div class="mb-8 max-w-2xl mx-auto">
+        <input type="text"
+               id="city-search"
+               placeholder="Rechercher une commune..."
+               class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-lg focus:border-primary focus:outline-none focus:ring-2 focus:ring-primary/20 transition-all">
+      </div>
+
+      <!-- Cities Grid -->
+      <div id="cities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ range .Site.Data.sites.sites }}
+        <div class="city-card bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition-all duration-300 hover:-translate-y-1"
+             data-city="{{ .city }}"
+             data-zip="{{ .zipCode }}"
+             data-dept="{{ substr .zipCode 0 2 }}">
+          <h3 class="text-xl font-bold text-gray-900 mb-2">{{ .city }}</h3>
+          <p class="text-gray-600 mb-4">{{ .zipCode }}</p>
+          <a href="{{ .url }}" class="text-primary font-semibold hover:underline inline-flex items-center gap-1 group">
+            Voir l'électricien
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+
+      <div id="no-results" class="hidden text-center py-12">
+        <p class="text-gray-600 text-lg">Aucune commune trouvée.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Map Section -->
+<section id="coverage" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+        Zone de Couverture
+      </h2>
+      <div class="bg-gray-50 rounded-lg shadow-lg p-4">
+        <div id="homepage-map" class="h-96 md:h-[600px] rounded-lg"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Sticky Thumb-Zone CTA Bar -->
+{{ partial "sticky-cta-bar.html" . }}
+
+<!-- Initialize Map -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Time-based messaging
+    const hour = new Date().getHours();
+    const messageEl = document.getElementById('time-based-message');
+
+    if (messageEl) {
+      if (hour >= 22 || hour < 6) {
+        messageEl.textContent = 'Service nuit actif : nos électriciens';
+      } else if (hour >= 6 && hour < 9) {
+        messageEl.textContent = 'Intervention dès ce matin : nos électriciens';
+      } else if (hour >= 18 && hour < 22) {
+        messageEl.textContent = 'Intervention ce soir possible : nos électriciens';
+      }
+    }
+
+    // Initialize map
+    const map = L.map('homepage-map').setView([48.8566, 2.3522], 9);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    const markers = L.markerClusterGroup();
+
+    {{ range .Site.Data.sites.sites }}
+    markers.addLayer(L.marker([{{ .coordinates.lat }}, {{ .coordinates.lng }}])
+      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Voir l\'électricien</a>'));
+    {{ end }}
+
+    map.addLayer(markers);
+  });
+</script>
+
+<style>
+  /* Variant 2 Specific Styles */
+  .star-pop {
+    animation: starPop 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+    opacity: 0;
+  }
+
+  .testimonial-featured {
+    animation: slideInUp 0.8s ease-out forwards;
+  }
+
+  @keyframes slideInUp {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .trust-badge {
+    animation: fadeIn 0.6s ease-out forwards;
+    opacity: 0;
+  }
+
+  .trust-badge:nth-child(1) { animation-delay: 0.1s; }
+  .trust-badge:nth-child(2) { animation-delay: 0.2s; }
+  .trust-badge:nth-child(3) { animation-delay: 0.3s; }
+  .trust-badge:nth-child(4) { animation-delay: 0.4s; }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .cta-glow {
+    box-shadow: 0 0 30px rgba(255, 0, 0, 0.5);
+    animation: glow 2s ease-in-out infinite;
+  }
+
+  @keyframes glow {
+    0%, 100% {
+      box-shadow: 0 0 20px rgba(255, 0, 0, 0.4);
+    }
+    50% {
+      box-shadow: 0 0 40px rgba(255, 0, 0, 0.7);
+    }
+  }
+
+  .service-card {
+    animation: slideInUp 0.6s ease-out forwards;
+    opacity: 0;
+  }
+
+  .service-card:nth-child(1) { animation-delay: 0.1s; }
+  .service-card:nth-child(2) { animation-delay: 0.2s; }
+  .service-card:nth-child(3) { animation-delay: 0.3s; }
+</style>
+
+{{ end }}

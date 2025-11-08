@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-11-08T02:27:14.488Z",
+  "mode": "execute",
+  "stats": {
+    "citiesProcessed": 409,
+    "totalCities": 409,
+    "sharedImagesCopied": 648,
+    "uniqueImagesRenamed": 1611,
+    "frontmatterUpdated": 409,
+    "totalFiles": 2259
+  },
+  "testCities": null,
+  "sampleMappings": [
+    {
+      "city": "ABLON-SUR-SEINE",
+      "oldHero": "electricien-urgence-ablon-sur-seine-94480-hero.jpg",
+      "newHero": "electricien-urgence-ablon-sur-seine-94480-hero.jpg",
+      "altTag": "Électricien d'urgence à Ablon Sur Seine (94480) - Dépannage 24/7",
+      "isShared": false
+    },
+    {
+      "city": "ACHERES",
+      "oldHero": "elec-164-hero.jpg",
+      "newHero": "electricien-urgence-acheres-78260-hero.jpg",
+      "altTag": "Électricien d'urgence à Acheres (78260) - Dépannage 24/7",
+      "isShared": false
+    },
+    {
+      "city": "ALFORTVILLE",
+      "oldHero": "elec-046-hero.jpg",
+      "newHero": "electricien-urgence-alfortville-94140-hero.jpg",
+      "altTag": "Électricien d'urgence à Alfortville (94140) - Dépannage 24/7",
+      "isShared": false
+    },
+    {
+      "city": "ANDRESY",
+      "oldHero": "elec-226-hero.jpg",
+      "newHero": "electricien-urgence-andresy-78570-hero.jpg",
+      "altTag": "Électricien d'urgence à Andresy (78570) - Dépannage 24/7",
+      "isShared": false
+    },
+    {
+      "city": "ANTONY",
+      "oldHero": "elec-020-hero.jpg",
+      "newHero": "electricien-urgence-antony-92160-hero.jpg",
+      "altTag": "Électricien d'urgence à Antony (92160) - Dépannage 24/7",
+      "isShared": true
+    }
+  ]
+}

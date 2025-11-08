@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-030-hero"
-  og: "elec-030-og"
-  featured: "elec-030-featured"
-  video: "elec-030-video"
+  hero: "electricien-urgence-nozay-91620-hero"
+  og: "electricien-nozay-91620-og"
+  featured: "electricien-nozay-91620-featured"
+  video: "electricien-nozay-91620-video"
 draft: false
 ---

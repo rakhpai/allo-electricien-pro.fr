@@ -15,9 +15,9 @@ coordinates:
   lat: 49.0790561
   lng: 2.2048038
 images:
-  hero: "elec-039-hero"
-  og: "elec-039-og"
-  featured: "elec-039-featured"
-  video: "elec-039-video"
+  hero: "electricien-urgence-meriel-95630-hero"
+  og: "electricien-meriel-95630-og"
+  featured: "electricien-meriel-95630-featured"
+  video: "electricien-meriel-95630-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7305162
   lng: 2.172576
 images:
-  hero: "elec-095-hero"
-  og: "elec-095-og"
-  featured: "elec-095-featured"
-  video: "elec-095-video"
+  hero: "electricien-urgence-saclay-91400-hero"
+  og: "electricien-saclay-91400-og"
+  featured: "electricien-saclay-91400-featured"
+  video: "electricien-saclay-91400-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-264-hero"
-  og: "elec-264-og"
-  featured: "elec-264-featured"
-  video: "elec-264-video"
+  hero: "electricien-urgence-ezanville-95460-hero"
+  og: "electricien-ezanville-95460-og"
+  featured: "electricien-ezanville-95460-featured"
+  video: "electricien-ezanville-95460-video"
 draft: false
 ---

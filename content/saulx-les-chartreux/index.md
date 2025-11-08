@@ -15,9 +15,9 @@ coordinates:
   lat: 48.6919585
   lng: 2.2664925
 images:
-  hero: "elec-016-hero"
-  og: "elec-016-og"
-  featured: "elec-016-featured"
-  video: "elec-016-video"
+  hero: "electricien-urgence-saulx-les-chartreux-91160-hero"
+  og: "electricien-saulx-les-chartreux-91160-og"
+  featured: "electricien-saulx-les-chartreux-91160-featured"
+  video: "electricien-saulx-les-chartreux-91160-video"
 draft: false
 ---

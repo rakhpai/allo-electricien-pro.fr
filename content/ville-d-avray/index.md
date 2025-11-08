@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-238-hero"
-  og: "elec-238-og"
-  featured: "elec-238-featured"
-  video: "elec-238-video"
+  hero: "electricien-urgence-ville-d-avray-92410-hero"
+  og: "electricien-ville-d-avray-92410-og"
+  featured: "electricien-ville-d-avray-92410-featured"
+  video: "electricien-ville-d-avray-92410-video"
 draft: false
 ---

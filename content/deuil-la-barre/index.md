@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-145-hero"
-  og: "elec-145-og"
-  featured: "elec-145-featured"
-  video: "elec-145-video"
+  hero: "electricien-urgence-deuil-la-barre-95170-hero"
+  og: "electricien-deuil-la-barre-95170-og"
+  featured: "electricien-deuil-la-barre-95170-featured"
+  video: "electricien-deuil-la-barre-95170-video"
 draft: false
 ---

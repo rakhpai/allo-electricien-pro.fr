@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-014-hero"
-  og: "elec-014-og"
-  featured: "elec-014-featured"
-  video: "elec-014-video"
+  hero: "electricien-urgence-villennes-sur-seine-78670-hero"
+  og: "electricien-villennes-sur-seine-78670-og"
+  featured: "electricien-villennes-sur-seine-78670-featured"
+  video: "electricien-villennes-sur-seine-78670-video"
 draft: false
 ---

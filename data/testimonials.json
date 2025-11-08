@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Sophie Martin",
+    "city": "Paris 15ème",
+    "rating": 5,
+    "date": "2025-01-15",
+    "text": "Intervention rapide en moins de 25 minutes pour une panne électrique totale. Électricien professionnel et courtois. Je recommande vivement !",
+    "service": "Dépannage Urgent"
+  },
+  {
+    "id": 2,
+    "name": "Thomas Dubois",
+    "city": "Versailles",
+    "rating": 5,
+    "date": "2025-01-10",
+    "text": "Excellent service ! Mise aux normes de mon tableau électrique réalisée en une journée. Travail soigné et prix transparent.",
+    "service": "Mise aux Normes"
+  },
+  {
+    "id": 3,
+    "name": "Marie Lefebvre",
+    "city": "Nanterre",
+    "rating": 5,
+    "date": "2025-01-08",
+    "text": "Dépannage un dimanche soir, électricien arrivé très vite. Problème résolu efficacement. Merci pour votre réactivité !",
+    "service": "Dépannage Urgent"
+  },
+  {
+    "id": 4,
+    "name": "Pierre Rousseau",
+    "city": "Créteil",
+    "rating": 4,
+    "date": "2025-01-05",
+    "text": "Installation de prises supplémentaires et luminaires. Travail de qualité, électricien ponctuel et professionnel.",
+    "service": "Installation"
+  },
+  {
+    "id": 5,
+    "name": "Isabelle Bernard",
+    "city": "Saint-Denis",
+    "rating": 5,
+    "date": "2024-12-28",
+    "text": "Panne électrique en pleine nuit, intervention en 20 minutes ! Service remarquable et tarif honnête. Merci infiniment.",
+    "service": "Dépannage Urgent"
+  },
+  {
+    "id": 6,
+    "name": "Alexandre Petit",
+    "city": "Argenteuil",
+    "rating": 5,
+    "date": "2024-12-22",
+    "text": "Rénovation complète de l'installation électrique de mon appartement. Électricien compétent, respect des délais. Je recommande !",
+    "service": "Installation"
+  }
+]

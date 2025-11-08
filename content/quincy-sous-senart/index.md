@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-278-hero"
-  og: "elec-278-og"
-  featured: "elec-278-featured"
-  video: "elec-278-video"
+  hero: "electricien-urgence-quincy-sous-senart-91480-hero"
+  og: "electricien-quincy-sous-senart-91480-og"
+  featured: "electricien-quincy-sous-senart-91480-featured"
+  video: "electricien-quincy-sous-senart-91480-video"
 draft: false
 ---

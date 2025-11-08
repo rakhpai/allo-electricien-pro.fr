@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-303-hero"
-  og: "elec-303-og"
-  featured: "elec-303-featured"
-  video: "elec-303-video"
+  hero: "electricien-urgence-montlhery-91310-hero"
+  og: "electricien-montlhery-91310-og"
+  featured: "electricien-montlhery-91310-featured"
+  video: "electricien-montlhery-91310-video"
 draft: false
 ---

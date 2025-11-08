@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-060-hero"
-  og: "elec-060-og"
-  featured: "elec-060-featured"
-  video: "elec-060-video"
+  hero: "electricien-urgence-la-courneuve-93120-hero"
+  og: "electricien-la-courneuve-93120-og"
+  featured: "electricien-la-courneuve-93120-featured"
+  video: "electricien-la-courneuve-93120-video"
 draft: false
 ---

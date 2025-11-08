@@ -1,0 +1,45 @@
+=== EXPORT ELECTRICIANS FROM SUPABASE ===
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 1: FETCH CITIES FROM GEOGRAPHIC_LOCATIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Found 1000 cities in database
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 2: FETCH ELECTRICIANS FOR EACH CITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ⊘ Abancourt (abancourt): No electricians with addresses
+  ⊘ ABANCOURT (abancourt-59265): No electricians with addresses
+  ⊘ ABBARETZ (abbaretz-44170): No electricians with addresses
+  ⊘ Abbecourt (abbecourt): No electricians with addresses
+  ⊘ Abbéville-la-Rivière (abbeville-la-riviere): No electricians with addresses
+  ⊘ Abbeville-Saint-Lucien (abbeville-saint-lucien): No electricians with addresses
+  ⊘ ABEILHAN (abeilhan-34290): No electricians with addresses
+  ⊘ ABLANCOURT (ablancourt-51240): No electricians with addresses
+  ✓ Ableiges (ableiges): 1 electricians
+  ✓ Ablis (ablis): 2 electricians
+  Progress: 450/1000 cities (45.0%)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 3: WRITE TO FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Successfully wrote to: /home/proalloelectrici/hugosource/data/commune_electricians.json
+  File size: 121.50 KB
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EXPORT COMPLETE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Statistics:
+  Cities processed:          1000
+  Cities with electricians:  59
+  Cities skipped (no data):  941
+  Total electricians:        250
+  Errors:                    0
+
+
+✓ Export summary saved to: export-summary.json
+

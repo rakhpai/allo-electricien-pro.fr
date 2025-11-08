@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-294-hero"
-  og: "elec-294-og"
-  featured: "elec-294-featured"
-  video: "elec-294-video"
+  hero: "electricien-urgence-saint-germain-les-corbeil-91250-hero"
+  og: "electricien-saint-germain-les-corbeil-91250-og"
+  featured: "electricien-saint-germain-les-corbeil-91250-featured"
+  video: "electricien-saint-germain-les-corbeil-91250-video"
 draft: false
 ---

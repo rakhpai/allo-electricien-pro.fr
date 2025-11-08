@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-159-hero"
-  og: "elec-159-og"
-  featured: "elec-159-featured"
-  video: "elec-159-video"
+  hero: "electricien-urgence-saint-michel-sur-orge-91240-hero"
+  og: "electricien-saint-michel-sur-orge-91240-og"
+  featured: "electricien-saint-michel-sur-orge-91240-featured"
+  video: "electricien-saint-michel-sur-orge-91240-video"
 draft: false
 ---

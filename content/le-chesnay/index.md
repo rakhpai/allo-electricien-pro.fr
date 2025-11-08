@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-096-hero"
-  og: "elec-096-og"
-  featured: "elec-096-featured"
-  video: "elec-096-video"
+  hero: "electricien-urgence-le-chesnay-78150-hero"
+  og: "electricien-le-chesnay-78150-og"
+  featured: "electricien-le-chesnay-78150-featured"
+  video: "electricien-le-chesnay-78150-video"
 draft: false
 ---

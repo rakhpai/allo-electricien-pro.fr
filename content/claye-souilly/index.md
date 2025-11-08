@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-236-hero"
-  og: "elec-236-og"
-  featured: "elec-236-featured"
-  video: "elec-236-video"
+  hero: "electricien-urgence-claye-souilly-77410-hero"
+  og: "electricien-claye-souilly-77410-og"
+  featured: "electricien-claye-souilly-77410-featured"
+  video: "electricien-claye-souilly-77410-video"
 draft: false
 ---

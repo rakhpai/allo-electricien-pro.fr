@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-117-hero"
-  og: "elec-117-og"
-  featured: "elec-117-featured"
-  video: "elec-117-video"
+  hero: "electricien-urgence-taverny-95150-hero"
+  og: "electricien-taverny-95150-og"
+  featured: "electricien-taverny-95150-featured"
+  video: "electricien-taverny-95150-video"
 draft: false
 ---

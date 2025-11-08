@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-023-hero"
-  og: "elec-023-og"
-  featured: "elec-023-featured"
-  video: "elec-023-video"
+  hero: "electricien-urgence-marolles-en-hurepoix-91630-hero"
+  og: "electricien-marolles-en-hurepoix-91630-og"
+  featured: "electricien-marolles-en-hurepoix-91630-featured"
+  video: "electricien-marolles-en-hurepoix-91630-video"
 draft: false
 ---

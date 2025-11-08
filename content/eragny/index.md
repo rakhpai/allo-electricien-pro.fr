@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-183-hero"
-  og: "elec-183-og"
-  featured: "elec-183-featured"
-  video: "elec-183-video"
+  hero: "electricien-urgence-eragny-95610-hero"
+  og: "electricien-eragny-95610-og"
+  featured: "electricien-eragny-95610-featured"
+  video: "electricien-eragny-95610-video"
 draft: false
 ---

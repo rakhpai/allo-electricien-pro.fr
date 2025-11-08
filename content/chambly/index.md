@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-311-hero"
-  og: "elec-311-og"
-  featured: "elec-311-featured"
-  video: "elec-311-video"
+  hero: "electricien-urgence-chambly-60230-hero"
+  og: "electricien-chambly-60230-og"
+  featured: "electricien-chambly-60230-featured"
+  video: "electricien-chambly-60230-video"
 draft: false
 ---

@@ -6,10 +6,14 @@
   "scripts": {
     "data": "node scripts/generate-data.js",
     "content": "node scripts/generate-content.js",
+    "video-export": "node scripts/export-videos-from-supabase.js",
+    "video-sitemap": "node scripts/generate-video-sitemap.js",
+    "pre-deploy": "node scripts/pre-deploy-check.js",
+    "post-deploy": "node scripts/ping-search-engines.js",
     "build": "hugo --minify",
     "serve": "hugo server -D",
-    "deploy": "bash scripts/deploy.sh",
-    "full": "npm run data && npm run map-electricians && npm run content && npm run build && npm run deploy",
+    "deploy": "npm run pre-deploy && bash scripts/deploy.sh && npm run post-deploy",
+    "full": "npm run data && npm run map-electricians && npm run video-export && npm run content && npm run video-sitemap && npm run build && npm run deploy",
     "map-electricians": "node scripts/map-outscraper-to-communes.js"
   },
   "keywords": [

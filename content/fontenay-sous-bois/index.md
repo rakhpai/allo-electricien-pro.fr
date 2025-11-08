@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-030-hero"
-  og: "elec-030-og"
-  featured: "elec-030-featured"
-  video: "elec-030-video"
+  hero: "electricien-urgence-fontenay-sous-bois-94120-hero"
+  og: "electricien-fontenay-sous-bois-94120-og"
+  featured: "electricien-fontenay-sous-bois-94120-featured"
+  video: "electricien-fontenay-sous-bois-94120-video"
 draft: false
 ---

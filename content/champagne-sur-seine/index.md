@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-313-hero"
-  og: "elec-313-og"
-  featured: "elec-313-featured"
-  video: "elec-313-video"
+  hero: "electricien-urgence-champagne-sur-seine-77430-hero"
+  og: "electricien-champagne-sur-seine-77430-og"
+  featured: "electricien-champagne-sur-seine-77430-featured"
+  video: "electricien-champagne-sur-seine-77430-video"
 draft: false
 ---

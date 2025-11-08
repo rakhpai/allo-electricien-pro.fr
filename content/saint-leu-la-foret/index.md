@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-207-hero"
-  og: "elec-207-og"
-  featured: "elec-207-featured"
-  video: "elec-207-video"
+  hero: "electricien-urgence-saint-leu-la-foret-95320-hero"
+  og: "electricien-saint-leu-la-foret-95320-og"
+  featured: "electricien-saint-leu-la-foret-95320-featured"
+  video: "electricien-saint-leu-la-foret-95320-video"
 draft: false
 ---

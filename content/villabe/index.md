@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-020-hero"
-  og: "elec-020-og"
-  featured: "elec-020-featured"
-  video: "elec-020-video"
+  hero: "electricien-urgence-villabe-91100-hero"
+  og: "electricien-villabe-91100-og"
+  featured: "electricien-villabe-91100-featured"
+  video: "electricien-villabe-91100-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-120-hero"
-  og: "elec-120-og"
-  featured: "elec-120-featured"
-  video: "elec-120-video"
+  hero: "electricien-urgence-herblay-95220-hero"
+  og: "electricien-herblay-95220-og"
+  featured: "electricien-herblay-95220-featured"
+  video: "electricien-herblay-95220-video"
 draft: false
 ---

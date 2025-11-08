@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-279-hero"
-  og: "elec-279-og"
-  featured: "elec-279-featured"
-  video: "elec-279-video"
+  hero: "electricien-urgence-gretz-armainvilliers-77220-hero"
+  og: "electricien-gretz-armainvilliers-77220-og"
+  featured: "electricien-gretz-armainvilliers-77220-featured"
+  video: "electricien-gretz-armainvilliers-77220-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-232-hero"
-  og: "elec-232-og"
-  featured: "elec-232-featured"
-  video: "elec-232-video"
+  hero: "electricien-urgence-l-isle-adam-95290-hero"
+  og: "electricien-l-isle-adam-95290-og"
+  featured: "electricien-l-isle-adam-95290-featured"
+  video: "electricien-l-isle-adam-95290-video"
 draft: false
 ---

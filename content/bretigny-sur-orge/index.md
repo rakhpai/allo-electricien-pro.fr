@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-133-hero"
-  og: "elec-133-og"
-  featured: "elec-133-featured"
-  video: "elec-133-video"
+  hero: "electricien-urgence-bretigny-sur-orge-91220-hero"
+  og: "electricien-bretigny-sur-orge-91220-og"
+  featured: "electricien-bretigny-sur-orge-91220-featured"
+  video: "electricien-bretigny-sur-orge-91220-video"
 draft: false
 ---

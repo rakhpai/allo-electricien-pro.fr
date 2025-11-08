@@ -1,0 +1,219 @@
+<!-- Testimonials Carousel Section -->
+<section class="py-16 bg-gradient-to-br from-blue-50 to-white testimonials-section">
+  <div class="container mx-auto px-4 max-w-6xl">
+    <!-- Section Header -->
+    <div class="text-center mb-12">
+      <div class="flex items-center justify-center gap-2 mb-4">
+        <span class="text-5xl">⭐</span>
+        <div class="text-left">
+          <div class="text-4xl font-bold text-gray-900 rating-number">4.8<span class="text-2xl text-gray-600">/5</span></div>
+          <div class="text-sm text-gray-600">200+ avis clients</div>
+        </div>
+      </div>
+      <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-3">
+        Nos Clients Témoignent
+      </h2>
+      <p class="text-gray-600 text-lg max-w-2xl mx-auto">
+        Découvrez les retours d'expérience de nos clients satisfaits partout en Île-de-France
+      </p>
+    </div>
+
+    <!-- Swiper Carousel -->
+    <div class="swiper testimonials-swiper">
+      <div class="swiper-wrapper">
+        {{ range $.Site.Data.testimonials }}
+        <div class="swiper-slide">
+          <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-6 md:p-8 h-full border-l-4 border-primary">
+            <!-- Star Rating -->
+            <div class="flex gap-1 mb-4">
+              {{ range seq .rating }}
+              <svg class="w-5 h-5 text-yellow-400 fill-current star-icon" style="animation-delay: {{ mul (sub . 1) 100 }}ms" viewBox="0 0 20 20">
+                <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+              </svg>
+              {{ end }}
+              {{ if lt .rating 5 }}
+              {{ range seq (sub 5 .rating) }}
+              <svg class="w-5 h-5 text-gray-300 fill-current" viewBox="0 0 20 20">
+                <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+              </svg>
+              {{ end }}
+              {{ end }}
+            </div>
+
+            <!-- Testimonial Text -->
+            <blockquote class="text-gray-700 text-base md:text-lg mb-6 leading-relaxed italic">
+              "{{ .text }}"
+            </blockquote>
+
+            <!-- Client Info -->
+            <div class="flex items-center justify-between pt-4 border-t border-gray-100">
+              <div>
+                <div class="font-semibold text-gray-900">{{ .name }}</div>
+                <div class="text-sm text-gray-600 flex items-center gap-1">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+                  </svg>
+                  {{ .city }}
+                </div>
+              </div>
+              <div class="text-xs bg-primary/10 text-primary px-3 py-1 rounded-full font-medium">
+                {{ .service }}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+
+      <!-- Navigation Buttons (Desktop) -->
+      <div class="hidden md:block">
+        <div class="swiper-button-next testimonial-nav"></div>
+        <div class="swiper-button-prev testimonial-nav"></div>
+      </div>
+
+      <!-- Pagination (Mobile) -->
+      <div class="swiper-pagination mt-8"></div>
+    </div>
+
+    <!-- Trust Badge -->
+    <div class="text-center mt-8">
+      <p class="text-sm text-gray-500">
+        ✓ Avis vérifiés | ✓ Satisfaction garantie | ✓ Service client 7j/7
+      </p>
+    </div>
+  </div>
+</section>
+
+<style>
+  /* Testimonials Swiper Customization */
+  .testimonials-swiper {
+    padding: 0 0 50px 0;
+    overflow: visible;
+  }
+
+  .testimonials-swiper .swiper-slide {
+    height: auto;
+    display: flex;
+  }
+
+  .testimonial-nav {
+    color: #0066FF;
+    background: white;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0, 102, 255, 0.2);
+    transition: all 0.3s ease;
+  }
+
+  .testimonial-nav:hover {
+    background: #0066FF;
+    color: white;
+    transform: scale(1.1);
+  }
+
+  .testimonial-nav::after {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .swiper-pagination-bullet {
+    background: #0066FF;
+    opacity: 0.3;
+    width: 10px;
+    height: 10px;
+    transition: all 0.3s ease;
+  }
+
+  .swiper-pagination-bullet-active {
+    opacity: 1;
+    width: 28px;
+    border-radius: 5px;
+  }
+
+  /* Rating Number Animation */
+  .rating-number {
+    animation: countUp 1s ease-out;
+  }
+
+  @keyframes countUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  /* Star Icon Stagger Animation */
+  .star-icon {
+    animation: starPop 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+    opacity: 0;
+  }
+
+  @keyframes starPop {
+    0% {
+      opacity: 0;
+      transform: scale(0) rotate(-180deg);
+    }
+    100% {
+      opacity: 1;
+      transform: scale(1) rotate(0deg);
+    }
+  }
+
+  /* Mobile optimizations */
+  @media (max-width: 768px) {
+    .testimonials-swiper {
+      padding: 0 0 40px 0;
+    }
+  }
+</style>
+
+<script>
+  // Initialize Testimonials Carousel (will be called from main app.js)
+  if (typeof initTestimonialsCarousel === 'undefined') {
+    function initTestimonialsCarousel() {
+      if (typeof Swiper !== 'undefined') {
+        new Swiper('.testimonials-swiper', {
+          slidesPerView: 1,
+          spaceBetween: 24,
+          loop: true,
+          autoplay: {
+            delay: 5000,
+            disableOnInteraction: false,
+            pauseOnMouseEnter: true
+          },
+          pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+          },
+          navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+          },
+          breakpoints: {
+            768: {
+              slidesPerView: 2,
+              spaceBetween: 24,
+            },
+            1024: {
+              slidesPerView: 3,
+              spaceBetween: 32,
+            }
+          }
+        });
+      }
+    }
+
+    // Auto-init if DOM is ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initTestimonialsCarousel);
+    } else {
+      initTestimonialsCarousel();
+    }
+  }
+</script>

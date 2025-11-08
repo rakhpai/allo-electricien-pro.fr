@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-317-hero"
-  og: "elec-317-og"
-  featured: "elec-317-featured"
-  video: "elec-317-video"
+  hero: "electricien-urgence-vaujours-93410-hero"
+  og: "electricien-vaujours-93410-og"
+  featured: "electricien-vaujours-93410-featured"
+  video: "electricien-vaujours-93410-video"
 draft: false
 ---

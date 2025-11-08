@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-153-hero"
-  og: "elec-153-og"
-  featured: "elec-153-featured"
-  video: "elec-153-video"
+  hero: "electricien-urgence-le-mee-sur-seine-77350-hero"
+  og: "electricien-le-mee-sur-seine-77350-og"
+  featured: "electricien-le-mee-sur-seine-77350-featured"
+  video: "electricien-le-mee-sur-seine-77350-video"
 draft: false
 ---

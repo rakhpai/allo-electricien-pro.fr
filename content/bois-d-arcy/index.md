@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-217-hero"
-  og: "elec-217-og"
-  featured: "elec-217-featured"
-  video: "elec-217-video"
+  hero: "electricien-urgence-bois-d-arcy-78390-hero"
+  og: "electricien-bois-d-arcy-78390-og"
+  featured: "electricien-bois-d-arcy-78390-featured"
+  video: "electricien-bois-d-arcy-78390-video"
 draft: false
 ---

@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-225-hero"
-  og: "elec-225-og"
-  featured: "elec-225-featured"
-  video: "elec-225-video"
+  hero: "electricien-urgence-vaires-sur-marne-77360-hero"
+  og: "electricien-vaires-sur-marne-77360-og"
+  featured: "electricien-vaires-sur-marne-77360-featured"
+  video: "electricien-vaires-sur-marne-77360-video"
 draft: false
 ---

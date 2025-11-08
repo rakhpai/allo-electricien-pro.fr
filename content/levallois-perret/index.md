@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-018-hero"
-  og: "elec-018-og"
-  featured: "elec-018-featured"
-  video: "elec-018-video"
+  hero: "electricien-urgence-levallois-perret-92300-hero"
+  og: "electricien-levallois-perret-92300-og"
+  featured: "electricien-levallois-perret-92300-featured"
+  video: "electricien-levallois-perret-92300-video"
 draft: false
 ---

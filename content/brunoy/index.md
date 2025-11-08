@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-123-hero"
-  og: "elec-123-og"
-  featured: "elec-123-featured"
-  video: "elec-123-video"
+  hero: "electricien-urgence-brunoy-91800-hero"
+  og: "electricien-brunoy-91800-og"
+  featured: "electricien-brunoy-91800-featured"
+  video: "electricien-brunoy-91800-video"
 draft: false
 ---

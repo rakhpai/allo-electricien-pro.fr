@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7574185
   lng: 1.8793459
 images:
-  hero: "elec-320-hero"
-  og: "elec-320-og"
-  featured: "elec-320-featured"
-  video: "elec-320-video"
+  hero: "electricien-urgence-les-essarts-le-roi-78690-hero"
+  og: "electricien-les-essarts-le-roi-78690-og"
+  featured: "electricien-les-essarts-le-roi-78690-featured"
+  video: "electricien-les-essarts-le-roi-78690-video"
 draft: false
 ---

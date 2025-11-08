@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-039-hero"
-  og: "elec-039-og"
-  featured: "elec-039-featured"
-  video: "elec-039-video"
+  hero: "electricien-urgence-montrouge-92120-hero"
+  og: "electricien-montrouge-92120-og"
+  featured: "electricien-montrouge-92120-featured"
+  video: "electricien-montrouge-92120-video"
 draft: false
 ---

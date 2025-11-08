@@ -15,9 +15,9 @@ coordinates:
   lat: 48.7698937
   lng: 2.0381228
 images:
-  hero: "elec-318-hero"
-  og: "elec-318-og"
-  featured: "elec-318-featured"
-  video: "elec-318-video"
+  hero: "electricien-urgence-margny-les-compiegne-60280-hero"
+  og: "electricien-margny-les-compiegne-60280-og"
+  featured: "electricien-margny-les-compiegne-60280-featured"
+  video: "electricien-margny-les-compiegne-60280-video"
 draft: false
 ---

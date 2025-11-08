@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-152-hero"
-  og: "elec-152-og"
-  featured: "elec-152-featured"
-  video: "elec-152-video"
+  hero: "electricien-urgence-gif-sur-yvette-91190-hero"
+  og: "electricien-gif-sur-yvette-91190-og"
+  featured: "electricien-gif-sur-yvette-91190-featured"
+  video: "electricien-gif-sur-yvette-91190-video"
 draft: false
 ---

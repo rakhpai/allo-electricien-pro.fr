@@ -15,9 +15,9 @@ coordinates:
   lat: 48.8566
   lng: 2.3522
 images:
-  hero: "elec-237-hero"
-  og: "elec-237-og"
-  featured: "elec-237-featured"
-  video: "elec-237-video"
+  hero: "electricien-urgence-vaux-le-penil-77000-hero"
+  og: "electricien-vaux-le-penil-77000-og"
+  featured: "electricien-vaux-le-penil-77000-featured"
+  video: "electricien-vaux-le-penil-77000-video"
 draft: false
 ---
