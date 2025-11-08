@@ -12,8 +12,8 @@ description: "Électricien d'urgence Le Pré-Saint-Gervais 93310 ⚡ Panne, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8830565
+  lng: 2.4040111
 images:
   hero: "electricien-urgence-le-pre-saint-gervais-93310-hero"
   og: "electricien-le-pre-saint-gervais-93310-og"

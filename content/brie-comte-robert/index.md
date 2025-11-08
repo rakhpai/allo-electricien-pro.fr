@@ -12,8 +12,8 @@ description: "Électricien urgence Brie-Comte-Robert 77170 ⚡ Installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6904522
+  lng: 2.6166737
 images:
   hero: "electricien-urgence-brie-comte-robert-77170-hero"
   og: "electricien-brie-comte-robert-77170-og"

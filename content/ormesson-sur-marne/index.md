@@ -12,8 +12,8 @@ description: "Électricien Ormesson-Sur-Marne 94490 ⚡ Panne, tableau, réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.785641
+  lng: 2.5483998
 images:
   hero: "electricien-urgence-ormesson-sur-marne-94490-hero"
   og: "electricien-ormesson-sur-marne-94490-og"

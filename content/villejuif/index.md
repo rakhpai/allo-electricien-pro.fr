@@ -12,8 +12,8 @@ description: "Électricien Villejuif 94 ⚡ Court-circuit, panne, installation. 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7797078
+  lng: 2.456043
 images:
   hero: "electricien-urgence-villejuif-94800-hero"
   og: "electricien-villejuif-94800-og"

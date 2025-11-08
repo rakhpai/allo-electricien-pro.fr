@@ -12,8 +12,8 @@ description: "Urgence électricien Chanteloup-Les-Vignes 78570 ⚡ Panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9784414
+  lng: 2.0302362
 images:
   hero: "electricien-urgence-chanteloup-les-vignes-78570-hero"
   og: "electricien-chanteloup-les-vignes-78570-og"

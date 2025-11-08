@@ -12,8 +12,8 @@ description: "Service sans reproche Les Ulis"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.681708
+  lng: 2.1701573
 images:
   hero: "electricien-urgence-les-ulis-91940-hero"
   og: "electricien-les-ulis-91940-og"

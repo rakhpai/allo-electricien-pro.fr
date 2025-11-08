@@ -12,8 +12,8 @@ description: "Électricien Urgence Quincy-Sous-Senart 91480 ⚡ Panne, tableau, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6712928
+  lng: 2.5405195
 images:
   hero: "electricien-urgence-quincy-sous-senart-91480-hero"
   og: "electricien-quincy-sous-senart-91480-og"

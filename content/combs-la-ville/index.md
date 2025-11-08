@@ -12,8 +12,8 @@ description: "SOS Électricien Combs-La-Ville 77380 ⚡ Panne électrique, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6646994
+  lng: 2.564877
 images:
   hero: "electricien-urgence-combs-la-ville-77380-hero"
   og: "electricien-combs-la-ville-77380-og"

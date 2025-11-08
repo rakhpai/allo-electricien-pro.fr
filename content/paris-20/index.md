@@ -12,8 +12,8 @@ description: "Urgence électricien Paris 20 75020 ⚡ Panne, court-circuit, tabl
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8677434
+  lng: 2.3604454
 images:
   hero: "electricien-urgence-paris-20-75020-hero"
   og: "electricien-paris-20-75020-og"

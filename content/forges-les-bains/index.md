@@ -12,8 +12,8 @@ description: "Électricien d'urgence FORGES-LES-BAINS 91 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6290401
+  lng: 2.0996273
 images:
   hero: "elec-73-hero"
   og: "elec-73-og"

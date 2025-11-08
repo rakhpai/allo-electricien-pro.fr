@@ -12,8 +12,8 @@ description: "SOS électricien Bondoufle 91070 ⚡ Tableau, court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6165175
+  lng: 2.376318
 images:
   hero: "electricien-urgence-bondoufle-91070-hero"
   og: "electricien-bondoufle-91070-og"

@@ -12,8 +12,8 @@ description: "La meilleure solution pour réduire vos soucis Vaucresson"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8392676
+  lng: 2.1575981
 images:
   hero: "electricien-urgence-vaucresson-92420-hero"
   og: "electricien-vaucresson-92420-og"

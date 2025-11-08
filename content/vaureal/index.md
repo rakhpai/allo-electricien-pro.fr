@@ -12,8 +12,8 @@ description: "Électricien 24/7 Vaureal 95490 ⚡ Panne, installation, tableau �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0300763
+  lng: 2.0205773
 images:
   hero: "electricien-urgence-vaureal-95490-hero"
   og: "electricien-vaureal-95490-og"

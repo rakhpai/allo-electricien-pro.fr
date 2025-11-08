@@ -12,8 +12,8 @@ description: "SOS Électricien Ollainville 91290 ⚡ Panne, réparation, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5905536
+  lng: 2.2168133
 images:
   hero: "electricien-urgence-ollainville-91290-hero"
   og: "electricien-ollainville-91290-og"

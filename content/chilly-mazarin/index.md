@@ -12,8 +12,8 @@ description: "Électricien Chilly-Mazarin 91380 ⚡ Panne électrique, tableau, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7005945
+  lng: 2.3081072
 images:
   hero: "electricien-urgence-chilly-mazarin-91380-hero"
   og: "electricien-chilly-mazarin-91380-og"

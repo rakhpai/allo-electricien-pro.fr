@@ -12,8 +12,8 @@ description: "Électricien urgence Massy 91300 ⚡ Panne, tableau électrique, c
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.730158
+  lng: 2.2766735
 images:
   hero: "electricien-urgence-massy-91300-hero"
   og: "electricien-massy-91300-og"

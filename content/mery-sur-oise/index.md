@@ -12,8 +12,8 @@ description: "Électricien Mery-Sur-Oise 95540 ⚡ Tableau électrique, court-ci
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0634561
+  lng: 2.1836324
 images:
   hero: "electricien-urgence-mery-sur-oise-95540-hero"
   og: "electricien-mery-sur-oise-95540-og"

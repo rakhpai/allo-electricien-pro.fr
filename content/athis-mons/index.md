@@ -12,8 +12,8 @@ description: "Électricien d'urgence ATHIS-MONS 91 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7126482
+  lng: 2.4035523
 images:
   hero: "elec-84-hero"
   og: "elec-84-og"

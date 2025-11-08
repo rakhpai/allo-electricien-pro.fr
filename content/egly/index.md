@@ -12,8 +12,8 @@ description: "Électricien 24/7 Egly 91520 ⚡ Panne, installation, réparation 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5776619
+  lng: 2.2218373
 images:
   hero: "electricien-urgence-egly-91520-hero"
   og: "electricien-egly-91520-og"

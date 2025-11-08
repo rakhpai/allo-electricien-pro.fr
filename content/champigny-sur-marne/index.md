@@ -12,8 +12,8 @@ description: "Électricien urgence Champigny-sur-Marne 94500 ⚡ Installation, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8137847
+  lng: 2.510611
 images:
   hero: "electricien-urgence-champigny-sur-marne-94500-hero"
   og: "electricien-champigny-sur-marne-94500-og"

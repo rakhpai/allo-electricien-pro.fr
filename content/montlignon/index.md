@@ -12,8 +12,8 @@ description: "Électricien d'urgence MONTLIGNON 95 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.008969
+  lng: 2.2862669
 images:
   hero: "elec-141-hero"
   og: "elec-141-og"

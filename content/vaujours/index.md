@@ -12,8 +12,8 @@ description: "Électricien Urgence Vaujours 93410 ⚡ Court-circuit, panne élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9302563
+  lng: 2.5691921
 images:
   hero: "electricien-urgence-vaujours-93410-hero"
   og: "electricien-vaujours-93410-og"

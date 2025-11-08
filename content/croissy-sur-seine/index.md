@@ -12,8 +12,8 @@ description: "Urgence électricien Croissy-Sur-Seine 78290 ⚡ Panne, court-circ
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8791554
+  lng: 2.1327881
 images:
   hero: "electricien-urgence-croissy-sur-seine-78290-hero"
   og: "electricien-croissy-sur-seine-78290-og"

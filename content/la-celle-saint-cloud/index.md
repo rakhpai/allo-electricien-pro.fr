@@ -12,8 +12,8 @@ description: "Électricien La Celle-Saint-Cloud 78170 ⚡ Installation, réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8478753
+  lng: 2.136145
 images:
   hero: "electricien-urgence-la-celle-saint-cloud-78170-hero"
   og: "electricien-la-celle-saint-cloud-78170-og"

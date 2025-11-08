@@ -12,8 +12,8 @@ description: "Électricien Choisy-Le-Roi 94600 ⚡ Panne, installation, réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7630238
+  lng: 2.4093664
 images:
   hero: "electricien-urgence-choisy-le-roi-94600-hero"
   og: "electricien-choisy-le-roi-94600-og"

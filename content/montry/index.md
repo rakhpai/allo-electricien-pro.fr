@@ -12,8 +12,8 @@ description: "Électricien d'urgence MONTRY 77 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.88301
+  lng: 2.8322827
 images:
   hero: "elec-91-hero"
   og: "elec-91-og"

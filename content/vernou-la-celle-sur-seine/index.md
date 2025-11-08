@@ -12,8 +12,8 @@ description: "Électricien d'urgence VERNOU-LA-CELLE-SUR-SEINE 77 ⚡ Court-circ
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3891
+  lng: 2.8468534
 images:
   hero: "elec-132-hero"
   og: "elec-132-og"

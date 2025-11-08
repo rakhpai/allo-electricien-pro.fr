@@ -12,8 +12,8 @@ description: "SOS Électricien Limay 78520 ⚡ Installation, réparation, panne 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9921015
+  lng: 1.7353686
 images:
   hero: "electricien-urgence-limay-78520-hero"
   og: "electricien-limay-78520-og"

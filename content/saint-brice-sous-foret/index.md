@@ -12,8 +12,8 @@ description: "Dépannage électricien Saint-Brice-Sous-Foret 95350 ⚡ Réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9973824
+  lng: 2.3568948
 images:
   hero: "electricien-urgence-saint-brice-sous-foret-95350-hero"
   og: "electricien-saint-brice-sous-foret-95350-og"

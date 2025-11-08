@@ -12,8 +12,8 @@ description: "Intervention électricien Saint-Thibault-Des-Vignes 77400 ⚡ Inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8683837
+  lng: 2.6877273
 images:
   hero: "electricien-urgence-saint-thibault-des-vignes-77400-hero"
   og: "electricien-saint-thibault-des-vignes-77400-og"

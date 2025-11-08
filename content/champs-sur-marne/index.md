@@ -12,8 +12,8 @@ description: "Électricien d'urgence Champs-Sur-Marne 77420 ⚡ Panne, installat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.853596
+  lng: 2.597219
 images:
   hero: "electricien-urgence-champs-sur-marne-77420-hero"
   og: "electricien-champs-sur-marne-77420-og"

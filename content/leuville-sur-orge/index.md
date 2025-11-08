@@ -12,8 +12,8 @@ description: "Électricien d'urgence LEUVILLE-SUR-ORGE 91 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6155573
+  lng: 2.2674029
 images:
   hero: "elec-56-hero"
   og: "elec-56-og"

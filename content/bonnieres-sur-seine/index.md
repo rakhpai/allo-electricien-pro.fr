@@ -12,8 +12,8 @@ description: "Électricien d'urgence BONNIERES-SUR-SEINE 78 ⚡ Court-circuit, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.037481
+  lng: 1.5809775
 images:
   hero: "elec-44-hero"
   og: "elec-44-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Gentilly 94250 ⚡ Panne, installation, réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8153656
+  lng: 2.3483549
 images:
   hero: "electricien-urgence-gentilly-94250-hero"
   og: "electricien-gentilly-94250-og"

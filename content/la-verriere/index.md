@@ -12,8 +12,8 @@ description: "Électricien d'urgence Laverriere 60210 ⚡ Panne, court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7555258
+  lng: 1.9554697
 images:
   hero: "electricien-urgence-laverriere-60210-hero"
   og: "electricien-laverriere-60210-og"

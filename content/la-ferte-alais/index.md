@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA FERTE-ALAIS 91 ⚡ Court-circuit, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6932828
+  lng: 2.503716
 images:
   hero: "elec-60-hero"
   og: "elec-60-og"

@@ -12,8 +12,8 @@ description: "Électricien Valenton 94460 ⚡ Panne électrique, installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7443189
+  lng: 2.4699741
 images:
   hero: "electricien-urgence-valenton-94460-hero"
   og: "electricien-valenton-94460-og"

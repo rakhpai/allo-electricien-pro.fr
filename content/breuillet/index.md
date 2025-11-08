@@ -12,8 +12,8 @@ description: "Électricien d'urgence BREUILLET 91 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5668797
+  lng: 2.1729461
 images:
   hero: "elec-274-hero"
   og: "elec-274-og"

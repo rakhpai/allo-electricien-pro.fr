@@ -12,8 +12,8 @@ description: "Électricien d'urgence VERT-LE-GRAND 91 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5827378
+  lng: 2.3498289
 images:
   hero: "elec-154-hero"
   og: "elec-154-og"

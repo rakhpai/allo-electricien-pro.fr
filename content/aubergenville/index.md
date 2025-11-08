@@ -12,8 +12,8 @@ description: "Électricien d'urgence AUBERGENVILLE 78 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9591392
+  lng: 1.8554319
 images:
   hero: "elec-230-hero"
   og: "elec-230-og"

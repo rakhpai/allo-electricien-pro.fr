@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA NORVILLE 91 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5804484
+  lng: 2.2639705
 images:
   hero: "elec-58-hero"
   og: "elec-58-og"

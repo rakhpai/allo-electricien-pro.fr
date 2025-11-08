@@ -12,8 +12,8 @@ description: "Dépannage électricien Champagne-Sur-Seine 77 ⚡ Panne, réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4066449
+  lng: 2.7992941
 images:
   hero: "electricien-urgence-champagne-sur-seine-77430-hero"
   og: "electricien-champagne-sur-seine-77430-og"

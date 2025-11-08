@@ -12,8 +12,8 @@ description: "Grande expérience et un savoir-faire incontestable Saint-Pierre-d
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6137867
+  lng: 2.505381
 images:
   hero: "electricien-urgence-saint-pierre-du-perray-91280-hero"
   og: "electricien-saint-pierre-du-perray-91280-og"

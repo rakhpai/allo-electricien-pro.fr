@@ -12,8 +12,8 @@ description: "Électricien d'urgence BROU-SUR-CHANTEREINE 77 ⚡ Court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5345121
+  lng: 2.6048627
 images:
   hero: "elec-51-hero"
   og: "elec-51-og"

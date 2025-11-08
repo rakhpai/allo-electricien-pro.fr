@@ -12,8 +12,8 @@ description: "Dépannage électricien Nandy 77176 ⚡ Panne, court-circuit, tabl
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5813635
+  lng: 2.564017
 images:
   hero: "electricien-urgence-nandy-77176-hero"
   og: "electricien-nandy-77176-og"

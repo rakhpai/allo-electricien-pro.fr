@@ -12,8 +12,8 @@ description: "Électricien Neuilly-Sur-Marne 93330 ⚡ Installation, réparation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8565557
+  lng: 2.5290045
 images:
   hero: "electricien-urgence-neuilly-sur-marne-93330-hero"
   og: "electricien-neuilly-sur-marne-93330-og"

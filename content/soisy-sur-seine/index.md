@@ -12,8 +12,8 @@ description: "Électricien d'urgence SOISY-SUR-SEINE 91 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6502928
+  lng: 2.4490991
 images:
   hero: "elec-298-hero"
   og: "elec-298-og"

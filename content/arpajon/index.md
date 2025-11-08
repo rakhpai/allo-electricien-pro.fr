@@ -12,8 +12,8 @@ description: "Électricien Arpajon 91290 ⚡ Panne électrique, tableau, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5938094
+  lng: 2.3014448
 images:
   hero: "electricien-urgence-arpajon-91290-hero"
   og: "electricien-arpajon-91290-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-GERMAIN-SUR-MORIN 77 ⚡ Court-circui
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8802271
+  lng: 2.8553492
 images:
   hero: "elec-78-hero"
   og: "elec-78-og"

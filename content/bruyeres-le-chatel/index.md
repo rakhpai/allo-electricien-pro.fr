@@ -12,8 +12,8 @@ description: "Électricien d'urgence BRUYERES-LE-CHATEL 91 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5922609
+  lng: 2.1909499
 images:
   hero: "elec-99-hero"
   og: "elec-99-og"

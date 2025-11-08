@@ -12,8 +12,8 @@ description: "Intervention électricien Villiers-Sur-Marne 94350 ⚡ Réparation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8250378
+  lng: 2.5425397
 images:
   hero: "electricien-urgence-villiers-sur-marne-94350-hero"
   og: "electricien-villiers-sur-marne-94350-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence VILLEMOMBLE 93 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.881886
+  lng: 2.5076181
 images:
   hero: "elec-100-hero"
   og: "elec-100-og"

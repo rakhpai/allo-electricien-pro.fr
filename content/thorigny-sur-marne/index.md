@@ -12,8 +12,8 @@ description: "Urgence électricien Thorigny-Sur-Marne 77400 ⚡ Court-circuit, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8841856
+  lng: 2.7115737
 images:
   hero: "electricien-urgence-thorigny-sur-marne-77400-hero"
   og: "electricien-thorigny-sur-marne-77400-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence MAURECOURT 78 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9975159
+  lng: 2.0625234
 images:
   hero: "elec-47-hero"
   og: "elec-47-og"

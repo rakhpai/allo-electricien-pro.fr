@@ -12,8 +12,8 @@ description: "Intervention électricien Savigny-Le-Temple 77176 ⚡ Réparation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7342417
+  lng: 2.8652274
 images:
   hero: "electricien-urgence-savigny-le-temple-77176-hero"
   og: "electricien-savigny-le-temple-77176-og"

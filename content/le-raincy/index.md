@@ -12,8 +12,8 @@ description: "Électricien Le Raincy 93340 ⚡ Panne, installation, réparation 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8986666
+  lng: 2.5155626
 images:
   hero: "electricien-urgence-le-raincy-93340-hero"
   og: "electricien-le-raincy-93340-og"

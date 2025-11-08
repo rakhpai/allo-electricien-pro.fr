@@ -12,8 +12,8 @@ description: "Électricien Roissy-En-Brie 77680 ⚡ Installation, réparation, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7956748
+  lng: 2.6503965
 images:
   hero: "electricien-urgence-roissy-en-brie-77680-hero"
   og: "electricien-roissy-en-brie-77680-og"

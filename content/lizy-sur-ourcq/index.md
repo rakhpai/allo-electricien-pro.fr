@@ -12,8 +12,8 @@ description: "Électricien d'urgence LIZY-SUR-OURCQ 77 ⚡ Court-circuit, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0252255
+  lng: 3.0268781
 images:
   hero: "elec-76-hero"
   og: "elec-76-og"

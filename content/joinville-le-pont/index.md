@@ -12,8 +12,8 @@ description: "Électricien d'urgence Joinville-Le-Pont 94340 ⚡ Panne, tableau,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8132489
+  lng: 2.4610884
 images:
   hero: "electricien-urgence-joinville-le-pont-94340-hero"
   og: "electricien-joinville-le-pont-94340-og"

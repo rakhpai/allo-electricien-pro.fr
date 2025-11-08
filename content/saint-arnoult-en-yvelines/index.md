@@ -12,8 +12,8 @@ description: "Dépannage électricien Saint-Arnoult-En-Yvelines 78730 ⚡ Panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.572604
+  lng: 1.9350788
 images:
   hero: "electricien-urgence-saint-arnoult-en-yvelines-78730-hero"
   og: "electricien-saint-arnoult-en-yvelines-78730-og"

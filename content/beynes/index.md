@@ -12,8 +12,8 @@ description: "Entreprise spécialiste Luzarches"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8558793
+  lng: 1.8735151
 images:
   hero: "electricien-urgence-beynes-78650-hero"
   og: "electricien-beynes-78650-og"

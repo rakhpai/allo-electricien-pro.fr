@@ -12,8 +12,8 @@ description: "Électricien d'urgence Le Plessis-Trevise 94420 ⚡ Installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8091528
+  lng: 2.5732616
 images:
   hero: "electricien-urgence-le-plessis-trevise-94420-hero"
   og: "electricien-le-plessis-trevise-94420-og"

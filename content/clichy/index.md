@@ -12,8 +12,8 @@ description: "Intervention électricien Clichy 92110 ⚡ Panne, installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8835931
+  lng: 2.3278672
 images:
   hero: "electricien-urgence-clichy-92110-hero"
   og: "electricien-clichy-92110-og"

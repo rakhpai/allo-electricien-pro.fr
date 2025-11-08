@@ -12,8 +12,8 @@ description: "Électricien d'urgence MARGENCY 95 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0012075
+  lng: 2.2874277
 images:
   hero: "elec-115-hero"
   og: "elec-115-og"

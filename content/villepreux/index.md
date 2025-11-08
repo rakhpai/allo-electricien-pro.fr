@@ -12,8 +12,8 @@ description: "Intervention électricien Villepreux 78450 ⚡ Tableau, court-circ
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8434332
+  lng: 1.7080274
 images:
   hero: "electricien-urgence-villepreux-78450-hero"
   og: "electricien-villepreux-78450-og"

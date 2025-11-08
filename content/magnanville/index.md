@@ -12,8 +12,8 @@ description: "SOS Électricien Magnanville 78200 ⚡ Panne, installation, tablea
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9681039
+  lng: 1.6847431
 images:
   hero: "electricien-urgence-magnanville-78200-hero"
   og: "electricien-magnanville-78200-og"

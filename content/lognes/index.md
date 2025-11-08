@@ -12,8 +12,8 @@ description: "Électricien d'urgence Lognes 77185 ⚡ Panne électrique, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8391244
+  lng: 2.6337174
 images:
   hero: "electricien-urgence-lognes-77185-hero"
   og: "electricien-lognes-77185-og"

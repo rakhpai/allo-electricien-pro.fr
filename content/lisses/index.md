@@ -12,8 +12,8 @@ description: "Électricien 24/7 Lisses 91090 ⚡ Court-circuit, panne, tableau �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5960009
+  lng: 2.4237886
 images:
   hero: "electricien-urgence-lisses-91090-hero"
   og: "electricien-lisses-91090-og"

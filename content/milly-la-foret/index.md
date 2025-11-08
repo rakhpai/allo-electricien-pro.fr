@@ -12,8 +12,8 @@ description: "Électricien d'urgence Milly-La-Forêt 91490 ⚡ Panne, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4603325
+  lng: 2.517638
 images:
   hero: "electricien-urgence-milly-la-foret-91490-hero"
   og: "electricien-milly-la-foret-91490-og"

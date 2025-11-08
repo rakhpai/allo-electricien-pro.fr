@@ -12,8 +12,8 @@ description: "Électricien urgence Asnieres-Sur-Seine 92600 ⚡ Installation, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9105948
+  lng: 2.2890454
 images:
   hero: "electricien-urgence-asnieres-sur-seine-92600-hero"
   og: "electricien-asnieres-sur-seine-92600-og"

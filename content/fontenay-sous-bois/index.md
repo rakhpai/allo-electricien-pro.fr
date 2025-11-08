@@ -12,8 +12,8 @@ description: "Électricien urgence Fontenay-Sous-Bois 94120 ⚡ Réparation, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8490721
+  lng: 2.4749347
 images:
   hero: "electricien-urgence-fontenay-sous-bois-94120-hero"
   og: "electricien-fontenay-sous-bois-94120-og"

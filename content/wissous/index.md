@@ -12,8 +12,8 @@ description: "SOS Électricien Wissous 91320 ⚡ Panne électrique, tableau, cou
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7365642
+  lng: 2.3285672
 images:
   hero: "electricien-urgence-wissous-91320-hero"
   og: "electricien-wissous-91320-og"

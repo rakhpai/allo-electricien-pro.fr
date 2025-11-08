@@ -12,8 +12,8 @@ description: "Intervention électricien Poissy 78300 ⚡ Panne, installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9266336
+  lng: 2.1858106
 images:
   hero: "electricien-urgence-poissy-78300-hero"
   og: "electricien-poissy-78300-og"

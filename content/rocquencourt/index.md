@@ -12,8 +12,8 @@ description: "Électricien d'urgence ROCQUENCOURT 78 ⚡ Court-circuit, panne, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.833333
+  lng: 2.1063004
 images:
   hero: "elec-98-hero"
   og: "elec-98-og"

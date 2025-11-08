@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA ROCHETTE 77 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5269978
+  lng: 2.6548316
 images:
   hero: "elec-108-hero"
   og: "elec-108-og"

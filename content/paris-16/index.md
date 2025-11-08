@@ -12,8 +12,8 @@ description: "Électricien d'urgence Paris 16 75016 ⚡ Installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8310386
+  lng: 2.2809023
 images:
   hero: "electricien-urgence-paris-16-75016-hero"
   og: "electricien-paris-16-75016-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Mantes-La-Jolie 78200 ⚡ Installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9891971
+  lng: 1.7140683
 images:
   hero: "electricien-urgence-mantes-la-jolie-78200-hero"
   og: "electricien-mantes-la-jolie-78200-og"

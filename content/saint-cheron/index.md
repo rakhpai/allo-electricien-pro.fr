@@ -12,8 +12,8 @@ description: "Dépannage électricien Saint-Chéron 91530 ⚡ Panne, installatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.551177
+  lng: 2.1256363
 images:
   hero: "electricien-urgence-saint-cheron-91530-hero"
   og: "electricien-saint-cheron-91530-og"

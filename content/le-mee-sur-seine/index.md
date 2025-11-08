@@ -12,8 +12,8 @@ description: "Dépannage électricien Le Mee-Sur-Seine 77350 ⚡ Panne, court-ci
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.544342
+  lng: 2.6404051
 images:
   hero: "electricien-urgence-le-mee-sur-seine-77350-hero"
   og: "electricien-le-mee-sur-seine-77350-og"

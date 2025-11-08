@@ -12,8 +12,8 @@ description: "Électricien d'urgence VERNEUIL-L'ETANG 77 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.64466
+  lng: 2.8354048
 images:
   hero: "elec-101-hero"
   og: "elec-101-og"

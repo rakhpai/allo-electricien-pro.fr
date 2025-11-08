@@ -12,8 +12,8 @@ description: "Intervention électricien Le Kremlin-Bicetre 94 ⚡ Panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8125893
+  lng: 2.3570028
 images:
   hero: "electricien-urgence-le-kremlin-bicetre-94270-hero"
   og: "electricien-le-kremlin-bicetre-94270-og"

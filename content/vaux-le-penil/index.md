@@ -12,8 +12,8 @@ description: "Vraies solutions en ce qui concerne vos soucis Vaux-le-Pénil"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5258755
+  lng: 2.6814724
 images:
   hero: "electricien-urgence-vaux-le-penil-77000-hero"
   og: "electricien-vaux-le-penil-77000-og"

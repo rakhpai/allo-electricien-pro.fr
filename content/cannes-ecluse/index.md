@@ -12,8 +12,8 @@ description: "Électricien d'urgence CANNES-ECLUSE 77 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3641051
+  lng: 2.9920342
 images:
   hero: "elec-139-hero"
   og: "elec-139-og"

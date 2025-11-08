@@ -12,8 +12,8 @@ description: "Électricien Saint-Leu-La-Foret 95320 ⚡ Installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0212001
+  lng: 2.2480799
 images:
   hero: "electricien-urgence-saint-leu-la-foret-95320-hero"
   og: "electricien-saint-leu-la-foret-95320-og"

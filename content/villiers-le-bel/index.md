@@ -12,8 +12,8 @@ description: "Pour un travail de top Villiers-le-Bel"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0074999
+  lng: 2.3880847
 images:
   hero: "electricien-urgence-villiers-le-bel-95400-hero"
   og: "electricien-villiers-le-bel-95400-og"

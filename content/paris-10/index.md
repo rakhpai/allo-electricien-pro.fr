@@ -12,8 +12,8 @@ description: "Électricien Paris 10 75010 ⚡ Court-circuit, installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8712166
+  lng: 2.3498874
 images:
   hero: "electricien-urgence-paris-10-75010-hero"
   og: "electricien-paris-10-75010-og"

@@ -12,8 +12,8 @@ description: "Dépannage électricien Paris 2 75002 ⚡ Panne, installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8664069
+  lng: 2.3472865
 images:
   hero: "electricien-urgence-paris-2-75002-hero"
   og: "electricien-paris-2-75002-og"

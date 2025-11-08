@@ -12,8 +12,8 @@ description: "Électricien d'urgence Paris 14 75014 ⚡ Panne, installation, tab
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8877747
+  lng: 2.3741353
 images:
   hero: "electricien-urgence-paris-14-75014-hero"
   og: "electricien-paris-14-75014-og"

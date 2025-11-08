@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHELLES 77 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8742022
+  lng: 2.5827737
 images:
   hero: "elec-32-hero"
   og: "elec-32-og"

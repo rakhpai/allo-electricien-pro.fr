@@ -12,8 +12,8 @@ description: "Électricien d'urgence COLLEGIEN 77 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8362114
+  lng: 2.673176
 images:
   hero: "elec-103-hero"
   og: "elec-103-og"

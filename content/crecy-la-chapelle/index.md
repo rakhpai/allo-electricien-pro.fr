@@ -12,8 +12,8 @@ description: "Électricien d'urgence CRECY-LA-CHAPELLE 77 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8594852
+  lng: 2.9059075
 images:
   hero: "elec-52-hero"
   og: "elec-52-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Montfermeil 93370 ⚡ Installation, réparation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.899013
+  lng: 2.560754
 images:
   hero: "electricien-urgence-montfermeil-93370-hero"
   og: "electricien-montfermeil-93370-og"

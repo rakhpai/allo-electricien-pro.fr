@@ -12,8 +12,8 @@ description: "Urgence électricien Coignieres 78310 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7511787
+  lng: 1.9201632
 images:
   hero: "electricien-urgence-coignieres-78310-hero"
   og: "electricien-coignieres-78310-og"

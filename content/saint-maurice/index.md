@@ -12,8 +12,8 @@ description: "Électricien Saint-Maurice 94410 ⚡ Installation, réparation tab
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.820865
+  lng: 2.4313571
 images:
   hero: "electricien-urgence-saint-maurice-94410-hero"
   og: "electricien-saint-maurice-94410-og"

@@ -12,8 +12,8 @@ description: "Dépannage électricien Saint-Fargeau-Ponthierry 77310 ⚡ Panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.524016
+  lng: 2.5451151
 images:
   hero: "electricien-urgence-saint-fargeau-ponthierry-77310-hero"
   og: "electricien-saint-fargeau-ponthierry-77310-og"

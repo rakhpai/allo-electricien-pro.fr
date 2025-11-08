@@ -12,8 +12,8 @@ description: "Électricien d'urgence LIEUSAINT 77 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.657716
+  lng: 2.5565229
 images:
   hero: "elec-240-hero"
   og: "elec-240-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Draveil 91210 ⚡ Panne électrique, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6851514
+  lng: 2.4083576
 images:
   hero: "electricien-urgence-draveil-91210-hero"
   og: "electricien-draveil-91210-og"

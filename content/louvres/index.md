@@ -12,8 +12,8 @@ description: "Urgence électricien Louvres 95380 ⚡ Panne, tableau électrique,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0449139
+  lng: 2.5096751
 images:
   hero: "electricien-urgence-louvres-95380-hero"
   og: "electricien-louvres-95380-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Bondy 93140 ⚡ Panne, court-circuit, tableau él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9031
+  lng: 2.48291
 images:
   hero: "electricien-urgence-bondy-93140-hero"
   og: "electricien-bondy-93140-og"

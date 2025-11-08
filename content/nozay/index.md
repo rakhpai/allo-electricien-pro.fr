@@ -12,8 +12,8 @@ description: "Dans les plus brefs délais Nozay"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6602437
+  lng: 2.242421
 images:
   hero: "electricien-urgence-nozay-91620-hero"
   og: "electricien-nozay-91620-og"

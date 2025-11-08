@@ -12,8 +12,8 @@ description: "Urgence électricien Villabe 91100 ⚡ Panne, réparation, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5885996
+  lng: 2.4544951
 images:
   hero: "electricien-urgence-villabe-91100-hero"
   og: "electricien-villabe-91100-og"

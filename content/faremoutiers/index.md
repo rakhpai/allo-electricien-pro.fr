@@ -12,8 +12,8 @@ description: "Électricien d'urgence FAREMOUTIERS 77 ⚡ Court-circuit, panne, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8004306
+  lng: 2.9982641
 images:
   hero: "elec-151-hero"
   og: "elec-151-og"

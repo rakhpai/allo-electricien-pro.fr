@@ -12,8 +12,8 @@ description: "Électricien Lardy 91510 ⚡ Court-circuit, panne électrique, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.520741
+  lng: 2.2555159
 images:
   hero: "electricien-urgence-lardy-91510-hero"
   og: "electricien-lardy-91510-og"

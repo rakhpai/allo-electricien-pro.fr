@@ -12,8 +12,8 @@ description: "Électricien d'urgence MORAINVILLIERS 78 ⚡ Court-circuit, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9274749
+  lng: 1.9416886
 images:
   hero: "elec-155-hero"
   og: "elec-155-og"

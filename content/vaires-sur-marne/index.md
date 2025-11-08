@@ -12,8 +12,8 @@ description: "Dépannage électricien Vaires-Sur-Marne 77360 ⚡ Panne, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8730363
+  lng: 2.6368217
 images:
   hero: "electricien-urgence-vaires-sur-marne-77360-hero"
   og: "electricien-vaires-sur-marne-77360-og"

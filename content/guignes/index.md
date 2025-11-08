@@ -12,8 +12,8 @@ description: "Électricien d'urgence GUIGNES 77 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6362035
+  lng: 2.7987003
 images:
   hero: "elec-83-hero"
   og: "elec-83-og"

@@ -12,8 +12,8 @@ description: "Appelez nous en toute confiance Puteaux"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7714153
+  lng: 2.3469255
 images:
   hero: "electricien-urgence-chevilly-larue-94550-hero"
   og: "electricien-chevilly-larue-94550-og"

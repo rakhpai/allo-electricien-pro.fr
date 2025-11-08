@@ -12,8 +12,8 @@ description: "Électricien d'urgence Bretigny-Sur-Orge 91220 ⚡ Installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6099887
+  lng: 2.3075288
 images:
   hero: "electricien-urgence-bretigny-sur-orge-91220-hero"
   og: "electricien-bretigny-sur-orge-91220-og"

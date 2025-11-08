@@ -12,8 +12,8 @@ description: "Électricien Mennecy 91540 ⚡ Panne électrique, installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5710091
+  lng: 2.4332798
 images:
   hero: "electricien-urgence-mennecy-91540-hero"
   og: "electricien-mennecy-91540-og"

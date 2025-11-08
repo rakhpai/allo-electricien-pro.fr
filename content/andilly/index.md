@@ -12,8 +12,8 @@ description: "Électricien d'urgence ANDILLY 95 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.005362
+  lng: 2.2988964
 images:
   hero: "elec-146-hero"
   og: "elec-146-og"

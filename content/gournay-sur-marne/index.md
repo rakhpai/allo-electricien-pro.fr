@@ -12,8 +12,8 @@ description: "Intervention électricien Gournay-Sur-Marne 93460 ⚡ Panne, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8631125
+  lng: 2.5761589
 images:
   hero: "electricien-urgence-gournay-sur-marne-93460-hero"
   og: "electricien-gournay-sur-marne-93460-og"

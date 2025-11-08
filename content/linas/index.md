@@ -12,8 +12,8 @@ description: "Dépannage électricien Linas 91310 ⚡ Panne, réparation, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6306286
+  lng: 2.2701898
 images:
   hero: "electricien-urgence-linas-91310-hero"
   og: "electricien-linas-91310-og"

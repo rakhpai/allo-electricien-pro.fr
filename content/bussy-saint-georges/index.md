@@ -12,8 +12,8 @@ description: "Électricien urgence Bussy-Saint-Georges 77600 ⚡ Panne, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8366417
+  lng: 2.7098693
 images:
   hero: "electricien-urgence-bussy-saint-georges-77600-hero"
   og: "electricien-bussy-saint-georges-77600-og"

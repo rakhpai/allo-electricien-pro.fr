@@ -12,8 +12,8 @@ description: "Électricien d'urgence Etampes 91150 ⚡ Installation, réparation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4344621
+  lng: 2.1614464
 images:
   hero: "electricien-urgence-etampes-91150-hero"
   og: "electricien-etampes-91150-og"

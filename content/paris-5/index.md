@@ -12,8 +12,8 @@ description: "Électricien d'Urgence Paris 5 75005 ⚡ Réparation panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8534951
+  lng: 2.3483915
 images:
   hero: "electricien-urgence-paris-5-75005-hero"
   og: "electricien-paris-5-75005-og"

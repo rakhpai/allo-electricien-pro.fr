@@ -12,8 +12,8 @@ description: "Urgence électricien Bagnolet 93170 ⚡ Panne, installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8688199
+  lng: 2.4173658
 images:
   hero: "electricien-urgence-bagnolet-93170-hero"
   og: "electricien-bagnolet-93170-og"

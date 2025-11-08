@@ -12,8 +12,8 @@ description: "Contactez nous en toute confiance Gagny"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8853743
+  lng: 2.5358323
 images:
   hero: "electricien-urgence-gagny-93220-hero"
   og: "electricien-gagny-93220-og"

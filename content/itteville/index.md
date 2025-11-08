@@ -12,8 +12,8 @@ description: "Électricien d'urgence Itteville 91760 ⚡ Panne, installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5145073
+  lng: 2.3418427
 images:
   hero: "electricien-urgence-itteville-91760-hero"
   og: "electricien-itteville-91760-og"

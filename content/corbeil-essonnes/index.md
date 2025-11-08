@@ -12,8 +12,8 @@ description: "Urgence électricien Corbeil-Essonnes 91100 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6137734
+  lng: 2.4818087
 images:
   hero: "electricien-urgence-corbeil-essonnes-91100-hero"
   og: "electricien-corbeil-essonnes-91100-og"

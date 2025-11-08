@@ -12,8 +12,8 @@ description: "Urgence électricien Brunoy 91800 ⚡ Panne, court-circuit, tablea
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6979312
+  lng: 2.5044613
 images:
   hero: "electricien-urgence-brunoy-91800-hero"
   og: "electricien-brunoy-91800-og"

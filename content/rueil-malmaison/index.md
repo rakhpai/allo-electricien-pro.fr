@@ -12,8 +12,8 @@ description: "Électricien d'urgence RUEIL-MALMAISON 92 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.87778
+  lng: 2.1802832
 images:
   hero: "elec-13-hero"
   og: "elec-13-og"

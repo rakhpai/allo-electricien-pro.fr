@@ -12,8 +12,8 @@ description: "Savoir-faire exceptionnel à votre service Neuville-sur-Oise"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6217934
+  lng: 2.423672
 images:
   hero: "electricien-urgence-courcouronnes-91080-hero"
   og: "electricien-courcouronnes-91080-og"

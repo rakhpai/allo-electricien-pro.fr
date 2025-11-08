@@ -12,8 +12,8 @@ description: "Électricien d'urgence CREGY-LES-MEAUX 77 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9766872
+  lng: 2.8736131
 images:
   hero: "elec-49-hero"
   og: "elec-49-og"

@@ -12,8 +12,8 @@ description: "Électricien 24/7 Elancourt 78990 ⚡ Panne, installation, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7681182
+  lng: 1.949352
 images:
   hero: "electricien-urgence-elancourt-78990-hero"
   og: "electricien-elancourt-78990-og"

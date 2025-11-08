@@ -12,8 +12,8 @@ description: "Électricien d'urgence BOUTIGNY-SUR-ESSONNE 91 ⚡ Court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4208682
+  lng: 2.0466803
 images:
   hero: "elec-107-hero"
   og: "elec-107-og"

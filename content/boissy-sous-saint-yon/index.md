@@ -12,8 +12,8 @@ description: "Électricien d'urgence BOISSY-SOUS-SAINT-YON 91 ⚡ Court-circuit,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5486852
+  lng: 2.2124998
 images:
   hero: "elec-71-hero"
   og: "elec-71-og"

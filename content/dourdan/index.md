@@ -12,8 +12,8 @@ description: "SOS Électricien Dourdan 91410 ⚡ Panne, tableau électrique, cou
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5288442
+  lng: 2.0153689
 images:
   hero: "electricien-urgence-dourdan-91410-hero"
   og: "electricien-dourdan-91410-og"

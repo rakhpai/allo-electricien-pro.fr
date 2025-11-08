@@ -12,8 +12,8 @@ description: "Électricien d'urgence MONTFORT-L'AMAURY 78 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.779142
+  lng: 1.8070765
 images:
   hero: "elec-104-hero"
   og: "elec-104-og"

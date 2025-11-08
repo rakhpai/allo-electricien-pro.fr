@@ -12,8 +12,8 @@ description: "Électricien d'urgence LONGPERRIER 77 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9597141
+  lng: 2.8807769
 images:
   hero: "elec-150-hero"
   og: "elec-150-og"

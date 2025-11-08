@@ -12,8 +12,8 @@ description: "Électricien d'urgence FREPILLON 95 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0417176
+  lng: 2.4483842
 images:
   hero: "elec-120-hero"
   og: "elec-120-og"

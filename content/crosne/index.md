@@ -12,8 +12,8 @@ description: "Électricien Crosne 91560 ⚡ Panne électrique, réparation table
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.72046
+  lng: 2.4645591
 images:
   hero: "electricien-urgence-crosne-91560-hero"
   og: "electricien-crosne-91560-og"

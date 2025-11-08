@@ -12,8 +12,8 @@ description: "Disposés à vous assister à tout moment Villemoisson-sur-Orge"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6615283
+  lng: 2.3298322
 images:
   hero: "electricien-urgence-villemoisson-sur-orge-91360-hero"
   og: "electricien-villemoisson-sur-orge-91360-og"

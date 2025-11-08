@@ -12,8 +12,8 @@ description: "Électricien d'urgence PRINGY 77 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5341019
+  lng: 2.5483373
 images:
   hero: "elec-147-hero"
   og: "elec-147-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Cesson 77240 ⚡ Installation, réparation, table
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5624381
+  lng: 2.6021145
 images:
   hero: "electricien-urgence-cesson-77240-hero"
   og: "electricien-cesson-77240-og"

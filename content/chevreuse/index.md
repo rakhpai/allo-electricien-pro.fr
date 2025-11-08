@@ -12,8 +12,8 @@ description: "Intervention électricien Chevreuse 78460 ⚡ Installation, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7079689
+  lng: 2.0408005
 images:
   hero: "electricien-urgence-chevreuse-78460-hero"
   og: "electricien-chevreuse-78460-og"

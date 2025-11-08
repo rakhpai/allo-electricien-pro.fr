@@ -12,8 +12,8 @@ description: "Électricien d'urgence POMMEUSE 77 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8085457
+  lng: 2.9931729
 images:
   hero: "elec-119-hero"
   og: "elec-119-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Mitry-Mory 77290 ⚡ Installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9839674
+  lng: 2.6183971
 images:
   hero: "electricien-urgence-mitry-mory-77290-hero"
   og: "electricien-mitry-mory-77290-og"

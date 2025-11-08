@@ -12,8 +12,8 @@ description: "Intervention électricien Meulan-En-Yvelines 78 ⚡ Panne, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0049712
+  lng: 1.9100835
 images:
   hero: "electricien-urgence-meulan-en-yvelines-78250-hero"
   og: "electricien-meulan-en-yvelines-78250-og"

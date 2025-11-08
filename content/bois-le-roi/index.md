@@ -12,8 +12,8 @@ description: "Électricien Bois-Le-Roi 77590 ⚡ Court-circuit, panne tableau, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4754789
+  lng: 2.6939537
 images:
   hero: "electricien-urgence-bois-le-roi-77590-hero"
   og: "electricien-bois-le-roi-77590-og"

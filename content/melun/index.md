@@ -12,8 +12,8 @@ description: "Électricien urgence Melun 77000 ⚡ Panne électrique, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5275896
+  lng: 2.6555234
 images:
   hero: "electricien-urgence-melun-77000-hero"
   og: "electricien-melun-77000-og"

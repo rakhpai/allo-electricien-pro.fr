@@ -12,8 +12,8 @@ description: "SOS Électricien Epinay-Sous-Senart 91860 ⚡ Panne, installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6953018
+  lng: 2.5159134
 images:
   hero: "electricien-urgence-epinay-sous-senart-91860-hero"
   og: "electricien-epinay-sous-senart-91860-og"

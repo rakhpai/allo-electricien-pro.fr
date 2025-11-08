@@ -12,8 +12,8 @@ description: "Électricien d'urgence Longpont-Sur-Orge 91310 ⚡ Installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.64262
+  lng: 2.2919546
 images:
   hero: "electricien-urgence-longpont-sur-orge-91310-hero"
   og: "electricien-longpont-sur-orge-91310-og"

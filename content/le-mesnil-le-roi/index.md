@@ -12,8 +12,8 @@ description: "À votre disposition et à votre écoute Le Mesnil-le-Roi"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9396822
+  lng: 2.128842
 images:
   hero: "electricien-urgence-le-mesnil-le-roi-78600-hero"
   og: "electricien-le-mesnil-le-roi-78600-og"

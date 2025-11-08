@@ -12,8 +12,8 @@ description: "Électricien Moret-Sur-Loing 77250 ⚡ Réparation, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3633576
+  lng: 2.8135192
 images:
   hero: "electricien-urgence-moret-sur-loing-77250-hero"
   og: "electricien-moret-sur-loing-77250-og"

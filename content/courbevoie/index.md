@@ -12,8 +12,8 @@ description: "Dépannage électricien Courbevoie 92400 ⚡ Panne, tableau, court
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8905937
+  lng: 2.2545274
 images:
   hero: "electricien-urgence-courbevoie-92400-hero"
   og: "electricien-courbevoie-92400-og"

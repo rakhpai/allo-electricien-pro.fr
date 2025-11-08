@@ -12,8 +12,8 @@ description: "Électricien d'urgence ROISSY-EN-FRANCE 95 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0032865
+  lng: 2.5176985
 images:
   hero: "elec-125-hero"
   og: "elec-125-og"

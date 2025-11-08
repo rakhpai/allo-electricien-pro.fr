@@ -12,8 +12,8 @@ description: "Électricien Vert-Saint-Denis 77240 ⚡ Court-circuit, panne élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5671024
+  lng: 2.6252499
 images:
   hero: "electricien-urgence-vert-saint-denis-77240-hero"
   og: "electricien-vert-saint-denis-77240-og"

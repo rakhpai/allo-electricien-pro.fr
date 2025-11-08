@@ -12,8 +12,8 @@ description: "Électricien d'urgence MORANGIS 91 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7047534
+  lng: 2.3303407
 images:
   hero: "elec-228-hero"
   og: "elec-228-og"

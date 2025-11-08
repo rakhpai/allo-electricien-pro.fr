@@ -12,8 +12,8 @@ description: "Électricien urgence Vincennes 94300 ⚡ Réparation panne, tablea
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8474508
+  lng: 2.4396714
 images:
   hero: "electricien-urgence-vincennes-94300-hero"
   og: "electricien-vincennes-94300-og"

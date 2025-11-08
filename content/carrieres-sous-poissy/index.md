@@ -12,8 +12,8 @@ description: "Électricien d'urgence Carrieres-Sous-Poissy 78955 ⚡ Panne élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9437694
+  lng: 2.0341747
 images:
   hero: "electricien-urgence-carrieres-sous-poissy-78955-hero"
   og: "electricien-carrieres-sous-poissy-78955-og"

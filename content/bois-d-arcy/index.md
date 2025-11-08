@@ -12,8 +12,8 @@ description: "Électricien d'Urgence Bois-D'Arcy 78390 ⚡ Panne électrique, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.799856
+  lng: 2.023607
 images:
   hero: "electricien-urgence-bois-d-arcy-78390-hero"
   og: "electricien-bois-d-arcy-78390-og"

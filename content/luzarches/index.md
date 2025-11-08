@@ -12,8 +12,8 @@ description: "Électricien d'urgence LUZARCHES 95 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1124996
+  lng: 2.4223849
 images:
   hero: "elec-50-hero"
   og: "elec-50-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Chatou 78400 ⚡ Panne, installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8897044
+  lng: 2.1573695
 images:
   hero: "electricien-urgence-chatou-78400-hero"
   og: "electricien-chatou-78400-og"

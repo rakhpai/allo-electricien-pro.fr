@@ -12,8 +12,8 @@ description: "Électricien d'urgence SEVRAN 93 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.937634
+  lng: 2.5298164
 images:
   hero: "elec-38-hero"
   og: "elec-38-og"

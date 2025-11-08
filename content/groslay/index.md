@@ -12,8 +12,8 @@ description: "Dépannage électricien Groslay 95410 ⚡ Panne, tableau électriq
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9836906
+  lng: 2.3523274
 images:
   hero: "electricien-urgence-groslay-95410-hero"
   og: "electricien-groslay-95410-og"

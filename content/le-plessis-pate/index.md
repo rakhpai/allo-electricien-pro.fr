@@ -12,8 +12,8 @@ description: "Électricien d'urgence LE PLESSIS-PATE 91 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6141303
+  lng: 2.3551458
 images:
   hero: "elec-59-hero"
   og: "elec-59-og"

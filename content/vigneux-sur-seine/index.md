@@ -12,8 +12,8 @@ description: "Électricien 24/7 Vigneux-Sur-Seine 91270 ⚡ Panne, tableau élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6998552
+  lng: 2.4172117
 images:
   hero: "electricien-urgence-vigneux-sur-seine-91270-hero"
   og: "electricien-vigneux-sur-seine-91270-og"

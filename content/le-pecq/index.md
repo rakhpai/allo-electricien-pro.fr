@@ -12,8 +12,8 @@ description: "Électricien Le Pecq 78230 ⚡ Court-circuit, panne, installation 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8972505
+  lng: 2.1066273
 images:
   hero: "electricien-urgence-le-pecq-78230-hero"
   og: "electricien-le-pecq-78230-og"

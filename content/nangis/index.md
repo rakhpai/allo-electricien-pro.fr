@@ -12,8 +12,8 @@ description: "Solutions rapides Nangis"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8534022
+  lng: 2.6461001
 images:
   hero: "electricien-urgence-nangis-77370-hero"
   og: "electricien-nangis-77370-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Taverny 95150 ⚡ Panne, réparation, tableau
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0265888
+  lng: 2.2234971
 images:
   hero: "electricien-urgence-taverny-95150-hero"
   og: "electricien-taverny-95150-og"

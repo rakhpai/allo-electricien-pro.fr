@@ -12,8 +12,8 @@ description: "Urgence électricien Villeneuve-Le-Roi 94290 ⚡ Panne, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7402297
+  lng: 2.4261305
 images:
   hero: "electricien-urgence-villeneuve-le-roi-94290-hero"
   og: "electricien-villeneuve-le-roi-94290-og"

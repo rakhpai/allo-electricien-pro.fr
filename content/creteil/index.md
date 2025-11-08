@@ -12,8 +12,8 @@ description: "Électricien d'urgence Creteil 94000 ⚡ Installation, panne élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.755239
+  lng: 2.5339546
 images:
   hero: "electricien-urgence-creteil-94000-hero"
   og: "electricien-creteil-94000-og"

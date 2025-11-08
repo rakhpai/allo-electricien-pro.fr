@@ -12,8 +12,8 @@ description: "Urgence électricien Vaux-Sur-Seine 78740 ⚡ Panne, tableau élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0061998
+  lng: 1.9636465
 images:
   hero: "electricien-urgence-vaux-sur-seine-78740-hero"
   og: "electricien-vaux-sur-seine-78740-og"

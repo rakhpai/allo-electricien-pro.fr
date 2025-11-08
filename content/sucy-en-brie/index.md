@@ -12,8 +12,8 @@ description: "Électricien d'urgence Sucy-En-Brie 94880 ⚡ Installation, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7712233
+  lng: 2.5091705
 images:
   hero: "electricien-urgence-sucy-en-brie-94880-hero"
   og: "electricien-sucy-en-brie-94880-og"

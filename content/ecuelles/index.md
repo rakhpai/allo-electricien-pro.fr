@@ -12,8 +12,8 @@ description: "Électricien d'urgence ECUELLES 77 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.352101
+  lng: 2.7936471
 images:
   hero: "elec-148-hero"
   og: "elec-148-og"

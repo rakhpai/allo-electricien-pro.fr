@@ -12,8 +12,8 @@ description: "Électricien urgence Saint-Nom-La-Breteche 78860 ⚡ Installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5999991
+  lng: 5.8423387
 images:
   hero: "electricien-urgence-saint-nom-la-breteche-78860-hero"
   og: "electricien-saint-nom-la-breteche-78860-og"

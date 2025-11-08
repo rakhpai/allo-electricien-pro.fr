@@ -12,8 +12,8 @@ description: "Électricien Sevres 92310 ⚡ Panne, installation, réparation él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8919457
+  lng: 2.2450658
 images:
   hero: "electricien-urgence-sevres-92310-hero"
   og: "electricien-sevres-92310-og"

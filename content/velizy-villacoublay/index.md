@@ -12,8 +12,8 @@ description: "Électricien d'Urgence Velizy-Villacoublay 78140 ⚡ Panne, tablea
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7809496
+  lng: 2.1900052
 images:
   hero: "electricien-urgence-velizy-villacoublay-78140-hero"
   og: "electricien-velizy-villacoublay-78140-og"

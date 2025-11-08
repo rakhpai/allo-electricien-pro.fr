@@ -12,8 +12,8 @@ description: "Intervention électricien Limours 91470 ⚡ Tableau, installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6458221
+  lng: 2.0770987
 images:
   hero: "electricien-urgence-limours-91470-hero"
   og: "electricien-limours-91470-og"

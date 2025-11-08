@@ -12,8 +12,8 @@ description: "SOS Électricien Pontoise 95300 ⚡ Installation, réparation, tab
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0508845
+  lng: 2.1008067
 images:
   hero: "electricien-urgence-pontoise-95300-hero"
   og: "electricien-pontoise-95300-og"

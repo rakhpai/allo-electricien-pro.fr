@@ -12,8 +12,8 @@ description: "Électricien d'urgence THOMERY 77 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6342678
+  lng: 2.803192
 images:
   hero: "elec-81-hero"
   og: "elec-81-og"

@@ -12,8 +12,8 @@ description: "Électricien urgence Ivry-Sur-Seine 94200 ⚡ Installation, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8122302
+  lng: 2.3872525
 images:
   hero: "electricien-urgence-ivry-sur-seine-94200-hero"
   og: "electricien-ivry-sur-seine-94200-og"

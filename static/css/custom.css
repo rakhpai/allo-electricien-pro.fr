@@ -520,3 +520,678 @@ a[class*="cta"]:active::after {
   /* Enable when dark mode is implemented */
   /* body.dark-mode { ... } */
 }
+
+/* ========================================
+   NAVBAR ENHANCEMENTS (5 Variants Support)
+   ======================================== */
+
+/* Sticky Navbar with Smooth Transitions */
+nav.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Navbar Scroll Shadow Enhancement */
+nav.scrolled {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Navbar Hide on Scroll Down */
+nav.hide-on-scroll {
+  transform: translateY(-100%);
+}
+
+/* Navbar Show on Scroll Up */
+nav.show-on-scroll {
+  transform: translateY(0);
+}
+
+/* ========================================
+   MEGA MENU STYLES (Variant 3)
+   ======================================== */
+
+.mega-menu {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  pointer-events: none;
+}
+
+.mega-menu.active,
+.mega-menu-trigger:hover .mega-menu {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+/* Mega Menu Items Stagger Animation */
+.mega-menu-item {
+  opacity: 0;
+  transform: translateX(-10px);
+  animation: megaMenuItemSlide 0.3s ease-out forwards;
+}
+
+.mega-menu.active .mega-menu-item:nth-child(1) { animation-delay: 0.05s; }
+.mega-menu.active .mega-menu-item:nth-child(2) { animation-delay: 0.1s; }
+.mega-menu.active .mega-menu-item:nth-child(3) { animation-delay: 0.15s; }
+.mega-menu.active .mega-menu-item:nth-child(4) { animation-delay: 0.2s; }
+.mega-menu.active .mega-menu-item:nth-child(5) { animation-delay: 0.25s; }
+
+@keyframes megaMenuItemSlide {
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* ========================================
+   BOTTOM NAVIGATION (Variant 4)
+   ======================================== */
+
+/* Bottom Nav Ripple Effect */
+.bottom-nav-item {
+  position: relative;
+  overflow: hidden;
+}
+
+.bottom-nav-item::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(0, 102, 255, 0.15);
+  transform: translate(-50%, -50%);
+  transition: width 0.4s ease, height 0.4s ease;
+}
+
+.bottom-nav-item:active::before {
+  width: 100%;
+  height: 100%;
+}
+
+/* Bottom Nav Icon Bounce */
+.bottom-nav-item.active svg {
+  animation: iconBounce 0.5s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+@keyframes iconBounce {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+}
+
+/* ========================================
+   GLASS MORPHISM NAVBAR (Variant 5)
+   ======================================== */
+
+/* Enhanced Glass Effect for Navbar */
+.glass-navbar {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+}
+
+.glass-navbar.scrolled {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(30px) saturate(200%);
+  -webkit-backdrop-filter: blur(30px) saturate(200%);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+/* Gradient Glow Effect */
+.gradient-glow {
+  position: relative;
+}
+
+.gradient-glow::after {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(45deg, #0066FF, #00CCFF, #FF00FF, #0066FF);
+  background-size: 300% 300%;
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0;
+  filter: blur(10px);
+  animation: gradientRotate 4s ease infinite;
+  transition: opacity 0.3s ease;
+}
+
+.gradient-glow:hover::after {
+  opacity: 0.6;
+}
+
+@keyframes gradientRotate {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* ========================================
+   MOBILE MENU ANIMATIONS
+   ======================================== */
+
+/* Slide-In from Right (Variant 1) */
+.mobile-menu-slide-right {
+  transform: translateX(100%);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.mobile-menu-slide-right.active {
+  transform: translateX(0);
+}
+
+/* Bottom Sheet (Variant 2) */
+.mobile-menu-bottom-sheet {
+  transform: translateY(100%);
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.mobile-menu-bottom-sheet.active {
+  transform: translateY(0);
+}
+
+/* Full Screen Overlay (Variant 3) */
+.mobile-menu-fullscreen {
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.3s ease;
+}
+
+.mobile-menu-fullscreen.active {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Drawer Menu (Variant 4) */
+.drawer-menu {
+  backdrop-filter: blur(0px);
+  transition: backdrop-filter 0.3s ease;
+}
+
+.drawer-menu.active {
+  backdrop-filter: blur(8px);
+}
+
+.drawer-menu .drawer-content {
+  transform: translateY(100%);
+  transition: transform 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.drawer-menu.active .drawer-content {
+  transform: translateY(0);
+}
+
+/* Glass Menu (Variant 5) */
+.mobile-menu-glass {
+  backdrop-filter: blur(0px);
+  transition: backdrop-filter 0.5s ease, opacity 0.3s ease;
+}
+
+.mobile-menu-glass.active {
+  backdrop-filter: blur(24px) saturate(180%);
+}
+
+/* ========================================
+   HAMBURGER MENU TRANSFORMATIONS
+   ======================================== */
+
+/* Classic Hamburger to X */
+.hamburger-line {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background-color: currentColor;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.hamburger.active .hamburger-line:nth-child(1) {
+  transform: translateY(8px) rotate(45deg);
+}
+
+.hamburger.active .hamburger-line:nth-child(2) {
+  opacity: 0;
+  transform: scaleX(0);
+}
+
+.hamburger.active .hamburger-line:nth-child(3) {
+  transform: translateY(-8px) rotate(-45deg);
+}
+
+/* Morphing Hamburger */
+.hamburger-morph {
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.hamburger-morph.active {
+  transform: rotate(90deg);
+}
+
+/* Arrow Hamburger */
+.hamburger-arrow .hamburger-line {
+  transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.hamburger-arrow.active .hamburger-line:nth-child(1) {
+  transform: translateX(-5px) rotate(-40deg);
+}
+
+.hamburger-arrow.active .hamburger-line:nth-child(3) {
+  transform: translateX(-5px) rotate(40deg);
+}
+
+/* ========================================
+   NAVBAR LOGO ANIMATIONS
+   ======================================== */
+
+/* Logo Fade In */
+.logo-fade-in {
+  animation: logoFadeIn 0.6s ease-out;
+}
+
+@keyframes logoFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Logo Scale on Scroll */
+.logo-scale-scroll {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+nav.scrolled .logo-scale-scroll {
+  transform: scale(0.9);
+}
+
+/* Logo Glow Hover Effect */
+.logo-glow-hover {
+  position: relative;
+  transition: filter 0.3s ease;
+}
+
+.logo-glow-hover::before {
+  content: '';
+  position: absolute;
+  inset: -10px;
+  background: radial-gradient(circle, rgba(0, 102, 255, 0.3) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.logo-glow-hover:hover::before {
+  opacity: 1;
+}
+
+/* ========================================
+   GRADIENT BORDERS & EFFECTS
+   ======================================== */
+
+/* Animated Gradient Border */
+.gradient-border-animated {
+  position: relative;
+  background: linear-gradient(white, white) padding-box,
+              linear-gradient(45deg, #0066FF, #00CCFF, #FF00FF, #0066FF) border-box;
+  background-size: 300% 300%;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  animation: gradientBorderFlow 4s ease infinite;
+}
+
+@keyframes gradientBorderFlow {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* Gradient Underline */
+.gradient-underline {
+  background: linear-gradient(90deg, #0066FF, #00CCFF, #FF00FF);
+  height: 2px;
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.gradient-underline.active,
+a:hover .gradient-underline {
+  transform: scaleX(1);
+}
+
+/* ========================================
+   CTA BUTTON ENHANCEMENTS
+   ======================================== */
+
+/* Pulsing CTA Ring */
+.cta-pulse-ring {
+  position: relative;
+}
+
+.cta-pulse-ring::before {
+  content: '';
+  position: absolute;
+  inset: -4px;
+  border: 2px solid currentColor;
+  border-radius: inherit;
+  opacity: 0.6;
+  animation: pulseRing 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulseRing {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scale(1.1);
+    opacity: 0;
+  }
+}
+
+/* Gradient CTA with Shine */
+.cta-gradient-shine {
+  position: relative;
+  overflow: hidden;
+  background: linear-gradient(135deg, #0066FF 0%, #00CCFF 100%);
+}
+
+.cta-gradient-shine::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 50%;
+  height: 100%;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+  animation: shine 3s infinite;
+}
+
+@keyframes shine {
+  0% { left: -100%; }
+  100% { left: 200%; }
+}
+
+/* ========================================
+   PARALLAX EFFECTS
+   ======================================== */
+
+/* Subtle Parallax on Scroll */
+.parallax-navbar {
+  transition: transform 0.1s ease-out;
+}
+
+/* Applied via JavaScript based on scroll position */
+.parallax-navbar.scrolling {
+  transform: translateY(-2px);
+}
+
+/* ========================================
+   TRUST BADGES ANIMATIONS
+   ======================================== */
+
+/* Badge Float Animation */
+.badge-float {
+  animation: badgeFloat 3s ease-in-out infinite;
+}
+
+@keyframes badgeFloat {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+}
+
+/* Badge Tooltip */
+.badge-tooltip {
+  position: relative;
+}
+
+.badge-tooltip::after {
+  content: attr(data-tooltip);
+  position: absolute;
+  bottom: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%) translateY(5px);
+  padding: 6px 12px;
+  background: #1a1a1a;
+  color: white;
+  font-size: 12px;
+  white-space: nowrap;
+  border-radius: 6px;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  z-index: 1000;
+}
+
+.badge-tooltip::before {
+  content: '';
+  position: absolute;
+  bottom: calc(100% + 2px);
+  left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: #1a1a1a;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.badge-tooltip:hover::after,
+.badge-tooltip:hover::before {
+  opacity: 1;
+  transform: translateX(-50%) translateY(0);
+}
+
+/* ========================================
+   TOP BAR STYLES (Variant 2)
+   ======================================== */
+
+/* Top Bar Slide Animation */
+.top-bar {
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.top-bar.hidden {
+  transform: translateY(-100%);
+}
+
+/* Top Bar Stats Counter Animation */
+.stat-counter {
+  animation: countUp 1s ease-out;
+}
+
+@keyframes countUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ========================================
+   FAB (Floating Action Button) - Variant 4
+   ======================================== */
+
+/* FAB Extended (with label) */
+.fab-extended {
+  border-radius: 28px;
+  padding: 0 20px;
+  min-width: 56px;
+  height: 56px;
+  transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+
+.fab-extended:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* FAB Pulse for Emergency */
+.fab-emergency-pulse {
+  position: relative;
+  animation: fabEmergencyBounce 2s ease-in-out infinite;
+}
+
+@keyframes fabEmergencyBounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.fab-emergency-pulse::after {
+  content: '';
+  position: absolute;
+  inset: -6px;
+  border: 3px solid #DC2626;
+  border-radius: 50%;
+  animation: fabPulseWave 2s ease-out infinite;
+  pointer-events: none;
+}
+
+@keyframes fabPulseWave {
+  0% {
+    transform: scale(1);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+/* ========================================
+   SCROLL PROGRESS BAR
+   ======================================== */
+
+.scroll-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #0066FF, #00CCFF);
+  transform-origin: left;
+  z-index: 10000;
+  transition: transform 0.1s ease-out;
+}
+
+/* ========================================
+   MOBILE-SPECIFIC NAVBAR ENHANCEMENTS
+   ======================================== */
+
+/* Prevent Scroll When Mobile Menu Open */
+body.mobile-menu-open {
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
+/* Mobile Menu Backdrop */
+.mobile-menu-backdrop {
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(4px);
+  transition: opacity 0.3s ease;
+}
+
+/* Swipe Indicator for Drawer */
+.swipe-indicator {
+  width: 40px;
+  height: 4px;
+  background: rgba(0, 0, 0, 0.2);
+  border-radius: 2px;
+  margin: 12px auto 8px;
+}
+
+/* ========================================
+   RESPONSIVE NAVBAR UTILITIES
+   ======================================== */
+
+/* Desktop Only */
+@media (min-width: 1024px) {
+  .mobile-only { display: none !important; }
+}
+
+/* Mobile Only */
+@media (max-width: 1023px) {
+  .desktop-only { display: none !important; }
+}
+
+/* Tablet Breakpoint */
+@media (min-width: 768px) and (max-width: 1023px) {
+  nav {
+    padding: 0 20px;
+  }
+}
+
+/* ========================================
+   PERFORMANCE OPTIMIZATIONS
+   ======================================== */
+
+/* GPU Acceleration for Smooth Animations */
+.gpu-accelerated,
+nav,
+.mobile-menu,
+.mega-menu,
+.fab,
+.bottom-nav {
+  transform: translateZ(0);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
+/* Prevent Layout Shift */
+nav img {
+  display: block;
+}
+
+/* ========================================
+   NAVBAR VARIANT SPECIFIC CLASSES
+   ======================================== */
+
+/* Variant 1: Classic Professional */
+.navbar-v1 {
+  transition: box-shadow 0.3s ease, background-color 0.3s ease;
+}
+
+/* Variant 2: Dual-Layer Authority */
+.navbar-v2 .main-nav {
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease;
+}
+
+/* Variant 3: Mega Menu Power */
+.navbar-v3 .mega-menu-trigger:hover {
+  color: #0066FF;
+}
+
+/* Variant 4: Mobile-First Bottom Nav */
+.navbar-v4 .bottom-nav-item.active {
+  color: #0066FF;
+}
+
+/* Variant 5: Glass Morphism */
+.navbar-v5 {
+  backdrop-filter: blur(20px) saturate(180%);
+  -webkit-backdrop-filter: blur(20px) saturate(180%);
+}

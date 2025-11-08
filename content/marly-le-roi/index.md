@@ -12,8 +12,8 @@ description: "Dépannage électricien Marly-Le-Roi 78160 ⚡ Installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8681762
+  lng: 2.0965935
 images:
   hero: "electricien-urgence-marly-le-roi-78160-hero"
   og: "electricien-marly-le-roi-78160-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Montigny-Le-Bretonneux 78180 ⚡ Installation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7698937
+  lng: 2.0381228
 images:
   hero: "electricien-urgence-montigny-le-bretonneux-78180-hero"
   og: "electricien-montigny-le-bretonneux-78180-og"

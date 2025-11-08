@@ -12,8 +12,8 @@ description: "Électricien 24/7 Gennevilliers 92230 ⚡ Panne, installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9254221
+  lng: 2.2940122
 images:
   hero: "electricien-urgence-gennevilliers-92230-hero"
   og: "electricien-gennevilliers-92230-og"

@@ -12,8 +12,8 @@ description: "Électricien Saint-Remy-Les-Chevreuse 78 ⚡ Réparation, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7054888
+  lng: 2.071109
 images:
   hero: "electricien-urgence-saint-remy-les-chevreuse-78470-hero"
   og: "electricien-saint-remy-les-chevreuse-78470-og"

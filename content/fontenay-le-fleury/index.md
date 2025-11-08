@@ -12,8 +12,8 @@ description: "Électricien 24/7 Fontenay-Le-Fleury 78330 ⚡ Installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8106578
+  lng: 2.0461549
 images:
   hero: "electricien-urgence-fontenay-le-fleury-78330-hero"
   og: "electricien-fontenay-le-fleury-78330-og"

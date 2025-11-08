@@ -12,8 +12,8 @@ description: "Pour un travail de top La Frette-sur-Seine"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9740461
+  lng: 2.178345
 images:
   hero: "electricien-urgence-la-frette-sur-seine-95530-hero"
   og: "electricien-la-frette-sur-seine-95530-og"

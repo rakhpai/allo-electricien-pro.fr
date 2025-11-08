@@ -12,8 +12,8 @@ description: "Dépannage électricien Cormeilles-En-Parisis 95 ⚡ Panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9759637
+  lng: 2.1998877
 images:
   hero: "electricien-urgence-cormeilles-en-parisis-95240-hero"
   og: "electricien-cormeilles-en-parisis-95240-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence MOUSSY-LE-NEUF 77 ⚡ Court-circuit, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0645339
+  lng: 2.6030888
 images:
   hero: "elec-113-hero"
   og: "elec-113-og"

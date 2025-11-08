@@ -12,8 +12,8 @@ description: "Électricien d'urgence Othis 77280 ⚡ Panne, installation, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0737733
+  lng: 2.6725272
 images:
   hero: "electricien-urgence-othis-77280-hero"
   og: "electricien-othis-77280-og"

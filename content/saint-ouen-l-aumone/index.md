@@ -12,8 +12,8 @@ description: "Électricien urgence Saint-Ouen-L'aumone 95310 ⚡ Panne, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.044765
+  lng: 2.1059841
 images:
   hero: "electricien-urgence-saint-ouen-l-aumone-95310-hero"
   og: "electricien-saint-ouen-l-aumone-95310-og"

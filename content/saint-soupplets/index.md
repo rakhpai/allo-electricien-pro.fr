@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-SOUPPLETS 77 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0399088
+  lng: 2.8067496
 images:
   hero: "elec-94-hero"
   og: "elec-94-og"

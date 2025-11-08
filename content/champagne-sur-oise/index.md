@@ -12,8 +12,8 @@ description: "Électricien urgence Champagne-Sur-Oise 95660 ⚡ Panne, tableau �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1339431
+  lng: 2.2312397
 images:
   hero: "electricien-urgence-champagne-sur-oise-95660-hero"
   og: "electricien-champagne-sur-oise-95660-og"

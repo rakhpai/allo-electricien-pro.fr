@@ -12,8 +12,8 @@ description: "SOS Électricien Neuilly-Plaisance 93360 ⚡ Panne, tableau, court
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8608712
+  lng: 2.5060144
 images:
   hero: "electricien-urgence-neuilly-plaisance-93360-hero"
   og: "electricien-neuilly-plaisance-93360-og"

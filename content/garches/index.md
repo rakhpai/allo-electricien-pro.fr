@@ -12,8 +12,8 @@ description: "Dépannage électricien Garches 92380 ⚡ Panne, tableau électriq
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8437486
+  lng: 2.1853699
 images:
   hero: "electricien-urgence-garches-92380-hero"
   og: "electricien-garches-92380-og"

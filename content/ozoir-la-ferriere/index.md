@@ -12,8 +12,8 @@ description: "Électricien d'urgence Ozoir-La-Ferrière 77330 ⚡ Installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7707897
+  lng: 2.6902868
 images:
   hero: "electricien-urgence-ozoir-la-ferriere-77330-hero"
   og: "electricien-ozoir-la-ferriere-77330-og"

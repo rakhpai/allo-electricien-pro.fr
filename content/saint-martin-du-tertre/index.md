@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-MARTIN-DU-TERTRE 95 ⚡ Court-circuit
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1063312
+  lng: 2.3429813
 images:
   hero: "elec-138-hero"
   og: "elec-138-og"

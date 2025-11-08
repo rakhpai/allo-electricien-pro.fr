@@ -12,8 +12,8 @@ description: "Urgence électricien Gif-Sur-Yvette 91190 ⚡ Panne, réparation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5831155
+  lng: 2.3658269
 images:
   hero: "electricien-urgence-gif-sur-yvette-91190-hero"
   og: "electricien-gif-sur-yvette-91190-og"

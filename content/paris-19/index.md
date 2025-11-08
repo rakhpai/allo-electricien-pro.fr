@@ -12,8 +12,8 @@ description: "Électricien Paris 19 75019 ⚡ Panne, installation, réparation �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8673651
+  lng: 2.3511564
 images:
   hero: "electricien-urgence-paris-19-75019-hero"
   og: "electricien-paris-19-75019-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Saintry-Sur-Seine 91250 ⚡ Installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5360593
+  lng: 2.3196777
 images:
   hero: "electricien-urgence-saintry-sur-seine-91250-hero"
   og: "electricien-saintry-sur-seine-91250-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Voisins-Le-Bretonneux 78960 ⚡ Panne, court-circ
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7586786
+  lng: 2.0509674
 images:
   hero: "electricien-urgence-voisins-le-bretonneux-78960-hero"
   og: "electricien-voisins-le-bretonneux-78960-og"

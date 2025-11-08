@@ -12,8 +12,8 @@ description: "Dépannage électricien Ballancourt-Sur-Essonne 91 ⚡ Court-circu
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5239361
+  lng: 2.3843837
 images:
   hero: "electricien-urgence-ballancourt-sur-essonne-91610-hero"
   og: "electricien-ballancourt-sur-essonne-91610-og"

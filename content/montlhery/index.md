@@ -12,8 +12,8 @@ description: "Intervention électricien Montlhery 91310 ⚡ Panne, tableau élec
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6396904
+  lng: 2.2710952
 images:
   hero: "electricien-urgence-montlhery-91310-hero"
   og: "electricien-montlhery-91310-og"

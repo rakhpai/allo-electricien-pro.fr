@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-CYR-L'ECOLE 78 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.799708
+  lng: 2.0672138
 images:
   hero: "elec-180-hero"
   og: "elec-180-og"

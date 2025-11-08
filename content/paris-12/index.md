@@ -12,8 +12,8 @@ description: "Dépannage électricien Paris 12 75012 ⚡ Réparation panne, tabl
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8779981
+  lng: 2.3721384
 images:
   hero: "electricien-urgence-paris-12-75012-hero"
   og: "electricien-paris-12-75012-og"

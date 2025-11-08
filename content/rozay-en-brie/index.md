@@ -12,8 +12,8 @@ description: "Électricien d'urgence ROZAY-EN-BRIE 77 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6833414
+  lng: 2.958804
 images:
   hero: "elec-126-hero"
   og: "elec-126-og"

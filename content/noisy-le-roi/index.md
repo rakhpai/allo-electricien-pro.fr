@@ -12,8 +12,8 @@ description: "Électricien 24/7 Noisy-Le-Roi 78590 ⚡ Panne, installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8439572
+  lng: 2.0645422
 images:
   hero: "electricien-urgence-noisy-le-roi-78590-hero"
   og: "electricien-noisy-le-roi-78590-og"

@@ -12,8 +12,8 @@ description: "Urgence Électricien Le Vésinet 78110 ⚡ Tableau, panne, court-c
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.894254
+  lng: 2.1347291
 images:
   hero: "electricien-urgence-le-vesinet-78110-hero"
   og: "electricien-le-vesinet-78110-og"

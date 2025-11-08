@@ -12,8 +12,8 @@ description: "Intervention électricien Chennevières-sur-Marne 94 ⚡ Réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7965078
+  lng: 2.5321397
 images:
   hero: "electricien-urgence-chennevieres-sur-marne-94430-hero"
   og: "electricien-chennevieres-sur-marne-94430-og"

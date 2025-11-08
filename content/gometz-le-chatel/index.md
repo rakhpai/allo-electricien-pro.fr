@@ -12,8 +12,8 @@ description: "Électricien d'urgence GOMETZ-LE-CHATEL 91 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6784419
+  lng: 2.1386067
 images:
   hero: "elec-137-hero"
   og: "elec-137-og"

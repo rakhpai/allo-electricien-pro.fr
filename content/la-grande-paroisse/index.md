@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA GRANDE-PAROISSE 77 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.1728878
+  lng: 2.8872339
 images:
   hero: "elec-136-hero"
   og: "elec-136-og"

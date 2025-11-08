@@ -12,8 +12,8 @@ description: "Urgence électricien Neuilly-Sur-Seine 92200 ⚡ Panne, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8841
+  lng: 2.2685
 images:
   hero: "electricien-urgence-neuilly-sur-seine-92200-hero"
   og: "electricien-neuilly-sur-seine-92200-og"

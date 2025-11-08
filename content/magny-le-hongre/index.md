@@ -12,8 +12,8 @@ description: "SOS Électricien Magny-Le-Hongre 77700 ⚡ Panne, tableau électri
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8770751
+  lng: 2.805583
 images:
   hero: "electricien-urgence-magny-le-hongre-77700-hero"
   og: "electricien-magny-le-hongre-77700-og"

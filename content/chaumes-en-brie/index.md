@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHAUMES-EN-BRIE 77 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6658159
+  lng: 2.8416433
 images:
   hero: "elec-110-hero"
   og: "elec-110-og"

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Navbar Test: Variant 1 - Classic Professional | {{ .Site.Params.companyName }}</title>
+  <meta name="description" content="Testing Navbar Variant 1: Classic Professional design">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="/css/custom.css">
+
+  <!-- Tailwind Config -->
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#0066FF',
+            secondary: '#00CCFF',
+            emergency: '#DC2626',
+          }
+        }
+      }
+    }
+  </script>
+</head>
+<body class="bg-gray-50">
+  <!-- NAVBAR VARIANT 1 -->
+  {{ partial "navbar-variant1.html" . }}
+
+  <!-- Test Content -->
+  <main class="container mx-auto px-4 py-20">
+    <!-- Header -->
+    <div class="text-center mb-12">
+      <div class="inline-block px-4 py-2 bg-primary/10 text-primary rounded-full text-sm font-semibold mb-4">
+        🧪 NAVBAR TEST PAGE
+      </div>
+      <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+        Variant 1: Classic Professional
+      </h1>
+      <p class="text-xl text-gray-600 max-w-2xl mx-auto">
+        Clean, traditional, trust-focused with prominent certifications
+      </p>
+    </div>
+
+    <!-- Features Grid -->
+    <div class="grid md:grid-cols-3 gap-8 mb-16">
+      <div class="bg-white p-6 rounded-xl shadow-md">
+        <div class="text-3xl mb-3">🎯</div>
+        <h3 class="font-bold text-gray-900 mb-2">Strategy</h3>
+        <p class="text-gray-600 text-sm">Professional appearance with trust badges and smooth animations</p>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow-md">
+        <div class="text-3xl mb-3">📱</div>
+        <h3 class="font-bold text-gray-900 mb-2">Mobile UX</h3>
+        <p class="text-gray-600 text-sm">Slide-in menu from right with hamburger to X animation</p>
+      </div>
+      <div class="bg-white p-6 rounded-xl shadow-md">
+        <div class="text-3xl mb-3">💼</div>
+        <h3 class="font-bold text-gray-900 mb-2">Best For</h3>
+        <p class="text-gray-600 text-sm">Traditional users, desktop-heavy traffic, professional services</p>
+      </div>
+    </div>
+
+    <!-- Test Sections -->
+    <section id="services" class="py-20 bg-white rounded-xl shadow-sm mb-8">
+      <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold text-center mb-12">Nos Services</h2>
+        <div class="grid md:grid-cols-3 gap-8">
+          <div class="p-6 border border-gray-200 rounded-lg">
+            <div class="text-4xl mb-4">⚡</div>
+            <h3 class="font-bold text-xl mb-2">Dépannage Urgent</h3>
+            <p class="text-gray-600">Intervention rapide 24/7</p>
+          </div>
+          <div class="p-6 border border-gray-200 rounded-lg">
+            <div class="text-4xl mb-4">🔧</div>
+            <h3 class="font-bold text-xl mb-2">Installation</h3>
+            <p class="text-gray-600">Prises, luminaires, tableaux</p>
+          </div>
+          <div class="p-6 border border-gray-200 rounded-lg">
+            <div class="text-4xl mb-4">✓</div>
+            <h3 class="font-bold text-xl mb-2">Mise aux Normes</h3>
+            <p class="text-gray-600">Conformité NF C 15-100</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="videos" class="py-20 bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl shadow-sm mb-8">
+      <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-4">Vidéos</h2>
+        <p class="text-gray-600">Section vidéos de démonstration</p>
+      </div>
+    </section>
+
+    <section id="directory" class="py-20 bg-white rounded-xl shadow-sm mb-8">
+      <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-4">Annuaire des Électriciens</h2>
+        <p class="text-gray-600">Trouvez un électricien près de chez vous</p>
+      </div>
+    </section>
+
+    <section id="coverage" class="py-20 bg-gradient-to-br from-green-50 to-blue-50 rounded-xl shadow-sm mb-8">
+      <div class="container mx-auto px-4 text-center">
+        <h2 class="text-3xl font-bold mb-4">Zones d'Intervention</h2>
+        <p class="text-gray-600">Île-de-France & Oise</p>
+      </div>
+    </section>
+
+    <!-- Navigation Links -->
+    <div class="text-center mt-16">
+      <h3 class="text-xl font-bold mb-4">Test Other Variants:</h3>
+      <div class="flex flex-wrap justify-center gap-4">
+        <a href="/navbar-test-v2.html" class="px-6 py-3 bg-gray-200 hover:bg-gray-300 rounded-lg font-semibold transition">
+          Variant 2: Dual-Layer →
+        </a>
+        <a href="/navbar-test-v3.html" class="px-6 py-3 bg-gray-200 hover:bg-gray-300 rounded-lg font-semibold transition">
+          Variant 3: Mega Menu →
+        </a>
+        <a href="/navbar-test-v4.html" class="px-6 py-3 bg-gray-200 hover:bg-gray-300 rounded-lg font-semibold transition">
+          Variant 4: Bottom Nav →
+        </a>
+        <a href="/navbar-test-v5.html" class="px-6 py-3 bg-gray-200 hover:bg-gray-300 rounded-lg font-semibold transition">
+          Variant 5: Glass Morphism →
+        </a>
+      </div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white py-12 mt-20">
+    <div class="container mx-auto px-4 text-center">
+      <p class="text-gray-400">{{ .Site.Params.companyName }} - Test Page Variant 1</p>
+    </div>
+  </footer>
+
+  <!-- JavaScript -->
+  <script src="/js/app.js"></script>
+</body>
+</html>

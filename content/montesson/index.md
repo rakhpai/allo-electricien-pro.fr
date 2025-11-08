@@ -12,8 +12,8 @@ description: "Électricien Montesson 78360 ⚡ Réparation, installation, panne 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9076492
+  lng: 2.149134
 images:
   hero: "electricien-urgence-montesson-78360-hero"
   og: "electricien-montesson-78360-og"

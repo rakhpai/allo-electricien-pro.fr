@@ -12,8 +12,8 @@ description: "Dépannage électricien Bures-Sur-Yvette 91440 ⚡ Installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6958563
+  lng: 2.1634155
 images:
   hero: "electricien-urgence-bures-sur-yvette-91440-hero"
   og: "electricien-bures-sur-yvette-91440-og"

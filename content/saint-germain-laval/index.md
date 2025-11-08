@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-GERMAIN-LAVAL 77 ⚡ Court-circuit, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3993141
+  lng: 2.9829577
 images:
   hero: "elec-123-hero"
   og: "elec-123-og"

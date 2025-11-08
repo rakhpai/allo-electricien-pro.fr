@@ -12,8 +12,8 @@ description: "Dépannage électricien Triel-Sur-Seine 78510 ⚡ Panne, installat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.980925
+  lng: 2.0030818
 images:
   hero: "electricien-urgence-triel-sur-seine-78510-hero"
   og: "electricien-triel-sur-seine-78510-og"

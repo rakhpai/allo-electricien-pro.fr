@@ -12,8 +12,8 @@ description: "Dépannage électricien Gretz-Armainvilliers 77 ⚡ Panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3357544
+  lng: 2.825801
 images:
   hero: "electricien-urgence-gretz-armainvilliers-77220-hero"
   og: "electricien-gretz-armainvilliers-77220-og"

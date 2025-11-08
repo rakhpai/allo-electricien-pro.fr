@@ -12,8 +12,8 @@ description: "Électricien Villennes-Sur-Seine 78670 ⚡ Réparation, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9404491
+  lng: 1.9987648
 images:
   hero: "electricien-urgence-villennes-sur-seine-78670-hero"
   og: "electricien-villennes-sur-seine-78670-og"

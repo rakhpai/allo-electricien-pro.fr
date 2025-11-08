@@ -12,8 +12,8 @@ description: "Pour tout urgence ou dépannage Mouroux"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8214219
+  lng: 3.0381467
 images:
   hero: "electricien-urgence-mouroux-77120-hero"
   og: "electricien-mouroux-77120-og"

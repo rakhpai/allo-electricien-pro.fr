@@ -12,8 +12,8 @@ description: "Urgence électricien Le Perray-en-Yvelines 78 ⚡ Panne, réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6924665
+  lng: 1.8538535
 images:
   hero: "electricien-urgence-le-perray-en-yvelines-78610-hero"
   og: "electricien-le-perray-en-yvelines-78610-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence AULNAY-SOUS-BOIS 93 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.934231
+  lng: 2.499789
 images:
   hero: "elec-12-hero"
   og: "elec-12-og"

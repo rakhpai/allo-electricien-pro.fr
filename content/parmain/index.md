@@ -12,8 +12,8 @@ description: "Urgence Électricien Parmain 95620 ⚡ Réparation, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1142087
+  lng: 2.2090453
 images:
   hero: "electricien-urgence-parmain-95620-hero"
   og: "electricien-parmain-95620-og"

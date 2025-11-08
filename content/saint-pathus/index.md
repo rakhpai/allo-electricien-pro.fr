@@ -12,8 +12,8 @@ description: "Électricien Saint-Pathus 77178 ⚡ Panne, installation, réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0700465
+  lng: 2.8014636
 images:
   hero: "electricien-urgence-saint-pathus-77178-hero"
   og: "electricien-saint-pathus-77178-og"

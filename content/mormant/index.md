@@ -12,8 +12,8 @@ description: "SOS Électricien Mormant 77720 ⚡ Panne, court-circuit, tableau �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.613661
+  lng: 2.8889312
 images:
   hero: "electricien-urgence-mormant-77720-hero"
   og: "electricien-mormant-77720-og"

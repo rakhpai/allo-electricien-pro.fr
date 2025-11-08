@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-DENIS 93 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.935773
+  lng: 2.3580232
 images:
   hero: "elec-2-hero"
   og: "elec-2-og"

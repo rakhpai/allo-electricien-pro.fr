@@ -12,8 +12,8 @@ description: "Un savoir-faire inégalable L'Île-Saint-Denis"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9355885
+  lng: 2.3397438
 images:
   hero: "electricien-urgence-l-ile-saint-denis-93450-hero"
   og: "electricien-l-ile-saint-denis-93450-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence ETIOLLES 91 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6380667
+  lng: 2.4775273
 images:
   hero: "elec-109-hero"
   og: "elec-109-og"

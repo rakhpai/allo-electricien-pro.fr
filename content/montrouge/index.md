@@ -12,8 +12,8 @@ description: "Urgence Électricien Montrouge 92120 ⚡ Panne, installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8112265
+  lng: 2.3022982
 images:
   hero: "electricien-urgence-montrouge-92120-hero"
   og: "electricien-montrouge-92120-og"

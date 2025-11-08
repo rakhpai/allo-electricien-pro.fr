@@ -12,8 +12,8 @@ description: "SOS Électricien Paris 18 75018 ⚡ Court-circuit, panne électriq
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8782074
+  lng: 2.3427222
 images:
   hero: "electricien-urgence-paris-18-75018-hero"
   og: "electricien-paris-18-75018-og"

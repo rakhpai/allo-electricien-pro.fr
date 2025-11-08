@@ -12,8 +12,8 @@ description: "SOS Électricien Mantes-La-Ville 78200 ⚡ Installation, tableau, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6268895
+  lng: 2.0062455
 images:
   hero: "electricien-urgence-mantes-la-ville-78200-hero"
   og: "electricien-mantes-la-ville-78200-og"

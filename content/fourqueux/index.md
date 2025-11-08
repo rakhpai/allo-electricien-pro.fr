@@ -12,8 +12,8 @@ description: "Électricien d'urgence FOURQUEUX 78 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8865297
+  lng: 2.0644977
 images:
   hero: "elec-57-hero"
   og: "elec-57-og"

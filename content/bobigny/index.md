@@ -12,8 +12,8 @@ description: "Urgence électricien Bobigny 93000 ⚡ Installation, réparation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.906387
+  lng: 2.4452231
 images:
   hero: "electricien-urgence-bobigny-93000-hero"
   og: "electricien-bobigny-93000-og"

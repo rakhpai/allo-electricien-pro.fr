@@ -12,8 +12,8 @@ description: "SOS Électricien Paris 4 75004 ⚡ Panne, installation, tableau é
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8693146
+  lng: 2.3347338
 images:
   hero: "electricien-urgence-paris-4-75004-hero"
   og: "electricien-paris-4-75004-og"

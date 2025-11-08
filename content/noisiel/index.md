@@ -12,8 +12,8 @@ description: "Urgence électricien Noisiel 77186 ⚡ Panne, réparation, tableau
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8478649
+  lng: 2.6242905
 images:
   hero: "electricien-urgence-noisiel-77186-hero"
   og: "electricien-noisiel-77186-og"

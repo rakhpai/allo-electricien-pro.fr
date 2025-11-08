@@ -12,8 +12,8 @@ description: "Électricien d'urgence ASNIERES-SUR-OISE 95 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1339089
+  lng: 2.3541273
 images:
   hero: "elec-144-hero"
   og: "elec-144-og"

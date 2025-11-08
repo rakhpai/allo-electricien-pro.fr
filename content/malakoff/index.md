@@ -12,8 +12,8 @@ description: "Électricien d'urgence Malakoff 92240 ⚡ Réparation, installatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8211559
+  lng: 2.3019814
 images:
   hero: "electricien-urgence-malakoff-92240-hero"
   og: "electricien-malakoff-92240-og"

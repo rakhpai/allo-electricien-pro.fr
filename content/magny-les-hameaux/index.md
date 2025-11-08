@@ -12,8 +12,8 @@ description: "Électricien Magny-Les-Hameaux 78114 ⚡ Installation, réparation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.724051
+  lng: 2.0839562
 images:
   hero: "electricien-urgence-magny-les-hameaux-78114-hero"
   og: "electricien-magny-les-hameaux-78114-og"

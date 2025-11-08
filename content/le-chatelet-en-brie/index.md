@@ -12,8 +12,8 @@ description: "SOS Électricien Le Chatelet-En-Brie 77820 ⚡ Panne, installation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5051569
+  lng: 2.7948197
 images:
   hero: "electricien-urgence-le-chatelet-en-brie-77820-hero"
   og: "electricien-le-chatelet-en-brie-77820-og"

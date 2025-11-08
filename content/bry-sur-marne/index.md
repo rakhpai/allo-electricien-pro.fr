@@ -12,8 +12,8 @@ description: "Électricien urgence Bry-Sur-Marne 94360 ⚡ Panne, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8352872
+  lng: 2.5193322
 images:
   hero: "electricien-urgence-bry-sur-marne-94360-hero"
   og: "electricien-bry-sur-marne-94360-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Villetaneuse 93430 ⚡ Installation, réparation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9611722
+  lng: 2.3439698
 images:
   hero: "electricien-urgence-villetaneuse-93430-hero"
   og: "electricien-villetaneuse-93430-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence BRAY-SUR-SEINE 77 ⚡ Court-circuit, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4143826
+  lng: 3.2398552
 images:
   hero: "elec-157-hero"
   og: "elec-157-og"

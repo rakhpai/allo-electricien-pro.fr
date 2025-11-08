@@ -12,8 +12,8 @@ description: "Électricien d'urgence VILLEPINTE 93 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9636566
+  lng: 2.5347541
 images:
   hero: "elec-63-hero"
   og: "elec-63-og"

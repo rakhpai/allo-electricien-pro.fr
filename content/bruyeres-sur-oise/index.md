@@ -12,8 +12,8 @@ description: "Électricien d'urgence BRUYERES-SUR-OISE 95 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1552243
+  lng: 2.3259654
 images:
   hero: "elec-75-hero"
   og: "elec-75-og"

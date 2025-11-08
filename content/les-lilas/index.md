@@ -12,8 +12,8 @@ description: "SOS Électricien Les lilas 93260 ⚡ Installation, réparation, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8788639
+  lng: 2.4164575
 images:
   hero: "electricien-urgence-les-lilas-93260-hero"
   og: "electricien-les-lilas-93260-og"

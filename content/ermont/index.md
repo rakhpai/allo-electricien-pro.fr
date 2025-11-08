@@ -12,8 +12,8 @@ description: "Électricien Ermont 95120 ⚡ Réparation, installation, tableau �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9917676
+  lng: 2.2585679
 images:
   hero: "electricien-urgence-ermont-95120-hero"
   og: "electricien-ermont-95120-og"

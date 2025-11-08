@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-WITZ 95 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0906196
+  lng: 2.5653692
 images:
   hero: "elec-140-hero"
   og: "elec-140-og"

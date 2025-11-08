@@ -12,8 +12,8 @@ description: "Électricien 24/7 Villeparisis 77270 ⚡ Réparation panne, tablea
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9530204
+  lng: 2.6025652
 images:
   hero: "electricien-urgence-villeparisis-77270-hero"
   og: "electricien-villeparisis-77270-og"

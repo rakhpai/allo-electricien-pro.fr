@@ -12,8 +12,8 @@ description: "Électricien d'urgence TIGERY 91 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.621555
+  lng: 2.4872464
 images:
   hero: "elec-124-hero"
   og: "elec-124-og"

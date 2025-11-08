@@ -12,8 +12,8 @@ description: "Électricien d'urgence VULAINES-SUR-SEINE 77 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.430682
+  lng: 2.7646387
 images:
   hero: "elec-135-hero"
   og: "elec-135-og"

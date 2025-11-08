@@ -12,8 +12,8 @@ description: "Urgence électricien Nemours 77140 ⚡ Réparation panne, tableau 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.2612891
+  lng: 2.7161562
 images:
   hero: "electricien-urgence-nemours-77140-hero"
   og: "electricien-nemours-77140-og"

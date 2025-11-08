@@ -12,8 +12,8 @@ description: "SOS Électricien Paris 17 75017 ⚡ Panne, réparation, tableau é
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8694234
+  lng: 2.3366051
 images:
   hero: "electricien-urgence-paris-17-75017-hero"
   og: "electricien-paris-17-75017-og"

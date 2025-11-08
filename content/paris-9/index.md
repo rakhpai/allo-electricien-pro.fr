@@ -12,8 +12,8 @@ description: "SOS Électricien Paris 9 75009 ⚡ Installation, réparation, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8676266
+  lng: 2.347592
 images:
   hero: "electricien-urgence-paris-9-75009-hero"
   og: "electricien-paris-9-75009-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-PIERRE-LES-NEMOURS 77 ⚡ Court-circu
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.2669018
+  lng: 2.6865107
 images:
   hero: "elec-341-hero"
   og: "elec-341-og"

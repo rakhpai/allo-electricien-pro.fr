@@ -12,8 +12,8 @@ description: "Électricien urgence Romainville 93230 ⚡ Panne électrique, dép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8822377
+  lng: 2.4397661
 images:
   hero: "electricien-urgence-romainville-93230-hero"
   og: "electricien-romainville-93230-og"

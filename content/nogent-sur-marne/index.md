@@ -12,8 +12,8 @@ description: "Dépannage électricien Nogent-Sur-Marne 94 ⚡ Panne, réparation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8227106
+  lng: 2.5119367
 images:
   hero: "electricien-urgence-nogent-sur-marne-94130-hero"
   og: "electricien-nogent-sur-marne-94130-og"

@@ -12,8 +12,8 @@ description: "Intervention électricien Esbly 77450 ⚡ Panne, installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9030946
+  lng: 2.8107627
 images:
   hero: "electricien-urgence-esbly-77450-hero"
   og: "electricien-esbly-77450-og"

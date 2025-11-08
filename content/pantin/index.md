@@ -12,8 +12,8 @@ description: "Dépannage électricien Pantin 93500 ⚡ Panne, installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8965023
+  lng: 2.4019804
 images:
   hero: "electricien-urgence-pantin-93500-hero"
   og: "electricien-pantin-93500-og"

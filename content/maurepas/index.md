@@ -12,8 +12,8 @@ description: "Dépannage électricien Maurepas 78310 ⚡ Installation, réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7618735
+  lng: 1.945148
 images:
   hero: "electricien-urgence-maurepas-78310-hero"
   og: "electricien-maurepas-78310-og"

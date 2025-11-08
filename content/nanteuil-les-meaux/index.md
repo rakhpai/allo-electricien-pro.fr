@@ -12,8 +12,8 @@ description: "SOS Électricien Nanteuil-Les-Meaux 77100 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9300099
+  lng: 2.8958831
 images:
   hero: "electricien-urgence-nanteuil-les-meaux-77100-hero"
   og: "electricien-nanteuil-les-meaux-77100-og"

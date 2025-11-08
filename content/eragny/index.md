@@ -12,8 +12,8 @@ description: "Électricien Eragny 95610 ⚡ Panne, installation, réparation él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0192178
+  lng: 2.0910817
 images:
   hero: "electricien-urgence-eragny-95610-hero"
   og: "electricien-eragny-95610-og"

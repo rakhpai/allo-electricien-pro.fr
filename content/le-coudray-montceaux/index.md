@@ -12,8 +12,8 @@ description: "Électricien Le Coudray-Montceaux 91830 ⚡ Panne, réparation, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5661924
+  lng: 2.492481
 images:
   hero: "electricien-urgence-le-coudray-montceaux-91830-hero"
   og: "electricien-le-coudray-montceaux-91830-og"

@@ -12,8 +12,8 @@ description: "Dépannage électricien Fontainebleau 77300 ⚡ Panne, court-circu
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4049375
+  lng: 2.7015872
 images:
   hero: "electricien-urgence-fontainebleau-77300-hero"
   og: "electricien-fontainebleau-77300-og"

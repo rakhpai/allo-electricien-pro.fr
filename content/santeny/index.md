@@ -12,8 +12,8 @@ description: "Électricien d'urgence SANTENY 94 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7404445
+  lng: 2.5757118
 images:
   hero: "elec-72-hero"
   og: "elec-72-og"

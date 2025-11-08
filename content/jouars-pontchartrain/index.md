@@ -12,8 +12,8 @@ description: "Dépannage électricien Jouars-Pontchartrain 78760 ⚡ Panne, cour
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8031144
+  lng: 1.9001795
 images:
   hero: "electricien-urgence-jouars-pontchartrain-78760-hero"
   og: "electricien-jouars-pontchartrain-78760-og"

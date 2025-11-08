@@ -12,8 +12,8 @@ description: "Urgence électricien L'hay-Les-Roses 94240 ⚡ Installation, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7790514
+  lng: 2.3373021
 images:
   hero: "electricien-urgence-l-hay-les-roses-94240-hero"
   og: "electricien-l-hay-les-roses-94240-og"

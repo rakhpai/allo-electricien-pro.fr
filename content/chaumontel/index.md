@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHAUMONTEL 95 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1211318
+  lng: 2.4304081
 images:
   hero: "elec-90-hero"
   og: "elec-90-og"

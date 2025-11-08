@@ -12,8 +12,8 @@ description: "Électricien d'urgence BRIIS-SOUS-FORGES 91 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6248891
+  lng: 2.1242535
 images:
   hero: "elec-85-hero"
   og: "elec-85-og"

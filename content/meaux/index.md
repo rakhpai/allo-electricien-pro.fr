@@ -12,8 +12,8 @@ description: "Dépannage électricien Meaux 77100 ⚡ Panne, installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9082389
+  lng: 2.9781716
 images:
   hero: "electricien-urgence-meaux-77100-hero"
   og: "electricien-meaux-77100-og"

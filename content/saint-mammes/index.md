@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-MAMMES 77 ⚡ Court-circuit, panne, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3822738
+  lng: 2.8158372
 images:
   hero: "elec-100-hero"
   og: "elec-100-og"

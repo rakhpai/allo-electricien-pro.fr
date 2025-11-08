@@ -12,8 +12,8 @@ description: "SOS Électricien Rungis 94150 ⚡ Installation, réparation, table
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7480436
+  lng: 2.3425346
 images:
   hero: "electricien-urgence-rungis-94150-hero"
   og: "electricien-rungis-94150-og"

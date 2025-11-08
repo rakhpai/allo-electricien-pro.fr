@@ -12,8 +12,8 @@ description: "SOS Électricien Issou 78440 ⚡ Panne électrique, réparation, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.988093
+  lng: 1.7924733
 images:
   hero: "electricien-urgence-issou-78440-hero"
   og: "electricien-issou-78440-og"

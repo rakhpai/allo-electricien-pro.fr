@@ -12,8 +12,8 @@ description: "Électricien Viry-Chatillon 91170 ⚡ Panne, installation, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6761815
+  lng: 2.3863943
 images:
   hero: "electricien-urgence-viry-chatillon-91170-hero"
   og: "electricien-viry-chatillon-91170-og"

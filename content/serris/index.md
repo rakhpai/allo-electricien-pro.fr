@@ -12,8 +12,8 @@ description: "Électricien d'urgence Serris 77700 ⚡ Installation, réparation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8567
+  lng: 2.7855615
 images:
   hero: "electricien-urgence-serris-77700-hero"
   og: "electricien-serris-77700-og"

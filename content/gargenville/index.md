@@ -12,8 +12,8 @@ description: "Électricien Gargenville 78440 ⚡ Panne, installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9901469
+  lng: 1.8104637
 images:
   hero: "electricien-urgence-gargenville-78440-hero"
   og: "electricien-gargenville-78440-og"

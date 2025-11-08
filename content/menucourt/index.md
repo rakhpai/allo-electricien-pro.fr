@@ -12,8 +12,8 @@ description: "Électricien d'urgence Menucourt 95180 ⚡ Panne, installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.027615
+  lng: 1.9815885
 images:
   hero: "electricien-urgence-menucourt-95180-hero"
   og: "electricien-menucourt-95180-og"

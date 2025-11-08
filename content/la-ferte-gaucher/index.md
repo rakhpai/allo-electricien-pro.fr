@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA FERTE-GAUCHER 77 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7854217
+  lng: 3.3081512
 images:
   hero: "elec-40-hero"
   og: "elec-40-og"

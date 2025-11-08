@@ -12,8 +12,8 @@ description: "Intervention électricien Dugny 93440 ⚡ Dépannage panne, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9538155
+  lng: 2.414733
 images:
   hero: "electricien-urgence-dugny-93440-hero"
   og: "electricien-dugny-93440-og"

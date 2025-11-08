@@ -12,8 +12,8 @@ description: "Électricien Boissy-Saint-Leger 94470 ⚡ Installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7525856
+  lng: 2.5071297
 images:
   hero: "electricien-urgence-boissy-saint-leger-94470-hero"
   og: "electricien-boissy-saint-leger-94470-og"

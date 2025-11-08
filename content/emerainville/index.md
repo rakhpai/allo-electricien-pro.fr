@@ -12,8 +12,8 @@ description: "Urgence électricien Emerainville 77184 ⚡ Panne, installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8064382
+  lng: 2.6185001
 images:
   hero: "electricien-urgence-emerainville-77184-hero"
   og: "electricien-emerainville-77184-og"

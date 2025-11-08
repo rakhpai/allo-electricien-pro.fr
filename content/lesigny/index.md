@@ -12,8 +12,8 @@ description: "Urgence électricien Lesigny 77150 ⚡ Panne, installation, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7474024
+  lng: 2.6145708
 images:
   hero: "electricien-urgence-lesigny-77150-hero"
   og: "electricien-lesigny-77150-og"

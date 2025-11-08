@@ -12,8 +12,8 @@ description: "Électricien Les Pavillons-Sous-Bois 93320 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9023781
+  lng: 2.5115921
 images:
   hero: "electricien-urgence-les-pavillons-sous-bois-93320-hero"
   og: "electricien-les-pavillons-sous-bois-93320-og"

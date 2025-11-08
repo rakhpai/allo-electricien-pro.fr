@@ -12,8 +12,8 @@ description: "Électricien d'urgence ANGERVILLE 91 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3106704
+  lng: 1.9979775
 images:
   hero: "elec-70-hero"
   og: "elec-70-og"

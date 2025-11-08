@@ -12,8 +12,8 @@ description: "Électricien Savigny-Sur-Orge 91600 ⚡ Panne, installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4669771
+  lng: 2.4226495
 images:
   hero: "electricien-urgence-savigny-sur-orge-91600-hero"
   og: "electricien-savigny-sur-orge-91600-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA GARENNE-COLOMBES 92 ⚡ Court-circuit, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9100652
+  lng: 2.240827
 images:
   hero: "elec-105-hero"
   og: "elec-105-og"

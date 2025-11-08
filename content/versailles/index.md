@@ -12,8 +12,8 @@ description: "Électricien d'urgence Versailles 78 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8013
+  lng: 2.134
 images:
   hero: "electricien-urgence-versailles-78000-hero"
   og: "electricien-versailles-78000-og"

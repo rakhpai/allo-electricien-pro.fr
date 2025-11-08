@@ -12,8 +12,8 @@ description: "Intervention électricien Maisons-Laffitte 78600 ⚡ Panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9461437
+  lng: 2.1450951
 images:
   hero: "electricien-urgence-maisons-laffitte-78600-hero"
   og: "electricien-maisons-laffitte-78600-og"

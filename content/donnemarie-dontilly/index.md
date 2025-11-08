@@ -12,8 +12,8 @@ description: "Électricien d'urgence DONNEMARIE-DONTILLY 77 ⚡ Court-circuit, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4732353
+  lng: 3.13415
 images:
   hero: "elec-118-hero"
   og: "elec-118-og"

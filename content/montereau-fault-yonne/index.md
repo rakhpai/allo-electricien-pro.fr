@@ -12,8 +12,8 @@ description: "Urgence électricien Montereau-Fault-Yonne 77 ⚡ Installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3849647
+  lng: 2.9557006
 images:
   hero: "electricien-urgence-montereau-fault-yonne-77130-hero"
   og: "electricien-montereau-fault-yonne-77130-og"

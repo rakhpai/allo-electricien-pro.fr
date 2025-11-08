@@ -12,8 +12,8 @@ description: "Électricien d'urgence ECQUEVILLY 78 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9993585
+  lng: 2.0487899
 images:
   hero: "elec-61-hero"
   og: "elec-61-og"

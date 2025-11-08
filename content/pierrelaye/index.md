@@ -12,8 +12,8 @@ description: "Urgence électricien Pierrelaye 95480 ⚡ Installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0232238
+  lng: 2.1557343
 images:
   hero: "electricien-urgence-pierrelaye-95480-hero"
   og: "electricien-pierrelaye-95480-og"

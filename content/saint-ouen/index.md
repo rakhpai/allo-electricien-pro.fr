@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-OUEN 93 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.911729
+  lng: 2.334267
 images:
   hero: "elec-42-hero"
   og: "elec-42-og"

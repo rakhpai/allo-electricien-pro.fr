@@ -12,8 +12,8 @@ description: "Électricien L'isle-Adam 95290 ⚡ Installation, tableau, panne é
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1125294
+  lng: 2.2186324
 images:
   hero: "electricien-urgence-l-isle-adam-95290-hero"
   og: "electricien-l-isle-adam-95290-og"

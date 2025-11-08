@@ -12,8 +12,8 @@ description: "Contactez nous en toute confiance Montgeron"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7038873
+  lng: 2.4605107
 images:
   hero: "electricien-urgence-montgeron-91230-hero"
   og: "electricien-montgeron-91230-og"

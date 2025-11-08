@@ -12,8 +12,8 @@ description: "Électricien d'urgence GOUSSAINVILLE 95 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0240399
+  lng: 2.4633111
 images:
   hero: "elec-80-hero"
   og: "elec-80-og"

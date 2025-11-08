@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHAUCONIN-NEUFMONTIERS 77 ⚡ Court-circuit
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9734247
+  lng: 2.8375842
 images:
   hero: "elec-128-hero"
   og: "elec-128-og"

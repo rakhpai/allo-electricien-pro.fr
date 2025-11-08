@@ -12,8 +12,8 @@ description: "Électricien urgence Veneux-Les-Sablons 77250 ⚡ Réparation, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3782387
+  lng: 2.7978907
 images:
   hero: "electricien-urgence-veneux-les-sablons-77250-hero"
   og: "electricien-veneux-les-sablons-77250-og"

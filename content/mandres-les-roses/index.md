@@ -12,8 +12,8 @@ description: "Électricien urgence Mandres-Les-Roses 94520 ⚡ Installation, ré
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7022193
+  lng: 2.5428063
 images:
   hero: "electricien-urgence-mandres-les-roses-94520-hero"
   og: "electricien-mandres-les-roses-94520-og"

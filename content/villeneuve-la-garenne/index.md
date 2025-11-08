@@ -12,8 +12,8 @@ description: "Dépannage électricien Villeneuve-La-Garenne 92390 ⚡ Panne, tab
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9350488
+  lng: 2.3324727
 images:
   hero: "electricien-urgence-villeneuve-la-garenne-92390-hero"
   og: "electricien-villeneuve-la-garenne-92390-og"

@@ -12,8 +12,8 @@ description: "Électricien urgence Viarmes 95270 ⚡ Installation, réparation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1213184
+  lng: 2.3449089
 images:
   hero: "electricien-urgence-viarmes-95270-hero"
   og: "electricien-viarmes-95270-og"

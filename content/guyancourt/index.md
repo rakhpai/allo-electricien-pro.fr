@@ -12,8 +12,8 @@ description: "Électricien Urgence Guyancourt 78280 ⚡ Panne, tableau électriq
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7709414
+  lng: 2.0706084
 images:
   hero: "electricien-urgence-guyancourt-78280-hero"
   og: "electricien-guyancourt-78280-og"

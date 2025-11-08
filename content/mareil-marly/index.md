@@ -12,8 +12,8 @@ description: "Électricien d'urgence MAREIL-MARLY 78 ⚡ Court-circuit, panne, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8823232
+  lng: 2.0764516
 images:
   hero: "elec-80-hero"
   og: "elec-80-og"

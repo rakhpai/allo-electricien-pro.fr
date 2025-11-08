@@ -12,8 +12,8 @@ description: "Électricien Jouy-En-Josas 78350 ⚡ Réparation, panne, installat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.76464
+  lng: 2.1684529
 images:
   hero: "electricien-urgence-jouy-en-josas-78350-hero"
   og: "electricien-jouy-en-josas-78350-og"

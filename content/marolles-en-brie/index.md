@@ -12,8 +12,8 @@ description: "Électricien 24/7 Marolles-En-Brie 77120 ⚡ Installation, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7391
+  lng: 2.55424
 images:
   hero: "electricien-urgence-marolles-en-brie-77120-hero"
   og: "electricien-marolles-en-brie-77120-og"

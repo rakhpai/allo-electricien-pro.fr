@@ -12,8 +12,8 @@ description: "Dépannage électricien Bagneux 92220 ⚡ Panne, court-circuit, ta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.795056
+  lng: 2.3027323
 images:
   hero: "electricien-urgence-bagneux-92220-hero"
   og: "electricien-bagneux-92220-og"

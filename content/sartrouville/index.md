@@ -12,8 +12,8 @@ description: "Électricien d'urgence Sartrouville 78500 ⚡ Installation, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9409016
+  lng: 2.1585037
 images:
   hero: "electricien-urgence-sartrouville-78500-hero"
   og: "electricien-sartrouville-78500-og"

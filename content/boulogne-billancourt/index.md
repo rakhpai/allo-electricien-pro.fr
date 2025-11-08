@@ -12,8 +12,8 @@ description: "Intervention électricien Boulogne-Billancourt 92100 ⚡ Panne, d�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8354
+  lng: 2.2397
 images:
   hero: "electricien-urgence-boulogne-billancourt-92100-hero"
   og: "electricien-boulogne-billancourt-92100-og"

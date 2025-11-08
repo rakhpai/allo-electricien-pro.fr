@@ -12,8 +12,8 @@ description: "Intervention électricien Ville-D'avray 92410 ⚡ Installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8279362
+  lng: 2.1894241
 images:
   hero: "electricien-urgence-ville-d-avray-92410-hero"
   og: "electricien-ville-d-avray-92410-og"

@@ -12,8 +12,8 @@ description: "Électricien Montevrain 77144 ⚡ Installation, réparation, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9452013
+  lng: 3.0356873
 images:
   hero: "electricien-urgence-montevrain-77144-hero"
   og: "electricien-montevrain-77144-og"

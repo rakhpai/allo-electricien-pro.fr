@@ -12,8 +12,8 @@ description: "Intervention électricien Les Mureaux 78130 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9931578
+  lng: 1.909928
 images:
   hero: "electricien-urgence-les-mureaux-78130-hero"
   og: "electricien-les-mureaux-78130-og"

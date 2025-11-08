@@ -12,8 +12,8 @@ description: "Électricien Ris-Orangis 91000 ⚡ Installation, réparation, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6479705
+  lng: 2.4067742
 images:
   hero: "electricien-urgence-ris-orangis-91000-hero"
   og: "electricien-ris-orangis-91000-og"

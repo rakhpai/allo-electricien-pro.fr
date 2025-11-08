@@ -12,8 +12,8 @@ description: "N'hésitez pas à nous contacter Boissy-Saint-Léger"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0704318
+  lng: 2.1717936
 images:
   hero: "electricien-urgence-auvers-sur-oise-95760-hero"
   og: "electricien-auvers-sur-oise-95760-og"

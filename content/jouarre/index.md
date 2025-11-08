@@ -12,8 +12,8 @@ description: "Électricien d'urgence JOUARRE 77 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9502287
+  lng: 3.1296757
 images:
   hero: "elec-53-hero"
   og: "elec-53-og"

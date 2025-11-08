@@ -12,8 +12,8 @@ description: "Électricien d'urgence Domont 95330 ⚡ Panne, installation, dépa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0285536
+  lng: 2.3278097
 images:
   hero: "electricien-urgence-domont-95330-hero"
   og: "electricien-domont-95330-og"

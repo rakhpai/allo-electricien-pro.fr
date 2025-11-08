@@ -12,8 +12,8 @@ description: "Électricien Urgence Coulommiers 77120 ⚡ Panne électrique, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8076996
+  lng: 3.0820268
 images:
   hero: "electricien-urgence-coulommiers-77120-hero"
   og: "electricien-coulommiers-77120-og"

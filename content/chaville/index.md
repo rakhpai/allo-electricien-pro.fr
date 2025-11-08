@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHAVILLE 92 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8086297
+  lng: 2.1882897
 images:
   hero: "elec-169-hero"
   og: "elec-169-og"

@@ -12,8 +12,8 @@ description: "Électricien urgence Cachan 94230 ⚡ Panne, installation, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7945413
+  lng: 2.3340758
 images:
   hero: "electricien-urgence-cachan-94230-hero"
   og: "electricien-cachan-94230-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence CERNY 91 ⚡ Court-circuit, panne, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4762202
+  lng: 2.3295752
 images:
   hero: "elec-88-hero"
   og: "elec-88-og"

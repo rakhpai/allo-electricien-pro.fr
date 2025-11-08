@@ -12,8 +12,8 @@ description: "Électricien d'urgence VILLIERS-SUR-ORGE 91 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6585041
+  lng: 2.3010786
 images:
   hero: "elec-64-hero"
   og: "elec-64-og"

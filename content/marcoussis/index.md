@@ -12,8 +12,8 @@ description: "Électricien Marcoussis 91460 ⚡ Installation, réparation, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6559966
+  lng: 2.2035058
 images:
   hero: "electricien-urgence-marcoussis-91460-hero"
   og: "electricien-marcoussis-91460-og"

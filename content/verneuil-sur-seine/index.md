@@ -12,8 +12,8 @@ description: "SOS Électricien Verneuil-Sur-Seine 78480 ⚡ Panne, installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9792052
+  lng: 1.9756367
 images:
   hero: "electricien-urgence-verneuil-sur-seine-78480-hero"
   og: "electricien-verneuil-sur-seine-78480-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence FOSSES 95 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0986649
+  lng: 2.5161998
 images:
   hero: "elec-252-hero"
   og: "elec-252-og"

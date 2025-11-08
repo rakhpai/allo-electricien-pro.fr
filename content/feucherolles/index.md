@@ -12,8 +12,8 @@ description: "Électricien d'urgence FEUCHEROLLES 78 ⚡ Court-circuit, panne, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8725969
+  lng: 1.9723953
 images:
   hero: "elec-114-hero"
   og: "elec-114-og"

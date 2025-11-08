@@ -12,8 +12,8 @@ description: "Entreprise artisanale Épône"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9573716
+  lng: 1.8126696
 images:
   hero: "electricien-urgence-epone-78680-hero"
   og: "electricien-epone-78680-og"

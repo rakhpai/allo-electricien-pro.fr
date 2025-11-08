@@ -12,8 +12,8 @@ description: "Dépannage électricien Les Clayes-Sous-Bois 78340 ⚡ Panne, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8214478
+  lng: 1.9871825
 images:
   hero: "electricien-urgence-les-clayes-sous-bois-78340-hero"
   og: "electricien-les-clayes-sous-bois-78340-og"

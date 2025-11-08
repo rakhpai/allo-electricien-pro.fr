@@ -12,8 +12,8 @@ description: "Les meilleures solutions pour vos problème Suresnes"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8709053
+  lng: 2.2255727
 images:
   hero: "electricien-urgence-suresnes-92150-hero"
   og: "electricien-suresnes-92150-og"

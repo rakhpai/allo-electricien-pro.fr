@@ -12,8 +12,8 @@ description: "Électricien d'urgence RAMBOUILLET 78 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6452851
+  lng: 1.819207
 images:
   hero: "elec-116-hero"
   og: "elec-116-og"

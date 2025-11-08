@@ -12,8 +12,8 @@ description: "Dépannage électricien Evry 91090 ⚡ Panne, installation, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6241665
+  lng: 2.4289667
 images:
   hero: "electricien-urgence-evry-91090-hero"
   og: "electricien-evry-91090-og"

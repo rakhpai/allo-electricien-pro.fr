@@ -12,8 +12,8 @@ description: "Électricien 24/7 Vitry-Sur-Seine 94400 ⚡ Panne, court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7876
+  lng: 2.39164
 images:
   hero: "electricien-urgence-vitry-sur-seine-94400-hero"
   og: "electricien-vitry-sur-seine-94400-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHEVRY-COSSIGNY 77 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7244459
+  lng: 2.6617094
 images:
   hero: "elec-74-hero"
   og: "elec-74-og"

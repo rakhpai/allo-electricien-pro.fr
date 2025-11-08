@@ -12,8 +12,8 @@ description: "Urgence électricien Plaisir 78370 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.817399
+  lng: 1.9476363
 images:
   hero: "electricien-urgence-plaisir-78370-hero"
   og: "electricien-plaisir-78370-og"

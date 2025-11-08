@@ -12,8 +12,8 @@ description: "Intervention électricien Bievres 91570 ⚡ Panne, réparation, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5531084
+  lng: 2.209898
 images:
   hero: "electricien-urgence-bievres-91570-hero"
   og: "electricien-bievres-91570-og"

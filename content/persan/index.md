@@ -12,8 +12,8 @@ description: "Électricien d'urgence Persan 95340 ⚡ Panne, réparation, tablea
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1512109
+  lng: 2.2765575
 images:
   hero: "electricien-urgence-persan-95340-hero"
   og: "electricien-persan-95340-og"

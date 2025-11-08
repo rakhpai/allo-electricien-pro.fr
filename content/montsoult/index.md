@@ -12,8 +12,8 @@ description: "Électricien d'urgence MONTSOULT 95 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0704484
+  lng: 2.312001
 images:
   hero: "elec-82-hero"
   og: "elec-82-og"

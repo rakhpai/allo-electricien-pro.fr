@@ -12,8 +12,8 @@ description: "Électricien urgence Eaubonne 95600 ⚡ Panne, installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9911296
+  lng: 2.2792058
 images:
   hero: "electricien-urgence-eaubonne-95600-hero"
   og: "electricien-eaubonne-95600-og"

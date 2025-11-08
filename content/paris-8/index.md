@@ -12,8 +12,8 @@ description: "Électricien Paris 8 75008 ⚡ Installation, réparation, tableau 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8611296
+  lng: 2.3940087
 images:
   hero: "electricien-urgence-paris-8-75008-hero"
   og: "electricien-paris-8-75008-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Clamart 92140 ⚡ Panne, installation, court-
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8003835
+  lng: 2.2630238
 images:
   hero: "electricien-urgence-clamart-92140-hero"
   og: "electricien-clamart-92140-og"

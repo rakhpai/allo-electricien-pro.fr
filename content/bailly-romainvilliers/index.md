@@ -12,8 +12,8 @@ description: "Électricien urgence Bailly-Romainvilliers 77700 ⚡ Panne, répar
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8468159
+  lng: 2.8212923
 images:
   hero: "electricien-urgence-bailly-romainvilliers-77700-hero"
   og: "electricien-bailly-romainvilliers-77700-og"

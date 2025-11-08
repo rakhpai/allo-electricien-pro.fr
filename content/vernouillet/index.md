@@ -12,8 +12,8 @@ description: "Électricien d'urgence VERNOUILLET 78 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8365998
+  lng: 2.0829676
 images:
   hero: "elec-254-hero"
   og: "elec-254-og"

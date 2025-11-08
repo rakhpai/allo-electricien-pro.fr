@@ -12,8 +12,8 @@ description: "Électricien d'urgence VILLIERS-SAINT-FREDERIC 78 ⚡ Court-circui
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8196898
+  lng: 1.8914159
 images:
   hero: "elec-127-hero"
   og: "elec-127-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Trilport 77470 ⚡ Panne, réparation, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9547991
+  lng: 2.9520034
 images:
   hero: "electricien-urgence-trilport-77470-hero"
   og: "electricien-trilport-77470-og"

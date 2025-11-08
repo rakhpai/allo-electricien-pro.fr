@@ -12,8 +12,8 @@ description: "Urgence électricien Ecouen 95440 ⚡ Court-circuit, panne tableau
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0196554
+  lng: 2.3799378
 images:
   hero: "electricien-urgence-ecouen-95440-hero"
   og: "electricien-ecouen-95440-og"

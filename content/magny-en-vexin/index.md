@@ -12,8 +12,8 @@ description: "SOS électricien Magny-En-Vexin 95420 ⚡ Installation, réparatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1554403
+  lng: 1.7864359
 images:
   hero: "electricien-urgence-magny-en-vexin-95420-hero"
   og: "electricien-magny-en-vexin-95420-og"

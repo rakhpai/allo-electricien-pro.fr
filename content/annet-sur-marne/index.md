@@ -12,8 +12,8 @@ description: "Électricien d'urgence ANNET-SUR-MARNE 77 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9263555
+  lng: 2.7189327
 images:
   hero: "elec-96-hero"
   og: "elec-96-og"

@@ -12,8 +12,8 @@ description: "Intervention électricien Thiais 94320 ⚡ Panne, installation, ta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7901585
+  lng: 2.4589
 images:
   hero: "electricien-urgence-thiais-94320-hero"
   og: "electricien-thiais-94320-og"

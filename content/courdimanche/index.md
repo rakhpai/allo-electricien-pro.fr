@@ -12,8 +12,8 @@ description: "Dépannage électricien Courdimanche 95800 ⚡ Installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9731583
+  lng: 2.2514977
 images:
   hero: "electricien-urgence-courdimanche-95800-hero"
   og: "electricien-courdimanche-95800-og"

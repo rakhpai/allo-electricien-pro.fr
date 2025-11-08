@@ -12,8 +12,8 @@ description: "Intervention électricien Rosny-Sous-Bois 93110 ⚡ Panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8716626
+  lng: 2.4875193
 images:
   hero: "electricien-urgence-rosny-sous-bois-93110-hero"
   og: "electricien-rosny-sous-bois-93110-og"

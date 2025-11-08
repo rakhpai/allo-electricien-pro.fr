@@ -12,8 +12,8 @@ description: "Urgence et dépannage Noisy-le-Sec"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8897751
+  lng: 2.4516055
 images:
   hero: "electricien-urgence-noisy-le-sec-93130-hero"
   og: "electricien-noisy-le-sec-93130-og"

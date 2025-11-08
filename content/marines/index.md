@@ -12,8 +12,8 @@ description: "Électricien d'urgence MARINES 95 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1451519
+  lng: 1.9831777
 images:
   hero: "elec-93-hero"
   og: "elec-93-og"

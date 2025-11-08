@@ -12,8 +12,8 @@ description: "Électricien d'urgence FONTENAY-TRESIGNY 77 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7072999
+  lng: 2.8719863
 images:
   hero: "elec-12-hero"
   og: "elec-12-og"

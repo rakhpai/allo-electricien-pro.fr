@@ -12,8 +12,8 @@ description: "Électricien d'urgence SURVILLIERS 95 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.1025201
+  lng: 2.5434395
 images:
   hero: "elec-65-hero"
   og: "elec-65-og"

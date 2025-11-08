@@ -12,8 +12,8 @@ description: "Électricien d'urgence EVRY-GREGY-SUR-YERRE 77 ⚡ Court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6531177
+  lng: 2.6380188
 images:
   hero: "elec-156-hero"
   og: "elec-156-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence COUPVRAY 77 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8918983
+  lng: 2.7948137
 images:
   hero: "elec-130-hero"
   og: "elec-130-og"

@@ -12,8 +12,8 @@ description: "Électricien Saint-Cloud 92210 ⚡ Installation, réparation, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8437412
+  lng: 2.219344
 images:
   hero: "electricien-urgence-saint-cloud-92210-hero"
   og: "electricien-saint-cloud-92210-og"

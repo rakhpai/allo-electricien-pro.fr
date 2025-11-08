@@ -12,8 +12,8 @@ description: "Intervention électricien Osny 95520 ⚡ Panne, tableau électriqu
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.062925
+  lng: 2.0576196
 images:
   hero: "electricien-urgence-osny-95520-hero"
   og: "electricien-osny-95520-og"

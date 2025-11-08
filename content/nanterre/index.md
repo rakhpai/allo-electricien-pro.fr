@@ -12,8 +12,8 @@ description: "Intervention électricien Nanterre 92000 ⚡ Panne, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8924273
+  lng: 2.2071267
 images:
   hero: "electricien-urgence-nanterre-92000-hero"
   og: "electricien-nanterre-92000-og"

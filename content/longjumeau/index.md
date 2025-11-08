@@ -12,8 +12,8 @@ description: "Électricien Longjumeau 91160 ⚡ Panne électrique, réparation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6933743
+  lng: 2.2957104
 images:
   hero: "electricien-urgence-longjumeau-91160-hero"
   og: "electricien-longjumeau-91160-og"

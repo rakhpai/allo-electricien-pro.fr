@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-PRIX 95 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0146499
+  lng: 2.267491
 images:
   hero: "elec-292-hero"
   og: "elec-292-og"

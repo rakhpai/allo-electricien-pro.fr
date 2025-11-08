@@ -12,8 +12,8 @@ description: "Compter sur notre artisan Le Plessis-Bouchard"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0016863
+  lng: 2.2330815
 images:
   hero: "electricien-urgence-le-plessis-bouchard-95130-hero"
   og: "electricien-le-plessis-bouchard-95130-og"

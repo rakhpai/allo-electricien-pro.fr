@@ -12,8 +12,8 @@ description: "Électricien d'urgence GAMBAIS 78 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7746509
+  lng: 1.6726872
 images:
   hero: "elec-149-hero"
   og: "elec-149-og"

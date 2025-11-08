@@ -12,8 +12,8 @@ description: "Électricien Palaiseau 91120 ⚡ Court-circuit, panne, installatio
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5213912
+  lng: 2.2112587
 images:
   hero: "electricien-urgence-palaiseau-91120-hero"
   og: "electricien-palaiseau-91120-og"

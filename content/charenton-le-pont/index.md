@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHARENTON-LE-PONT 94 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.819985
+  lng: 2.4150114
 images:
   hero: "elec-93-hero"
   og: "elec-93-og"

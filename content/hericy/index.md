@@ -12,8 +12,8 @@ description: "Électricien d'urgence HERICY 77 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4426989
+  lng: 2.7607682
 images:
   hero: "elec-143-hero"
   og: "elec-143-og"

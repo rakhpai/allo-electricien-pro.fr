@@ -12,8 +12,8 @@ description: "Électricien d'urgence Etrechy 91580 ⚡ Court-circuit, panne tabl
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4936692
+  lng: 2.1945652
 images:
   hero: "electricien-urgence-etrechy-91580-hero"
   og: "electricien-etrechy-91580-og"

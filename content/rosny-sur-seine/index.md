@@ -12,8 +12,8 @@ description: "Électricien Rosny-Sur-Seine 78710 ⚡ Installation, réparation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.001733
+  lng: 1.6280317
 images:
   hero: "electricien-urgence-rosny-sur-seine-78710-hero"
   og: "electricien-rosny-sur-seine-78710-og"

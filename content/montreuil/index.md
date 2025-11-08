@@ -12,8 +12,8 @@ description: "Électricien d'urgence MONTREUIL 93 ⚡ Court-circuit, panne, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8623357
+  lng: 2.4412184
 images:
   hero: "elec-4-hero"
   og: "elec-4-og"

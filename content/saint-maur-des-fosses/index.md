@@ -12,8 +12,8 @@ description: "Dépannage électricien Saint-Maur-Des-Fosses 94 ⚡ Panne, court-
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8046989
+  lng: 2.4718299
 images:
   hero: "electricien-urgence-saint-maur-des-fosses-94100-94210-hero"
   og: "electricien-saint-maur-des-fosses-94100-94210-og"

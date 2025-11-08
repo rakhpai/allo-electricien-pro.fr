@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHAMPCUEIL 91 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.515299
+  lng: 2.4445686
 images:
   hero: "elec-122-hero"
   og: "elec-122-og"

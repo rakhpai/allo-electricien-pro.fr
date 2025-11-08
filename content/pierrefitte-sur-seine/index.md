@@ -12,8 +12,8 @@ description: "Intervention électricien Pierrefitte-Sur-Seine 93380 ⚡ Réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9604165
+  lng: 2.3630609
 images:
   hero: "electricien-urgence-pierrefitte-sur-seine-93380-hero"
   og: "electricien-pierrefitte-sur-seine-93380-og"

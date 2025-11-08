@@ -12,8 +12,8 @@ description: "Électricien Saint-Germain-Les-Corbeil 91250 ⚡ Panne, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6261053
+  lng: 2.4913639
 images:
   hero: "electricien-urgence-saint-germain-les-corbeil-91250-hero"
   og: "electricien-saint-germain-les-corbeil-91250-og"

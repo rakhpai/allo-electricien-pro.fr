@@ -12,8 +12,8 @@ description: "Électricien d'urgence GRIGNY 91 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3710985
+  lng: 2.3549894
 images:
   hero: "elec-113-hero"
   og: "elec-113-og"

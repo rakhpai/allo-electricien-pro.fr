@@ -12,8 +12,8 @@ description: "Urgence électricien Deuil-La-Barre 95170 ⚡ Tableau, panne, cour
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9756423
+  lng: 2.3275141
 images:
   hero: "electricien-urgence-deuil-la-barre-95170-hero"
   og: "electricien-deuil-la-barre-95170-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Le Port-Marly 78560 ⚡ Installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8798778
+  lng: 2.0755472
 images:
   hero: "electricien-urgence-le-port-marly-78560-hero"
   og: "electricien-le-port-marly-78560-og"

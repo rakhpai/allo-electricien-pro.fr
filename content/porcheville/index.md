@@ -12,8 +12,8 @@ description: "Électricien d'urgence PORCHEVILLE 78 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9717033
+  lng: 1.7766633
 images:
   hero: "elec-116-hero"
   og: "elec-116-og"

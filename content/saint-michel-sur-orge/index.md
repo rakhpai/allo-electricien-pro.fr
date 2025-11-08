@@ -12,8 +12,8 @@ description: "Électricien Saint-Michel-Sur-Orge 91240 ⚡ Panne, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6302735
+  lng: 2.3027478
 images:
   hero: "electricien-urgence-saint-michel-sur-orge-91240-hero"
   og: "electricien-saint-michel-sur-orge-91240-og"

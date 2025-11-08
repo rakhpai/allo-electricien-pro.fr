@@ -12,8 +12,8 @@ description: "SOS Électricien Maule 78580 ⚡ Panne, installation, réparation 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7906295
+  lng: 2.0452737
 images:
   hero: "electricien-urgence-maule-78580-hero"
   og: "electricien-maule-78580-og"

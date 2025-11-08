@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-GRATIEN 95 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9703664
+  lng: 2.2840639
 images:
   hero: "elec-157-hero"
   og: "elec-157-og"

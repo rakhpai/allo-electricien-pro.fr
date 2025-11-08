@@ -12,8 +12,8 @@ description: "Électricien d'urgence JUZIERS 78 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9930105
+  lng: 1.8457137
 images:
   hero: "elec-69-hero"
   og: "elec-69-og"

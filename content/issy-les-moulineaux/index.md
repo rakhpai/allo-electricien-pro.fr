@@ -12,8 +12,8 @@ description: "Électricien d'Urgence Issy-Les-Moulineaux 92130 ⚡ Installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8250508
+  lng: 2.273457
 images:
   hero: "electricien-urgence-issy-les-moulineaux-92130-hero"
   og: "electricien-issy-les-moulineaux-92130-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Saint-Germain-Les-Arpajon 91180 ⚡ Réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5948294
+  lng: 2.2557107
 images:
   hero: "electricien-urgence-saint-germain-les-arpajon-91180-hero"
   og: "electricien-saint-germain-les-arpajon-91180-og"

@@ -12,8 +12,8 @@ description: "Urgence électricien Orgeval 78630 ⚡ Panne, court-circuit, table
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9175
+  lng: 1.96982
 images:
   hero: "electricien-urgence-orgeval-78630-hero"
   og: "electricien-orgeval-78630-og"

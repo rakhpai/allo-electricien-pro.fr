@@ -12,8 +12,8 @@ description: "SOS Électricien Noiseau 94880 ⚡ Installation, réparation, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7906158
+  lng: 2.4487408
 images:
   hero: "electricien-urgence-noiseau-94880-hero"
   og: "electricien-noiseau-94880-og"

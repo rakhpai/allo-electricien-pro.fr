@@ -12,8 +12,8 @@ description: "Intervention électricien Drancy 93700 ⚡ Panne, installation, ta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9229803
+  lng: 2.4455201
 images:
   hero: "electricien-urgence-drancy-93700-hero"
   og: "electricien-drancy-93700-og"

@@ -12,8 +12,8 @@ description: "Services impeccables et satisfaisantes Paris 7"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8719356
+  lng: 2.3430137
 images:
   hero: "electricien-urgence-paris-7-75007-hero"
   og: "electricien-paris-7-75007-og"

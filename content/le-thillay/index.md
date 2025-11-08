@@ -12,8 +12,8 @@ description: "Électricien d'urgence LE THILLAY 95 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0090379
+  lng: 2.4715129
 images:
   hero: "elec-55-hero"
   og: "elec-55-og"

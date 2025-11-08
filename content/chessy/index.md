@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHESSY 77 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.512889
+  lng: 3.2481386
 images:
   hero: "elec-48-hero"
   og: "elec-48-og"

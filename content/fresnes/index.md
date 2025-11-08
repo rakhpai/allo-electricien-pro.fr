@@ -12,8 +12,8 @@ description: "Électricien d'urgence FRESNES 94 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7636131
+  lng: 2.3218526
 images:
   hero: "elec-115-hero"
   og: "elec-115-og"

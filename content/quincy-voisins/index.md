@@ -12,8 +12,8 @@ description: "Électricien Quincy-Voisins 77860 ⚡ Panne, installation, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8991795
+  lng: 2.8735178
 images:
   hero: "electricien-urgence-quincy-voisins-77860-hero"
   og: "electricien-quincy-voisins-77860-og"

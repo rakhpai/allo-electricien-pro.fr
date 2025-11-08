@@ -12,8 +12,8 @@ description: "Dépannage électricien Cergy 95 ⚡ Installation, réparation, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0388304
+  lng: 2.0740935
 images:
   hero: "electricien-urgence-cergy-95000-95800-hero"
   og: "electricien-cergy-95000-95800-og"

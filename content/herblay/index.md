@@ -12,8 +12,8 @@ description: "Électricien d'urgence Herblay 95220 ⚡ Court-circuit, panne éle
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9898588
+  lng: 2.166162
 images:
   hero: "electricien-urgence-herblay-95220-hero"
   og: "electricien-herblay-95220-og"

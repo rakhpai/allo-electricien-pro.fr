@@ -12,8 +12,8 @@ description: "Dépannage électricien Bonneuil-Sur-Marne 94380 ⚡ Panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7746355
+  lng: 2.487723
 images:
   hero: "electricien-urgence-bonneuil-sur-marne-94380-hero"
   og: "electricien-bonneuil-sur-marne-94380-og"

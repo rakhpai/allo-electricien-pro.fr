@@ -12,8 +12,8 @@ description: "Électricien d'urgence Livry-Gargan 93190 ⚡ Panne électrique, i
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.917335
+  lng: 2.5298854
 images:
   hero: "electricien-urgence-livry-gargan-93190-hero"
   og: "electricien-livry-gargan-93190-og"

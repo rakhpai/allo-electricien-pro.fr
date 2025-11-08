@@ -12,8 +12,8 @@ description: "SOS Électricien Sarcelles 95200 ⚡ Panne, installation, réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0273763
+  lng: 1.9752824
 images:
   hero: "electricien-urgence-sarcelles-95200-hero"
   og: "electricien-sarcelles-95200-og"

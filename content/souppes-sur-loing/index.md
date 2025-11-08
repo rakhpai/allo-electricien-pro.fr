@@ -12,8 +12,8 @@ description: "Électricien d'urgence SOUPPES-SUR-LOING 77 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.1811405
+  lng: 2.7311751
 images:
   hero: "elec-340-hero"
   og: "elec-340-og"

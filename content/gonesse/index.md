@@ -12,8 +12,8 @@ description: "Service de dépannage Gonesse"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9786975
+  lng: 2.4766195
 images:
   hero: "electricien-urgence-gonesse-95500-hero"
   og: "electricien-gonesse-95500-og"

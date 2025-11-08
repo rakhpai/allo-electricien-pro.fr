@@ -12,8 +12,8 @@ description: "Électricien urgence Chambourcy 78240 ⚡ Court-circuit, panne él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9058999
+  lng: 2.0396454
 images:
   hero: "electricien-urgence-chambourcy-78240-hero"
   og: "electricien-chambourcy-78240-og"

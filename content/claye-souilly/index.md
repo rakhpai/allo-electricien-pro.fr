@@ -12,8 +12,8 @@ description: "Intervention électricien Claye-Souilly 77410 ⚡ Réparation, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9462244
+  lng: 2.687818
 images:
   hero: "electricien-urgence-claye-souilly-77410-hero"
   og: "electricien-claye-souilly-77410-og"

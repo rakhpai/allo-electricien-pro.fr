@@ -12,8 +12,8 @@ description: "Électricien d'urgence MEZIERES-SUR-SEINE 78 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9608736
+  lng: 1.7961756
 images:
   hero: "elec-79-hero"
   og: "elec-79-og"

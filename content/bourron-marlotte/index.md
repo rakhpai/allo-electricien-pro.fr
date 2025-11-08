@@ -12,8 +12,8 @@ description: "Électricien d'urgence BOURRON-MARLOTTE 77 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3408614
+  lng: 2.7056355
 images:
   hero: "elec-129-hero"
   og: "elec-129-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence CONFLANS-SAINTE-HONORINE 78 ⚡ Court-circu
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9938791
+  lng: 2.0949768
 images:
   hero: "elec-65-hero"
   og: "elec-65-og"

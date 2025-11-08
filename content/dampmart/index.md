@@ -12,8 +12,8 @@ description: "Électricien d'urgence DAMPMART 77 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8852184
+  lng: 2.7355279
 images:
   hero: "elec-102-hero"
   og: "elec-102-og"

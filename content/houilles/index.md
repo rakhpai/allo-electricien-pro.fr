@@ -12,8 +12,8 @@ description: "Électricien 24/7 Houilles 78800 ⚡ Installation, réparation, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9229416
+  lng: 2.1868998
 images:
   hero: "electricien-urgence-houilles-78800-hero"
   og: "electricien-houilles-78800-og"

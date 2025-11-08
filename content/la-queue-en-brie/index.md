@@ -12,8 +12,8 @@ description: "Électricien La Queue-En-Brie 94510 ⚡ Panne électrique, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7903338
+  lng: 2.5749323
 images:
   hero: "electricien-urgence-la-queue-en-brie-94510-hero"
   og: "electricien-la-queue-en-brie-94510-og"

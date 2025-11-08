@@ -12,8 +12,8 @@ description: "Électricien urgence Le Plessis-Robinson 92350 ⚡ Installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7811049
+  lng: 2.2619632
 images:
   hero: "electricien-urgence-le-plessis-robinson-92350-hero"
   og: "electricien-le-plessis-robinson-92350-og"

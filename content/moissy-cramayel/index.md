@@ -12,8 +12,8 @@ description: "Dépannage électricien Moissy-Cramayel 77550 ⚡ Installation, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6285035
+  lng: 2.5703151
 images:
   hero: "electricien-urgence-moissy-cramayel-77550-hero"
   og: "electricien-moissy-cramayel-77550-og"

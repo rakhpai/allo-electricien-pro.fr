@@ -12,8 +12,8 @@ description: "Électricien d'urgence LE BLANC-MESNIL 93 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9385489
+  lng: 2.4631476
 images:
   hero: "elec-35-hero"
   og: "elec-35-og"

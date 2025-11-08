@@ -12,8 +12,8 @@ description: "Électricien d'urgence ABLIS 78 ⚡ Court-circuit, panne, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.517153
+  lng: 1.8368758
 images:
   hero: "elec-92-hero"
   og: "elec-92-og"

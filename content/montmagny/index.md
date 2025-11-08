@@ -12,8 +12,8 @@ description: "Électricien urgence Montmagny 95360 ⚡ Panne, installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9728571
+  lng: 2.343561
 images:
   hero: "electricien-urgence-montmagny-95360-hero"
   og: "electricien-montmagny-95360-og"

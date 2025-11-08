@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA CHAPELLE-LA-REINE 77 ⚡ Court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6920763
+  lng: 2.9792743
 images:
   hero: "elec-134-hero"
   og: "elec-134-og"

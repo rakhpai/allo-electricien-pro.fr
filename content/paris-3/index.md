@@ -12,8 +12,8 @@ description: "Intervention électricien Paris 3e 75003 ⚡ Dépannage panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8466988
+  lng: 2.2526044
 images:
   hero: "electricien-urgence-paris-3-75003-hero"
   og: "electricien-paris-3-75003-og"

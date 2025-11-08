@@ -12,8 +12,8 @@ description: "Intervention électricien La Courneuve 93120 ⚡ Réparation, inst
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9267236
+  lng: 2.3896123
 images:
   hero: "electricien-urgence-la-courneuve-93120-hero"
   og: "electricien-la-courneuve-93120-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Garges-Les-Gonesse 95 ⚡ Panne, installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.976545
+  lng: 2.3905928
 images:
   hero: "electricien-urgence-garges-les-gonesse-95140-hero"
   og: "electricien-garges-les-gonesse-95140-og"

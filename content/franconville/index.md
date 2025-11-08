@@ -12,8 +12,8 @@ description: "Urgence Électricien Franconville 95130 ⚡ Panne, installation, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.986025
+  lng: 2.2303498
 images:
   hero: "electricien-urgence-franconville-95130-hero"
   og: "electricien-franconville-95130-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence FRENEUSE 78 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0485006
+  lng: 1.6018961
 images:
   hero: "elec-62-hero"
   og: "elec-62-og"

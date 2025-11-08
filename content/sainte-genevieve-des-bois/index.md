@@ -12,8 +12,8 @@ description: "Électricien Sainte-Genevieve-Des-Bois 91700 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.653119
+  lng: 2.3132967
 images:
   hero: "electricien-urgence-sainte-genevieve-des-bois-91700-hero"
   og: "electricien-sainte-genevieve-des-bois-91700-og"

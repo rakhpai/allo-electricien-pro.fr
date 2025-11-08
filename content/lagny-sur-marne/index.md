@@ -12,8 +12,8 @@ description: "Électricien Lagny-Sur-Marne 77400 ⚡ Réparation, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8773018
+  lng: 2.7056056
 images:
   hero: "electricien-urgence-lagny-sur-marne-77400-hero"
   og: "electricien-lagny-sur-marne-77400-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Courtry 77181 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9156784
+  lng: 2.602362
 images:
   hero: "electricien-urgence-courtry-77181-hero"
   og: "electricien-courtry-77181-og"

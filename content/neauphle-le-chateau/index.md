@@ -12,8 +12,8 @@ description: "Électricien d'urgence NEAUPHLE-LE-CHATEAU 78 ⚡ Court-circuit, p
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8111045
+  lng: 1.9038201
 images:
   hero: "elec-111-hero"
   og: "elec-111-og"

@@ -12,8 +12,8 @@ description: "Intervention électricien Villebon-Sur-Yvette 91940 ⚡ Installati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7000046
+  lng: 2.2276489
 images:
   hero: "electricien-urgence-villebon-sur-yvette-91940-hero"
   og: "electricien-villebon-sur-yvette-91940-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Epinay-Sur-Seine 93800 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9525181
+  lng: 2.3145039
 images:
   hero: "electricien-urgence-epinay-sur-seine-93800-hero"
   og: "electricien-epinay-sur-seine-93800-og"

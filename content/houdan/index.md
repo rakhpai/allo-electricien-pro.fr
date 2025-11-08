@@ -12,8 +12,8 @@ description: "Électricien d'urgence HOUDAN 78 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7912001
+  lng: 1.6019247
 images:
   hero: "elec-89-hero"
   og: "elec-89-og"

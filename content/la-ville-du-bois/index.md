@@ -12,8 +12,8 @@ description: "Électricien d'urgence LA VILLE-DU-BOIS 91 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6610752
+  lng: 2.2687891
 images:
   hero: "elec-296-hero"
   og: "elec-296-og"

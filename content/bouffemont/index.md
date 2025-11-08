@@ -12,8 +12,8 @@ description: "SOS Électricien Bouffemont 95570 ⚡ Panne électrique, court-cir
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9920347
+  lng: 2.2249802
 images:
   hero: "electricien-urgence-bouffemont-95570-hero"
   og: "electricien-bouffemont-95570-og"

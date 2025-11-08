@@ -12,8 +12,8 @@ description: "Électricien d'urgence MONTIGNY-SUR-LOING 77 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3405032
+  lng: 2.757804
 images:
   hero: "elec-121-hero"
   og: "elec-121-og"

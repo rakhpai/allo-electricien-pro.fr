@@ -12,8 +12,8 @@ description: "Électricien 24/7 Sannois 95110 ⚡ Panne, réparation, tableau é
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9717267
+  lng: 2.2568296
 images:
   hero: "electricien-urgence-sannois-95110-hero"
   og: "electricien-sannois-95110-og"

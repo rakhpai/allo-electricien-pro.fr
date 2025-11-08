@@ -12,8 +12,8 @@ description: "Électricien urgence Noisy-Le-Grand 93160 ⚡ Tableau, court-circu
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8305523
+  lng: 2.5580382
 images:
   hero: "electricien-urgence-noisy-le-grand-93160-hero"
   og: "electricien-noisy-le-grand-93160-og"

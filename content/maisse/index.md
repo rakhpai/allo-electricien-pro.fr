@@ -12,8 +12,8 @@ description: "Électricien d'urgence MAISSE 91 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.3944367
+  lng: 2.3763771
 images:
   hero: "elec-131-hero"
   og: "elec-131-og"

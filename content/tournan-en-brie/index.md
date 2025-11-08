@@ -12,8 +12,8 @@ description: "Dépannage électricien Tournan-En-Brie 77220 ⚡ Panne, tableau, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7386
+  lng: 2.76822
 images:
   hero: "electricien-urgence-tournan-en-brie-77220-hero"
   og: "electricien-tournan-en-brie-77220-og"

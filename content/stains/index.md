@@ -12,8 +12,8 @@ description: "SOS Électricien Stains 93240 ⚡ Tableau, court-circuit, panne é
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9565669
+  lng: 2.3825154
 images:
   hero: "electricien-urgence-stains-93240-hero"
   og: "electricien-stains-93240-og"

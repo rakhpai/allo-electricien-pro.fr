@@ -12,8 +12,8 @@ description: "Électricien Saint-Germain-En-Laye 78100 ⚡ Installation, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9356047
+  lng: 2.0917743
 images:
   hero: "electricien-urgence-saint-germain-en-laye-78100-hero"
   og: "electricien-saint-germain-en-laye-78100-og"

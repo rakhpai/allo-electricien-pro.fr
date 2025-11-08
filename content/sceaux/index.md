@@ -12,8 +12,8 @@ description: "Électricien d'urgence SCEAUX 92 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7790592
+  lng: 2.2886619
 images:
   hero: "elec-163-hero"
   og: "elec-163-og"

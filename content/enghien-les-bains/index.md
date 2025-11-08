@@ -12,8 +12,8 @@ description: "Électricien 24/7 Enghien-Les-Bains 95880 ⚡ Panne, installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9699732
+  lng: 2.3068482
 images:
   hero: "electricien-urgence-enghien-les-bains-95880-hero"
   og: "electricien-enghien-les-bains-95880-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHATEAU-LANDON 77 ⚡ Court-circuit, panne,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8789087
+  lng: 2.3624266
 images:
   hero: "elec-105-hero"
   og: "elec-105-og"

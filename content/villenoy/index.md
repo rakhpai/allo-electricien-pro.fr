@@ -12,8 +12,8 @@ description: "Électricien d'urgence VILLENOY 77 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9453579
+  lng: 2.8650414
 images:
   hero: "elec-54-hero"
   og: "elec-54-og"

@@ -12,8 +12,8 @@ description: "Électricien urgence Levallois-Perret 92300 ⚡ Panne, réparation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8971
+  lng: 2.2874
 images:
   hero: "electricien-urgence-levallois-perret-92300-hero"
   og: "electricien-levallois-perret-92300-og"

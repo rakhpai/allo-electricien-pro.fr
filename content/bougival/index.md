@@ -12,8 +12,8 @@ description: "Intervention électricien Bougival 78380 ⚡ Installation, répara
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8642975
+  lng: 2.1377696
 images:
   hero: "electricien-urgence-bougival-78380-hero"
   og: "electricien-bougival-78380-og"

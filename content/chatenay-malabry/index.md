@@ -12,8 +12,8 @@ description: "Électricien d'Urgence Chatenay-Malabry 92290 ⚡ Installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7670404
+  lng: 2.2775316
 images:
   hero: "electricien-urgence-chatenay-malabry-92290-hero"
   og: "electricien-chatenay-malabry-92290-og"

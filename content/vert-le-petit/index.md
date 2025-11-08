@@ -12,8 +12,8 @@ description: "Électricien d'urgence VERT-LE-PETIT 91 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.551133
+  lng: 2.3661101
 images:
   hero: "elec-133-hero"
   og: "elec-133-og"

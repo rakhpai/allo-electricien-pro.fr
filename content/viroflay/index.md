@@ -12,8 +12,8 @@ description: "Urgence électricien Viroflay 78220 ⚡ Panne, tableau, court-circ
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7995951
+  lng: 2.1730571
 images:
   hero: "electricien-urgence-viroflay-78220-hero"
   og: "electricien-viroflay-78220-og"

@@ -12,8 +12,8 @@ description: "Électricien d'urgence Limeil-Brevannes 94450 ⚡ Installation, r�
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7489857
+  lng: 2.4809129
 images:
   hero: "electricien-urgence-limeil-brevannes-94450-hero"
   og: "electricien-limeil-brevannes-94450-og"

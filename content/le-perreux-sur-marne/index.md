@@ -12,8 +12,8 @@ description: "SOS Électricien Le Perreux-Sur-Marne 94170 ⚡ Installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8354179
+  lng: 2.4975968
 images:
   hero: "electricien-urgence-le-perreux-sur-marne-94170-hero"
   og: "electricien-le-perreux-sur-marne-94170-og"

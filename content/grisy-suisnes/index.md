@@ -12,8 +12,8 @@ description: "Électricien d'urgence GRISY-SUISNES 77 ⚡ Court-circuit, panne, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6851555
+  lng: 2.6654299
 images:
   hero: "elec-152-hero"
   og: "elec-152-og"

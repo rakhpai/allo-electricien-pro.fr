@@ -12,8 +12,8 @@ description: "Dépannage électricien Montmorency 95160 ⚡ Panne, installation,
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9891693
+  lng: 2.3197111
 images:
   hero: "electricien-urgence-montmorency-95160-hero"
   og: "electricien-montmorency-95160-og"

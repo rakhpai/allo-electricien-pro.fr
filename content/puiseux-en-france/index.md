@@ -12,8 +12,8 @@ description: "Électricien d'urgence PUISEUX-EN-FRANCE 95 ⚡ Court-circuit, pan
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0597512
+  lng: 2.5009544
 images:
   hero: "elec-87-hero"
   og: "elec-87-og"

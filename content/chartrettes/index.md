@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHARTRETTES 77 ⚡ Court-circuit, panne, in
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.4886785
+  lng: 2.7008472
 images:
   hero: "elec-142-hero"
   og: "elec-142-og"

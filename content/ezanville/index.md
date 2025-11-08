@@ -12,8 +12,8 @@ description: "Urgence électricien Ezanville 95460 ⚡ Panne, installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.031707
+  lng: 2.361889
 images:
   hero: "electricien-urgence-ezanville-95460-hero"
   og: "electricien-ezanville-95460-og"

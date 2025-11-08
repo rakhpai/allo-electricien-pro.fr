@@ -12,8 +12,8 @@ description: "Électricien Le Chesnay 78150 ⚡ Installation, réparation, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8264842
+  lng: 2.1257808
 images:
   hero: "electricien-urgence-le-chesnay-78150-hero"
   og: "electricien-le-chesnay-78150-og"

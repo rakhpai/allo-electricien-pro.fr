@@ -12,8 +12,8 @@ description: "Électricien d'urgence BAILLY 78 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6698859
+  lng: 1.9621274
 images:
   hero: "elec-63-hero"
   og: "elec-63-og"

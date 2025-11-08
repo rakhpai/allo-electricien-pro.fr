@@ -12,8 +12,8 @@ description: "Électricien urgence Soisy-Sous-Montmorency 95230 ⚡ Dépannage �
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9875044
+  lng: 2.3002885
 images:
   hero: "electricien-urgence-soisy-sous-montmorency-95230-hero"
   og: "electricien-soisy-sous-montmorency-95230-og"

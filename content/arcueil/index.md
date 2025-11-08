@@ -12,8 +12,8 @@ description: "Électricien d'urgence ARCUEIL 94 ⚡ Court-circuit, panne, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8064996
+  lng: 2.3366502
 images:
   hero: "elec-162-hero"
   og: "elec-162-og"

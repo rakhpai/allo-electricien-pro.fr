@@ -12,8 +12,8 @@ description: "Électricien Fontenay-Aux-Roses 92260 ⚡ Panne électrique, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7911052
+  lng: 2.2870373
 images:
   hero: "electricien-urgence-fontenay-aux-roses-92260-hero"
   og: "electricien-fontenay-aux-roses-92260-og"

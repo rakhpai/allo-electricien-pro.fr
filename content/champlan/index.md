@@ -12,8 +12,8 @@ description: "Électricien d'urgence CHAMPLAN 91 ⚡ Court-circuit, panne, insta
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7048295
+  lng: 2.2716606
 images:
   hero: "elec-145-hero"
   og: "elec-145-og"

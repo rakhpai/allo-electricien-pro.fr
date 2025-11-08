@@ -12,8 +12,8 @@ description: "SOS Électricien Paray-Vieille-Poste 91550 ⚡ Installation, répa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7272703
+  lng: 2.3596796
 images:
   hero: "electricien-urgence-paray-vieille-poste-91550-hero"
   og: "electricien-paray-vieille-poste-91550-og"

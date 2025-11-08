@@ -12,8 +12,8 @@ description: "Électricien La Ferté-Sous-Jouarre 77260 ⚡ Panne électrique, r
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.1774585
+  lng: 2.6370517
 images:
   hero: "electricien-urgence-la-ferte-sous-jouarre-77260-hero"
   og: "electricien-la-ferte-sous-jouarre-77260-og"

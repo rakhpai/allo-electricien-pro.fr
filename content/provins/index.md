@@ -12,8 +12,8 @@ description: "SOS Électricien Provins 77160 ⚡ Tableau, panne, court-circuit. 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5733741
+  lng: 3.1816747
 images:
   hero: "electricien-urgence-provins-77160-hero"
   og: "electricien-provins-77160-og"

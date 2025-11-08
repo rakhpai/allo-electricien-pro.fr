@@ -12,8 +12,8 @@ description: "Électricien Igny 91430 ⚡ Panne électrique, réparation, instal
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7405551
+  lng: 2.2309092
 images:
   hero: "electricien-urgence-igny-91430-hero"
   og: "electricien-igny-91430-og"

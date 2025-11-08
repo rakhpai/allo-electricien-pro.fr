@@ -12,8 +12,8 @@ description: "Électricien d'urgence VARENNES-SUR-SEINE 77 ⚡ Court-circuit, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6605528
+  lng: 2.5756093
 images:
   hero: "elec-86-hero"
   og: "elec-86-og"

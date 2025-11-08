@@ -12,8 +12,8 @@ description: "Électricien d'urgence BOISSISE-LE-ROI 77 ⚡ Court-circuit, panne
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5280356
+  lng: 2.5737655
 images:
   hero: "elec-77-hero"
   og: "elec-77-og"

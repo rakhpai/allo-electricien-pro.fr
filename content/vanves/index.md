@@ -12,8 +12,8 @@ description: "Urgence électricien Vanves 92170 ⚡ Panne, réparation, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8212037
+  lng: 2.289259
 images:
   hero: "electricien-urgence-vanves-92170-hero"
   og: "electricien-vanves-92170-og"

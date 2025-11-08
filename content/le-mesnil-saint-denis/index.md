@@ -12,8 +12,8 @@ description: "Près de chez vous Le Mesnil-Saint-Denis"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7416202
+  lng: 1.9596593
 images:
   hero: "electricien-urgence-le-mesnil-saint-denis-78320-hero"
   og: "electricien-le-mesnil-saint-denis-78320-og"

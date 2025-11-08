@@ -12,8 +12,8 @@ description: "Électricien d'urgence BOISSY-LE-CHATEL 77 ⚡ Court-circuit, pann
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5322484
+  lng: 2.5392327
 images:
   hero: "elec-106-hero"
   og: "elec-106-og"

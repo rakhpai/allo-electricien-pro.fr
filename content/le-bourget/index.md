@@ -12,8 +12,8 @@ description: "Électricien Le Bourget 93350 ⚡ Dépannage électrique, réparat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9303993
+  lng: 2.4232968
 images:
   hero: "electricien-urgence-le-bourget-93350-hero"
   og: "electricien-le-bourget-93350-og"

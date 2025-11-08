@@ -12,8 +12,8 @@ description: "Dépannage électricien Epinay-Sur-Orge 91360 ⚡ Panne, réparati
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6708594
+  lng: 2.3351982
 images:
   hero: "electricien-urgence-epinay-sur-orge-91360-hero"
   og: "electricien-epinay-sur-orge-91360-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Torcy 77200 ⚡ Panne, court-circuit, tableau él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7986666
+  lng: 2.6618193
 images:
   hero: "electricien-urgence-torcy-77200-hero"
   og: "electricien-torcy-77200-og"

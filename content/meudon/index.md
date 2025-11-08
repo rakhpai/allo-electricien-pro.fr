@@ -12,8 +12,8 @@ description: "Électricien Meudon 92190 ⚡ Installation, réparation, panne él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8126688
+  lng: 2.2385432
 images:
   hero: "electricien-urgence-meudon-92190-92360-hero"
   og: "electricien-meudon-92190-92360-og"

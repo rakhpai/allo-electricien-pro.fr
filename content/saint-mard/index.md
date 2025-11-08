@@ -12,8 +12,8 @@ description: "Électricien d'urgence SAINT-MARD 77 ⚡ Court-circuit, panne, ins
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0396623
+  lng: 2.6885622
 images:
   hero: "elec-66-hero"
   og: "elec-66-og"

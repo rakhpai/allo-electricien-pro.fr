@@ -12,8 +12,8 @@ description: "Électricien 24/7 Villeneuve-Saint-Georges 94 ⚡ Installation, pa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7305272
+  lng: 2.44782
 images:
   hero: "electricien-urgence-villeneuve-saint-georges-94190-hero"
   og: "electricien-villeneuve-saint-georges-94190-og"

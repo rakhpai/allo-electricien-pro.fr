@@ -12,8 +12,8 @@ description: "Électricien d'urgence ORSAY 91 ⚡ Court-circuit, panne, installa
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6809335
+  lng: 2.5278147
 images:
   hero: "elec-195-hero"
   og: "elec-195-og"

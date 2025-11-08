@@ -12,8 +12,8 @@ description: "Électricien d'urgence Montigny-Les-Cormeilles 95370 ⚡ Panne él
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9959113
+  lng: 2.1989225
 images:
   hero: "electricien-urgence-montigny-les-cormeilles-95370-hero"
   og: "electricien-montigny-les-cormeilles-95370-og"

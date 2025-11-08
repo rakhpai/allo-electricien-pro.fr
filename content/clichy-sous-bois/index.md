@@ -12,8 +12,8 @@ description: "Électricien urgence Clichy-Sous-Bois 93390 ⚡ Installation, rép
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.910939
+  lng: 2.5460722
 images:
   hero: "electricien-urgence-clichy-sous-bois-93390-hero"
   og: "electricien-clichy-sous-bois-93390-og"

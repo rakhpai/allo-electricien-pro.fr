@@ -12,8 +12,8 @@ description: "Dépannage électricien Saint-Mandé 94160 ⚡ Panne, installation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.8432434
+  lng: 2.4159739
 images:
   hero: "electricien-urgence-saint-mande-94160-hero"
   og: "electricien-saint-mande-94160-og"

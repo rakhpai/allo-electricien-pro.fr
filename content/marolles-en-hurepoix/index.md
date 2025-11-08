@@ -12,8 +12,8 @@ description: "Électricien Marolles-En-Hurepoix 91630 ⚡ Panne, installation, t
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.5623029
+  lng: 2.2986957
 images:
   hero: "electricien-urgence-marolles-en-hurepoix-91630-hero"
   og: "electricien-marolles-en-hurepoix-91630-og"

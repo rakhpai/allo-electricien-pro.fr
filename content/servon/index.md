@@ -12,8 +12,8 @@ description: "Électricien d'urgence SERVON 77 ⚡ Court-circuit, panne, install
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.7154537
+  lng: 2.5880047
 images:
   hero: "elec-112-hero"
   og: "elec-112-og"

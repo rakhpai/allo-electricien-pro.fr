@@ -12,8 +12,8 @@ description: "Électricien L'Étang-La-Ville 78620 ⚡ Réparation, installation
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0530919
+  lng: 1.6125028
 images:
   hero: "electricien-urgence-l-etang-la-ville-78620-hero"
   og: "electricien-l-etang-la-ville-78620-og"

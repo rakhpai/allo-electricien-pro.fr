@@ -12,8 +12,8 @@ description: "Électricien Beauchamp 95250 ⚡ Panne, installation, réparation 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0115876
+  lng: 2.1993602
 images:
   hero: "electricien-urgence-beauchamp-95250-hero"
   og: "electricien-beauchamp-95250-og"

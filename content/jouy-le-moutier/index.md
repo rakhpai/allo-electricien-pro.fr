@@ -12,8 +12,8 @@ description: "Près de chez vous Jouy-le-Moutier"
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0116
+  lng: 2.03194
 images:
   hero: "electricien-urgence-jouy-le-moutier-95280-hero"
   og: "electricien-jouy-le-moutier-95280-og"

@@ -12,8 +12,8 @@ description: "Urgence Électricien Dammartin-En-Goele 77230 ⚡ Panne, installat
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 49.0547758
+  lng: 2.6835682
 images:
   hero: "electricien-urgence-dammartin-en-goele-77230-hero"
   og: "electricien-dammartin-en-goele-77230-og"

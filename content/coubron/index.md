@@ -12,8 +12,8 @@ description: "Électricien urgence Coubron 93470 ⚡ Réparation, installation, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.9166
+  lng: 2.57922
 images:
   hero: "electricien-urgence-coubron-93470-hero"
   og: "electricien-coubron-93470-og"

@@ -12,8 +12,8 @@ description: "SOS Électricien Morsang-Sur-Orge 91390 ⚡ Panne, court-circuit, 
 niche: "électricité"
 kwSource: "électricité"
 coordinates:
-  lat: 48.8566
-  lng: 2.3522
+  lat: 48.6532313
+  lng: 2.3518379
 images:
   hero: "electricien-urgence-morsang-sur-orge-91390-hero"
   og: "electricien-morsang-sur-orge-91390-og"
