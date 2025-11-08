@@ -63,6 +63,15 @@ function transformElectrician(business, cityLat, cityLon) {
     workingHours = business.working_hours;
   }
 
+  // Create address with fallback logic
+  let address = business.full_address || business.street;
+
+  // If no full address or street, build one from city + postal_code
+  if (!address && (business.city || business.postal_code)) {
+    const parts = [business.city, business.postal_code].filter(Boolean);
+    address = parts.length > 0 ? parts.join(', ') : null;
+  }
+
   return {
     name: business.name,
     phone: business.phone || null,
@@ -70,7 +79,7 @@ function transformElectrician(business, cityLat, cityLon) {
     reviews: business.review_count || 0,
     distance: distance,
     website: business.website || null,
-    address: business.full_address || business.street || null,
+    address: address,
     city: business.city || null,
     postal_code: business.postal_code || "",
     verified: business.verified || false,
@@ -104,18 +113,35 @@ async function exportElectricians() {
   console.log('STEP 1: FETCH CITIES FROM GEOGRAPHIC_LOCATIONS');
   console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n');
 
-  // Fetch all cities
-  const { data: cities, error: citiesError } = await supabase
-    .from('geographic_locations')
-    .select('id, slug, name, latitude, longitude')
-    .order('slug');
+  // Fetch all cities using pagination (Supabase has 1000 row limit per query)
+  let cities = [];
+  let page = 0;
+  const pageSize = 1000;
+  let hasMore = true;
 
-  if (citiesError) {
-    console.error('❌ Error fetching cities:', citiesError.message);
-    process.exit(1);
+  while (hasMore) {
+    const { data: pageData, error: citiesError } = await supabase
+      .from('geographic_locations')
+      .select('id, slug, name, latitude, longitude')
+      .order('slug')
+      .range(page * pageSize, (page + 1) * pageSize - 1);
+
+    if (citiesError) {
+      console.error('❌ Error fetching cities:', citiesError.message);
+      process.exit(1);
+    }
+
+    if (pageData && pageData.length > 0) {
+      cities = cities.concat(pageData);
+      page++;
+      hasMore = pageData.length === pageSize;
+      console.log(`  Fetched page ${page}: ${pageData.length} cities (total: ${cities.length})`);
+    } else {
+      hasMore = false;
+    }
   }
 
-  console.log(`✓ Found ${cities.length} cities in database\n`);
+  console.log(`\n✓ Found ${cities.length} cities in database\n`);
 
   // Limit cities in test mode
   const citiesToProcess = TEST_MODE ? cities.slice(0, TEST_LIMIT) : cities;
@@ -133,15 +159,14 @@ async function exportElectricians() {
       // Fetch electricians for this city
       // IMPORTANT: Only fetch electricians that:
       // 1. Are linked to this city via geographic_location_id
-      // 2. Have a full_address (required)
-      // 3. Are operational
+      // 2. Are not CLOSED (allows OPERATIONAL, null, and other statuses)
+      // 3. Address will be built using fallback logic in transform function
       const { data: electricians, error: electriciansError } = await supabase
         .from('business_listings')
         .select('*')
         .eq('business_type', 'electrician')
         .eq('geographic_location_id', city.id)
-        .eq('business_status', 'OPERATIONAL')
-        .not('full_address', 'is', null); // Only those with addresses
+        .neq('business_status', 'CLOSED'); // Exclude only CLOSED businesses
 
       if (electriciansError) {
         throw electriciansError;
@@ -150,7 +175,7 @@ async function exportElectricians() {
       if (!electricians || electricians.length === 0) {
         stats.cities_skipped++;
         if (stats.cities_processed <= 10) {
-          console.log(`  ⊘ ${city.name} (${city.slug}): No electricians with addresses`);
+          console.log(`  ⊘ ${city.name} (${city.slug}): No electricians found`);
         }
         continue;
       }
@@ -158,7 +183,7 @@ async function exportElectricians() {
       // Transform electricians
       const transformedElectricians = electricians
         .map(e => transformElectrician(e, city.latitude, city.longitude))
-        .filter(e => e.name && e.phone && e.address) // Must have name, phone AND address
+        .filter(e => e.name && (e.phone || e.website) && e.address) // Must have name, contact method (phone OR website), AND address
         .sort((a, b) => {
           // Sort by distance first (nulls last), then by rating (desc)
           if (a.distance === null && b.distance !== null) return 1;
