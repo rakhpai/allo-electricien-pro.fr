@@ -131,12 +131,17 @@ async function exportElectricians() {
 
     try {
       // Fetch electricians for this city
+      // IMPORTANT: Only fetch electricians that:
+      // 1. Are linked to this city via geographic_location_id
+      // 2. Have a full_address (required)
+      // 3. Are operational
       const { data: electricians, error: electriciansError } = await supabase
         .from('business_listings')
         .select('*')
         .eq('business_type', 'electrician')
         .eq('geographic_location_id', city.id)
-        .eq('business_status', 'OPERATIONAL'); // Only operational businesses
+        .eq('business_status', 'OPERATIONAL')
+        .not('full_address', 'is', null); // Only those with addresses
 
       if (electriciansError) {
         throw electriciansError;
@@ -145,7 +150,7 @@ async function exportElectricians() {
       if (!electricians || electricians.length === 0) {
         stats.cities_skipped++;
         if (stats.cities_processed <= 10) {
-          console.log(`  ⊘ ${city.name} (${city.slug}): No electricians found`);
+          console.log(`  ⊘ ${city.name} (${city.slug}): No electricians with addresses`);
         }
         continue;
       }
@@ -153,7 +158,7 @@ async function exportElectricians() {
       // Transform electricians
       const transformedElectricians = electricians
         .map(e => transformElectrician(e, city.latitude, city.longitude))
-        .filter(e => e.name && e.phone) // Must have name and phone
+        .filter(e => e.name && e.phone && e.address) // Must have name, phone AND address
         .sort((a, b) => {
           // Sort by distance first (nulls last), then by rating (desc)
           if (a.distance === null && b.distance !== null) return 1;

@@ -23,7 +23,7 @@
       <source srcset="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.avif" type="image/avif">
       <source srcset="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.webp" type="image/webp">
       <img src="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.jpg"
-           alt="Électricien {{ .Params.city }}"
+           alt="Électricien d'urgence à {{ .Params.city | title }} ({{ .Params.zipCode }}) - Dépannage 24/7"
            class="w-full h-full object-cover opacity-40"
            width="1920"
            height="1080"
@@ -161,13 +161,19 @@
 
           <!-- Nearby Electricians -->
           {{ $electricians := index .Site.Data.commune_electricians .Params.slug }}
-          {{ if $electricians }}
+          {{ $electriciansWithAddress := slice }}
+          {{ range $electricians }}
+            {{ if .address }}
+              {{ $electriciansWithAddress = $electriciansWithAddress | append . }}
+            {{ end }}
+          {{ end }}
+          {{ if $electriciansWithAddress }}
           <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
             <h3 class="text-2xl font-bold text-gray-900 mb-2">Électriciens Certifiés à Proximité</h3>
             <p class="text-gray-600 mb-6">Professionnels vérifiés intervenant dans votre secteur</p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {{ range $index, $elec := $electricians }}
+              {{ range $index, $elec := $electriciansWithAddress }}
               <div class="bg-gradient-to-br from-blue-50 to-white border-2 border-gray-200 rounded-xl p-6 hover:border-primary hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 relative">
                 <!-- Header -->
                 <div class="flex items-start justify-between mb-4">
