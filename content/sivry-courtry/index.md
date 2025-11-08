@@ -1,0 +1,23 @@
+---
+title: "⚡ Intervention Électricien Sivry-Courtry | 24/7"
+slug: "sivry-courtry"
+city: "SIVRY-COURTRY"
+zipCode: "77115"
+department: "77"
+keyword: "Intervention Électricien Sivry-Courtry"
+company: "ÉlecExpert77"
+phone: "01 44 90 11 31"
+phoneRaw: "0144901131"
+description: "Intervention électricien Sivry-Courtry 77115 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.5276251
+  lng: 2.7523039
+images:
+  hero: "electricien-urgence-sivry-courtry-77115-hero"
+  og: "electricien-sivry-courtry-77115-og"
+  featured: "electricien-sivry-courtry-77115-featured"
+  video: "electricien-sivry-courtry-77115-video"
+draft: false
+---

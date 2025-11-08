@@ -1,0 +1,23 @@
+---
+title: "⚡ Intervention Électricien Mondeville | 24/7"
+slug: "mondeville"
+city: "MONDEVILLE"
+zipCode: "91590"
+department: "91"
+keyword: "Intervention Électricien Mondeville"
+company: "AmpèrePlus91"
+phone: "01 44 90 11 31"
+phoneRaw: "0144901131"
+description: "Intervention électricien Mondeville 91590 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.488998
+  lng: 2.4209073
+images:
+  hero: "electricien-urgence-mondeville-91590-hero"
+  og: "electricien-mondeville-91590-og"
+  featured: "electricien-mondeville-91590-featured"
+  video: "electricien-mondeville-91590-video"
+draft: false
+---

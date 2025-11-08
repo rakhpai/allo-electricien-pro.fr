@@ -1,0 +1,23 @@
+---
+title: "⚡ Intervention Électricien Épisy | 24/7"
+slug: "episy"
+city: "ÉPISY"
+zipCode: "77250"
+department: "77"
+keyword: "Intervention Électricien Épisy"
+company: "ÉlecExpert77"
+phone: "01 44 90 11 31"
+phoneRaw: "0144901131"
+description: "Intervention électricien Épisy 77250 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.340663
+  lng: 2.7961108
+images:
+  hero: "electricien-urgence-episy-77250-hero"
+  og: "electricien-episy-77250-og"
+  featured: "electricien-episy-77250-featured"
+  video: "electricien-episy-77250-video"
+draft: false
+---

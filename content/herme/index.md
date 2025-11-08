@@ -1,0 +1,23 @@
+---
+title: "⚡ Intervention Électricien Hermé | 24/7"
+slug: "herme"
+city: "HERMÉ"
+zipCode: "77114"
+department: "77"
+keyword: "Intervention Électricien Hermé"
+company: "ÉlecExpert77"
+phone: "01 44 90 11 31"
+phoneRaw: "0144901131"
+description: "Intervention électricien Hermé 77114 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
+niche: "électricité"
+kwSource: "électricité"
+coordinates:
+  lat: 48.4823364
+  lng: 3.3460308
+images:
+  hero: "electricien-urgence-herme-77114-hero"
+  og: "electricien-herme-77114-og"
+  featured: "electricien-herme-77114-featured"
+  video: "electricien-herme-77114-video"
+draft: false
+---
