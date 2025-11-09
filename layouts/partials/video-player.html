@@ -9,7 +9,7 @@
 
 {{ if and $videoData $videoConfig.enabled }}
   {{ $cityName := .Params.city | default .Title }}
-  {{ $videoTitle := printf "Électricien d'urgence à %s" $cityName }}
+  {{ $videoTitle := printf "SOS Électricien %s" $cityName }}
 
   {{/* Build video paths */}}
   {{ $videoWebm := $videoData.video_webm }}
@@ -31,14 +31,14 @@
     {{ $thumbnailPath = printf "/images/hero/%s.jpg" .Params.images.hero }}
   {{ end }}
 
-  <section class="video-section mb-12" itemscope itemtype="https://schema.org/VideoObject">
+  <section class="video-section" itemscope itemtype="https://schema.org/VideoObject">
     <div class="container mx-auto px-4">
       <div class="max-w-5xl mx-auto">
 
         {{/* Video Title */}}
-        <h2 class="text-2xl font-bold text-gray-900 mb-4" itemprop="name">
+        <h1 class="font-bold text-gray-900 mb-4 overflow-hidden text-ellipsis whitespace-nowrap" style="font-size: 1.35rem;" itemprop="name">
           {{ $videoTitle }}
-        </h2>
+        </h1>
 
         {{/* Video Player Container */}}
         <div class="relative bg-gray-900 rounded-lg overflow-hidden shadow-2xl"
@@ -57,7 +57,7 @@
             height="1080"
             fetchpriority="high"
             loading="eager"
-            aria-label="Vidéo de présentation des services d'électricien à {{ $cityName }}"
+            aria-label="SOS Électricien {{ $cityName }} - Vidéo de présentation des services 24/7"
             itemprop="contentUrl">
 
             {{/* Prefer WebM for better compression, fallback to MP4 */}}

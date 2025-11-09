@@ -2,6 +2,8 @@
 title: "Annuaire Électricien Paris & Île-de-France | 408 Professionnels Certifiés"
 slug: annuaire
 draft: false
+layout: single
+type: annuaire
 description: "Annuaire complet des électriciens en Île-de-France. 408 professionnels certifiés dans 8 départements. Trouvez l'électricien le plus proche de chez vous. Intervention rapide 24/7."
 sitemap:
   priority: 0.9

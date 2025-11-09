@@ -52,10 +52,72 @@
 </section>
 {{ end }}
 
+{{/* Load electrician profiles data for department pages */}}
+{{ $profilesData := .Site.Data.electricien_profiles }}
+{{ $deptCode := .Params.department }}
+{{ $deptProfiles := slice }}
+
+{{/* Get profiles for this specific department */}}
+{{ if and $profilesData $deptCode }}
+  {{ if isset $profilesData.by_department (string $deptCode) }}
+    {{ $deptProfiles = index $profilesData.by_department (string $deptCode) }}
+  {{ end }}
+{{ end }}
+
+{{/* Display profiles if available */}}
+{{ if gt (len $deptProfiles) 0 }}
+<!-- Department Electricians Section -->
+<section class="py-16 bg-gradient-to-br from-gray-50 via-blue-50 to-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          Nos Électriciens {{ .Params.departmentName }} ({{ .Params.department }})
+        </h2>
+        <p class="text-lg text-gray-600 max-w-2xl mx-auto">
+          {{ len $deptProfiles }} professionnel{{ if gt (len $deptProfiles) 1 }}s{{ end }} certifié{{ if gt (len $deptProfiles) 1 }}s{{ end }} disponible{{ if gt (len $deptProfiles) 1 }}s{{ end }} dans le département {{ .Params.department }}
+        </p>
+      </div>
+
+      <!-- Profile Cards Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
+        {{ range $deptProfiles }}
+          {{ partial "electrician-card.html" . }}
+        {{ end }}
+      </div>
+
+      <!-- CTA Footer -->
+      <div class="text-center mt-12 p-8 bg-white rounded-lg shadow-lg">
+        <h3 class="text-2xl font-bold text-gray-900 mb-3">
+          Besoin d'une intervention urgente dans le {{ .Params.department }} ?
+        </h3>
+        <p class="text-gray-600 mb-6">
+          Nos électriciens sont disponibles 24h/24 et 7j/7 pour tous vos dépannages dans le département {{ .Params.departmentName }}
+        </p>
+        <a href="tel:{{ .Params.phoneRaw }}"
+           class="inline-flex items-center gap-3 bg-gradient-to-r from-emergency to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-2xl">
+          <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+            <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
+        </svg>
+        {{ .Params.phone }}
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
 <!-- Main Content -->
 <section class="py-12 bg-gray-50">
   <div class="container mx-auto px-4">
     <div class="max-w-6xl mx-auto">
+      <!-- Markdown Content -->
+      {{ if .Content }}
+      <div class="prose prose-lg max-w-none mb-12 bg-white rounded-lg shadow-lg p-8">
+        {{ .Content }}
+      </div>
+      {{ end }}
       <!-- Top Cities -->
       {{ if .Params.topCities }}
       <div class="mb-12">
