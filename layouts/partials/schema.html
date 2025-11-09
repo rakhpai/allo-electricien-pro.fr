@@ -240,24 +240,18 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "Accueil",
+      "name": "SOS Électricien",
       "item": "{{ .Site.BaseURL }}"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Électricien",
-      "item": "{{ .Site.BaseURL }}electricien/"
     }{{ if and .Params.department (ne .Params.department "null") }},
     {
       "@type": "ListItem",
-      "position": 3,
+      "position": 2,
       "name": "{{ .Params.department }}",
       "item": "{{ .Site.BaseURL }}electricien/{{ .Params.department }}"
     }{{ end }},
     {
       "@type": "ListItem",
-      "position": {{ if and .Params.department (ne .Params.department "null") }}4{{ else }}3{{ end }},
+      "position": {{ if and .Params.department (ne .Params.department "null") }}3{{ else }}2{{ end }},
       "name": "{{ .Params.city }}",
       "item": "{{ .Permalink }}"
     }
