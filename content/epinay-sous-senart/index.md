@@ -25,5 +25,23 @@ draft: false
 sitemap:
   priority: 0.5
   changefreq: monthly
+cdnImages:
+  hero:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-epinay-sous-senart-91860-hero.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-epinay-sous-senart-91860-hero.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-epinay-sous-senart-91860-hero.jpg"
+  og:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-epinay-sous-senart-91860-og.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-epinay-sous-senart-91860-og.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-epinay-sous-senart-91860-og.jpg"
+  featured:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-epinay-sous-senart-91860-featured.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-epinay-sous-senart-91860-featured.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-epinay-sous-senart-91860-featured.jpg"
+  video:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-epinay-sous-senart-91860-video.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-epinay-sous-senart-91860-video.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-epinay-sous-senart-91860-video.jpg"
+
 ---
 

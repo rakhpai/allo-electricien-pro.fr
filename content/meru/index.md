@@ -26,5 +26,23 @@ draft: false
 sitemap:
   priority: 0.5
   changefreq: monthly
+cdnImages:
+  hero:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-meru-60110-hero.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-meru-60110-hero.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-meru-60110-hero.jpg"
+  og:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-meru-60110-og.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-meru-60110-og.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-meru-60110-og.jpg"
+  featured:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-meru-60110-featured.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-meru-60110-featured.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-meru-60110-featured.jpg"
+  video:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-meru-60110-video.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-meru-60110-video.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-meru-60110-video.jpg"
+
 ---
 

@@ -1,5 +1,23 @@
 ---
 title: 'Urgence électricité Vaucresson - Prestations de qualité TEL: 06 44 60 80 61'
+cdnImages:
+  hero:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaucresson-92420-hero.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaucresson-92420-hero.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaucresson-92420-hero.jpg"
+  og:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaucresson-92420-og.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaucresson-92420-og.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaucresson-92420-og.jpg"
+  featured:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaucresson-92420-featured.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaucresson-92420-featured.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaucresson-92420-featured.jpg"
+  video:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaucresson-92420-video.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaucresson-92420-video.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaucresson-92420-video.jpg"
+
 slug: vaucresson
 city: VAUCRESSON
 zipCode: '92420'

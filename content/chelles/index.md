@@ -26,5 +26,23 @@ draft: false
 sitemap:
   priority: 0.7
   changefreq: weekly
+cdnImages:
+  hero:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-chelles-77500-hero.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-chelles-77500-hero.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-chelles-77500-hero.jpg"
+  og:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-chelles-77500-og.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-chelles-77500-og.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-chelles-77500-og.jpg"
+  featured:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-chelles-77500-featured.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-chelles-77500-featured.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-chelles-77500-featured.jpg"
+  video:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-chelles-77500-video.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-chelles-77500-video.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-chelles-77500-video.jpg"
+
 ---
 

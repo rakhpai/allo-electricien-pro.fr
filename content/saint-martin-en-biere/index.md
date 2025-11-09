@@ -26,5 +26,23 @@ draft: false
 sitemap:
   priority: 0.5
   changefreq: monthly
+cdnImages:
+  hero:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-saint-martin-en-biere-77630-hero.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-saint-martin-en-biere-77630-hero.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-saint-martin-en-biere-77630-hero.jpg"
+  og:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-saint-martin-en-biere-77630-og.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-saint-martin-en-biere-77630-og.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-saint-martin-en-biere-77630-og.jpg"
+  featured:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-saint-martin-en-biere-77630-featured.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-saint-martin-en-biere-77630-featured.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-saint-martin-en-biere-77630-featured.jpg"
+  video:
+    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-saint-martin-en-biere-77630-video.avif"
+    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-saint-martin-en-biere-77630-video.webp"
+    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-saint-martin-en-biere-77630-video.jpg"
+
 ---
 
