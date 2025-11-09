@@ -21,9 +21,7 @@
   <div class="bg-gray-100 border-b border-gray-200 py-3">
     <div class="container mx-auto px-4">
       <nav class="flex items-center space-x-2 text-sm">
-        <a href="/" class="text-primary hover:underline">Accueil</a>
-        <span class="text-gray-400">/</span>
-        <a href="/electricien" class="text-primary hover:underline">Électricien</a>
+        <a href="/" class="text-primary hover:underline">SOS Électricien</a>
         {{ if and .Params.department (ne .Params.department "null") }}
         <span class="text-gray-400">/</span>
         <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
@@ -41,9 +39,7 @@
   <div class="bg-gray-100 border-b border-gray-200 py-3 mt-24">
     <div class="container mx-auto px-4">
       <nav class="flex items-center space-x-2 text-sm">
-        <a href="/" class="text-primary hover:underline">Accueil</a>
-        <span class="text-gray-400">/</span>
-        <a href="/electricien" class="text-primary hover:underline">Électricien</a>
+        <a href="/" class="text-primary hover:underline">SOS Électricien</a>
         {{ if and .Params.department (ne .Params.department "null") }}
         <span class="text-gray-400">/</span>
         <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
