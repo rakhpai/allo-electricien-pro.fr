@@ -140,7 +140,13 @@ document.addEventListener('DOMContentLoaded', function() {
     <div class="max-w-6xl mx-auto">
 
       <!-- Hero Stat: Response Time -->
-      <div class="bg-gradient-to-br from-red-500 to-red-600 rounded-2xl shadow-2xl p-8 md:p-12 mb-8 text-center">
+      <div class="relative bg-gradient-to-br from-red-500 to-red-600 rounded-2xl shadow-2xl p-8 md:p-12 mb-8 text-center overflow-hidden">
+        <!-- Background Pattern -->
+        <div class="absolute inset-0 opacity-10">
+          <img src="/eleclogos/idf_icon_2.svg" alt="" class="w-full h-full object-cover" aria-hidden="true">
+        </div>
+        <!-- Content -->
+        <div class="relative z-10">
         <div class="inline-flex items-center gap-4 mb-4 flex-col sm:flex-row">
           <div class="bg-white/20 backdrop-blur-sm rounded-full p-4">
             <svg class="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -158,6 +164,7 @@ document.addEventListener('DOMContentLoaded', function() {
           Nos électriciens interviennent en moins de 30 minutes sur toute l'Île-de-France.
           <span class="font-semibold text-white">Garantie de rapidité ou remboursement.</span>
         </p>
+        </div>
       </div>
 
       <!-- Supporting Stats: Card Grid -->

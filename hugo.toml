@@ -1,6 +1,7 @@
 baseURL = "https://allo-electricien.pro/"
 languageCode = "fr-FR"
 title = "Allo Électricien - 410 Électriciens d'Urgence Île-de-France & Oise"
+enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
 
 [params]
   description = "Trouvez votre électricien d'urgence 24h/24. 410 professionnels certifiés en Île-de-France et Oise pour dépannage électrique, installation, réparation. Intervention rapide garantie."
@@ -20,6 +21,11 @@ title = "Allo Électricien - 410 Électriciens d'Urgence Île-de-France & Oise"
   mainPhone = "01 44 90 11 31"
   mainPhoneRaw = "0144901131"
   email = "contact@allo-electricien.pro"
+
+  # WhatsApp Contact
+  whatsappNumber = "+33 6 20 55 82 97"
+  whatsappNumberRaw = "33620558297"
+  whatsappMessage = "Bonjour, j'ai besoin d'un électricien en urgence"
 
   # SEO
   keywords = "électricien urgence, dépannage électrique, panne électricité, électricien 24/7, réparation électrique, installation électrique"
@@ -57,3 +63,8 @@ title = "Allo Électricien - 410 Électriciens d'Urgence Île-de-France & Oise"
 [minify]
   disableXML = false
   minifyOutput = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.6  # Default priority for pages without explicit priority
