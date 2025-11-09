@@ -12,21 +12,39 @@
         Services SOS Électricien Paris & IDF
       </h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-        <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+        <a href="/depannage-electricite-paris/" class="block bg-white rounded-lg shadow-lg p-8 hover:shadow-2xl transition group">
           <div class="text-4xl mb-4">⚡</div>
-          <h3 class="text-xl font-bold text-gray-900 mb-3">Dépannage Urgent</h3>
-          <p class="text-gray-700">Intervention rapide 24h/24 pour tous vos problèmes électriques : panne de courant, court-circuit, disjoncteur.</p>
-        </div>
-        <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary transition">Dépannage Électricité Paris</h3>
+          <p class="text-gray-700 mb-4">Intervention rapide 24h/24 pour tous vos problèmes électriques : panne de courant, court-circuit, disjoncteur.</p>
+          <span class="text-primary font-semibold inline-flex items-center gap-1">
+            En savoir plus
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+        <a href="/sos-electricien/" class="block bg-white rounded-lg shadow-lg p-8 hover:shadow-2xl transition group">
           <div class="text-4xl mb-4">🔧</div>
-          <h3 class="text-xl font-bold text-gray-900 mb-3">Installation</h3>
-          <p class="text-gray-700">Pose de prises, interrupteurs, luminaires, tableaux électriques et tous travaux d'installation.</p>
-        </div>
-        <div class="bg-white rounded-lg shadow-lg p-8 hover:shadow-xl transition">
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary transition">Installation Électrique</h3>
+          <p class="text-gray-700 mb-4">Pose de prises, interrupteurs, luminaires, tableaux électriques et tous travaux d'installation.</p>
+          <span class="text-primary font-semibold inline-flex items-center gap-1">
+            En savoir plus
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+        <a href="/conseils/" class="block bg-white rounded-lg shadow-lg p-8 hover:shadow-2xl transition group">
           <div class="text-4xl mb-4">✓</div>
-          <h3 class="text-xl font-bold text-gray-900 mb-3">Mise aux Normes</h3>
-          <p class="text-gray-700">Conformité NF C 15-100, diagnostic électrique, rénovation complète de votre installation.</p>
-        </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary transition">Mise aux Normes NF C 15-100</h3>
+          <p class="text-gray-700 mb-4">Conformité NF C 15-100, diagnostic électrique, rénovation complète de votre installation.</p>
+          <span class="text-primary font-semibold inline-flex items-center gap-1">
+            Guides & conseils
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
       </div>
     </div>
   </div>
@@ -95,7 +113,7 @@
           </div>
           <p class="text-gray-600 mb-4">{{ .zipCode }}</p>
           <a href="{{ .url }}" class="text-primary font-semibold hover:underline inline-flex items-center gap-1">
-            Voir l'électricien
+            Électricien {{ .city }}
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
             </svg>
@@ -140,7 +158,7 @@
 
     {{ range .Site.Data.sites.sites }}
     markers.addLayer(L.marker([{{ .coordinates.lat }}, {{ .coordinates.lng }}])
-      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Voir l\'électricien</a>'));
+      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Électricien {{ .city }}</a>'));
     {{ end }}
 
     map.addLayer(markers);
