@@ -68,17 +68,47 @@
 <link rel="icon" type="image/svg+xml" href="/images/logo_1.svg">
 <link rel="icon" type="image/x-icon" href="/favicon.ico">
 
-<!-- Preload Critical Hero Images for LCP Optimization (City pages only) -->
+<!-- Preload Critical Images for LCP Optimization (City pages only) -->
 {{- if not .IsHome }}
-  {{- $heroAvif := "" -}}
-  {{- if .Params.cdnImages.hero.avif -}}
-    {{- $heroAvif = .Params.cdnImages.hero.avif -}}
-  {{- else if .Params.images.hero -}}
-    {{- $heroAvif = printf "%simages/hero/%s.avif" .Site.BaseURL .Params.images.hero -}}
-  {{- end -}}
-  {{- if $heroAvif }}
+  {{/* Preload video poster if video exists (takes priority over hero) */}}
+  {{- if and .Params.slug .Site.Data.commune_videos -}}
+    {{- $videoData := index .Site.Data.commune_videos .Params.slug -}}
+    {{- if $videoData -}}
+      {{- $videoPoster := "" -}}
+      {{- if $videoData.thumbnail_path -}}
+        {{- $videoPoster = $videoData.thumbnail_path -}}
+      {{- else if .Params.cdnImages.video.jpg -}}
+        {{- $videoPoster = .Params.cdnImages.video.jpg -}}
+      {{- else if .Params.cdnImages.hero.jpg -}}
+        {{- $videoPoster = .Params.cdnImages.hero.jpg -}}
+      {{- end -}}
+      {{- if $videoPoster }}
+<link rel="preload" as="image" href="{{ $videoPoster }}" fetchpriority="high">
+      {{- end -}}
+    {{- else -}}
+      {{/* No video: preload hero image instead */}}
+      {{- $heroAvif := "" -}}
+      {{- if .Params.cdnImages.hero.avif -}}
+        {{- $heroAvif = .Params.cdnImages.hero.avif -}}
+      {{- else if .Params.images.hero -}}
+        {{- $heroAvif = printf "%simages/hero/%s.avif" .Site.BaseURL .Params.images.hero -}}
+      {{- end -}}
+      {{- if $heroAvif }}
 <link rel="preload" as="image" href="{{ $heroAvif }}" type="image/avif" fetchpriority="high">
-  {{- end }}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{/* No video data: preload hero image */}}
+    {{- $heroAvif := "" -}}
+    {{- if .Params.cdnImages.hero.avif -}}
+      {{- $heroAvif = .Params.cdnImages.hero.avif -}}
+    {{- else if .Params.images.hero -}}
+      {{- $heroAvif = printf "%simages/hero/%s.avif" .Site.BaseURL .Params.images.hero -}}
+    {{- end -}}
+    {{- if $heroAvif }}
+<link rel="preload" as="image" href="{{ $heroAvif }}" type="image/avif" fetchpriority="high">
+    {{- end -}}
+  {{- end -}}
 {{- end }}
 
 <!-- Google Fonts -->

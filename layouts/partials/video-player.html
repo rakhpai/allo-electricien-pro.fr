@@ -55,6 +55,9 @@
             {{ if $videoConfig.autoplay }}autoplay{{ end }}
             width="1920"
             height="1080"
+            fetchpriority="high"
+            loading="eager"
+            aria-label="Vidéo de présentation des services d'électricien à {{ $cityName }}"
             itemprop="contentUrl">
 
             {{/* Prefer WebM for better compression, fallback to MP4 */}}
@@ -83,34 +86,166 @@
             </p>
           </video>
 
+          {{/* Video End-Screen CTA Overlay */}}
+          <div id="video-cta-overlay" class="hidden absolute inset-0 bg-black/80 flex items-center justify-center z-10">
+            <div class="text-center">
+              <p class="text-white text-xl mb-6">Besoin d'un électricien maintenant ?</p>
+              <a href="tel:{{ .Params.phoneRaw }}"
+                 class="bg-emergency hover:bg-red-700 text-white font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition-all duration-300 hover:scale-105 inline-flex items-center gap-2">
+                <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                </svg>
+                {{ .Params.phone }}
+              </a>
+              <button onclick="document.getElementById('video-cta-overlay').classList.add('hidden'); document.getElementById('city-video').play();"
+                      class="block mt-4 text-white/70 hover:text-white text-sm">
+                Continuer à regarder
+              </button>
+            </div>
+          </div>
+
         </div>
 
-        {{/* Video Description (from voiceover script) */}}
+        {{/* Collapsible Video Transcript */}}
         {{ if $videoData.voiceover_script }}
-          <div class="mt-6 bg-gray-50 p-6 rounded-lg">
-            <h3 class="text-lg font-semibold text-gray-900 mb-3">
-              À propos de cette vidéo
-            </h3>
-            <p class="text-gray-700 whitespace-pre-line leading-relaxed" itemprop="description">
-              {{ $videoData.voiceover_script }}
-            </p>
-          </div>
+          <details class="mt-6 bg-gray-50 rounded-lg group">
+            <summary class="px-6 py-4 cursor-pointer hover:bg-gray-100
+                            transition-colors duration-200
+                            flex items-center justify-between
+                            focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded-lg">
+              <h3 class="text-lg font-semibold text-gray-900 flex items-center gap-2">
+                <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                        d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+                </svg>
+                Transcription de la vidéo
+              </h3>
+              <svg class="w-5 h-5 text-gray-600 transition-transform duration-200 group-open:rotate-180"
+                   fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+              </svg>
+            </summary>
+
+            <div class="px-6 pb-6 pt-2 border-t border-gray-200" itemprop="description">
+              <p class="text-gray-700 whitespace-pre-line leading-relaxed text-sm">
+                {{ $videoData.voiceover_script }}
+              </p>
+
+              {{ if $videoData.created_at }}
+              <div class="mt-4 pt-4 border-t border-gray-200 text-xs text-gray-500">
+                <span>Vidéo mise en ligne le {{ dateFormat "2 January 2006" $videoData.created_at }}</span>
+              </div>
+              {{ end }}
+            </div>
+          </details>
         {{ end }}
 
-        {{/* Hidden Schema.org metadata */}}
+        {{/* Enhanced Schema.org metadata */}}
         <meta itemprop="thumbnailUrl" content="{{ absURL $thumbnailPath }}">
-        <meta itemprop="uploadDate" content="{{ $videoData.created_at }}">
+        <meta itemprop="uploadDate" content="{{ if $videoData.created_at }}{{ $videoData.created_at }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}">
         {{ if $videoData.duration_iso }}
           <meta itemprop="duration" content="{{ $videoData.duration_iso }}">
+        {{ else }}
+          <meta itemprop="duration" content="PT45S">
         {{ end }}
         {{ if $videoData.voiceover_script }}
           <meta itemprop="transcript" content="{{ $videoData.voiceover_script }}">
         {{ end }}
         <meta itemprop="width" content="1920">
         <meta itemprop="height" content="1080">
+        <meta itemprop="inLanguage" content="fr-FR">
+        <meta itemprop="isFamilyFriendly" content="true">
+        <meta itemprop="regionsAllowed" content="FR">
 
       </div>
     </div>
   </section>
+
+  {{/* Video Analytics Tracking Script */}}
+  <script>
+  (function() {
+    const video = document.getElementById('city-video');
+    if (!video) return;
+
+    const videoData = {
+      title: '{{ $videoTitle }}',
+      city: '{{ .Params.city }}',
+      slug: '{{ .Params.slug }}'
+    };
+
+    // Track milestones
+    const milestones = {25: false, 50: false, 75: false, 100: false};
+
+    video.addEventListener('play', function() {
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'video_start', {
+          video_title: videoData.title,
+          video_city: videoData.city,
+          video_current_time: 0
+        });
+      }
+    });
+
+    video.addEventListener('timeupdate', function() {
+      if (!video.duration) return;
+
+      const percent = Math.floor((video.currentTime / video.duration) * 100);
+
+      Object.keys(milestones).forEach(milestone => {
+        if (percent >= milestone && !milestones[milestone]) {
+          milestones[milestone] = true;
+
+          if (typeof gtag !== 'undefined') {
+            gtag('event', 'video_progress', {
+              video_title: videoData.title,
+              video_city: videoData.city,
+              video_percent: milestone
+            });
+          }
+        }
+      });
+    });
+
+    video.addEventListener('ended', function() {
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'video_complete', {
+          video_title: videoData.title,
+          video_city: videoData.city
+        });
+      }
+
+      // Show CTA overlay after video ends
+      const ctaOverlay = document.getElementById('video-cta-overlay');
+      if (ctaOverlay) {
+        ctaOverlay.classList.remove('hidden');
+      }
+    });
+
+    video.addEventListener('pause', function() {
+      if (video.currentTime < video.duration - 1) {
+        if (typeof gtag !== 'undefined') {
+          gtag('event', 'video_pause', {
+            video_title: videoData.title,
+            video_city: videoData.city,
+            video_current_time: Math.floor(video.currentTime)
+          });
+        }
+      }
+    });
+
+    // Track transcript toggle
+    const details = document.querySelector('.video-section details');
+    if (details) {
+      details.addEventListener('toggle', function(e) {
+        if (typeof gtag !== 'undefined') {
+          gtag('event', 'video_transcript_toggle', {
+            city: videoData.city,
+            state: e.target.open ? 'expanded' : 'collapsed'
+          });
+        }
+      });
+    }
+  })();
+  </script>
 
 {{ end }}
