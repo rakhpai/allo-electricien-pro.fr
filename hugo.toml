@@ -1,10 +1,10 @@
 baseURL = "https://allo-electricien.pro/"
 languageCode = "fr-FR"
-title = "Allo Électricien - 410 Électriciens d'Urgence Île-de-France & Oise"
+title = "SOS Électricien Paris | Dépannage Électricité Urgence 24/7 IDF"
 enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
 
 [params]
-  description = "Trouvez votre électricien d'urgence 24h/24. 410 professionnels certifiés en Île-de-France et Oise pour dépannage électrique, installation, réparation. Intervention rapide garantie."
+  description = "SOS Électricien Paris & IDF ⚡ Dépannage électricité en urgence <30min. 410 professionnels 24/7. Court-circuit, panne totale, installation. ☎️ 01 44 90 11 31"
 
   # Company Information
   companyName = "Allo Électricien"
@@ -28,7 +28,7 @@ enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
   whatsappMessage = "Bonjour, j'ai besoin d'un électricien en urgence"
 
   # SEO
-  keywords = "électricien urgence, dépannage électrique, panne électricité, électricien 24/7, réparation électrique, installation électrique"
+  keywords = "sos électricien, sos électricien paris, dépannage électricité paris, électricien urgence, dépannage électrique, panne électricité, électricien 24/7, réparation électrique, installation électrique, urgence électrique paris, électricien urgent paris"
 
   # Video Configuration
   [params.video]

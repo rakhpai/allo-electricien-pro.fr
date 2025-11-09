@@ -33,11 +33,11 @@
 }
 </script>
 
-<!-- LocalBusiness Schema with Enhanced Rating -->
+<!-- LocalBusiness Schema with Enhanced Rating and Emergency Service -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "@type": ["LocalBusiness", "EmergencyService", "Electrician"],
   "name": "{{ .Site.Params.companyName }}",
   "image": "{{ .Site.BaseURL }}images/logo_1b.svg",
   "description": "{{ .Site.Params.description }}",
@@ -45,6 +45,8 @@
   "url": "{{ .Site.BaseURL }}",
   "telephone": "{{ .Site.Params.mainPhone }}",
   "priceRange": "€€",
+  "availableLanguage": ["fr", "French"],
+  "knowsAbout": ["Dépannage électrique urgent", "SOS électricien", "Panne électrique", "Court-circuit", "Installation électrique"],
   "address": {
     "@type": "PostalAddress",
     "streetAddress": "{{ .Site.Params.address }}",
@@ -158,16 +160,30 @@
 {{ end }}
 
 {{- else }}
-<!-- LocalBusiness Schema for Individual Pages -->
+<!-- LocalBusiness Schema for Individual Pages with Emergency Service -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "@type": ["LocalBusiness", "EmergencyService", "Electrician"],
   "name": "{{ .Params.company | default .Site.Params.companyName }}",
-  {{- if .Params.images.og }}
+  "availableLanguage": ["fr", "French"],
+  "knowsAbout": ["Dépannage électrique urgent", "SOS électricien", "Intervention rapide"],
+  {{- $schemaOgImage := "" -}}
+  {{- $schemaHeroImage := "" -}}
+  {{- if .Params.cdnImages.og.jpg -}}
+    {{- $schemaOgImage = .Params.cdnImages.og.jpg -}}
+  {{- else if .Params.images.og -}}
+    {{- $schemaOgImage = printf "%simages/og/%s.jpg" .Site.BaseURL .Params.images.og -}}
+  {{- end -}}
+  {{- if .Params.cdnImages.hero.jpg -}}
+    {{- $schemaHeroImage = .Params.cdnImages.hero.jpg -}}
+  {{- else if .Params.images.hero -}}
+    {{- $schemaHeroImage = printf "%simages/hero/%s.jpg" .Site.BaseURL .Params.images.hero -}}
+  {{- end -}}
+  {{- if or $schemaOgImage $schemaHeroImage }}
   "image": [
-    "{{ .Site.BaseURL }}images/og/{{ .Params.images.og }}.jpg",
-    "{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.jpg"
+    {{- if $schemaOgImage }}"{{ $schemaOgImage }}"{{- if $schemaHeroImage }},{{ end }}{{ end }}
+    {{- if $schemaHeroImage }}"{{ $schemaHeroImage }}"{{ end }}
   ],
   {{- else }}
   "image": "{{ .Site.BaseURL }}images/logo_1.svg",
@@ -258,6 +274,10 @@
 {{ $thumbnailPath := "" }}
 {{ if $videoData.thumbnail_path }}
   {{ $thumbnailPath = printf "%s%s" .Site.BaseURL $videoData.thumbnail_path }}
+{{ else if .Params.cdnImages.video.jpg }}
+  {{ $thumbnailPath = .Params.cdnImages.video.jpg }}
+{{ else if .Params.cdnImages.hero.jpg }}
+  {{ $thumbnailPath = .Params.cdnImages.hero.jpg }}
 {{ else if .Params.images.hero }}
   {{ $thumbnailPath = printf "%simages/hero/%s.jpg" .Site.BaseURL .Params.images.hero }}
 {{ end }}
