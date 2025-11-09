@@ -1,23 +1,29 @@
 ---
-title: "⚡ Intervention Électricien Mary-sur-Marne | 24/7"
-slug: "mary-sur-marne"
-city: "MARY-SUR-MARNE"
-zipCode: "77440"
-department: "77"
-keyword: "Intervention Électricien Mary-sur-Marne"
-company: "ÉlecExpert77"
-phone: "01 44 90 11 31"
-phoneRaw: "0144901131"
-description: "Intervention électricien Mary-sur-Marne 77440 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Intervention Électricien Mary-sur-Marne | 24/7
+slug: mary-sur-marne
+city: MARY-SUR-MARNE
+zipCode: '77440'
+department: '77'
+keyword: Intervention Électricien Mary-sur-Marne
+company: ÉlecExpert77
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+description: >-
+  Intervention électricien Mary-sur-Marne 77440 ⚡ Panne, dépannage, réparation.
+  Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 49.0155891
   lng: 3.0284612
 images:
-  hero: "electricien-urgence-mary-sur-marne-77440-hero"
-  og: "electricien-mary-sur-marne-77440-og"
-  featured: "electricien-mary-sur-marne-77440-featured"
-  video: "electricien-mary-sur-marne-77440-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

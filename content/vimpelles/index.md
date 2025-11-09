@@ -1,23 +1,29 @@
 ---
-title: "⚡ Intervention Électricien Vimpelles | 24/7"
-slug: "vimpelles"
-city: "VIMPELLES"
-zipCode: "77520"
-department: "77"
-keyword: "Intervention Électricien Vimpelles"
-company: "ÉlecExpert77"
-phone: "01 44 90 11 31"
-phoneRaw: "0144901131"
-description: "Intervention électricien Vimpelles 77520 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Intervention Électricien Vimpelles | 24/7
+slug: vimpelles
+city: VIMPELLES
+zipCode: '77520'
+department: '77'
+keyword: Intervention Électricien Vimpelles
+company: ÉlecExpert77
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+description: >-
+  Intervention électricien Vimpelles 77520 ⚡ Panne, dépannage, réparation.
+  Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.4393818
   lng: 3.1653426
 images:
-  hero: "electricien-urgence-vimpelles-77520-hero"
-  og: "electricien-vimpelles-77520-og"
-  featured: "electricien-vimpelles-77520-featured"
-  video: "electricien-vimpelles-77520-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

@@ -1,23 +1,30 @@
 ---
-title: "⚡ Électricien Urgence ROCQUENCOURT | Dépannage 78150"
-slug: "rocquencourt"
-city: "ROCQUENCOURT"
-zipCode: "78150"
-department: "78"
-keyword: "Électricien Urgence ROCQUENCOURT"
-company: "ROCQUENCOURTExpert"
-phone: "06 44 98 58 58"
-phoneRaw: "0644985858"
-description: "Électricien d'urgence ROCQUENCOURT 78 ⚡ Court-circuit, panne, installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Électricien Urgence ROCQUENCOURT | Dépannage 78150
+slug: rocquencourt
+city: ROCQUENCOURT
+zipCode: '78150'
+department: '78'
+keyword: Électricien Urgence ROCQUENCOURT
+company: ROCQUENCOURTExpert
+phone: 06 44 98 58 58
+phoneRaw: 0644985858
+description: >-
+  Électricien d'urgence ROCQUENCOURT 78 ⚡ Court-circuit, panne, installation.
+  Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez
+  maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.833333
   lng: 2.1063004
 images:
-  hero: "elec-98-hero"
-  og: "elec-98-og"
-  featured: "elec-98-featured"
-  video: "elec-098-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

@@ -1,23 +1,30 @@
 ---
-title: "⚡ Intervention Électricien Chevry-en-Sereine | 24/7"
-slug: "chevry-en-sereine"
-city: "CHEVRY-EN-SEREINE"
-zipCode: "77710"
-department: "77"
-keyword: "Intervention Électricien Chevry-en-Sereine"
-company: "ÉlecExpert77"
-phone: "01 44 90 11 31"
-phoneRaw: "0144901131"
-description: "Intervention électricien Chevry-en-Sereine 77710 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Intervention Électricien Chevry-en-Sereine | 24/7
+slug: chevry-en-sereine
+city: CHEVRY-EN-SEREINE
+zipCode: '77710'
+department: '77'
+keyword: Intervention Électricien Chevry-en-Sereine
+company: ÉlecExpert77
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+description: >-
+  Intervention électricien Chevry-en-Sereine 77710 ⚡ Panne, dépannage,
+  réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez
+  maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.250884
   lng: 2.9353851
 images:
-  hero: "electricien-urgence-chevry-en-sereine-77710-hero"
-  og: "electricien-chevry-en-sereine-77710-og"
-  featured: "electricien-chevry-en-sereine-77710-featured"
-  video: "electricien-chevry-en-sereine-77710-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

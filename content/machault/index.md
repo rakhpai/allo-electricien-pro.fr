@@ -1,23 +1,29 @@
 ---
-title: "⚡ Intervention Électricien Machault | 24/7"
-slug: "machault"
-city: "MACHAULT"
-zipCode: "77133"
-department: "77"
-keyword: "Intervention Électricien Machault"
-company: "ÉlecExpert77"
-phone: "01 44 90 11 31"
-phoneRaw: "0144901131"
-description: "Intervention électricien Machault 77133 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Intervention Électricien Machault | 24/7
+slug: machault
+city: MACHAULT
+zipCode: '77133'
+department: '77'
+keyword: Intervention Électricien Machault
+company: ÉlecExpert77
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+description: >-
+  Intervention électricien Machault 77133 ⚡ Panne, dépannage, réparation.
+  Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.45919
   lng: 2.8140344
 images:
-  hero: "electricien-urgence-machault-77133-hero"
-  og: "electricien-machault-77133-og"
-  featured: "electricien-machault-77133-featured"
-  video: "electricien-machault-77133-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

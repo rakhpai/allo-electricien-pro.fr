@@ -1,23 +1,28 @@
 ---
-title: "Électricien dépannage Paris - Dans les plus brefs délais TEL: 06 44 60 80 61"
-slug: "paris"
-city: "PARIS"
-zipCode: "75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116"
-department: "75"
-keyword: "SOS Électricien Paris"
-company: "Watt75"
-phone: "06 44 64 46 99"
-phoneRaw: "0644644699"
-description: "Services d'urgence 24/24 7/7 Paris"
-niche: "électricité"
-kwSource: "électricité"
+title: 'Électricien dépannage Paris - Dans les plus brefs délais TEL: 06 44 60 80 61'
+slug: paris
+city: PARIS
+zipCode: >-
+  75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116
+department: '75'
+keyword: SOS Électricien Paris
+company: Watt75
+phone: 06 44 64 46 99
+phoneRaw: 0644644699
+description: Services d'urgence 24/24 7/7 Paris
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.8588897
   lng: 2.320041
 images:
-  hero: "electricien-urgence-paris-75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116-hero"
-  og: "electricien-paris-75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116-og"
-  featured: "electricien-paris-75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116-featured"
-  video: "electricien-paris-75001-75002-75003-75004-75005-75006-75007-75008-75009-75010-75011-75012-75013-75014-75015-75016-75017-75018-75019-75020-75116-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

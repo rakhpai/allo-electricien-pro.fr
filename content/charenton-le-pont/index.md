@@ -1,23 +1,30 @@
 ---
-title: "⚡ Électricien Urgence CHARENTON-LE-PONT | Dépannage 94220"
-slug: "charenton-le-pont"
-city: "CHARENTON-LE-PONT"
-zipCode: "94220"
-department: "94"
-keyword: "Électricien Urgence CHARENTON-LE-PONT"
-company: "CHARENTONLEPONTExpert"
-phone: "06 44 74 44 34"
-phoneRaw: "0644744434"
-description: "Électricien d'urgence CHARENTON-LE-PONT 94 ⚡ Court-circuit, panne, installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Électricien Urgence CHARENTON-LE-PONT | Dépannage 94220
+slug: charenton-le-pont
+city: CHARENTON-LE-PONT
+zipCode: '94220'
+department: '94'
+keyword: Électricien Urgence CHARENTON-LE-PONT
+company: CHARENTONLEPONTExpert
+phone: 06 44 74 44 34
+phoneRaw: '0644744434'
+description: >-
+  Électricien d'urgence CHARENTON-LE-PONT 94 ⚡ Court-circuit, panne,
+  installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.
+  Appelez maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.819985
   lng: 2.4150114
 images:
-  hero: "elec-93-hero"
-  og: "elec-93-og"
-  featured: "elec-93-featured"
-  video: "elec-093-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

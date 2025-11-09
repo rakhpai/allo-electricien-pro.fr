@@ -1,23 +1,29 @@
 ---
-title: "⚡ Électricien 24/7 Le Chesnay | Dépannage Rapide 78"
-slug: "le-chesnay"
-city: "LE CHESNAY"
-zipCode: "78150"
-department: "78"
-keyword: "Électricien 24/7 Le chesnay"
-company: "LightPro78"
-phone: "06 44 64 22 80"
-phoneRaw: "0644642280"
-description: "Électricien Le Chesnay 78150 ⚡ Installation, réparation, panne électrique. Intervention immédiate 24h/7j. Artisan certifié LightPro78. Devis gratuit!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Électricien 24/7 Le Chesnay | Dépannage Rapide 78
+slug: le-chesnay
+city: LE CHESNAY
+zipCode: '78150'
+department: '78'
+keyword: Électricien 24/7 Le chesnay
+company: LightPro78
+phone: 06 44 64 22 80
+phoneRaw: 0644642280
+description: >-
+  Électricien Le Chesnay 78150 ⚡ Installation, réparation, panne électrique.
+  Intervention immédiate 24h/7j. Artisan certifié LightPro78. Devis gratuit!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.8264842
   lng: 2.1257808
 images:
-  hero: "electricien-urgence-le-chesnay-78150-hero"
-  og: "electricien-le-chesnay-78150-og"
-  featured: "electricien-le-chesnay-78150-featured"
-  video: "electricien-le-chesnay-78150-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

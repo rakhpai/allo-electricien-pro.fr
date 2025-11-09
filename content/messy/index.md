@@ -1,23 +1,29 @@
 ---
-title: "⚡ Intervention Électricien Messy | 24/7"
-slug: "messy"
-city: "MESSY"
-zipCode: "77410"
-department: "77"
-keyword: "Intervention Électricien Messy"
-company: "ÉlecExpert77"
-phone: "01 44 90 11 31"
-phoneRaw: "0144901131"
-description: "Intervention électricien Messy 77410 ⚡ Panne, dépannage, réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Intervention Électricien Messy | 24/7
+slug: messy
+city: MESSY
+zipCode: '77410'
+department: '77'
+keyword: Intervention Électricien Messy
+company: ÉlecExpert77
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+description: >-
+  Intervention électricien Messy 77410 ⚡ Panne, dépannage, réparation. Urgence
+  24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.9652325
   lng: 2.6798167
 images:
-  hero: "electricien-urgence-messy-77410-hero"
-  og: "electricien-messy-77410-og"
-  featured: "electricien-messy-77410-featured"
-  video: "electricien-messy-77410-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

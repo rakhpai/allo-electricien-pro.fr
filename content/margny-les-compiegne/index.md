@@ -1,23 +1,30 @@
 ---
-title: "⚡ Intervention Électricien Margny-Les-Compiegne 60280"
-slug: "margny-les-compiegne"
-city: "MARGNY-LES-COMPIEGNE"
-zipCode: "60280"
-department: "78"
-keyword: "Intervention Électricien Margny-Les-Compiegne"
-company: "DépanneVolt78"
-phone: "01 44 90 11 31"
-phoneRaw: "0144901131"
-description: "Intervention électricien Margny-Les-Compiegne 60280 ⚡ Panne, installation, réparation. Dépannage 24h/7j garanti. Devis gratuit. DépanneVolt78 certifié. Appelez!"
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Intervention Électricien Margny-Les-Compiegne 60280
+slug: margny-les-compiegne
+city: MARGNY-LES-COMPIEGNE
+zipCode: '60280'
+department: '78'
+keyword: Intervention Électricien Margny-Les-Compiegne
+company: DépanneVolt78
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+description: >-
+  Intervention électricien Margny-Les-Compiegne 60280 ⚡ Panne, installation,
+  réparation. Dépannage 24h/7j garanti. Devis gratuit. DépanneVolt78 certifié.
+  Appelez!
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.7698937
   lng: 2.0381228
 images:
-  hero: "electricien-urgence-margny-les-compiegne-60280-hero"
-  og: "electricien-margny-les-compiegne-60280-og"
-  featured: "electricien-margny-les-compiegne-60280-featured"
-  video: "electricien-margny-les-compiegne-60280-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+

@@ -1,23 +1,30 @@
 ---
-title: "⚡ Urgence Électricien Villeneuve-Le-Roi | 24/7 94"
-slug: "villeneuve-le-roi"
-city: "VILLENEUVE-LE-ROI"
-zipCode: "94290"
-department: "94"
-keyword: "Urgence Électricien Villeneuve-Le-Roi"
-company: "RapidePower94"
-phone: "06 44 64 35 05"
-phoneRaw: "0644643505"
-description: "Urgence électricien Villeneuve-Le-Roi 94290 ⚡ Panne, installation, court-circuit. Dépannage 24h/7j. RapidePower94 certifié. Intervention immédiate. Devis gratuit."
-niche: "électricité"
-kwSource: "électricité"
+title: ⚡ Urgence Électricien Villeneuve-Le-Roi | 24/7 94
+slug: villeneuve-le-roi
+city: VILLENEUVE-LE-ROI
+zipCode: '94290'
+department: '94'
+keyword: Urgence Électricien Villeneuve-Le-Roi
+company: RapidePower94
+phone: 06 44 64 35 05
+phoneRaw: '0644643505'
+description: >-
+  Urgence électricien Villeneuve-Le-Roi 94290 ⚡ Panne, installation,
+  court-circuit. Dépannage 24h/7j. RapidePower94 certifié. Intervention
+  immédiate. Devis gratuit.
+niche: électricité
+kwSource: électricité
 coordinates:
   lat: 48.7402297
   lng: 2.4261305
 images:
-  hero: "electricien-urgence-villeneuve-le-roi-94290-hero"
-  og: "electricien-villeneuve-le-roi-94290-og"
-  featured: "electricien-villeneuve-le-roi-94290-featured"
-  video: "electricien-villeneuve-le-roi-94290-video"
+  hero: default-electricien-hero
+  og: default-electricien-og
+  featured: default-electricien-featured
+  video: default-electricien-video
 draft: false
+sitemap:
+  priority: 0.5
+  changefreq: monthly
 ---
+
