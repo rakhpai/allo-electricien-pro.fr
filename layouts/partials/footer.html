@@ -1,62 +1,227 @@
-<footer class="bg-gray-900 text-white py-12">
+<footer class="bg-gray-900 text-white py-16">
   <div class="container mx-auto px-4">
-    <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
-      <!-- Company Info -->
-      <div>
+    <!-- Main Footer Content - 5 Columns -->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 mb-12">
+
+      <!-- Column 1: Company Info & Trust Badges -->
+      <div class="lg:col-span-1">
         <div class="flex items-center gap-3 mb-4">
-          <img src="/images/logo_1b.svg" alt="{{ .Site.Params.companyName }} Logo" class="h-14 w-auto">
-          <h3 class="text-xl font-bold">{{ .Site.Params.companyName }}</h3>
+          <img src="/images/logo_1b.svg" alt="{{ .Site.Params.companyName }} Logo" class="h-12 w-auto">
+          <h3 class="text-lg font-bold">{{ .Site.Params.companyName }}</h3>
         </div>
-        <p class="text-gray-400 mb-2">{{ .Site.Params.description }}</p>
-        <p class="text-gray-400">
-          <strong>SIRET:</strong> {{ .Site.Params.siret }}<br>
-          <strong>{{ .Site.Params.rcs }}</strong><br>
-          Capital: {{ .Site.Params.capital }}
-        </p>
+        <p class="text-gray-400 text-sm mb-4">{{ .Site.Params.description }}</p>
+
+        <!-- Trust Badges -->
+        <div class="space-y-2 text-sm text-gray-400 mb-4">
+          <div class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+            </svg>
+            <span>408 Électriciens Certifiés</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+            </svg>
+            <span>Intervention < 30 min</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+            </svg>
+            <span>Disponible 24h/24 - 7j/7</span>
+          </div>
+          <div class="flex items-center gap-2">
+            <svg class="w-4 h-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+            </svg>
+            <span>Assurance Décennale</span>
+          </div>
+        </div>
+
+        <!-- Company Details -->
+        <div class="text-xs text-gray-500 space-y-1">
+          <p><strong>SIRET:</strong> {{ .Site.Params.siret }}</p>
+          <p><strong>{{ .Site.Params.rcs }}</strong></p>
+          <p>Capital: {{ .Site.Params.capital }}</p>
+        </div>
       </div>
 
-      <!-- Quick Links -->
+      <!-- Column 2: Quick Navigation -->
       <div>
-        <h4 class="text-lg font-bold mb-4">Navigation</h4>
-        <ul class="space-y-2">
-          <li><a href="/" class="text-gray-400 hover:text-white transition">Accueil</a></li>
-          <li><a href="/#directory" class="text-gray-400 hover:text-white transition">Annuaire</a></li>
-          <li><a href="/#services" class="text-gray-400 hover:text-white transition">Services</a></li>
-          <li><a href="/#coverage" class="text-gray-400 hover:text-white transition">Zones Couvertes</a></li>
+        <h4 class="text-lg font-bold mb-4 text-white">Navigation Rapide</h4>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/>
+            </svg>
+            Accueil
+          </a></li>
+          <li><a href="/annuaire/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+            </svg>
+            Annuaire Complet
+          </a></li>
+          <li><a href="/services/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/>
+            </svg>
+            Tous les Services
+          </a></li>
+          <li><a href="/tarifs/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1"/>
+            </svg>
+            Tarifs & Devis
+          </a></li>
+          <li><a href="/zones-intervention/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/>
+            </svg>
+            Zones Couvertes
+          </a></li>
+          <li><a href="/conseils/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            Guides & Conseils
+          </a></li>
         </ul>
       </div>
 
-      <!-- Services -->
+      <!-- Column 3: Services Deep Links -->
       <div>
-        <h4 class="text-lg font-bold mb-4">Nos Services</h4>
-        <ul class="space-y-2 text-gray-400">
-          <li>Dépannage électrique</li>
-          <li>Installation électrique</li>
-          <li>Réparation urgente</li>
-          <li>Mise aux normes</li>
-          <li>Intervention 24h/24</li>
+        <h4 class="text-lg font-bold mb-4 text-white">Nos Services</h4>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/depannage-electricite-paris/" class="text-gray-400 hover:text-white transition">⚡ Dépannage Urgence 24/7</a></li>
+          <li><a href="/services/installation-electrique-paris/" class="text-gray-400 hover:text-white transition">🔌 Installation Électrique</a></li>
+          <li><a href="/services/mise-aux-normes-paris/" class="text-gray-400 hover:text-white transition">✅ Mise aux Normes NF C 15-100</a></li>
+          <li><a href="/services/court-circuit-paris/" class="text-gray-400 hover:text-white transition">⚠️ Court-Circuit & Panne</a></li>
+          <li><a href="/sos-electricien/" class="text-gray-400 hover:text-white transition">🚨 SOS Électricien</a></li>
+          <li><a href="/electricien-paris/" class="text-gray-400 hover:text-white transition">📍 Électricien Paris</a></li>
+        </ul>
+
+        <h4 class="text-lg font-bold mt-6 mb-3 text-white">Paris</h4>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/paris-1er/" class="text-gray-400 hover:text-white transition">Paris 1er</a></li>
+          <li><a href="/paris-6e/" class="text-gray-400 hover:text-white transition">Paris 6e</a></li>
+          <li><a href="/paris-11e/" class="text-gray-400 hover:text-white transition">Paris 11e</a></li>
+          <li><a href="/paris-15e/" class="text-gray-400 hover:text-white transition">Paris 15e</a></li>
+          <li><a href="/paris-18e/" class="text-gray-400 hover:text-white transition">Paris 18e</a></li>
         </ul>
       </div>
 
-      <!-- Contact -->
+      <!-- Column 4: Paris & IDF Departments -->
       <div>
-        <h4 class="text-lg font-bold mb-4">Contact</h4>
-        <p class="text-gray-400 mb-4">
-          {{ .Site.Params.address }}<br>
-          {{ .Site.Params.postalCode }} {{ .Site.Params.city }}
-        </p>
-        <a href="tel:{{ .Site.Params.mainPhoneRaw }}" class="inline-block bg-emergency hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg transition">
-          {{ .Site.Params.mainPhone }}
-        </a>
+        <h4 class="text-lg font-bold mb-4 text-white">Île-de-France</h4>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/electricien/75/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">75</span>
+            Paris (33)
+          </a></li>
+          <li><a href="/electricien/77/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">77</span>
+            Seine-et-Marne (70)
+          </a></li>
+          <li><a href="/electricien/78/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">78</span>
+            Yvelines (72)
+          </a></li>
+          <li><a href="/electricien/91/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">91</span>
+            Essonne (67)
+          </a></li>
+          <li><a href="/electricien/92/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">92</span>
+            Hauts-de-Seine (33)
+          </a></li>
+          <li><a href="/electricien/93/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">93</span>
+            Seine-Saint-Denis (38)
+          </a></li>
+          <li><a href="/electricien/94/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">94</span>
+            Val-de-Marne (43)
+          </a></li>
+          <li><a href="/electricien/95/" class="text-gray-400 hover:text-white transition flex items-center gap-2">
+            <span class="bg-primary/20 text-primary px-2 py-0.5 rounded text-xs font-bold">95</span>
+            Val-d'Oise (52)
+          </a></li>
+        </ul>
       </div>
+
+      <!-- Column 5: Contact & Resources -->
+      <div>
+        <h4 class="text-lg font-bold mb-4 text-white">Contact Urgence</h4>
+
+        <div class="mb-6">
+          <a href="tel:{{ .Site.Params.mainPhoneRaw }}" class="inline-flex items-center justify-center gap-2 bg-emergency hover:bg-red-700 text-white font-bold py-3 px-6 rounded-lg transition w-full shadow-lg">
+            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+            </svg>
+            {{ .Site.Params.mainPhone }}
+          </a>
+          <p class="text-xs text-gray-500 text-center mt-2">Appel gratuit 24h/24</p>
+        </div>
+
+        <div class="text-sm text-gray-400 space-y-1 mb-4">
+          <p class="font-semibold text-white">Adresse</p>
+          <p>{{ .Site.Params.address }}</p>
+          <p>{{ .Site.Params.postalCode }} {{ .Site.Params.city }}</p>
+        </div>
+
+        <h4 class="text-md font-bold mb-3 text-white">Ressources</h4>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/conseils/disjoncteur-qui-saute-sos-ou-reparation/" class="text-gray-400 hover:text-white transition">Disjoncteur qui saute</a></li>
+          <li><a href="/conseils/prix-depannage-electricite-urgence-paris/" class="text-gray-400 hover:text-white transition">Prix dépannage urgence</a></li>
+          <li><a href="/conseils/normes-electriques-paris-loi/" class="text-gray-400 hover:text-white transition">Normes électriques Paris</a></li>
+          <li><a href="/conseils/5-signes-urgence-electrique-paris/" class="text-gray-400 hover:text-white transition">5 signes d'urgence</a></li>
+        </ul>
+      </div>
+
     </div>
 
-    <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-      <p>&copy; {{ now.Year }} {{ .Site.Params.companyName }}. Tous droits réservés.</p>
-      <p class="mt-2 text-sm">
-        <a href="/mentions-legales/" class="hover:text-white transition">Mentions Légales</a> |
-        <a href="/politique-confidentialite/" class="hover:text-white transition">Politique de Confidentialité</a>
-      </p>
+    <!-- Bottom Bar -->
+    <div class="border-t border-gray-800 pt-8">
+      <div class="flex flex-col md:flex-row justify-between items-center gap-4">
+        <div class="text-center md:text-left">
+          <p class="text-gray-400 text-sm">&copy; {{ now.Year }} {{ .Site.Params.companyName }}. Tous droits réservés.</p>
+          <p class="text-gray-500 text-xs mt-1">Site développé pour l'optimisation SEO local - 408 électriciens certifiés en Île-de-France</p>
+        </div>
+        <div class="flex flex-wrap justify-center gap-4 text-sm">
+          <a href="/mentions-legales/" class="text-gray-400 hover:text-white transition">Mentions Légales</a>
+          <span class="text-gray-700">|</span>
+          <a href="/politique-confidentialite/" class="text-gray-400 hover:text-white transition">Politique de Confidentialité</a>
+          <span class="text-gray-700">|</span>
+          <a href="/plan-site/" class="text-gray-400 hover:text-white transition">Plan du Site</a>
+        </div>
+      </div>
+
+      <!-- Rating Badge -->
+      <div class="mt-6 text-center">
+        <div class="inline-flex items-center gap-2 bg-gray-800 px-4 py-2 rounded-lg">
+          <div class="flex gap-1">
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            </svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            </svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            </svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            </svg>
+            <svg class="w-5 h-5 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+              <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+            </svg>
+          </div>
+          <span class="text-white font-bold">4.9/5</span>
+          <span class="text-gray-400 text-sm">(2 450+ avis)</span>
+        </div>
+      </div>
     </div>
   </div>
 </footer>

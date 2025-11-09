@@ -1,23 +1,60 @@
 {{ define "main" }}
-<!-- Breadcrumb -->
-<div class="bg-gray-100 border-b border-gray-200 py-3">
-  <div class="container mx-auto px-4">
-    <nav class="flex items-center space-x-2 text-sm">
-      <a href="/" class="text-primary hover:underline">Accueil</a>
-      <span class="text-gray-400">/</span>
-      <a href="/electricien" class="text-primary hover:underline">Électricien</a>
-      {{ if and .Params.department (ne .Params.department "null") }}
-      <span class="text-gray-400">/</span>
-      <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
-      {{ end }}
-      <span class="text-gray-400">/</span>
-      <span class="text-gray-600">{{ .Params.city }}</span>
-    </nav>
-  </div>
-</div>
+{{/* Detect if video exists for this page */}}
+{{ $hasVideo := false }}
+{{ if and .Params.slug .Site.Data.commune_videos }}
+  {{ $videoData := index .Site.Data.commune_videos .Params.slug }}
+  {{ $videoConfig := .Site.Params.video }}
+  {{ if and $videoData $videoConfig.enabled }}
+    {{ $hasVideo = true }}
+  {{ end }}
+{{ end }}
 
-<!-- Video Section (at top for maximum visibility) -->
-{{ partial "video-player.html" . }}
+{{ if $hasVideo }}
+  {{/* LAYOUT WITH VIDEO: Video → Breadcrumb → Hero */}}
+
+  <!-- Video Section (first, wrapper has mt-24 to clear fixed navbar) -->
+  <div class="mt-24">
+    {{ partial "video-player.html" . }}
+  </div>
+
+  <!-- Breadcrumb (no top margin, video provides clearance) -->
+  <div class="bg-gray-100 border-b border-gray-200 py-3">
+    <div class="container mx-auto px-4">
+      <nav class="flex items-center space-x-2 text-sm">
+        <a href="/" class="text-primary hover:underline">Accueil</a>
+        <span class="text-gray-400">/</span>
+        <a href="/electricien" class="text-primary hover:underline">Électricien</a>
+        {{ if and .Params.department (ne .Params.department "null") }}
+        <span class="text-gray-400">/</span>
+        <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
+        {{ end }}
+        <span class="text-gray-400">/</span>
+        <span class="text-gray-600">{{ .Params.city }}</span>
+      </nav>
+    </div>
+  </div>
+
+{{ else }}
+  {{/* LAYOUT WITHOUT VIDEO: Breadcrumb → Hero */}}
+
+  <!-- Breadcrumb (with mt-24 to clear fixed navbar) -->
+  <div class="bg-gray-100 border-b border-gray-200 py-3 mt-24">
+    <div class="container mx-auto px-4">
+      <nav class="flex items-center space-x-2 text-sm">
+        <a href="/" class="text-primary hover:underline">Accueil</a>
+        <span class="text-gray-400">/</span>
+        <a href="/electricien" class="text-primary hover:underline">Électricien</a>
+        {{ if and .Params.department (ne .Params.department "null") }}
+        <span class="text-gray-400">/</span>
+        <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
+        {{ end }}
+        <span class="text-gray-400">/</span>
+        <span class="text-gray-600">{{ .Params.city }}</span>
+      </nav>
+    </div>
+  </div>
+
+{{ end }}
 
 <!-- Hero Section -->
 <section class="relative bg-gradient-to-r from-primary to-blue-700 text-white py-12 overflow-hidden">
@@ -98,212 +135,173 @@
               Besoin d'un électricien d'urgence à {{ .Params.city }} ? {{ .Params.company }} intervient rapidement pour tous vos dépannages électriques 24h/24 et 7j/7.
             </p>
 
-            <h3 class="text-xl font-bold text-gray-900 mb-3">Nos Services</h3>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-6">
-              <div class="flex items-start gap-3">
-                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+            {{ .Content }}
+          </div>
+
+          <!-- Services Grid -->
+          <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg shadow-lg p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6">
+              Nos Interventions d'Urgence
+            </h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+              <div class="flex items-start gap-3 bg-white p-4 rounded-lg shadow-sm transition-all duration-300 hover:shadow-md hover:scale-105">
+                <svg class="w-6 h-6 text-emergency flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
                 </svg>
                 <div>
-                  <h4 class="font-bold text-gray-900">Dépannage Électrique</h4>
-                  <p class="text-sm text-gray-600">Intervention rapide en cas de panne</p>
+                  <h3 class="font-semibold text-gray-900">Panne de courant</h3>
+                  <p class="text-sm text-gray-600">Diagnostic et réparation rapide</p>
                 </div>
               </div>
-              <div class="flex items-start gap-3">
-                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+              <div class="flex items-start gap-3 bg-white p-4 rounded-lg shadow-sm transition-all duration-300 hover:shadow-md hover:scale-105">
+                <svg class="w-6 h-6 text-emergency flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
                 </svg>
                 <div>
-                  <h4 class="font-bold text-gray-900">Installation Électrique</h4>
-                  <p class="text-sm text-gray-600">Pose de prises, interrupteurs, luminaires</p>
+                  <h3 class="font-semibold text-gray-900">Disjoncteur qui saute</h3>
+                  <p class="text-sm text-gray-600">Identification et résolution</p>
                 </div>
               </div>
-              <div class="flex items-start gap-3">
-                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+              <div class="flex items-start gap-3 bg-white p-4 rounded-lg shadow-sm transition-all duration-300 hover:shadow-md hover:scale-105">
+                <svg class="w-6 h-6 text-emergency flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 18.657A8 8 0 016.343 7.343S7 9 9 10c0-2 .5-5 2.986-7C14 5 16.09 5.777 17.656 7.343A7.975 7.975 0 0120 13a7.975 7.975 0 01-2.343 5.657z"/>
                 </svg>
                 <div>
-                  <h4 class="font-bold text-gray-900">Mise aux Normes</h4>
-                  <p class="text-sm text-gray-600">Conformité électrique NF C 15-100</p>
+                  <h3 class="font-semibold text-gray-900">Court-circuit</h3>
+                  <p class="text-sm text-gray-600">Intervention sécurisée</p>
                 </div>
               </div>
-              <div class="flex items-start gap-3">
-                <svg class="w-6 h-6 text-primary flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+              <div class="flex items-start gap-3 bg-white p-4 rounded-lg shadow-sm transition-all duration-300 hover:shadow-md hover:scale-105">
+                <svg class="w-6 h-6 text-emergency flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/>
                 </svg>
                 <div>
-                  <h4 class="font-bold text-gray-900">Réparation Urgente</h4>
-                  <p class="text-sm text-gray-600">Court-circuit, disjoncteur qui saute</p>
+                  <h3 class="font-semibold text-gray-900">Tableau électrique</h3>
+                  <p class="text-sm text-gray-600">Mise aux normes urgente</p>
                 </div>
               </div>
             </div>
+          </div>
 
-            <h3 class="text-xl font-bold text-gray-900 mb-3">Pourquoi Nous Choisir ?</h3>
-            <ul class="space-y-2 mb-6">
-              <li class="flex items-center gap-2">
-                <span class="text-primary font-bold">⚡</span>
-                <span class="text-gray-700">Intervention en moins de 30 minutes à {{ .Params.city }}</span>
+          <!-- Why Choose Us -->
+          <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+            <h2 class="text-2xl font-bold text-gray-900 mb-6">
+              Pourquoi choisir {{ .Params.company }} ?
+            </h2>
+            <ul class="space-y-4">
+              <li class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-green-500 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <strong class="text-gray-900">Intervention rapide :</strong>
+                  <span class="text-gray-700"> Délai moyen de 30 minutes sur {{ .Params.city }}</span>
+                </div>
               </li>
-              <li class="flex items-center gap-2">
-                <span class="text-primary font-bold">🕐</span>
-                <span class="text-gray-700">Service disponible 24h/24, 7j/7, jours fériés inclus</span>
+              <li class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-green-500 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <strong class="text-gray-900">Disponibilité 24/7 :</strong>
+                  <span class="text-gray-700"> Joignables jour et nuit, week-ends et jours fériés</span>
+                </div>
               </li>
-              <li class="flex items-center gap-2">
-                <span class="text-primary font-bold">✓</span>
-                <span class="text-gray-700">Électriciens qualifiés et certifiés</span>
+              <li class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-green-500 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <strong class="text-gray-900">Électriciens qualifiés :</strong>
+                  <span class="text-gray-700"> Certification Qualifelec et garantie décennale</span>
+                </div>
               </li>
-              <li class="flex items-center gap-2">
-                <span class="text-primary font-bold">💰</span>
-                <span class="text-gray-700">Devis gratuit avant intervention</span>
-              </li>
-              <li class="flex items-center gap-2">
-                <span class="text-primary font-bold">🔧</span>
-                <span class="text-gray-700">Équipement professionnel et matériel de qualité</span>
+              <li class="flex items-start gap-3">
+                <svg class="w-6 h-6 text-green-500 flex-shrink-0 mt-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+                </svg>
+                <div>
+                  <strong class="text-gray-900">Devis gratuit :</strong>
+                  <span class="text-gray-700"> Transparence totale sur les tarifs</span>
+                </div>
               </li>
             </ul>
-          </div>
-
-          <!-- Nearby Electricians -->
-          {{ $electricians := index .Site.Data.commune_electricians .Params.slug }}
-          {{ $electriciansWithAddress := slice }}
-          {{ range $electricians }}
-            {{ if .address }}
-              {{ $electriciansWithAddress = $electriciansWithAddress | append . }}
-            {{ end }}
-          {{ end }}
-          {{ if $electriciansWithAddress }}
-          <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
-            <h3 class="text-2xl font-bold text-gray-900 mb-2">Électriciens Certifiés à Proximité</h3>
-            <p class="text-gray-600 mb-6">Professionnels vérifiés intervenant dans votre secteur</p>
-
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {{ range $index, $elec := $electriciansWithAddress }}
-              <div class="bg-gradient-to-br from-blue-50 to-white border-2 border-gray-200 rounded-xl p-6 hover:border-primary hover:shadow-2xl transition-all duration-300 hover:-translate-y-1 relative">
-                <!-- Header -->
-                <div class="flex items-start justify-between mb-4">
-                  <div class="flex-1">
-                    <div class="flex items-center gap-2 mb-1">
-                      <h4 class="font-bold text-gray-900 text-xl">{{ $elec.name }}</h4>
-                      {{ if $elec.verified }}
-                      <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold bg-blue-100 text-primary" title="Professionnel vérifié">
-                        <svg class="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20">
-                          <path fill-rule="evenodd" d="M6.267 3.455a3.066 3.066 0 001.745-.723 3.066 3.066 0 013.976 0 3.066 3.066 0 001.745.723 3.066 3.066 0 012.812 2.812c.051.643.304 1.254.723 1.745a3.066 3.066 0 010 3.976 3.066 3.066 0 00-.723 1.745 3.066 3.066 0 01-2.812 2.812 3.066 3.066 0 00-1.745.723 3.066 3.066 0 01-3.976 0 3.066 3.066 0 00-1.745-.723 3.066 3.066 0 01-2.812-2.812 3.066 3.066 0 00-.723-1.745 3.066 3.066 0 010-3.976 3.066 3.066 0 00.723-1.745 3.066 3.066 0 012.812-2.812zm7.44 5.252a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
-                        </svg>
-                        Vérifié
-                      </span>
-                      {{ end }}
-                    </div>
-                    {{ if $elec.rating }}
-                    <div class="flex items-center gap-1 mb-2">
-                      <span class="text-accent text-xl">★</span>
-                      <span class="font-bold text-gray-900">{{ $elec.rating }}</span>
-                      <span class="text-sm text-gray-500">({{ $elec.reviews }} avis)</span>
-                    </div>
-                    {{ end }}
-                  </div>
-                  <div class="bg-primary text-white rounded-full w-10 h-10 flex items-center justify-center font-bold text-lg flex-shrink-0">
-                    {{ add $index 1 }}
-                  </div>
-                </div>
-
-                <!-- Location Info -->
-                <div class="mb-4 pb-4 border-b border-gray-200">
-                  <div class="flex items-center gap-2 text-sm text-gray-600 mb-2">
-                    <svg class="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
-                    </svg>
-                    <span class="font-semibold text-primary">{{ $elec.distance }} km</span>
-                    {{ if $elec.city }}
-                    <span>• {{ $elec.city }}</span>
-                    {{ end }}
-                  </div>
-                  {{ if $elec.address }}
-                  <p class="text-sm text-gray-600 ml-6">
-                    {{ $elec.address }}
-                  </p>
-                  {{ end }}
-                </div>
-
-                <!-- Services -->
-                {{ if $elec.services }}
-                <div class="mb-4">
-                  <div class="flex flex-wrap gap-2">
-                    {{ range first 3 $elec.services }}
-                    <span class="inline-flex items-center px-3 py-1 rounded-full text-xs font-medium bg-blue-100 text-primary">
-                      {{ . }}
-                    </span>
-                    {{ end }}
-                  </div>
-                </div>
-                {{ end }}
-
-                <!-- Contact -->
-                <div class="space-y-3">
-                  <a href="tel:{{ $elec.phone }}"
-                     class="block w-full bg-primary hover:bg-blue-700 text-white font-bold py-3.5 px-4 rounded-lg text-center transition transform hover:scale-105 flex items-center justify-center gap-2 shadow-md hover:shadow-lg">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
-                    </svg>
-                    <span>{{ $elec.phone }}</span>
-                  </a>
-                </div>
-              </div>
-              {{ end }}
-            </div>
-
-            <p class="text-xs text-gray-500 mt-6 text-center">
-              ℹ️ Ces professionnels sont indépendants et référencés automatiquement par proximité géographique.
-            </p>
-          </div>
-          {{ end }}
-
-          <!-- Map -->
-          <div class="bg-white rounded-lg shadow-lg p-8">
-            <h3 class="text-xl font-bold text-gray-900 mb-4">Zone d'Intervention</h3>
-            <div id="map" class="h-96 rounded-lg border border-gray-200"></div>
           </div>
         </div>
 
         <!-- Sidebar -->
         <div class="lg:col-span-1">
-          <!-- Contact Card -->
-          <div class="bg-gradient-to-br from-primary to-blue-700 text-white rounded-lg shadow-lg p-6 mb-6 sticky top-20">
-            <h3 class="text-xl font-bold mb-4">Urgence Électrique ?</h3>
-            <p class="mb-4 text-blue-100">Contactez-nous immédiatement pour une intervention rapide à {{ .Params.city }}.</p>
-            <a href="tel:{{ .Params.phoneRaw }}"
-               class="block w-full bg-emergency hover:bg-red-700 text-white font-bold py-4 px-6 rounded-lg text-center text-xl mb-4 transition transform hover:scale-105">
-              {{ .Params.phone }}
-            </a>
-            <div class="space-y-2 text-sm text-blue-100">
-              <p class="flex items-center gap-2">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
-                </svg>
-                Disponible 24h/24
-              </p>
-              <p class="flex items-center gap-2">
-                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
-                </svg>
-                Intervention < 30min
-              </p>
+          <!-- Emergency Call Box -->
+          <div class="bg-gradient-to-br from-emergency to-red-700 text-white rounded-lg shadow-2xl p-6 mb-8 sticky top-24 transform transition-all duration-300 hover:scale-105">
+            <div class="text-center">
+              <svg class="w-12 h-12 mx-auto mb-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+              </svg>
+              <h3 class="text-xl font-bold mb-2">Urgence Électrique ?</h3>
+              <p class="text-sm mb-4 text-red-100">Intervention en moins de 30 minutes</p>
+              <a href="tel:{{ .Params.phoneRaw }}"
+                 class="block bg-white text-emergency font-bold py-3 px-6 rounded-lg text-lg shadow-lg transform transition-all duration-300 hover:scale-105 hover:shadow-xl">
+                {{ .Params.phone }}
+              </a>
+              <p class="text-xs mt-3 text-red-100">Appel gratuit - 24h/24 - 7j/7</p>
             </div>
           </div>
 
-          <!-- Company Info -->
-          <div class="bg-white rounded-lg shadow-lg p-6">
-            <h4 class="font-bold text-gray-900 mb-3">{{ .Params.company }}</h4>
-            <div class="space-y-2 text-sm text-gray-600">
-              <p><strong>SIRET:</strong> {{ .Site.Params.siret }}</p>
-              <p><strong>{{ .Site.Params.rcs }}</strong></p>
-              <p><strong>Capital:</strong> {{ .Site.Params.capital }}</p>
-              <p class="pt-2 border-t border-gray-200">
-                {{ .Site.Params.address }}<br>
-                {{ .Site.Params.postalCode }} {{ .Site.Params.city }}
-              </p>
+          <!-- Service Area -->
+          <div class="bg-white rounded-lg shadow-lg p-6 mb-8">
+            <h3 class="text-lg font-bold text-gray-900 mb-4 flex items-center gap-2">
+              <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+              </svg>
+              Zone d'intervention
+            </h3>
+            <p class="text-gray-700 text-sm mb-4">
+              Nous intervenons à {{ .Params.city }} ({{ .Params.zipCode }}) et dans les communes environnantes.
+            </p>
+
+            {{/* Map placeholder or nearby cities if available */}}
+            {{ if .Params.nearbyCities }}
+            <div class="border-t pt-4">
+              <p class="text-xs font-semibold text-gray-600 mb-2">Communes à proximité :</p>
+              <div class="flex flex-wrap gap-2">
+                {{ range first 6 .Params.nearbyCities }}
+                <span class="text-xs bg-blue-50 text-primary px-2 py-1 rounded">{{ . }}</span>
+                {{ end }}
+              </div>
             </div>
+            {{ end }}
+          </div>
+
+          <!-- Trust Elements -->
+          <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg shadow-lg p-6">
+            <h3 class="text-lg font-bold text-gray-900 mb-4">Nos garanties</h3>
+            <ul class="space-y-3 text-sm">
+              <li class="flex items-center gap-2">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                </svg>
+                <span class="text-gray-700">Garantie décennale</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                </svg>
+                <span class="text-gray-700">Assurance RC Pro</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                </svg>
+                <span class="text-gray-700">Certification Qualifelec</span>
+              </li>
+              <li class="flex items-center gap-2">
+                <svg class="w-5 h-5 text-green-500 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                </svg>
+                <span class="text-gray-700">Devis gratuit et détaillé</span>
+              </li>
+            </ul>
           </div>
         </div>
       </div>
@@ -311,21 +309,53 @@
   </div>
 </section>
 
-<!-- Initialize Map -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const lat = {{ .Params.coordinates.lat }};
-    const lng = {{ .Params.coordinates.lng }};
+{{ if .Params.electricians }}
+<!-- Electricians Section -->
+<section class="py-12 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">
+        Nos électriciens à {{ .Params.city }}
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ range .Params.electricians }}
+        <div class="bg-white rounded-lg shadow-lg p-6 transition-all duration-300 hover:shadow-xl hover:scale-105">
+          <h3 class="text-xl font-bold text-gray-900 mb-2">{{ .name }}</h3>
+          {{ if .specialties }}
+          <p class="text-sm text-gray-600 mb-4">{{ delimit .specialties ", " }}</p>
+          {{ end }}
+          <a href="tel:{{ $.Params.phoneRaw }}"
+             class="inline-block bg-primary hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded transition-colors duration-300">
+            Contacter
+          </a>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
 
-    const map = L.map('map').setView([lat, lng], 14);
+{{ if .Params.zipCodesNearby }}
+<!-- Nearby Cities Section -->
+<section class="py-12 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl font-bold text-gray-900 mb-8 text-center">
+        Villes à proximité de {{ .Params.city }}
+      </h2>
+      <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+        {{ range .Params.zipCodesNearby }}
+        <a href="/{{ .slug }}/"
+           class="bg-gray-50 hover:bg-primary hover:text-white text-gray-900 rounded-lg p-4 text-center transition-all duration-300 shadow hover:shadow-lg">
+          <div class="font-semibold">{{ .name }}</div>
+          <div class="text-sm opacity-75">{{ .zipCode }}</div>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
 
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-    }).addTo(map);
-
-    L.marker([lat, lng]).addTo(map)
-      .bindPopup('<b>{{ .Params.company }}</b><br>{{ .Params.city }}')
-      .openPopup();
-  });
-</script>
 {{ end }}

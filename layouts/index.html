@@ -9,7 +9,7 @@
   <div class="container mx-auto px-4">
     <div class="max-w-6xl mx-auto">
       <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-        Services SOS Électricien Paris & IDF
+        Urgence Électricité Paris : Dépannage & Installation 24h/24
       </h2>
       <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
         <a href="/depannage-electricite-paris/" class="block bg-white rounded-lg shadow-lg p-8 hover:shadow-2xl transition group">
@@ -50,26 +50,233 @@
   </div>
 </section>
 
+<!-- Paris Arrondissements Section -->
+<section id="paris-arrondissements" class="py-16 bg-gradient-to-br from-blue-50 to-white border-t border-gray-100">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          Électricien Paris - Tous les Arrondissements
+        </h2>
+        <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+          Intervention rapide dans les 20 arrondissements de Paris. Nos électriciens certifiés sont disponibles 24h/24 pour vos urgences électriques partout dans la capitale.
+        </p>
+      </div>
+
+      <!-- Paris Arrondissements Grid -->
+      <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 mb-8">
+        {{ $parisArrondissements := slice }}
+        {{ range .Site.Data.sites.sites }}
+          {{ if hasPrefix .zipCode "75" }}
+            {{ $arrNum := substr .zipCode 3 2 }}
+            {{ $arrNumInt := 0 }}
+            {{ if eq (substr $arrNum 0 1) "0" }}
+              {{ $arrNumInt = int (substr $arrNum 1 1) }}
+            {{ else }}
+              {{ $arrNumInt = int $arrNum }}
+            {{ end }}
+            {{ if and (ge $arrNumInt 1) (le $arrNumInt 20) }}
+              {{ $parisArrondissements = $parisArrondissements | append (dict "num" $arrNum "url" .url "city" .city) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ range $parisArrondissements | first 20 }}
+        <a href="{{ .url }}"
+           class="group relative bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-6 border-2 border-transparent hover:border-primary overflow-hidden">
+
+          <!-- Hover gradient effect -->
+          <div class="absolute inset-0 bg-gradient-to-br from-primary/5 to-blue-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+
+          <!-- Content -->
+          <div class="relative z-10">
+            <div class="text-4xl font-black text-gray-200 group-hover:text-primary/20 transition-colors duration-300 mb-2">
+              {{ strings.TrimLeft "0" .num }}
+            </div>
+            <div class="text-sm font-semibold text-gray-900 group-hover:text-primary transition-colors duration-300">
+              Paris {{ strings.TrimLeft "0" .num }}{{ if eq .num "01" }}er{{ else }}e{{ end }}
+            </div>
+            <div class="flex items-center gap-1 mt-2 text-xs text-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <span>Voir les électriciens</span>
+              <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+      <!-- CTA to Paris main page -->
+      <div class="text-center">
+        <a href="/electricien-paris/"
+           class="inline-flex items-center gap-2 bg-primary hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-xl text-lg shadow-lg transform transition-all duration-300 hover:scale-105">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+          </svg>
+          Voir tous les électriciens à Paris
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Cornerstone Content Showcase -->
+<section id="cornerstone-content" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          Ressources & Services Électricité
+        </h2>
+        <p class="text-lg text-gray-600">
+          Guides complets, tarifs transparents et zones d'intervention pour tous vos besoins électriques
+        </p>
+      </div>
+
+      <!-- Cornerstone Cards Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+
+        <!-- Card 1: Annuaire -->
+        <a href="/annuaire/"
+           class="group bg-gradient-to-br from-blue-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-primary">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center group-hover:bg-primary/20 transition-colors">
+              <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary transition-colors">
+            Annuaire Complet
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Trouvez l'électricien le plus proche dans 408 communes d'Île-de-France.
+          </p>
+          <span class="inline-flex items-center gap-1 text-primary font-semibold">
+            Parcourir l'annuaire
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 2: Services -->
+        <a href="/services/"
+           class="group bg-gradient-to-br from-green-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-green-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-green-600/10 rounded-full flex items-center justify-center group-hover:bg-green-600/20 transition-colors">
+              <svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-green-600 transition-colors">
+            Tous nos Services
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Dépannage, installation, mise aux normes : découvrez nos prestations.
+          </p>
+          <span class="inline-flex items-center gap-1 text-green-600 font-semibold">
+            Voir les services
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 3: Tarifs -->
+        <a href="/tarifs/"
+           class="group bg-gradient-to-br from-yellow-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-yellow-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-yellow-600/10 rounded-full flex items-center justify-center group-hover:bg-yellow-600/20 transition-colors">
+              <svg class="w-8 h-8 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-yellow-600 transition-colors">
+            Tarifs & Devis
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Grilles tarifaires transparentes et devis gratuit sous 24h.
+          </p>
+          <span class="inline-flex items-center gap-1 text-yellow-600 font-semibold">
+            Consulter les tarifs
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 4: Zones d'Intervention -->
+        <a href="/zones-intervention/"
+           class="group bg-gradient-to-br from-red-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-red-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-red-600/10 rounded-full flex items-center justify-center group-hover:bg-red-600/20 transition-colors">
+              <svg class="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-red-600 transition-colors">
+            Zones d'Intervention
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Paris & 8 départements IDF couverts. Voir la carte complète.
+          </p>
+          <span class="inline-flex items-center gap-1 text-red-600 font-semibold">
+            Voir les zones
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
 <!-- Directory Section -->
 <section id="directory" class="py-16 bg-white">
   <div class="container mx-auto px-4">
     <div class="max-w-6xl mx-auto">
       <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
-        Trouvez Votre Électricien d'Urgence
+        Annuaire Électricien Paris & Île-de-France - 408 Professionnels
       </h2>
       <p class="text-center text-gray-600 mb-12 text-lg">
         {{ .Site.Data.sites.total_sites }} électriciens dans {{ len .Site.Data.sites.departments }} départements
       </p>
 
-      <!-- Department Tabs -->
+      <!-- Department Tabs with Enhanced Labels -->
       <div class="mb-8">
         <div class="flex flex-wrap gap-2 justify-center">
-          <button class="dept-filter-btn active bg-primary text-white px-6 py-2 rounded-full font-semibold hover:bg-blue-700 transition" data-dept="all">
-            Tous ({{ .Site.Data.sites.total_sites }})
+          <button class="dept-filter-btn active bg-primary text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition-all duration-300 shadow-md hover:shadow-lg" data-dept="all">
+            <span class="flex items-center gap-2">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM4.332 8.027a6.012 6.012 0 011.912-2.706C6.512 5.73 6.974 6 7.5 6A1.5 1.5 0 019 7.5V8a2 2 0 004 0 2 2 0 011.523-1.943A5.977 5.977 0 0116 10c0 .34-.028.675-.083 1H15a2 2 0 00-2 2v2.197A5.973 5.973 0 0110 16v-2a2 2 0 00-2-2 2 2 0 01-2-2 2 2 0 00-1.668-1.973z"/>
+              </svg>
+              Tous les départements
+              <span class="bg-white/20 px-2 py-0.5 rounded-full text-sm">{{ .Site.Data.sites.total_sites }}</span>
+            </span>
           </button>
+
+          {{ $deptNames := dict "75" "Paris" "77" "Seine-et-Marne" "78" "Yvelines" "91" "Essonne" "92" "Hauts-de-Seine" "93" "Seine-Saint-Denis" "94" "Val-de-Marne" "95" "Val-d'Oise" }}
+
           {{ range .Site.Data.sites.departments }}
-          <button class="dept-filter-btn bg-gray-200 text-gray-700 px-6 py-2 rounded-full font-semibold hover:bg-gray-300 transition" data-dept="{{ . }}">
-            {{ . }} ({{ index $.Site.Data.sites.stats . }})
+          <button class="dept-filter-btn bg-gray-200 text-gray-700 px-6 py-3 rounded-full font-semibold hover:bg-gray-300 transition-all duration-300 shadow-md hover:shadow-lg" data-dept="{{ . }}">
+            <span class="flex items-center gap-2">
+              {{ . }} - {{ index $deptNames . }}
+              <span class="bg-gray-300 px-2 py-0.5 rounded-full text-sm">{{ index $.Site.Data.sites.stats . }}</span>
+            </span>
           </button>
           {{ end }}
         </div>
@@ -134,7 +341,7 @@
   <div class="container mx-auto px-4">
     <div class="max-w-6xl mx-auto">
       <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
-        Dépannage Électricité Urgence - Couverture Île-de-France
+        Zones d'Intervention Urgence Électricité - Paris & 8 Départements IDF
       </h2>
       <div class="bg-white rounded-lg shadow-lg p-4">
         <div id="homepage-map" class="h-96 md:h-[600px] rounded-lg"></div>
