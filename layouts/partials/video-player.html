@@ -16,15 +16,19 @@
   {{ $videoMp4Compressed := $videoData.video_mp4_compressed }}
   {{ $videoMp4 := $videoData.video_mp4 }}
 
-  {{/* Thumbnail path (fallback to hero image if no video thumbnail) */}}
+  {{/* Thumbnail path (CDN-aware, fallback to hero image if no video thumbnail) */}}
   {{ $thumbnailPath := "" }}
   {{ if $videoData.thumbnail_path }}
     {{ $thumbnailPath = $videoData.thumbnail_path }}
-  {{ else if .Params.images }}
-    {{ if .Params.images.hero }}
-      {{/* Use hero image as video poster fallback */}}
-      {{ $thumbnailPath = printf "/images/hero/%s.jpg" .Params.images.hero }}
-    {{ end }}
+  {{ else if .Params.cdnImages.video.jpg }}
+    {{/* Use CDN video thumbnail */}}
+    {{ $thumbnailPath = .Params.cdnImages.video.jpg }}
+  {{ else if .Params.cdnImages.hero.jpg }}
+    {{/* Use CDN hero image as video poster fallback */}}
+    {{ $thumbnailPath = .Params.cdnImages.hero.jpg }}
+  {{ else if .Params.images.hero }}
+    {{/* Use local hero image as video poster fallback */}}
+    {{ $thumbnailPath = printf "/images/hero/%s.jpg" .Params.images.hero }}
   {{ end }}
 
   <section class="video-section mb-12" itemscope itemtype="https://schema.org/VideoObject">

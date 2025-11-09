@@ -1,6 +1,6 @@
 {{/*
-  Responsive Image Partial
-  Usage: {{ partial "responsive-image.html" (dict "context" . "variant" "hero" "alt" "Alt text" "class" "custom-class" "loading" "lazy") }}
+  Enhanced Responsive Image Partial with CDN Support
+  Usage: {{ partial "responsive-image.html" (dict "context" . "variant" "hero" "alt" "Alt text" "class" "custom-class" "loading" "lazy" "width" "1920" "height" "1080" "fetchpriority" "high") }}
 
   Parameters:
   - context: The page context (required)
@@ -8,14 +8,37 @@
   - alt: Alt text for the image (default: page title)
   - class: Additional CSS classes (optional)
   - loading: Image loading strategy: "lazy" or "eager" (default: "lazy")
+  - width: Image width attribute (optional)
+  - height: Image height attribute (optional)
+  - fetchpriority: Fetch priority: "high", "low", or "auto" (optional)
+
+  Supports both:
+  - New CDN structure: .Params.cdnImages.hero.avif/webp/jpg
+  - Legacy local structure: .Params.images.hero (auto-generates paths)
 */}}
 
 {{- $variant := .variant | default "og" -}}
 {{- $alt := .alt | default .context.Title -}}
 {{- $class := .class | default "" -}}
 {{- $loading := .loading | default "lazy" -}}
+{{- $width := .width -}}
+{{- $height := .height -}}
+{{- $fetchpriority := .fetchpriority -}}
 
-{{- if .context.Params.images -}}
+{{- $avifSrc := "" -}}
+{{- $webpSrc := "" -}}
+{{- $jpgSrc := "" -}}
+
+{{/* Check for CDN images first (new structure) */}}
+{{- if .context.Params.cdnImages -}}
+  {{- $cdnVariant := index .context.Params.cdnImages $variant -}}
+  {{- if $cdnVariant -}}
+    {{- $avifSrc = $cdnVariant.avif -}}
+    {{- $webpSrc = $cdnVariant.webp -}}
+    {{- $jpgSrc = $cdnVariant.jpg -}}
+  {{- end -}}
+{{- else if .context.Params.images -}}
+  {{/* Fallback to legacy local images */}}
   {{- $imagePath := "" -}}
   {{- if eq $variant "hero" -}}
     {{- $imagePath = .context.Params.images.hero -}}
@@ -30,15 +53,24 @@
   {{- if $imagePath -}}
     {{- $baseURL := .context.Site.BaseURL -}}
     {{- $variantPath := print "images/" $variant "/" -}}
-
-    <picture>
-      <source srcset="{{ $baseURL }}{{ $variantPath }}{{ $imagePath }}.avif" type="image/avif">
-      <source srcset="{{ $baseURL }}{{ $variantPath }}{{ $imagePath }}.webp" type="image/webp">
-      <img src="{{ $baseURL }}{{ $variantPath }}{{ $imagePath }}.jpg"
-           alt="{{ $alt }}"
-           {{- if $class }} class="{{ $class }}"{{ end }}
-           loading="{{ $loading }}"
-           decoding="async">
-    </picture>
+    {{- $avifSrc = print $baseURL $variantPath $imagePath ".avif" -}}
+    {{- $webpSrc = print $baseURL $variantPath $imagePath ".webp" -}}
+    {{- $jpgSrc = print $baseURL $variantPath $imagePath ".jpg" -}}
   {{- end -}}
+{{- end -}}
+
+{{/* Render picture element if we have sources */}}
+{{- if $jpgSrc -}}
+  <picture>
+    <source srcset="{{ $avifSrc }}" type="image/avif">
+    <source srcset="{{ $webpSrc }}" type="image/webp">
+    <img src="{{ $jpgSrc }}"
+         alt="{{ $alt }}"
+         {{- if $class }} class="{{ $class }}"{{ end }}
+         {{- if $width }} width="{{ $width }}"{{ end }}
+         {{- if $height }} height="{{ $height }}"{{ end }}
+         loading="{{ $loading }}"
+         {{- if $fetchpriority }} fetchpriority="{{ $fetchpriority }}"{{ end }}
+         decoding="async">
+  </picture>
 {{- end -}}

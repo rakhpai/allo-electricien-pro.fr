@@ -38,5 +38,69 @@
   {
     "question": "Quels moyens de paiement acceptez-vous ?",
     "answer": "Nos électriciens acceptent plusieurs moyens de paiement : espèces, chèque, carte bancaire, et virement bancaire. Certains électriciens proposent également des facilités de paiement pour les gros travaux. Renseignez-vous lors de votre prise de contact."
+  },
+  {
+    "question": "Que faire en cas de panne électrique totale à Paris ?",
+    "answer": "En cas de panne totale : 1) Vérifiez si vos voisins ont aussi du courant (panne ENEDIS ?), 2) Contrôlez votre disjoncteur général sans le toucher, 3) Débranchez les appareils sensibles, 4) N'essayez PAS de réarmer si vous sentez une odeur de brûlé, 5) Appelez immédiatement notre SOS électricien au 01 44 90 11 31 pour une intervention en moins de 30 minutes."
+  },
+  {
+    "question": "Comment reconnaître une urgence électrique dangereuse ?",
+    "answer": "Signes d'urgence IMMÉDIATE : odeur de brûlé provenant du tableau ou d'une prise, fumée ou étincelles, bruit de grésillement, prise noircie ou fondue, choc électrique, câbles dénudés apparents. Dans ces cas, coupez le disjoncteur général et appelez immédiatement notre service SOS électricien 24/7."
+  },
+  {
+    "question": "Qu'est-ce qu'un court-circuit et est-ce dangereux ?",
+    "answer": "Un court-circuit est un contact direct entre deux conducteurs de polarités opposées, créant une surcharge pouvant provoquer un incendie électrique. C'est très dangereux. Signes : disjoncteur qui saute instantanément, odeur de brûlé, étincelles. Ne réarmez JAMAIS le disjoncteur vous-même. Appelez notre électricien d'urgence immédiatement."
+  },
+  {
+    "question": "Combien coûte une intervention SOS électricien la nuit ou le dimanche ?",
+    "answer": "Intervention d'urgence nuit/dimanche : déplacement 49€ (déduit si intervention) + forfait urgence à partir de 120€ + coût réparation selon travaux. Un devis clair vous est présenté AVANT toute réparation. Pas de frais cachés. En urgence, votre sécurité prime : nous intervenons d'abord, vous décidez ensuite."
+  },
+  {
+    "question": "Mon disjoncteur saute sans arrêt, que faire ?",
+    "answer": "Si votre disjoncteur saute répétitivement : 1) NE le réarmez PAS plusieurs fois (risque court-circuit/incendie), 2) Débranchez tous les appareils, 3) Tentez UN réarmement, 4) S'il saute à nouveau : STOP, c'est un défaut électrique sérieux. Appelez notre électricien d'urgence 24/7 au 01 44 90 11 31. Intervention en -30 min à Paris."
+  },
+  {
+    "question": "Puis-je réarmer mon disjoncteur après une coupure ?",
+    "answer": "Si le disjoncteur a sauté UNE fois et qu'il n'y a AUCUNE odeur de brûlé : tentez UN réarmement après avoir débranché les appareils. S'il saute immédiatement à nouveau : NE RÉARMEZ PLUS, c'est un court-circuit. Appelez notre SOS électricien. Si odeur de brûlé dès le début : N'Y TOUCHEZ PAS, appelez immédiatement."
+  },
+  {
+    "question": "Quand faut-il appeler un SOS électricien plutôt qu'un électricien classique ?",
+    "answer": "Appelez notre SOS électricien (urgence 24/7) si : panne totale de courant, court-circuit, odeur de brûlé, disjoncteur qui saute sans arrêt, étincelles, prise qui chauffe, intervention urgente nuit/dimanche. Pour travaux planifiés (installation prises, rénovation), un rendez-vous classique suffit. En cas de doute sur le danger : appelez en urgence."
+  },
+  {
+    "question": "Les immeubles haussmanniens à Paris ont-ils des problèmes électriques spécifiques ?",
+    "answer": "Oui, les immeubles haussmanniens (1850-1914) présentent souvent : absence de prise de terre, câblage ancien en fils torsadés, isolation dégradée, fusibles porcelaine obsolètes, installations non conformes NF C 15-100. Nos électriciens sont spécialisés dans la rénovation électrique de ces immeubles parisiens anciens. Mise aux normes recommandée pour votre sécurité."
+  },
+  {
+    "question": "Comment éviter les pannes électriques ?",
+    "answer": "Pour prévenir les pannes : 1) Ne surchargez pas les prises (évitez multiprises en cascade), 2) Faites vérifier votre installation si >15 ans, 3) Remplacez les câbles abîmés immédiatement, 4) Installez des interrupteurs différentiels 30mA, 5) Mettez aux normes NF C 15-100, 6) Débranchez les appareils non utilisés. Diagnostic électrique gratuit : 01 44 90 11 31."
+  },
+  {
+    "question": "Une panne électrique peut-elle endommager mes appareils ?",
+    "answer": "Oui, les surtensions et coupures brusques peuvent griller vos appareils électroniques (TV, ordinateur, électroménager). En cas de panne, débranchez immédiatement vos équipements sensibles. L'installation d'un parafoudre et de prises parafoudre protège efficacement vos appareils. Nos électriciens peuvent sécuriser votre installation."
+  },
+  {
+    "question": "Dois-je appeler les pompiers ou un électricien en cas d'urgence électrique ?",
+    "answer": "Appelez les POMPIERS (18) si : incendie déclaré, fumée importante, impossibilité de couper le courant, personne électrocutée. Appelez notre SOS ÉLECTRICIEN (01 44 90 11 31) si : odeur de brûlé sans feu, court-circuit, panne urgente, disjoncteur qui saute, étincelles sans incendie. Nous sécurisons l'installation et réparons immédiatement."
+  },
+  {
+    "question": "Combien de temps dure une intervention d'urgence électrique ?",
+    "answer": "Arrivée de l'électricien : moins de 30 minutes à Paris. Durée réparation : panne simple (disjoncteur, prise) 30-60 min, panne moyenne (recherche court-circuit) 1-2h, panne complexe (câblage dans murs) 2-4h. Dans 85% des cas, nous réparons sur place le jour même. Diagnostic gratuit sur place avant intervention."
+  },
+  {
+    "question": "Que faire si je sens une odeur de brûlé électrique ?",
+    "answer": "URGENCE IMMÉDIATE : 1) Coupez le disjoncteur général IMMÉDIATEMENT, 2) Évacuez si fumée visible, 3) N'utilisez AUCUN appareil électrique, 4) Aérez les pièces, 5) Appelez notre SOS électricien 24/7 : 01 44 90 11 31. Intervention en -20 min. L'odeur de brûlé indique un problème GRAVE (câble qui fond, court-circuit). Ne prenez aucun risque."
+  },
+  {
+    "question": "Mon compteur Linky a disjoncté, puis-je le réarmer ?",
+    "answer": "Compteur Linky qui disjoncte : appuyez sur le bouton + pendant 3 secondes. S'il disjoncte à nouveau immédiatement : STOP, c'est un défaut sur votre installation (pas le compteur). N'insistez pas. Appelez notre électricien d'urgence pour diagnostic. Si le compteur affiche un message d'erreur ou clignote anormalement, contactez ENEDIS ET notre électricien."
+  },
+  {
+    "question": "Puis-je réparer moi-même une panne électrique ?",
+    "answer": "Vous pouvez : réarmer UN disjoncteur (si pas d'odeur), changer une ampoule, réinitialiser un compteur Linky. Vous NE DEVEZ PAS : ouvrir le tableau électrique, toucher des câbles, réarmer plusieurs fois un disjoncteur qui saute, réparer une prise qui a brûlé, intervenir si odeur de brûlé. L'électricité est MORTELLE. En cas de doute : appelez notre SOS électricien 24/7."
+  },
+  {
+    "question": "Mon assurance habitation couvre-t-elle les dépannages électriques d'urgence ?",
+    "answer": "Cela dépend de votre contrat. Certaines assurances couvrent les dépannages d'urgence (24/7) dans une garantie \"assistance habitation\". Vérifiez votre contrat ou appelez votre assureur. Dans tous les cas, en urgence, faites intervenir notre électricien pour votre sécurité : nous établissons une facture détaillée que vous pouvez soumettre à votre assurance pour remboursement éventuel."
   }
 ]

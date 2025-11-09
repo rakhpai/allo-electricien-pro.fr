@@ -17,9 +17,15 @@
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Params.title | default .Title }}{{ end }}">
 <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
 <meta property="og:site_name" content="{{ .Site.Params.companyName }}">
-{{- if .Params.images.og }}
-<meta property="og:image" content="{{ .Site.BaseURL }}images/og/{{ .Params.images.og }}.jpg">
-<meta property="og:image:secure_url" content="{{ .Site.BaseURL }}images/og/{{ .Params.images.og }}.jpg">
+{{- $ogImage := "" -}}
+{{- if .Params.cdnImages.og.jpg -}}
+  {{- $ogImage = .Params.cdnImages.og.jpg -}}
+{{- else if .Params.images.og -}}
+  {{- $ogImage = printf "%simages/og/%s.jpg" .Site.BaseURL .Params.images.og -}}
+{{- end -}}
+{{- if $ogImage }}
+<meta property="og:image" content="{{ $ogImage }}">
+<meta property="og:image:secure_url" content="{{ $ogImage }}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Service électricien professionnel {{ .Params.city | title }} {{ .Params.zipCode }}">
@@ -50,8 +56,8 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Params.title | default .Title }}{{ end }}">
 <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
-{{- if .Params.images.og }}
-<meta name="twitter:image" content="{{ .Site.BaseURL }}images/og/{{ .Params.images.og }}.jpg">
+{{- if $ogImage }}
+<meta name="twitter:image" content="{{ $ogImage }}">
 <meta name="twitter:image:alt" content="{{ .Params.title | default .Title }}">
 {{- end }}
 
@@ -65,8 +71,16 @@
 <!-- Preload Critical Hero Images for LCP Optimization -->
 {{- if .IsHome }}
 <link rel="preload" as="image" href="/images/hero/elec-1-hero.avif" type="image/avif" fetchpriority="high">
-{{- else if .Params.images.hero }}
-<link rel="preload" as="image" href="{{ .Site.BaseURL }}images/hero/{{ .Params.images.hero }}.avif" type="image/avif" fetchpriority="high">
+{{- else }}
+  {{- $heroAvif := "" -}}
+  {{- if .Params.cdnImages.hero.avif -}}
+    {{- $heroAvif = .Params.cdnImages.hero.avif -}}
+  {{- else if .Params.images.hero -}}
+    {{- $heroAvif = printf "%simages/hero/%s.avif" .Site.BaseURL .Params.images.hero -}}
+  {{- end -}}
+  {{- if $heroAvif }}
+<link rel="preload" as="image" href="{{ $heroAvif }}" type="image/avif" fetchpriority="high">
+  {{- end }}
 {{- end }}
 
 <!-- Google Fonts -->
