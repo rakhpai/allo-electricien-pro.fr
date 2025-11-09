@@ -5,9 +5,11 @@
     <nav class="flex items-center space-x-2 text-sm">
       <a href="/" class="text-primary hover:underline">Accueil</a>
       <span class="text-gray-400">/</span>
-      <a href="/electricien/" class="text-primary hover:underline">Électricien</a>
+      <a href="/electricien" class="text-primary hover:underline">Électricien</a>
+      {{ if and .Params.department (ne .Params.department "null") }}
       <span class="text-gray-400">/</span>
-      <a href="/electricien/{{ .Params.department }}/" class="text-primary hover:underline">{{ .Params.department }}</a>
+      <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
+      {{ end }}
       <span class="text-gray-400">/</span>
       <span class="text-gray-600">{{ .Params.city }}</span>
     </nav>

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T20:00:09.586Z",
-  "total_sites": 410,
+  "generated_at": "2025-11-09T17:01:52.909Z",
+  "total_sites": 408,
   "departments": [
     "75",
     "77",
@@ -9,8 +9,7 @@
     "92",
     "93",
     "94",
-    "95",
-    "null"
+    "95"
   ],
   "stats": {
     "75": 33,
@@ -20,8 +19,7 @@
     "92": 33,
     "93": 38,
     "94": 43,
-    "95": 52,
-    "null": 2
+    "95": 52
   },
   "sites": [
     {
@@ -1315,28 +1313,6 @@
       "phoneRaw": "0644643686",
       "url": "https://allo-electricien.pro/chanteloup-les-vignes/",
       "fullDomain": "chanteloup-les-vignes.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
-      "id": "f6ff6f30-8a83-420a-81dd-cf7717e1e5e1",
-      "slug": "chatenay-malabry",
-      "name": "DépannePlus92",
-      "city": "CHATENAY-MALABRY",
-      "citySlug": "chatenay-malabry",
-      "zipCode": "92290",
-      "department": null,
-      "keyword": "Électricien d'Urgence Chatenay-Malabry 92290",
-      "title": "⚡ Électricien d'Urgence Chatenay-Malabry | 24/7",
-      "metaDescription": "Électricien d'Urgence Chatenay-Malabry 92290 ⚡ Installation, réparation, panne. Intervention immédiate 24h/7j. DépannePlus92 certifié. Devis gratuit!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/chatenay-malabry/",
-      "fullDomain": "chatenay-malabry.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -9020,28 +8996,6 @@
       "coordinates": {
         "lat": 48.716811,
         "lng": 2.4879753
-      }
-    },
-    {
-      "id": "607bca42-0831-4273-8d6e-ec30eec5161a",
-      "slug": null,
-      "name": "VoltExpert",
-      "city": null,
-      "citySlug": null,
-      "zipCode": null,
-      "department": null,
-      "keyword": "SOS Électricien ",
-      "title": "Saint-Jean-de-Braye - Un service irréprochable",
-      "metaDescription": "Qualifié pour des tâches spécifiques Saint-Jean-de-Braye",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/null/",
-      "fullDomain": "allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
       }
     }
   ]

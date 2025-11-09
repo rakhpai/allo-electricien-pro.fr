@@ -30,9 +30,46 @@ async function generateData() {
 
     console.log(`✓ Found ${sites.length} sites\n`);
 
+    // Filter out invalid entries (missing required fields)
+    console.log('🔍 Validating site data...\n');
+    const invalidSites = [];
+    const validSites = sites.filter(site => {
+      const isValid = site.subdomain &&
+                      site.city &&
+                      site.department_code &&
+                      site.zip;
+
+      if (!isValid) {
+        invalidSites.push({
+          id: site.id,
+          subdomain: site.subdomain || 'null',
+          city: site.city || 'null',
+          department: site.department_code || 'null',
+          zip: site.zip || 'null',
+          company: site.company_name_primary || 'N/A'
+        });
+      }
+
+      return isValid;
+    });
+
+    if (invalidSites.length > 0) {
+      console.log(`⚠️  Skipped ${invalidSites.length} invalid site(s):\n`);
+      invalidSites.forEach((site, i) => {
+        console.log(`  ${i + 1}. ID: ${site.id}`);
+        console.log(`     Subdomain: ${site.subdomain}`);
+        console.log(`     City: ${site.city}`);
+        console.log(`     Department: ${site.department}`);
+        console.log(`     Zip: ${site.zip}`);
+        console.log(`     Company: ${site.company}\n`);
+      });
+    }
+
+    console.log(`✓ ${validSites.length} valid sites (${invalidSites.length} skipped)\n`);
+
     // Group by department for filtering
     const byDepartment = {};
-    sites.forEach(site => {
+    validSites.forEach(site => {
       const dept = site.department_code;
       if (!byDepartment[dept]) {
         byDepartment[dept] = [];
@@ -42,7 +79,7 @@ async function generateData() {
 
     // Calculate statistics
     const stats = {
-      total: sites.length,
+      total: validSites.length,
       departments: Object.keys(byDepartment).sort(),
       departmentCounts: {}
     };
@@ -60,10 +97,10 @@ async function generateData() {
     // Transform data for Hugo
     const output = {
       generated_at: new Date().toISOString(),
-      total_sites: sites.length,
+      total_sites: validSites.length,
       departments: stats.departments,
       stats: stats.departmentCounts,
-      sites: sites.map(site => ({
+      sites: validSites.map(site => ({
         id: site.id,
         slug: site.subdomain,
         name: site.company_name_primary || 'Électricien',
@@ -95,7 +132,7 @@ async function generateData() {
 
     const outputPath = path.join(dataDir, 'sites.json');
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
-    console.log(`✓ Generated data/sites.json (${sites.length} sites)\n`);
+    console.log(`✓ Generated data/sites.json (${validSites.length} sites)\n`);
 
     // Also save a copy to scripts for backup
     const backupPath = path.join(__dirname, 'sites-manifest.json');

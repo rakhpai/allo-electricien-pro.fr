@@ -248,16 +248,16 @@
       "position": 2,
       "name": "Électricien",
       "item": "{{ .Site.BaseURL }}electricien/"
-    },
+    }{{ if and .Params.department (ne .Params.department "null") }},
     {
       "@type": "ListItem",
       "position": 3,
       "name": "{{ .Params.department }}",
-      "item": "{{ .Site.BaseURL }}electricien/{{ .Params.department }}/"
-    },
+      "item": "{{ .Site.BaseURL }}electricien/{{ .Params.department }}"
+    }{{ end }},
     {
       "@type": "ListItem",
-      "position": 4,
+      "position": {{ if and .Params.department (ne .Params.department "null") }}4{{ else }}3{{ end }},
       "name": "{{ .Params.city }}",
       "item": "{{ .Permalink }}"
     }
