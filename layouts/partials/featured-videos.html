@@ -29,15 +29,26 @@
         {{/* Build page URL */}}
         {{ $pageUrl := printf "/%s/" $citySlug }}
 
-        {{/* Thumbnail path - get from page frontmatter */}}
+        {{/* Thumbnail path - CDN-first fallback chain */}}
         {{ $thumbnailPath := "" }}
         {{ if $video.thumbnail_path }}
           {{ $thumbnailPath = $video.thumbnail_path }}
         {{ else }}
-          {{/* Look up the city page to get its hero image */}}
-          {{ $cityPage := $.Site.GetPage (printf "/%s" $citySlug) }}
-          {{ if and $cityPage $cityPage.Params.images $cityPage.Params.images.hero }}
-            {{ $thumbnailPath = printf "/images/hero/%s.jpg" $cityPage.Params.images.hero }}
+          {{/* Look up the city page to get CDN images - use where for reliable lookup in loop context */}}
+          {{ $cityPage := "" }}
+          {{ range where $.Site.RegularPages "Params.slug" $citySlug }}
+            {{ $cityPage = . }}
+          {{ end }}
+          {{ if $cityPage }}
+            {{/* Try CDN video thumbnail first */}}
+            {{ with $cityPage.Params.cdnImages.video.jpg }}
+              {{ $thumbnailPath = . }}
+            {{ else }}
+              {{/* Fallback to CDN hero image */}}
+              {{ with $cityPage.Params.cdnImages.hero.jpg }}
+                {{ $thumbnailPath = . }}
+              {{ end }}
+            {{ end }}
           {{ end }}
         {{ end }}
 

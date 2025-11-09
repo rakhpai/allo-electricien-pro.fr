@@ -37,6 +37,8 @@ sitemap:
 
 **→ Intervention électricien : 30-60 minutes**
 
+**→ Guide complet** : [Panne Totale de Courant : Que Faire ?](/conseils/panne-totale-courant-que-faire/)
+
 ### Panne Électrique Partielle (Une ou Plusieurs Pièces)
 
 **Symptômes :**
@@ -53,6 +55,8 @@ sitemap:
 - Surcharge sur le circuit
 
 **→ Intervention électricien : 45-90 minutes**
+
+**→ Diagnostic détaillé** : [Plus de Courant dans une Pièce : Diagnostic Rapide](/conseils/plus-courant-piece-diagnostic/)
 
 ### Panne Électrique Intermittente
 

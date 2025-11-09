@@ -53,6 +53,8 @@ Un **court-circuit électrique** se produit quand deux conducteurs de polarités
 
 **Si vous constatez l'un de ces signes, coupez le disjoncteur général et appelez immédiatement un électricien.**
 
+**→ En savoir plus** : [Court-Circuit : Dangers et Solutions Immédiates](/conseils/court-circuit-dangers-solutions/)
+
 ---
 
 ## ⚡ Causes Fréquentes de Court-Circuit à Paris
