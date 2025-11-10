@@ -1,45 +1,84 @@
-=== EXPORT ELECTRICIANS FROM SUPABASE ===
+=== EXPORT ELECTRICIEN PROFILES FROM SUPABASE ===
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 1: FETCH CITIES FROM GEOGRAPHIC_LOCATIONS
+STEP 1: BUILD CITY SLUG MAPPING
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✓ Found 1000 cities in database
+✓ Loaded 408 sites from sites.json
+✓ Loaded 1000 IDF cities from database
+✓ Mapped 221 city IDs to slugs (from 1000 cities in DB, 408 in sites.json)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 2: FETCH ELECTRICIANS FOR EACH CITY
+STEP 2: FETCH ELECTRICIEN PROFILES
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ⊘ Abancourt (abancourt): No electricians with addresses
-  ⊘ ABANCOURT (abancourt-59265): No electricians with addresses
-  ⊘ ABBARETZ (abbaretz-44170): No electricians with addresses
-  ⊘ Abbecourt (abbecourt): No electricians with addresses
-  ⊘ Abbéville-la-Rivière (abbeville-la-riviere): No electricians with addresses
-  ⊘ Abbeville-Saint-Lucien (abbeville-saint-lucien): No electricians with addresses
-  ⊘ ABEILHAN (abeilhan-34290): No electricians with addresses
-  ⊘ ABLANCOURT (ablancourt-51240): No electricians with addresses
-  ✓ Ableiges (ableiges): 1 electricians
-  ✓ Ablis (ablis): 2 electricians
-  Progress: 450/1000 cities (45.0%)
+✓ Loaded 420 profiles
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-STEP 3: WRITE TO FILE
+STEP 3: FETCH CITY COVERAGE MAPPINGS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✓ Successfully wrote to: /home/proalloelectrici/hugosource/data/commune_electricians.json
-  File size: 121.50 KB
+  Fetched 1000 mappings so far...
+  Fetched 2000 mappings so far...
+  Fetched 3000 mappings so far...
+  Fetched 4000 mappings so far...
+  Fetched 5000 mappings so far...
+  Fetched 6000 mappings so far...
+  Fetched 7000 mappings so far...
+  Fetched 8000 mappings so far...
+  Fetched 9000 mappings so far...
+  Fetched 10000 mappings so far...
+  Fetched 11000 mappings so far...
+  Fetched 12000 mappings so far...
+  Fetched 13000 mappings so far...
+  Fetched 14000 mappings so far...
+  Fetched 15000 mappings so far...
+  Fetched 16000 mappings so far...
+  Fetched 17000 mappings so far...
+  Fetched 18000 mappings so far...
+  Fetched 19000 mappings so far...
+  Fetched 20000 mappings so far...
+  Fetched 21000 mappings so far...
+  Fetched 22000 mappings so far...
+  Fetched 22010 mappings so far...
+✓ Loaded 22010 coverage mappings total
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 4: BUILD DATA STRUCTURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Building electrician coordinate index from coverage data...
+
+✓ Mapped coordinates for 420 electricians from their coverage cities
+
+✓ Loaded 408 communes from sites.json
+  Building geographic proximity index...
+
+✓ Generated geographic matches for 268 communes
+  Average profiles per commune: 9.0
+
+✓ Mapped 268 cities
+✓ Mapped 8 departments
+✓ 0 primary city assignments
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STEP 5: WRITE TO FILE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Successfully wrote to: /home/proalloelectrici/hugosource/data/electricien_profiles.json
+  File size: 2905.62 KB
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 EXPORT COMPLETE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Statistics:
-  Cities processed:          1000
-  Cities with electricians:  59
-  Cities skipped (no data):  941
-  Total electricians:        250
-  Errors:                    0
+  Total profiles:           420
+  Cities mapped:            268
+  Departments mapped:       8
+  Primary assignments:      0
 
-
-✓ Export summary saved to: export-summary.json
-
+Sample Data Preview:
+  ablon-sur-seine: 6 profiles
+  acheres: 6 profiles
+  alfortville: 6 profiles

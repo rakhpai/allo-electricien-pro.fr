@@ -68,22 +68,56 @@
       <!-- Paris Arrondissements Grid -->
       <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 mb-8">
         {{ $parisArrondissements := slice }}
+        {{ $seenZips := slice }}
+        {{ $generalParis := dict }}
+
         {{ range .Site.Data.sites.sites }}
           {{ if hasPrefix .zipCode "75" }}
-            {{ $arrNum := substr .zipCode 3 2 }}
-            {{ $arrNumInt := 0 }}
-            {{ if eq (substr $arrNum 0 1) "0" }}
-              {{ $arrNumInt = int (substr $arrNum 1 1) }}
-            {{ else }}
-              {{ $arrNumInt = int $arrNum }}
-            {{ end }}
-            {{ if and (ge $arrNumInt 1) (le $arrNumInt 20) }}
-              {{ $parisArrondissements = $parisArrondissements | append (dict "num" $arrNum "url" .url "city" .city) }}
+            {{ if eq (len .zipCode) 5 }}
+              {{ $zipCode := .zipCode }}
+              {{ if not (in $seenZips $zipCode) }}
+                {{ $seenZips = $seenZips | append $zipCode }}
+                {{ $arrNum := substr .zipCode 3 2 }}
+                {{ $arrNumInt := 0 }}
+                {{ if eq (substr $arrNum 0 1) "0" }}
+                  {{ $arrNumInt = int (substr $arrNum 1 1) }}
+                {{ else }}
+                  {{ $arrNumInt = int $arrNum }}
+                {{ end }}
+                {{ if and (ge $arrNumInt 1) (le $arrNumInt 20) }}
+                  {{ $parisArrondissements = $parisArrondissements | append (dict "num" $arrNum "numInt" $arrNumInt "url" .url "city" .city) }}
+                {{ end }}
+              {{ end }}
+            {{ else if eq .citySlug "paris" }}
+              {{ $generalParis = dict "url" .url "city" .city }}
             {{ end }}
           {{ end }}
         {{ end }}
 
-        {{ range $parisArrondissements | first 20 }}
+        {{ $sorted := sort $parisArrondissements "numInt" }}
+
+        {{ if $generalParis.url }}
+        <a href="{{ $generalParis.url }}"
+           class="group relative bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-6 border-2 border-transparent hover:border-primary overflow-hidden">
+          <div class="absolute inset-0 bg-gradient-to-br from-primary/5 to-blue-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+          <div class="relative z-10">
+            <div class="text-4xl font-black text-gray-200 group-hover:text-primary/20 transition-colors duration-300 mb-2">
+              ⚡
+            </div>
+            <div class="text-sm font-semibold text-gray-900 group-hover:text-primary transition-colors duration-300">
+              Paris
+            </div>
+            <div class="flex items-center gap-1 mt-2 text-xs text-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <span>Voir les électriciens</span>
+              <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+
+        {{ range $sorted }}
         <a href="{{ .url }}"
            class="group relative bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-6 border-2 border-transparent hover:border-primary overflow-hidden">
 

@@ -1,6 +1,12 @@
 ---
 title: "⚡ Électricien Paris | Tous Arrondissements | Intervention 24/7 <30min"
 slug: electricien-paris
+city: Paris
+zipCode: '75000'
+company: Allo Électricien
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+department: '75'
 draft: false
 description: "Électricien Paris disponible dans les 20 arrondissements. Urgence, dépannage, installation électrique 24h/24. Intervention rapide <30min. Devis gratuit ☎️ 01 44 90 11 31"
 sitemap:

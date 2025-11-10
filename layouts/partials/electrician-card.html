@@ -23,8 +23,8 @@
 {{ $badgeColors := dict "blue" "bg-blue-600" "green" "bg-green-600" "gold" "bg-yellow-500" "purple" "bg-purple-600" "orange" "bg-orange-600" }}
 {{ $badgeColor := index $badgeColors (default "blue" $profile.badge_color) }}
 {{ $fullName := printf "%s %s" $profile.first_name $profile.last_name }}
-{{ $phoneFormatted := replace $profile.phone " " "" | replaceRE "^0" "+33 " }}
-{{ $phoneLink := replace $profile.phone " " "" }}
+{{ $phoneDisplay := default $profile.phone $profile.phone_display }}
+{{ $phoneHref := default $profile.phone $profile.phone_href }}
 
 <article class="electrician-card bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden h-full flex flex-col" itemscope itemtype="https://schema.org/LocalBusiness">
   {{/* Header with Avatar and Badge */}}
@@ -147,7 +147,7 @@
   {{/* Footer with CTA */}}
   <div class="p-5 pt-0">
     <a
-      href="tel:{{ $phoneLink }}"
+      href="tel:{{ $phoneHref }}"
       class="block w-full bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold py-3 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 text-center group"
       itemprop="telephone"
       aria-label="Appeler {{ $fullName }}"
@@ -156,7 +156,7 @@
         <svg class="w-5 h-5 mr-2 group-hover:animate-pulse" fill="currentColor" viewBox="0 0 20 20">
           <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
         </svg>
-        <span class="text-sm">{{ $phoneFormatted }}</span>
+        <span class="text-sm">{{ $phoneDisplay }}</span>
       </span>
     </a>
 
@@ -173,7 +173,7 @@
 
   {{/* Hidden Schema.org Data */}}
   <meta itemprop="priceRange" content="€€">
-  <meta itemprop="telephone" content="{{ $phoneLink }}">
+  <meta itemprop="telephone" content="{{ $phoneHref }}">
   <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress" class="hidden">
     <meta itemprop="addressCountry" content="FR">
     <meta itemprop="addressRegion" content="Île-de-France">

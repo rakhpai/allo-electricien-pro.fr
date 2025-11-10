@@ -1,6 +1,12 @@
 ---
 title: "🔌 Installation Électrique Paris | Électricien Professionnel | Devis Gratuit"
 slug: installation-electrique-paris
+city: Paris
+zipCode: '75000'
+company: Allo Électricien
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+department: '75'
 draft: false
 description: "Installation électrique Paris - Neuf, rénovation, ajout prises. Électricien qualifié dans tous les arrondissements. Devis gratuit, tarifs transparents ☎️ 01 44 90 11 31"
 sitemap:

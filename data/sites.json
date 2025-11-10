@@ -6095,28 +6095,6 @@
       }
     },
     {
-      "id": "42354fcd-1a67-4c87-98b5-5b27ce44dd4a",
-      "slug": "paris-1",
-      "name": "DépanneParis75",
-      "city": "Paris 1",
-      "citySlug": "paris-1",
-      "zipCode": "75001",
-      "department": "75",
-      "keyword": "Électricien Urgence Paris 1 75001",
-      "title": "⚡ Électricien Urgence Paris 1 | Dépannage 24/7 75",
-      "metaDescription": "Électricien urgence Paris 1 75001 ⚡ Panne électrique, installation, réparation. Dépannage 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié.",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-1/",
-      "fullDomain": "saint-prix.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8534951,
-        "lng": 2.3483915
-      }
-    },
-    {
       "id": "a247607b-97ef-4828-9261-481b21721f38",
       "slug": "paris-10",
       "name": "Paris10Light",
@@ -6158,50 +6136,6 @@
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
-      }
-    },
-    {
-      "id": "f8343d07-cc36-47be-a7e1-084b7293d843",
-      "slug": "paris-11",
-      "name": "Paris11Light",
-      "city": "Paris 11",
-      "citySlug": "paris-11",
-      "zipCode": "75011",
-      "department": "75",
-      "keyword": "Dépannage Électricien Paris 11",
-      "title": "Électricien urgence Paris 11 - Effectuer tous type de dépannage TEL: 06 44 60 80 61",
-      "metaDescription": "Tarif trés raisonable Paris 11",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-11/",
-      "fullDomain": "vernouillet.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8671407,
-        "lng": 2.3521038
-      }
-    },
-    {
-      "id": "d9294ed3-8f16-43c8-8460-60317d544080",
-      "slug": "paris-11e",
-      "name": "Paris 11Watt",
-      "city": "Paris 11",
-      "citySlug": "paris-11e",
-      "zipCode": "75011",
-      "department": "75",
-      "keyword": "Électricien d'Urgence Paris 11",
-      "title": "⚡ Électricien d'Urgence Paris 11 | Dépannage 75",
-      "metaDescription": "Électricien d'urgence Paris 11 75011 ⚡ Installation, réparation, panne électrique. Intervention immédiate 24h/7j. Artisan certifié Paris11Watt. Devis gratuit!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-11e/",
-      "fullDomain": "saint-just-en-chaussee.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8671407,
-        "lng": 2.3521038
       }
     },
     {
@@ -6249,50 +6183,6 @@
       }
     },
     {
-      "id": "11865686-79bd-4b51-b11a-374ea5a2f1e5",
-      "slug": "paris-13",
-      "name": "Élec75",
-      "city": "Paris 13",
-      "citySlug": "paris-13",
-      "zipCode": "75013",
-      "department": "75",
-      "keyword": "Électricien Urgence Paris 13",
-      "title": "⚡ Électricien Urgence Paris 13 | Dépannage 24/7 75",
-      "metaDescription": "Électricien urgence Paris 13 75013 ⚡ Réparation, installation, panne électrique. Intervention 24h/7j. Rapide et fiable. Devis gratuit. Contactez Élec75!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-13/",
-      "fullDomain": "saint-denis.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8534951,
-        "lng": 2.3483915
-      }
-    },
-    {
-      "id": "1eb97444-0c36-49e6-8808-596bff9b5b7a",
-      "slug": "paris-14",
-      "name": "Paris14Flash",
-      "city": "Paris 14",
-      "citySlug": "paris-14",
-      "zipCode": "75014",
-      "department": "75",
-      "keyword": "Électricien d'Urgence Paris 14",
-      "title": "⚡ Électricien d'Urgence Paris 14 | Dépannage 75",
-      "metaDescription": "Électricien d'urgence Paris 14 (75) ⚡ Panne, installation, tableau. Intervention immédiate 24h/7j. Devis gratuit. Paris14Flash certifié. Appelez!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-14/",
-      "fullDomain": "gouvieux.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8877747,
-        "lng": 2.3741353
-      }
-    },
-    {
       "id": "b75a3b12-f993-4225-9f7a-9bcb006d7dc0",
       "slug": "paris-14",
       "name": "Paris 14SOS",
@@ -6334,28 +6224,6 @@
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
-      }
-    },
-    {
-      "id": "968855ba-87df-44b5-a234-08c8c442fbee",
-      "slug": "paris-15",
-      "name": "Paris 15Light",
-      "city": "Paris 15",
-      "citySlug": "paris-15",
-      "zipCode": "75015",
-      "department": "75",
-      "keyword": "Intervention Électricien Paris 15 75015",
-      "title": "⚡ Intervention Électricien Paris 15 | 24/7 75015",
-      "metaDescription": "Intervention électricien Paris 15 75015 ⚡ Installation, panne, court-circuit. Urgence 24h/7j immédiate. Artisan certifié. Devis gratuit. Tel. rapide!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-15/",
-      "fullDomain": "goussainville.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8366762,
-        "lng": 2.2960133
       }
     },
     {
@@ -6576,28 +6444,6 @@
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
-      }
-    },
-    {
-      "id": "79e16c4c-a4e8-4b63-8041-c395c11b6c02",
-      "slug": "paris-6",
-      "name": "Volt75Pro",
-      "city": "Paris 6",
-      "citySlug": "paris-6",
-      "zipCode": "75006",
-      "department": "75",
-      "keyword": "Électricien d'Urgence Paris 6",
-      "title": "⚡ Électricien d'Urgence Paris 6 | Dépannage 75006",
-      "metaDescription": "Électricien d'urgence Paris 6 75006 ⚡ Court-circuit, panne électrique, réparation. Intervention immédiate 24h/7j garantie. Devis gratuit. Appelez maintenant!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-6/",
-      "fullDomain": "villepinte.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.9016637,
-        "lng": 2.3877307
       }
     },
     {
