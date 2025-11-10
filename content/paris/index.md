@@ -36,7 +36,7 @@ images:
   hero: default-electricien-hero
   og: default-electricien-og
   featured: default-electricien-featured
-  video: default-electricien-video
+  video: electricien-urgence-paris-75001-video
 draft: false
 sitemap:
   priority: 0.5

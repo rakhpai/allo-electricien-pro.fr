@@ -23,8 +23,9 @@ const CONFIG = {
   MAX_LINKS_PER_PAGE: 8,
   MAX_DISTANCE_KM: 15,
   MIN_DISTANCE_KM: 1,
-  RADIUS_PARIS: 5,      // km for dept 75
-  RADIUS_SUBURBS: 10,   // km for other departments
+  RADIUS_PARIS: 10,     // km for dept 75 (increased for same-dept filtering)
+  RADIUS_SUBURBS: 20,   // km for other departments (increased for same-dept filtering)
+  SAME_DEPT_ONLY: true, // Only link to cities in same department (voisinage)
 };
 
 // SEO-optimized anchor text patterns with weights
@@ -338,8 +339,10 @@ async function generateInterlinks() {
           otherPage.longitude
         );
 
-        // Apply distance filters
-        if (distance >= CONFIG.MIN_DISTANCE_KM && distance <= maxRadius) {
+        // Apply distance filters AND department filter (voisinage - same department only)
+        const sameDepartment = !CONFIG.SAME_DEPT_ONLY || (otherPage.department === page.department);
+
+        if (distance >= CONFIG.MIN_DISTANCE_KM && distance <= maxRadius && sameDepartment) {
           nearby.push({
             ...otherPage,
             distance: distance
