@@ -8164,6 +8164,1076 @@
           91
         ]
       }
+    ],
+    "paris-1e": [
+      {
+        "id": "0493ba01-03eb-4bf6-b62c-8b8655d1ddca",
+        "first_name": "Benjamin",
+        "last_name": "Philippe",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 8 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Benjamin%2BPhilippe&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Mise aux normes",
+          "Installation électrique",
+          "Diagnostic électrique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037482",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          93,
+          75
+        ]
+      },
+      {
+        "id": "cff50c0f-a646-4eb5-b920-6b8df3f24a57",
+        "first_name": "Guillaume",
+        "last_name": "Schmitt",
+        "specialty_primary": "Installation Borne Recharge",
+        "specialty_badge": "Électromobilité",
+        "badge_color": "blue",
+        "bio_short": "Électricien qualifié depuis 10 ans, je maîtrise parfaitement installation borne recharge. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Guillaume%2BSchmitt&size=200&background=06B6D4&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Mise aux normes",
+          "Domotique",
+          "Éclairage"
+        ],
+        "is_available_24_7": true,
+        "phone": "0145227121",
+        "rating": 4.7,
+        "years_experience": 10,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92,
+          93,
+          77
+        ]
+      }
+    ],
+    "paris-2e": [
+      {
+        "id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+        "first_name": "René",
+        "last_name": "Legrand",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "17 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Ren%C3%A9%2BLegrand&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724719",
+        "rating": 4.7,
+        "years_experience": 17,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      },
+      {
+        "id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+        "first_name": "Antoine",
+        "last_name": "Vidal",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 10 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Antoine%2BVidal&size=200&background=10B981&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "VMC",
+          "Domotique",
+          "Dépannage urgence"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037528",
+        "rating": 4.7,
+        "years_experience": 10,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92,
+          91
+        ]
+      }
+    ],
+    "paris-3e": [
+      {
+        "id": "0d19d762-62b1-46ee-b56a-17e088b9e104",
+        "first_name": "Robert",
+        "last_name": "Guerin",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "20 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Robert%2BGuerin&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Mise aux normes",
+          "Borne recharge VE",
+          "Installation électrique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037436",
+        "rating": 5,
+        "years_experience": 20,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          93,
+          75
+        ]
+      },
+      {
+        "id": "7a2d107f-a4b3-4e9d-acd4-dc3f59746765",
+        "first_name": "Paul",
+        "last_name": "Blanchard",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "15 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Paul%2BBlanchard&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037727",
+        "rating": 4.9,
+        "years_experience": 15,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      },
+      {
+        "id": "96266a0b-c69a-4808-a2df-1738c30ddabb",
+        "first_name": "Georges",
+        "last_name": "André",
+        "specialty_primary": "Installation Tableau Électrique",
+        "specialty_badge": "Certifié",
+        "badge_color": "purple",
+        "bio_short": "Expert certifié en installation tableau électrique avec 7 ans d'expérience. Service de qualité et satisfaction client prioritaire.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Georges%2BAndr%C3%A9&size=200&background=EF4444&color=fff&bold=true",
+        "service_tags": [
+          "Tableau électrique",
+          "Domotique",
+          "Dépannage urgence",
+          "Borne recharge VE"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037461",
+        "rating": 4.7,
+        "years_experience": 7,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          94,
+          92,
+          75
+        ]
+      },
+      {
+        "id": "cff50c0f-a646-4eb5-b920-6b8df3f24a57",
+        "first_name": "Guillaume",
+        "last_name": "Schmitt",
+        "specialty_primary": "Installation Borne Recharge",
+        "specialty_badge": "Électromobilité",
+        "badge_color": "blue",
+        "bio_short": "Électricien qualifié depuis 10 ans, je maîtrise parfaitement installation borne recharge. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Guillaume%2BSchmitt&size=200&background=06B6D4&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Mise aux normes",
+          "Domotique",
+          "Éclairage"
+        ],
+        "is_available_24_7": true,
+        "phone": "0145227121",
+        "rating": 4.7,
+        "years_experience": 10,
+        "is_primary_for_city": false,
+        "coverage_zones": [
+          75,
+          92,
+          93,
+          77
+        ]
+      }
+    ],
+    "paris-5e": [
+      {
+        "id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
+        "first_name": "Alexandre",
+        "last_name": "Renard",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 16 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Alexandre%2BRenard&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Chauffage électrique",
+          "Installation électrique",
+          "Dépannage urgence"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037581",
+        "rating": 5,
+        "years_experience": 16,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          78,
+          75
+        ]
+      },
+      {
+        "id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+        "first_name": "Guillaume",
+        "last_name": "Nguyen",
+        "specialty_primary": "Installation Borne Recharge",
+        "specialty_badge": "Électromobilité",
+        "badge_color": "blue",
+        "bio_short": "Électricien qualifié depuis 15 ans, je maîtrise parfaitement installation borne recharge. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Guillaume%2BNguyen&size=200&background=F59E0B&color=fff&bold=true",
+        "service_tags": [
+          "Diagnostic électrique",
+          "Installation électrique",
+          "Borne recharge VE",
+          "Dépannage urgence",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037642",
+        "rating": 4.7,
+        "years_experience": 15,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          91,
+          75,
+          92,
+          93
+        ]
+      },
+      {
+        "id": "2375e8eb-958c-4244-8dee-5a3c3a082b68",
+        "first_name": "Didier",
+        "last_name": "Gautier",
+        "specialty_primary": "Installation Tableau Électrique",
+        "specialty_badge": "Certifié",
+        "badge_color": "purple",
+        "bio_short": "Expert certifié en installation tableau électrique avec 8 ans d'expérience. Service de qualité et satisfaction client prioritaire.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Didier%2BGautier&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Dépannage urgence",
+          "Installation électrique",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0145227119",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": false,
+        "coverage_zones": [
+          92,
+          75
+        ]
+      }
+    ],
+    "paris-6e": [
+      {
+        "id": "0c745903-c9f5-4e32-9df4-c41b0283c383",
+        "first_name": "Denis",
+        "last_name": "Nguyen",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 12 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Denis%2BNguyen&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Borne recharge VE",
+          "Installation électrique",
+          "Dépannage urgence"
+        ],
+        "is_available_24_7": true,
+        "phone": "0174037530",
+        "rating": 5,
+        "years_experience": 12,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      },
+      {
+        "id": "c4019478-3336-4559-b4c5-87f5a791ea83",
+        "first_name": "Fabrice",
+        "last_name": "Laurent",
+        "specialty_primary": "Installation Borne Recharge",
+        "specialty_badge": "Électromobilité",
+        "badge_color": "blue",
+        "bio_short": "Électricien qualifié depuis 18 ans, je maîtrise parfaitement installation borne recharge. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Fabrice%2BLaurent&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Chauffage électrique",
+          "Rénovation complète"
+        ],
+        "is_available_24_7": true,
+        "phone": "0174037731",
+        "rating": 4.8,
+        "years_experience": 18,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          78
+        ]
+      },
+      {
+        "id": "375dd510-f2d3-4516-8a74-0a218926b518",
+        "first_name": "Rémi",
+        "last_name": "Perez",
+        "specialty_primary": "Dépannage Express",
+        "specialty_badge": "Rapide",
+        "badge_color": "orange",
+        "bio_short": "Artisan électricien avec 9 ans de métier. Mon expertise : dépannage express. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=R%C3%A9mi%2BPerez&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "VMC",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037527",
+        "rating": 4.7,
+        "years_experience": 9,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      }
+    ],
+    "paris-7e": [
+      {
+        "id": "853822a0-d5a9-4d50-9c6b-7fd131b8211e",
+        "first_name": "David",
+        "last_name": "André",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 17 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=David%2BAndr%C3%A9&size=200&background=F59E0B&color=fff&bold=true",
+        "service_tags": [
+          "VMC",
+          "Diagnostic électrique",
+          "Chauffage électrique",
+          "Éclairage",
+          "Installation électrique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724594",
+        "rating": 4.7,
+        "years_experience": 17,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          91,
+          78,
+          77,
+          75
+        ]
+      }
+    ],
+    "paris-8e": [
+      {
+        "id": "dd60b36b-5246-4c0d-97ae-06b3339a2669",
+        "first_name": "Rémi",
+        "last_name": "Bertrand",
+        "specialty_primary": "Dépannage Express",
+        "specialty_badge": "Rapide",
+        "badge_color": "orange",
+        "bio_short": "Artisan électricien avec 12 ans de métier. Mon expertise : dépannage express. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=R%C3%A9mi%2BBertrand&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Diagnostic électrique",
+          "Rénovation complète",
+          "VMC"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037723",
+        "rating": 5,
+        "years_experience": 12,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          91,
+          75
+        ]
+      },
+      {
+        "id": "323c1922-2edf-4b4f-acb7-5355d6ca3c58",
+        "first_name": "Yves",
+        "last_name": "Roger",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 17 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Yves%2BRoger&size=200&background=F59E0B&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Diagnostic électrique",
+          "Dépannage urgence",
+          "Rénovation complète",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037730",
+        "rating": 4.7,
+        "years_experience": 17,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          91,
+          92,
+          93
+        ]
+      }
+    ],
+    "paris-10e": [
+      {
+        "id": "8bd1a371-4066-4c38-8582-026fda19c8cd",
+        "first_name": "Alexandre",
+        "last_name": "Marchand",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 8 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Alexandre%2BMarchand&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Chauffage électrique",
+          "Domotique",
+          "Rénovation complète"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037676",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          78,
+          75
+        ]
+      }
+    ],
+    "paris-12e": [
+      {
+        "id": "110b6e68-bec7-4eaf-be88-af6f16423c97",
+        "first_name": "Vincent",
+        "last_name": "Dumas",
+        "specialty_primary": "Dépannage Express",
+        "specialty_badge": "Rapide",
+        "badge_color": "orange",
+        "bio_short": "Artisan électricien avec 9 ans de métier. Mon expertise : dépannage express. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Vincent%2BDumas&size=200&background=EF4444&color=fff&bold=true",
+        "service_tags": [
+          "Tableau électrique",
+          "Rénovation complète",
+          "VMC",
+          "Borne recharge VE"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724668",
+        "rating": 4.7,
+        "years_experience": 9,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          94,
+          75,
+          93
+        ]
+      },
+      {
+        "id": "e52bfe79-8d3e-4312-8328-70bc08a07d44",
+        "first_name": "Denis",
+        "last_name": "Dubois",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 11 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Denis%2BDubois&size=200&background=F59E0B&color=fff&bold=true",
+        "service_tags": [
+          "Diagnostic électrique",
+          "VMC",
+          "Borne recharge VE",
+          "Chauffage électrique",
+          "Prise & interrupteur"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037403",
+        "rating": 4.7,
+        "years_experience": 11,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          91,
+          78,
+          95,
+          75
+        ]
+      }
+    ],
+    "paris-13e": [
+      {
+        "id": "611b8f9b-4834-4278-a749-5926689bef99",
+        "first_name": "Charles",
+        "last_name": "Colin",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 20 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Charles%2BColin&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Prise & interrupteur",
+          "Installation électrique",
+          "Rénovation complète"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724723",
+        "rating": 5,
+        "years_experience": 20,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          95,
+          75
+        ]
+      },
+      {
+        "id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
+        "first_name": "Antoine",
+        "last_name": "Lefevre",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 17 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Antoine%2BLefevre&size=200&background=EF4444&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Chauffage électrique",
+          "Dépannage urgence",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037709",
+        "rating": 4.7,
+        "years_experience": 17,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          78,
+          92
+        ]
+      },
+      {
+        "id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
+        "first_name": "Yves",
+        "last_name": "Marchand",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 9 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Yves%2BMarchand&size=200&background=EF4444&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Chauffage électrique",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037677",
+        "rating": 4.7,
+        "years_experience": 9,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92,
+          78
+        ]
+      },
+      {
+        "id": "2375e8eb-958c-4244-8dee-5a3c3a082b68",
+        "first_name": "Didier",
+        "last_name": "Gautier",
+        "specialty_primary": "Installation Tableau Électrique",
+        "specialty_badge": "Certifié",
+        "badge_color": "purple",
+        "bio_short": "Expert certifié en installation tableau électrique avec 8 ans d'expérience. Service de qualité et satisfaction client prioritaire.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Didier%2BGautier&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Dépannage urgence",
+          "Installation électrique",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0145227119",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": false,
+        "coverage_zones": [
+          92,
+          75
+        ]
+      }
+    ],
+    "paris-14e": [
+      {
+        "id": "62cd5e1e-f178-417b-bcab-824ab5f85eb9",
+        "first_name": "Yves",
+        "last_name": "Roche",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 17 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Yves%2BRoche&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Chauffage électrique",
+          "Rénovation complète",
+          "Installation électrique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724614",
+        "rating": 4.7,
+        "years_experience": 17,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          78,
+          75
+        ]
+      },
+      {
+        "id": "6281e4ba-b15f-4372-8015-24b29d64d1ae",
+        "first_name": "Alexandre",
+        "last_name": "Olivier",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 11 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Alexandre%2BOlivier&size=200&background=EF4444&color=fff&bold=true",
+        "service_tags": [
+          "Chauffage électrique",
+          "Rénovation complète",
+          "Prise & interrupteur",
+          "Installation électrique"
+        ],
+        "is_available_24_7": true,
+        "phone": "0174037445",
+        "rating": 4.7,
+        "years_experience": 11,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          78,
+          95,
+          75
+        ]
+      },
+      {
+        "id": "bcf12b80-166c-41c7-842c-cebdc58bbbef",
+        "first_name": "René",
+        "last_name": "Marchand",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "18 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Ren%C3%A9%2BMarchand&size=200&background=06B6D4&color=fff&bold=true",
+        "service_tags": [
+          "Éclairage",
+          "Rénovation complète",
+          "Installation électrique",
+          "Dépannage urgence",
+          "Diagnostic électrique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037710",
+        "rating": 4.7,
+        "years_experience": 18,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          77,
+          75,
+          92,
+          91
+        ]
+      },
+      {
+        "id": "7048e3bf-acbd-4b34-838d-32016e352cbd",
+        "first_name": "Benjamin",
+        "last_name": "Roger",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 11 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Benjamin%2BRoger&size=200&background=F59E0B&color=fff&bold=true",
+        "service_tags": [
+          "Éclairage",
+          "Installation électrique",
+          "Diagnostic électrique",
+          "Domotique",
+          "Borne recharge VE"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724649",
+        "rating": 4.7,
+        "years_experience": 11,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          77,
+          75,
+          91,
+          92
+        ]
+      },
+      {
+        "id": "ff285f90-796b-4ae3-919e-877cd98c0a3f",
+        "first_name": "Yves",
+        "last_name": "Roger",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 20 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Yves%2BRoger&size=200&background=10B981&color=fff&bold=true",
+        "service_tags": [
+          "Domotique",
+          "Borne recharge VE",
+          "Tableau électrique",
+          "Installation électrique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037394",
+        "rating": 4.7,
+        "years_experience": 20,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          94,
+          75,
+          93
+        ]
+      },
+      {
+        "id": "2375e8eb-958c-4244-8dee-5a3c3a082b68",
+        "first_name": "Didier",
+        "last_name": "Gautier",
+        "specialty_primary": "Installation Tableau Électrique",
+        "specialty_badge": "Certifié",
+        "badge_color": "purple",
+        "bio_short": "Expert certifié en installation tableau électrique avec 8 ans d'expérience. Service de qualité et satisfaction client prioritaire.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Didier%2BGautier&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Dépannage urgence",
+          "Installation électrique",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0145227119",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": false,
+        "coverage_zones": [
+          92,
+          75
+        ]
+      }
+    ],
+    "paris-15e": [
+      {
+        "id": "fc531598-0d60-4553-be22-a54fadd71a2a",
+        "first_name": "Rémi",
+        "last_name": "Gauthier",
+        "specialty_primary": "Dépannage Express",
+        "specialty_badge": "Rapide",
+        "badge_color": "orange",
+        "bio_short": "Artisan électricien avec 12 ans de métier. Mon expertise : dépannage express. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=R%C3%A9mi%2BGauthier&size=200&background=10B981&color=fff&bold=true",
+        "service_tags": [
+          "Diagnostic électrique",
+          "Installation électrique",
+          "Tableau électrique",
+          "Prise & interrupteur"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724713",
+        "rating": 4.7,
+        "years_experience": 12,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          91,
+          75,
+          94
+        ]
+      }
+    ],
+    "paris-16e": [
+      {
+        "id": "9cd7771b-1e0f-47b0-8926-de4424022d6e",
+        "first_name": "Stéphane",
+        "last_name": "Roy",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "13 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=St%C3%A9phane%2BRoy&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Borne recharge VE",
+          "Installation électrique",
+          "Dépannage urgence"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037640",
+        "rating": 4.7,
+        "years_experience": 13,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      }
+    ],
+    "paris-17e": [
+      {
+        "id": "7a2d107f-a4b3-4e9d-acd4-dc3f59746765",
+        "first_name": "Paul",
+        "last_name": "Blanchard",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "15 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Paul%2BBlanchard&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037727",
+        "rating": 4.9,
+        "years_experience": 15,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      },
+      {
+        "id": "54bf890c-f08b-4397-b175-894ab296aa1a",
+        "first_name": "Robert",
+        "last_name": "Martinez",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "12 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Robert%2BMartinez&size=200&background=06B6D4&color=fff&bold=true",
+        "service_tags": [
+          "Tableau électrique",
+          "Diagnostic électrique",
+          "Installation électrique",
+          "VMC",
+          "Prise & interrupteur"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037446",
+        "rating": 4.7,
+        "years_experience": 12,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          94,
+          91,
+          75,
+          95
+        ]
+      },
+      {
+        "id": "2375e8eb-958c-4244-8dee-5a3c3a082b68",
+        "first_name": "Didier",
+        "last_name": "Gautier",
+        "specialty_primary": "Installation Tableau Électrique",
+        "specialty_badge": "Certifié",
+        "badge_color": "purple",
+        "bio_short": "Expert certifié en installation tableau électrique avec 8 ans d'expérience. Service de qualité et satisfaction client prioritaire.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Didier%2BGautier&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Dépannage urgence",
+          "Installation électrique",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0145227119",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": false,
+        "coverage_zones": [
+          92,
+          75
+        ]
+      }
+    ],
+    "paris-18e": [
+      {
+        "id": "0c745903-c9f5-4e32-9df4-c41b0283c383",
+        "first_name": "Denis",
+        "last_name": "Nguyen",
+        "specialty_primary": "Mise aux Normes NF C 15-100",
+        "specialty_badge": "Qualifié",
+        "badge_color": "gray",
+        "bio_short": "Électricien qualifié depuis 12 ans, je maîtrise parfaitement mise aux normes nf c 15-100. Devis gratuit et intervention rapide.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Denis%2BNguyen&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Borne recharge VE",
+          "Installation électrique",
+          "Dépannage urgence"
+        ],
+        "is_available_24_7": true,
+        "phone": "0174037530",
+        "rating": 5,
+        "years_experience": 12,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      },
+      {
+        "id": "375dd510-f2d3-4516-8a74-0a218926b518",
+        "first_name": "Rémi",
+        "last_name": "Perez",
+        "specialty_primary": "Dépannage Express",
+        "specialty_badge": "Rapide",
+        "badge_color": "orange",
+        "bio_short": "Artisan électricien avec 9 ans de métier. Mon expertise : dépannage express. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=R%C3%A9mi%2BPerez&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "VMC",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174037527",
+        "rating": 4.7,
+        "years_experience": 9,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      }
+    ],
+    "paris-19e": [
+      {
+        "id": "2375e8eb-958c-4244-8dee-5a3c3a082b68",
+        "first_name": "Didier",
+        "last_name": "Gautier",
+        "specialty_primary": "Installation Tableau Électrique",
+        "specialty_badge": "Certifié",
+        "badge_color": "purple",
+        "bio_short": "Expert certifié en installation tableau électrique avec 8 ans d'expérience. Service de qualité et satisfaction client prioritaire.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Didier%2BGautier&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Dépannage urgence",
+          "Installation électrique",
+          "Mise aux normes"
+        ],
+        "is_available_24_7": false,
+        "phone": "0145227119",
+        "rating": 5,
+        "years_experience": 8,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          92,
+          75
+        ]
+      },
+      {
+        "id": "5d181437-c433-463a-9611-e75dd2278fd7",
+        "first_name": "Emmanuel",
+        "last_name": "Vidal",
+        "specialty_primary": "Éclairage LED Professionnel",
+        "specialty_badge": "Éco",
+        "badge_color": "green",
+        "bio_short": "Artisan électricien avec 10 ans de métier. Mon expertise : éclairage led professionnel. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Emmanuel%2BVidal&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Tableau électrique",
+          "Borne recharge VE",
+          "Installation électrique"
+        ],
+        "is_available_24_7": true,
+        "phone": "0174037573",
+        "rating": 4.8,
+        "years_experience": 10,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          94,
+          75
+        ]
+      },
+      {
+        "id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+        "first_name": "René",
+        "last_name": "Legrand",
+        "specialty_primary": "Rénovation Électrique",
+        "specialty_badge": "Spécialiste",
+        "badge_color": "teal",
+        "bio_short": "17 années d'expertise en électricité professionnelle. Spécialiste reconnu pour rénovation électrique.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Ren%C3%A9%2BLegrand&size=200&background=3B82F6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Dépannage urgence",
+          "Domotique"
+        ],
+        "is_available_24_7": false,
+        "phone": "0174724719",
+        "rating": 4.7,
+        "years_experience": 17,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          92
+        ]
+      }
+    ],
+    "paris-20e": [
+      {
+        "id": "69795ead-15e1-4362-8224-c108ab90718d",
+        "first_name": "Thomas",
+        "last_name": "Roussel",
+        "specialty_primary": "Dépannage Express",
+        "specialty_badge": "Rapide",
+        "badge_color": "orange",
+        "bio_short": "Artisan électricien avec 20 ans de métier. Mon expertise : dépannage express. Disponible pour tous vos besoins électriques.",
+        "avatar_url": "https://ui-avatars.com/api/?name=Thomas%2BRoussel&size=200&background=8B5CF6&color=fff&bold=true",
+        "service_tags": [
+          "Installation électrique",
+          "Chauffage électrique",
+          "Tableau électrique"
+        ],
+        "is_available_24_7": true,
+        "phone": "0145227351",
+        "rating": 5,
+        "years_experience": 20,
+        "is_primary_for_city": true,
+        "coverage_zones": [
+          75,
+          78
+        ]
+      }
     ]
   },
   "by_department": {

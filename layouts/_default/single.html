@@ -316,10 +316,16 @@
 {{ $citySlug := .Params.slug }}
 {{ $cityProfiles := slice }}
 
-{{/* Get profiles for this specific city */}}
+{{/* Get profiles for this specific city - try both with and without "e" suffix for Paris arrondissements */}}
 {{ if and $profilesData $citySlug }}
   {{ if isset $profilesData.by_city $citySlug }}
     {{ $cityProfiles = index $profilesData.by_city $citySlug }}
+  {{ else if strings.HasSuffix $citySlug "e" }}
+    {{/* Fallback: Try removing the trailing "e" suffix (paris-6e -> paris-6) */}}
+    {{ $altSlug := strings.TrimSuffix $citySlug "e" }}
+    {{ if isset $profilesData.by_city $altSlug }}
+      {{ $cityProfiles = index $profilesData.by_city $altSlug }}
+    {{ end }}
   {{ end }}
 {{ end }}
 
