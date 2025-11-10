@@ -1,0 +1,64 @@
+{{/*
+  Interlink City Card Component
+  ==============================
+
+  Displays a single nearby city card with SEO-optimized anchor text
+
+  Parameters:
+    - .slug: City slug (e.g., "versailles")
+    - .city: City name (e.g., "Versailles")
+    - .url: Page URL (e.g., "/versailles/")
+    - .anchor: SEO-optimized anchor text (e.g., "électricien Versailles")
+    - .anchor_type: Type of anchor (exact, partial, longtail, keyword, branded, generic)
+    - .distance_km: Distance in kilometers (e.g., "2.3")
+    - .department: Department code (e.g., "78")
+*/}}
+
+<a href="{{ .url }}"
+   class="group relative bg-white hover:bg-gradient-to-br hover:from-primary hover:to-blue-600 text-gray-900 hover:text-white rounded-xl p-5 text-center transition-all duration-300 shadow-md hover:shadow-2xl transform hover:-translate-y-1 flex flex-col justify-center items-center min-h-[110px] border-2 border-transparent hover:border-primary"
+   title="{{ .anchor }} - Service électricien professionnel"
+   rel="related">
+
+  <!-- Location Icon -->
+  <svg class="w-5 h-5 text-primary group-hover:text-white mb-2 transition-colors"
+       fill="none"
+       stroke="currentColor"
+       viewBox="0 0 24 24"
+       aria-hidden="true">
+    <path stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+    <path stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+  </svg>
+
+  <!-- Anchor Text (SEO-optimized) -->
+  <div class="font-semibold text-sm leading-tight mb-2 px-1">
+    {{ .anchor }}
+  </div>
+
+  <!-- Distance Badge -->
+  <div class="flex items-center gap-1 text-xs opacity-70 group-hover:opacity-100 transition-opacity">
+    <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/>
+    </svg>
+    <span>{{ .distance_km }} km</span>
+  </div>
+
+  <!-- Department Badge (top right corner) -->
+  <span class="absolute top-2 right-2 text-xs font-mono bg-gray-100 group-hover:bg-white group-hover:bg-opacity-20 text-gray-600 group-hover:text-white px-2 py-0.5 rounded-full transition-colors">
+    {{ .department }}
+  </span>
+
+  <!-- Arrow icon (bottom right, shown on hover) -->
+  <svg class="absolute bottom-3 right-3 w-4 h-4 opacity-0 group-hover:opacity-100 transition-opacity"
+       fill="none"
+       stroke="currentColor"
+       viewBox="0 0 24 24"
+       aria-hidden="true">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+  </svg>
+</a>
