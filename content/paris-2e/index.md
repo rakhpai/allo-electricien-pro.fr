@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 2e | Dépannage Urgence 24/7 Bourse Opéra
 slug: paris-2e
 city: Paris 2e
-zipCode: '75102'
+zipCode: '75002'
 department: '75'
 keyword: Électricien Urgence Paris 2e
 company: PExpert

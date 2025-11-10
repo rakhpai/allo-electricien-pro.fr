@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 14e | Dépannage Urgence 24/7 Montparnasse
 slug: paris-14e
 city: Paris 14e
-zipCode: '75114'
+zipCode: '75014'
 department: '75'
 keyword: Électricien Urgence Paris 14e
 company: PExpert

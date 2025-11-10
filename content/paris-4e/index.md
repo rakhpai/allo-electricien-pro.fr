@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 4e | Dépannage Urgence 24/7 Hôtel de Ville
 slug: paris-4e
 city: Paris 4e
-zipCode: '75104'
+zipCode: '75004'
 department: '75'
 keyword: Électricien Urgence Paris 4e
 company: PExpert

@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 20e | Dépannage Urgence 24/7 Belleville
 slug: paris-20e
 city: Paris 20e
-zipCode: '75120'
+zipCode: '75020'
 department: '75'
 keyword: Électricien Urgence Paris 20e
 company: PExpert

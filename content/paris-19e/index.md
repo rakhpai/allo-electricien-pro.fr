@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 19e | Dépannage Urgence 24/7 Buttes-Chaumont
 slug: paris-19e
 city: Paris 19e
-zipCode: '75119'
+zipCode: '75019'
 department: '75'
 keyword: Électricien Urgence Paris 19e
 company: PExpert

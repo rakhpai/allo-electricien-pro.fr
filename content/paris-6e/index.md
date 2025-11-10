@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 6e | Dépannage Urgence 24/7 Saint-Germain-des-Prés
 slug: paris-6e
 city: Paris 6e
-zipCode: '75106'
+zipCode: '75006'
 department: '75'
 keyword: Électricien Urgence Paris 6e
 company: PExpert

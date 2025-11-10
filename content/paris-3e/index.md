@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 3e | Dépannage Urgence 24/7 Marais
 slug: paris-3e
 city: Paris 3e
-zipCode: '75103'
+zipCode: '75003'
 department: '75'
 keyword: Électricien Urgence Paris 3e
 company: PExpert

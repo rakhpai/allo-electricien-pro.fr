@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 15e | Dépannage Urgence 24/7 Beaugrenelle
 slug: paris-15e
 city: Paris 15e
-zipCode: '75115'
+zipCode: '75015'
 department: '75'
 keyword: Électricien Urgence Paris 15e
 company: PExpert

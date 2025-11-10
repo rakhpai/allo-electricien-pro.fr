@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 1er | Dépannage Urgence 24/7 Louvre
 slug: paris-1er
 city: Paris 1er
-zipCode: '75101'
+zipCode: '75001'
 department: '75'
 keyword: Électricien Urgence Paris 1er
 company: PExpert

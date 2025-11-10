@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 9e | Dépannage Urgence 24/7 Opéra
 slug: paris-9e
 city: Paris 9e
-zipCode: '75109'
+zipCode: '75009'
 department: '75'
 keyword: Électricien Urgence Paris 9e
 company: PExpert

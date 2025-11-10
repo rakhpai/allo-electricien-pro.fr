@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 13e | Dépannage Urgence 24/7 Bibliothèque
 slug: paris-13e
 city: Paris 13e
-zipCode: '75113'
+zipCode: '75013'
 department: '75'
 keyword: Électricien Urgence Paris 13e
 company: PExpert

@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 10e | Dépannage Urgence 24/7 Gare du Nord
 slug: paris-10e
 city: Paris 10e
-zipCode: '75110'
+zipCode: '75010'
 department: '75'
 keyword: Électricien Urgence Paris 10e
 company: PExpert

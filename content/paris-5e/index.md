@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 5e | Dépannage Urgence 24/7 Quartier Latin
 slug: paris-5e
 city: Paris 5e
-zipCode: '75105'
+zipCode: '75005'
 department: '75'
 keyword: Électricien Urgence Paris 5e
 company: PExpert

@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 17e | Dépannage Urgence 24/7 Batignolles
 slug: paris-17e
 city: Paris 17e
-zipCode: '75117'
+zipCode: '75017'
 department: '75'
 keyword: Électricien Urgence Paris 17e
 company: PExpert

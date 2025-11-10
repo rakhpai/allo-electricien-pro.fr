@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 12e | Dépannage Urgence 24/7 Bercy
 slug: paris-12e
 city: Paris 12e
-zipCode: '75112'
+zipCode: '75012'
 department: '75'
 keyword: Électricien Urgence Paris 12e
 company: PExpert

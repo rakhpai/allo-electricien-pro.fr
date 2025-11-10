@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 8e | Dépannage Urgence 24/7 Champs-Élysées
 slug: paris-8e
 city: Paris 8e
-zipCode: '75108'
+zipCode: '75008'
 department: '75'
 keyword: Électricien Urgence Paris 8e
 company: PExpert

@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 7e | Dépannage Urgence 24/7 Tour Eiffel
 slug: paris-7e
 city: Paris 7e
-zipCode: '75107'
+zipCode: '75007'
 department: '75'
 keyword: Électricien Urgence Paris 7e
 company: PExpert

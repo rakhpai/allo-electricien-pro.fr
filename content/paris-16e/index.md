@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 16e | Dépannage Urgence 24/7 Passy
 slug: paris-16e
 city: Paris 16e
-zipCode: '75116'
+zipCode: '75016'
 department: '75'
 keyword: Électricien Urgence Paris 16e
 company: PExpert

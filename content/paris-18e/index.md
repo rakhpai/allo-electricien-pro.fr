@@ -2,7 +2,7 @@
 title: ⚡ SOS Électricien Paris 18e | Dépannage Urgence 24/7 Montmartre
 slug: paris-18e
 city: Paris 18e
-zipCode: '75118'
+zipCode: '75018'
 department: '75'
 keyword: Électricien Urgence Paris 18e
 company: PExpert
