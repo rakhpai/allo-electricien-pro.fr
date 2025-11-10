@@ -366,6 +366,21 @@
 </section>
 {{ end }}
 
+{{/* Load competitor data */}}
+{{ $competitorData := .Site.Data.competitor_electricians }}
+{{ $citySlug := .Params.slug }}
+{{ $competitors := slice }}
+
+{{ if and $competitorData $citySlug }}
+  {{ if isset $competitorData.by_city $citySlug }}
+    {{ $competitors = index $competitorData.by_city $citySlug }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $competitors) 0 }}
+  {{ partial "competitors-section.html" (dict "competitors" $competitors "city" .Params.city "Site" .Site) }}
+{{ end }}
+
 {{ if .Params.zipCodesNearby }}
 <!-- Nearby Cities Section -->
 <section class="py-12 bg-white">

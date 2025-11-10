@@ -1,0 +1,167 @@
+{{/*
+  Competitor Electricians Table Component
+  Displays verified local competitors in a compact table format
+
+  Required context:
+  - .competitors: array of competitor objects
+  - .city: city name for context
+*/}}
+
+{{ $competitors := .competitors }}
+{{ $city := .city }}
+
+{{ if gt (len $competitors) 0 }}
+<div class="competitors-table-wrapper overflow-x-auto">
+  <table class="w-full border-collapse bg-white rounded-lg overflow-hidden shadow-sm">
+    <thead>
+      <tr class="bg-gray-50 border-b border-gray-200">
+        <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+          Professionnel
+        </th>
+        <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider hidden md:table-cell">
+          Adresse
+        </th>
+        <th class="px-4 py-3 text-left text-xs font-semibold text-gray-600 uppercase tracking-wider">
+          Évaluation
+        </th>
+        <th class="px-4 py-3 text-right text-xs font-semibold text-gray-600 uppercase tracking-wider">
+          Contact
+        </th>
+      </tr>
+    </thead>
+    <tbody class="divide-y divide-gray-100">
+      {{ range $index, $competitor := $competitors }}
+      <tr class="hover:bg-gray-50 transition-colors">
+        <!-- Business Name & Distance -->
+        <td class="px-4 py-4">
+          <div class="flex items-start gap-3">
+            <!-- Icon -->
+            <div class="flex-shrink-0 mt-1">
+              <div class="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center">
+                <svg class="w-5 h-5 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
+                </svg>
+              </div>
+            </div>
+            <!-- Name & Distance -->
+            <div class="min-w-0 flex-1">
+              <div class="font-medium text-gray-900 text-sm leading-tight">
+                {{ $competitor.name }}
+              </div>
+              <div class="flex items-center gap-2 mt-1">
+                <span class="inline-flex items-center text-xs text-gray-500">
+                  <svg class="w-3 h-3 mr-1" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
+                  </svg>
+                  {{ $competitor.distance_km }} km
+                </span>
+                {{ if $competitor.verified }}
+                <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-800">
+                  Vérifié
+                </span>
+                {{ end }}
+              </div>
+              <!-- Mobile: Show address here -->
+              <div class="md:hidden mt-2 text-xs text-gray-600">
+                {{ $competitor.full_address }}
+              </div>
+            </div>
+          </div>
+        </td>
+
+        <!-- Full Address (Desktop only) -->
+        <td class="px-4 py-4 text-sm text-gray-600 hidden md:table-cell">
+          <div class="max-w-xs">
+            {{ $competitor.full_address }}
+          </div>
+        </td>
+
+        <!-- Rating -->
+        <td class="px-4 py-4">
+          <div class="flex flex-col items-start">
+            <!-- Star Rating -->
+            <div class="flex items-center gap-1">
+              {{ $rating := $competitor.rating }}
+              {{ $fullStars := int $rating }}
+              {{ $hasHalfStar := gt (sub $rating (float $fullStars)) 0.25 }}
+
+              {{ range seq $fullStars }}
+              <svg class="w-4 h-4 text-yellow-400 fill-current" viewBox="0 0 20 20">
+                <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+              </svg>
+              {{ end }}
+
+              {{ if $hasHalfStar }}
+              <svg class="w-4 h-4 text-yellow-400" viewBox="0 0 20 20">
+                <defs>
+                  <linearGradient id="half-{{ $index }}">
+                    <stop offset="50%" stop-color="currentColor"/>
+                    <stop offset="50%" stop-color="#D1D5DB"/>
+                  </linearGradient>
+                </defs>
+                <path fill="url(#half-{{ $index }})" d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+              </svg>
+              {{ end }}
+
+              {{ $emptyStars := sub 5 $fullStars }}
+              {{ if $hasHalfStar }}
+                {{ $emptyStars = sub $emptyStars 1 }}
+              {{ end }}
+              {{ range seq $emptyStars }}
+              <svg class="w-4 h-4 text-gray-300 fill-current" viewBox="0 0 20 20">
+                <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+              </svg>
+              {{ end }}
+            </div>
+            <!-- Rating Value & Reviews -->
+            <div class="text-xs text-gray-500 mt-1">
+              {{ $competitor.rating }} ({{ $competitor.review_count }} avis)
+            </div>
+          </div>
+        </td>
+
+        <!-- Contact Buttons -->
+        <td class="px-4 py-4">
+          <div class="flex items-center justify-end gap-2">
+            {{ if $competitor.phone }}
+            <a href="tel:{{ $competitor.phone }}"
+               class="inline-flex items-center px-3 py-2 border border-gray-300 rounded-md text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 transition-colors"
+               aria-label="Appeler {{ $competitor.name }}">
+              <svg class="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"></path>
+              </svg>
+              <span class="hidden sm:inline">Appeler</span>
+            </a>
+            {{ end }}
+
+            {{ if $competitor.website }}
+            <a href="{{ $competitor.website }}"
+               target="_blank"
+               rel="nofollow noopener"
+               class="inline-flex items-center px-3 py-2 border border-gray-300 rounded-md text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 transition-colors"
+               aria-label="Visiter le site de {{ $competitor.name }}">
+              <svg class="w-4 h-4 mr-1.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"></path>
+              </svg>
+              <span class="hidden sm:inline">Site</span>
+            </a>
+            {{ end }}
+          </div>
+        </td>
+      </tr>
+      {{ end }}
+    </tbody>
+  </table>
+</div>
+
+<!-- Source Attribution -->
+<div class="mt-4 flex items-center justify-between text-xs text-gray-500">
+  <div class="flex items-center gap-1">
+    <svg class="w-3.5 h-3.5" fill="currentColor" viewBox="0 0 20 20">
+      <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
+    </svg>
+    <span>Source : Google Maps</span>
+  </div>
+  <span>Les informations sont fournies à titre indicatif</span>
+</div>
+{{ end }}
