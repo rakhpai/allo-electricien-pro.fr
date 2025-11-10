@@ -54,23 +54,16 @@
 
 <!-- Hero Section -->
 <section class="relative bg-gradient-to-r from-primary to-blue-700 text-white py-12 overflow-hidden">
-  {{- if or .Params.cdnImages.hero .Params.images.hero }}
-  <!-- Background Image Layer -->
+  <!-- Centralized SVG Hero Background -->
   <div class="absolute inset-0 z-0">
-    {{ partial "responsive-image.html" (dict
-      "context" .
-      "variant" "hero"
-      "alt" (printf "Électricien d'urgence à %s (%s) - Dépannage 24/7" (.Params.city | title) .Params.zipCode)
-      "class" "w-full h-full object-cover opacity-40"
-      "width" "1920"
-      "height" "1080"
-      "loading" "eager"
-      "fetchpriority" "high"
-    ) }}
+    <img src="/eleclogos/central_hero.svg"
+         alt="Électricien d'urgence en Île-de-France"
+         class="w-full h-full object-cover opacity-40"
+         loading="eager"
+         decoding="async">
   </div>
   <!-- Gradient Overlay for Text Readability -->
   <div class="absolute inset-0 bg-gradient-to-r from-primary/80 to-blue-700/80 z-10"></div>
-  {{- end }}
 
   <div class="container mx-auto px-4 relative z-20">
     <div class="max-w-4xl mx-auto text-center">
