@@ -1,6 +1,12 @@
 ---
 title: "🔌 Panne Électrique Paris | Plus de Courant ? Électricien Urgence 24/7"
 slug: panne-electrique-paris
+city: Paris
+zipCode: '75000'
+company: Allo Électricien
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+department: '75'
 draft: false
 description: "Panne électrique à Paris ? Plus de courant dans tout ou partie du logement ? Intervention urgente 24h/24 <30min. Diagnostic gratuit ☎️ 01 44 90 11 31"
 sitemap:

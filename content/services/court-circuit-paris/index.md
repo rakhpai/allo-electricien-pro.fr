@@ -1,6 +1,12 @@
 ---
 title: "⚡ Court-Circuit Paris | Intervention Urgente 24/7 | Électricien <30min"
 slug: court-circuit-paris
+city: Paris
+zipCode: '75000'
+company: Allo Électricien
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+department: '75'
 draft: false
 description: "Court-circuit à Paris ? Intervention urgente 24h/24 dans tous les arrondissements. Recherche de panne, sécurisation, réparation immédiate. ☎️ 01 44 90 11 31"
 sitemap:

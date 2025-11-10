@@ -1,6 +1,12 @@
 ---
 title: "⚡ Dépannage Électricité Paris | Intervention Urgence 24/7 Tous Arrondissements"
 slug: depannage-electricite-paris
+city: Paris
+zipCode: '75000'
+company: Allo Électricien
+phone: 01 44 90 11 31
+phoneRaw: 0144901131
+department: '75'
 draft: false
 description: "Dépannage électricité Paris - Intervention rapide dans les 20 arrondissements. Panne de courant, court-circuit, tableau électrique. Électricien qualifié 24h/24. Devis gratuit ☎️ 01 44 90 11 31"
 sitemap:
