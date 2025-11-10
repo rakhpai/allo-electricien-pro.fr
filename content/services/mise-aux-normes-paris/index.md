@@ -30,23 +30,28 @@ La **mise aux normes électrique** consiste à rendre votre installation conform
 
 ### Pourquoi Mettre aux Normes Son Installation ?
 
-**Obligations Légales :**
-- ✅ **Vente immobilière** : diagnostic électrique obligatoire si installation >15 ans
-- ✅ **Location** : installation conforme exigée pour mise en location
-- ✅ **Rénovation lourde** : mise aux normes obligatoire
-- ✅ **Assurance** : risque de non-couverture si installation non-conforme
+{{< feature-grid columns="3" >}}
+  {{< feature-card icon="document" title="Obligations Légales" color="blue" >}}
+- **Vente immobilière** : diagnostic électrique obligatoire si installation >15 ans
+- **Location** : installation conforme exigée pour mise en location
+- **Rénovation lourde** : mise aux normes obligatoire
+- **Assurance** : risque de non-couverture si installation non-conforme
+  {{< /feature-card >}}
 
-**Sécurité :**
-- ⚠️ Risque d'incendie réduit de 80%
-- ⚠️ Protection contre électrocution
-- ⚠️ Prévention court-circuits dangereux
-- ⚠️ Sécurité de vos appareils électriques
+  {{< feature-card icon="shield" title="Sécurité" color="red" >}}
+- Risque d'incendie réduit de 80%
+- Protection contre électrocution
+- Prévention court-circuits dangereux
+- Sécurité de vos appareils électriques
+  {{< /feature-card >}}
 
-**Confort :**
-- 🔌 Nombre de prises suffisant dans chaque pièce
-- 💡 Éclairage adapté et sécurisé
-- ⚡ Puissance électrique optimisée
-- 🏠 Valorisation de votre bien immobilier
+  {{< feature-card icon="star" title="Confort" color="green" >}}
+- Nombre de prises suffisant dans chaque pièce
+- Éclairage adapté et sécurisé
+- Puissance électrique optimisée
+- Valorisation de votre bien immobilier
+  {{< /feature-card >}}
+{{< /feature-grid >}}
 
 ---
 
@@ -54,52 +59,61 @@ La **mise aux normes électrique** consiste à rendre votre installation conform
 
 ### Exigences Obligatoires de la Norme
 
-**1. Prise de Terre Obligatoire**
+{{< feature-grid columns="2" >}}
+  {{< feature-card icon="shield" title="1. Prise de Terre Obligatoire" color="blue" >}}
 - Mise à la terre de toute l'installation
 - Résistance de terre <100 Ohms
 - Protection par liaison équipotentielle
+  {{< /feature-card >}}
 
-**2. Interrupteurs Différentiels 30mA**
+  {{< feature-card icon="lightning" title="2. Interrupteurs Différentiels 30mA" color="blue" >}}
 - Au moins 2 interrupteurs différentiels 30mA
 - Type A pour plaques/lave-linge (détecte courant continu)
 - Type AC pour autres circuits (détecte courant alternatif)
+  {{< /feature-card >}}
 
-**3. Disjoncteurs Divisionnaires**
+  {{< feature-card icon="check" title="3. Disjoncteurs Divisionnaires" color="blue" >}}
 - Un disjoncteur par circuit
 - Calibrage adapté à la section des câbles
 - Protection contre surcharges et courts-circuits
+  {{< /feature-card >}}
 
-**4. Nombre Minimum de Prises par Pièce**
+  {{< feature-card icon="home" title="4. Nombre Minimum de Prises par Pièce" color="blue" >}}
 - **Salon** : minimum 5 prises (1 tous les 4m²)
 - **Chambre** : minimum 3 prises
 - **Cuisine** : minimum 6 prises dont 4 en plan de travail
 - **Salle de bain** : prises hors volumes de sécurité
 - **Couloir** : minimum 1 prise
+  {{< /feature-card >}}
 
-**5. Circuits Spécialisés Obligatoires**
+  {{< feature-card icon="wrench" title="5. Circuits Spécialisés Obligatoires" color="blue" >}}
 - Cuisson (32A)
 - Lave-linge
 - Four
 - Lave-vaisselle
 - Congélateur (recommandé)
+  {{< /feature-card >}}
 
-**6. Volumes de Sécurité Salle de Bain**
+  {{< feature-card icon="shield" title="6. Volumes de Sécurité Salle de Bain" color="blue" >}}
 - Volume 0 : IPX7 (dans la douche/baignoire)
 - Volume 1 : IPX4 (au-dessus de la douche)
 - Volume 2 : IPX4 (60cm autour de la douche)
 - Hors volume : prises autorisées
+  {{< /feature-card >}}
 
-**7. Gaine Technique Logement (GTL)**
+  {{< feature-card icon="document" title="7. Gaine Technique Logement (GTL)" color="blue" >}}
 - Regroupement des arrivées (électricité, téléphone, TV)
 - Tableau électrique dans la GTL
 - Hauteur minimale 1m, largeur 60cm
+  {{< /feature-card >}}
+{{< /feature-grid >}}
 
 ---
 
 ## 🔧 Notre Prestation Mise aux Normes à Paris
 
-### Étape 1 : Diagnostic Électrique Gratuit
-
+{{< step-process >}}
+  {{< step number="1" title="Diagnostic Électrique Gratuit" >}}
 Notre électricien réalise un **diagnostic complet** de votre installation :
 
 - Vérification présence et conformité de la prise de terre
@@ -111,9 +125,9 @@ Notre électricien réalise un **diagnostic complet** de votre installation :
 - État des câblages et connexions
 
 **Rapport détaillé avec liste des non-conformités**
+  {{< /step >}}
 
-### Étape 2 : Devis Détaillé de Mise aux Normes
-
+  {{< step number="2" title="Devis Détaillé de Mise aux Normes" >}}
 Selon le diagnostic, nous établissons un **devis précis** comprenant :
 
 - Liste exhaustive des travaux nécessaires
@@ -123,9 +137,9 @@ Selon le diagnostic, nous établissons un **devis précis** comprenant :
 - Validité 3 mois
 
 **Devis gratuit sans engagement**
+  {{< /step >}}
 
-### Étape 3 : Travaux de Mise en Conformité
-
+  {{< step number="3" title="Travaux de Mise en Conformité" >}}
 Nos électriciens réalisent les travaux selon 3 niveaux possibles :
 
 **Mise aux Normes Minimale (Diagnostic OK)**
@@ -148,14 +162,17 @@ Nos électriciens réalisent les travaux selon 3 niveaux possibles :
 - Tableau électrique neuf pré-équipé
 - Installation prises/éclairage selon besoins
 - Finitions (saignées, rebouchage, peinture)
+  {{< /step >}}
 
-### Étape 4 : Certification Consuel (si nécessaire)
-
+  {{< step number="4" title="Certification Consuel (si nécessaire)" >}}
 Pour rénovation complète ou construction neuve :
+
 - Dossier technique pour Consuel
 - Attestation de conformité
 - Obtention certificat Consuel
 - Nécessaire pour raccordement ENEDIS
+  {{< /step >}}
+{{< /step-process >}}
 
 ---
 
@@ -194,36 +211,77 @@ Pour rénovation complète ou construction neuve :
 
 ### Diagnostic Électrique
 
-| Type de diagnostic | Tarif |
-|-------------------|-------|
-| Diagnostic gratuit (avant travaux avec nous) | GRATUIT |
-| Diagnostic seul (pour vente/location) | 120-180€ |
+{{< pricing-table columns="2" >}}
+  {{< pricing-card tier="Diagnostic Gratuit" price="0" currency="€" period="diagnostic" cta="Réserver mon diagnostic" >}}
+**Avant travaux avec nous :**
+- Diagnostic complet de l'installation
+- Rapport détaillé des non-conformités
+- Conseils personnalisés
+- Devis précis offert
+  {{< /pricing-card >}}
+
+  {{< pricing-card tier="Diagnostic Seul" price="120-180" currency="€" period="diagnostic" >}}
+**Pour vente ou location :**
+- Diagnostic réglementaire
+- Rapport officiel
+- Valable 3 ans (vente) / 6 ans (location)
+- Conforme aux exigences légales
+  {{< /pricing-card >}}
+{{< /pricing-table >}}
 
 ### Travaux de Mise aux Normes
 
-| Niveau de mise aux normes | Tarif indicatif |
-|---------------------------|----------------|
-| Mise aux normes minimale T2 | 1 500-2 500€ |
-| Mise aux normes minimale T3/T4 | 2 500-4 000€ |
-| Mise aux normes complète T2 | 3 500-5 500€ |
-| Mise aux normes complète T3/T4 | 5 500-8 000€ |
-| Rénovation électrique totale | 90-130€/m² |
+{{< pricing-table columns="3" >}}
+  {{< pricing-card tier="Mise aux Normes Minimale" price="1 500-2 500" currency="€" period="intervention T2" >}}
+**Pour un T2 :**
+- Ajout prise de terre
+- Interrupteurs différentiels 30mA
+- Disjoncteurs conformes
+- Prises minimum légal
+- Étiquetage tableau
 
-**Coûts variables selon :**
+**T3/T4 : 2 500-4 000€**
+  {{< /pricing-card >}}
+
+  {{< pricing-card tier="Mise aux Normes Complète" price="3 500-5 500" currency="€" period="intervention T2" featured="true" >}}
+**Pour un T2 (Recommandé) :**
+- Tous travaux minimaux
+- Tableau électrique neuf
+- Circuits spécialisés cuisine
+- Conformité salle de bain
+- Reprise câblages
+
+**T3/T4 : 5 500-8 000€**
+  {{< /pricing-card >}}
+
+  {{< pricing-card tier="Rénovation Totale" price="90-130" currency="€" period="m²" >}}
+**Installation complète :**
+- Dépose de l'ancien
+- Nouveau câblage complet
+- Tableau neuf pré-équipé
+- Prises et éclairage neufs
+- Finitions incluses
+  {{< /pricing-card >}}
+{{< /pricing-table >}}
+
+{{< callout type="info" title="Coûts variables selon" >}}
 - Surface du logement
 - Année de construction
 - État de l'installation existante
 - Niveau de finitions souhaité
 - Accessibilité (immeuble sans ascenseur = +10-15%)
+{{< /callout >}}
 
 ### Aides Financières Disponibles
 
+{{< callout type="success" title="Profitez des aides financières" >}}
 - **MaPrimeRénov'** (sous conditions de ressources)
 - **Crédit d'impôt** transition énergétique
 - **Éco-PTZ** (éco-prêt à taux zéro)
 - **TVA réduite 10%** (au lieu de 20%) si logement >2 ans
 
 **Nous vous conseillons sur votre éligibilité**
+{{< /callout >}}
 
 ---
 
@@ -251,6 +309,7 @@ Pour rénovation complète ou construction neuve :
 
 ### Fortement Recommandée Si :
 
+{{< callout type="warning" title="Signes d'une installation dangereuse" >}}
 - Installation électrique >25 ans
 - Absence de prise de terre
 - Fusibles en porcelaine
@@ -258,6 +317,9 @@ Pour rénovation complète ou construction neuve :
 - Odeur de brûlé au tableau
 - Prises/interrupteurs qui chauffent
 - Fils apparents ou abîmés
+
+**Ne prenez pas de risques avec votre sécurité !**
+{{< /callout >}}
 
 ---
 
@@ -274,26 +336,47 @@ Nos électriciens interviennent dans toute la capitale :
 
 ## ❓ Questions Fréquentes Mise aux Normes
 
-**Ma maison/appartement doit-il obligatoirement être aux normes ?**
+{{< faq-accordion >}}
+  {{< faq question="Ma maison/appartement doit-il obligatoirement être aux normes ?" >}}
 Pas obligatoire si vous occupez votre logement sans le vendre/louer. Mais fortement recommandé pour votre sécurité. Obligatoire pour vente ou location.
+  {{< /faq >}}
 
-**Combien coûte une mise aux normes électrique à Paris ?**
+  {{< faq question="Combien coûte une mise aux normes électrique à Paris ?" >}}
 De 1 500€ (mise aux normes minimale T2) à 8 000€+ (rénovation complète T4). Diagnostic gratuit pour évaluation précise de votre situation.
+  {{< /faq >}}
 
-**Combien de temps durent les travaux de mise aux normes ?**
-Mise aux normes minimale : 1-2 jours. Mise aux normes complète : 3-5 jours. Rénovation totale : 5-10 jours selon surface.
+  {{< faq question="Combien de temps durent les travaux de mise aux normes ?" >}}
+- **Mise aux normes minimale** : 1-2 jours
+- **Mise aux normes complète** : 3-5 jours
+- **Rénovation totale** : 5-10 jours selon surface
+  {{< /faq >}}
 
-**Faut-il tout casser pour mettre aux normes ?**
+  {{< faq question="Faut-il tout casser pour mettre aux normes ?" >}}
 Non, dans 70% des cas nous utilisons les gaines existantes. Saignées limitées aux ajouts de prises/circuits. Rénovation totale seulement si câblage trop vétuste.
+  {{< /faq >}}
 
-**Que se passe-t-il si je vends sans mettre aux normes ?**
-Le diagnostic électrique révélera les anomalies. L'acheteur peut : négocier le prix à la baisse, exiger travaux avant achat, ou refuser l'achat. Légalement possible mais financièrement pénalisant.
+  {{< faq question="Que se passe-t-il si je vends sans mettre aux normes ?" >}}
+Le diagnostic électrique révélera les anomalies. L'acheteur peut :
+- Négocier le prix à la baisse
+- Exiger travaux avant achat
+- Refuser l'achat
 
-**Mon installation de 1960 est-elle aux normes ?**
-Très probablement NON. La norme NF C 15-100 a beaucoup évolué. Installations des années 60-70 : absence différentiels 30mA, prises insuffisantes, circuits surchargés.
+Légalement possible mais financièrement pénalisant.
+  {{< /faq >}}
 
-**Puis-je bénéficier d'aides pour mise aux normes ?**
-Oui : MaPrimeRénov', éco-PTZ, TVA réduite 10% si logement >2 ans. Conditions à vérifier selon ressources et nature des travaux.
+  {{< faq question="Mon installation de 1960 est-elle aux normes ?" >}}
+Très probablement **NON**. La norme NF C 15-100 a beaucoup évolué. Installations des années 60-70 : absence différentiels 30mA, prises insuffisantes, circuits surchargés.
+  {{< /faq >}}
+
+  {{< faq question="Puis-je bénéficier d'aides pour mise aux normes ?" >}}
+Oui, plusieurs aides existent :
+- **MaPrimeRénov'** (sous conditions de ressources)
+- **Éco-PTZ** (éco-prêt à taux zéro)
+- **TVA réduite 10%** si logement >2 ans
+
+Conditions à vérifier selon ressources et nature des travaux.
+  {{< /faq >}}
+{{< /faq-accordion >}}
 
 ---
 

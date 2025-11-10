@@ -1,0 +1,13 @@
+{{- /* Step Process Container - Wrapper for sequential step timeline */ -}}
+{{- $layout := .Get "layout" | default "vertical" -}}
+
+<div class="relative mb-8">
+  {{- if eq $layout "vertical" -}}
+  <!-- Vertical progress line (visible on desktop) -->
+  <div class="absolute top-8 left-8 w-1 h-full bg-gradient-to-b from-blue-200 to-indigo-200 hidden md:block" style="margin-top: 2rem;"></div>
+  {{- end -}}
+
+  <div class="space-y-6">
+    {{ .Inner }}
+  </div>
+</div>

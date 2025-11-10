@@ -1195,3 +1195,56 @@ nav img {
   backdrop-filter: blur(20px) saturate(180%);
   -webkit-backdrop-filter: blur(20px) saturate(180%);
 }
+
+/* ============================================
+   Electrician Profile Card Enhancements
+   ============================================ */
+
+/* Fallback gradient for cards without images */
+.electrician-card .fallback-gradient {
+  background: linear-gradient(to bottom right, #dbeafe, #bfdbfe) !important;
+}
+
+.electrician-card .fallback-gradient img {
+  display: none !important;
+}
+
+/* Card hover effects */
+.electrician-card:hover .card-header-overlay {
+  opacity: 0.85;
+}
+
+/* Smooth loading state for lazy images */
+.electrician-card img[loading="lazy"] {
+  background: linear-gradient(to bottom right, #eff6ff, #dbeafe);
+}
+
+/* Enhanced text shadow for better readability on images */
+.electrician-card h3 {
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+}
+
+/* Badge shadows for depth */
+.electrician-card span[class*="bg-"] {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Smooth transitions */
+.electrician-card {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Mobile optimizations */
+@media (max-width: 768px) {
+  .electrician-card h3 {
+    font-size: 1.125rem;
+    line-height: 1.5;
+  }
+}
+
+/* Print styles */
+@media print {
+  .electrician-card .absolute {
+    position: relative !important;
+  }
+}

@@ -1,0 +1,7 @@
+{{- /* Feature Grid Container - Responsive grid wrapper for feature cards */ -}}
+{{- $columns := .Get "columns" | default "2" -}}
+{{- $gap := .Get "gap" | default "6" -}}
+
+<div class="grid grid-cols-1 md:grid-cols-{{ $columns }} gap-{{ $gap }} mb-8">
+  {{ .Inner }}
+</div>

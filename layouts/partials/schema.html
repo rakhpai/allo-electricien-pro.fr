@@ -288,10 +288,10 @@
   "name": "{{ $videoTitle }}",
   "description": "{{ if $videoData.voiceover_script }}{{ $videoData.voiceover_script | plainify }}{{ else }}Découvrez les services d'électricien à {{ $cityName }}. Intervention rapide 24/7 pour tous vos besoins électriques.{{ end }}",
   {{ if $thumbnailPath }}"thumbnailUrl": "{{ $thumbnailPath }}",{{ end }}
-  {{ if $videoUrl }}"contentUrl": "{{ $videoUrl }}",{{ end }}
+  "contentUrl": "{{ if $videoUrl }}{{ $videoUrl }}{{ else }}{{ printf "%s%s" .Site.BaseURL $videoData.video_mp4 }}{{ end }}",
   {{ if $videoData.video_webm }}"embedUrl": "{{ printf "%s%s" .Site.BaseURL $videoData.video_webm }}",{{ end }}
   "uploadDate": "{{ if $videoData.created_at }}{{ $videoData.created_at }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
-  {{ if $videoData.duration_iso }}"duration": "{{ $videoData.duration_iso }}",{{ end }}
+  "duration": "{{ if $videoData.duration_iso }}{{ $videoData.duration_iso }}{{ else }}PT45S{{ end }}",
   "width": "1920",
   "height": "1080",
   {{ if $videoData.voiceover_script }}"transcript": "{{ $videoData.voiceover_script | plainify }}",{{ end }}
