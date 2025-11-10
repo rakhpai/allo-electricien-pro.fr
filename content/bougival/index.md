@@ -3,7 +3,7 @@ title: ⚡ Intervention Électricien Bougival | Express 78380
 slug: bougival
 city: BOUGIVAL
 zipCode: '78380'
-department: '91'
+department: "78"
 keyword: Intervention Électricien Bougival
 company: BOUGIVALAide
 phone: 07 56 79 95 59

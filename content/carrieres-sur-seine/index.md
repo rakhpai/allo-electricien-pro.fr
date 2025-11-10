@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Carrieres-Sur-Seine 78420
 slug: carrieres-sur-seine
 city: CARRIERES-SUR-SEINE
 zipCode: '78420'
-department: '92'
+department: "78"
 keyword: Électricien d'Urgence Carrieres-Sur-Seine 78420
 company: CARRIERES-SUR-SEINEExpert
 phone: 01 44 90 11 31

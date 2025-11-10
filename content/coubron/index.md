@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Coubron | Dépannage 24/7 93
 slug: coubron
 city: COUBRON
 zipCode: '93470'
-department: '77'
+department: "93"
 keyword: Électricien Urgence Coubron 93470
 company: COUBRONAmpère
 phone: 06 44 64 87 01

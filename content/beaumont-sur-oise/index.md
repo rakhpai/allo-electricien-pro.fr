@@ -3,7 +3,7 @@ title: ⚡ Intervention Électricien Beaumont-Sur-Oise 95260
 slug: beaumont-sur-oise
 city: BEAUMONT-SUR-OISE
 zipCode: '95260'
-department: '93'
+department: "95"
 keyword: Intervention Électricien Beaumont-Sur-Oise
 company: ElecExpert93
 phone: 01 44 90 11 31

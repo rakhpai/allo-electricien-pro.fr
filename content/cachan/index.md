@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Cachan | Dépannage 24/7 94
 slug: cachan
 city: CACHAN
 zipCode: '94230'
-department: '78'
+department: "94"
 keyword: Électricien Urgence Cachan 94230
 company: CACHANFlash
 phone: 06 44 64 30 77

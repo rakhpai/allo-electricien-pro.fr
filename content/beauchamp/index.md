@@ -3,7 +3,7 @@ title: ⚡ Électricien Beauchamp | Dépannage Urgence 95250
 slug: beauchamp
 city: BEAUCHAMP
 zipCode: '95250'
-department: '75'
+department: "95"
 keyword: Intervention Électricien Beauchamp 95250
 company: BEAUCHAMPFlash
 phone: 06 44 64 28 89

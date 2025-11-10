@@ -3,7 +3,7 @@ title: ⚡ SOS Électricien Chambly | Dépannage 24/7 60
 slug: chambly
 city: CHAMBLY
 zipCode: '60230'
-department: '92'
+department: "60"
 keyword: SOS Électricien Chambly 60230
 company: CHAMBLYFlash
 phone: 06 44 60 60 40

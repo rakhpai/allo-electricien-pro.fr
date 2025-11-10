@@ -3,7 +3,7 @@ title: ⚡ Électricien 24/7 Crosne | Dépannage Express 91
 slug: crosne
 city: CROSNE
 zipCode: '91560'
-department: '93'
+department: "91"
 keyword: Électricien 24/7 Crosne
 company: CROSNEAide
 phone: 06 44 60 15 44

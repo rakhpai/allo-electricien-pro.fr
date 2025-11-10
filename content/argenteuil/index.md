@@ -3,7 +3,7 @@ title: ⚡ SOS Électricien Argenteuil | Dépannage 24/7 95
 slug: argenteuil
 city: ARGENTEUIL
 zipCode: '95100'
-department: '94'
+department: "95"
 keyword: SOS Électricien Argenteuil 95100
 company: ARGENTEUILExpress
 phone: 01 44 90 11 31

@@ -3,7 +3,7 @@ title: ⚡ Électricien d'Urgence Champs-Sur-Marne | 77420
 slug: champs-sur-marne
 city: CHAMPS-SUR-MARNE
 zipCode: '77420'
-department: '75'
+department: "77"
 keyword: Électricien d'Urgence Champs-Sur-Marne
 company: LightPro75
 phone: 06 44 60 60 40

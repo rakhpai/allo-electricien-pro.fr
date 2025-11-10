@@ -3,7 +3,7 @@ title: ⚡ SOS Électricien Cesson | Dépannage 24/7 77240
 slug: cesson
 city: CESSON
 zipCode: '77240'
-department: '95'
+department: "77"
 keyword: SOS Électricien Cesson
 company: Ampère95
 phone: 06 44 64 10 17

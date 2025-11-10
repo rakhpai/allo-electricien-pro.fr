@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Laverriere | Dépannage 24/7 78
 slug: la-verriere
 city: LAVERRIERE
 zipCode: '60210'
-department: '78'
+department: '60'
 keyword: Électricien d'Urgence Laverriere 60210
 company: AideLAVERRIERE
 phone: 07 56 79 69 96

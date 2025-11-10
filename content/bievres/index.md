@@ -3,7 +3,7 @@ title: ⚡ Intervention Électricien Bievres | Dépannage 78
 slug: bievres
 city: BIEVRES
 zipCode: '91570'
-department: '78'
+department: "91"
 keyword: Intervention Électricien Bievres
 company: Élec78Bièvres
 phone: 06 44 64 09 80

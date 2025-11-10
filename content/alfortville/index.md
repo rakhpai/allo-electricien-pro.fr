@@ -3,7 +3,7 @@ title: ⚡ Électricien Alfortville 94140 | Urgence 24/7
 slug: alfortville
 city: ALFORTVILLE
 zipCode: '94140'
-department: '92'
+department: "94"
 keyword: Intervention Électricien Alfortville 94140
 company: Électricien
 phone: 01 44 90 11 31

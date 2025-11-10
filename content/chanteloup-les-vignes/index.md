@@ -3,7 +3,7 @@ title: ⚡ Urgence Électricien Chanteloup-Les-Vignes | 24/7 78
 slug: chanteloup-les-vignes
 city: CHANTELOUP-LES-VIGNES
 zipCode: '78570'
-department: '92'
+department: "78"
 keyword: Urgence Électricien Chanteloup-Les-Vignes
 company: FixWatt92
 phone: 06 44 64 36 86

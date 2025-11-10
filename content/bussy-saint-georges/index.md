@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Bussy-Saint-Georges 77600
 slug: bussy-saint-georges
 city: BUSSY-SAINT-GEORGES
 zipCode: '77600'
-department: '94'
+department: "77"
 keyword: Électricien Urgence Bussy-Saint-Georges 77600
 company: AideÉlec94
 phone: 06 44 64 67 02

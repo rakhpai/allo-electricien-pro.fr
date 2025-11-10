@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Beauvais | Dépannage 24/7 60
 slug: beauvais
 city: BEAUVAIS
 zipCode: '60155'
-department: '91'
+department: "60"
 keyword: Électricien Urgence Beauvais 60155
 company: BEAUVAISAide91
 phone: 01 44 90 11 31

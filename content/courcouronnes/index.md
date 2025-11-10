@@ -3,7 +3,7 @@ title: Changer un barillet Neuville-sur-Oise - Optez pour notre service
 slug: courcouronnes
 city: COURCOURONNES
 zipCode: '91080'
-department: '95'
+department: "91"
 keyword: SOS Électricien Courcouronnes
 company: Watt95Dépanne
 phone: 07 56 79 87 78

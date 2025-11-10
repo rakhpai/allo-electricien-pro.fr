@@ -5,7 +5,7 @@ title: >-
 slug: auvers-sur-oise
 city: AUVERS-SUR-OISE
 zipCode: '95760'
-department: '94'
+department: "95"
 keyword: SOS Électricien Auvers-Sur-Oise 95760
 company: Serrurerie Pro Île-de-France
 phone: 07 56 79 60 30

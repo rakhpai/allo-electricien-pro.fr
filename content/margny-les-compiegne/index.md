@@ -3,7 +3,7 @@ title: ⚡ Intervention Électricien Margny-Les-Compiegne 60280
 slug: margny-les-compiegne
 city: MARGNY-LES-COMPIEGNE
 zipCode: '60280'
-department: '78'
+department: "60"
 keyword: Intervention Électricien Margny-Les-Compiegne
 company: DépanneVolt78
 phone: 01 44 90 11 31

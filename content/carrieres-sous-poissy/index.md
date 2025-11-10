@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Carrieres-Sous-Poissy 78955
 slug: carrieres-sous-poissy
 city: CARRIERES-SOUS-POISSY
 zipCode: '78955'
-department: '95'
+department: "78"
 keyword: Électricien d'Urgence Carrieres-Sous-Poissy 78955
 company: Volt95
 phone: 06 44 64 35 05

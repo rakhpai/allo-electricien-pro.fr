@@ -5,7 +5,7 @@ title: >-
 slug: beynes
 city: BEYNES
 zipCode: '78650'
-department: '95'
+department: "78"
 keyword: Dépannage Électricien Beynes
 company: BEYNESAide
 phone: 06 44 60 14 99

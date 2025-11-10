@@ -3,7 +3,7 @@ title: ⚡ Urgence Électricien Clamart | Dépannage 24/7 92
 slug: clamart
 city: CLAMART
 zipCode: '92140'
-department: '93'
+department: "92"
 keyword: Urgence Électricien Clamart
 company: CLAMARTLight
 phone: 06 44 64 44 15

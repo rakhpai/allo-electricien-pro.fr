@@ -3,7 +3,7 @@ title: ⚡ Intervention Électricien Arnouville | Urgent 95400
 slug: arnouville
 city: ARNOUVILLE
 zipCode: '95400'
-department: '93'
+department: "95"
 keyword: Intervention Électricien Arnouville
 company: Ampère93
 phone: 01 44 90 11 31

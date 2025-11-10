@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Antony | Dépannage 24/7 92
 slug: antony
 city: ANTONY
 zipCode: '92160'
-department: '77'
+department: "92"
 keyword: Électricien Urgence Antony 92160
 company: AntonyWatt77
 phone: 01 44 90 11 31

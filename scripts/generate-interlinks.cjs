@@ -101,6 +101,60 @@ function extractSlug(urlPath) {
 }
 
 /**
+ * Normalize slug by replacing apostrophes with hyphens
+ * Hugo cannot create directories with apostrophes, so all slugs must use hyphens
+ * @param {string} slug - Slug that may contain apostrophes (e.g., "saint-remy-l'honore")
+ * @returns {string} Normalized slug with hyphens (e.g., "saint-remy-l-honore")
+ */
+function normalizeSlug(slug) {
+  if (!slug) return slug;
+  // Replace both straight apostrophe (') and curly apostrophe (')
+  return slug.replace(/['\']/g, '-');
+}
+
+/**
+ * Normalize URL by replacing apostrophes with hyphens
+ * Preserves leading/trailing slashes
+ * @param {string} url - URL like "/saint-remy-l'honore/" or "https://site.com/saint-remy-l'honore/"
+ * @returns {string} Normalized URL like "/saint-remy-l-honore/"
+ */
+function normalizeUrl(url) {
+  if (!url) return url;
+  // Replace both straight apostrophe (') and curly apostrophe (')
+  return url.replace(/['\']/g, '-');
+}
+
+/**
+ * Ensure URL has trailing slash
+ * @param {string} url - URL that may or may not have trailing slash
+ * @returns {string} URL with trailing slash
+ */
+function ensureTrailingSlash(url) {
+  if (!url) return url;
+  return url.endsWith('/') ? url : `${url}/`;
+}
+
+/**
+ * Extract path from full URL or return path as-is
+ * @param {string} url - Full URL like "https://site.com/path/" or just "/path/"
+ * @returns {string} Path like "/path/"
+ */
+function extractPath(url) {
+  if (!url) return url;
+  // If it's a full URL with protocol, extract just the path
+  if (url.startsWith('http://') || url.startsWith('https://')) {
+    try {
+      const urlObj = new URL(url);
+      return urlObj.pathname;
+    } catch (e) {
+      return url;
+    }
+  }
+  // Already a path
+  return url;
+}
+
+/**
  * Get maximum distance radius based on department
  * @param {string} department - Department code (e.g., "75", "78")
  * @returns {number} Radius in km
@@ -130,34 +184,68 @@ async function generateInterlinks() {
 
     console.log(`✅ Domain ID: ${domain.id}\n`);
 
-    // Step 2: Load all city pages with geographic data
-    console.log('📡 Loading pages from Supabase...');
-    const { data: pages, error: pagesError } = await supabase
-      .from('pages')
-      .select('id, url_path, page_type, city_id, geographic_target_id, data')
-      .eq('domain_id', domain.id)
-      .eq('page_type', 'city')
-      .not('city_id', 'is', null);
+    // Step 2: Load all city pages with geographic data (with pagination)
+    console.log('📡 Loading pages from Supabase (with pagination)...');
+    const allPages = [];
+    let hasMorePages = true;
+    let pageOffset = 0;
+    const pageBatchSize = 1000;
 
-    if (pagesError) {
-      throw new Error(`Failed to load pages: ${pagesError.message}`);
+    while (hasMorePages) {
+      const { data: batch, error: batchError } = await supabase
+        .from('pages')
+        .select('id, url, url_path, page_type, city_id, geographic_target_id, data')
+        .eq('domain_id', domain.id)
+        .eq('page_type', 'city')
+        .not('city_id', 'is', null)
+        .range(pageOffset, pageOffset + pageBatchSize - 1);
+
+      if (batchError) {
+        throw new Error(`Failed to load pages batch: ${batchError.message}`);
+      }
+
+      if (batch.length === 0) break;
+
+      allPages.push(...batch);
+      hasMorePages = batch.length === pageBatchSize;
+      pageOffset += pageBatchSize;
+
+      console.log(`   Loaded ${allPages.length} pages so far...`);
     }
 
-    console.log(`✅ Loaded ${pages.length} city pages\n`);
+    const pages = allPages;
+    console.log(`✅ Loaded ${pages.length} city pages total\n`);
 
-    // Step 3: Load geographic locations with coordinates
-    console.log('📡 Loading geographic locations...');
-    const { data: locations, error: locationsError } = await supabase
-      .from('geographic_locations')
-      .select('id, slug, name, latitude, longitude, postal_codes')
-      .not('latitude', 'is', null)
-      .not('longitude', 'is', null);
+    // Step 3: Load geographic locations with coordinates (with pagination)
+    console.log('📡 Loading geographic locations (with pagination)...');
+    const allLocations = [];
+    let hasMoreLocations = true;
+    let locationOffset = 0;
+    const locationBatchSize = 1000;
 
-    if (locationsError) {
-      throw new Error(`Failed to load locations: ${locationsError.message}`);
+    while (hasMoreLocations) {
+      const { data: batch, error: batchError } = await supabase
+        .from('geographic_locations')
+        .select('id, slug, name, latitude, longitude, postal_codes')
+        .not('latitude', 'is', null)
+        .not('longitude', 'is', null)
+        .range(locationOffset, locationOffset + locationBatchSize - 1);
+
+      if (batchError) {
+        throw new Error(`Failed to load locations batch: ${batchError.message}`);
+      }
+
+      if (batch.length === 0) break;
+
+      allLocations.push(...batch);
+      hasMoreLocations = batch.length === locationBatchSize;
+      locationOffset += locationBatchSize;
+
+      console.log(`   Loaded ${allLocations.length} locations so far...`);
     }
 
-    console.log(`✅ Loaded ${locations.length} geographic locations\n`);
+    const locations = allLocations;
+    console.log(`✅ Loaded ${locations.length} geographic locations total\n`);
 
     // Step 4: Create lookup maps
     console.log('🔄 Building lookup maps...');
@@ -184,7 +272,11 @@ async function generateInterlinks() {
     let skipped = 0;
 
     for (const page of pages) {
-      const slug = extractSlug(page.url_path);
+      // Extract path from full URL, normalize apostrophes, ensure trailing slash
+      const rawUrl = page.url || page.url_path;
+      const pathOnly = extractPath(rawUrl);  // Convert full URL to path
+      const normalizedUrl = ensureTrailingSlash(normalizeUrl(pathOnly));
+      const slug = extractSlug(normalizedUrl);
       let location = null;
 
       // Try to find location by geographic_target_id first
@@ -208,9 +300,9 @@ async function generateInterlinks() {
 
       if (location && location.latitude && location.longitude) {
         enrichedPages.push({
-          slug: slug,
+          slug: slug,  // Normalized slug for lookup key
           city: location.name || page.data?.city_name || slug,
-          url: page.url_path,
+          url: normalizedUrl,  // Normalized URL with trailing slash
           latitude: parseFloat(location.latitude),
           longitude: parseFloat(location.longitude),
           department: page.data?.department || (location.postal_codes?.[0] ? location.postal_codes[0].substring(0, 2) : ''),

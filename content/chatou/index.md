@@ -3,7 +3,7 @@ title: ⚡ Électricien d'Urgence Chatou | Dépannage 24/7 78
 slug: chatou
 city: CHATOU
 zipCode: '78400'
-department: '92'
+department: "78"
 keyword: Électricien d'Urgence Chatou
 company: ChatouLight92
 phone: 06 44 64 81 88

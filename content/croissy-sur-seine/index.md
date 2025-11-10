@@ -3,7 +3,7 @@ title: ⚡ Urgence Électricien Croissy-Sur-Seine | 24/7 78
 slug: croissy-sur-seine
 city: CROISSY-SUR-SEINE
 zipCode: '78290'
-department: '77'
+department: "78"
 keyword: Urgence Électricien Croissy-Sur-Seine 78290
 company: CircuitDupont77
 phone: 06 44 64 81 88

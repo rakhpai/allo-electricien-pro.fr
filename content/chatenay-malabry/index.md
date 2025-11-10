@@ -3,7 +3,7 @@ title: ⚡ Électricien d'Urgence Chatenay-Malabry | 24/7
 slug: chatenay-malabry
 city: CHATENAY-MALABRY
 zipCode: '92290'
-department: '92'
+department: "92"
 keyword: Électricien d'Urgence Chatenay-Malabry 92290
 company: DépannePlus92
 phone: 01 44 90 11 31

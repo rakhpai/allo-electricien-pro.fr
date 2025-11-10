@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Asnieres-Sur-Seine 92600
 slug: asnieres-sur-seine
 city: ASNIERES-SUR-SEINE
 zipCode: '92600'
-department: '77'
+department: "92"
 keyword: Électricien Urgence Asnieres-Sur-Seine 92600
 company: ASNIERES-SUR-SEINELight
 phone: 06 44 64 47 22

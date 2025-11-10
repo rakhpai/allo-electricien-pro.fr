@@ -3,7 +3,7 @@ title: ⚡ Électricien d'Urgence Creteil | Dépannage 94000
 slug: creteil
 city: CRETEIL
 zipCode: '94000'
-department: '75'
+department: "94"
 keyword: Électricien d'Urgence Creteil
 company: VoltPro75
 phone: 06 44 60 48 30

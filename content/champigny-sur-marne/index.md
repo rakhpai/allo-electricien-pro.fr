@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Champigny-Sur-Marne | 24/7
 slug: champigny-sur-marne
 city: CHAMPIGNY-SUR-MARNE
 zipCode: '94500'
-department: '77'
+department: "94"
 keyword: Électricien Urgence Champigny-Sur-Marne
 company: Watt77
 phone: 06 44 64 30 77

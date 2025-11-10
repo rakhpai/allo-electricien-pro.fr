@@ -3,7 +3,7 @@ title: ⚡ Dépannage Électricien Cergy | Intervention 24/7 95
 slug: cergy
 city: CERGY
 zipCode: 95000-95800
-department: '93'
+department: "95"
 keyword: Dépannage Électricien Cergy 95000-95800
 company: CERGYAide
 phone: 06 44 64 36 86

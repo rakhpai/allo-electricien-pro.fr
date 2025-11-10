@@ -3,7 +3,7 @@ title: ⚡ Électricien Urgence Champagne-Sur-Oise | 24/7 91
 slug: champagne-sur-oise
 city: CHAMPAGNE-SUR-OISE
 zipCode: '95660'
-department: '91'
+department: "95"
 keyword: Électricien Urgence Champagne-Sur-Oise
 company: AmpèrePro91
 phone: 06 44 64 81 88

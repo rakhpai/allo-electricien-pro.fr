@@ -3,7 +3,7 @@ title: ⚡ Urgence Électricien Compiegne | Dépannage 60200
 slug: compiegne
 city: COMPIEGNE
 zipCode: '60200'
-department: '93'
+department: "60"
 keyword: Urgence Électricien Compiegne
 company: CircuitPlus93
 phone: 01 44 90 11 31

@@ -3,7 +3,7 @@ title: ⚡ Dépannage Électricien Bagneux | Urgent 92220
 slug: bagneux
 city: BAGNEUX
 zipCode: '92220'
-department: '91'
+department: "92"
 keyword: Dépannage Électricien Bagneux
 company: WattExpress91
 phone: 06 44 64 13 33

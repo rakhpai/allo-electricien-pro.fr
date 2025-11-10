@@ -1,26 +1,26 @@
 {
-  "generated_at": "2025-11-10T03:17:51.071Z",
+  "generated_at": "2025-11-10T17:23:55.810Z",
   "domain": "allo-electricien.pro",
   "stats": {
-    "total_pages": 1367,
-    "pages_with_video": 1366,
+    "total_pages": 1352,
+    "pages_with_video": 1351,
     "pages_by_tier": {
       "S": 1,
       "A": 0,
       "B": 61,
       "C": 44,
-      "D": 1261,
+      "D": 1246,
       "E": 0
     },
     "pages_by_department": {
       "75": 67,
-      "77": 523,
-      "78": 265,
-      "91": 195,
-      "92": 39,
-      "93": 45,
-      "94": 46,
-      "95": 185,
+      "77": 520,
+      "78": 260,
+      "91": 194,
+      "92": 38,
+      "93": 44,
+      "94": 45,
+      "95": 182,
       "null": 1
     }
   },
@@ -4611,24 +4611,6 @@
           "company_name": "ÉlecExpert77"
         },
         {
-          "id": "d010884f-608d-47e3-97ef-68dbc3f5fb45",
-          "url": "https://allo-electricien.pro/germigny-l'eveque",
-          "url_path": "/germigny-l'eveque",
-          "title": "⚡ Intervention Électricien GERMIGNY-L'EVEQUE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "GERMIGNY-L'EVEQUE",
-          "zip_code": "77910",
-          "department": "77",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien GERMIGNY-L'EVEQUE",
-          "company_name": "ÉlecExpert77"
-        },
-        {
           "id": "79a8713b-d4f4-46e7-a770-d32ce497f3e0",
           "url": "https://allo-electricien.pro/germigny-l-eveque",
           "url_path": "/germigny-l-eveque",
@@ -5778,24 +5760,6 @@
           "featured_image": null,
           "og_image": null,
           "keyword": "Intervention Électricien Le Plessis-Feu-Aussoux",
-          "company_name": "ÉlecExpert77"
-        },
-        {
-          "id": "8efa839c-43b0-425a-917b-7b2751745b57",
-          "url": "https://allo-electricien.pro/le-plessis-l'eveque",
-          "url_path": "/le-plessis-l'eveque",
-          "title": "⚡ Intervention Électricien LE PLESSIS-L'EVEQUE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "LE PLESSIS-L'EVEQUE",
-          "zip_code": "77165",
-          "department": "77",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien LE PLESSIS-L'EVEQUE",
           "company_name": "ÉlecExpert77"
         },
         {
@@ -9903,24 +9867,6 @@
           "company_name": "VERNEUILLETANGExpert"
         },
         {
-          "id": "f07e5397-2534-4d60-9cfa-d9ec0bc7bb70",
-          "url": "https://allo-electricien.pro/verneuil-l'etang",
-          "url_path": "/verneuil-l'etang",
-          "title": "⚡ Intervention Électricien VERNEUIL-L'ETANG | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "VERNEUIL-L'ETANG",
-          "zip_code": "77390",
-          "department": "77",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien VERNEUIL-L'ETANG",
-          "company_name": "ÉlecExpert77"
-        },
-        {
           "id": "97c8d797-bc80-4036-bd32-fc0d0fe7864a",
           "url": "https://allo-electricien.pro/vernou-la-celle-sur-seine",
           "url_path": "/vernou-la-celle-sur-seine",
@@ -11055,24 +11001,6 @@
           "og_image": "/images/og/electricien-bois-d-arcy-78390-og.jpg",
           "keyword": "Électricien d'Urgence Bois-D'arcy",
           "company_name": "AideBois-d'Arcy"
-        },
-        {
-          "id": "2200f9dd-94dd-4b9c-b9f4-2c3eef2dfd74",
-          "url": "https://allo-electricien.pro/bois-d'arcy",
-          "url_path": "/bois-d'arcy",
-          "title": "⚡ Intervention Électricien BOIS-D'ARCY | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "BOIS-D'ARCY",
-          "zip_code": "78390",
-          "department": "78",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien BOIS-D'ARCY",
-          "company_name": "VoltPro78"
         },
         {
           "id": "6b799bb0-6db0-4ffd-89d7-9634bae62914",
@@ -12641,24 +12569,6 @@
           "company_name": "ÉlectriSécurité Urgence"
         },
         {
-          "id": "b8cc5bb0-09b8-4916-ba58-46209e15597f",
-          "url": "https://allo-electricien.pro/l'etang-la-ville",
-          "url_path": "/l'etang-la-ville",
-          "title": "⚡ Intervention Électricien L'ETANG-LA-VILLE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "L'ETANG-LA-VILLE",
-          "zip_code": "78620",
-          "department": "78",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien L'ETANG-LA-VILLE",
-          "company_name": "VoltPro78"
-        },
-        {
           "id": "1f054352-7530-46fd-8cad-08d786b14063",
           "url": "https://allo-electricien.pro/la-boissiere-ecole",
           "url_path": "/la-boissiere-ecole",
@@ -13847,24 +13757,6 @@
           "company_name": "MONTFORTLAMAURYExpert"
         },
         {
-          "id": "6679ecb3-9da4-454a-ade1-f2ec6ae74a44",
-          "url": "https://allo-electricien.pro/montfort-l'amaury",
-          "url_path": "/montfort-l'amaury",
-          "title": "⚡ Intervention Électricien MONTFORT-L'AMAURY | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "MONTFORT-L'AMAURY",
-          "zip_code": "78490",
-          "department": "78",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien MONTFORT-L'AMAURY",
-          "company_name": "VoltPro78"
-        },
-        {
           "id": "50a66d2b-39c7-485d-95e2-8c18f721455f",
           "url": "https://allo-electricien.pro/montigny-le-bretonneux",
           "url_path": "/montigny-le-bretonneux",
@@ -14567,24 +14459,6 @@
           "company_name": "SAINTCYRLECOLEExpert"
         },
         {
-          "id": "41cf3a79-e349-4f61-8da2-86301bbb5e01",
-          "url": "https://allo-electricien.pro/saint-cyr-l'ecole",
-          "url_path": "/saint-cyr-l'ecole",
-          "title": "⚡ Intervention Électricien SAINT-CYR-L'ECOLE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "SAINT-CYR-L'ECOLE",
-          "zip_code": "78210",
-          "department": "78",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien SAINT-CYR-L'ECOLE",
-          "company_name": "VoltPro78"
-        },
-        {
           "id": "f4befe67-5746-417c-a539-8d9864ea7b61",
           "url": "https://allo-electricien.pro/saint-forget",
           "url_path": "/saint-forget",
@@ -14780,24 +14654,6 @@
           "featured_image": null,
           "og_image": null,
           "keyword": "Électricien Urgence Saint-Nom-La-Breteche 78860",
-          "company_name": "VoltPro78"
-        },
-        {
-          "id": "b4d39692-4178-4c94-89f7-ee41da8c40ed",
-          "url": "https://allo-electricien.pro/saint-remy-l'honore",
-          "url_path": "/saint-remy-l'honore",
-          "title": "⚡ Intervention Électricien SAINT-REMY-L'HONORE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "SAINT-REMY-L'HONORE",
-          "zip_code": "78690",
-          "department": "78",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien SAINT-REMY-L'HONORE",
           "company_name": "VoltPro78"
         },
         {
@@ -16348,24 +16204,6 @@
           "featured_image": null,
           "og_image": null,
           "keyword": "Intervention Électricien D'Huison-Longueville",
-          "company_name": "AmpèrePlus91"
-        },
-        {
-          "id": "8fc22f08-dfd5-4b0c-b963-33431b5afdd1",
-          "url": "https://allo-electricien.pro/d'huison-longueville",
-          "url_path": "/d'huison-longueville",
-          "title": "⚡ Intervention Électricien D'HUISON-LONGUEVILLE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "D'HUISON-LONGUEVILLE",
-          "zip_code": "91590",
-          "department": "91",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien D'HUISON-LONGUEVILLE",
           "company_name": "AmpèrePlus91"
         },
         {
@@ -19305,24 +19143,6 @@
           "company_name": "ÉlectriciensUrgence Ville-d'Avray"
         },
         {
-          "id": "6a8d5413-cf99-4667-bf4a-75d726e4c8ca",
-          "url": "https://allo-electricien.pro/ville-d'avray",
-          "url_path": "/ville-d'avray",
-          "title": "⚡ Intervention Électricien VILLE-D'AVRAY | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "VILLE-D'AVRAY",
-          "zip_code": "92410",
-          "department": "92",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien VILLE-D'AVRAY",
-          "company_name": "AmpèrePro92"
-        },
-        {
           "id": "ac52b2fd-77f9-4291-8df8-34dd6828aafb",
           "url": "https://allo-electricien.pro/villeneuve-la-garenne",
           "url_path": "/villeneuve-la-garenne",
@@ -19485,24 +19305,6 @@
           "og_image": "/images/og/electricien-l-ile-saint-denis-93450-og.jpg",
           "keyword": "Électricien Urgence L'ile-Saint-Denis 93450",
           "company_name": "L'ILE-SAINT-DENISFlash"
-        },
-        {
-          "id": "2c9174b2-d29b-47df-8cff-df2f7eeeff40",
-          "url": "https://allo-electricien.pro/l'ile-saint-denis",
-          "url_path": "/l'ile-saint-denis",
-          "title": "⚡ Intervention Électricien L'ILE-SAINT-DENIS | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "L'ILE-SAINT-DENIS",
-          "zip_code": "93450",
-          "department": "93",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien L'ILE-SAINT-DENIS",
-          "company_name": "ÉlecUrgence93"
         },
         {
           "id": "583f9ea5-5f9a-4e9c-9eae-0821151f4811",
@@ -20153,24 +19955,6 @@
           "og_image": "/images/og/electricien-l-hay-les-roses-94240-og.jpg",
           "keyword": "Urgence Électricien L'hay-Les-Roses",
           "company_name": "ElectroSolutions L'Haÿ-les-Roses"
-        },
-        {
-          "id": "2dbda5ee-0f46-427f-af58-1aa114681b07",
-          "url": "https://allo-electricien.pro/l'hay-les-roses",
-          "url_path": "/l'hay-les-roses",
-          "title": "⚡ Intervention Électricien L'HAY-LES-ROSES | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "L'HAY-LES-ROSES",
-          "zip_code": "94240",
-          "department": "94",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien L'HAY-LES-ROSES",
-          "company_name": "VoltExpress94"
         },
         {
           "id": "6438f044-8eac-4a93-889e-7cf5568002e8",
@@ -20982,24 +20766,6 @@
           "featured_image": null,
           "og_image": null,
           "keyword": "Intervention Électricien Boissy-l'Aillerie",
-          "company_name": "WattService95"
-        },
-        {
-          "id": "8816b027-b6d6-400a-b316-6f54f310b36c",
-          "url": "https://allo-electricien.pro/boissy-l'aillerie",
-          "url_path": "/boissy-l'aillerie",
-          "title": "⚡ Intervention Électricien BOISSY-L'AILLERIE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "BOISSY-L'AILLERIE",
-          "zip_code": "95650",
-          "department": "95",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien BOISSY-L'AILLERIE",
           "company_name": "WattService95"
         },
         {
@@ -22209,24 +21975,6 @@
           "company_name": "CircuitVolt95"
         },
         {
-          "id": "d9fc155a-033c-4880-9f9c-2c8d16712bd6",
-          "url": "https://allo-electricien.pro/l'isle-adam",
-          "url_path": "/l'isle-adam",
-          "title": "⚡ Intervention Électricien L'ISLE-ADAM | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "L'ISLE-ADAM",
-          "zip_code": "95290",
-          "department": "95",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien L'ISLE-ADAM",
-          "company_name": "WattService95"
-        },
-        {
           "id": "f49cc384-be64-423e-abac-1b04005bc363",
           "url": "https://allo-electricien.pro/la-chapelle-en-vexin",
           "url_path": "/la-chapelle-en-vexin",
@@ -23377,24 +23125,6 @@
           "og_image": "/images/og/electricien-saint-ouen-l-aumone-95310-og.jpg",
           "keyword": "Électricien Urgence Saint-Ouen-L'aumone 95310",
           "company_name": "Volt95Pro"
-        },
-        {
-          "id": "386b29d3-dc9f-4ce1-bfe0-b416bc15d95a",
-          "url": "https://allo-electricien.pro/saint-ouen-l'aumone",
-          "url_path": "/saint-ouen-l'aumone",
-          "title": "⚡ Intervention Électricien SAINT-OUEN-L'AUMONE | 24/7",
-          "page_type": "city",
-          "is_indexed": true,
-          "city_name": "SAINT-OUEN-L'AUMONE",
-          "zip_code": "95310",
-          "department": "95",
-          "priority": 0.5,
-          "tier": "D",
-          "has_video": true,
-          "featured_image": null,
-          "og_image": null,
-          "keyword": "Intervention Électricien SAINT-OUEN-L'AUMONE",
-          "company_name": "WattService95"
         },
         {
           "id": "a820020f-f4ba-4f9a-bd70-b1be48a6d490",
