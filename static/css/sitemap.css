@@ -1,0 +1,396 @@
+/**
+ * Sitemap Page Styles
+ * Optimized for SEO, accessibility, and mobile-first responsive design
+ */
+
+/* ========================================
+   SITEMAP INTRO & SEARCH
+   ======================================== */
+
+.sitemap-intro {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sitemap-search {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: white;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #e5e7eb;
+}
+
+#sitemap-search {
+  transition: all 0.3s ease;
+}
+
+#sitemap-search:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
+
+#search-results-count {
+  font-style: italic;
+  min-height: 1.5rem;
+}
+
+/* ========================================
+   TIER VISUAL HIERARCHY
+   ======================================== */
+
+.sitemap-tier {
+  scroll-margin-top: 120px; /* Account for sticky search */
+}
+
+/* Tier S: Priority pages - Most prominent */
+.sitemap-tier-s {
+  position: relative;
+  overflow: hidden;
+}
+
+.sitemap-tier-s::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle, rgba(220, 38, 38, 0.05) 0%, transparent 70%);
+  z-index: 0;
+}
+
+.sitemap-tier-s > div {
+  position: relative;
+  z-index: 1;
+}
+
+/* Tier B: Paris arrondissements - High visibility */
+.sitemap-tier-b {
+  background: linear-gradient(to right, #fef2f2, #fff);
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+/* Tier C: Major suburbs - Medium visibility */
+.sitemap-tier-c .department-cities {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.sitemap-tier-c .department-cities:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Tier D: All communes - Collapsible */
+.sitemap-tier-d .department-accordion {
+  transition: all 0.3s ease;
+}
+
+.sitemap-tier-d .department-accordion[open] {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.sitemap-tier-d summary {
+  transition: background-color 0.2s ease;
+}
+
+.sitemap-tier-d summary::-webkit-details-marker {
+  display: none;
+}
+
+.sitemap-tier-d summary::after {
+  content: '▼';
+  float: right;
+  transition: transform 0.3s ease;
+}
+
+.sitemap-tier-d details[open] summary::after {
+  transform: rotate(-180deg);
+}
+
+/* ========================================
+   PARIS ZONES
+   ======================================== */
+
+.paris-zone {
+  transition: all 0.3s ease;
+}
+
+.paris-zone:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+}
+
+/* ========================================
+   DEPARTMENT CITIES
+   ======================================== */
+
+.department-cities h3 {
+  border-bottom: 3px solid #2563eb;
+  padding-bottom: 0.5rem;
+}
+
+/* ========================================
+   SITEMAP ITEMS & LINKS
+   ======================================== */
+
+.sitemap-item {
+  position: relative;
+}
+
+/* Hide filtered items smoothly */
+.sitemap-item.hidden {
+  display: none !important;
+}
+
+/* Highlight search matches */
+.sitemap-item.match {
+  animation: highlightPulse 0.5s ease;
+}
+
+@keyframes highlightPulse {
+  0%, 100% {
+    background-color: transparent;
+  }
+  50% {
+    background-color: #fef3c7;
+  }
+}
+
+/* Link hover effects */
+.sitemap-hierarchy a {
+  position: relative;
+  transition: all 0.2s ease;
+}
+
+.sitemap-hierarchy a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: currentColor;
+  transition: width 0.3s ease;
+}
+
+.sitemap-hierarchy a:hover::after {
+  width: 100%;
+}
+
+/* ========================================
+   SERVICES SECTION
+   ======================================== */
+
+.sitemap-services {
+  background: linear-gradient(135deg, #f8fafc 0%, #e7e5e4 100%);
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+.sitemap-services h3 {
+  border-bottom: 2px solid #dc2626;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+/* ========================================
+   FOOTER CTA
+   ======================================== */
+
+.sitemap-footer-cta {
+  background: linear-gradient(135deg, #dc2626 0%, #991b1b 100%) !important;
+  animation: ctaPulse 3s ease-in-out infinite;
+}
+
+@keyframes ctaPulse {
+  0%, 100% {
+    box-shadow: 0 10px 25px rgba(220, 38, 38, 0.3);
+  }
+  50% {
+    box-shadow: 0 10px 35px rgba(220, 38, 38, 0.5);
+  }
+}
+
+.sitemap-footer-cta a {
+  transition: all 0.3s ease;
+}
+
+.sitemap-footer-cta a:hover {
+  transform: scale(1.05);
+}
+
+/* ========================================
+   RESPONSIVE DESIGN
+   ======================================== */
+
+/* Mobile (< 640px) */
+@media (max-width: 639px) {
+  .sitemap-hierarchy h2 {
+    font-size: 1.5rem;
+  }
+
+  .sitemap-hierarchy h3 {
+    font-size: 1.125rem;
+  }
+
+  .sitemap-tier-s .grid {
+    grid-template-columns: 1fr !important;
+  }
+
+  .paris-zone,
+  .department-cities,
+  .sitemap-services > div {
+    margin-bottom: 1rem;
+  }
+
+  .sitemap-search {
+    position: relative; /* Not sticky on mobile to save space */
+  }
+}
+
+/* Tablet (640px - 1024px) */
+@media (min-width: 640px) and (max-width: 1023px) {
+  .sitemap-tier-b .grid {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+
+  .department-cities ul {
+    grid-template-columns: repeat(2, 1fr) !important;
+  }
+}
+
+/* Desktop (>= 1024px) */
+@media (min-width: 1024px) {
+  .sitemap-hierarchy {
+    font-size: 1rem;
+  }
+
+  .department-cities ul {
+    grid-template-columns: repeat(4, 1fr) !important;
+  }
+}
+
+/* ========================================
+   ACCESSIBILITY
+   ======================================== */
+
+/* Focus indicators */
+.sitemap-hierarchy a:focus,
+.department-accordion summary:focus,
+#sitemap-search:focus {
+  outline: 3px solid #3b82f6;
+  outline-offset: 2px;
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+  .sitemap-hierarchy a {
+    text-decoration: underline;
+  }
+
+  .sitemap-tier-s,
+  .sitemap-tier-b,
+  .sitemap-tier-c,
+  .sitemap-tier-d {
+    border: 2px solid currentColor;
+  }
+}
+
+/* ========================================
+   PRINT STYLES
+   ======================================== */
+
+@media print {
+  .sitemap-search,
+  .sitemap-footer-cta {
+    display: none;
+  }
+
+  .department-accordion {
+    border: 1px solid #000;
+  }
+
+  .department-accordion summary::after {
+    display: none;
+  }
+
+  details {
+    display: block !important;
+  }
+
+  summary {
+    display: block;
+  }
+
+  .sitemap-hierarchy a {
+    color: #000;
+    text-decoration: underline;
+  }
+
+  .sitemap-hierarchy a::after {
+    content: " (" attr(href) ")";
+    font-size: 0.8em;
+    color: #666;
+  }
+}
+
+/* ========================================
+   LOADING STATE
+   ======================================== */
+
+.sitemap-hierarchy.loading {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.sitemap-hierarchy.loading::after {
+  content: 'Chargement...';
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  font-size: 1.5rem;
+  font-weight: bold;
+  z-index: 9999;
+}
+
+/* ========================================
+   DEPARTMENT BADGE COLORS
+   ======================================== */
+
+.department-cities h3 span[class*="bg-blue"] {
+  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+}
+
+/* ========================================
+   SMOOTH SCROLLING
+   ======================================== */
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

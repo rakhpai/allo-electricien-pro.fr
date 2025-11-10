@@ -1,0 +1,377 @@
+{{/* Load sitemap data from data/sitemap-pages.json */}}
+{{ $sitemapData := .Site.Data.sitemap_pages }}
+{{ $organized := $sitemapData.organized }}
+
+{{/* Helper function to generate anchor text based on priority and video status */}}
+{{ define "anchorText" }}
+  {{ $page := . }}
+  {{ $cityName := $page.city_name | default (path.Base $page.url_path) }}
+
+  {{/* Tier S: Priority pages - use title as-is */}}
+  {{ if eq $page.tier "S" }}
+    {{ $page.title }}
+
+  {{/* Tier B: Paris arrondissements - descriptive with landmarks */}}
+  {{ else if and (eq $page.tier "B") (eq $page.department "75") }}
+    {{ $arrNum := replaceRE "^.*/paris-" "" $page.url_path | replaceRE "[^0-9].*$" "" }}
+    {{ $arrSuffix := cond (eq $arrNum "1") "er" "e" }}
+    {{ $landmark := "" }}
+    {{ if eq $arrNum "1" }}{{ $landmark = " - Louvre, Châtelet" }}
+    {{ else if eq $arrNum "2" }}{{ $landmark = " - Bourse, Opéra" }}
+    {{ else if eq $arrNum "3" }}{{ $landmark = " - Marais, République" }}
+    {{ else if eq $arrNum "4" }}{{ $landmark = " - Île de la Cité, Notre-Dame" }}
+    {{ else if eq $arrNum "5" }}{{ $landmark = " - Quartier Latin, Panthéon" }}
+    {{ else if eq $arrNum "6" }}{{ $landmark = " - Saint-Germain-des-Prés" }}
+    {{ else if eq $arrNum "7" }}{{ $landmark = " - Tour Eiffel, Invalides" }}
+    {{ else if eq $arrNum "8" }}{{ $landmark = " - Champs-Élysées, Arc de Triomphe" }}
+    {{ else if eq $arrNum "11" }}{{ $landmark = " - Bastille, Oberkampf" }}
+    {{ else if eq $arrNum "13" }}{{ $landmark = " - Place d'Italie, BNF" }}
+    {{ else if eq $arrNum "14" }}{{ $landmark = " - Montparnasse, Catacombes" }}
+    {{ else if eq $arrNum "15" }}{{ $landmark = " - Vaugirard, Tour Eiffel" }}
+    {{ else if eq $arrNum "16" }}{{ $landmark = " - Trocadéro, Auteuil" }}
+    {{ else if eq $arrNum "18" }}{{ $landmark = " - Montmartre, Sacré-Cœur" }}
+    {{ end }}
+    Électricien Paris {{ $arrNum }}{{ $arrSuffix }}{{ $landmark }}
+
+  {{/* Tier C: Major suburbs - service + location format */}}
+  {{ else if eq $page.tier "C" }}
+    {{ if $page.has_video }}
+      Dépannage électricité {{ $cityName }} (Vidéo)
+    {{ else }}
+      Électricien {{ $cityName }}{{ with $page.zip_code }} ({{ . }}){{ end }}
+    {{ end }}
+
+  {{/* Tier D: Standard communes - simple format */}}
+  {{ else }}
+    {{ $cityName }}{{ with $page.zip_code }} ({{ . }}){{ end }}
+  {{ end }}
+{{ end }}
+
+<div class="sitemap-hierarchy">
+
+  {{/* ========================================
+       TIER S: PRIORITY PAGES (Priority 1.0)
+       ======================================== */}}
+  {{ with $organized.tier_s }}
+  {{ if gt (len .) 0 }}
+  <section id="urgence" class="sitemap-tier sitemap-tier-s mb-12">
+    <div class="bg-gradient-to-r from-red-50 to-orange-50 rounded-lg p-8 shadow-lg">
+      <h2 class="text-3xl font-bold text-red-700 mb-6 flex items-center">
+        <span class="text-4xl mr-3">🚨</span>
+        Services Urgents & Prioritaires
+      </h2>
+
+      <div class="grid md:grid-cols-3 gap-6">
+        <!-- Urgence Électrique -->
+        <div class="bg-white rounded-lg p-6 shadow-md">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Urgence Électrique</h3>
+          <ul class="space-y-2">
+            <li><a href="/sos-electricien/" class="text-blue-600 hover:text-blue-800 hover:underline font-semibold">SOS Électricien - Intervention &lt;30min</a></li>
+            <li><a href="/depannage-electricite-paris/" class="text-blue-600 hover:text-blue-800 hover:underline">Dépannage Électricité Paris Urgence</a></li>
+            <li><a href="/electricien-paris/" class="text-blue-600 hover:text-blue-800 hover:underline">Électricien Paris 24/7</a></li>
+          </ul>
+        </div>
+
+        <!-- Services Principaux -->
+        <div class="bg-white rounded-lg p-6 shadow-md">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Services Principaux</h3>
+          <ul class="space-y-2">
+            <li><a href="/services/" class="text-blue-600 hover:text-blue-800 hover:underline">Tous nos Services Électricité</a></li>
+            <li><a href="/annuaire/" class="text-blue-600 hover:text-blue-800 hover:underline">Annuaire - 408 Électriciens</a></li>
+            <li><a href="/tarifs/" class="text-blue-600 hover:text-blue-800 hover:underline">Tarifs & Devis Gratuit</a></li>
+            <li><a href="/zones-intervention/" class="text-blue-600 hover:text-blue-800 hover:underline">Zones d'Intervention IDF</a></li>
+            <li><a href="/faq/" class="text-blue-600 hover:text-blue-800 hover:underline">Questions Fréquentes</a></li>
+          </ul>
+        </div>
+
+        <!-- Départements -->
+        <div class="bg-white rounded-lg p-6 shadow-md">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Par Département</h3>
+          <ul class="space-y-2">
+            <li><a href="/electricien/75/" class="text-blue-600 hover:text-blue-800 hover:underline">Paris (75) - 20 Arrondissements</a></li>
+            <li><a href="/electricien/92/" class="text-blue-600 hover:text-blue-800 hover:underline">Hauts-de-Seine (92)</a></li>
+            <li><a href="/electricien/93/" class="text-blue-600 hover:text-blue-800 hover:underline">Seine-Saint-Denis (93)</a></li>
+            <li><a href="/electricien/94/" class="text-blue-600 hover:text-blue-800 hover:underline">Val-de-Marne (94)</a></li>
+            <li><a href="/electricien/78/" class="text-blue-600 hover:text-blue-800 hover:underline">Yvelines (78)</a></li>
+            <li><a href="/electricien/91/" class="text-blue-600 hover:text-blue-800 hover:underline">Essonne (91)</a></li>
+            <li><a href="/electricien/95/" class="text-blue-600 hover:text-blue-800 hover:underline">Val-d'Oise (95)</a></li>
+            <li><a href="/electricien/77/" class="text-blue-600 hover:text-blue-800 hover:underline">Seine-et-Marne (77)</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+  {{ end }}
+
+  {{/* ========================================
+       TIER B: PARIS ARRONDISSEMENTS (Priority 0.9)
+       ======================================== */}}
+  {{ with $organized.tier_b.paris }}
+  {{ if gt (len .) 0 }}
+  <section id="paris" class="sitemap-tier sitemap-tier-b mb-12">
+    <div class="border-4 border-red-600 rounded-lg p-8">
+      <h2 class="text-3xl font-bold text-gray-900 mb-4 flex items-center">
+        <span class="text-4xl mr-3">🏙️</span>
+        Électricien Paris - Tous les Arrondissements
+      </h2>
+
+      <p class="text-lg text-gray-700 mb-6">
+        Service d'urgence électrique dans les <strong>20 arrondissements de Paris</strong>.
+        Intervention garantie en moins de 30 minutes. Cliquez sur votre arrondissement
+        pour trouver un électricien de proximité.
+      </p>
+
+      {{/* Group Paris arrondissements by zones (20 total) */}}
+      {{ $parisCentre := slice }}
+      {{ $parisOuest := slice }}
+      {{ $parisNord := slice }}
+      {{ $parisEst := slice }}
+      {{ $parisSud := slice }}
+
+      {{ range . }}
+        {{ $arrNum := replaceRE "^.*/paris-" "" .url_path | replaceRE "[^0-9].*$" "" }}
+        {{/* Paris Centre (4): 1, 2, 3, 4 */}}
+        {{ if in (slice "1" "2" "3" "4") $arrNum }}
+          {{ $parisCentre = $parisCentre | append . }}
+        {{/* Paris Ouest (5): 7, 8, 15, 16, 17 */}}
+        {{ else if in (slice "7" "8" "15" "16" "17") $arrNum }}
+          {{ $parisOuest = $parisOuest | append . }}
+        {{/* Paris Nord (3): 9, 10, 18 */}}
+        {{ else if in (slice "9" "10" "18") $arrNum }}
+          {{ $parisNord = $parisNord | append . }}
+        {{/* Paris Est (4): 11, 12, 19, 20 */}}
+        {{ else if in (slice "11" "12" "19" "20") $arrNum }}
+          {{ $parisEst = $parisEst | append . }}
+        {{/* Paris Sud (4): 5, 6, 13, 14 */}}
+        {{ else if in (slice "5" "6" "13" "14") $arrNum }}
+          {{ $parisSud = $parisSud | append . }}
+        {{ end }}
+      {{ end }}
+
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <!-- Paris Centre -->
+        {{ if gt (len $parisCentre) 0 }}
+        <div class="paris-zone bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Paris Centre - Cœur Historique</h3>
+          <ul class="space-y-2">
+            {{ range $parisCentre }}
+            <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .url_path }}">
+              <a href="{{ .url_path }}/" class="text-blue-600 hover:text-blue-800 hover:underline">
+                {{ template "anchorText" . }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        <!-- Paris Ouest -->
+        {{ if gt (len $parisOuest) 0 }}
+        <div class="paris-zone bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Paris Ouest - Quartiers Prestigieux</h3>
+          <ul class="space-y-2">
+            {{ range $parisOuest }}
+            <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .url_path }}">
+              <a href="{{ .url_path }}/" class="text-blue-600 hover:text-blue-800 hover:underline">
+                {{ template "anchorText" . }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        <!-- Paris Nord -->
+        {{ if gt (len $parisNord) 0 }}
+        <div class="paris-zone bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Paris Nord</h3>
+          <ul class="space-y-2">
+            {{ range $parisNord }}
+            <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .url_path }}">
+              <a href="{{ .url_path }}/" class="text-blue-600 hover:text-blue-800 hover:underline">
+                {{ template "anchorText" . }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        <!-- Paris Est -->
+        {{ if gt (len $parisEst) 0 }}
+        <div class="paris-zone bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Paris Est - Quartiers Vivants</h3>
+          <ul class="space-y-2">
+            {{ range $parisEst }}
+            <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .url_path }}">
+              <a href="{{ .url_path }}/" class="text-blue-600 hover:text-blue-800 hover:underline">
+                {{ template "anchorText" . }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+
+        <!-- Paris Sud -->
+        {{ if gt (len $parisSud) 0 }}
+        <div class="paris-zone bg-gray-50 rounded-lg p-6">
+          <h3 class="text-xl font-bold text-gray-900 mb-4">Paris Sud - Rive Gauche</h3>
+          <ul class="space-y-2">
+            {{ range $parisSud }}
+            <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .url_path }}">
+              <a href="{{ .url_path }}/" class="text-blue-600 hover:text-blue-800 hover:underline">
+                {{ template "anchorText" . }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  {{ end }}
+  {{ end }}
+
+  {{/* ========================================
+       TIER C: MAJOR SUBURBS (Priority 0.7-0.85)
+       ======================================== */}}
+  <section id="grandes-villes" class="sitemap-tier sitemap-tier-c mb-12">
+    <h2 class="text-3xl font-bold text-gray-900 mb-6 flex items-center">
+      <span class="text-4xl mr-3">🌆</span>
+      Grandes Villes d'Île-de-France - Intervention Rapide
+    </h2>
+
+    <p class="text-lg text-gray-700 mb-8">
+      Nos électriciens interviennent en urgence dans les principales villes
+      d'Île-de-France. Voici les <strong>principales communes les plus demandées</strong>
+      classées par département.
+    </p>
+
+    {{ $deptNames := dict "75" "Paris" "77" "Seine-et-Marne" "78" "Yvelines" "91" "Essonne" "92" "Hauts-de-Seine" "93" "Seine-Saint-Denis" "94" "Val-de-Marne" "95" "Val-d'Oise" }}
+    {{ $deptOrder := slice "92" "93" "94" "78" "91" "95" "77" }}
+
+    {{ range $deptOrder }}
+      {{ $dept := . }}
+      {{ $deptName := index $deptNames $dept }}
+      {{ $pages := index $organized.tier_c_by_dept $dept }}
+
+      {{ if $pages }}{{ if gt (len $pages) 0 }}
+      <div class="department-cities mb-8 bg-gray-50 rounded-lg p-6">
+        <h3 class="text-2xl font-bold text-gray-900 mb-4 flex items-center">
+          <span class="inline-block bg-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center text-lg font-bold mr-3">{{ $dept }}</span>
+          {{ $deptName }} - Électricien Urgence
+        </h3>
+
+        <ul class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-3">
+          {{ range first 10 $pages }}
+          <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .department }} {{ .url_path }}">
+            <a href="{{ .url_path }}/" class="block px-3 py-2 bg-white rounded hover:bg-blue-50 hover:shadow transition-all text-blue-600 hover:text-blue-800">
+              {{ template "anchorText" . }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+
+        <p class="mt-4 text-sm text-gray-600">
+          <a href="/electricien/{{ $dept }}/" class="text-blue-600 hover:text-blue-800 font-semibold hover:underline">
+            → Voir toutes les communes {{ if eq $dept "75" }}de Paris{{ else }}de {{ $deptName }}{{ end }}
+          </a>
+        </p>
+      </div>
+      {{ end }}{{ end }}
+    {{ end }}
+  </section>
+
+  {{/* ========================================
+       TIER D: ALL COMMUNES (Priority 0.5) - Collapsible by Department
+       ======================================== */}}
+  <section id="departements" class="sitemap-tier sitemap-tier-d mb-12">
+    <h2 class="text-3xl font-bold text-gray-900 mb-6 flex items-center">
+      <span class="text-4xl mr-3">🏘️</span>
+      Toutes les Communes d'Île-de-France
+    </h2>
+
+    <p class="text-lg text-gray-700 mb-6">
+      Liste complète des <strong>1,260+ communes</strong> couvertes par notre réseau
+      d'électriciens. Cliquez sur un département pour voir toutes les communes.
+    </p>
+
+    {{ range $deptOrder }}
+      {{ $dept := . }}
+      {{ $deptName := index $deptNames $dept }}
+      {{ $pages := index $organized.tier_d_by_dept $dept }}
+
+      {{ if and $pages (gt (len $pages) 0) }}
+      <details class="department-accordion mb-4 border border-gray-300 rounded-lg">
+        <summary class="cursor-pointer p-4 bg-gray-100 hover:bg-gray-200 rounded-lg font-semibold text-lg flex items-center justify-between">
+          <span class="flex items-center">
+            <span class="inline-block bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center text-base font-bold mr-3">{{ $dept }}</span>
+            <span>{{ $deptName }} - Électricien</span>
+          </span>
+          <span class="text-sm text-gray-600 font-normal">{{ len $pages }} communes</span>
+        </summary>
+
+        <div class="p-4 bg-white">
+          <ul class="grid sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
+            {{ range $pages }}
+            <li class="sitemap-item" data-search-terms="{{ .city_name }} {{ .zip_code }} {{ .department }} {{ .url_path }}">
+              <a href="{{ .url_path }}/" class="block px-2 py-1 hover:bg-blue-50 rounded text-blue-600 hover:text-blue-800 text-sm">
+                {{ template "anchorText" . }}
+              </a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
+      </details>
+      {{ end }}
+    {{ end }}
+  </section>
+
+  {{/* ========================================
+       SERVICES & RESOURCES
+       ======================================== */}}
+  <section id="services" class="sitemap-services mb-12">
+    <h2 class="text-3xl font-bold text-gray-900 mb-6 flex items-center">
+      <span class="text-4xl mr-3">🔧</span>
+      Services & Ressources
+    </h2>
+
+    <div class="grid md:grid-cols-3 gap-6">
+      <!-- Services Électricité -->
+      <div class="bg-gray-50 rounded-lg p-6">
+        <h3 class="text-xl font-bold text-gray-900 mb-4">Services Électricité</h3>
+        <ul class="space-y-2">
+          <li><a href="/services/" class="text-blue-600 hover:text-blue-800 hover:underline">Vue d'ensemble des services</a></li>
+          <li><a href="/services/installation-electrique-paris/" class="text-blue-600 hover:text-blue-800 hover:underline">Installation électrique</a></li>
+          <li><a href="/services/mise-aux-normes-paris/" class="text-blue-600 hover:text-blue-800 hover:underline">Mise aux normes NF C 15-100</a></li>
+          <li><a href="/services/court-circuit-paris/" class="text-blue-600 hover:text-blue-800 hover:underline">Réparation court-circuit</a></li>
+          <li><a href="/services/panne-electrique-paris/" class="text-blue-600 hover:text-blue-800 hover:underline">Dépannage panne électrique</a></li>
+        </ul>
+      </div>
+
+      <!-- Guides & Conseils -->
+      <div class="bg-gray-50 rounded-lg p-6">
+        <h3 class="text-xl font-bold text-gray-900 mb-4">Guides & Conseils</h3>
+        <ul class="space-y-2">
+          <li><a href="/conseils/" class="text-blue-600 hover:text-blue-800 hover:underline">Tous nos conseils électricité</a></li>
+          <li><a href="/faq/" class="text-blue-600 hover:text-blue-800 hover:underline">Questions fréquentes</a></li>
+        </ul>
+      </div>
+
+      <!-- Informations Pratiques -->
+      <div class="bg-gray-50 rounded-lg p-6">
+        <h3 class="text-xl font-bold text-gray-900 mb-4">Informations Pratiques</h3>
+        <ul class="space-y-2">
+          <li><a href="/tarifs/" class="text-blue-600 hover:text-blue-800 hover:underline">Tarifs & Devis gratuit</a></li>
+          <li><a href="/zones-intervention/" class="text-blue-600 hover:text-blue-800 hover:underline">Zones d'intervention</a></li>
+          <li><a href="/mentions-legales/" class="text-blue-600 hover:text-blue-800 hover:underline">Mentions légales</a></li>
+          <li><a href="/politique-confidentialite/" class="text-blue-600 hover:text-blue-800 hover:underline">Politique de confidentialité</a></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+</div>

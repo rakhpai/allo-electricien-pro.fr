@@ -1,0 +1,81 @@
+{{ define "main" }}
+<main class="sitemap-page" role="main">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+
+    <!-- Page Content (from markdown) -->
+    <article class="sitemap-intro mb-12">
+      <div class="prose prose-lg max-w-none">
+        {{ .Content }}
+      </div>
+    </article>
+
+    <!-- Search Box -->
+    <div class="sitemap-search mb-8">
+      <div class="relative max-w-2xl mx-auto">
+        <input
+          type="search"
+          id="sitemap-search"
+          class="w-full px-4 py-3 pl-12 text-lg border-2 border-gray-300 rounded-lg focus:border-blue-500 focus:ring focus:ring-blue-200 focus:ring-opacity-50"
+          placeholder="Rechercher une commune (ex: Versailles, 75001, Paris 15e)..."
+          aria-label="Rechercher dans le plan du site">
+        <svg class="absolute left-4 top-4 w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+      </div>
+      <p id="search-results-count" class="text-center text-sm text-gray-600 mt-2"></p>
+    </div>
+
+    <!-- Sitemap Hierarchy -->
+    {{ partial "sitemap-hierarchy.html" . }}
+
+    <!-- Footer CTA -->
+    <section class="sitemap-footer-cta mt-16 bg-gradient-to-r from-red-600 to-red-700 rounded-lg shadow-xl p-8 text-center text-white">
+      <h2 class="text-3xl font-bold mb-4">Urgence Électrique ?</h2>
+      <p class="text-xl mb-6">Intervention garantie en moins de 30 minutes</p>
+      <div class="flex flex-col sm:flex-row gap-4 justify-center">
+        <a href="tel:0144901131" class="inline-block bg-white text-red-600 font-bold px-8 py-3 rounded-lg hover:bg-gray-100 transition-colors text-lg">
+          📞 01 44 90 11 31
+        </a>
+        <a href="/sos-electricien/" class="inline-block bg-red-800 text-white font-bold px-8 py-3 rounded-lg hover:bg-red-900 transition-colors text-lg">
+          En savoir plus
+        </a>
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Schema.org Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SiteNavigationElement",
+    "name": "Plan du Site - Allo-Électricien.pro",
+    "url": "{{ .Permalink }}",
+    "description": "{{ .Description }}",
+    "hasPart": [
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Services Urgence",
+        "url": "{{ .Site.BaseURL }}sos-electricien/"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Paris & Arrondissements",
+        "url": "{{ .Site.BaseURL }}electricien/75/"
+      },
+      {
+        "@type": "SiteNavigationElement",
+        "name": "Services Électricité",
+        "url": "{{ .Site.BaseURL }}services/"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Load Search JavaScript -->
+  <script src="/js/sitemap-search.js" defer></script>
+
+  <!-- Link to Sitemap CSS -->
+  <link rel="stylesheet" href="/css/sitemap.css">
+</main>
+{{ end }}
