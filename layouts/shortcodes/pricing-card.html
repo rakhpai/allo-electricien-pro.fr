@@ -1,4 +1,4 @@
-{{- /* Pricing Card - Individual pricing tier card */ -}}
+{{- /* Pricing Card - Enhanced individual pricing tier card with featured highlighting */ -}}
 {{- $tier := .Get "tier" -}}
 {{- $price := .Get "price" -}}
 {{- $currency := .Get "currency" | default "€" -}}
@@ -7,39 +7,24 @@
 {{- $cta := .Get "cta" | default "Demander un devis" -}}
 {{- $phone := .Get "phone" | default "0187390013" -}}
 
-{{- $cardClasses := "bg-white rounded-xl shadow-lg overflow-hidden" -}}
+{{- $featuredClass := "" -}}
 {{- if eq $featured "true" -}}
-  {{- $cardClasses = "bg-white rounded-xl shadow-2xl overflow-hidden ring-4 ring-blue-500 transform md:scale-105 relative z-10" -}}
+  {{- $featuredClass = "featured" -}}
 {{- end -}}
 
-<div class="{{ $cardClasses }}">
-  <!-- Header with gradient -->
-  <div class="bg-gradient-to-br from-blue-500 to-indigo-600 p-6 text-white relative">
-    {{- if eq $featured "true" -}}
-    <div class="absolute top-0 right-0 bg-yellow-400 text-gray-900 text-xs font-bold px-4 py-2 rounded-bl-lg shadow-lg">
-      RECOMMANDÉ
-    </div>
-    {{- end -}}
+<div class="pricing-card {{ $featuredClass }}">
+  <h3 class="pricing-tier">{{ $tier }}</h3>
 
-    <h3 class="text-2xl font-bold mb-2 {{ if eq $featured "true" }}mt-6{{ end }}">{{ $tier }}</h3>
-
-    <div class="flex items-baseline gap-1 mb-1">
-      <span class="text-4xl md:text-5xl font-bold">{{ $price }}</span>
-      <span class="text-2xl">{{ $currency }}</span>
-    </div>
-
-    <p class="text-blue-100 text-sm">par {{ $period }}</p>
+  <div class="mb-6">
+    <div class="pricing-amount">{{ $price }}<span class="text-xl font-normal">{{ $currency }}</span></div>
+    <div class="pricing-period">par {{ $period }}</div>
   </div>
 
-  <!-- Features list -->
-  <div class="p-6">
-    <div class="prose prose-sm max-w-none text-gray-700 mb-6 space-y-2">
-      {{ .Inner | markdownify }}
-    </div>
-
-    <!-- CTA Button -->
-    <a href="tel:{{ $phone }}" class="block w-full bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white font-semibold py-3 px-6 rounded-lg text-center transition-all duration-200 shadow-md hover:shadow-lg transform hover:scale-105">
-      {{ $cta }}
-    </a>
+  <div class="pricing-features">
+    {{ .Inner | markdownify }}
   </div>
+
+  <a href="tel:{{ $phone }}" class="pricing-cta">
+    {{ $cta }}
+  </a>
 </div>

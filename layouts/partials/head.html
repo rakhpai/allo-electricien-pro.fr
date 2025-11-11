@@ -6,7 +6,7 @@
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta name="keywords" content="{{ .Site.Params.keywords }}">
 {{- else }}
-<title>{{ .Params.title | default .Title }} | {{ .Site.Params.companyName }}</title>
+<title>{{ .Params.title | default .Title }} | {{ .Site.Title }}</title>
 <meta name="description" content="{{ .Params.description | default .Summary }}">
 <meta name="keywords" content="{{ .Params.keyword }}, électricien {{ .Params.city }}, dépannage électrique {{ .Params.city }}">
 {{- end }}
@@ -16,7 +16,6 @@
 <meta property="og:url" content="{{ .Permalink }}">
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Params.title | default .Title }}{{ end }}">
 <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
-<meta property="og:site_name" content="{{ .Site.Params.companyName }}">
 {{- $ogImage := "" -}}
 {{- if .Params.cdnImages.og.jpg -}}
   {{- $ogImage = .Params.cdnImages.og.jpg -}}
@@ -185,6 +184,11 @@
 
 <!-- Lottie Web Player for Animations -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js" integrity="sha512-jEnuDt6jfecCjthQAJ+ed0MTVA++5ZKmlUcmDGBv2vUI/REn6FuIdixLNnQT+vKusE2hhTk2is3cFvv5wA+Sgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!-- Alpine.js for Interactive Components (Accordions, Dropdowns) -->
+<!-- Load Collapse plugin first, then Alpine.js core -->
+<script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.13.3/dist/cdn.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.3/dist/cdn.min.js"></script>
 
 <!-- Custom CSS -->
 <link rel="stylesheet" href="/css/custom.css">

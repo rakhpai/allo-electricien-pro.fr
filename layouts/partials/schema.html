@@ -1,116 +1,4 @@
 {{- if .IsHome }}
-<!-- Organization Schema for Homepage -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "{{ .Site.Params.companyName }}",
-  "url": "{{ .Site.BaseURL }}",
-  "logo": "{{ .Site.BaseURL }}images/logo_1b.svg",
-  "description": "{{ .Site.Params.description }}",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "{{ .Site.Params.address }}",
-    "addressLocality": "{{ .Site.Params.city }}",
-    "postalCode": "{{ .Site.Params.postalCode }}",
-    "addressCountry": "FR"
-  },
-  "contactPoint": {
-    "@type": "ContactPoint",
-    "telephone": "{{ .Site.Params.mainPhone }}",
-    "contactType": "customer service",
-    "areaServed": "FR",
-    "availableLanguage": "French"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "200"
-  },
-  "sameAs": []
-}
-</script>
-
-<!-- LocalBusiness Schema with Enhanced Rating and Emergency Service -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": ["LocalBusiness", "EmergencyService", "Electrician"],
-  "name": "{{ .Site.Params.companyName }}",
-  "image": "{{ .Site.BaseURL }}images/logo_1b.svg",
-  "description": "{{ .Site.Params.description }}",
-  "@id": "{{ .Site.BaseURL }}",
-  "url": "{{ .Site.BaseURL }}",
-  "telephone": "{{ .Site.Params.mainPhone }}",
-  "priceRange": "€€",
-  "availableLanguage": ["fr", "French"],
-  "knowsAbout": ["Dépannage électrique urgent", "SOS électricien", "Panne électrique", "Court-circuit", "Installation électrique"],
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "{{ .Site.Params.address }}",
-    "addressLocality": "{{ .Site.Params.city }}",
-    "postalCode": "{{ .Site.Params.postalCode }}",
-    "addressCountry": "FR"
-  },
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "4.8",
-    "bestRating": "5",
-    "worstRating": "1",
-    "ratingCount": "200",
-    "reviewCount": "200"
-  },
-  "openingHoursSpecification": {
-    "@type": "OpeningHoursSpecification",
-    "dayOfWeek": [
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday",
-      "Sunday"
-    ],
-    "opens": "00:00",
-    "closes": "23:59"
-  },
-  "areaServed": [
-    {
-      "@type": "City",
-      "name": "Paris"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": "Île-de-France"
-    }
-  ],
-  "serviceType": "Électricien",
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Services Électricité",
-    "itemListElement": [
-      {
-        "@type": "OfferCatalog",
-        "name": "Dépannage Urgent",
-        "description": "Intervention rapide 24h/24 pour panne électrique, court-circuit, disjoncteur"
-      },
-      {
-        "@type": "OfferCatalog",
-        "name": "Installation Électrique",
-        "description": "Pose de prises, interrupteurs, luminaires, tableaux électriques"
-      },
-      {
-        "@type": "OfferCatalog",
-        "name": "Mise aux Normes",
-        "description": "Conformité NF C 15-100, diagnostic électrique, rénovation"
-      }
-    ]
-  }
-}
-</script>
-
 <!-- FAQPage Schema for SEO -->
 {{ with .Site.Data.faq }}
 <script type="application/ld+json">
@@ -133,41 +21,20 @@
 </script>
 {{ end }}
 
-<!-- Review Schema Examples (First 3 Testimonials) -->
-{{ range first 3 .Site.Data.testimonials }}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Review",
-  "itemReviewed": {
-    "@type": "LocalBusiness",
-    "name": "{{ $.Site.Params.companyName }}"
-  },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": "{{ .rating }}",
-    "bestRating": "5",
-    "worstRating": "1"
-  },
-  "author": {
-    "@type": "Person",
-    "name": "{{ .name }}"
-  },
-  "reviewBody": "{{ .text }}",
-  "datePublished": "{{ .date }}"
-}
-</script>
-{{ end }}
-
 {{- else }}
-<!-- LocalBusiness Schema for Individual Pages with Emergency Service -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": ["LocalBusiness", "EmergencyService", "Electrician"],
-  "name": "nos électriciens {{ .Params.city }}",
-  "availableLanguage": ["fr", "French"],
-  "knowsAbout": ["Dépannage électrique urgent", "SOS électricien", "Intervention rapide"],
+
+{{- if eq .Section "services" }}
+  {{/* SERVICE PAGES: Use comprehensive service schema with Service, FAQ, HowTo, and Offer schemas */}}
+  {{ partial "service-schema.html" . }}
+{{- else }}
+  {{/* CITY/LOCATION PAGES: Use EmergencyService schema */}}
+  <!-- Business Schema for Individual Pages with Emergency Service -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EmergencyService",
+    "name": "nos électriciens {{ .Params.city }}",
+    "knowsAbout": ["Dépannage électrique urgent", "SOS électricien", "Intervention rapide"],
   {{- $schemaOgImage := "" -}}
   {{- $schemaHeroImage := "" -}}
   {{- if .Params.cdnImages.og.jpg -}}
@@ -201,8 +68,15 @@
   },
   "geo": {
     "@type": "GeoCoordinates",
-    "latitude": {{ .Params.coordinates.lat }},
-    "longitude": {{ .Params.coordinates.lng }}
+    "latitude": {{ .Params.coordinates.lat | default 48.8566 }},
+    "longitude": {{ .Params.coordinates.lng | default 2.3522 }}
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "2450",
+    "bestRating": "5",
+    "worstRating": "1"
   },
   "openingHoursSpecification": {
     "@type": "OpeningHoursSpecification",
@@ -221,13 +95,29 @@
   "areaServed": {
     "@type": "City",
     "name": "{{ .Params.city }}"
-  },
-  "serviceType": "Électricien",
-  "parentOrganization": {
-    "@type": "Organization",
-    "name": "{{ .Site.Params.companyName }}",
-    "url": "{{ .Site.BaseURL }}"
   }
+}
+</script>
+
+<!-- Organization Schema for Authority -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "ECLAT RAPIDE ELECTRICITE",
+  "alternateName": "Allo Électricien",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo_1.svg",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "telephone": "+33-1-44-90-11-31",
+    "contactType": "emergency",
+    "areaServed": "FR",
+    "availableLanguage": "fr"
+  },
+  "sameAs": [
+    "https://g.page/allo-electricien-paris"
+  ]
 }
 </script>
 
@@ -240,7 +130,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "SOS Électricien",
+      "name": "ALLO Electricien",
       "item": "{{ .Site.BaseURL }}"
     }{{ if and .Params.department (ne .Params.department "null") }},
     {
@@ -281,6 +171,7 @@
 {{ else if $videoData.video_mp4 }}
   {{ $videoUrl = printf "%s%s" .Site.BaseURL $videoData.video_mp4 }}
 {{ end }}
+{{ if $videoUrl }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -288,24 +179,16 @@
   "name": "{{ $videoTitle }}",
   "description": "{{ if $videoData.voiceover_script }}{{ $videoData.voiceover_script | plainify }}{{ else }}Découvrez les services d'électricien à {{ $cityName }}. Intervention rapide 24/7 pour tous vos besoins électriques.{{ end }}",
   {{ if $thumbnailPath }}"thumbnailUrl": "{{ $thumbnailPath }}",{{ end }}
-  "contentUrl": "{{ if $videoUrl }}{{ $videoUrl }}{{ else }}{{ printf "%s%s" .Site.BaseURL $videoData.video_mp4 }}{{ end }}",
-  {{ if $videoData.video_webm }}"embedUrl": "{{ printf "%s%s" .Site.BaseURL $videoData.video_webm }}",{{ end }}
+  "contentUrl": "{{ $videoUrl }}",
   "uploadDate": "{{ if $videoData.created_at }}{{ $videoData.created_at }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
   "duration": "{{ if $videoData.duration_iso }}{{ $videoData.duration_iso }}{{ else }}PT45S{{ end }}",
   "width": "1920",
-  "height": "1080",
-  {{ if $videoData.voiceover_script }}"transcript": "{{ $videoData.voiceover_script | plainify }}",{{ end }}
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ .Site.Params.companyName }}",
-    "url": "{{ .Site.BaseURL }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}images/logo_1b.svg"
-    }
-  }
+  "height": "1080"{{ if $videoData.voiceover_script }},
+  "transcript": "{{ $videoData.voiceover_script | plainify }}"{{ end }}
 }
 </script>
 {{ end }}
 {{ end }}
-{{- end }}
+{{ end }}
+{{- end }}{{/* end if eq .Section "services" */}}
+{{- end }}{{/* end if .IsHome */}}

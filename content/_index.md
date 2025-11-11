@@ -27,7 +27,7 @@ Notre **service SOS électricien Paris** prend en charge toutes les urgences él
 
 ## Couverture Géographique
 
-Notre réseau d'électriciens couvre l'ensemble de l'Île-de-France et l'Oise :
+Notre réseau d'électriciens couvre l'ensemble de l'Île-de-France :
 - Paris et ses 20 arrondissements
 - Hauts-de-Seine (92)
 - Seine-Saint-Denis (93)
@@ -36,6 +36,5 @@ Notre réseau d'électriciens couvre l'ensemble de l'Île-de-France et l'Oise :
 - Yvelines (78)
 - Val-d'Oise (95)
 - Seine-et-Marne (77)
-- Oise (60)
 
 Plus de 1 300 communes couvertes pour votre dépannage électrique en urgence.

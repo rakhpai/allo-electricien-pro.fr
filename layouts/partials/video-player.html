@@ -31,12 +31,12 @@
     {{ $thumbnailPath = printf "/images/hero/%s.jpg" .Params.images.hero }}
   {{ end }}
 
-  <section class="video-section" itemscope itemtype="https://schema.org/VideoObject">
+  <section class="video-section">
     <div class="container mx-auto px-4">
       <div class="max-w-5xl mx-auto">
 
         {{/* Video Title */}}
-        <h1 class="font-bold text-gray-900 mb-4 overflow-hidden text-ellipsis whitespace-nowrap" style="font-size: 1.35rem;" itemprop="name">
+        <h1 class="font-bold text-gray-900 mb-4 overflow-hidden text-ellipsis whitespace-nowrap" style="font-size: 1.35rem;">
           {{ $videoTitle }}
         </h1>
 
@@ -57,8 +57,7 @@
             height="1080"
             fetchpriority="high"
             loading="eager"
-            aria-label="SOS Électricien {{ $cityName }} - Vidéo de présentation des services 24/7"
-            itemprop="contentUrl">
+            aria-label="SOS Électricien {{ $cityName }} - Vidéo de présentation des services 24/7">
 
             {{/* Prefer WebM for better compression, fallback to MP4 */}}
             {{ if $videoWebm }}
@@ -126,7 +125,7 @@
               </svg>
             </summary>
 
-            <div class="px-6 pb-6 pt-2 border-t border-gray-200" itemprop="description">
+            <div class="px-6 pb-6 pt-2 border-t border-gray-200">
               <p class="text-gray-700 whitespace-pre-line leading-relaxed text-sm">
                 {{ $videoData.voiceover_script }}
               </p>
@@ -139,23 +138,6 @@
             </div>
           </details>
         {{ end }}
-
-        {{/* Enhanced Schema.org metadata */}}
-        <meta itemprop="thumbnailUrl" content="{{ absURL $thumbnailPath }}">
-        <meta itemprop="uploadDate" content="{{ if $videoData.created_at }}{{ $videoData.created_at }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}">
-        {{ if $videoData.duration_iso }}
-          <meta itemprop="duration" content="{{ $videoData.duration_iso }}">
-        {{ else }}
-          <meta itemprop="duration" content="PT45S">
-        {{ end }}
-        {{ if $videoData.voiceover_script }}
-          <meta itemprop="transcript" content="{{ $videoData.voiceover_script }}">
-        {{ end }}
-        <meta itemprop="width" content="1920">
-        <meta itemprop="height" content="1080">
-        <meta itemprop="inLanguage" content="fr-FR">
-        <meta itemprop="isFamilyFriendly" content="true">
-        <meta itemprop="regionsAllowed" content="FR">
 
       </div>
     </div>

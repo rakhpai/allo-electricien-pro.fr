@@ -7,14 +7,14 @@ enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
   description = "SOS Électricien Paris & IDF ⚡ Dépannage électricité en urgence <30min. 410 professionnels 24/7. Court-circuit, panne totale, installation. ☎️ 01 44 90 11 31"
 
   # Company Information
-  companyName = "Allo Électricien"
-  companyLegalForm = "SARL (Société à associé unique)"
-  siret = "988 585 626"
-  rcs = "988 585 626 R.C.S. Nanterre"
+  companyName = "ECLAT RAPIDE ELECTRICITE"
+  companyLegalForm = "Société à responsabilité limitée (Société à associé unique)"
+  siret = "988 601 175 00017"
+  rcs = "988 601 175 R.C.S. Créteil"
   capital = "1 000,00 €"
-  address = "95 Rue Jean Bleuzen"
-  postalCode = "92170"
-  city = "Vanves"
+  address = "55-69 Avenue de Fontainebleau"
+  postalCode = "94270"
+  city = "Le Kremlin-Bicêtre"
   country = "France"
 
   # Contact

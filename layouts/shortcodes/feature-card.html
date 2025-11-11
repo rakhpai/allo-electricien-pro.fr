@@ -39,18 +39,14 @@
   {{- $hoverClass = "transition-all duration-300 hover:shadow-xl hover:scale-105" -}}
 {{- end -}}
 
-<div class="bg-white rounded-lg shadow-lg p-6 {{ $hoverClass }}">
-  <div class="flex items-start gap-4">
-    <div class="flex-shrink-0 {{ $iconColor }}">
-      {{ $selectedIcon | safeHTML }}
-    </div>
-    <div class="flex-1">
-      {{- if $title -}}
-      <h3 class="text-lg font-semibold text-gray-900 mb-3">{{ $title }}</h3>
-      {{- end -}}
-      <div class="text-gray-700 prose prose-sm max-w-none">
-        {{ .Inner | markdownify }}
-      </div>
-    </div>
+<div class="feature-card color-{{ $color }}">
+  <div class="feature-card-icon {{ $iconColor }}">
+    {{ $selectedIcon | safeHTML }}
+  </div>
+  {{- if $title -}}
+  <h3 class="text-xl font-bold text-gray-900 mb-3">{{ $title }}</h3>
+  {{- end -}}
+  <div class="text-gray-700 leading-relaxed">
+    {{ .Inner | markdownify }}
   </div>
 </div>

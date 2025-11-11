@@ -26,7 +26,7 @@
 {{ $phoneDisplay := default $profile.phone $profile.phone_display }}
 {{ $phoneHref := default $profile.phone $profile.phone_href }}
 
-<article class="electrician-card bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden h-full flex flex-col group" itemscope itemtype="https://schema.org/LocalBusiness">
+<article class="electrician-card bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden h-full flex flex-col group">
   {{/* Header with Background Image */}}
   <div class="relative overflow-hidden h-40 md:h-48">
     {{/* Background Image Layer */}}
@@ -99,10 +99,7 @@
     {{/* Rating and Experience */}}
     <div class="flex items-center justify-center gap-4 mb-4 pb-4 border-b border-gray-200">
       {{/* Rating Stars */}}
-      <div class="flex items-center" itemprop="aggregateRating" itemscope itemtype="https://schema.org/AggregateRating">
-        <meta itemprop="ratingValue" content="{{ $profile.rating }}">
-        <meta itemprop="bestRating" content="5">
-        <meta itemprop="reviewCount" content="50">
+      <div class="flex items-center">
         <div class="flex text-yellow-400">
           {{ range seq 5 }}
             {{ if le . $profile.rating }}
@@ -183,11 +180,4 @@
     {{ end }}
   </div>
 
-  {{/* Hidden Schema.org Data */}}
-  <meta itemprop="priceRange" content="€€">
-  <meta itemprop="telephone" content="{{ $phoneHref }}">
-  <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress" class="hidden">
-    <meta itemprop="addressCountry" content="FR">
-    <meta itemprop="addressRegion" content="Île-de-France">
-  </div>
 </article>

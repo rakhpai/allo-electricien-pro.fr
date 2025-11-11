@@ -1,0 +1,194 @@
+{{/*
+  Service Intro Accordion - Expandable service-specific introduction
+  Usage: {{ partial "service-intro-accordion.html" . }}
+
+  Features:
+  - Collapsed by default with key facts visible
+  - Expandable to show full service description
+  - Service-type color coding
+  - Accessible with ARIA labels and keyboard navigation
+*/}}
+
+{{/* Determine service type for color theming */}}
+{{ $serviceType := "planned" }}
+{{ $accentColor := "blue" }}
+{{ $borderColor := "border-blue-500" }}
+
+{{ if or (in .Title "Urgence") (in .Title "Panne") (in .Title "Court-Circuit") (in .Title "Dépannage") }}
+  {{ $serviceType = "emergency" }}
+  {{ $accentColor = "red" }}
+  {{ $borderColor = "border-red-500" }}
+{{ else if or (in .Title "Installation") (in .Title "Rénovation") }}
+  {{ $serviceType = "hybrid" }}
+  {{ $accentColor = "purple" }}
+  {{ $borderColor = "border-purple-500" }}
+{{ end }}
+
+{{/* Extract key service metrics from params or content */}}
+{{ $duration := .Params.duration | default "Variable selon projet" }}
+{{ $priceRange := .Params.priceRange | default "Sur devis" }}
+{{ $certification := .Params.certification | default "NF C 15-100" }}
+
+{{/* Service description - use summary if available, otherwise truncate description */}}
+{{ $shortDesc := .Params.summary | default (.Params.description | truncate 150) }}
+
+<div class="service-intro-accordion bg-white rounded-lg shadow-lg mb-8 overflow-hidden border-l-4 {{ $borderColor }} transition-all duration-300 hover:shadow-xl"
+     x-data="{ expanded: false }"
+     role="region"
+     aria-labelledby="service-intro-title">
+
+  <!-- Collapsed State: Key Facts (Always Visible) -->
+  <button @click="expanded = !expanded"
+          class="w-full text-left p-6 focus:outline-none focus:ring-2 focus:ring-{{ $accentColor }}-500 focus:ring-inset"
+          :aria-expanded="expanded"
+          aria-controls="service-intro-content">
+
+    <div class="flex items-start justify-between gap-4">
+      <div class="flex-1">
+        <h2 id="service-intro-title" class="text-2xl font-bold text-gray-900 mb-3 flex items-center gap-2">
+          {{ if eq $serviceType "emergency" }}
+            <svg class="w-7 h-7 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+            </svg>
+          {{ else if eq $serviceType "hybrid" }}
+            <svg class="w-7 h-7 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+            </svg>
+          {{ else }}
+            <svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+          {{ end }}
+          <span>{{ .Title | replaceRE "^✓\\s*" "" }}</span>
+        </h2>
+
+        <p class="text-gray-800 mb-4 leading-relaxed">
+          {{ $shortDesc }}
+        </p>
+
+        <!-- Key Facts Grid -->
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+          <!-- Duration -->
+          <div class="flex items-center gap-2 bg-gray-50 rounded-lg p-3 transition-all duration-200 hover:bg-gray-100">
+            <svg class="w-5 h-5 text-{{ $accentColor }}-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <div>
+              <div class="text-xs text-gray-700 font-medium">Durée</div>
+              <div class="text-sm font-semibold text-gray-900">{{ $duration }}</div>
+            </div>
+          </div>
+
+          <!-- Price Range -->
+          <div class="flex items-center gap-2 bg-gray-50 rounded-lg p-3 transition-all duration-200 hover:bg-gray-100">
+            <svg class="w-5 h-5 text-{{ $accentColor }}-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <div>
+              <div class="text-xs text-gray-700 font-medium">Tarif</div>
+              <div class="text-sm font-semibold text-gray-900">{{ $priceRange }}</div>
+            </div>
+          </div>
+
+          <!-- Certification -->
+          <div class="flex items-center gap-2 bg-gray-50 rounded-lg p-3 transition-all duration-200 hover:bg-gray-100">
+            <svg class="w-5 h-5 text-{{ $accentColor }}-600 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+            </svg>
+            <div>
+              <div class="text-xs text-gray-700 font-medium">Norme</div>
+              <div class="text-sm font-semibold text-gray-900">{{ $certification }}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Expand/Collapse Icon -->
+      <div class="flex-shrink-0">
+        <svg class="w-6 h-6 text-{{ $accentColor }}-600 transition-transform duration-300"
+             :class="{ 'rotate-180': expanded }"
+             fill="none"
+             stroke="currentColor"
+             viewBox="0 0 24 24"
+             aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </div>
+    </div>
+  </button>
+
+  <!-- Expanded State: Full Description -->
+  <div x-show="expanded"
+       x-collapse
+       id="service-intro-content"
+       class="border-t border-gray-200">
+    <div class="p-6 bg-gradient-to-br from-{{ $accentColor }}-50 to-gray-50">
+
+      {{ if .Params.benefits }}
+      <div class="mb-6">
+        <h3 class="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+          <svg class="w-5 h-5 text-{{ $accentColor }}-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+          </svg>
+          Pourquoi Choisir Ce Service ?
+        </h3>
+        <ul class="space-y-2">
+          {{ range .Params.benefits }}
+          <li class="flex items-start gap-2 text-gray-800">
+            <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+            </svg>
+            <span>{{ . }}</span>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ if .Params.keyDifferentiators }}
+      <div class="mb-6">
+        <h3 class="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
+          <svg class="w-5 h-5 text-{{ $accentColor }}-600" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+          </svg>
+          Nos Points Forts
+        </h3>
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+          {{ range .Params.keyDifferentiators }}
+          <div class="flex items-start gap-2 bg-white rounded-lg p-3 shadow-sm">
+            <svg class="w-5 h-5 text-{{ $accentColor }}-600 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20" aria-hidden="true">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+            </svg>
+            <span class="text-sm text-gray-800 font-medium">{{ . }}</span>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+      {{ if or (eq $serviceType "emergency") (eq $serviceType "hybrid") }}
+      <div class="bg-{{ $accentColor }}-100 border-l-4 border-{{ $accentColor }}-500 rounded-r-lg p-4">
+        <div class="flex items-center gap-2">
+          <svg class="w-5 h-5 text-{{ $accentColor }}-700" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+          </svg>
+          <p class="text-sm text-{{ $accentColor }}-900 font-medium">
+            {{ if eq $serviceType "emergency" }}
+            Service d'urgence disponible 24h/24 et 7j/7 avec intervention rapide en moins de 30 minutes.
+            {{ else }}
+            Service flexible : intervention d'urgence possible ou planification selon vos besoins.
+            {{ end }}
+          </p>
+        </div>
+      </div>
+      {{ end }}
+
+    </div>
+  </div>
+</div>
+
+{{/* Alpine.js collapse directive - Ensure Alpine.js is loaded in your project */}}
+<script>
+  // Alpine.js should be loaded in head.html
+  // This component requires Alpine.js for the x-collapse directive
+</script>

@@ -1,25 +1,16 @@
-{{- /* Step Item - Individual step in a process timeline */ -}}
+{{- /* Step Item - Individual step in a process timeline with progress indicators */ -}}
 {{- $number := .Get "number" -}}
 {{- $title := .Get "title" -}}
 {{- $icon := .Get "icon" -}}
 
-<div class="relative flex items-start gap-4 md:gap-6 bg-white rounded-lg shadow-lg p-6 md:p-8 transition-all duration-300 hover:shadow-xl">
-  <!-- Step number badge -->
-  <div class="flex-shrink-0 w-14 h-14 md:w-16 md:h-16 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full flex items-center justify-center text-white font-bold text-xl md:text-2xl shadow-lg z-10 relative">
-    {{- if $icon -}}
-      <!-- Custom icon would go here if needed -->
-      {{ $number }}
-    {{- else -}}
-      {{ $number }}
-    {{- end -}}
+<div class="step-item">
+  {{- if $title -}}
+  <div class="step-title">
+    <span class="step-number-badge">{{ $number }}</span>
+    {{ $title }}
   </div>
-
-  <div class="flex-1 pt-2">
-    {{- if $title -}}
-    <h3 class="text-xl md:text-2xl font-semibold text-gray-900 mb-3">{{ $title }}</h3>
-    {{- end -}}
-    <div class="text-gray-700 prose prose-sm md:prose max-w-none">
-      {{ .Inner | markdownify }}
-    </div>
+  {{- end -}}
+  <div class="step-content">
+    {{ .Inner | markdownify }}
   </div>
 </div>

@@ -1,0 +1,25 @@
+{{/*
+  Carousel Schema Partial - Google ItemList Schema
+  Generates ItemList/Carousel schema for electrician profiles on city pages
+  Requires minimum 3 profiles to display carousel in Google search results
+*/}}
+
+{{/* Get profiles for current city from data file */}}
+{{ $profilesData := .Site.Data.electricien_profiles }}
+{{ $citySlug := .Params.slug }}
+{{ $cityProfiles := slice }}
+
+{{/* Try to find profiles for this city */}}
+{{ if and $profilesData $citySlug }}
+  {{ if isset $profilesData.by_city $citySlug }}
+    {{ $cityProfiles = index $profilesData.by_city $citySlug }}
+  {{ else if strings.HasSuffix $citySlug "e" }}
+    {{/* Try without 'e' suffix for Paris arrondissements (paris-6e → paris-6) */}}
+    {{ $altSlug := strings.TrimSuffix $citySlug "e" }}
+    {{ if isset $profilesData.by_city $altSlug }}
+      {{ $cityProfiles = index $profilesData.by_city $altSlug }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{/* Carousel schema removed - worksFor property was creating LocalBusiness instances */}}

@@ -2,6 +2,6 @@
 {{- $columns := .Get "columns" | default "2" -}}
 {{- $gap := .Get "gap" | default "6" -}}
 
-<div class="grid grid-cols-1 md:grid-cols-{{ $columns }} gap-{{ $gap }} mb-8">
+<div class="feature-grid columns-{{ $columns }}">
   {{ .Inner }}
 </div>

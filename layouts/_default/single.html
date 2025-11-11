@@ -52,6 +52,10 @@
 
 {{ end }}
 
+{{/* Use enhanced emergency hero for service/depannage pages, regular hero for others */}}
+{{ if or (eq .Section "services") (in .Permalink "depannage") (in .Permalink "court-circuit") (in .Permalink "installation-electrique") (in .Permalink "mise-aux-normes") }}
+  {{ partial "hero-emergency.html" . }}
+{{ else }}
 <!-- Hero Section -->
 <section class="relative bg-gradient-to-r from-primary to-blue-700 text-white py-12 overflow-hidden">
   <!-- Centralized SVG Hero Background -->
@@ -113,6 +117,7 @@
     </div>
   </div>
 </section>
+{{ end }}
 
 <!-- Main Content -->
 <section class="py-12 bg-white">
@@ -121,18 +126,31 @@
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
         <!-- Main Column -->
         <div class="lg:col-span-2">
-          <!-- Service Info -->
-          <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">
-              Électricien {{ .Params.city }} ({{ .Params.zipCode }})
-            </h2>
-            <p class="text-gray-700 mb-6">
-              Besoin d'un électricien d'urgence à {{ .Params.city }} ? nos électriciens à {{ .Params.city }} interviennent rapidement pour tous vos dépannages électriques 24h/24 et 7j/7.
-            </p>
+          {{ if eq .Section "services" }}
+            {{/* SERVICE PAGES: Use accordion intro instead of generic city intro */}}
+            {{ partial "service-intro-accordion.html" . }}
 
-            {{ .Content }}
-          </div>
+            <!-- Service Content -->
+            <div class="service-content prose prose-lg max-w-none">
+              {{ .Content }}
+            </div>
+          {{ else }}
+            {{/* CITY/LOCATION PAGES: Use traditional city intro */}}
+            <!-- Service Info -->
+            <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+              <h2 class="text-2xl font-bold text-gray-900 mb-4">
+                Électricien {{ .Params.city }} ({{ .Params.zipCode }})
+              </h2>
+              <p class="text-gray-700 mb-6">
+                Besoin d'un électricien d'urgence à {{ .Params.city }} ? nos électriciens à {{ .Params.city }} interviennent rapidement pour tous vos dépannages électriques 24h/24 et 7j/7.
+              </p>
 
+              {{ .Content }}
+            </div>
+          {{ end }}
+
+          {{ if ne .Section "services" }}
+          {{/* Only show Services Grid on city pages, not service pages */}}
           <!-- Services Grid -->
           <div class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-lg shadow-lg p-8 mb-8">
             <h2 class="text-2xl font-bold text-gray-900 mb-6">
@@ -177,6 +195,7 @@
               </div>
             </div>
           </div>
+          {{ end }}
 
           {{/* SEO-Optimized Proximity Interlinking */}}
           {{ partial "interlinks-section.html" . }}
@@ -225,6 +244,16 @@
               </li>
             </ul>
           </div>
+
+          {{/* Callback Request Form for Service Pages */}}
+          {{ if or (eq .Section "services") (in .Permalink "depannage") (in .Permalink "court-circuit") (in .Permalink "installation-electrique") (in .Permalink "mise-aux-normes") }}
+            {{ partial "callback-form.html" . }}
+
+            {{/* Interactive Price Calculator */}}
+            <div class="mt-8">
+              {{ partial "price-calculator.html" . }}
+            </div>
+          {{ end }}
         </div>
 
         <!-- Sidebar -->
@@ -371,6 +400,11 @@
 
 {{/* Include Carousel Schema for Electrician Profiles */}}
 {{ partial "schema-carousel.html" . }}
+
+{{/* Before/After Gallery for Service Pages */}}
+{{ if or (eq .Section "services") (in .Permalink "depannage") (in .Permalink "court-circuit") (in .Permalink "installation-electrique") (in .Permalink "mise-aux-normes") }}
+  {{ partial "before-after-gallery.html" . }}
+{{ end }}
 
 {{/* Load competitor data */}}
 {{ $competitorData := .Site.Data.competitor_electricians }}

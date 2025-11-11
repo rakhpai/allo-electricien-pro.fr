@@ -11,7 +11,7 @@
     "video-export": "node scripts/export-videos-from-supabase.js",
     "video-sitemap": "node scripts/generate-video-sitemap.js",
     "sitemap-index": "node scripts/generate-sitemap-index.js",
-    "pre-deploy": "node scripts/pre-deploy-check.js",
+    "pre-deploy": "node scripts/pre-deploy-check.cjs",
     "post-deploy": "node scripts/ping-search-engines.js",
     "build": "npm run profiles-export && npm run video-sitemap && npm run sitemap-index && hugo --minify",
     "serve": "hugo server -D",

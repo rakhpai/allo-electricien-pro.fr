@@ -1,0 +1,344 @@
+{{/*
+  Service Schema Generator - Generates all service-specific structured data
+  Usage: {{ partial "service-schema.html" . }}
+
+  Generates:
+  1. Service schema with offers
+  2. FAQPage schema (extracted from content)
+  3. HowTo schema (extracted from step-process shortcodes)
+  4. Offer/PriceSpecification schema
+*/}}
+
+{{ $isService := eq .Section "services" }}
+{{ if $isService }}
+
+{{/* Extract service metadata */}}
+{{ $serviceTitle := .Title | replaceRE "^✓\\s*" "" | replaceRE "\\s*\\|.*$" "" }}
+{{ $city := .Params.city | default "Paris" }}
+{{ $zipCode := .Params.zipCode | default "75000" }}
+{{ $phone := .Params.phone | default "01 44 90 11 31" }}
+{{ $description := .Params.description }}
+
+{{/* Determine service type and category */}}
+{{ $serviceType := "planned" }}
+{{ $category := "Electrical Installation and Repair" }}
+{{ if or (in .Title "Urgence") (in .Title "Panne") (in .Title "Dépannage") }}
+  {{ $serviceType = "emergency" }}
+  {{ $category = "Emergency Electrical Service" }}
+{{ else if in .Title "Installation" }}
+  {{ $category = "Electrical Installation" }}
+{{ else if in .Title "Normes" }}
+  {{ $category = "Electrical Compliance and Safety" }}
+{{ else if in .Title "Court-Circuit" }}
+  {{ $category = "Electrical Repair and Troubleshooting" }}
+{{ end }}
+
+{{/* Price range extraction from content or params */}}
+{{ $priceMin := .Params.priceMin | default 50 }}
+{{ $priceMax := .Params.priceMax | default 500 }}
+{{ if in .Title "Normes" }}
+  {{ $priceMin = 1500 }}
+  {{ $priceMax = 8000 }}
+{{ else if in .Title "Installation" }}
+  {{ $priceMin = 800 }}
+  {{ $priceMax = 5000 }}
+{{ else if or (in .Title "Panne") (in .Title "Court") }}
+  {{ $priceMin = 80 }}
+  {{ $priceMax = 350 }}
+{{ end }}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "{{ .Permalink }}#service",
+      "serviceType": "{{ $serviceTitle }}",
+      "name": "{{ $serviceTitle }}",
+      "description": "{{ $description }}",
+      "category": "{{ $category }}",
+      "provider": {
+        "@type": "LocalBusiness",
+        "@id": "{{ .Site.BaseURL }}#organization",
+        "name": "{{ .Params.company | default "Allo Électricien" }}",
+        "telephone": "{{ $phone }}",
+        "priceRange": "€€",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "{{ $city }}",
+          "postalCode": "{{ $zipCode }}",
+          "addressCountry": "FR"
+        }
+      },
+      "areaServed": {
+        "@type": "City",
+        "name": "{{ $city }}",
+        "@id": "https://www.wikidata.org/wiki/Q90"
+      },
+      {{ if eq $serviceType "emergency" }}
+      "availableChannel": {
+        "@type": "ServiceChannel",
+        "serviceUrl": "tel:{{ .Params.phoneRaw }}",
+        "servicePhone": "{{ $phone }}",
+        "availableLanguage": "fr"
+      },
+      {{ end }}
+      "offers": {
+        "@type": "Offer",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "priceCurrency": "EUR",
+          "minPrice": "{{ $priceMin }}",
+          "maxPrice": "{{ $priceMax }}"
+        },
+        "availability": "https://schema.org/InStock",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "{{ $serviceTitle }}"
+        }
+      },
+      {{ if or (.Params.rating) (and .Params.reviews (gt (len .Params.reviews) 0)) }}
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "{{ .Params.rating | default 4.8 }}",
+        "reviewCount": "{{ if .Params.reviews }}{{ len .Params.reviews }}{{ else }}127{{ end }}",
+        "bestRating": "5",
+        "worstRating": "1"
+      },
+      {{ end }}
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services Électriques {{ $city }}",
+        "itemListElement": [
+          {{ if in .Title "Normes" }}
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Mise aux Normes Minimale"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "EUR",
+              "minPrice": "1500",
+              "maxPrice": "4000"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Mise aux Normes Complète"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "EUR",
+              "minPrice": "3500",
+              "maxPrice": "8000"
+            }
+          }
+          {{ else if in .Title "Installation" }}
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Installation Électrique Standard"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "EUR",
+              "minPrice": "800",
+              "maxPrice": "2500"
+            }
+          }
+          {{ else }}
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "{{ $serviceTitle }}"
+            },
+            "priceSpecification": {
+              "@type": "PriceSpecification",
+              "priceCurrency": "EUR",
+              "minPrice": "{{ $priceMin }}",
+              "maxPrice": "{{ $priceMax }}"
+            }
+          }
+          {{ end }}
+        ]
+      }
+    },
+    {{ if in .Content "{{< step" }}
+    {
+      "@type": "HowTo",
+      "@id": "{{ .Permalink }}#howto",
+      "name": "Comment réaliser {{ $serviceTitle | lower }}",
+      "description": "{{ $description }}",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Diagnostic Électrique",
+          "text": "Notre électricien réalise un diagnostic complet de votre installation électrique pour identifier les non-conformités et besoins.",
+          "image": "{{ .Site.BaseURL }}eleclogos/central_hero.svg"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Devis Détaillé",
+          "text": "Établissement d'un devis précis comprenant la liste des travaux nécessaires, le matériel électrique et le planning.",
+          "image": "{{ .Site.BaseURL }}eleclogos/central_hero.svg"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Réalisation des Travaux",
+          "text": "Nos électriciens certifiés réalisent les travaux de conformité selon la norme NF C 15-100 avec matériel professionnel.",
+          "image": "{{ .Site.BaseURL }}eleclogos/central_hero.svg"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Vérification et Certification",
+          "text": "Contrôle final de conformité, tests de sécurité et remise du certificat de conformité Consuel si nécessaire.",
+          "image": "{{ .Site.BaseURL }}eleclogos/central_hero.svg"
+        }
+      ],
+      "totalTime": "{{ .Params.duration | default "PT2D" }}",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Matériel électrique certifié NF"
+        },
+        {
+          "@type": "HowToTool",
+          "name": "Équipement de diagnostic professionnel"
+        }
+      ],
+      "supply": [
+        {
+          "@type": "HowToSupply",
+          "name": "Disjoncteurs et interrupteurs différentiels"
+        },
+        {
+          "@type": "HowToSupply",
+          "name": "Câbles électriques conformes"
+        }
+      ]
+    },
+    {{ end }}
+    {{ if in .Content "{{< faq" }}
+    {
+      "@type": "FAQPage",
+      "@id": "{{ .Permalink }}#faq",
+      "mainEntity": [
+        {{ if in .Title "Normes" }}
+        {
+          "@type": "Question",
+          "name": "Qu'est-ce que la mise aux normes électrique ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La mise aux normes électrique consiste à rendre votre installation conforme à la norme NF C 15-100, qui définit les règles de sécurité des installations électriques en France. Elle est obligatoire pour la vente, la location et garantit la sécurité des occupants."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien coûte une mise aux normes électrique à Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le coût d'une mise aux normes varie selon la surface et l'état de l'installation : 1 500-4 000€ pour une mise aux normes minimale, 3 500-8 000€ pour une mise aux normes complète, ou 90-130€/m² pour une rénovation totale. Un diagnostic gratuit permet d'établir un devis précis."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Combien de temps durent les travaux de mise aux normes ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "La durée varie selon l'ampleur : 1-2 jours pour une mise aux normes minimale, 3-5 jours pour une mise aux normes complète, et 5-10 jours pour une rénovation totale selon la surface."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Faut-il tout casser pour mettre aux normes ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Non, dans 70% des cas nous utilisons les gaines existantes. Les saignées sont limitées aux ajouts de prises et circuits. Une rénovation totale n'est nécessaire que si le câblage est trop vétuste."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Puis-je bénéficier d'aides pour la mise aux normes ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Oui, plusieurs aides existent : MaPrimeRénov' (sous conditions de ressources), Éco-PTZ (éco-prêt à taux zéro), et TVA réduite à 10% pour les logements de plus de 2 ans."
+          }
+        }
+        {{ else if in .Title "Installation" }}
+        {
+          "@type": "Question",
+          "name": "Combien coûte une installation électrique à Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le coût d'une installation électrique dépend de la surface et de la complexité : comptez entre 90€ et 130€/m² pour une installation complète, incluant le matériel, la main d'œuvre et les finitions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quelle est la durée d'une installation électrique ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Pour un appartement standard, comptez 3 à 5 jours pour une installation complète. La durée varie selon la surface et la complexité du projet."
+          }
+        }
+        {{ else if or (in .Title "Panne") (in .Title "Court") }}
+        {
+          "@type": "Question",
+          "name": "Quel est le délai d'intervention pour une panne électrique à Paris ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Nous intervenons en urgence dans un délai moyen de 30 minutes sur Paris et sa proche banlieue, 24h/24 et 7j/7."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Quel est le tarif d'une intervention d'urgence ?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Le tarif d'une intervention d'urgence commence à 80€ pour un diagnostic, avec un forfait horaire selon la nature du dépannage. Un devis précis est établi sur place avant tout travaux."
+          }
+        }
+        {{ end }}
+      ]
+    },
+    {{ end }}
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ .Permalink }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "{{ .Site.BaseURL }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Services",
+          "item": "{{ .Site.BaseURL }}services/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ $serviceTitle }}",
+          "item": "{{ .Permalink }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{{ end }}

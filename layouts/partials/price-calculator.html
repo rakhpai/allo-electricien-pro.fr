@@ -1,0 +1,372 @@
+<!-- Interactive Price Calculator Tool -->
+<div class="bg-gradient-to-br from-white to-blue-50 rounded-2xl shadow-2xl p-6 lg:p-8" id="price-calculator">
+  <div class="text-center mb-6">
+    <h2 class="text-2xl lg:text-3xl font-bold text-gray-900 mb-3">
+      💰 Estimez le coût de votre intervention
+    </h2>
+    <p class="text-gray-600">
+      Obtenez une estimation instantanée et transparente pour vos travaux électriques
+    </p>
+  </div>
+
+  <!-- Calculator Form -->
+  <div class="space-y-6">
+
+    <!-- Step 1: Service Type -->
+    <div class="bg-white rounded-lg p-5 border border-gray-200">
+      <label class="block text-lg font-semibold text-gray-900 mb-3">
+        1. Type de service requis
+      </label>
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+        <label class="relative flex items-center p-4 border-2 border-gray-300 rounded-lg cursor-pointer hover:border-primary hover:bg-blue-50 transition-all">
+          <input type="radio" name="service_type" value="emergency" class="sr-only peer" data-price-base="89">
+          <div class="flex items-center justify-between w-full">
+            <div class="flex items-center gap-3">
+              <svg class="w-6 h-6 text-emergency" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"/>
+              </svg>
+              <div>
+                <span class="font-medium">Urgence</span>
+                <p class="text-xs text-gray-500">24/7 - <30min</p>
+              </div>
+            </div>
+            <span class="text-sm font-bold text-primary">Base: 89€</span>
+          </div>
+          <div class="absolute inset-0 rounded-lg ring-2 ring-primary peer-checked:block hidden"></div>
+        </label>
+
+        <label class="relative flex items-center p-4 border-2 border-gray-300 rounded-lg cursor-pointer hover:border-primary hover:bg-blue-50 transition-all">
+          <input type="radio" name="service_type" value="planned" class="sr-only peer" data-price-base="65">
+          <div class="flex items-center justify-between w-full">
+            <div class="flex items-center gap-3">
+              <svg class="w-6 h-6 text-blue-500" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/>
+              </svg>
+              <div>
+                <span class="font-medium">Planifié</span>
+                <p class="text-xs text-gray-500">Sur RDV</p>
+              </div>
+            </div>
+            <span class="text-sm font-bold text-primary">Base: 65€</span>
+          </div>
+          <div class="absolute inset-0 rounded-lg ring-2 ring-primary peer-checked:block hidden"></div>
+        </label>
+      </div>
+    </div>
+
+    <!-- Step 2: Problem Type -->
+    <div class="bg-white rounded-lg p-5 border border-gray-200">
+      <label class="block text-lg font-semibold text-gray-900 mb-3">
+        2. Nature du problème
+      </label>
+      <select id="problem_type" class="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent">
+        <option value="0">Sélectionnez un problème...</option>
+        <optgroup label="Pannes & Urgences">
+          <option value="120" data-time="1">Panne de courant totale</option>
+          <option value="95" data-time="0.5">Disjoncteur qui saute</option>
+          <option value="150" data-time="2">Court-circuit</option>
+          <option value="85" data-time="0.5">Prise qui ne fonctionne pas</option>
+          <option value="110" data-time="1">Problème d'éclairage</option>
+        </optgroup>
+        <optgroup label="Installations">
+          <option value="180" data-time="2">Installation nouvelles prises</option>
+          <option value="350" data-time="4">Installation tableau électrique</option>
+          <option value="250" data-time="3">Installation éclairage LED</option>
+          <option value="450" data-time="6">Installation borne de recharge</option>
+        </optgroup>
+        <optgroup label="Mise aux normes">
+          <option value="1500" data-time="8">Mise aux normes partielle</option>
+          <option value="3500" data-time="24">Mise aux normes complète</option>
+          <option value="150" data-time="2">Diagnostic électrique</option>
+        </optgroup>
+        <optgroup label="Rénovation">
+          <option value="2500" data-time="16">Rénovation studio (25m²)</option>
+          <option value="4500" data-time="24">Rénovation 2 pièces (50m²)</option>
+          <option value="7500" data-time="40">Rénovation 3+ pièces (75m²+)</option>
+        </optgroup>
+      </select>
+    </div>
+
+    <!-- Step 3: Additional Options -->
+    <div class="bg-white rounded-lg p-5 border border-gray-200">
+      <label class="block text-lg font-semibold text-gray-900 mb-3">
+        3. Options supplémentaires
+      </label>
+      <div class="space-y-3">
+        <label class="flex items-center gap-3 p-3 border border-gray-200 rounded-lg cursor-pointer hover:bg-gray-50">
+          <input type="checkbox" value="50" class="addon-checkbox h-5 w-5 text-primary rounded">
+          <div class="flex-1">
+            <span class="font-medium">Diagnostic complet</span>
+            <p class="text-sm text-gray-500">Vérification installation complète</p>
+          </div>
+          <span class="text-sm font-bold text-primary">+50€</span>
+        </label>
+
+        <label class="flex items-center gap-3 p-3 border border-gray-200 rounded-lg cursor-pointer hover:bg-gray-50">
+          <input type="checkbox" value="30" class="addon-checkbox h-5 w-5 text-primary rounded">
+          <div class="flex-1">
+            <span class="font-medium">Certificat de conformité</span>
+            <p class="text-sm text-gray-500">Document officiel Consuel</p>
+          </div>
+          <span class="text-sm font-bold text-primary">+30€</span>
+        </label>
+
+        <label class="flex items-center gap-3 p-3 border border-gray-200 rounded-lg cursor-pointer hover:bg-gray-50">
+          <input type="checkbox" value="0" class="addon-checkbox h-5 w-5 text-primary rounded">
+          <div class="flex-1">
+            <span class="font-medium">Garantie étendue 2 ans</span>
+            <p class="text-sm text-gray-500">Extension de garantie</p>
+          </div>
+          <span class="text-sm font-bold text-green-500">GRATUIT</span>
+        </label>
+      </div>
+    </div>
+
+    <!-- Step 4: Time Preference -->
+    <div class="bg-white rounded-lg p-5 border border-gray-200">
+      <label class="block text-lg font-semibold text-gray-900 mb-3">
+        4. Quand souhaitez-vous l'intervention ?
+      </label>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+        <label class="relative flex items-center p-3 border-2 border-gray-300 rounded-lg cursor-pointer hover:border-primary hover:bg-blue-50 transition-all">
+          <input type="radio" name="time_preference" value="1.5" class="sr-only peer">
+          <div class="text-center w-full">
+            <span class="block font-medium">Immédiat</span>
+            <p class="text-xs text-gray-500">+50% majoration</p>
+          </div>
+          <div class="absolute inset-0 rounded-lg ring-2 ring-primary peer-checked:block hidden"></div>
+        </label>
+
+        <label class="relative flex items-center p-3 border-2 border-gray-300 rounded-lg cursor-pointer hover:border-primary hover:bg-blue-50 transition-all">
+          <input type="radio" name="time_preference" value="1.2" class="sr-only peer">
+          <div class="text-center w-full">
+            <span class="block font-medium">Aujourd'hui</span>
+            <p class="text-xs text-gray-500">+20% majoration</p>
+          </div>
+          <div class="absolute inset-0 rounded-lg ring-2 ring-primary peer-checked:block hidden"></div>
+        </label>
+
+        <label class="relative flex items-center p-3 border-2 border-gray-300 rounded-lg cursor-pointer hover:border-primary hover:bg-blue-50 transition-all">
+          <input type="radio" name="time_preference" value="1" class="sr-only peer" checked>
+          <div class="text-center w-full">
+            <span class="block font-medium">Flexible</span>
+            <p class="text-xs text-green-500">Tarif normal</p>
+          </div>
+          <div class="absolute inset-0 rounded-lg ring-2 ring-primary peer-checked:block hidden"></div>
+        </label>
+      </div>
+    </div>
+
+    <!-- Price Display -->
+    <div class="bg-gradient-to-r from-primary to-blue-700 text-white rounded-xl p-6">
+      <div class="text-center">
+        <p class="text-sm uppercase tracking-wider opacity-90 mb-2">Estimation totale</p>
+        <div class="flex items-center justify-center gap-4">
+          <div>
+            <span class="text-5xl font-bold" id="price-display">--</span>
+            <span class="text-2xl">€</span>
+          </div>
+          <div class="text-left text-sm opacity-90">
+            <p>TTC</p>
+            <p id="time-estimate" class="hidden">Durée: <span class="font-bold"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Price Breakdown -->
+      <div id="price-breakdown" class="mt-4 pt-4 border-t border-white/20 space-y-1 text-sm hidden">
+        <div class="flex justify-between">
+          <span>Déplacement:</span>
+          <span id="base-price">--€</span>
+        </div>
+        <div class="flex justify-between">
+          <span>Main d'œuvre:</span>
+          <span id="labor-price">--€</span>
+        </div>
+        <div id="addon-price-line" class="flex justify-between hidden">
+          <span>Options:</span>
+          <span id="addon-price">--€</span>
+        </div>
+        <div id="time-multiplier-line" class="flex justify-between hidden">
+          <span>Majoration urgence:</span>
+          <span id="time-multiplier">--€</span>
+        </div>
+      </div>
+
+      <!-- Disclaimer -->
+      <p class="text-xs text-center mt-4 opacity-75">
+        * Estimation indicative. Le prix final sera confirmé après diagnostic sur place.
+      </p>
+    </div>
+
+    <!-- CTA Buttons -->
+    <div class="flex flex-col sm:flex-row gap-4 justify-center">
+      <a href="tel:{{ .Params.phoneRaw }}"
+         class="inline-flex items-center justify-center gap-3 bg-gradient-to-r from-emergency to-red-700 hover:from-red-700 hover:to-red-800 text-white font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition-all duration-300 hover:scale-105">
+        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+          <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
+        </svg>
+        Réserver maintenant
+      </a>
+      <button onclick="document.getElementById('callback-form').scrollIntoView({ behavior: 'smooth' })"
+              class="inline-flex items-center justify-center gap-3 bg-white border-2 border-primary text-primary hover:bg-primary hover:text-white font-bold py-4 px-8 rounded-lg text-lg shadow-lg transform transition-all duration-300 hover:scale-105">
+        <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 20 20">
+          <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/>
+          <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/>
+        </svg>
+        Demander un devis détaillé
+      </button>
+    </div>
+
+    <!-- Trust Elements -->
+    <div class="flex flex-wrap gap-4 justify-center text-sm text-gray-600 mt-6">
+      <div class="flex items-center gap-2">
+        <svg class="w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+        </svg>
+        <span>Prix transparents</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <svg class="w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+        </svg>
+        <span>Sans engagement</span>
+      </div>
+      <div class="flex items-center gap-2">
+        <svg class="w-5 h-5 text-green-500" fill="currentColor" viewBox="0 0 20 20">
+          <path d="M8.433 7.418c.155-.103.346-.196.567-.267v1.698a2.305 2.305 0 01-.567-.267C8.07 8.34 8 8.114 8 8c0-.114.07-.34.433-.582zM11 12.849v-1.698c.22.071.412.164.567.267.364.243.433.468.433.582 0 .114-.07.34-.433.582a2.305 2.305 0 01-.567.267z"/>
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-13a1 1 0 10-2 0v.092a4.535 4.535 0 00-1.676.662C6.602 6.234 6 7.009 6 8c0 .99.602 1.765 1.324 2.246.48.32 1.054.545 1.676.662v1.941c-.391-.127-.68-.317-.843-.504a1 1 0 10-1.51 1.31c.562.649 1.413 1.076 2.353 1.253V15a1 1 0 102 0v-.092a4.535 4.535 0 001.676-.662C13.398 13.766 14 12.991 14 12c0-.99-.602-1.765-1.324-2.246A4.535 4.535 0 0011 9.092V7.151c.391.127.68.317.843.504a1 1 0 101.511-1.31c-.563-.649-1.413-1.076-2.354-1.253V5z" clip-rule="evenodd"/>
+        </svg>
+        <span>Devis gratuit</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Price Calculator JavaScript -->
+<script>
+(function() {
+  // Calculator elements
+  const serviceTypes = document.querySelectorAll('input[name="service_type"]');
+  const problemSelect = document.getElementById('problem_type');
+  const addonCheckboxes = document.querySelectorAll('.addon-checkbox');
+  const timePreferences = document.querySelectorAll('input[name="time_preference"]');
+
+  // Display elements
+  const priceDisplay = document.getElementById('price-display');
+  const basePrice = document.getElementById('base-price');
+  const laborPrice = document.getElementById('labor-price');
+  const addonPrice = document.getElementById('addon-price');
+  const addonPriceLine = document.getElementById('addon-price-line');
+  const timeMultiplier = document.getElementById('time-multiplier');
+  const timeMultiplierLine = document.getElementById('time-multiplier-line');
+  const breakdown = document.getElementById('price-breakdown');
+  const timeEstimate = document.getElementById('time-estimate');
+  const timeEstimateSpan = timeEstimate ? timeEstimate.querySelector('span') : null;
+
+  function calculatePrice() {
+    let total = 0;
+    let base = 0;
+    let labor = 0;
+    let addons = 0;
+    let multiplier = 1;
+    let estimatedTime = 0;
+
+    // Get service type base price
+    const selectedService = document.querySelector('input[name="service_type"]:checked');
+    if (selectedService) {
+      base = parseFloat(selectedService.dataset.priceBase) || 0;
+    }
+
+    // Get problem type price
+    if (problemSelect && problemSelect.value !== '0') {
+      labor = parseFloat(problemSelect.value) || 0;
+      const selectedOption = problemSelect.options[problemSelect.selectedIndex];
+      estimatedTime = parseFloat(selectedOption.dataset.time) || 0;
+    }
+
+    // Calculate addons
+    addonCheckboxes.forEach(checkbox => {
+      if (checkbox.checked) {
+        addons += parseFloat(checkbox.value) || 0;
+      }
+    });
+
+    // Get time multiplier
+    const selectedTime = document.querySelector('input[name="time_preference"]:checked');
+    if (selectedTime) {
+      multiplier = parseFloat(selectedTime.value) || 1;
+    }
+
+    // Calculate total
+    const subtotal = base + labor + addons;
+    total = Math.round(subtotal * multiplier);
+
+    // Update display
+    if (total > 0) {
+      priceDisplay.textContent = total;
+
+      // Show breakdown
+      breakdown.classList.remove('hidden');
+      basePrice.textContent = base + '€';
+      laborPrice.textContent = labor + '€';
+
+      if (addons > 0) {
+        addonPriceLine.classList.remove('hidden');
+        addonPrice.textContent = addons + '€';
+      } else {
+        addonPriceLine.classList.add('hidden');
+      }
+
+      if (multiplier > 1) {
+        timeMultiplierLine.classList.remove('hidden');
+        const extra = total - subtotal;
+        timeMultiplier.textContent = '+' + extra + '€';
+      } else {
+        timeMultiplierLine.classList.add('hidden');
+      }
+
+      // Show time estimate
+      if (estimatedTime > 0 && timeEstimate) {
+        timeEstimate.classList.remove('hidden');
+        if (estimatedTime < 1) {
+          timeEstimateSpan.textContent = Math.round(estimatedTime * 60) + ' min';
+        } else if (estimatedTime <= 8) {
+          timeEstimateSpan.textContent = estimatedTime + 'h';
+        } else {
+          const days = Math.ceil(estimatedTime / 8);
+          timeEstimateSpan.textContent = days + ' jour' + (days > 1 ? 's' : '');
+        }
+      } else if (timeEstimate) {
+        timeEstimate.classList.add('hidden');
+      }
+    } else {
+      priceDisplay.textContent = '--';
+      breakdown.classList.add('hidden');
+      if (timeEstimate) {
+        timeEstimate.classList.add('hidden');
+      }
+    }
+
+    // Track event for analytics
+    if (typeof gtag !== 'undefined' && total > 0) {
+      gtag('event', 'price_calculated', {
+        'event_category': 'engagement',
+        'event_label': 'calculator',
+        'value': total
+      });
+    }
+  }
+
+  // Add event listeners
+  serviceTypes.forEach(input => input.addEventListener('change', calculatePrice));
+  if (problemSelect) {
+    problemSelect.addEventListener('change', calculatePrice);
+  }
+  addonCheckboxes.forEach(checkbox => checkbox.addEventListener('change', calculatePrice));
+  timePreferences.forEach(input => input.addEventListener('change', calculatePrice));
+
+  // Initial calculation
+  calculatePrice();
+})();
+</script>
