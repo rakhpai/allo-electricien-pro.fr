@@ -26,18 +26,17 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 lg:gap-8">
 
         <!-- Card 1: Emergency Service -->
-        <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement">
-          <meta itemprop="position" content="1">
-          <a href="/depannage-electricite-paris/" itemprop="url"
-             class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
-                    border-2 border-transparent hover:border-red-500/30
-                    transform transition-all duration-500 hover:-translate-y-2
-                    overflow-hidden p-8">
+        <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement"
+                 class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
+                        border-2 border-transparent hover:border-red-500/30
+                        transform transition-all duration-500 hover:-translate-y-2
+                        overflow-hidden p-8">
+          <link itemprop="url" href="/depannage-electricite-paris/">
 
-            <!-- Animated Gradient Overlay -->
-            <div class="absolute inset-0 bg-gradient-to-br from-red-500/0 via-transparent to-orange-500/0
-                        group-hover:from-red-500/5 group-hover:to-orange-500/5
-                        transition-all duration-500 pointer-events-none rounded-2xl overflow-hidden"></div>
+          <!-- Animated Gradient Overlay -->
+          <div class="absolute inset-0 bg-gradient-to-br from-red-500/0 via-transparent to-orange-500/0
+                      group-hover:from-red-500/5 group-hover:to-orange-500/5
+                      transition-all duration-500 pointer-events-none rounded-2xl overflow-hidden"></div>
 
             <!-- Urgency Badge -->
             <div class="absolute -top-3 -right-3 z-20">
@@ -118,33 +117,30 @@
 
               <!-- Dual CTAs -->
               <div class="mt-6 flex flex-col gap-3">
-                <button onclick="window.location.href='tel:0144901131'"
-                        type="button"
-                        class="inline-flex items-center justify-center gap-2 bg-red-600 hover:bg-red-700
-                               text-white font-bold py-3 px-6 rounded-xl transition-all duration-300
-                               shadow-lg hover:shadow-xl group-hover:scale-105 cursor-pointer">
+                <a href="tel:0144901131"
+                   class="inline-flex items-center justify-center gap-2 bg-red-600 hover:bg-red-700
+                          text-white font-bold py-3 px-6 rounded-xl transition-all duration-300
+                          shadow-lg hover:shadow-xl hover:scale-105 cursor-pointer">
                   <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
                   </svg>
                   Appeler Maintenant
-                </button>
-                <span class="text-center text-red-600 font-semibold inline-flex items-center justify-center gap-1 hover:gap-2 transition-all">
+                </a>
+                <a href="/depannage-electricite-paris/" class="text-center text-red-600 font-semibold inline-flex items-center justify-center gap-1 hover:gap-2 transition-all">
                   Ou voir détails & tarifs
                   <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
                   </svg>
-                </span>
+                </a>
               </div>
             </div>
 
-            <meta itemprop="provider" content="SOS Électricien Paris">
-            <meta itemprop="areaServed" content="Paris, Île-de-France">
-          </a>
+          <meta itemprop="provider" content="SOS Électricien Paris">
+          <meta itemprop="areaServed" content="Paris, Île-de-France">
         </article>
 
         <!-- Card 2: Installation Service -->
         <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement">
-          <meta itemprop="position" content="2">
           <a href="/sos-electricien/" itemprop="url"
              class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
                     border-2 border-transparent hover:border-blue-500/30
@@ -238,7 +234,6 @@
 
         <!-- Card 3: Compliance/Standards Service -->
         <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement">
-          <meta itemprop="position" content="3">
           <a href="/conseils/" itemprop="url"
              class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
                     border-2 border-transparent hover:border-green-500/30
@@ -340,80 +335,74 @@
     "@type": "ItemList",
     "itemListElement": [
       {
-        "@type": "Service",
+        "@type": "ListItem",
         "position": 1,
-        "name": "Dépannage Électricité Paris - Intervention < 30min",
-        "description": "Service d'urgence électricité Paris 24/7. Intervention garantie en moins de 30 minutes pour panne de courant, court-circuit, disjoncteur.",
-        "url": "{{ .Site.BaseURL }}/depannage-electricite-paris/",
-        "provider": {
-          "@type": "LocalBusiness",
-          "name": "SOS Électricien Paris",
-          "telephone": "01 44 90 11 31"
-        },
-        "areaServed": {
-          "@type": "City",
-          "name": "Paris"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "845"
-        },
-        "availableChannel": {
-          "@type": "ServiceChannel",
-          "serviceUrl": "{{ .Site.BaseURL }}/depannage-electricite-paris/",
-          "servicePhone": "+33-1-44-90-11-31",
-          "availableLanguage": "French"
-        },
-        "hoursAvailable": {
-          "@type": "OpeningHoursSpecification",
-          "dayOfWeek": [
-            "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
-          ],
-          "opens": "00:00",
-          "closes": "23:59"
+        "item": {
+          "@type": "Service",
+          "name": "Dépannage Électricité Paris - Intervention < 30min",
+          "description": "Service d'urgence électricité Paris 24/7. Intervention garantie en moins de 30 minutes pour panne de courant, court-circuit, disjoncteur.",
+          "url": "{{ .Site.BaseURL }}/depannage-electricite-paris/",
+          "provider": {
+            "@type": "Organization",
+            "name": "{{ .Site.Params.companyName }}",
+            "telephone": "01 44 90 11 31"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Paris"
+          },
+          "availableChannel": {
+            "@type": "ServiceChannel",
+            "serviceUrl": "{{ .Site.BaseURL }}/depannage-electricite-paris/",
+            "servicePhone": "+33-1-44-90-11-31",
+            "availableLanguage": "French"
+          },
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          }
         }
       },
       {
-        "@type": "Service",
+        "@type": "ListItem",
         "position": 2,
-        "name": "Installation Électrique Professionnelle Paris",
-        "description": "Installation électrique professionnelle : prises, interrupteurs, luminaires, tableaux électriques. Travaux certifiés NF et garantis 2 ans.",
-        "url": "{{ .Site.BaseURL }}/sos-electricien/",
-        "provider": {
-          "@type": "LocalBusiness",
-          "name": "SOS Électricien Paris",
-          "telephone": "01 44 90 11 31"
-        },
-        "areaServed": {
-          "@type": "City",
-          "name": "Paris"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "620"
+        "item": {
+          "@type": "Service",
+          "name": "Installation Électrique Professionnelle Paris",
+          "description": "Installation électrique professionnelle : prises, interrupteurs, luminaires, tableaux électriques. Travaux certifiés NF et garantis 2 ans.",
+          "url": "{{ .Site.BaseURL }}/sos-electricien/",
+          "provider": {
+            "@type": "Organization",
+            "name": "{{ .Site.Params.companyName }}",
+            "telephone": "01 44 90 11 31"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Paris"
+          }
         }
       },
       {
-        "@type": "Service",
+        "@type": "ListItem",
         "position": 3,
-        "name": "Mise aux Normes NF C 15-100 Paris",
-        "description": "Diagnostic électrique complet et mise aux normes NF C 15-100. Certificat Consuel pour vente ou location. Conformité garantie.",
-        "url": "{{ .Site.BaseURL }}/conseils/",
-        "provider": {
-          "@type": "LocalBusiness",
-          "name": "SOS Électricien Paris",
-          "telephone": "01 44 90 11 31"
-        },
-        "areaServed": {
-          "@type": "City",
-          "name": "Paris"
-        },
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": "4.9",
-          "reviewCount": "380"
+        "item": {
+          "@type": "Service",
+          "name": "Mise aux Normes NF C 15-100 Paris",
+          "description": "Diagnostic électrique complet et mise aux normes NF C 15-100. Certificat Consuel pour vente ou location. Conformité garantie.",
+          "url": "{{ .Site.BaseURL }}/conseils/",
+          "provider": {
+            "@type": "Organization",
+            "name": "{{ .Site.Params.companyName }}",
+            "telephone": "01 44 90 11 31"
+          },
+          "areaServed": {
+            "@type": "City",
+            "name": "Paris"
+          }
         }
       }
     ]
