@@ -369,6 +369,9 @@
 </section>
 {{ end }}
 
+{{/* Include Carousel Schema for Electrician Profiles */}}
+{{ partial "schema-carousel.html" . }}
+
 {{/* Load competitor data */}}
 {{ $competitorData := .Site.Data.competitor_electricians }}
 {{ $citySlug := .Params.slug }}

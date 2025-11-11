@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T17:01:52.909Z",
-  "total_sites": 408,
+  "generated_at": "2025-11-10T21:27:30.438Z",
+  "total_sites": 403,
   "departments": [
     "75",
     "77",
@@ -12,11 +12,11 @@
     "95"
   ],
   "stats": {
-    "75": 33,
+    "75": 27,
     "77": 70,
     "78": 72,
     "91": 67,
-    "92": 33,
+    "92": 34,
     "93": 38,
     "94": 43,
     "95": 52
@@ -881,28 +881,6 @@
       }
     },
     {
-      "id": "eecadd7e-6062-46ff-92d0-40e6a25315a2",
-      "slug": "brunoy",
-      "name": "BRUNOYLight",
-      "city": "BRUNOY",
-      "citySlug": "brunoy",
-      "zipCode": "91800",
-      "department": "91",
-      "keyword": "Dépannage Électricien Brunoy",
-      "title": "⚡ Dépannage Électricien Brunoy | Urgent 24/7 91",
-      "metaDescription": "Dépannage électricien Brunoy 91800 ⚡ Panne, réparation, installation. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez maintenant!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/brunoy/",
-      "fullDomain": "breuillet.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.6979312,
-        "lng": 2.5044613
-      }
-    },
-    {
       "id": "9075358d-104b-403e-a992-44a51af5709d",
       "slug": "brunoy",
       "name": "BRUNOYAide",
@@ -925,6 +903,28 @@
       }
     },
     {
+      "id": "eecadd7e-6062-46ff-92d0-40e6a25315a2",
+      "slug": "brunoy",
+      "name": "BRUNOYLight",
+      "city": "BRUNOY",
+      "citySlug": "brunoy",
+      "zipCode": "91800",
+      "department": "91",
+      "keyword": "Dépannage Électricien Brunoy",
+      "title": "⚡ Dépannage Électricien Brunoy | Urgent 24/7 91",
+      "metaDescription": "Dépannage électricien Brunoy 91800 ⚡ Panne, réparation, installation. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez maintenant!",
+      "phone": "01 44 90 11 31",
+      "phoneRaw": "0144901131",
+      "url": "https://allo-electricien.pro/brunoy/",
+      "fullDomain": "breuillet.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.6979312,
+        "lng": 2.5044613
+      }
+    },
+    {
       "id": "3dfd77d2-b5d1-4473-a11c-f8cd08a5eecf",
       "slug": "bry-sur-marne",
       "name": "Urgence91",
@@ -939,28 +939,6 @@
       "phoneRaw": "0644644488",
       "url": "https://allo-electricien.pro/bry-sur-marne/",
       "fullDomain": "bry-sur-marne.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
-      "id": "8a47864d-72f2-49f8-bdb3-8b7326636bc6",
-      "slug": "buc",
-      "name": "Services Buc",
-      "city": "BUC",
-      "citySlug": "buc",
-      "zipCode": "78530",
-      "department": "78",
-      "keyword": "Intervention Électricien Buc 78530",
-      "title": "⚡ Intervention Électricien Buc | Dépannage 24/7 78",
-      "metaDescription": "Intervention électricien Buc 78530 ⚡ Panne, réparation tableau, court-circuit. Dépannage immédiat 24h/7j. Devis gratuit. Artisan qualifié Services Buc.",
-      "phone": "06 44 60 07 27",
-      "phoneRaw": "0644600727",
-      "url": "https://allo-electricien.pro/buc/",
-      "fullDomain": "buc.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -988,6 +966,28 @@
       "coordinates": {
         "lat": 48.8620481,
         "lng": 2.0183226
+      }
+    },
+    {
+      "id": "8a47864d-72f2-49f8-bdb3-8b7326636bc6",
+      "slug": "buc",
+      "name": "Services Buc",
+      "city": "BUC",
+      "citySlug": "buc",
+      "zipCode": "78530",
+      "department": "78",
+      "keyword": "Intervention Électricien Buc 78530",
+      "title": "⚡ Intervention Électricien Buc | Dépannage 24/7 78",
+      "metaDescription": "Intervention électricien Buc 78530 ⚡ Panne, réparation tableau, court-circuit. Dépannage immédiat 24h/7j. Devis gratuit. Artisan qualifié Services Buc.",
+      "phone": "06 44 60 07 27",
+      "phoneRaw": "0644600727",
+      "url": "https://allo-electricien.pro/buc/",
+      "fullDomain": "buc.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
       }
     },
     {
@@ -1321,6 +1321,28 @@
       }
     },
     {
+      "id": "f6ff6f30-8a83-420a-81dd-cf7717e1e5e1",
+      "slug": "chatenay-malabry",
+      "name": "DépannePlus92",
+      "city": "CHATENAY-MALABRY",
+      "citySlug": "chatenay-malabry",
+      "zipCode": "92290",
+      "department": "92",
+      "keyword": "Électricien d'Urgence Chatenay-Malabry 92290",
+      "title": "⚡ Électricien d'Urgence Chatenay-Malabry | 24/7",
+      "metaDescription": "Électricien d'Urgence Chatenay-Malabry 92290 ⚡ Installation, réparation, panne. Intervention immédiate 24h/7j. DépannePlus92 certifié. Devis gratuit!",
+      "phone": "01 44 90 11 31",
+      "phoneRaw": "0144901131",
+      "url": "https://allo-electricien.pro/chatenay-malabry/",
+      "fullDomain": "chatenay-malabry.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      }
+    },
+    {
       "id": "f94180a0-3472-4f83-afb7-1a57957b0ef2",
       "slug": "chatillon",
       "name": "AmpèreExpert92",
@@ -1387,28 +1409,6 @@
       }
     },
     {
-      "id": "0fd9525d-e7fe-4f6c-8c87-a2a007d5a0ed",
-      "slug": "chevilly-larue",
-      "name": "VoltAide94",
-      "city": "CHEVILLY-LARUE",
-      "citySlug": "chevilly-larue",
-      "zipCode": "94550",
-      "department": "94",
-      "keyword": "Intervention Électricien Chevilly-Larue",
-      "title": "⚡ Intervention Électricien Chevilly-Larue | 24/7 94",
-      "metaDescription": "Intervention électricien Chevilly-Larue 94550 ⚡ Panne, installation, réparation. Urgence 24h/7j. VoltAide94 certifié. Dépannage immédiat garanti. Devis gratuit.",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/chevilly-larue/",
-      "fullDomain": "creil.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.7714153,
-        "lng": 2.3469255
-      }
-    },
-    {
       "id": "bb13cd8b-a603-46b0-847d-047ca9fe84d0",
       "slug": "chevilly-larue",
       "name": "CHEVILLY-LARUELight",
@@ -1428,6 +1428,28 @@
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
+      }
+    },
+    {
+      "id": "0fd9525d-e7fe-4f6c-8c87-a2a007d5a0ed",
+      "slug": "chevilly-larue",
+      "name": "VoltAide94",
+      "city": "CHEVILLY-LARUE",
+      "citySlug": "chevilly-larue",
+      "zipCode": "94550",
+      "department": "94",
+      "keyword": "Intervention Électricien Chevilly-Larue",
+      "title": "⚡ Intervention Électricien Chevilly-Larue | 24/7 94",
+      "metaDescription": "Intervention électricien Chevilly-Larue 94550 ⚡ Panne, installation, réparation. Urgence 24h/7j. VoltAide94 certifié. Dépannage immédiat garanti. Devis gratuit.",
+      "phone": "01 44 90 11 31",
+      "phoneRaw": "0144901131",
+      "url": "https://allo-electricien.pro/chevilly-larue/",
+      "fullDomain": "creil.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.7714153,
+        "lng": 2.3469255
       }
     },
     {
@@ -3301,28 +3323,6 @@
       }
     },
     {
-      "id": "9e72a48f-207a-44db-b81d-6248048097c4",
-      "slug": "lile-saint-denis",
-      "name": "DenisVolt93",
-      "city": "L'ILE-SAINT-DENIS",
-      "citySlug": "lile-saint-denis",
-      "zipCode": "93450",
-      "department": "93",
-      "keyword": "Dépannage Électricien L'ile-Saint-Denis",
-      "title": "⚡ Dépannage Électricien L'île-Saint-Denis | 93",
-      "metaDescription": "Dépannage électricien L'île-Saint-Denis 93450 ⚡ Installation, panne, réparation. Intervention immédiate 24h/7j. Technicien qualifié. Devis gratuit. DenisVolt93.",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/lile-saint-denis/",
-      "fullDomain": "chantilly.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.9355885,
-        "lng": 2.3397438
-      }
-    },
-    {
       "id": "f84a629d-40c8-45be-9f15-5fc34382926e",
       "slug": "l-ile-saint-denis",
       "name": "L'ILE-SAINT-DENISFlash",
@@ -3342,6 +3342,28 @@
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
+      }
+    },
+    {
+      "id": "9e72a48f-207a-44db-b81d-6248048097c4",
+      "slug": "lile-saint-denis",
+      "name": "DenisVolt93",
+      "city": "L'ILE-SAINT-DENIS",
+      "citySlug": "lile-saint-denis",
+      "zipCode": "93450",
+      "department": "93",
+      "keyword": "Dépannage Électricien L'ile-Saint-Denis",
+      "title": "⚡ Dépannage Électricien L'île-Saint-Denis | 93",
+      "metaDescription": "Dépannage électricien L'île-Saint-Denis 93450 ⚡ Installation, panne, réparation. Intervention immédiate 24h/7j. Technicien qualifié. Devis gratuit. DenisVolt93.",
+      "phone": "01 44 90 11 31",
+      "phoneRaw": "0144901131",
+      "url": "https://allo-electricien.pro/lile-saint-denis/",
+      "fullDomain": "chantilly.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.9355885,
+        "lng": 2.3397438
       }
     },
     {
@@ -4071,28 +4093,6 @@
       }
     },
     {
-      "id": "8346367b-9e08-4efd-a0d0-ed896f672276",
-      "slug": "lesigny",
-      "name": "VoltExpress77",
-      "city": "LESIGNY",
-      "citySlug": "lesigny",
-      "zipCode": "77150",
-      "department": "77",
-      "keyword": "Urgence Électricien Lesigny",
-      "title": "⚡ Urgence Électricien Lesigny | Dépannage 77150",
-      "metaDescription": "Urgence électricien Lesigny 77150 ⚡ Installation, réparation, panne électrique. Intervention immédiate 24h/7j. Devis gratuit. Artisan qualifié VoltExpress77.",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/lesigny/",
-      "fullDomain": "sceaux.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.7474024,
-        "lng": 2.6145708
-      }
-    },
-    {
       "id": "86279096-d5ae-4faa-85bd-461b3994aca2",
       "slug": "lesigny",
       "name": "DépanneLESIGNY",
@@ -4112,6 +4112,28 @@
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
+      }
+    },
+    {
+      "id": "8346367b-9e08-4efd-a0d0-ed896f672276",
+      "slug": "lesigny",
+      "name": "VoltExpress77",
+      "city": "LESIGNY",
+      "citySlug": "lesigny",
+      "zipCode": "77150",
+      "department": "77",
+      "keyword": "Urgence Électricien Lesigny",
+      "title": "⚡ Urgence Électricien Lesigny | Dépannage 77150",
+      "metaDescription": "Urgence électricien Lesigny 77150 ⚡ Installation, réparation, panne électrique. Intervention immédiate 24h/7j. Devis gratuit. Artisan qualifié VoltExpress77.",
+      "phone": "01 44 90 11 31",
+      "phoneRaw": "0144901131",
+      "url": "https://allo-electricien.pro/lesigny/",
+      "fullDomain": "sceaux.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.7474024,
+        "lng": 2.6145708
       }
     },
     {
@@ -4467,28 +4489,6 @@
       }
     },
     {
-      "id": "7d48d320-cae2-4174-b2b0-b3f5c948d1ab",
-      "slug": "maisons-alfort",
-      "name": "Watt94Pro",
-      "city": "MAISONS-ALFORT",
-      "citySlug": "maisons-alfort",
-      "zipCode": "94700",
-      "department": "94",
-      "keyword": "Intervention Électricien Maisons-Alfort",
-      "title": "⚡ Intervention Électricien Maisons-Alfort 94700",
-      "metaDescription": "Intervention électricien Maisons-Alfort 94 ⚡ Panne, court-circuit, tableau électrique. Dépannage 24h/7j. Devis gratuit. Artisan certifié Watt94Pro.",
-      "phone": "06 44 60 48 30",
-      "phoneRaw": "0644604830",
-      "url": "https://allo-electricien.pro/maisons-alfort/",
-      "fullDomain": "maisons-alfort.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
       "id": "925f910b-9383-4034-b734-e6c0ba0c3610",
       "slug": "maisons-alfort",
       "name": "Watt94",
@@ -4508,6 +4508,28 @@
       "coordinates": {
         "lat": 48.8012045,
         "lng": 2.4309703
+      }
+    },
+    {
+      "id": "7d48d320-cae2-4174-b2b0-b3f5c948d1ab",
+      "slug": "maisons-alfort",
+      "name": "Watt94Pro",
+      "city": "MAISONS-ALFORT",
+      "citySlug": "maisons-alfort",
+      "zipCode": "94700",
+      "department": "94",
+      "keyword": "Intervention Électricien Maisons-Alfort",
+      "title": "⚡ Intervention Électricien Maisons-Alfort 94700",
+      "metaDescription": "Intervention électricien Maisons-Alfort 94 ⚡ Panne, court-circuit, tableau électrique. Dépannage 24h/7j. Devis gratuit. Artisan certifié Watt94Pro.",
+      "phone": "06 44 60 48 30",
+      "phoneRaw": "0644604830",
+      "url": "https://allo-electricien.pro/maisons-alfort/",
+      "fullDomain": "maisons-alfort.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
       }
     },
     {
@@ -4951,28 +4973,6 @@
       }
     },
     {
-      "id": "72885170-58ce-4f45-9891-d39023a0c412",
-      "slug": "meriel",
-      "name": "MERIELLight",
-      "city": "MERIEL",
-      "citySlug": "meriel",
-      "zipCode": "95630",
-      "department": "95",
-      "keyword": "Dépannage Électricien Meriel 95630",
-      "title": "⚡ Dépannage Électricien Meriel | Express 24/7 95",
-      "metaDescription": "Dépannage électricien Meriel 95630 ⚡ Panne, installation, court-circuit. Intervention rapide 24h/7j garantie. Devis gratuit. Artisan certifié MERIELLight.",
-      "phone": "06 44 60 15 44",
-      "phoneRaw": "0644601544",
-      "url": "https://allo-electricien.pro/meriel/",
-      "fullDomain": "meriel.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
       "id": "206e2693-5ad8-42d3-bbf8-7930dd891403",
       "slug": "meriel",
       "name": "MERIELSos95",
@@ -4992,6 +4992,28 @@
       "coordinates": {
         "lat": 49.0790561,
         "lng": 2.2048038
+      }
+    },
+    {
+      "id": "72885170-58ce-4f45-9891-d39023a0c412",
+      "slug": "meriel",
+      "name": "MERIELLight",
+      "city": "MERIEL",
+      "citySlug": "meriel",
+      "zipCode": "95630",
+      "department": "95",
+      "keyword": "Dépannage Électricien Meriel 95630",
+      "title": "⚡ Dépannage Électricien Meriel | Express 24/7 95",
+      "metaDescription": "Dépannage électricien Meriel 95630 ⚡ Panne, installation, court-circuit. Intervention rapide 24h/7j garantie. Devis gratuit. Artisan certifié MERIELLight.",
+      "phone": "06 44 60 15 44",
+      "phoneRaw": "0644601544",
+      "url": "https://allo-electricien.pro/meriel/",
+      "fullDomain": "meriel.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
       }
     },
     {
@@ -6073,33 +6095,11 @@
       }
     },
     {
-      "id": "81169c74-dade-47cc-ad0f-7ab28eebd124",
-      "slug": "paris-1",
-      "name": "Paris 1 Aide",
-      "city": "Paris 1",
-      "citySlug": "paris-1",
-      "zipCode": "75001",
-      "department": "75",
-      "keyword": "Électricien 24/7 Paris 1 75001",
-      "title": "⚡ Électricien 24/7 Paris 1 | Dépannage Urgent 75",
-      "metaDescription": "Électricien Paris 1 75001 ⚡ Installation, réparation, tableau électrique. Intervention immédiate 24h/7j. Devis gratuit. Artisan certifié Paris 1 Aide.",
-      "phone": "06 44 60 15 44",
-      "phoneRaw": "0644601544",
-      "url": "https://allo-electricien.pro/paris-1/",
-      "fullDomain": "paris-1.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
       "id": "42354fcd-1a67-4c87-98b5-5b27ce44dd4a",
-      "slug": "paris-1",
+      "slug": "paris-1er",
       "name": "DépanneParis75",
       "city": "Paris 1",
-      "citySlug": "paris-1",
+      "citySlug": "paris-1er",
       "zipCode": "75001",
       "department": "75",
       "keyword": "Électricien Urgence Paris 1 75001",
@@ -6107,8 +6107,8 @@
       "metaDescription": "Électricien urgence Paris 1 75001 ⚡ Panne électrique, installation, réparation. Dépannage 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié.",
       "phone": "01 44 90 11 31",
       "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-1/",
-      "fullDomain": "saint-prix.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-1er/",
+      "fullDomain": "paris-1er.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6118,10 +6118,10 @@
     },
     {
       "id": "a247607b-97ef-4828-9261-481b21721f38",
-      "slug": "paris-10",
+      "slug": "paris-10e",
       "name": "Paris10Light",
       "city": "Paris 10",
-      "citySlug": "paris-10",
+      "citySlug": "paris-10e",
       "zipCode": "75010",
       "department": "75",
       "keyword": "Électricien 24/7 Paris 10 75010",
@@ -6129,57 +6129,13 @@
       "metaDescription": "Électricien Paris 10 75010 ⚡ Court-circuit, installation, réparation. Intervention immédiate 24h/7j. Technicien qualifié. Devis gratuit. Paris10Light.",
       "phone": "06 44 64 09 80",
       "phoneRaw": "0644640980",
-      "url": "https://allo-electricien.pro/paris-10/",
-      "fullDomain": "paris-10.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-10e/",
+      "fullDomain": "paris-10e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
         "lat": 48.8566,
         "lng": 2.3522
-      }
-    },
-    {
-      "id": "2aa2ae34-19df-4fad-ba1c-10637c1ab2eb",
-      "slug": "paris-11",
-      "name": "Paris 11Urgence",
-      "city": "Paris 11",
-      "citySlug": "paris-11",
-      "zipCode": "75011",
-      "department": "75",
-      "keyword": "Dépannage Électricien Paris 11",
-      "title": "⚡ Dépannage Électricien Paris 11 | Urgence 75011",
-      "metaDescription": "Dépannage électricien Paris 11e ⚡ Panne, court-circuit, tableau électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié. Tel. rapide!",
-      "phone": "06 44 64 28 18",
-      "phoneRaw": "0644642818",
-      "url": "https://allo-electricien.pro/paris-11/",
-      "fullDomain": "paris-11.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
-      "id": "f8343d07-cc36-47be-a7e1-084b7293d843",
-      "slug": "paris-11",
-      "name": "Paris11Light",
-      "city": "Paris 11",
-      "citySlug": "paris-11",
-      "zipCode": "75011",
-      "department": "75",
-      "keyword": "Dépannage Électricien Paris 11",
-      "title": "Électricien urgence Paris 11 - Effectuer tous type de dépannage TEL: 06 44 60 80 61",
-      "metaDescription": "Tarif trés raisonable Paris 11",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-11/",
-      "fullDomain": "vernouillet.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8671407,
-        "lng": 2.3521038
       }
     },
     {
@@ -6205,20 +6161,20 @@
       }
     },
     {
-      "id": "e937980f-cab4-4e56-b171-0103a8ebdcaa",
-      "slug": "paris-12",
-      "name": "Paris 12 Express",
-      "city": "Paris 12",
-      "citySlug": "paris-12",
-      "zipCode": "75012",
+      "id": "2aa2ae34-19df-4fad-ba1c-10637c1ab2eb",
+      "slug": "paris-11e",
+      "name": "Paris 11Urgence",
+      "city": "Paris 11",
+      "citySlug": "paris-11e",
+      "zipCode": "75011",
       "department": "75",
-      "keyword": "Dépannage Électricien Paris 12 75012",
-      "title": "⚡ Dépannage Électricien Paris 12 | Urgence 75012",
-      "metaDescription": "Dépannage électricien Paris 12 75012 ⚡ Réparation panne, tableau, court-circuit. Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!",
-      "phone": "06 44 64 09 80",
-      "phoneRaw": "0644640980",
-      "url": "https://allo-electricien.pro/paris-12/",
-      "fullDomain": "paris-12.allo-electricien.pro",
+      "keyword": "Dépannage Électricien Paris 11",
+      "title": "⚡ Dépannage Électricien Paris 11 | Urgence 75011",
+      "metaDescription": "Dépannage électricien Paris 11e ⚡ Panne, court-circuit, tableau électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié. Tel. rapide!",
+      "phone": "06 44 64 28 18",
+      "phoneRaw": "0644642818",
+      "url": "https://allo-electricien.pro/paris-11e/",
+      "fullDomain": "paris-11e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6227,20 +6183,20 @@
       }
     },
     {
-      "id": "5d50d1e1-751a-498d-9627-bba9ae88bf97",
-      "slug": "paris-13",
-      "name": "Élec75Pro",
-      "city": "Paris 13",
-      "citySlug": "paris-13",
-      "zipCode": "75013",
+      "id": "e937980f-cab4-4e56-b171-0103a8ebdcaa",
+      "slug": "paris-12e",
+      "name": "Paris 12 Express",
+      "city": "Paris 12",
+      "citySlug": "paris-12e",
+      "zipCode": "75012",
       "department": "75",
-      "keyword": "SOS Électricien Paris 13",
-      "title": "SOS Électricien Paris 13 | Dépannage Express ⚡ 75",
-      "metaDescription": "SOS Électricien Paris 13 75013 ⚡ Court-circuit, panne, installation. Urgence 24h/7j. Intervention garantie 30min. Devis gratuit immédiat. Élec75Pro.",
-      "phone": "06 44 60 80 61",
-      "phoneRaw": "0644608061",
-      "url": "https://allo-electricien.pro/paris-13/",
-      "fullDomain": "paris-13.allo-electricien.pro",
+      "keyword": "Dépannage Électricien Paris 12 75012",
+      "title": "⚡ Dépannage Électricien Paris 12 | Urgence 75012",
+      "metaDescription": "Dépannage électricien Paris 12 75012 ⚡ Réparation panne, tableau, court-circuit. Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!",
+      "phone": "06 44 64 09 80",
+      "phoneRaw": "0644640980",
+      "url": "https://allo-electricien.pro/paris-12e/",
+      "fullDomain": "paris-12e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6250,10 +6206,10 @@
     },
     {
       "id": "11865686-79bd-4b51-b11a-374ea5a2f1e5",
-      "slug": "paris-13",
+      "slug": "paris-13e",
       "name": "Élec75",
       "city": "Paris 13",
-      "citySlug": "paris-13",
+      "citySlug": "paris-13e",
       "zipCode": "75013",
       "department": "75",
       "keyword": "Électricien Urgence Paris 13",
@@ -6261,8 +6217,8 @@
       "metaDescription": "Électricien urgence Paris 13 75013 ⚡ Réparation, installation, panne électrique. Intervention 24h/7j. Rapide et fiable. Devis gratuit. Contactez Élec75!",
       "phone": "01 44 90 11 31",
       "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-13/",
-      "fullDomain": "saint-denis.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-13e/",
+      "fullDomain": "paris-13e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6272,10 +6228,10 @@
     },
     {
       "id": "1eb97444-0c36-49e6-8808-596bff9b5b7a",
-      "slug": "paris-14",
+      "slug": "paris-14e",
       "name": "Paris14Flash",
       "city": "Paris 14",
-      "citySlug": "paris-14",
+      "citySlug": "paris-14e",
       "zipCode": "75014",
       "department": "75",
       "keyword": "Électricien d'Urgence Paris 14",
@@ -6283,8 +6239,8 @@
       "metaDescription": "Électricien d'urgence Paris 14 (75) ⚡ Panne, installation, tableau. Intervention immédiate 24h/7j. Devis gratuit. Paris14Flash certifié. Appelez!",
       "phone": "01 44 90 11 31",
       "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-14/",
-      "fullDomain": "gouvieux.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-14e/",
+      "fullDomain": "paris-14e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6293,55 +6249,11 @@
       }
     },
     {
-      "id": "b75a3b12-f993-4225-9f7a-9bcb006d7dc0",
-      "slug": "paris-14",
-      "name": "Paris 14SOS",
-      "city": "Paris 14",
-      "citySlug": "paris-14",
-      "zipCode": "75014",
-      "department": "75",
-      "keyword": "Électricien d'Urgence Paris 14 75014",
-      "title": "⚡ Électricien d'Urgence Paris 14 | Dépannage 75014",
-      "metaDescription": "Électricien d'urgence Paris 14 75014 ⚡ Panne, installation, tableau électrique. Service 24h/7j. Artisan certifié. Intervention immédiate. Devis gratuit!",
-      "phone": "06 44 60 41 83",
-      "phoneRaw": "0644604183",
-      "url": "https://allo-electricien.pro/paris-14/",
-      "fullDomain": "paris-14.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
-      "id": "7ee49b07-13d3-4475-99de-ffaf32945a41",
-      "slug": "paris-15",
-      "name": "Paris15Light",
-      "city": "Paris 15",
-      "citySlug": "paris-15",
-      "zipCode": "75015",
-      "department": "75",
-      "keyword": "Dépannage Électricien Paris 15 75015",
-      "title": "⚡ Dépannage Électricien Paris 15 | Rapide 75015",
-      "metaDescription": "Dépannage électricien Paris 15 75015 ⚡ Panne, installation, réparation. Intervention immédiate 24h/7j. Devis gratuit. Artisan qualifié Paris15Light.",
-      "phone": "07 56 79 60 30",
-      "phoneRaw": "0756796030",
-      "url": "https://allo-electricien.pro/paris-15/",
-      "fullDomain": "paris-15.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
       "id": "968855ba-87df-44b5-a234-08c8c442fbee",
-      "slug": "paris-15",
+      "slug": "paris-15e",
       "name": "Paris 15Light",
       "city": "Paris 15",
-      "citySlug": "paris-15",
+      "citySlug": "paris-15e",
       "zipCode": "75015",
       "department": "75",
       "keyword": "Intervention Électricien Paris 15 75015",
@@ -6349,8 +6261,8 @@
       "metaDescription": "Intervention électricien Paris 15 75015 ⚡ Installation, panne, court-circuit. Urgence 24h/7j immédiate. Artisan certifié. Devis gratuit. Tel. rapide!",
       "phone": "01 44 90 11 31",
       "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-15/",
-      "fullDomain": "goussainville.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-15e/",
+      "fullDomain": "paris-15e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6360,10 +6272,10 @@
     },
     {
       "id": "63814ce9-f1b7-4003-8919-c25d91b8bfc1",
-      "slug": "paris-16",
+      "slug": "paris-16e",
       "name": "AmpèrePro75",
       "city": "Paris 16",
-      "citySlug": "paris-16",
+      "citySlug": "paris-16e",
       "zipCode": "75016",
       "department": "75",
       "keyword": "Électricien d'Urgence Paris 16",
@@ -6371,8 +6283,8 @@
       "metaDescription": "Électricien d'urgence Paris 16 75016 ⚡ Installation, réparation, court-circuit. Dépannage 24h/7j garanti. Intervention express. Devis gratuit. AmpèrePro75 certifié.",
       "phone": "06 44 64 09 80",
       "phoneRaw": "0644640980",
-      "url": "https://allo-electricien.pro/paris-16/",
-      "fullDomain": "paris-16.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-16e/",
+      "fullDomain": "paris-16e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6382,10 +6294,10 @@
     },
     {
       "id": "c67c8f1f-689b-4ab6-9bc3-4b0575d30da8",
-      "slug": "paris-17",
+      "slug": "paris-17e",
       "name": "Paris 17Light",
       "city": "Paris 17",
-      "citySlug": "paris-17",
+      "citySlug": "paris-17e",
       "zipCode": "75017",
       "department": "75",
       "keyword": "SOS Électricien Paris 17",
@@ -6393,8 +6305,8 @@
       "metaDescription": "SOS Électricien Paris 17 75017 ⚡ Panne, réparation, tableau électrique. Urgence 24h/7j. Intervention immédiate. Artisan qualifié. Appelez maintenant!",
       "phone": "06 44 64 95 05",
       "phoneRaw": "0644649505",
-      "url": "https://allo-electricien.pro/paris-17/",
-      "fullDomain": "paris-17.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-17e/",
+      "fullDomain": "paris-17e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6404,10 +6316,10 @@
     },
     {
       "id": "bc7e71cb-955b-4cac-ade3-1dd683e75044",
-      "slug": "paris-18",
+      "slug": "paris-18e",
       "name": "Ampère75",
       "city": "Paris 18",
-      "citySlug": "paris-18",
+      "citySlug": "paris-18e",
       "zipCode": "75018",
       "department": "75",
       "keyword": "SOS Électricien Paris 18",
@@ -6415,8 +6327,8 @@
       "metaDescription": "SOS Électricien Paris 18 75018 ⚡ Court-circuit, panne électrique, installation. Dépannage 24h/24. Intervention immédiate. Garantie travaux. Tel. rapide!",
       "phone": "06 44 64 67 02",
       "phoneRaw": "0644646702",
-      "url": "https://allo-electricien.pro/paris-18/",
-      "fullDomain": "paris-18.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-18e/",
+      "fullDomain": "paris-18e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6426,10 +6338,10 @@
     },
     {
       "id": "4c93b47c-5ff5-449f-985c-9ed1097a51d0",
-      "slug": "paris-19",
+      "slug": "paris-19e",
       "name": "Watt75Pro",
       "city": "Paris 19",
-      "citySlug": "paris-19",
+      "citySlug": "paris-19e",
       "zipCode": "75019",
       "department": "75",
       "keyword": "Électricien 24/7 Paris 19",
@@ -6437,8 +6349,8 @@
       "metaDescription": "Électricien Paris 19 75019 ⚡ Panne, installation, réparation électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Technicien certifié. Appelez!",
       "phone": "06 44 60 68 44",
       "phoneRaw": "0644606844",
-      "url": "https://allo-electricien.pro/paris-19/",
-      "fullDomain": "paris-19.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-19e/",
+      "fullDomain": "paris-19e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6448,10 +6360,10 @@
     },
     {
       "id": "e283245f-056f-4dbe-90d6-233531cd2dcc",
-      "slug": "paris-2",
+      "slug": "paris-2e",
       "name": "Dépanne75",
       "city": "Paris 2",
-      "citySlug": "paris-2",
+      "citySlug": "paris-2e",
       "zipCode": "75002",
       "department": "75",
       "keyword": "Dépannage Électricien Paris 2",
@@ -6459,8 +6371,8 @@
       "metaDescription": "Dépannage électricien Paris 2 75002 ⚡ Panne, installation, réparation. Urgence 24h/7j. Intervention immédiate. Artisan certifié Dépanne75. Devis gratuit!",
       "phone": "06 44 64 09 80",
       "phoneRaw": "0644640980",
-      "url": "https://allo-electricien.pro/paris-2/",
-      "fullDomain": "paris-2.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-2e/",
+      "fullDomain": "paris-2e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6470,10 +6382,10 @@
     },
     {
       "id": "dd3ca227-7f64-44e5-a250-4b91658f1e16",
-      "slug": "paris-20",
+      "slug": "paris-20e",
       "name": "AmpèreParis20",
       "city": "Paris 20",
-      "citySlug": "paris-20",
+      "citySlug": "paris-20e",
       "zipCode": "75020",
       "department": "75",
       "keyword": "Urgence Électricien Paris 20",
@@ -6481,8 +6393,8 @@
       "metaDescription": "Urgence électricien Paris 20 75020 ⚡ Panne, court-circuit, tableau électrique. Intervention immédiate 24h/7j. Artisan certifié AmpèreParis20. Devis gratuit!",
       "phone": "07 56 79 69 96",
       "phoneRaw": "0756796996",
-      "url": "https://allo-electricien.pro/paris-20/",
-      "fullDomain": "paris-20.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-20e/",
+      "fullDomain": "paris-20e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6492,10 +6404,10 @@
     },
     {
       "id": "874a7ddc-dd7d-4367-b109-de9b893c2393",
-      "slug": "paris-3",
+      "slug": "paris-3e",
       "name": "Paris3Light",
       "city": "Paris 3",
-      "citySlug": "paris-3",
+      "citySlug": "paris-3e",
       "zipCode": "75003",
       "department": "75",
       "keyword": "Intervention Électricien Paris 3",
@@ -6503,8 +6415,8 @@
       "metaDescription": "Intervention électricien Paris 3e 75003 ⚡ Dépannage panne, installation, réparation. Service 24h/7j. Rapide et fiable. Devis gratuit. Paris3Light certifié.",
       "phone": "06 44 64 51 25",
       "phoneRaw": "0644645125",
-      "url": "https://allo-electricien.pro/paris-3/",
-      "fullDomain": "paris-3.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-3e/",
+      "fullDomain": "paris-3e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6514,10 +6426,10 @@
     },
     {
       "id": "3bdd80f3-b107-4301-b310-d1194627a0f2",
-      "slug": "paris-4",
+      "slug": "paris-4e",
       "name": "Paris4Light",
       "city": "Paris 4",
-      "citySlug": "paris-4",
+      "citySlug": "paris-4e",
       "zipCode": "75004",
       "department": "75",
       "keyword": "SOS Électricien Paris 4 75004",
@@ -6525,8 +6437,8 @@
       "metaDescription": "SOS Électricien Paris 4 75004 ⚡ Panne, installation, tableau électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Paris4Light certifié.",
       "phone": "06 44 64 05 55",
       "phoneRaw": "0644640555",
-      "url": "https://allo-electricien.pro/paris-4/",
-      "fullDomain": "paris-4.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-4e/",
+      "fullDomain": "paris-4e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6536,10 +6448,10 @@
     },
     {
       "id": "ee1ae024-ea21-4375-a220-1c54aadd207c",
-      "slug": "paris-5",
+      "slug": "paris-5e",
       "name": "Paris5Light",
       "city": "Paris 5",
-      "citySlug": "paris-5",
+      "citySlug": "paris-5e",
       "zipCode": "75005",
       "department": "75",
       "keyword": "Électricien d'Urgence Paris 5",
@@ -6547,8 +6459,8 @@
       "metaDescription": "Électricien d'Urgence Paris 5 75005 ⚡ Réparation panne, installation, tableau électrique. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit!",
       "phone": "06 44 60 15 44",
       "phoneRaw": "0644601544",
-      "url": "https://allo-electricien.pro/paris-5/",
-      "fullDomain": "paris-5.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-5e/",
+      "fullDomain": "paris-5e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6558,10 +6470,10 @@
     },
     {
       "id": "5b8bf8b2-e814-4d6b-aa15-70f0d20359cc",
-      "slug": "paris-6",
+      "slug": "paris-6e",
       "name": "SOS Électricité Paris 6",
       "city": "Paris 6",
-      "citySlug": "paris-6",
+      "citySlug": "paris-6e",
       "zipCode": "75006",
       "department": "75",
       "keyword": "SOS Électricien Paris 6",
@@ -6569,8 +6481,8 @@
       "metaDescription": "SOS Électricien Paris 6 (75006) ⚡ Court-circuit, panne électrique, réparation. Urgence 24h/7j. Intervention garantie. Devis gratuit. Tel. immédiat.",
       "phone": "06 44 64 31 33",
       "phoneRaw": "0644643133",
-      "url": "https://allo-electricien.pro/paris-6/",
-      "fullDomain": "paris-6.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-6e/",
+      "fullDomain": "paris-6e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6579,33 +6491,11 @@
       }
     },
     {
-      "id": "79e16c4c-a4e8-4b63-8041-c395c11b6c02",
-      "slug": "paris-6",
-      "name": "Volt75Pro",
-      "city": "Paris 6",
-      "citySlug": "paris-6",
-      "zipCode": "75006",
-      "department": "75",
-      "keyword": "Électricien d'Urgence Paris 6",
-      "title": "⚡ Électricien d'Urgence Paris 6 | Dépannage 75006",
-      "metaDescription": "Électricien d'urgence Paris 6 75006 ⚡ Court-circuit, panne électrique, réparation. Intervention immédiate 24h/7j garantie. Devis gratuit. Appelez maintenant!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/paris-6/",
-      "fullDomain": "villepinte.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.9016637,
-        "lng": 2.3877307
-      }
-    },
-    {
       "id": "f49692b3-2b33-43ad-a289-f5acd72e88b7",
-      "slug": "paris-7",
+      "slug": "paris-7e",
       "name": "Élec75Express",
       "city": "Paris 7",
-      "citySlug": "paris-7",
+      "citySlug": "paris-7e",
       "zipCode": "75007",
       "department": "75",
       "keyword": "Dépannage Électricien Paris 7 75007",
@@ -6613,8 +6503,8 @@
       "metaDescription": "Services impeccables et satisfaisantes Paris 7",
       "phone": "06 44 64 36 86",
       "phoneRaw": "0644643686",
-      "url": "https://allo-electricien.pro/paris-7/",
-      "fullDomain": "paris-7.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-7e/",
+      "fullDomain": "paris-7e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6624,10 +6514,10 @@
     },
     {
       "id": "abb26f8b-72ea-4a16-8677-0c17c6593272",
-      "slug": "paris-8",
+      "slug": "paris-8e",
       "name": "VoltParis8",
       "city": "Paris 8",
-      "citySlug": "paris-8",
+      "citySlug": "paris-8e",
       "zipCode": "75008",
       "department": "75",
       "keyword": "Électricien 24/7 Paris 8 75008",
@@ -6635,8 +6525,8 @@
       "metaDescription": "Électricien Paris 8 75008 ⚡ Installation, réparation, tableau électrique. Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!",
       "phone": "06 44 64 72 11",
       "phoneRaw": "0644647211",
-      "url": "https://allo-electricien.pro/paris-8/",
-      "fullDomain": "paris-8.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-8e/",
+      "fullDomain": "paris-8e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -6646,10 +6536,10 @@
     },
     {
       "id": "577906d3-001c-4e8a-922e-57d0893660b4",
-      "slug": "paris-9",
+      "slug": "paris-9e",
       "name": "Paris9Dépanne",
       "city": "Paris 9",
-      "citySlug": "paris-9",
+      "citySlug": "paris-9e",
       "zipCode": "75009",
       "department": "75",
       "keyword": "SOS Électricien Paris 9 75009",
@@ -6657,8 +6547,8 @@
       "metaDescription": "SOS Électricien Paris 9 75009 ⚡ Installation, réparation, panne. Urgence 24h/7j. Intervention immédiate garantie. Devis gratuit. Paris9Dépanne certifié.",
       "phone": "06 44 60 84 33",
       "phoneRaw": "0644608433",
-      "url": "https://allo-electricien.pro/paris-9/",
-      "fullDomain": "paris-9.allo-electricien.pro",
+      "url": "https://allo-electricien.pro/paris-9e/",
+      "fullDomain": "paris-9e.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
@@ -7701,28 +7591,6 @@
       }
     },
     {
-      "id": "c0dc8c0e-9aad-4d5b-9597-3a0e9a2a93fb",
-      "slug": "saulx-les-chartreux",
-      "name": "VoltSOS91",
-      "city": "SAULX-LES-CHARTREUX",
-      "citySlug": "saulx-les-chartreux",
-      "zipCode": "91160",
-      "department": "91",
-      "keyword": "Intervention Électricien Saulx-Les-Chartreux",
-      "title": "⚡ Intervention Électricien Saulx-Les-Chartreux 91160",
-      "metaDescription": "Intervention électricien Saulx-Les-Chartreux 91160 ⚡ Panne, réparation, installation. Dépannage 24h/24. Artisan qualifié VoltSOS91. Devis gratuit!",
-      "phone": "07 56 79 95 59",
-      "phoneRaw": "0756799559",
-      "url": "https://allo-electricien.pro/saulx-les-chartreux/",
-      "fullDomain": "saulx-les-chartreux.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
-      }
-    },
-    {
       "id": "f4f09b66-97b7-41bf-bbc5-ad69b382bea1",
       "slug": "saulx-les-chartreux",
       "name": "VoltMax91",
@@ -7742,6 +7610,28 @@
       "coordinates": {
         "lat": 48.6919585,
         "lng": 2.2664925
+      }
+    },
+    {
+      "id": "c0dc8c0e-9aad-4d5b-9597-3a0e9a2a93fb",
+      "slug": "saulx-les-chartreux",
+      "name": "VoltSOS91",
+      "city": "SAULX-LES-CHARTREUX",
+      "citySlug": "saulx-les-chartreux",
+      "zipCode": "91160",
+      "department": "91",
+      "keyword": "Intervention Électricien Saulx-Les-Chartreux",
+      "title": "⚡ Intervention Électricien Saulx-Les-Chartreux 91160",
+      "metaDescription": "Intervention électricien Saulx-Les-Chartreux 91160 ⚡ Panne, réparation, installation. Dépannage 24h/24. Artisan qualifié VoltSOS91. Devis gratuit!",
+      "phone": "07 56 79 95 59",
+      "phoneRaw": "0756799559",
+      "url": "https://allo-electricien.pro/saulx-les-chartreux/",
+      "fullDomain": "saulx-les-chartreux.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
       }
     },
     {
@@ -8339,28 +8229,6 @@
       }
     },
     {
-      "id": "c3361ccc-8e29-48dc-a69c-19bdaf00ca75",
-      "slug": "verneuil-sur-seine",
-      "name": "Verneuil78Pro",
-      "city": "VERNEUIL-SUR-SEINE",
-      "citySlug": "verneuil-sur-seine",
-      "zipCode": "78480",
-      "department": "78",
-      "keyword": "Intervention Électricien Verneuil-Sur-Seine",
-      "title": "⚡ Intervention Électricien Verneuil-Sur-Seine | 24/7",
-      "metaDescription": "Intervention électricien Verneuil-Sur-Seine 78480 ⚡ Panne, tableau, installation. Dépannage 24h/7j. Artisan certifié. Devis gratuit. Appelez maintenant!",
-      "phone": "01 44 90 11 31",
-      "phoneRaw": "0144901131",
-      "url": "https://allo-electricien.pro/verneuil-sur-seine/",
-      "fullDomain": "lieusaint.allo-electricien.pro",
-      "niche": "électricité",
-      "kwSource": "électricité",
-      "coordinates": {
-        "lat": 48.9792052,
-        "lng": 1.9756367
-      }
-    },
-    {
       "id": "1ec2a8f3-63fe-4a31-9b92-9f370d89d566",
       "slug": "verneuil-sur-seine",
       "name": "VERNEUIL-SUR-SEINELight",
@@ -8383,25 +8251,25 @@
       }
     },
     {
-      "id": "53cfa428-38d2-4146-a960-4ddd78fd2ca8",
-      "slug": "verrieres-le-buisson",
-      "name": "VERRIERES-LE-BUISSONFlash",
-      "city": "VERRIERES-LE-BUISSON",
-      "citySlug": "verrieres-le-buisson",
-      "zipCode": "91370",
-      "department": "91",
-      "keyword": "Électricien 24/7 Verrieres-Le-Buisson 91370",
-      "title": "⚡ Électricien 24/7 Verrieres-Le-Buisson 91370",
-      "metaDescription": "Électricien Verrieres-Le-Buisson 91370 ⚡ Panne, installation, tableau électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié.",
-      "phone": "06 44 64 35 05",
-      "phoneRaw": "0644643505",
-      "url": "https://allo-electricien.pro/verrieres-le-buisson/",
-      "fullDomain": "verrieres-le-buisson.allo-electricien.pro",
+      "id": "c3361ccc-8e29-48dc-a69c-19bdaf00ca75",
+      "slug": "verneuil-sur-seine",
+      "name": "Verneuil78Pro",
+      "city": "VERNEUIL-SUR-SEINE",
+      "citySlug": "verneuil-sur-seine",
+      "zipCode": "78480",
+      "department": "78",
+      "keyword": "Intervention Électricien Verneuil-Sur-Seine",
+      "title": "⚡ Intervention Électricien Verneuil-Sur-Seine | 24/7",
+      "metaDescription": "Intervention électricien Verneuil-Sur-Seine 78480 ⚡ Panne, tableau, installation. Dépannage 24h/7j. Artisan certifié. Devis gratuit. Appelez maintenant!",
+      "phone": "01 44 90 11 31",
+      "phoneRaw": "0144901131",
+      "url": "https://allo-electricien.pro/verneuil-sur-seine/",
+      "fullDomain": "lieusaint.allo-electricien.pro",
       "niche": "électricité",
       "kwSource": "électricité",
       "coordinates": {
-        "lat": 48.8566,
-        "lng": 2.3522
+        "lat": 48.9792052,
+        "lng": 1.9756367
       }
     },
     {
@@ -8424,6 +8292,28 @@
       "coordinates": {
         "lat": 48.7606566,
         "lng": 2.2707085
+      }
+    },
+    {
+      "id": "53cfa428-38d2-4146-a960-4ddd78fd2ca8",
+      "slug": "verrieres-le-buisson",
+      "name": "VERRIERES-LE-BUISSONFlash",
+      "city": "VERRIERES-LE-BUISSON",
+      "citySlug": "verrieres-le-buisson",
+      "zipCode": "91370",
+      "department": "91",
+      "keyword": "Électricien 24/7 Verrieres-Le-Buisson 91370",
+      "title": "⚡ Électricien 24/7 Verrieres-Le-Buisson 91370",
+      "metaDescription": "Électricien Verrieres-Le-Buisson 91370 ⚡ Panne, installation, tableau électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié.",
+      "phone": "06 44 64 35 05",
+      "phoneRaw": "0644643505",
+      "url": "https://allo-electricien.pro/verrieres-le-buisson/",
+      "fullDomain": "verrieres-le-buisson.allo-electricien.pro",
+      "niche": "électricité",
+      "kwSource": "électricité",
+      "coordinates": {
+        "lat": 48.8566,
+        "lng": 2.3522
       }
     },
     {
