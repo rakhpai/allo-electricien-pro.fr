@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien VILLE-D'AVRAY | 24/7
-slug: ville-d'avray
+slug: ville-davray
+aliases:
+  - /ville-d-avray/
 city: VILLE-D'AVRAY
 zipCode: '92410'
 department: '92'

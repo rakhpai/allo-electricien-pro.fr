@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien GERMIGNY-L'EVEQUE | 24/7
-slug: germigny-l'eveque
+slug: germigny-leveque
+aliases:
+  - /germigny-l-eveque/
 city: GERMIGNY-L'EVEQUE
 zipCode: '77910'
 department: '77'

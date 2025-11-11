@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien L'HAY-LES-ROSES | 24/7
-slug: l'hay-les-roses
+slug: lhay-les-roses
+aliases:
+  - /l-hay-les-roses/
 city: L'HAY-LES-ROSES
 zipCode: '94240'
 department: '94'

@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien SAINT-OUEN-L'AUMONE | 24/7
-slug: saint-ouen-l'aumone
+slug: saint-ouen-laumone
+aliases:
+  - /saint-ouen-l-aumone/
 city: SAINT-OUEN-L'AUMONE
 zipCode: '95310'
 department: '95'

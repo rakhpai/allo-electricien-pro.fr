@@ -102,27 +102,27 @@ function extractSlug(urlPath) {
 }
 
 /**
- * Normalize slug by replacing apostrophes with hyphens
- * Hugo cannot create directories with apostrophes, so all slugs must use hyphens
+ * Normalize slug by removing apostrophes
+ * Hugo removes apostrophes entirely when generating URLs
  * @param {string} slug - Slug that may contain apostrophes (e.g., "saint-remy-l'honore")
- * @returns {string} Normalized slug with hyphens (e.g., "saint-remy-l-honore")
+ * @returns {string} Normalized slug without apostrophes (e.g., "saint-remy-lhonore")
  */
 function normalizeSlug(slug) {
   if (!slug) return slug;
-  // Replace both straight apostrophe (') and curly apostrophe (')
-  return slug.replace(/['\']/g, '-');
+  // Remove both straight apostrophe (') and curly apostrophe (') to match Hugo's behavior
+  return slug.replace(/['\']/g, '');
 }
 
 /**
- * Normalize URL by replacing apostrophes with hyphens
+ * Normalize URL by removing apostrophes
  * Preserves leading/trailing slashes
  * @param {string} url - URL like "/saint-remy-l'honore/" or "https://site.com/saint-remy-l'honore/"
- * @returns {string} Normalized URL like "/saint-remy-l-honore/"
+ * @returns {string} Normalized URL like "/saint-remy-lhonore/"
  */
 function normalizeUrl(url) {
   if (!url) return url;
-  // Replace both straight apostrophe (') and curly apostrophe (')
-  return url.replace(/['\']/g, '-');
+  // Remove both straight apostrophe (') and curly apostrophe (') to match Hugo's behavior
+  return url.replace(/['\']/g, '');
 }
 
 /**

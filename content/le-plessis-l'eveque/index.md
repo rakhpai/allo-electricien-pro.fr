@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien LE PLESSIS-L'EVEQUE | 24/7
-slug: le-plessis-l'eveque
+slug: le-plessis-leveque
+aliases:
+  - /le-plessis-l-eveque/
 city: LE PLESSIS-L'EVEQUE
 zipCode: '77165'
 department: '77'

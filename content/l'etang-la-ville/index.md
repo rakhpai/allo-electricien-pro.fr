@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien L'ETANG-LA-VILLE | 24/7
-slug: l'etang-la-ville
+slug: letang-la-ville
+aliases:
+  - /l-etang-la-ville/
 city: L'ETANG-LA-VILLE
 zipCode: '78620'
 department: '78'

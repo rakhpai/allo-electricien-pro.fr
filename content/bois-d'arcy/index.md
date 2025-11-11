@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien BOIS-D'ARCY | 24/7
-slug: bois-d'arcy
+slug: bois-darcy
+aliases:
+  - /bois-d-arcy/
 city: BOIS-D'ARCY
 zipCode: '78390'
 department: '78'

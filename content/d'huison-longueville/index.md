@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien D'HUISON-LONGUEVILLE | 24/7
-slug: d'huison-longueville
+slug: dhuison-longueville
+aliases:
+  - /d-huison-longueville/
 city: D'HUISON-LONGUEVILLE
 zipCode: '91590'
 department: '91'

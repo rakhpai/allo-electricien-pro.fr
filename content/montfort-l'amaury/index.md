@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien MONTFORT-L'AMAURY | 24/7
-slug: montfort-l'amaury
+slug: montfort-lamaury
+aliases:
+  - /montfort-l-amaury/
 city: MONTFORT-L'AMAURY
 zipCode: '78490'
 department: '78'

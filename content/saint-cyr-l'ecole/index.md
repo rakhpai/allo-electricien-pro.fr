@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien SAINT-CYR-L'ECOLE | 24/7
-slug: saint-cyr-l'ecole
+slug: saint-cyr-lecole
+aliases:
+  - /saint-cyr-l-ecole/
 city: SAINT-CYR-L'ECOLE
 zipCode: '78210'
 department: '78'

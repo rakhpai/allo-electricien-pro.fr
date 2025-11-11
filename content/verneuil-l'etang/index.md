@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien VERNEUIL-L'ETANG | 24/7
-slug: verneuil-l'etang
+slug: verneuil-letang
+aliases:
+  - /verneuil-l-etang/
 city: VERNEUIL-L'ETANG
 zipCode: '77390'
 department: '77'

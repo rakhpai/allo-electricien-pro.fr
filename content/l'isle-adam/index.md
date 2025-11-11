@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien L'ISLE-ADAM | 24/7
-slug: l'isle-adam
+slug: lisle-adam
+aliases:
+  - /l-isle-adam/
 city: L'ISLE-ADAM
 zipCode: '95290'
 department: '95'

@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien BOISSY-L'AILLERIE | 24/7
-slug: boissy-l'aillerie
+slug: boissy-laillerie
+aliases:
+  - /boissy-l-aillerie/
 city: BOISSY-L'AILLERIE
 zipCode: '95650'
 department: '95'

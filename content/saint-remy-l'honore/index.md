@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien SAINT-REMY-L'HONORE | 24/7
-slug: saint-remy-l'honore
+slug: saint-remy-lhonore
+aliases:
+  - /saint-remy-l-honore/
 city: SAINT-REMY-L'HONORE
 zipCode: '78690'
 department: '78'

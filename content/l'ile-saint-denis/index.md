@@ -1,6 +1,8 @@
 ---
 title: ⚡ Intervention Électricien L'ILE-SAINT-DENIS | 24/7
-slug: l'ile-saint-denis
+slug: lile-saint-denis
+aliases:
+  - /l-ile-saint-denis/
 city: L'ILE-SAINT-DENIS
 zipCode: '93450'
 department: '93'
