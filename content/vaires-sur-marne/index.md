@@ -27,21 +27,41 @@ sitemap:
   changefreq: monthly
 cdnImages:
   hero:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaires-sur-marne-77360-hero.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaires-sur-marne-77360-hero.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaires-sur-marne-77360-hero.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaires-sur-marne-77360-hero.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaires-sur-marne-77360-hero.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-vaires-sur-marne-77360-hero.jpg
   og:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaires-sur-marne-77360-og.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaires-sur-marne-77360-og.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaires-sur-marne-77360-og.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaires-sur-marne-77360-og.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaires-sur-marne-77360-og.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-vaires-sur-marne-77360-og.jpg
   featured:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaires-sur-marne-77360-featured.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaires-sur-marne-77360-featured.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaires-sur-marne-77360-featured.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaires-sur-marne-77360-featured.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaires-sur-marne-77360-featured.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-vaires-sur-marne-77360-featured.jpg
   video:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaires-sur-marne-77360-video.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaires-sur-marne-77360-video.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaires-sur-marne-77360-video.jpg"
-
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaires-sur-marne-77360-video.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaires-sur-marne-77360-video.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vaires-sur-marne-77360-video.jpg
+introText: >-
+  À Vaires-sur-Marne, commune dynamique de Seine-et-Marne située en bordure de
+  la Marne, l'habitat résidentiel et les petits collectifs demandent une
+  expertise électrique de qualité et de proximité. Les installations anciennes
+  des pavillons comme les systèmes modernes des nouveaux bâtiments requièrent
+  des interventions fiables et rapides pour garantir votre sécurité.  Nos
+  électriciens interviennent sur l'ensemble du secteur 77360 avec réactivité,
+  assurant dépannage d'urgence et travaux.
+introGeneratedAt: '2025-11-12T16:05:54.678Z'
 ---
 

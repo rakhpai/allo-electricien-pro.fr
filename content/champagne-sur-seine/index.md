@@ -28,21 +28,41 @@ sitemap:
   changefreq: monthly
 cdnImages:
   hero:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-champagne-sur-seine-77430-hero.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-champagne-sur-seine-77430-hero.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-champagne-sur-seine-77430-hero.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-champagne-sur-seine-77430-hero.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-champagne-sur-seine-77430-hero.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-champagne-sur-seine-77430-hero.jpg
   og:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-champagne-sur-seine-77430-og.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-champagne-sur-seine-77430-og.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-champagne-sur-seine-77430-og.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-champagne-sur-seine-77430-og.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-champagne-sur-seine-77430-og.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-champagne-sur-seine-77430-og.jpg
   featured:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-champagne-sur-seine-77430-featured.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-champagne-sur-seine-77430-featured.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-champagne-sur-seine-77430-featured.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-champagne-sur-seine-77430-featured.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-champagne-sur-seine-77430-featured.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-champagne-sur-seine-77430-featured.jpg
   video:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champagne-sur-seine-77430-video.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champagne-sur-seine-77430-video.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champagne-sur-seine-77430-video.jpg"
-
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champagne-sur-seine-77430-video.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champagne-sur-seine-77430-video.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champagne-sur-seine-77430-video.jpg
+introText: >-
+  À Champagne-sur-Seine, commune de Seine-et-Marne située en vallée de la Seine,
+  les habitations individuelles et petits collectifs demandent une expertise
+  électrique adaptée aux constructions locales. Les installations anciennes
+  comme récentes nécessitent des interventions fiables et conformes aux normes
+  actuelles. Nos électriciens interviennent rapidement dans le 77430 et ses
+  alentours pour tous vos besoins en électricité générale et dépannage
+  d'urgence.
+introGeneratedAt: '2025-11-12T15:27:45.654Z'
 ---
 

@@ -27,21 +27,41 @@ sitemap:
   changefreq: monthly
 cdnImages:
   hero:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-andrezel-77390-hero.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-andrezel-77390-hero.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-andrezel-77390-hero.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-andrezel-77390-hero.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-andrezel-77390-hero.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-andrezel-77390-hero.jpg
   og:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-andrezel-77390-og.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-andrezel-77390-og.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-andrezel-77390-og.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-andrezel-77390-og.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-andrezel-77390-og.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-andrezel-77390-og.jpg
   featured:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-andrezel-77390-featured.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-andrezel-77390-featured.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-andrezel-77390-featured.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-andrezel-77390-featured.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-andrezel-77390-featured.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-andrezel-77390-featured.jpg
   video:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-andrezel-77390-video.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-andrezel-77390-video.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-andrezel-77390-video.jpg"
-
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-andrezel-77390-video.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-andrezel-77390-video.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-andrezel-77390-video.jpg
+introText: >-
+  À Andrezel, commune de Seine-et-Marne située en région Île-de-France,
+  l'habitat pavillonnaire et les petits collectifs demandent une expertise
+  électrique de proximité adaptée aux constructions locales. Les installations
+  anciennes comme modernes de ce secteur nécessitent des interventions
+  régulières pour garantir sécurité et conformité aux normes actuelles. Notre
+  équipe intervient rapidement sur Andrezel 77390 et ses alentours pour tous vos
+  besoins en électricité générale, dépannage et mise aux normes.
+introGeneratedAt: '2025-11-12T15:21:10.837Z'
 ---
 

@@ -21,27 +21,47 @@ images:
   og: default-electricien-og
   featured: default-electricien-featured
   video: default-electricien-video
-draft: false
+draft: true
 sitemap:
   priority: 0.5
   changefreq: monthly
 cdnImages:
   hero:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-la-verriere-60210-hero.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-la-verriere-60210-hero.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-la-verriere-60210-hero.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-la-verriere-60210-hero.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-la-verriere-60210-hero.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-la-verriere-60210-hero.jpg
   og:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-la-verriere-60210-og.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-la-verriere-60210-og.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-la-verriere-60210-og.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-la-verriere-60210-og.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-la-verriere-60210-og.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-la-verriere-60210-og.jpg
   featured:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-la-verriere-60210-featured.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-la-verriere-60210-featured.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-la-verriere-60210-featured.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-la-verriere-60210-featured.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-la-verriere-60210-featured.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-la-verriere-60210-featured.jpg
   video:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-la-verriere-60210-video.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-la-verriere-60210-video.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-la-verriere-60210-video.jpg"
-
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-la-verriere-60210-video.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-la-verriere-60210-video.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-la-verriere-60210-video.jpg
+introText: >-
+  À LAVERRIERE, commune de l'Oise caractérisée par ses maisons individuelles et
+  propriétés rurales, les installations électriques requièrent une expertise
+  particulière. Les habitations anciennes et modernes de la région demandent des
+  mises aux normes régulières et des interventions adaptées à leurs
+  spécificités. Nos électriciens interviennent rapidement sur LAVERRIERE et ses
+  alentours, disponibles pour vos dépannages, installations et entretiens
+  électriques.
+introGeneratedAt: '2025-11-12T18:33:40.260Z'
 ---
 

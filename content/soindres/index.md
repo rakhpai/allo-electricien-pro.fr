@@ -27,21 +27,41 @@ sitemap:
   changefreq: monthly
 cdnImages:
   hero:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-soindres-78200-hero.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-soindres-78200-hero.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-soindres-78200-hero.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-soindres-78200-hero.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-soindres-78200-hero.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/hero/electricien-urgence-soindres-78200-hero.jpg
   og:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-soindres-78200-og.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-soindres-78200-og.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-soindres-78200-og.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-soindres-78200-og.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-soindres-78200-og.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/og/electricien-urgence-soindres-78200-og.jpg
   featured:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-soindres-78200-featured.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-soindres-78200-featured.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-soindres-78200-featured.jpg"
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-soindres-78200-featured.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-soindres-78200-featured.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/featured/electricien-urgence-soindres-78200-featured.jpg
   video:
-    avif: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-soindres-78200-video.avif"
-    webp: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-soindres-78200-video.webp"
-    jpg: "https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-soindres-78200-video.jpg"
-
+    avif: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-soindres-78200-video.avif
+    webp: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-soindres-78200-video.webp
+    jpg: >-
+      https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-soindres-78200-video.jpg
+introText: >-
+  À Soindres, commune résidentielle des Yvelines caractérisée par un habitat
+  pavillonnaire et un tissu local dynamique, les maisons individuelles
+  constituent l'essentiel du patrimoine bâti. Les installations électriques de
+  ces habitations anciennes et modernes nécessitent des interventions régulières
+  pour garantir sécurité et conformité aux normes actuelles. Nos électriciens
+  interviennent rapidement dans toute la zone pour assurer dépannages,
+  rénovations et mises aux normes de vos installations.
+introGeneratedAt: '2025-11-12T17:33:00.421Z'
 ---
 

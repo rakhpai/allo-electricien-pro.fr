@@ -16,17 +16,18 @@ Conformément aux dispositions de la loi n° 2004-575 du 21 juin 2004 pour la Co
 
 Le site **allo-electricien.pro** est édité par :
 
-**Raison sociale :** [À COMPLÉTER - Nom de la société]
-**Forme juridique :** [À COMPLÉTER - SARL, SAS, EURL, etc.]
-**Capital social :** [À COMPLÉTER - Montant] euros
-**Siège social :** [À COMPLÉTER - Adresse complète]
-**RCS :** [À COMPLÉTER - Ville d'immatriculation + numéro]
-**SIRET :** [À COMPLÉTER - Numéro SIRET]
-**N° TVA intracommunautaire :** [À COMPLÉTER]
+**Raison sociale :** ECLAT RAPIDE ELECTRICITE
+**Forme juridique :** Société à responsabilité limitée (Société à associé unique)
+**Capital social :** 1 000,00 euros
+**Siège social :** 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
+**RCS :** 988 601 175 R.C.S. Créteil
+**SIRET :** 988 601 175 00017
+**Date d'immatriculation :** 02/07/2025
+**Activité principale :** Installation et dépannage électricité
 
-**Directeur de la publication :** [À COMPLÉTER - Nom et prénom]
-**Contact :** [À COMPLÉTER - Email de contact]
-**Téléphone :** 06 44 95 55 55
+**Directeur de la publication :** Miguel Victor VALLÉE (Gérant)
+**Contact :** contact@allo-electricien.pro
+**Téléphone :** 01 44 90 11 31
 
 ### 2. Hébergement du Site
 
@@ -97,8 +98,8 @@ Les informations concernant la collecte et le traitement des données personnell
 Conformément au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés, vous disposez d'un droit d'accès, de rectification, de suppression et d'opposition aux données vous concernant.
 
 Pour exercer ces droits, veuillez nous contacter :
-- **Par email :** [À COMPLÉTER - Email contact DPO/RGPD]
-- **Par courrier :** [À COMPLÉTER - Adresse postale complète]
+- **Par email :** contact@allo-electricien.pro
+- **Par courrier :** ECLAT RAPIDE ELECTRICITE, 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
 
 ### 6. Cookies et Technologies Similaires
 
@@ -125,9 +126,9 @@ En cas de litige et à défaut d'accord amiable, le litige sera porté devant le
 
 Pour toute question concernant les mentions légales ou le site **allo-electricien.pro**, vous pouvez nous contacter :
 
-**Téléphone :** 06 44 95 55 55
-**Email :** [À COMPLÉTER - Email de contact]
-**Adresse :** [À COMPLÉTER - Adresse postale]
+**Téléphone :** 01 44 90 11 31
+**Email :** contact@allo-electricien.pro
+**Adresse :** ECLAT RAPIDE ELECTRICITE, 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
 
 **Horaires de contact :**
 Service d'urgence électrique disponible 24h/24, 7j/7
@@ -135,8 +136,8 @@ Questions administratives : du lundi au vendredi, 9h-18h
 
 ---
 
-*Dernière mise à jour : [À COMPLÉTER - Date]
-Version : 1.0*
+*Dernière mise à jour : 11/11/2025
+Version : 2.0*
 
 ---
 

@@ -14,18 +14,18 @@ La présente Politique de Confidentialité décrit la façon dont **allo-electri
 
 Cette politique est conforme au **Règlement Général sur la Protection des Données (RGPD - UE 2016/679)** et à la **loi Informatique et Libertés** modifiée.
 
-**Dernière mise à jour :** [À COMPLÉTER - Date]
+**Dernière mise à jour :** 11/11/2025
 
 ### 1. Identité du Responsable de Traitement
 
 Les données personnelles collectées sur le site **allo-electricien.pro** sont traitées par :
 
-**Raison sociale :** [À COMPLÉTER - Nom de la société]
-**Adresse :** [À COMPLÉTER - Adresse complète]
-**Email :** [À COMPLÉTER - Email contact RGPD/DPO]
-**Téléphone :** 06 44 95 55 55
+**Raison sociale :** ECLAT RAPIDE ELECTRICITE
+**Adresse :** 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
+**Email :** contact@allo-electricien.pro
+**Téléphone :** 01 44 90 11 31
 
-**Délégué à la Protection des Données (DPO) :** [À COMPLÉTER - Nom si applicable, ou "Non requis pour une PME"]
+**Délégué à la Protection des Données (DPO) :** Non requis (PME)
 
 ### 2. Données Personnelles Collectées
 
@@ -256,8 +256,8 @@ Pour les traitements basés sur votre consentement (cookies, newsletter), vous p
 
 Pour exercer vos droits, contactez-nous :
 
-**Par email :** [À COMPLÉTER - Email RGPD/DPO]
-**Par courrier :** [À COMPLÉTER - Adresse postale complète + mention "RGPD"]
+**Par email :** contact@allo-electricien.pro
+**Par courrier :** ECLAT RAPIDE ELECTRICITE, 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France (Mention "RGPD")
 
 **Délai de réponse :** 1 mois maximum (extensible à 3 mois si demande complexe)
 
@@ -282,7 +282,7 @@ Si nous découvrons qu'un mineur nous a fourni des données personnelles sans le
 
 Nous pouvons mettre à jour cette Politique de Confidentialité pour refléter les changements dans nos pratiques ou pour des raisons légales.
 
-**Date de dernière mise à jour :** [À COMPLÉTER - Date]
+**Date de dernière mise à jour :** 11/11/2025
 
 Les modifications importantes seront signalées par un bandeau sur le site ou par email si vous êtes client.
 
@@ -302,11 +302,11 @@ Cette Politique de Confidentialité est régie par le droit français et conform
 
 Pour toute question concernant cette Politique de Confidentialité ou le traitement de vos données personnelles :
 
-**Email :** [À COMPLÉTER - Email contact RGPD]
-**Téléphone :** 06 44 95 55 55
-**Adresse :** [À COMPLÉTER - Adresse postale]
+**Email :** contact@allo-electricien.pro
+**Téléphone :** 01 44 90 11 31
+**Adresse :** ECLAT RAPIDE ELECTRICITE, 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
 
-**Délégué à la Protection des Données (DPO) :** [À COMPLÉTER si applicable]
+**Délégué à la Protection des Données (DPO) :** Non requis (PME)
 
 ---
 
