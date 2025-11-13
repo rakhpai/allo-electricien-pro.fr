@@ -1,0 +1,243 @@
+{{ define "main" }}
+<!-- Breadcrumb -->
+<div class="bg-gray-100 border-b border-gray-200 py-3 mt-24">
+  <div class="container mx-auto px-4">
+    <nav class="flex items-center space-x-2 text-sm">
+      <a href="/" class="text-primary hover:underline">SOS Électricien</a>
+      <span class="text-gray-400">/</span>
+      <span class="text-gray-600">Conseils & Guides</span>
+    </nav>
+  </div>
+</div>
+
+<!-- Hero Section -->
+<section class="relative bg-gradient-to-r from-primary to-blue-700 text-white py-16 overflow-hidden">
+  <div class="absolute inset-0 z-0">
+    <img src="/eleclogos/central_hero.svg"
+         alt="Conseils électricité"
+         class="w-full h-full object-cover opacity-40"
+         loading="eager"
+         decoding="async">
+  </div>
+  <div class="absolute inset-0 bg-gradient-to-r from-primary/80 to-blue-700/80 z-10"></div>
+
+  <div class="container mx-auto px-4 relative z-20">
+    <div class="max-w-4xl mx-auto text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4 drop-shadow-lg">
+        Conseils & Guides Électricité
+      </h1>
+      <p class="text-xl mb-6 text-blue-100 drop-shadow-md">
+        Expertise professionnelle pour comprendre et résoudre vos problèmes électriques à Paris et en Île-de-France
+      </p>
+
+      <!-- Stats -->
+      <div class="flex flex-wrap justify-center gap-6 mt-8">
+        <div class="bg-white/20 backdrop-blur-sm px-6 py-3 rounded-lg">
+          <div class="text-3xl font-bold">{{ len .Pages }}</div>
+          <div class="text-sm text-blue-100">Articles</div>
+        </div>
+        <div class="bg-white/20 backdrop-blur-sm px-6 py-3 rounded-lg">
+          <div class="text-3xl font-bold">24/7</div>
+          <div class="text-sm text-blue-100">Support</div>
+        </div>
+        <div class="bg-white/20 backdrop-blur-sm px-6 py-3 rounded-lg">
+          <div class="text-3xl font-bold">15+</div>
+          <div class="text-sm text-blue-100">Ans d'expérience</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Main Content -->
+<section class="py-12 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Featured Categories -->
+      <div class="mb-12">
+        <h2 class="text-2xl font-bold text-gray-900 mb-6">Catégories Populaires</h2>
+        <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
+          <a href="/categories/urgences/"
+             class="bg-white p-4 rounded-lg shadow hover:shadow-lg transition-all duration-300 text-center group">
+            <svg class="w-8 h-8 mx-auto mb-2 text-emergency group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"/>
+            </svg>
+            <h3 class="font-semibold text-gray-900">Urgences</h3>
+            <p class="text-sm text-gray-600 mt-1">Que faire en cas d'urgence</p>
+          </a>
+
+          <a href="/categories/depannage-electrique/"
+             class="bg-white p-4 rounded-lg shadow hover:shadow-lg transition-all duration-300 text-center group">
+            <svg class="w-8 h-8 mx-auto mb-2 text-primary group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+            </svg>
+            <h3 class="font-semibold text-gray-900">Dépannage</h3>
+            <p class="text-sm text-gray-600 mt-1">Solutions aux pannes courantes</p>
+          </a>
+
+          <a href="/categories/securite-electrique/"
+             class="bg-white p-4 rounded-lg shadow hover:shadow-lg transition-all duration-300 text-center group">
+            <svg class="w-8 h-8 mx-auto mb-2 text-green-600 group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+            </svg>
+            <h3 class="font-semibold text-gray-900">Sécurité</h3>
+            <p class="text-sm text-gray-600 mt-1">Prévention des dangers</p>
+          </a>
+
+          <a href="/categories/reglementation/"
+             class="bg-white p-4 rounded-lg shadow hover:shadow-lg transition-all duration-300 text-center group">
+            <svg class="w-8 h-8 mx-auto mb-2 text-blue-600 group-hover:scale-110 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
+            </svg>
+            <h3 class="font-semibold text-gray-900">Réglementation</h3>
+            <p class="text-sm text-gray-600 mt-1">Normes et obligations</p>
+          </a>
+        </div>
+      </div>
+
+      <!-- Articles Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ range .Pages }}
+        <article class="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-all duration-300">
+          <a href="{{ .RelPermalink }}" class="block">
+            <!-- Article Image -->
+            <div class="h-48 relative overflow-hidden">
+              {{ if .Params.images.thumbnail }}
+              <picture>
+                <source srcset="{{ .Params.images.thumbnail }}" type="image/webp">
+                <img src="{{ replace .Params.images.thumbnail ".webp" ".png" }}"
+                     alt="{{ .Title }}"
+                     class="w-full h-full object-cover"
+                     loading="lazy"
+                     decoding="async">
+              </picture>
+              {{ else }}
+              <div class="h-full bg-gradient-to-br from-blue-500 to-primary relative">
+                <div class="absolute inset-0 flex items-center justify-center text-white">
+                  <svg class="w-16 h-16 opacity-50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                  </svg>
+                </div>
+              </div>
+              {{ end }}
+              {{ if .Params.categories }}
+              <div class="absolute top-4 left-4">
+                <span class="bg-white text-primary px-3 py-1 rounded-full text-xs font-semibold">
+                  {{ index .Params.categories 0 }}
+                </span>
+              </div>
+              {{ end }}
+            </div>
+
+            <!-- Article Content -->
+            <div class="p-6">
+              <h3 class="text-xl font-bold text-gray-900 mb-2 line-clamp-2 hover:text-primary transition-colors">
+                {{ .Title }}
+              </h3>
+
+              {{ if .Description }}
+              <p class="text-gray-600 mb-4 line-clamp-3">
+                {{ .Description }}
+              </p>
+              {{ end }}
+
+              <!-- Meta Info -->
+              <div class="flex items-center justify-between text-sm text-gray-500">
+                <div class="flex items-center gap-2">
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                  </svg>
+                  <time datetime="{{ .Date.Format "2006-01-02" }}">
+                    {{ .Date.Format "2 Jan 2006" }}
+                  </time>
+                </div>
+
+                {{ if .Params.author }}
+                <div class="flex items-center gap-2">
+                  <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z" clip-rule="evenodd"/>
+                  </svg>
+                  <span class="truncate max-w-[100px]">{{ .Params.author | truncate 20 }}</span>
+                </div>
+                {{ end }}
+              </div>
+
+              <!-- Tags -->
+              {{ if .Params.tags }}
+              <div class="mt-4 flex flex-wrap gap-1">
+                {{ range first 3 .Params.tags }}
+                <span class="text-xs bg-gray-100 text-gray-600 px-2 py-1 rounded">
+                  #{{ . }}
+                </span>
+                {{ end }}
+              </div>
+              {{ end }}
+            </div>
+          </a>
+        </article>
+        {{ end }}
+      </div>
+
+      <!-- Emergency CTA -->
+      <div class="mt-16 bg-gradient-to-r from-emergency to-red-700 rounded-lg shadow-2xl p-8 text-center text-white">
+        <h2 class="text-3xl font-bold mb-4">Besoin d'une Intervention Urgente ?</h2>
+        <p class="text-xl mb-6 text-red-100">
+          Ne prenez aucun risque avec l'électricité. Nos experts interviennent en moins de 30 minutes à Paris et en Île-de-France.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <a href="tel:0644955555"
+             class="bg-white text-emergency hover:bg-gray-100 font-bold py-4 px-8 rounded-lg text-xl shadow-lg transform transition-all duration-300 hover:scale-105 flex items-center gap-2">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+            </svg>
+            06 44 95 55 55
+          </a>
+        </div>
+        <p class="mt-4 text-sm text-red-100">Disponible 24h/24 - 7j/7 - Devis gratuit</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Blog Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Conseils & Guides Électricité - SOS Électricien Paris",
+  "description": "Expertise professionnelle pour comprendre et résoudre vos problèmes électriques à Paris et en Île-de-France",
+  "url": {{ .Permalink | jsonify }},
+  "publisher": {
+    "@type": "Organization",
+    "name": "SOS Électricien Paris",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}eleclogos/logo.svg"
+    }
+  },
+  "blogPost": [
+    {{ range $index, $element := .Pages }}
+    {{ if $index }},{{ end }}
+    {
+      "@type": "BlogPosting",
+      "headline": {{ .Title | jsonify }},
+      "description": {{ .Description | jsonify }},
+      "datePublished": {{ .Date.Format "2006-01-02T15:04:05-07:00" | jsonify }},
+      {{ if .Params.lastmod }}
+      "dateModified": {{ .Params.lastmod | jsonify }},
+      {{ else }}
+      "dateModified": {{ .Date.Format "2006-01-02T15:04:05-07:00" | jsonify }},
+      {{ end }}
+      "author": {
+        "@type": "Person",
+        "name": {{ .Params.author | default "SOS Électricien Paris" | jsonify }}
+      },
+      "url": {{ .Permalink | jsonify }}
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+{{ end }}

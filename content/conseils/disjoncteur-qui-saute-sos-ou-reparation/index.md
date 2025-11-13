@@ -2,11 +2,27 @@
 title: "Disjoncteur qui Saute : SOS Électricien ou Simple Réparation ?"
 slug: disjoncteur-qui-saute-sos-ou-reparation
 description: "Votre disjoncteur saute régulièrement à Paris ? Découvrez quand c'est normal, quand c'est grave et si vous avez besoin d'un SOS électricien urgence 24/7."
-date: 2025-01-12
+date: 2025-01-12T10:00:00+01:00
+lastmod: 2025-01-15T14:30:00+01:00
+publishDate: 2025-01-12T10:00:00+01:00
+author: "Marc Dubois, Expert Électricien Certifié"
+categories:
+  - "Dépannage Électrique"
+  - "Urgences"
+tags:
+  - "disjoncteur"
+  - "panne électrique"
+  - "sécurité électrique"
+  - "tableau électrique"
+  - "urgence électricien"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/disjoncteur-qui-saute-sos-ou-reparation.webp"
+  og: "/images/articles/og/disjoncteur-qui-saute-sos-ou-reparation.png"
+  thumbnail: "/images/articles/thumbnail/disjoncteur-qui-saute-sos-ou-reparation.webp"
 ---
 
 # Disjoncteur qui Saute : SOS Électricien ou Simple Réparation ?

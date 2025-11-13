@@ -2,11 +2,27 @@
 title: "5 Signes d'une Urgence Électrique à Paris | SOS Électricien"
 slug: 5-signes-urgence-electrique-paris
 description: "Reconnaissez les 5 signes d'une urgence électrique à Paris nécessitant un SOS électricien immédiat. Odeur de brûlé, étincelles, disjoncteur qui saute : intervenez vite !"
-date: 2025-01-15
+date: 2025-01-15T09:00:00+01:00
+lastmod: 2025-01-18T16:00:00+01:00
+publishDate: 2025-01-15T09:00:00+01:00
+author: "Sophie Martin, Ingénieur Électricien"
+categories:
+  - "Sécurité Électrique"
+  - "Urgences"
+tags:
+  - "urgence électrique"
+  - "sécurité"
+  - "danger électrique"
+  - "électricien 24/7"
+  - "signes d'alerte"
 draft: false
 sitemap:
-  priority: 0.7
+  priority: 0.8
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/5-signes-urgence-electrique-paris.webp"
+  og: "/images/articles/og/5-signes-urgence-electrique-paris.png"
+  thumbnail: "/images/articles/thumbnail/5-signes-urgence-electrique-paris.webp"
 ---
 
 # 5 Signes d'une Urgence Électrique à Paris

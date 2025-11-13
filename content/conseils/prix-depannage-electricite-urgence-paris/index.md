@@ -2,11 +2,27 @@
 title: "Prix Dépannage Électricité Urgence Paris : Guide Complet 2025"
 slug: prix-depannage-electricite-urgence-paris
 description: "Combien coûte un SOS électricien à Paris en 2025 ? Grille tarifaire complète : déplacement, main-d'œuvre, urgence nuit/dimanche. Devis et transparence garantis."
-date: 2025-01-10
+date: 2025-01-10T09:00:00+01:00
+lastmod: 2025-01-13T16:00:00+01:00
+publishDate: 2025-01-10T09:00:00+01:00
+author: "Julien Moreau, Responsable Tarification"
+categories:
+  - "Tarifs"
+  - "Services 24/7"
+tags:
+  - "prix électricien"
+  - "tarif urgence"
+  - "devis électricité"
+  - "coût dépannage"
+  - "grille tarifaire"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/prix-depannage-electricite-urgence-paris.webp"
+  og: "/images/articles/og/prix-depannage-electricite-urgence-paris.png"
+  thumbnail: "/images/articles/thumbnail/prix-depannage-electricite-urgence-paris.webp"
 ---
 
 # Prix Dépannage Électricité Urgence Paris : Guide Complet 2025

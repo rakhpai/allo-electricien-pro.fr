@@ -2,11 +2,27 @@
 title: "Tableau Électrique qui Grésille : Urgence Absolue - Que Faire ?"
 slug: tableau-electrique-gresille-urgence
 description: "Votre tableau électrique grésille, crépite ou fait du bruit à Paris ? DANGER incendie imminent ! Actions urgentes à faire et SOS électricien 24/7."
-date: 2025-01-08
+date: 2025-01-08T09:00:00+01:00
+lastmod: 2025-01-11T12:30:00+01:00
+publishDate: 2025-01-08T09:00:00+01:00
+author: "Alexandre Renaud, Chef d'Équipe Urgences"
+categories:
+  - "Urgences"
+  - "Sécurité Électrique"
+tags:
+  - "tableau électrique"
+  - "urgence électrique"
+  - "grésillement"
+  - "incendie électrique"
+  - "danger immédiat"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/tableau-electrique-gresille-urgence.webp"
+  og: "/images/articles/og/tableau-electrique-gresille-urgence.png"
+  thumbnail: "/images/articles/thumbnail/tableau-electrique-gresille-urgence.webp"
 ---
 
 # Tableau Électrique qui Grésille : Urgence Absolue

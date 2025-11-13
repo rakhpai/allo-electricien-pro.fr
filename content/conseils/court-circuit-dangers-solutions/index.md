@@ -2,11 +2,27 @@
 title: "Court-Circuit : Dangers et Solutions Immédiates | SOS Électricien Paris"
 slug: court-circuit-dangers-solutions
 description: "Court-circuit électrique à Paris : reconnaissez les signes, comprenez les dangers (incendie, électrocution) et réagissez vite. SOS dépannage urgence 24/7."
-date: 2025-01-13
+date: 2025-01-13T11:00:00+01:00
+lastmod: 2025-01-16T15:30:00+01:00
+publishDate: 2025-01-13T11:00:00+01:00
+author: "Marc Dubois, Expert Électricien Certifié"
+categories:
+  - "Sécurité Électrique"
+  - "Urgences"
+tags:
+  - "court-circuit"
+  - "danger électrique"
+  - "incendie électrique"
+  - "sécurité"
+  - "dépannage urgent"
 draft: false
 sitemap:
-  priority: 0.7
+  priority: 0.8
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/court-circuit-dangers-solutions.webp"
+  og: "/images/articles/og/court-circuit-dangers-solutions.png"
+  thumbnail: "/images/articles/thumbnail/court-circuit-dangers-solutions.webp"
 ---
 
 # Court-Circuit : Dangers et Solutions Immédiates

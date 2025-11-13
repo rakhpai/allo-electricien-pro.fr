@@ -2,11 +2,27 @@
 title: "Électricien Paris Dimanche : Comment Obtenir une Intervention Urgente ?"
 slug: electricien-paris-dimanche-intervention
 description: "Besoin d'un électricien le dimanche à Paris ? Découvrez les services SOS disponibles 24/7, tarifs dimanche, délais d'intervention et zones couvertes en urgence."
-date: 2025-01-11
+date: 2025-01-11T09:00:00+01:00
+lastmod: 2025-01-14T11:00:00+01:00
+publishDate: 2025-01-11T09:00:00+01:00
+author: "Sophie Martin, Ingénieur Électricien"
+categories:
+  - "Services 24/7"
+  - "Week-end"
+tags:
+  - "électricien dimanche"
+  - "urgence week-end"
+  - "dépannage dimanche"
+  - "tarifs dimanche"
+  - "Paris"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/electricien-paris-dimanche-intervention.webp"
+  og: "/images/articles/og/electricien-paris-dimanche-intervention.png"
+  thumbnail: "/images/articles/thumbnail/electricien-paris-dimanche-intervention.webp"
 ---
 
 # Électricien Paris Dimanche : Comment Obtenir une Intervention Urgente ?

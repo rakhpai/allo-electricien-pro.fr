@@ -2,11 +2,27 @@
 title: "Normes Électriques Paris : Ce Que Dit la Loi NF C 15-100 en 2025"
 slug: normes-electriques-paris-loi
 description: "Norme NF C 15-100 à Paris : obligations légales, mise aux normes, diagnostic électrique obligatoire. Tout ce que dit la loi pour votre sécurité."
-date: 2025-01-09
+date: 2025-01-09T09:00:00+01:00
+lastmod: 2025-01-12T11:00:00+01:00
+publishDate: 2025-01-09T09:00:00+01:00
+author: "Jean-Philippe Rousseau, Électricien Certifié QUALIFELEC"
+categories:
+  - "Réglementation"
+  - "Sécurité Électrique"
+tags:
+  - "NF C 15-100"
+  - "norme électrique"
+  - "mise aux normes"
+  - "diagnostic électrique"
+  - "réglementation Paris"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/normes-electriques-paris-loi.webp"
+  og: "/images/articles/og/normes-electriques-paris-loi.png"
+  thumbnail: "/images/articles/thumbnail/normes-electriques-paris-loi.webp"
 ---
 
 # Normes Électriques Paris : Ce Que Dit la Loi NF C 15-100

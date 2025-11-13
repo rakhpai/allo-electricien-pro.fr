@@ -2,11 +2,27 @@
 title: "Électricien de Nuit Paris : Service 24h/24 Expliqué - SOS Urgence"
 slug: electricien-nuit-paris-service-24h
 description: "Besoin d'un électricien la nuit à Paris ? Découvrez le service 24h/24 : disponibilité, tarifs nuit, délais, urgences couvertes. SOS dépannage nocturne garanti."
-date: 2025-01-06
+date: 2025-01-06T20:00:00+01:00
+lastmod: 2025-01-10T22:00:00+01:00
+publishDate: 2025-01-06T20:00:00+01:00
+author: "Pierre Laurent, Chef d'Équipe Urgences"
+categories:
+  - "Services 24/7"
+  - "Urgences"
+tags:
+  - "électricien nuit"
+  - "urgence 24h"
+  - "service nocturne"
+  - "dépannage nuit"
+  - "Paris"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/electricien-nuit-paris-service-24h.webp"
+  og: "/images/articles/og/electricien-nuit-paris-service-24h.png"
+  thumbnail: "/images/articles/thumbnail/electricien-nuit-paris-service-24h.webp"
 ---
 
 # Électricien de Nuit Paris : Service 24h/24 Expliqué

@@ -2,11 +2,27 @@
 title: "Plus de Courant dans une Pièce à Paris : Diagnostic Rapide et Solutions"
 slug: plus-courant-piece-diagnostic
 description: "Une seule pièce sans courant chez vous à Paris ? Diagnostic rapide en 5 étapes pour identifier la panne. Quand appeler un SOS électricien ? Solutions immédiates."
-date: 2025-01-07
+date: 2025-01-07T09:00:00+01:00
+lastmod: 2025-01-10T14:00:00+01:00
+publishDate: 2025-01-07T09:00:00+01:00
+author: "Thomas Martin, Électricien-Diagnostiqueur"
+categories:
+  - "Dépannage Électrique"
+  - "Diagnostic"
+tags:
+  - "panne électrique"
+  - "diagnostic pièce"
+  - "circuit électrique"
+  - "disjoncteur"
+  - "dépannage"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/plus-courant-piece-diagnostic.webp"
+  og: "/images/articles/og/plus-courant-piece-diagnostic.png"
+  thumbnail: "/images/articles/thumbnail/plus-courant-piece-diagnostic.webp"
 ---
 
 # Plus de Courant dans une Pièce : Diagnostic Rapide

@@ -2,11 +2,27 @@
 title: "Panne Totale de Courant : Que Faire à Paris ? | SOS Électricien"
 slug: panne-totale-courant-que-faire
 description: "Panne totale de courant à Paris ? Découvrez les 5 étapes à suivre immédiatement. Diagnostic, sécurité, dépannage électrique urgent. SOS électricien 24/7."
-date: 2025-01-14
+date: 2025-01-14T09:00:00+01:00
+lastmod: 2025-01-17T10:00:00+01:00
+publishDate: 2025-01-14T09:00:00+01:00
+author: "Pierre Laurent, Chef d'Équipe Urgences"
+categories:
+  - "Urgences"
+  - "Dépannage Électrique"
+tags:
+  - "panne électrique"
+  - "coupure courant"
+  - "urgence électrique"
+  - "diagnostic panne"
+  - "tableau électrique"
 draft: false
 sitemap:
   priority: 0.7
   changefreq: monthly
+images:
+  hero: "/images/articles/hero/panne-totale-courant-que-faire.webp"
+  og: "/images/articles/og/panne-totale-courant-que-faire.png"
+  thumbnail: "/images/articles/thumbnail/panne-totale-courant-que-faire.webp"
 ---
 
 # Panne Totale de Courant : Que Faire à Paris ?
