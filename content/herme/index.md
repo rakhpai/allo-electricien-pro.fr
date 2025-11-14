@@ -62,5 +62,24 @@ introText: >-
   rénovation électrique. Nos électriciens interviennent sans délai sur Hermé et
   ses alentours, garantissant une disponibilité locale pour tous vos besoins.
 introGeneratedAt: '2025-11-12T15:40:39.322Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à HERMÉ
+electriciansAvailable: 5
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 822+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

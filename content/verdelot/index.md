@@ -63,5 +63,24 @@ introText: >-
   ses alentours pour assurer la sécurité de vos installations et la continuité
   de votre confort électrique.
 introGeneratedAt: '2025-11-12T16:24:38.439Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VERDELOT
+electriciansAvailable: 8
+localLandmark: Provins médiéval
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Provins médiéval
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1197+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

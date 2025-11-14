@@ -42,3 +42,8 @@ videos-thumbnails/
 # Build archives
 *.tar.gz
 *.zip
+
+# Image generation cache - do not commit
+eleclogos/cache/
+eleclogos/generated/
+debug/

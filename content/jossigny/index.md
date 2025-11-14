@@ -63,5 +63,24 @@ introText: >-
   couvrons Jossigny et ses alentours avec une disponibilité garantie pour tous
   vos besoins en électricité générale et dépannage.
 introGeneratedAt: '2025-11-12T15:41:42.051Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à JOSSIGNY
+electriciansAvailable: 7
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 906+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

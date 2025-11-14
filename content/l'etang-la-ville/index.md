@@ -64,5 +64,24 @@ introText: >-
   qu'il s'agisse de dépannages urgents, de mises aux normes électriques,
   d'installations domotiques ou de rénovations énergétiques adaptées aux besoins
   spécifiques de ce charmant territoire périurbain.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à L'ETANG-LA-VILLE
+electriciansAvailable: 8
+localLandmark: Vallée de Chevreuse
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vallée de Chevreuse
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1475+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

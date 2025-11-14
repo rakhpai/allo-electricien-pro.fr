@@ -64,5 +64,24 @@ introText: >-
   électriciens interviennent rapidement dans la commune pour assurer la sécurité
   de vos installations et répondre à tous vos besoins en électricité générale.
 introGeneratedAt: '2025-11-12T17:14:09.262Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FONTENAY-SAINT-PÈRE
+electriciansAvailable: 6
+localLandmark: Saint-Germain-en-Laye
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Saint-Germain-en-Laye
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 929+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

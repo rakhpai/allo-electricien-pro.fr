@@ -1,13 +1,35 @@
 ---
-title: "Annuaire Électricien Paris & Île-de-France | 408 Professionnels Certifiés"
+title: Annuaire Électricien Paris & Île-de-France | 408 Professionnels Certifiés
 slug: annuaire
 draft: false
 layout: single
 type: annuaire
-description: "Annuaire complet des électriciens en Île-de-France. 408 professionnels certifiés dans 8 départements. Trouvez l'électricien le plus proche de chez vous. Intervention rapide 24/7."
+description: >-
+  Annuaire complet des électriciens en Île-de-France. 408 professionnels
+  certifiés dans 8 départements. Trouvez l'électricien le plus proche de chez
+  vous. Intervention rapide 24/7.
 sitemap:
   priority: 0.9
   changefreq: weekly
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à annuaire
+electriciansAvailable: 6
+localLandmark: Rambouillet
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Rambouillet
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1010+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 
 # Annuaire Électricien Paris & Île-de-France

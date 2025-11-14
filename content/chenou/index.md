@@ -62,5 +62,24 @@ introText: >-
   votre habitat. Nous intervenons rapidement sur l'ensemble du secteur 77570,
   disponibles pour tous vos dépannages et travaux d'électricité générale.
 introGeneratedAt: '2025-11-12T15:30:10.616Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à CHENOU
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1448+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

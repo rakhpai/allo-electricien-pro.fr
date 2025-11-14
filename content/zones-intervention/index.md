@@ -1,11 +1,33 @@
 ---
-title: "Zones d'Intervention Électricien Paris & Île-de-France | 8 Départements"
+title: Zones d'Intervention Électricien Paris & Île-de-France | 8 Départements
 slug: zones-intervention
 draft: false
-description: "Couverture complète Île-de-France : 408 électriciens dans 8 départements (75, 77, 78, 91, 92, 93, 94, 95). Intervention rapide 24/7 partout en IDF ☎️ 01 44 90 11 31"
+description: >-
+  Couverture complète Île-de-France : 408 électriciens dans 8 départements (75,
+  77, 78, 91, 92, 93, 94, 95). Intervention rapide 24/7 partout en IDF ☎️ 01 44
+  90 11 31
 sitemap:
   priority: 0.85
   changefreq: monthly
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à zones-intervention
+electriciansAvailable: 5
+localLandmark: Saint-Germain-en-Laye
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Saint-Germain-en-Laye
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 912+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 
 # Zones d'Intervention Électricien Île-de-France

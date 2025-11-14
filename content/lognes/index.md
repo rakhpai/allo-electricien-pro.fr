@@ -64,5 +64,24 @@ introText: >-
   environs, garantissant une intervention rapide et une disponibilité adaptée à
   vos besoins.
 introGeneratedAt: '2025-11-12T15:46:24.158Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LOGNES
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1467+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

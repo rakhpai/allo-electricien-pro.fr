@@ -62,5 +62,24 @@ introText: >-
   actuelles. Nos électriciens interviennent rapidement sur Rungis pour
   l'entretien, la rénovation et le dépannage de vos installations électriques.
 introGeneratedAt: '2025-11-12T18:13:00.370Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à RUNGIS
+electriciansAvailable: 6
+localLandmark: Maisons-Alfort
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Maisons-Alfort
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1409+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

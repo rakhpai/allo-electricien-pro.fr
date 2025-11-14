@@ -62,5 +62,24 @@ introText: >-
   Nos électriciens interviennent rapidement dans la région pour assurer
   dépannages, rénovations et conformité de vos installations.
 introGeneratedAt: '2025-11-12T17:05:38.620Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LEUDON-EN-BRIE
+electriciansAvailable: 8
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 875+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -64,5 +64,24 @@ introText: >-
   assurer l'entretien, les dépannages et les travaux d'amélioration de votre
   réseau électrique.
 introGeneratedAt: '2025-11-12T16:19:09.811Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FONTENAY-TRESIGNY
+electriciansAvailable: 8
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 927+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

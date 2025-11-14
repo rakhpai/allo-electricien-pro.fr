@@ -63,5 +63,24 @@ introText: >-
   rapidement sur Le Perchay et ses alentours pour assurer l'entretien, la
   réparation et l'installation de vos équipements électriques.
 introGeneratedAt: '2025-11-12T16:34:32.463Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LE PERCHAY
+electriciansAvailable: 8
+localLandmark: Auvers-sur-Oise
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Auvers-sur-Oise
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1472+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

@@ -64,5 +64,24 @@ introText: >-
   sur l'ensemble de Collegien 77090 et ses alentours, garantissant une
   disponibilité optimale pour tous vos dépannages et travaux.
 introGeneratedAt: '2025-11-12T15:31:20.065Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à COLLEGIEN
+electriciansAvailable: 8
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 922+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

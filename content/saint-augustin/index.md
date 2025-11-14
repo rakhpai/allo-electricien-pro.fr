@@ -63,5 +63,24 @@ introText: >-
   Saint-Augustin et ses alentours, garantissant une disponibilité locale pour
   tous vos besoins.
 introGeneratedAt: '2025-11-12T15:58:13.519Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-AUGUSTIN
+electriciansAvailable: 5
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 801+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

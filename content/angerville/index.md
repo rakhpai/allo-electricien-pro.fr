@@ -63,5 +63,24 @@ introText: >-
   maintenance régulière. Nos électriciens interviennent rapidement dans toute la
   commune pour vos dépannages, rénovations et conformités électriques.
 introGeneratedAt: '2025-11-12T17:07:09.302Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ANGERVILLE
+electriciansAvailable: 7
+localLandmark: Évry-Courcouronnes
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Évry-Courcouronnes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1031+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

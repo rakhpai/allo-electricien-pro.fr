@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la zone de Bougival pour assurer vos
   installations sécurisées et fonctionnelles.
 introGeneratedAt: '2025-11-12T16:37:14.694Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOUGIVAL
+electriciansAvailable: 8
+localLandmark: Mantes-la-Jolie
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Mantes-la-Jolie
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1237+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

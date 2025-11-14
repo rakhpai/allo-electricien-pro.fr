@@ -63,6 +63,25 @@ introText: >-
   interviennent rapidement dans le 75007 et ses alentours, disponibles pour tous
   vos dépannages et installations.
 introGeneratedAt: '2025-11-12T15:14:54.475Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 7e
+electriciansAvailable: 7
+localLandmark: Place de la République
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Place de la République
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1205+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -85,6 +104,23 @@ introGeneratedAt: '2025-11-12T15:14:54.475Z'
 ### Quartiers Couverts Paris 7e
 
 **Secteurs :** Tour Eiffel, Invalides, Musée d'Orsay
+
+### 🏘️ Arrondissements Voisins de Paris 7e
+
+**Service rapide également dans :**
+- [SOS électricien Paris 6e](/paris-6e/) - Saint-Germain-des-Prés, Luxembourg
+- [Dépannage Paris 8e](/paris-8e/) - Champs-Élysées, Madeleine
+- [Électricien Paris 15e](/paris-15e/) - Grenelle, Beaugrenelle, Convention
+- [Urgence Paris 16e](/paris-16e/) - Trocadéro, Passy, Auteuil
+- [Électricien Boulogne-Billancourt](/boulogne-billancourt/) - Pont de Sèvres
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

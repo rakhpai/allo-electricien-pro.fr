@@ -1,0 +1,1108 @@
+{
+  "metadata": {
+    "mode": "live",
+    "processId": "3",
+    "range": "213-350",
+    "skipExisting": true,
+    "delay": 2400,
+    "processed": 137,
+    "successful": 132,
+    "failed": 5,
+    "totalTokens": 67543,
+    "cost": 0.1081112,
+    "timestamp": "2025-11-12T17:22:49.369Z"
+  },
+  "results": [
+    {
+      "commune": "THOIRY",
+      "tier": "D",
+      "department": "78",
+      "charCount": 461,
+      "text": "À Thoiry, commune résidentielle des Yvelines, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des mises aux normes régulières et des interventions de maintenance adaptées aux besoins spécifiques du secteur. Nos électriciens interviennent rapidement sur Thoiry et ses alentours pour assurer dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "TILLY",
+      "tier": "D",
+      "department": "78",
+      "charCount": 466,
+      "text": "À Tilly, commune résidentielle des Yvelines, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Tilly et ses alentours pour assurer l'entretien, les dépannages et les travaux d'électricité générale de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "TOUSSUS-LE-NOBLE",
+      "tier": "D",
+      "department": "78",
+      "charCount": 457,
+      "text": "À Toussus-le-Noble, commune résidentielle des Yvelines au tissu local dynamique, les habitations individuelles et petits collectifs dominent le paysage architectural. Les installations électriques de ces bâtiments nécessitent des interventions régulières pour garantir sécurité, conformité et performance énergétique. Nos électriciens interviennent rapidement dans la zone pour assurer maintenance, dépannage et modernisation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "TRAPPES",
+      "tier": "D",
+      "department": "78",
+      "charCount": 496,
+      "text": "À Trappes, commune résidentielle des Yvelines caractérisée par un tissu urbain dense et varié, les habitations individuelles et collectifs côtoient des petits commerces locaux. Les installations électriques de ces bâtiments anciens et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la zone de Trappes pour assurer vos réparations, installations et contrôles de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "TRIEL-SUR-SEINE",
+      "tier": "D",
+      "department": "78",
+      "charCount": 498,
+      "text": "À Triel-sur-Seine, commune résidentielle des Yvelines au tissu local dynamique, les habitations individuelles et petits collectifs constituent le cœur du patrimoine bâti. Les installations électriques de ces maisons anciennes et modernes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la zone pour assurer la sécurité de vos installations et répondre à vos besoins en électricité générale.",
+      "success": true
+    },
+    {
+      "commune": "VAUX-SUR-SEINE",
+      "tier": "D",
+      "department": "78",
+      "charCount": 493,
+      "text": "À Vaux-sur-Seine, commune résidentielle des Yvelines au tissu local dynamique, les habitations individuelles et petits collectifs constituent le paysage architectural dominant. Les installations électriques de ces bâtiments, souvent anciens ou en rénovation, nécessitent des interventions régulières en conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la zone pour assurer l'entretien, la mise aux normes et les dépannages de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VELIZY-VILLACOUBLAY",
+      "tier": "D",
+      "department": "78",
+      "charCount": 475,
+      "text": "À Vélizy-Villacoublay, commune résidentielle des Yvelines, le tissu local se compose de maisons individuelles et de petits immeubles collectifs caractéristiques de l'Île-de-France. Les installations électriques de ces habitations nécessitent des mises aux normes régulières et des interventions de maintenance pour garantir la sécurité des familles. Nos électriciens interviennent rapidement dans toute la zone pour l'entretien, les dépannages et les rénovations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VERNEUIL-SUR-SEINE",
+      "tier": "D",
+      "department": "78",
+      "charCount": 451,
+      "text": "À Verneuil-sur-Seine, commune résidentielle des Yvelines, le tissu local se compose de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et systèmes de chauffage de la région demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans le 78480 pour tous vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "VERNOUILLET",
+      "tier": "D",
+      "department": "78",
+      "charCount": 475,
+      "text": "À Vernouillet, commune résidentielle des Yvelines caractérisée par un habitat pavillonnaire et collectif, les bâtiments anciens et modernes coexistent dans un tissu urbain dense. Les installations électriques de ces propriétés nécessitent des mises aux normes régulières et des interventions d'entretien pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "VERT",
+      "tier": "D",
+      "department": "78",
+      "charCount": 490,
+      "text": "À Vert, commune résidentielle des Yvelines, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la zone nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement sur Vert et ses alentours pour assurer vos installations, dépannages et travaux de rénovation électrique.",
+      "success": true
+    },
+    {
+      "commune": "VICQ",
+      "tier": "D",
+      "department": "78",
+      "charCount": 477,
+      "text": "À Vicq, petite commune résidentielle des Yvelines au tissu local préservé, les habitations individuelles et les bâtiments anciens constituent le cœur du patrimoine bâti. Les installations électriques de ces propriétés, souvent datées, nécessitent des interventions de maintenance régulière et des mises aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la zone pour assurer l'entretien, les dépannages et les rénovations électriques de vos logements.",
+      "success": true
+    },
+    {
+      "commune": "VIEILLE-ÉGLISE-EN-YVELINES",
+      "tier": "D",
+      "department": "78",
+      "charCount": 500,
+      "text": "À Vieille-Église-en-Yvelines, cette commune résidentielle des Yvelines accueille un habitat varié composé de maisons individuelles et de petits collectifs caractéristiques du tissu local. Les installations électriques de ces bâtiments anciens et contemporains nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer maintenance, dépannage et mise aux normes de vos installations.",
+      "success": true
+    },
+    {
+      "commune": "VILLENNES-SUR-SEINE",
+      "tier": "D",
+      "department": "78",
+      "charCount": 444,
+      "text": "À Villennes-sur-Seine, commune résidentielle des Yvelines, le tissu local est composé de maisons individuelles et de petits immeubles aux installations électriques souvent anciennes. Les réseaux électriques de ces bâtiments nécessitent des mises aux normes régulières et des interventions d'entretien spécialisées. Nos électriciens interviennent rapidement dans la zone pour assurer la sécurité et la fiabilité de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VILLEPREUX",
+      "tier": "D",
+      "department": "78",
+      "charCount": 483,
+      "text": "À Villepreux, commune résidentielle des Yvelines, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la région nécessitent une maintenance régulière et des mises aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans tout Villepreux pour assurer vos dépannages, installations et contrôles de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "VILLETTE",
+      "tier": "D",
+      "department": "78",
+      "charCount": 517,
+      "text": "À Villette, petite commune résidentielle des Yvelines, le tissu local se compose principalement de maisons individuelles et de petits collectifs caractéristiques de l'habitat périurbain. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la rénovation et le dépannage de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VILLIERS-LE-MAHIEU",
+      "tier": "D",
+      "department": "78",
+      "charCount": 481,
+      "text": "À Villiers-le-Mahieu, commune résidentielle des Yvelines au tissu local préservé, les habitations individuelles et petits collectifs constituent le paysage architectural dominant. Les installations électriques de ces bâtiments anciens et récents nécessitent des interventions adaptées, de la mise aux normes à l'entretien régulier des réseaux. Nos électriciens interviennent rapidement dans toute la zone pour assurer la sécurité et la performance de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VILLIERS-SAINT-FREDERIC",
+      "tier": "D",
+      "department": "78",
+      "charCount": 455,
+      "text": "À Villiers-Saint-Frédéric, commune résidentielle des Yvelines, le tissu local est composé de maisons individuelles et petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, installations et conformité électrique de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "VIROFLAY",
+      "tier": "D",
+      "department": "78",
+      "charCount": 441,
+      "text": "À Viroflay, commune résidentielle des Yvelines, le tissu local se compose de maisons individuelles et petits immeubles aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans tout Viroflay pour dépannages, rénovations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VOISINS-LE-BRETONNEUX",
+      "tier": "D",
+      "department": "78",
+      "charCount": 490,
+      "text": "À Voisins-le-Bretonneux, commune résidentielle des Yvelines caractérisée par un habitat pavillonnaire et collectif bien établi, les constructions datent de plusieurs décennies. Les installations électriques de ces logements nécessitent des mises aux normes régulières et des interventions d'entretien pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, rénovations et conformité de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "ABBÉVILLE-LA-RIVIÈRE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 469,
+      "text": "À Abbéville-la-Rivière, commune résidentielle de l'Essonne au tissu local dynamique, les habitations individuelles et petits collectifs constituent le paysage architectural dominant. Les installations électriques de ces bâtiments anciens et récents nécessitent des mises aux normes régulières et des interventions de maintenance adaptées. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "ANGERVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 445,
+      "text": "À Angerville, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs nécessitant des installations électriques fiables. Les installations anciennes et les extensions de ces habitations requièrent des mises aux normes et des interventions de maintenance régulière. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, rénovations et conformités électriques.",
+      "success": true
+    },
+    {
+      "commune": "ANGERVILLIERS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 453,
+      "text": "À Angervilliers, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs nécessitant des installations électriques fiables. Les installations domestiques et tertiaires demandent un entretien régulier et des mises aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans la région pour tous vos besoins en dépannage, installation et maintenance électrique.",
+      "success": true
+    },
+    {
+      "commune": "ARPAJON",
+      "tier": "D",
+      "department": "91",
+      "charCount": 502,
+      "text": "À Arpajon, commune résidentielle de l'Essonne caractérisée par un tissu urbain dense et des habitations individuelles, les installations électriques doivent répondre aux normes actuelles. Les maisons et petits immeubles de la région nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement dans Arpajon et ses alentours pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "ARRANCOURT",
+      "tier": "D",
+      "department": "91",
+      "charCount": 478,
+      "text": "À Arrancourt, commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, dépannage et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos besoins en électricité générale, rénovation et installations neuves.",
+      "success": true
+    },
+    {
+      "commune": "ATHIS-MONS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 455,
+      "text": "À Athis-Mons, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et petits immeubles aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des mises aux normes régulières et des interventions de maintenance adaptées aux besoins spécifiques du secteur. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, rénovations et installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "AUTHON-LA-PLAINE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 462,
+      "text": "À Authon-la-Plaine, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et mises aux normes de vos installations.",
+      "success": true
+    },
+    {
+      "commune": "AUVERNAUX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 502,
+      "text": "À Auvernaux, petite commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, dépannage et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos besoins en électricité générale, rénovation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "AUVERS-SAINT-GEORGES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 512,
+      "text": "À Auvers-Saint-Georges, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et collectif, les bâtiments anciens côtoient des constructions plus récentes. Les installations électriques de cette zone nécessitent des mises aux normes régulières et des interventions d'entretien adaptées aux différents types de logements. Nos électriciens interviennent rapidement sur Auvers-Saint-Georges pour assurer la sécurité de vos installations et répondre à tous vos besoins en électricité générale.",
+      "success": true
+    },
+    {
+      "commune": "AVRAINVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 512,
+      "text": "À Avrainville, petite commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos travaux de rénovation, d'installation et de maintenance électrique.",
+      "success": true
+    },
+    {
+      "commune": "BALLAINVILLIERS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 461,
+      "text": "À Ballainvilliers, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et mises aux normes de vos installations.",
+      "success": true
+    },
+    {
+      "commune": "BALLANCOURT-SUR-ESSONNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 441,
+      "text": "À Ballancourt-sur-Essonne, cette commune résidentielle de l'Essonne accueille un habitat varié composé de maisons individuelles et de petits collectifs. Les installations électriques de ces bâtiments anciens et modernes nécessitent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement dans toute la zone pour assurer vos dépannages, rénovations et conformités électriques.",
+      "success": true
+    },
+    {
+      "commune": "BAULNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 469,
+      "text": "À Baulne, petite commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité des normes actuelles. Nos électriciens interviennent rapidement dans toute la zone pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BIEVRES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 499,
+      "text": "À Bièvres, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des maisons individuelles, le tissu local demande une expertise électrique adaptée. Les installations domestiques et les systèmes de chauffage électrique nécessitent un entretien régulier et des mises aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'installation, la maintenance et le dépannage de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "BLANDY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 468,
+      "text": "À Blandy, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'amélioration de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOIGNEVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 469,
+      "text": "À Boigneville, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Boigneville et ses alentours pour tous vos besoins en dépannage, installation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "BOIS-HERPIN",
+      "tier": "D",
+      "department": "91",
+      "charCount": 443,
+      "text": "À Bois-Herpin, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité des normes électriques. Nos électriciens interviennent rapidement dans la région pour tous vos besoins en dépannage, maintenance et rénovation électrique.",
+      "success": true
+    },
+    {
+      "commune": "BOISSY-LA-RIVIÈRE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 518,
+      "text": "À Boissy-la-Rivière, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des maisons individuelles, les installations électriques doivent répondre aux normes actuelles. Les installations anciennes et les extensions résidentielles nécessitent des mises aux normes, des dépannages et des créations de circuits adaptés aux usages modernes. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité, la maintenance et l'évolution de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOISSY-LE-CUTTÉ",
+      "tier": "D",
+      "department": "91",
+      "charCount": 478,
+      "text": "À Boissy-le-Cutté, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'amélioration de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOISSY-LE-SEC",
+      "tier": "D",
+      "department": "91",
+      "charCount": 487,
+      "text": "À Boissy-le-Sec, commune résidentielle de l'Essonne caractérisée par un habitat individuel et collectif, les maisons et petits immeubles constituent le tissu urbain local. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "BOISSY-SOUS-SAINT-YON",
+      "tier": "D",
+      "department": "91",
+      "charCount": 459,
+      "text": "À Boissy-sous-Saint-Yon, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en conformité avec les normes actuelles de sécurité électrique. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, mises aux normes et créations de circuits électriques.",
+      "success": true
+    },
+    {
+      "commune": "BONDOUFLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 512,
+      "text": "À Bondoufle, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et collectif, les bâtiments anciens et modernes coexistent dans un tissu urbain dense. Les installations électriques de ces logements et petits commerces locaux nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans tout Bondoufle pour assurer la sécurité de vos installations et répondre à vos besoins en électricité générale.",
+      "success": true
+    },
+    {
+      "commune": "BOULLAY-LES-TROUX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 507,
+      "text": "À Boullay-les-Troux, petite commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs caractéristiques de la région. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOURAY-SUR-JUINE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 464,
+      "text": "À Bouray-sur-Juine, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, installations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOUSSY-SAINT-ANTOINE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 462,
+      "text": "À Boussy-Saint-Antoine, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits immeubles aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOUTERVILLIERS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 440,
+      "text": "À Boutervilliers, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans la région pour tous vos besoins en dépannage, installation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "BOUTIGNY-SUR-ESSONNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 520,
+      "text": "À Boutigny-sur-Essonne, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des maisons individuelles, les installations électriques doivent répondre aux normes actuelles. Les installations anciennes et les extensions résidentielles nécessitent des mises aux normes, des dépannages réguliers et des travaux de rénovation électrique. Nos électriciens interviennent rapidement dans la commune pour assurer l'entretien, la sécurité et l'amélioration de vos installations électriques domestiques.",
+      "success": true
+    },
+    {
+      "commune": "BOUVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 509,
+      "text": "À Bouville, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et un tissu local dynamique, les maisons individuelles constituent le cœur du patrimoine bâti. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, rénovations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BRETIGNY-SUR-ORGE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 513,
+      "text": "À Brétigny-sur-Orge, commune résidentielle de l'Essonne caractérisée par un habitat varié allant des maisons individuelles aux petits immeubles collectifs, le tissu local demande une expertise électrique adaptée. Les installations domestiques et tertiaires de la région nécessitent des interventions régulières en maintenance, rénovation et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "BREUILLET",
+      "tier": "D",
+      "department": "91",
+      "charCount": 509,
+      "text": "À Breuillet, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des petits collectifs, les maisons individuelles constituent le tissu urbain dominant. Les installations électriques de ces habitations anciennes et modernes nécessitent des mises aux normes régulières, des dépannages d'urgence et des extensions de réseaux adaptés. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "BREUX-JOUY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 465,
+      "text": "À Breux-Jouy, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des mises aux normes régulières et des interventions de maintenance adaptées aux besoins spécifiques de la région. Nos électriciens interviennent rapidement sur Breux-Jouy pour tous vos travaux d'installation, dépannage et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "BRIÈRES-LES-SCELLÉS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 455,
+      "text": "À Brières-les-Scellés, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage de ces habitations demandent des interventions régulières et une maintenance adaptée. Nos électriciens interviennent rapidement sur l'ensemble de la commune pour vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "BRIIS-SOUS-FORGES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 512,
+      "text": "À Briis-sous-Forges, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des maisons individuelles, le tissu local demande une expertise électrique adaptée. Les installations domestiques et les réseaux de distribution nécessitent des interventions régulières pour garantir la sécurité et la conformité des normes en vigueur. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BROUY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 479,
+      "text": "À Brouy, petite commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "BRUNOY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 492,
+      "text": "À Brunoy, commune résidentielle de l'Essonne située en Île-de-France, le tissu local est composé de maisons individuelles et de petits immeubles collectifs aux installations anciennes. Les équipements électriques de ces habitations et commerces de proximité nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage urgent. Nos électriciens interviennent rapidement dans toute la zone pour assurer vos installations sécurisées et fonctionnelles au quotidien.",
+      "success": true
+    },
+    {
+      "commune": "BRUYERES-LE-CHATEL",
+      "tier": "D",
+      "department": "91",
+      "charCount": 482,
+      "text": "À Bruyères-le-Châtel, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique nécessitent des interventions régulières de maintenance et de conformité aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "BUNO-BONNEVAUX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 520,
+      "text": "À Buno-Bonnevaux, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs caractéristiques de cette région d'Île-de-France. Les installations électriques de ces habitations, souvent anciennes ou rénovées, nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et répondre à vos besoins en électricité générale.",
+      "success": true
+    },
+    {
+      "commune": "BURES-SUR-YVETTE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 457,
+      "text": "À Bures-sur-Yvette, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage de ces habitations requièrent des interventions régulières de maintenance et de mise aux normes. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, installations et contrôles de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "CERNY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 498,
+      "text": "À Cerny, commune résidentielle de l'Essonne caractérisée par un habitat individuel et collectif varié, les maisons et petits immeubles constituent le tissu urbain local. Les installations électriques de ces bâtiments anciens et modernes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement sur Cerny et ses alentours pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "CHALO-SAINT-MARS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 513,
+      "text": "À Chalo-Saint-Mars, commune résidentielle de l'Essonne caractérisée par un tissu urbain dense et varié, les habitations individuelles et petits collectifs constituent le paysage architectural local. Les installations électriques de ces bâtiments anciens et récents nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos travaux d'installation, de rénovation et de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "CHALOU-MOULINEUX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 466,
+      "text": "À Chalou-Moulineux, petite commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "CHAMARANDE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 491,
+      "text": "À Chamarande, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des maisons individuelles, les installations électriques demandent une expertise adaptée. Les réseaux électriques de ces habitations anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "CHAMPCUEIL",
+      "tier": "D",
+      "department": "91",
+      "success": false,
+      "error": "Too short: 406 chars (min 440)"
+    },
+    {
+      "commune": "CHAMPLAN",
+      "tier": "D",
+      "department": "91",
+      "charCount": 492,
+      "text": "À Champlan, commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières en maintenance, rénovation et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la zone pour assurer dépannages, installations neuves et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "CHAMPMOTTEUX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 450,
+      "text": "À Champmotteux, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et systèmes de chauffage de ces habitations demandent des interventions régulières et une maintenance adaptée. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "CHATIGNONVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 453,
+      "text": "À Chatignonville, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements électriques de ces habitations anciennes et récentes demandent des mises aux normes régulières et des interventions d'entretien spécialisées. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, installations et contrôles de conformité.",
+      "success": true
+    },
+    {
+      "commune": "CHAUFFOUR-LÈS-ÉTRÉCHY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 469,
+      "text": "À Chauffour-lès-Étréchy, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières en maintenance, dépannage et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans la zone pour assurer vos dépannages, installations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "CHEPTAINVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 468,
+      "text": "À Cheptainville, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des mises aux normes régulières, des dépannages rapides et des travaux de rénovation adaptés. Nos électriciens interviennent rapidement sur Cheptainville pour assurer la sécurité de vos installations et la continuité de vos services électriques.",
+      "success": true
+    },
+    {
+      "commune": "CHEVANNES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 450,
+      "text": "À Chevannes, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance adaptées à chaque type de bâtiment. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "CHILLY-MAZARIN",
+      "tier": "D",
+      "department": "91",
+      "charCount": 453,
+      "text": "À Chilly-Mazarin, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et systèmes de chauffage de la région demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans tout Chilly-Mazarin pour vos dépannages, mises aux normes et installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "CONGERVILLE-THIONVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 480,
+      "text": "À Congerville-Thionville, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et systèmes de chauffage de ces habitations requièrent des interventions régulières de maintenance et de conformité aux normes actuelles. Nos électriciens interviennent rapidement dans votre quartier pour tous vos travaux d'installation, dépannage et mise aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "CORBEIL-ESSONNES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 447,
+      "text": "À Corbeil-Essonnes, commune résidentielle de l'Essonne aux nombreuses maisons individuelles et petits immeubles, le tissu local demande des solutions électriques adaptées. Les installations domestiques et tertiaires nécessitent des mises aux normes régulières et des dépannages rapides pour garantir la sécurité. Nos électriciens interviennent rapidement dans toute la zone pour vos travaux de rénovation, maintenance et installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "CORBREUSE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 461,
+      "text": "À Corbreuse, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs nécessitant des installations électriques fiables. Les installations anciennes et les extensions de ces habitations requièrent des mises aux normes et des dépannages réguliers pour garantir la sécurité. Nos électriciens interviennent rapidement sur Corbreuse et ses alentours pour tous vos travaux d'électricité générale et maintenance.",
+      "success": true
+    },
+    {
+      "commune": "COURANCES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 444,
+      "text": "À Courances, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance adaptées aux besoins des habitants. Nos électriciens interviennent rapidement sur Courances pour vos dépannages, entretiens et travaux de rénovation électrique.",
+      "success": true
+    },
+    {
+      "commune": "COURCOURONNES",
+      "tier": "D",
+      "department": "91",
+      "success": false,
+      "error": "Too short: 438 chars (min 440)"
+    },
+    {
+      "commune": "COURDIMANCHE-SUR-ESSONNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 447,
+      "text": "À Courdimanche-sur-Essonne, commune résidentielle de l'Essonne, les maisons individuelles et petits collectifs constituent le tissu urbain local. Les installations électriques de ces habitations anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance spécialisées. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et conformité électrique de vos logements.",
+      "success": true
+    },
+    {
+      "commune": "COURSON-MONTELOUP",
+      "tier": "D",
+      "department": "91",
+      "charCount": 443,
+      "text": "À Courson-Monteloup, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique nécessitent des interventions régulières de maintenance et de mise aux normes. Nos électriciens interviennent rapidement sur tout le secteur pour vos dépannages, installations et contrôles de conformité.",
+      "success": true
+    },
+    {
+      "commune": "CROSNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 511,
+      "text": "À Crosne, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et collectif bien établi, les habitations anciennes et modernes constituent le tissu urbain local. Les installations électriques de ces logements, souvent datées ou nécessitant des mises aux normes, demandent des interventions régulières et des travaux de sécurisation. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la conformité de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "D'HUISON-LONGUEVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 510,
+      "text": "À D'HUISON-LONGUEVILLE, commune résidentielle de l'Essonne au tissu local dynamique, les habitations individuelles et petits collectifs constituent le paysage architectural dominant. Les installations électriques de ces bâtiments anciens et récents nécessitent des mises aux normes régulières, des dépannages rapides et des travaux de rénovation adaptés. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la sécurité et la modernisation de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "DANNEMOIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 445,
+      "text": "À Dannemois, petite commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations anciennes. Les équipements électriques de ces habitations requièrent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement dans la région pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "DOURDAN",
+      "tier": "D",
+      "department": "91",
+      "charCount": 513,
+      "text": "À Dourdan, commune résidentielle de l'Essonne caractérisée par un habitat varié allant des maisons anciennes aux constructions modernes, les électriciens interviennent régulièrement. Les installations électriques de ces habitations et petits commerces locaux nécessitent des mises aux normes, des dépannages et des extensions pour répondre aux besoins contemporains. Nos électriciens interviennent rapidement dans tout Dourdan pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "DRAVEIL",
+      "tier": "D",
+      "department": "91",
+      "charCount": 503,
+      "text": "À Draveil, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et collectif bien établi, les bâtiments anciens et modernes coexistent harmonieusement. Les installations électriques de ces propriétés nécessitent des mises aux normes régulières, des dépannages d'urgence et des travaux de rénovation adaptés aux standards actuels. Nos électriciens interviennent rapidement dans tout Draveil pour assurer l'entretien, la sécurité et l'optimisation de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "ÉCHARCON",
+      "tier": "D",
+      "department": "91",
+      "charCount": 508,
+      "text": "À Écharcon, commune résidentielle de l'Essonne caractérisée par un habitat individuel et collectif varié, les maisons et petits immeubles constituent le tissu urbain local. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement sur Écharcon et ses alentours pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "EGLY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 456,
+      "text": "À Egly, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent un entretien régulier et des mises aux normes pour garantir la sécurité des habitants et des entreprises locales. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "EPINAY-SOUS-SENART",
+      "tier": "D",
+      "department": "91",
+      "charCount": 461,
+      "text": "À Épinay-sous-Senart, commune résidentielle de l'Essonne au tissu urbain dense, les habitations individuelles et petits collectifs constituent le patrimoine bâti local. Les installations électriques de ces logements, souvent anciennes ou en rénovation, nécessitent des interventions de mise aux normes et d'entretien régulier. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, installations et conformités électriques.",
+      "success": true
+    },
+    {
+      "commune": "EPINAY-SUR-ORGE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 452,
+      "text": "À Épinay-sur-Orge, commune résidentielle de l'Essonne, le tissu urbain se compose de maisons individuelles et petits immeubles aux installations électriques variées. Les équipements domestiques et chauffages électriques de ces habitations requièrent des interventions régulières de maintenance et de mise aux normes. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, installations et contrôles de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "ESTOUCHES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 460,
+      "text": "À Estouches, commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, mises aux normes et travaux d'installation électrique.",
+      "success": true
+    },
+    {
+      "commune": "ETAMPES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 468,
+      "text": "À Etampes, commune résidentielle de l'Essonne au tissu local dynamique, les habitations individuelles et petits collectifs constituent le cœur du patrimoine bâti. Les installations électriques de ces logements anciens et modernes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans tout Etampes pour assurer dépannages, rénovations et mises aux normes de vos installations.",
+      "success": true
+    },
+    {
+      "commune": "ETIOLLES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 440,
+      "text": "À Etiolles, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance adaptées aux besoins des familles. Nos électriciens interviennent rapidement sur Etiolles pour vos dépannages, entretiens et travaux de rénovation électrique.",
+      "success": true
+    },
+    {
+      "commune": "ETRECHY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 519,
+      "text": "À Etrechy, commune résidentielle de l'Essonne caractérisée par un tissu urbain dense et varié, les habitations individuelles et petits collectifs constituent le paysage architectural local. Les installations électriques de ces bâtiments anciens et récents nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement sur Etrechy et ses alentours pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "FLEURY-MEROGIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 443,
+      "text": "À Fleury-Mérogis, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et petits collectifs nécessitant des installations électriques fiables. Les installations domestiques et tertiaires de la zone requièrent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement sur Fleury-Mérogis pour vos dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "FONTAINE-LA-RIVIÈRE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 448,
+      "text": "À Fontaine-la-Rivière, cette commune résidentielle de l'Essonne se caractérise par un habitat varié mêlant maisons individuelles et petits collectifs. Les installations électriques de ces bâtiments anciens et modernes nécessitent des mises aux normes régulières et des interventions de maintenance spécialisées. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et conformité électrique de vos logements.",
+      "success": true
+    },
+    {
+      "commune": "FONTENAY-LE-VICOMTE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 454,
+      "text": "À Fontenay-le-Vicomte, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer dépannages, rénovations et mises aux normes de vos installations.",
+      "success": true
+    },
+    {
+      "commune": "FONTENAY-LÈS-BRIIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 464,
+      "text": "À Fontenay-lès-Briis, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour l'entretien, la rénovation et le dépannage de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "FORGES-LES-BAINS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 490,
+      "text": "À Forges-les-Bains, commune résidentielle de l'Essonne aux maisons individuelles et petits collectifs, le patrimoine bâti demande une expertise électrique adaptée. Les installations anciennes et modernes de ce tissu local nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'amélioration de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "GIF-SUR-YVETTE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 454,
+      "text": "À Gif-sur-Yvette, commune résidentielle de l'Essonne au tissu urbain dense, les maisons individuelles et petits immeubles constituent le paysage architectural local. Les installations électriques de ces habitations anciennes et récentes nécessitent des mises aux normes régulières et des interventions de maintenance spécialisées. Nos électriciens interviennent rapidement dans toute la zone pour assurer dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "GIRONVILLE-SUR-ESSONNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 440,
+      "text": "À Gironville-sur-Essonne, cette commune résidentielle de l'Essonne se caractérise par un habitat varié mêlant maisons individuelles et petits collectifs. Les installations électriques de ces bâtiments anciens et récents nécessitent des mises aux normes régulières et des interventions de maintenance adaptées. Nos électriciens interviennent rapidement sur l'ensemble de la zone pour vos dépannages, rénovations et installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "GOMETZ-LA-VILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 516,
+      "text": "À Gometz-la-Ville, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et un tissu local dynamique, les maisons individuelles constituent le cœur du patrimoine bâti. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la rénovation et le dépannage de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "GOMETZ-LE-CHATEL",
+      "tier": "D",
+      "department": "91",
+      "charCount": 442,
+      "text": "À Gometz-le-Châtel, commune résidentielle de l'Essonne, les maisons individuelles et petits collectifs constituent le tissu urbain local. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières de maintenance, dépannage et mise aux normes. Nos électriciens interviennent rapidement dans la région pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "GRIGNY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 460,
+      "text": "À Grigny, commune résidentielle de l'Essonne caractérisée par un habitat collectif et pavillonnaire, les installations électriques doivent répondre aux normes actuelles. Les logements anciens et récents de la zone nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage électrique. Nos électriciens interviennent rapidement sur Grigny pour assurer la sécurité de vos installations et résoudre tous vos problèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "GUIBEVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 459,
+      "text": "À Guibeville, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance adaptées aux besoins des habitants. Nos électriciens interviennent rapidement sur Guibeville pour assurer dépannages, rénovations et conformité de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "GUIGNEVILLE-SUR-ESSONNE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 469,
+      "text": "À Guigneville-sur-Essonne, cette commune résidentielle de l'Essonne accueille des maisons individuelles et des petits collectifs caractéristiques du tissu urbain local. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans le 91590 pour tous vos besoins en dépannage, maintenance et rénovation électrique.",
+      "success": true
+    },
+    {
+      "commune": "GUILLERVAL",
+      "tier": "D",
+      "department": "91",
+      "charCount": 481,
+      "text": "À Guillerval, petite commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, dépannage et mise aux normes pour assurer la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la zone pour vos besoins en électricité générale, rénovation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "IGNY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 449,
+      "text": "À Igny, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage de ces habitations requièrent des interventions régulières de maintenance et de mise aux normes. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, installations et contrôles de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "ITTEVILLE",
+      "tier": "D",
+      "department": "91",
+      "success": false,
+      "error": "Too short: 439 chars (min 440)"
+    },
+    {
+      "commune": "JANVILLE-SUR-JUINE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 507,
+      "text": "À Janville-sur-Juine, petite commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans la commune et ses alentours pour assurer l'entretien, les dépannages et les travaux d'électricité générale de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "JANVRY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 503,
+      "text": "À Janvry, petite commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques souvent anciennes. Les installations domestiques et tertiaires de la région nécessitent des mises aux normes régulières et des interventions de maintenance pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement à Janvry et ses alentours pour tous vos travaux d'installation, de dépannage et de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "JUVISY-SUR-ORGE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 463,
+      "text": "À Juvisy-sur-Orge, commune résidentielle de l'Essonne, le tissu urbain se compose de maisons individuelles et d'immeubles collectifs aux installations variées. Les équipements électriques de ces habitations anciennes et modernes nécessitent des interventions régulières de maintenance, dépannage et mise aux normes. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et répondre à vos besoins quotidiens.",
+      "success": true
+    },
+    {
+      "commune": "LA FERTE-ALAIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 520,
+      "text": "À La Ferté-Alais, commune résidentielle de l'Essonne caractérisée par un habitat varié allant des maisons individuelles aux petits collectifs, le tissu local demande une expertise électrique adaptée. Les installations de ces habitations, souvent anciennes ou de construction récente, nécessitent des interventions de maintenance, de mise aux normes et de dépannage régulier. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos travaux d'installation, de rénovation et de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LA FORÊT-LE-ROI",
+      "tier": "D",
+      "department": "91",
+      "charCount": 445,
+      "text": "À La Forêt-le-Roi, commune résidentielle de l'Essonne aux maisons individuelles et petits collectifs, le tissu local demande une expertise électrique adaptée. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour dépannages, rénovations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "LA FORÊT-SAINTE-CROIX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 447,
+      "text": "À La Forêt-Sainte-Croix, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et petits collectifs aux installations anciennes. Les réseaux électriques de ces habitations requièrent des mises aux normes régulières et des interventions de maintenance pour garantir la sécurité. Nos électriciens interviennent rapidement dans votre quartier pour tous vos travaux d'installation, réparation et dépannage électrique.",
+      "success": true
+    },
+    {
+      "commune": "LA NORVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 515,
+      "text": "À La Norville, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des petits collectifs, les maisons individuelles constituent le tissu urbain dominant. Les installations électriques de ces habitations anciennes et récentes nécessitent des mises aux normes régulières, des dépannages d'urgence et des extensions de réseaux adaptés. Nos électriciens interviennent rapidement sur tout La Norville pour assurer la sécurité de vos installations et la continuité de vos services électriques.",
+      "success": true
+    },
+    {
+      "commune": "LA VILLE-DU-BOIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 440,
+      "text": "À La Ville-du-Bois, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et systèmes de chauffage demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "LARDY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 475,
+      "text": "À Lardy, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la zone pour réaliser vos travaux d'installation, de rénovation et de maintenance électrique.",
+      "success": true
+    },
+    {
+      "commune": "LE COUDRAY-MONTCEAUX",
+      "tier": "D",
+      "department": "91",
+      "success": false,
+      "error": "Too short: 426 chars (min 440)"
+    },
+    {
+      "commune": "LE PLESSIS-PATE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 496,
+      "text": "À Le Plessis-Pâté, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et collectif, les constructions locales demandent des installations électriques adaptées et fiables. Les installations anciennes et modernes de ce tissu urbain nécessitent des interventions régulières, de la maintenance préventive et des mises aux normes électriques. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, installations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LE VAL-SAINT-GERMAIN",
+      "tier": "D",
+      "department": "91",
+      "charCount": 465,
+      "text": "À Le Val-Saint-Germain, commune résidentielle de l'Essonne au tissu local dynamique, les habitations individuelles et petits collectifs constituent le cœur du patrimoine bâti. Les installations électriques de ces maisons anciennes et modernes nécessitent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LES GRANGES-LE-ROI",
+      "tier": "D",
+      "department": "91",
+      "charCount": 510,
+      "text": "À Les Granges-le-Roi, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des maisons individuelles, les installations électriques doivent répondre aux normes actuelles. Les installations domestiques et les systèmes de distribution nécessitent un entretien régulier et des mises à jour pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'installation, la maintenance et le dépannage de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "LES MOLIÈRES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 491,
+      "text": "À Les Molières, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits immeubles caractéristiques de la région parisienne. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour l'entretien, la rénovation et le dépannage de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "LES ULIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 441,
+      "text": "À Les Ulis, commune résidentielle de l'Essonne caractérisée par un habitat collectif et pavillonnaire, les bâtiments demandent une expertise électrique adaptée. Les installations domestiques et tertiaires nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la zone pour vos dépannages, mises aux normes et créations de circuits électriques.",
+      "success": true
+    },
+    {
+      "commune": "LEUDEVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 517,
+      "text": "À Leudeville, commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs caractéristiques de la région. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "LEUVILLE-SUR-ORGE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 500,
+      "text": "À Leuville-sur-Orge, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des petits collectifs, le tissu local demande des solutions électriques adaptées. Les installations domestiques et tertiaires nécessitent des interventions régulières en maintenance, dépannage et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la zone pour assurer vos travaux d'électricité générale, rénovation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LIMOURS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 504,
+      "text": "À Limours, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des petits collectifs, les maisons individuelles constituent le tissu urbain dominant. Les installations électriques de ces habitations anciennes et modernes nécessitent des mises aux normes régulières, des dépannages d'urgence et des extensions de réseaux adaptés. Nos électriciens interviennent rapidement dans toute la zone pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "LINAS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 511,
+      "text": "À Linas, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et des petits collectifs, les maisons individuelles constituent le tissu urbain dominant. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement sur Linas et ses alentours pour assurer l'entretien, la rénovation et le dépannage de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "LISSES",
+      "tier": "D",
+      "department": "91",
+      "charCount": 465,
+      "text": "À Lisses, commune résidentielle de l'Essonne, le tissu local se compose principalement de maisons individuelles et de petits immeubles d'habitation. Les installations électriques de ces logements anciens et récents nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage urgent. Nos électriciens interviennent rapidement dans toute la zone pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "LONGJUMEAU",
+      "tier": "D",
+      "department": "91",
+      "charCount": 442,
+      "text": "À Longjumeau, commune résidentielle de l'Essonne, le tissu urbain se compose principalement de maisons individuelles et de petits immeubles collectifs. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières de maintenance et de mise aux normes. Nos électriciens interviennent rapidement dans toute la zone pour assurer vos dépannages, installations et contrôles de sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LONGPONT-SUR-ORGE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 459,
+      "text": "À Longpont-sur-Orge, commune résidentielle de l'Essonne, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique demandent des interventions régulières et une maintenance adaptée aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "MAISSE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 510,
+      "text": "À Maisse, commune résidentielle de l'Essonne caractérisée par un habitat pavillonnaire et un tissu local dynamique, les maisons individuelles constituent le cœur du patrimoine bâti. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage urgent. Nos électriciens interviennent rapidement sur l'ensemble de la commune pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "MARCOUSSIS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 479,
+      "text": "À Marcoussis, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et chauffages électriques de ces habitations requièrent des interventions régulières de maintenance et de conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la zone pour assurer dépannages, rénovations et mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "MAROLLES-EN-BEAUCE",
+      "tier": "D",
+      "department": "91",
+      "success": false,
+      "error": "Too short: 420 chars (min 440)"
+    },
+    {
+      "commune": "MAROLLES-EN-HUREPOIX",
+      "tier": "D",
+      "department": "91",
+      "charCount": 440,
+      "text": "À Marolles-en-Hurepoix, cette commune résidentielle de l'Essonne se caractérise par un habitat varié alliant maisons individuelles et petits collectifs. Les installations électriques de ces bâtiments anciens et récents nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage. Nos électriciens interviennent rapidement dans votre quartier pour tous vos besoins en électricité générale et sécurité électrique.",
+      "success": true
+    },
+    {
+      "commune": "MASSY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 445,
+      "text": "À Massy, commune résidentielle de l'Essonne, le tissu urbain combine pavillons individuels et petits immeubles collectifs nécessitant des installations électriques adaptées. Les installations anciennes et les demandes croissantes en électricité domestique requièrent des interventions régulières de maintenance et de mise aux normes. Nos électriciens interviennent rapidement dans Massy pour vos dépannages, rénovations et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "MAUCHAMPS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 503,
+      "text": "À Mauchamps, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques souvent anciennes. Les installations domestiques et tertiaires nécessitent des mises aux normes régulières, des dépannages d'urgence et des extensions pour répondre aux besoins énergétiques actuels. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "MENNECY",
+      "tier": "D",
+      "department": "91",
+      "charCount": 450,
+      "text": "À Mennecy, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et petits collectifs aux installations électriques variées. Les équipements domestiques et chauffages électriques de ces habitations requièrent des interventions régulières de maintenance et de conformité aux normes actuelles. Nos électriciens interviennent rapidement dans tout Mennecy pour vos dépannages, rénovations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "MEREVILLE",
+      "tier": "D",
+      "department": "91",
+      "charCount": 474,
+      "text": "À Méreville, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les équipements domestiques et les systèmes de chauffage électrique demandent une maintenance régulière et des interventions adaptées aux normes actuelles. Nos électriciens interviennent rapidement dans la région pour assurer l'entretien, les dépannages et les mises aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "MÉROBERT",
+      "tier": "D",
+      "department": "91",
+      "charCount": 493,
+      "text": "À Mérobert, commune résidentielle de l'Essonne caractérisée par un habitat individuel et collectif, les maisons et petits immeubles constituent le tissu urbain local. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et la continuité de vos services électriques.",
+      "success": true
+    },
+    {
+      "commune": "MESPUITS",
+      "tier": "D",
+      "department": "91",
+      "charCount": 459,
+      "text": "À Mespuits, commune résidentielle de l'Essonne, le tissu local se compose de maisons individuelles et de petits collectifs nécessitant des installations électriques fiables. Les installations domestiques et tertiaires de la zone requièrent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement à Mespuits pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "MILLY-LA-FORET",
+      "tier": "D",
+      "department": "91",
+      "charCount": 464,
+      "text": "À Milly-la-Forêt, commune résidentielle de l'Essonne caractérisée par ses maisons individuelles et son environnement verdoyant, les habitations présentent des configurations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage adapté. Nos électriciens interviennent rapidement dans toute la zone pour assurer votre sécurité électrique et vos besoins en installations.",
+      "success": true
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "mode": "dry_run",
+    "processId": "1",
+    "range": "0-END",
+    "skipExisting": false,
+    "delay": 2400,
+    "processed": 5,
+    "successful": 3,
+    "failed": 2,
+    "totalTokens": 1621,
+    "cost": 0.0026312,
+    "timestamp": "2025-11-12T16:14:09.787Z"
+  },
+  "results": [
+    {
+      "commune": "Paris 1er",
+      "tier": "B",
+      "department": "75",
+      "charCount": 489,
+      "text": "À Paris 1er, entre le Louvre et Châtelet-Les Halles, les bâtiments historiques et les commerces prestigieux de la place Vendôme demandent une expertise électrique particulière. Les installations anciennes et les normes modernes de ces espaces commerciaux et patrimoniaux nécessitent des interventions conformes aux standards de sécurité les plus exigeants. Nos électriciens interviennent rapidement dans le 75001 pour l'entretien, la rénovation et le dépannage de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "Paris 2e",
+      "tier": "B",
+      "department": "75",
+      "success": false,
+      "error": "Too long: 532 chars (max 510)"
+    },
+    {
+      "commune": "Paris 3e",
+      "tier": "B",
+      "department": "75",
+      "charCount": 498,
+      "text": "À Paris 3e, au cœur historique du Marais entre le Temple et la place des Vosges, les bâtiments anciens et les immeubles haussmanniens demandent une expertise électrique adaptée à leur architecture particulière. Les installations électriques de ces constructions patrimoniales nécessitent des mises aux normes régulières et des interventions respectueuses des structures existantes. Nos électriciens interviennent rapidement dans le 75003 pour vos dépannages, rénovations et conformités électriques.",
+      "success": true
+    },
+    {
+      "commune": "Paris 4e",
+      "tier": "B",
+      "department": "75",
+      "charCount": 493,
+      "text": "À Paris 4e, dans le cœur historique de la capitale entre l'île de la Cité et le Marais, les bâtiments anciens côtoient des structures modernes aux façades emblématiques. Les installations électriques de ce quartier patrimoine, souvent datées et complexes, nécessitent des interventions spécialisées pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans le 75004 pour tous vos besoins en dépannage, maintenance et mise aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "Paris 5e",
+      "tier": "B",
+      "department": "75",
+      "success": false,
+      "error": "Too long: 548 chars (max 510)"
+    }
+  ]
+}

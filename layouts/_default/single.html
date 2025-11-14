@@ -157,6 +157,11 @@
 
               {{ .Content }}
             </div>
+
+            {{/* Add detailed pricing section for commune pages */}}
+            {{ if and (ne .Section "services") (not (in .RelPermalink "mentions-legales")) (not (in .RelPermalink "politique-confidentialite")) (not (in .RelPermalink "electricien")) (not (in .RelPermalink "profiles")) .Params.city }}
+              {{ partial "pricing-commune-detailed.html" . }}
+            {{ end }}
           {{ end }}
 
           {{ if ne .Section "services" }}

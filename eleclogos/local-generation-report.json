@@ -1,0 +1,43 @@
+{
+  "timestamp": "2025-11-09T10:45:24.461Z",
+  "by_type": {
+    "hero": 4002,
+    "og": 4002,
+    "featured": 4002,
+    "video": 4002
+  },
+  "by_format": {
+    "jpg": 5336,
+    "webp": 5336,
+    "avif": 5336
+  },
+  "total_files": 16008,
+  "total_size": 51130353,
+  "sample_files": [
+    {
+      "type": "hero",
+      "filename": "electricien-urgence-10e-arrondissement-7510-hero.avif",
+      "size": 76728,
+      "size_kb": "74.9"
+    },
+    {
+      "type": "og",
+      "filename": "electricien-urgence-10e-arrondissement-7510-og.avif",
+      "size": 44798,
+      "size_kb": "43.7"
+    },
+    {
+      "type": "featured",
+      "filename": "electricien-urgence-10e-arrondissement-7510-featured.avif",
+      "size": 31850,
+      "size_kb": "31.1"
+    },
+    {
+      "type": "video",
+      "filename": "electricien-urgence-10e-arrondissement-7510-video.avif",
+      "size": 48910,
+      "size_kb": "47.8"
+    }
+  ],
+  "issues": []
+}

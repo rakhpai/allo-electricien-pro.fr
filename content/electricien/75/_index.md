@@ -55,7 +55,42 @@ Notre service de **dépannage électricité Paris** couvre l'intégralité du d�
 - **Paris Est** : 11e, 12e, 19e, 20e - Bastille, Nation, Belleville, Ménilmontant
 - **Paris Sud** : 5e, 6e, 13e, 14e - Quartier Latin, Saint-Germain, Place d'Italie, Montparnasse
 
-*Cliquez sur votre arrondissement ci-dessous pour accéder aux électriciens de proximité et références locales.*
+### 🏘️ Les 20 Arrondissements de Paris - Intervention Express <30min
+
+**Paris Centre Historique (1er-4e)** :
+- [Électricien Paris 1er](/paris-1er/) - Louvre, Châtelet, Les Halles, Palais-Royal
+- [Dépannage Paris 2e](/paris-2e/) - Bourse, Sentier, Grands Boulevards, Opéra
+- [SOS électricien Paris 3e](/paris-3e/) - Le Marais Nord, Temple, Arts et Métiers
+- [Urgence électrique Paris 4e](/paris-4e/) - Île de la Cité, Notre-Dame, Marais Sud
+
+**Paris Rive Gauche (5e-7e, 13e-15e)** :
+- [Électricien Paris 5e](/paris-5e/) - Quartier Latin, Panthéon, Sorbonne
+- [Dépannage urgent Paris 6e](/paris-6e/) - Saint-Germain-des-Prés, Luxembourg
+- [SOS électricien Paris 7e](/paris-7e/) - Tour Eiffel, Invalides, Musée d'Orsay
+- [Urgence Paris 13e](/paris-13e/) - Place d'Italie, Chinatown, Bibliothèque
+- [Électricien Paris 14e](/paris-14e/) - Montparnasse, Denfert-Rochereau, Alésia
+- [Dépannage Paris 15e](/paris-15e/) - Beaugrenelle, Convention, Grenelle
+
+**Paris Ouest Chic (8e, 16e-17e)** :
+- [Électricien urgence Paris 8e](/paris-8e/) - Champs-Élysées, Madeleine, Saint-Lazare
+- [Dépannage Paris 16e](/paris-16e/) - Trocadéro, Passy, Auteuil, La Muette
+- [SOS électricien Paris 17e](/paris-17e/) - Batignolles, Monceau, Ternes, Wagram
+
+**Paris Nord-Est Populaire (9e-12e, 18e-20e)** :
+- [Urgence électrique Paris 9e](/paris-9e/) - Opéra, Pigalle, Grands Magasins
+- [Électricien Paris 10e](/paris-10e/) - Gare du Nord, Canal Saint-Martin, République
+- [Dépannage Paris 11e](/paris-11e/) - Bastille, Oberkampf, Nation, Voltaire
+- [SOS électricien Paris 12e](/paris-12e/) - Bercy, Gare de Lyon, Nation, Bois de Vincennes
+- [Électricien Paris 18e](/paris-18e/) - Montmartre, Barbès, Clignancourt
+- [Dépannage urgent Paris 19e](/paris-19e/) - Buttes-Chaumont, La Villette, Stalingrad
+- [Urgence Paris 20e](/paris-20e/) - Belleville, Ménilmontant, Père-Lachaise
+
+### 🔧 Nos Services Spécialisés
+
+- [SOS Électricien Urgence 24/7](/sos-electricien/) - Intervention <30min garantie
+- [Dépannage Électricité Paris](/depannage-electricite-paris/) - Panne, court-circuit
+- [Tarifs Électricien Paris](/tarifs/) - Prix transparents, devis gratuit
+- [Annuaire Complet IDF](/annuaire/) - Toutes les communes d'Île-de-France
 
 ### Spécificités Électriques du Patrimoine Parisien
 

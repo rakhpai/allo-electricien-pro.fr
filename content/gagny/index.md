@@ -63,5 +63,24 @@ introText: >-
   à Gagny et ses alentours pour assurer l'installation, la réparation et
   l'entretien de vos systèmes électriques.
 introGeneratedAt: '2025-11-12T18:06:29.509Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GAGNY
+electriciansAvailable: 5
+localLandmark: Stade de France
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Stade de France
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 822+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-Saint-Denis
 ---
 

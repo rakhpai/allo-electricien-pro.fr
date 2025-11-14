@@ -51,13 +51,18 @@ enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
 [permalinks]
   pages = "/:slug/"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true  # Allow raw HTML in markdown
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML", "JSON", "RSS", "Sitemap"]
+  section = ["HTML", "RSS", "Sitemap"]
   page = ["HTML"]
 
 [minify]
@@ -65,6 +70,6 @@ enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
   minifyOutput = true
 
 [sitemap]
-  changefreq = "weekly"
+  changefreq = "monthly"  # More realistic default for most city pages
   filename = "sitemap.xml"
-  priority = 0.6  # Default priority for pages without explicit priority
+  priority = 0.5  # Default priority for regular pages without explicit priority

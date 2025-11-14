@@ -64,5 +64,24 @@ introText: >-
   sécurité.  Nos électriciens interviennent sur l'ensemble du code postal 77165
   avec réactivité, assurant dépannage et maintenance p.
 introGeneratedAt: '2025-11-12T15:38:50.466Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GESVRES-LE-CHAPITRE
+electriciansAvailable: 7
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 913+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

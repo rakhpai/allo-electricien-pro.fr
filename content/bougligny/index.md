@@ -63,5 +63,24 @@ introText: >-
   avec une connaissance approfondie du secteur pour répondre à vos urgences
   électriques et travaux de maintenance.
 introGeneratedAt: '2025-11-12T15:24:38.186Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOUGLIGNY
+electriciansAvailable: 7
+localLandmark: Forêt de Fontainebleau
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1271+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

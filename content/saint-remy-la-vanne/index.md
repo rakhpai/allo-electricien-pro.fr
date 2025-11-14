@@ -64,5 +64,24 @@ introText: >-
   secteur.  Nous couvrons l'ensemble de la commune avec des interventions
   rapides et une disponibilité garantie pour tous vos dépan.
 introGeneratedAt: '2025-11-12T16:01:04.167Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-RÉMY-LA-VANNE
+electriciansAvailable: 7
+localLandmark: Parc
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1237+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

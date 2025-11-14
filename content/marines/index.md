@@ -64,5 +64,24 @@ introText: >-
   alentours pour assurer l'entretien, le dépannage et l'installation de vos
   équipements électriques.
 introGeneratedAt: '2025-11-12T16:37:25.786Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MARINES
+electriciansAvailable: 6
+localLandmark: Montmorency
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Montmorency
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1308+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

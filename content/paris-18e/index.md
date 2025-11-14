@@ -62,6 +62,25 @@ introText: >-
   conformité électrique. Nos électriciens interviennent rapidement dans tout
   Paris 18e pour diagnostics, dépannages et mises aux normes.
 introGeneratedAt: '2025-11-12T15:15:57.403Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 18e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -84,6 +103,23 @@ introGeneratedAt: '2025-11-12T15:15:57.403Z'
 ### Quartiers Couverts Paris 18e
 
 **Secteurs :** Montmartre, Barbès, Clignancourt
+
+### 🏘️ Arrondissements Voisins de Paris 18e
+
+**Service rapide également dans :**
+- [SOS électricien Paris 9e](/paris-9e/) - Pigalle, Place de Clichy
+- [Dépannage Paris 17e](/paris-17e/) - Batignolles, Guy Môquet
+- [Électricien Paris 19e](/paris-19e/) - La Chapelle, Stalingrad
+- [Urgence Saint-Ouen](/saint-ouen/) - Porte de Clignancourt
+- [Électricien Saint-Denis](/saint-denis/) - Porte de la Chapelle
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

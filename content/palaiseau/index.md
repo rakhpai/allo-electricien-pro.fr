@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la zone pour assurer l'entretien, les
   dépannages et les installations conformes à vos besoins.
 introGeneratedAt: '2025-11-12T17:54:53.914Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à PALAISEAU
+electriciansAvailable: 6
+localLandmark: Étampes
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Étampes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 991+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

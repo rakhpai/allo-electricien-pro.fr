@@ -1,5 +1,5 @@
 ---
-title: "⚡ Électricien Paris | Tous Arrondissements | Intervention 24/7 <30min"
+title: ⚡ Électricien Paris | Tous Arrondissements | Intervention 24/7 <30min
 slug: electricien-paris
 city: Paris
 zipCode: '75000'
@@ -8,10 +8,32 @@ phone: 01 44 90 11 31
 phoneRaw: 0144901131
 department: '75'
 draft: false
-description: "Électricien Paris disponible dans les 20 arrondissements. Urgence, dépannage, installation électrique 24h/24. Intervention rapide <30min. Devis gratuit ☎️ 01 44 90 11 31"
+description: >-
+  Électricien Paris disponible dans les 20 arrondissements. Urgence, dépannage,
+  installation électrique 24h/24. Intervention rapide <30min. Devis gratuit ☎️
+  01 44 90 11 31
 sitemap:
   priority: 0.95
   changefreq: daily
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris
+electriciansAvailable: 5
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 825+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 # Électricien Paris - Service Professionnel dans les 20 Arrondissements

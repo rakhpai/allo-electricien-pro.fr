@@ -64,5 +64,24 @@ introText: >-
   l'ensemble du secteur 77310 avec une disponibilité immédiate pour répondre à
   tous vos besoins électriques.
 introGeneratedAt: '2025-11-12T15:23:59.903Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOISSISE-LE-ROI
+electriciansAvailable: 7
+localLandmark: Meaux
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Meaux
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1079+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

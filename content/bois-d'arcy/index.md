@@ -63,5 +63,24 @@ introText: >-
   urgents, de rénovations électriques, d'installations domotiques ou de mises
   aux normes, en garantissant un service de proximité rapide et fiable à
   seulement quelques kilomètres de Versailles et Saint-Germain-en-Laye.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOIS-D'ARCY
+electriciansAvailable: 7
+localLandmark: Vallée de Chevreuse
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vallée de Chevreuse
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1489+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

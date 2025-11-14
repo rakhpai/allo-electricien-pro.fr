@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la zone pour assurer dépannages,
   installations et conformité électrique de vos logements.
 introGeneratedAt: '2025-11-12T16:45:17.759Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à DANNEMARIE
+electriciansAvailable: 7
+localLandmark: Montfort-l'Amaury
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Montfort-l'Amaury
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1108+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

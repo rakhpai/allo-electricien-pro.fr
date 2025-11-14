@@ -63,5 +63,24 @@ introText: >-
   et mise aux normes. Nos électriciens interviennent rapidement dans Saint-Ouen
   pour assurer vos dépannages d'urgence, rénovations et conformité électrique.
 introGeneratedAt: '2025-11-12T18:08:23.772Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-OUEN
+electriciansAvailable: 5
+localLandmark: Parc de la Villette
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc de la Villette
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1021+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-Saint-Denis
 ---
 

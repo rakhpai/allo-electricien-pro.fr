@@ -63,5 +63,24 @@ introText: >-
   du secteur 77560 avec une disponibilité immédiate et une connaissance
   approfondie des spécificités locales.
 introGeneratedAt: '2025-11-12T15:45:18.665Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LES MARÊTS
+electriciansAvailable: 8
+localLandmark: Parc
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1228+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

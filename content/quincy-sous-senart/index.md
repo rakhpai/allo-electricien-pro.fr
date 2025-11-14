@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement sur Quincy-sous-Senart et ses alentours
   pour assurer l'entretien, la sécurité et l'év
 introGeneratedAt: '2025-11-12T17:55:59.910Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à QUINCY-SOUS-SENART
+electriciansAvailable: 8
+localLandmark: Sainte-Geneviève-des-Bois
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Sainte-Geneviève-des-Bois
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1498+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

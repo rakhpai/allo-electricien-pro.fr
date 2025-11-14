@@ -62,5 +62,24 @@ introText: >-
   de mise aux normes. Nos électriciens interviennent rapidement dans toute la
   zone pour vos dépannages, installations et contrôles de conformité.
 introGeneratedAt: '2025-11-12T17:38:58.895Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOISSY-LE-CUTTÉ
+electriciansAvailable: 5
+localLandmark: Arpajon
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Arpajon
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 872+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

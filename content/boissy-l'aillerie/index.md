@@ -64,5 +64,24 @@ introText: >-
   urgents, de rénovations électriques ou d'installations domotiques, en
   garantissant une qualité de service adaptée aux besoins spécifiques de ce
   territoire proche de Saint-Germain-en-Laye et Versailles.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOISSY-L'AILLERIE
+electriciansAvailable: 8
+localLandmark: Auvers-sur-Oise
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Auvers-sur-Oise
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1458+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

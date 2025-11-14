@@ -1,0 +1,12 @@
+{
+  "total": 16008,
+  "uploaded": 16007,
+  "skipped": 0,
+  "errors": [
+    {
+      "status": "error",
+      "file": "allo-electricien.pro/og/electricien-urgence-perigny-94520-og.avif",
+      "error": "\"gateway error: Error: Network connection lost.\""
+    }
+  ]
+}

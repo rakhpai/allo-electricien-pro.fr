@@ -64,5 +64,24 @@ introText: >-
   occupants. Nos électriciens interviennent rapidement dans toute la zone pour
   assurer dépannages, installations et conformité électrique de vos logements.
 introGeneratedAt: '2025-11-12T17:30:53.582Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-GERMAIN-EN-LAYE
+electriciansAvailable: 8
+localLandmark: Poissy
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Poissy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1143+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

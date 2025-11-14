@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement dans tout Frouville pour assurer
   dépannages, installations et contrôles de conformité adaptés à vos besoins.
 introGeneratedAt: '2025-11-12T18:19:43.104Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FROUVILLE
+electriciansAvailable: 5
+localLandmark: Sarcelles
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Sarcelles
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1184+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

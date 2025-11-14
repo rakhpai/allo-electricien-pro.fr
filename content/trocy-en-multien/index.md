@@ -64,5 +64,24 @@ introText: >-
   interviennent rapidement sur Trocy-en-Multien et ses alentours pour tous vos
   dépannages et travaux électriques.
 introGeneratedAt: '2025-11-12T16:05:32.837Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à TROCY-EN-MULTIEN
+electriciansAvailable: 5
+localLandmark: Coulommiers
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1442+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

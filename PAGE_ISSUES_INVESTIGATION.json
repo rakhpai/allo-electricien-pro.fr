@@ -1,0 +1,1363 @@
+{
+  "departmentMismatches": [
+    {
+      "slug": "ablon-sur-seine",
+      "city": "ABLON-SUR-SEINE",
+      "zipCode": "94480",
+      "currentDept": "75",
+      "correctDept": "94",
+      "path": "content/ablon-sur-seine/index.md"
+    },
+    {
+      "slug": "acheres",
+      "city": "ACHERES",
+      "zipCode": "78260",
+      "currentDept": "92",
+      "correctDept": "78",
+      "path": "content/acheres/index.md"
+    },
+    {
+      "slug": "alfortville",
+      "city": "ALFORTVILLE",
+      "zipCode": "94140",
+      "currentDept": "92",
+      "correctDept": "94",
+      "path": "content/alfortville/index.md"
+    },
+    {
+      "slug": "andresy",
+      "city": "ANDRESY",
+      "zipCode": "78570",
+      "currentDept": "77",
+      "correctDept": "78",
+      "path": "content/andresy/index.md"
+    },
+    {
+      "slug": "antony",
+      "city": "ANTONY",
+      "zipCode": "92160",
+      "currentDept": "77",
+      "correctDept": "92",
+      "path": "content/antony/index.md"
+    },
+    {
+      "slug": "argenteuil",
+      "city": "ARGENTEUIL",
+      "zipCode": "95100",
+      "currentDept": "94",
+      "correctDept": "95",
+      "path": "content/argenteuil/index.md"
+    },
+    {
+      "slug": "arnouville",
+      "city": "ARNOUVILLE",
+      "zipCode": "95400",
+      "currentDept": "93",
+      "correctDept": "95",
+      "path": "content/arnouville/index.md"
+    },
+    {
+      "slug": "asnieres-sur-seine",
+      "city": "ASNIERES-SUR-SEINE",
+      "zipCode": "92600",
+      "currentDept": "77",
+      "correctDept": "92",
+      "path": "content/asnieres-sur-seine/index.md"
+    },
+    {
+      "slug": "aubervilliers",
+      "city": "AUBERVILLIERS",
+      "zipCode": "93300",
+      "currentDept": "77",
+      "correctDept": "93",
+      "path": "content/aubervilliers/index.md"
+    },
+    {
+      "slug": "auvers-sur-oise",
+      "city": "AUVERS-SUR-OISE",
+      "zipCode": "95760",
+      "currentDept": "94",
+      "correctDept": "95",
+      "path": "content/auvers-sur-oise/index.md"
+    },
+    {
+      "slug": "bagneux",
+      "city": "BAGNEUX",
+      "zipCode": "92220",
+      "currentDept": "91",
+      "correctDept": "92",
+      "path": "content/bagneux/index.md"
+    },
+    {
+      "slug": "bagnolet",
+      "city": "BAGNOLET",
+      "zipCode": "93170",
+      "currentDept": "95",
+      "correctDept": "93",
+      "path": "content/bagnolet/index.md"
+    },
+    {
+      "slug": "bailly-romainvilliers",
+      "city": "BAILLY-ROMAINVILLIERS",
+      "zipCode": "77700",
+      "currentDept": "78",
+      "correctDept": "77",
+      "path": "content/bailly-romainvilliers/index.md"
+    },
+    {
+      "slug": "ballancourt-sur-essonne",
+      "city": "BALLANCOURT-SUR-ESSONNE",
+      "zipCode": "91610",
+      "currentDept": "92",
+      "correctDept": "91",
+      "path": "content/ballancourt-sur-essonne/index.md"
+    },
+    {
+      "slug": "beauchamp",
+      "city": "BEAUCHAMP",
+      "zipCode": "95250",
+      "currentDept": "75",
+      "correctDept": "95",
+      "path": "content/beauchamp/index.md"
+    },
+    {
+      "slug": "beaumont-sur-oise",
+      "city": "BEAUMONT-SUR-OISE",
+      "zipCode": "95260",
+      "currentDept": "93",
+      "correctDept": "95",
+      "path": "content/beaumont-sur-oise/index.md"
+    },
+    {
+      "slug": "beauvais",
+      "city": "BEAUVAIS",
+      "zipCode": "60155",
+      "currentDept": "91",
+      "correctDept": "60",
+      "path": "content/beauvais/index.md"
+    },
+    {
+      "slug": "bessancourt",
+      "city": "BESSANCOURT",
+      "zipCode": "95550",
+      "currentDept": "92",
+      "correctDept": "95",
+      "path": "content/bessancourt/index.md"
+    },
+    {
+      "slug": "beynes",
+      "city": "BEYNES",
+      "zipCode": "78650",
+      "currentDept": "95",
+      "correctDept": "78",
+      "path": "content/beynes/index.md"
+    },
+    {
+      "slug": "bezons",
+      "city": "BEZONS",
+      "zipCode": "95870",
+      "currentDept": "77",
+      "correctDept": "95",
+      "path": "content/bezons/index.md"
+    },
+    {
+      "slug": "bievres",
+      "city": "BIEVRES",
+      "zipCode": "91570",
+      "currentDept": "78",
+      "correctDept": "91",
+      "path": "content/bievres/index.md"
+    },
+    {
+      "slug": "bois-colombes",
+      "city": "BOIS-COLOMBES",
+      "zipCode": "92270",
+      "currentDept": "77",
+      "correctDept": "92",
+      "path": "content/bois-colombes/index.md"
+    },
+    {
+      "slug": "boissy-saint-leger",
+      "city": "BOISSY-SAINT-LEGER",
+      "zipCode": "94470",
+      "currentDept": "95",
+      "correctDept": "94",
+      "path": "content/boissy-saint-leger/index.md"
+    },
+    {
+      "slug": "bondoufle",
+      "city": "BONDOUFLE",
+      "zipCode": "91070",
+      "currentDept": "94",
+      "correctDept": "91",
+      "path": "content/bondoufle/index.md"
+    },
+    {
+      "slug": "bougival",
+      "city": "BOUGIVAL",
+      "zipCode": "78380",
+      "currentDept": "91",
+      "correctDept": "78",
+      "path": "content/bougival/index.md"
+    },
+    {
+      "slug": "bourg-la-reine",
+      "city": "BOURG-LA-REINE",
+      "zipCode": "92340",
+      "currentDept": "94",
+      "correctDept": "92",
+      "path": "content/bourg-la-reine/index.md"
+    },
+    {
+      "slug": "boussy-saint-antoine",
+      "city": "BOUSSY-SAINT-ANTOINE",
+      "zipCode": "91800",
+      "currentDept": "78",
+      "correctDept": "91",
+      "path": "content/boussy-saint-antoine/index.md"
+    },
+    {
+      "slug": "breteuil",
+      "city": "BRETEUIL",
+      "zipCode": "60120",
+      "currentDept": "78",
+      "correctDept": "60",
+      "path": "content/breteuil/index.md"
+    },
+    {
+      "slug": "brunoy",
+      "city": "BRUNOY",
+      "zipCode": "91800",
+      "currentDept": "78",
+      "correctDept": "91",
+      "path": "content/brunoy/index.md"
+    },
+    {
+      "slug": "bry-sur-marne",
+      "city": "BRY-SUR-MARNE",
+      "zipCode": "94360",
+      "currentDept": "91",
+      "correctDept": "94",
+      "path": "content/bry-sur-marne/index.md"
+    },
+    {
+      "slug": "bures-sur-yvette",
+      "city": "BURES-SUR-YVETTE",
+      "zipCode": "91440",
+      "currentDept": "77",
+      "correctDept": "91",
+      "path": "content/bures-sur-yvette/index.md"
+    },
+    {
+      "slug": "bussy-saint-georges",
+      "city": "BUSSY-SAINT-GEORGES",
+      "zipCode": "77600",
+      "currentDept": "94",
+      "correctDept": "77",
+      "path": "content/bussy-saint-georges/index.md"
+    },
+    {
+      "slug": "cachan",
+      "city": "CACHAN",
+      "zipCode": "94230",
+      "currentDept": "78",
+      "correctDept": "94",
+      "path": "content/cachan/index.md"
+    },
+    {
+      "slug": "carrieres-sous-poissy",
+      "city": "CARRIERES-SOUS-POISSY",
+      "zipCode": "78955",
+      "currentDept": "95",
+      "correctDept": "78",
+      "path": "content/carrieres-sous-poissy/index.md"
+    },
+    {
+      "slug": "carrieres-sur-seine",
+      "city": "CARRIERES-SUR-SEINE",
+      "zipCode": "78420",
+      "currentDept": "92",
+      "correctDept": "78",
+      "path": "content/carrieres-sur-seine/index.md"
+    },
+    {
+      "slug": "cergy",
+      "city": "CERGY",
+      "zipCode": "95000-95800",
+      "currentDept": "93",
+      "correctDept": "95",
+      "path": "content/cergy/index.md"
+    },
+    {
+      "slug": "cesson",
+      "city": "CESSON",
+      "zipCode": "77240",
+      "currentDept": "95",
+      "correctDept": "77",
+      "path": "content/cesson/index.md"
+    },
+    {
+      "slug": "chambly",
+      "city": "CHAMBLY",
+      "zipCode": "60230",
+      "currentDept": "92",
+      "correctDept": "60",
+      "path": "content/chambly/index.md"
+    },
+    {
+      "slug": "chambourcy",
+      "city": "CHAMBOURCY",
+      "zipCode": "78240",
+      "currentDept": "75",
+      "correctDept": "78",
+      "path": "content/chambourcy/index.md"
+    },
+    {
+      "slug": "champagne-sur-oise",
+      "city": "CHAMPAGNE-SUR-OISE",
+      "zipCode": "95660",
+      "currentDept": "91",
+      "correctDept": "95",
+      "path": "content/champagne-sur-oise/index.md"
+    },
+    {
+      "slug": "champigny-sur-marne",
+      "city": "CHAMPIGNY-SUR-MARNE",
+      "zipCode": "94500",
+      "currentDept": "77",
+      "correctDept": "94",
+      "path": "content/champigny-sur-marne/index.md"
+    },
+    {
+      "slug": "champs-sur-marne",
+      "city": "CHAMPS-SUR-MARNE",
+      "zipCode": "77420",
+      "currentDept": "75",
+      "correctDept": "77",
+      "path": "content/champs-sur-marne/index.md"
+    },
+    {
+      "slug": "chanteloup-les-vignes",
+      "city": "CHANTELOUP-LES-VIGNES",
+      "zipCode": "78570",
+      "currentDept": "92",
+      "correctDept": "78",
+      "path": "content/chanteloup-les-vignes/index.md"
+    },
+    {
+      "slug": "chatou",
+      "city": "CHATOU",
+      "zipCode": "78400",
+      "currentDept": "92",
+      "correctDept": "78",
+      "path": "content/chatou/index.md"
+    },
+    {
+      "slug": "chevilly-larue",
+      "city": "CHEVILLY-LARUE",
+      "zipCode": "94550",
+      "currentDept": "92",
+      "correctDept": "94",
+      "path": "content/chevilly-larue/index.md"
+    },
+    {
+      "slug": "clamart",
+      "city": "CLAMART",
+      "zipCode": "92140",
+      "currentDept": "93",
+      "correctDept": "92",
+      "path": "content/clamart/index.md"
+    },
+    {
+      "slug": "clermont",
+      "city": "CLERMONT",
+      "zipCode": "60600",
+      "currentDept": "78",
+      "correctDept": "60",
+      "path": "content/clermont/index.md"
+    },
+    {
+      "slug": "clichy-sous-bois",
+      "city": "CLICHY-SOUS-BOIS",
+      "zipCode": "93390",
+      "currentDept": "95",
+      "correctDept": "93",
+      "path": "content/clichy-sous-bois/index.md"
+    },
+    {
+      "slug": "compiegne",
+      "city": "COMPIEGNE",
+      "zipCode": "60200",
+      "currentDept": "93",
+      "correctDept": "60",
+      "path": "content/compiegne/index.md"
+    },
+    {
+      "slug": "coubron",
+      "city": "COUBRON",
+      "zipCode": "93470",
+      "currentDept": "77",
+      "correctDept": "93",
+      "path": "content/coubron/index.md"
+    },
+    {
+      "slug": "courcouronnes",
+      "city": "COURCOURONNES",
+      "zipCode": "91080",
+      "currentDept": "95",
+      "correctDept": "91",
+      "path": "content/courcouronnes/index.md"
+    },
+    {
+      "slug": "crepy-en-valois",
+      "city": "CREPY-EN-VALOIS",
+      "zipCode": "60800",
+      "currentDept": "93",
+      "correctDept": "60",
+      "path": "content/crepy-en-valois/index.md"
+    },
+    {
+      "slug": "creteil",
+      "city": "CRETEIL",
+      "zipCode": "94000",
+      "currentDept": "75",
+      "correctDept": "94",
+      "path": "content/creteil/index.md"
+    },
+    {
+      "slug": "croissy-sur-seine",
+      "city": "CROISSY-SUR-SEINE",
+      "zipCode": "78290",
+      "currentDept": "77",
+      "correctDept": "78",
+      "path": "content/croissy-sur-seine/index.md"
+    },
+    {
+      "slug": "crosne",
+      "city": "CROSNE",
+      "zipCode": "91560",
+      "currentDept": "93",
+      "correctDept": "91",
+      "path": "content/crosne/index.md"
+    },
+    {
+      "slug": "la-verriere",
+      "city": "LAVERRIERE",
+      "zipCode": "60210",
+      "currentDept": "78",
+      "correctDept": "60",
+      "path": "content/la-verriere/index.md"
+    },
+    {
+      "slug": "margny-les-compiegne",
+      "city": "MARGNY-LES-COMPIEGNE",
+      "zipCode": "60280",
+      "currentDept": "78",
+      "correctDept": "60",
+      "path": "content/margny-les-compiegne/index.md"
+    },
+    {
+      "slug": "meru",
+      "city": "MERU",
+      "zipCode": "60110",
+      "currentDept": "78",
+      "correctDept": "60",
+      "path": "content/meru/index.md"
+    },
+    {
+      "slug": "paris-10e-arrondissement",
+      "city": "10E ARRONDISSEMENT",
+      "zipCode": "7510",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-10e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-11e-arrondissement",
+      "city": "11E ARRONDISSEMENT",
+      "zipCode": "7511",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-11e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-12e-arrondissement",
+      "city": "12E ARRONDISSEMENT",
+      "zipCode": "7512",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-12e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-13e-arrondissement",
+      "city": "13E ARRONDISSEMENT",
+      "zipCode": "7513",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-13e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-14e-arrondissement",
+      "city": "14E ARRONDISSEMENT",
+      "zipCode": "7514",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-14e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-15e-arrondissement",
+      "city": "15E ARRONDISSEMENT",
+      "zipCode": "7515",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-15e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-16e-arrondissement",
+      "city": "16E ARRONDISSEMENT",
+      "zipCode": "7516",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-16e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-17e-arrondissement",
+      "city": "17E ARRONDISSEMENT",
+      "zipCode": "7517",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-17e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-18e-arrondissement",
+      "city": "18E ARRONDISSEMENT",
+      "zipCode": "7518",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-18e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-19e-arrondissement",
+      "city": "19E ARRONDISSEMENT",
+      "zipCode": "7519",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-19e-arrondissement/index.md"
+    },
+    {
+      "slug": "paris-20e-arrondissement",
+      "city": "20E ARRONDISSEMENT",
+      "zipCode": "7520",
+      "currentDept": "75",
+      "correctDept": "07",
+      "path": "content/paris-20e-arrondissement/index.md"
+    },
+    {
+      "slug": "saint-leu-d-esserent",
+      "city": "SAINT-LEU-D'ESSERENT",
+      "zipCode": "60340",
+      "currentDept": "91",
+      "correctDept": "60",
+      "path": "content/saint-leu-d-esserent/index.md"
+    }
+  ],
+  "duplicates": {
+    "boisdarcy": {
+      "zipCode": "78390",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "bois-d'arcy",
+          "city": "BOIS-D'ARCY",
+          "zipCode": "78390",
+          "department": "78",
+          "title": "⚡ Intervention Électricien BOIS-D'ARCY | 24/7"
+        },
+        {
+          "slug": "bois-d-arcy",
+          "city": "BOIS-D'ARCY",
+          "zipCode": "78390",
+          "department": "78",
+          "title": "⚡ Électricien d'Urgence Bois-D'arcy | 24/7 78390"
+        }
+      ]
+    },
+    "boissylaillerie": {
+      "zipCode": "95650",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "boissy-l'aillerie",
+          "city": "BOISSY-L'AILLERIE",
+          "zipCode": "95650",
+          "department": "95",
+          "title": "⚡ Intervention Électricien BOISSY-L'AILLERIE | 24/7"
+        },
+        {
+          "slug": "boissy-l-aillerie",
+          "city": "BOISSY-L'AILLERIE",
+          "zipCode": "95650",
+          "department": "95",
+          "title": "⚡ Intervention Électricien Boissy-l'Aillerie | 24/7"
+        }
+      ]
+    },
+    "crvecurenbrie": {
+      "zipCode": "77610",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "crevec-ur-en-brie",
+          "city": "CRÈVECŒUR-EN-BRIE",
+          "zipCode": "77610",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Crèvecœur-en-Brie | 24/7"
+        },
+        {
+          "slug": "crevecoeur-en-brie",
+          "city": "CRÈVECŒUR-EN-BRIE",
+          "zipCode": "77610",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Crèvecœur-en-Brie | 24/7"
+        }
+      ]
+    },
+    "dhuisonlongueville": {
+      "zipCode": "91590",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "d'huison-longueville",
+          "city": "D'HUISON-LONGUEVILLE",
+          "zipCode": "91590",
+          "department": "91",
+          "title": "⚡ Intervention Électricien D'HUISON-LONGUEVILLE | 24/7"
+        },
+        {
+          "slug": "d-huison-longueville",
+          "city": "D'HUISON-LONGUEVILLE",
+          "zipCode": "91590",
+          "department": "91",
+          "title": "⚡ Intervention Électricien D'Huison-Longueville | 24/7"
+        }
+      ]
+    },
+    "falsnemours": {
+      "zipCode": "77167",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "fa-les-nemours",
+          "city": "FAŸ-LÈS-NEMOURS",
+          "zipCode": "77167",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Faÿ-lès-Nemours | 24/7"
+        },
+        {
+          "slug": "fay-les-nemours",
+          "city": "FAŸ-LÈS-NEMOURS",
+          "zipCode": "77167",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Faÿ-lès-Nemours | 24/7"
+        }
+      ]
+    },
+    "letanglaville": {
+      "zipCode": "78620",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "l'etang-la-ville",
+          "city": "L'ETANG-LA-VILLE",
+          "zipCode": "78620",
+          "department": "78",
+          "title": "⚡ Intervention Électricien L'ETANG-LA-VILLE | 24/7"
+        },
+        {
+          "slug": "l-etang-la-ville",
+          "city": "L'ETANG-LA-VILLE",
+          "zipCode": "78620",
+          "department": "78",
+          "title": "⚡ Électricien 24/7 L'Étang-La-Ville | Dépannage 78"
+        }
+      ]
+    },
+    "lhaylesroses": {
+      "zipCode": "94240",
+      "count": 3,
+      "variants": [
+        {
+          "slug": "l'hay-les-roses",
+          "city": "L'HAY-LES-ROSES",
+          "zipCode": "94240",
+          "department": "94",
+          "title": "⚡ Intervention Électricien L'HAY-LES-ROSES | 24/7"
+        },
+        {
+          "slug": "l-hay-les-roses",
+          "city": "L'HAY-LES-ROSES",
+          "zipCode": "94240",
+          "department": "94",
+          "title": "⚡ Urgence Électricien L'hay-Les-Roses | 24/7 94"
+        },
+        {
+          "slug": "lhay-les-roses",
+          "city": "L'HAY-LES-ROSES",
+          "zipCode": "94240",
+          "department": "94",
+          "title": "⚡ SOS Électricien L'hay-Les-Roses | Express 94240"
+        }
+      ]
+    },
+    "lilesaintdenis": {
+      "zipCode": "93450",
+      "count": 3,
+      "variants": [
+        {
+          "slug": "l'ile-saint-denis",
+          "city": "L'ILE-SAINT-DENIS",
+          "zipCode": "93450",
+          "department": "93",
+          "title": "⚡ Intervention Électricien L'ILE-SAINT-DENIS | 24/7"
+        },
+        {
+          "slug": "l-ile-saint-denis",
+          "city": "L'ILE-SAINT-DENIS",
+          "zipCode": "93450",
+          "department": "93",
+          "title": ">-"
+        },
+        {
+          "slug": "lile-saint-denis",
+          "city": "L'ILE-SAINT-DENIS",
+          "zipCode": "93450",
+          "department": "93",
+          "title": "⚡ Dépannage Électricien L'île-Saint-Denis | 93"
+        }
+      ]
+    },
+    "lisleadam": {
+      "zipCode": "95290",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "l'isle-adam",
+          "city": "L'ISLE-ADAM",
+          "zipCode": "95290",
+          "department": "95",
+          "title": "⚡ Intervention Électricien L'ISLE-ADAM | 24/7"
+        },
+        {
+          "slug": "l-isle-adam",
+          "city": "L'ISLE-ADAM",
+          "zipCode": "95290",
+          "department": "95",
+          "title": "⚡ Électricien Urgence L'isle-Adam | Dépannage 95"
+        }
+      ]
+    },
+    "marollesenbrie": {
+      "zipCode": "77120",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "marolles-en-brie",
+          "city": "MAROLLES-EN-BRIE",
+          "zipCode": "77120",
+          "department": "77",
+          "title": "⚡ Électricien 24/7 Marolles-En-Brie | Dépannage 77"
+        },
+        {
+          "slug": "marolles-en-brie-77",
+          "city": "MAROLLES-EN-BRIE",
+          "zipCode": "77120",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Marolles-en-Brie | 24/7"
+        }
+      ]
+    },
+    "montfortlamaury": {
+      "zipCode": "78490",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "montfort-l'amaury",
+          "city": "MONTFORT-L'AMAURY",
+          "zipCode": "78490",
+          "department": "78",
+          "title": "⚡ Intervention Électricien MONTFORT-L'AMAURY | 24/7"
+        },
+        {
+          "slug": "montfort-l-amaury",
+          "city": "MONTFORT-L'AMAURY",
+          "zipCode": "78490",
+          "department": "78",
+          "title": "⚡ Électricien Urgence MONTFORT-L'AMAURY | Dépannage 78490"
+        }
+      ]
+    },
+    "paris-11": {
+      "zipCode": "75011",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "paris-11",
+          "city": "Paris 11",
+          "zipCode": "75011",
+          "department": "75",
+          "title": ">-"
+        },
+        {
+          "slug": "paris-11e",
+          "city": "Paris 11",
+          "zipCode": "75011",
+          "department": "75",
+          "title": "⚡ SOS Électricien Paris 11e | Dépannage Urgence 24/7 Bastill"
+        }
+      ]
+    },
+    "saintcyrlecole": {
+      "zipCode": "78210",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "saint-cyr-l'ecole",
+          "city": "SAINT-CYR-L'ECOLE",
+          "zipCode": "78210",
+          "department": "78",
+          "title": "⚡ Intervention Électricien SAINT-CYR-L'ECOLE | 24/7"
+        },
+        {
+          "slug": "saint-cyr-l-ecole",
+          "city": "SAINT-CYR-L'ECOLE",
+          "zipCode": "78210",
+          "department": "78",
+          "title": "⚡ Électricien Urgence SAINT-CYR-L'ECOLE | Dépannage 78210"
+        }
+      ]
+    },
+    "saintouenlaumone": {
+      "zipCode": "95310",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "saint-ouen-l'aumone",
+          "city": "SAINT-OUEN-L'AUMONE",
+          "zipCode": "95310",
+          "department": "95",
+          "title": "⚡ Intervention Électricien SAINT-OUEN-L'AUMONE | 24/7"
+        },
+        {
+          "slug": "saint-ouen-l-aumone",
+          "city": "SAINT-OUEN-L'AUMONE",
+          "zipCode": "95310",
+          "department": "95",
+          "title": "⚡ Électricien Urgence Saint-Ouen-L'aumone | 24/7 95"
+        }
+      ]
+    },
+    "verneuilletang": {
+      "zipCode": "77390",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "verneuil-l'etang",
+          "city": "VERNEUIL-L'ETANG",
+          "zipCode": "77390",
+          "department": "77",
+          "title": "⚡ Intervention Électricien VERNEUIL-L'ETANG | 24/7"
+        },
+        {
+          "slug": "verneuil-l-etang",
+          "city": "VERNEUIL-L'ETANG",
+          "zipCode": "77390",
+          "department": "77",
+          "title": "⚡ Électricien Urgence VERNEUIL-L'ETANG | Dépannage 77390"
+        }
+      ]
+    },
+    "villedavray": {
+      "zipCode": "92410",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "ville-d'avray",
+          "city": "VILLE-D'AVRAY",
+          "zipCode": "92410",
+          "department": "92",
+          "title": "⚡ Intervention Électricien VILLE-D'AVRAY | 24/7"
+        },
+        {
+          "slug": "ville-d-avray",
+          "city": "VILLE-D'AVRAY",
+          "zipCode": "92410",
+          "department": "92",
+          "title": "⚡ Intervention Électricien Ville-D'avray | 24/7 92"
+        }
+      ]
+    },
+    "vincymanuvre": {
+      "zipCode": "77139",
+      "count": 2,
+      "variants": [
+        {
+          "slug": "vincy-man-uvre",
+          "city": "VINCY-MANŒUVRE",
+          "zipCode": "77139",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Vincy-Manœuvre | 24/7"
+        },
+        {
+          "slug": "vincy-manoeuvre",
+          "city": "VINCY-MANŒUVRE",
+          "zipCode": "77139",
+          "department": "77",
+          "title": "⚡ Intervention Électricien Vincy-Manœuvre | 24/7"
+        }
+      ]
+    }
+  },
+  "parisVariants": [
+    {
+      "slug": "paris",
+      "city": "PARIS",
+      "zipCode": "75001",
+      "department": "75",
+      "title": "Électricien dépannage Paris - Dans les plus brefs délais TEL"
+    },
+    {
+      "slug": "paris-1",
+      "city": "Paris 1",
+      "zipCode": "75001",
+      "department": "75",
+      "title": "⚡ Électricien Urgence Paris 1 | Dépannage 24/7 75"
+    },
+    {
+      "slug": "paris-10",
+      "city": "Paris 10",
+      "zipCode": "75010",
+      "department": "75",
+      "title": "⚡ Électricien 24/7 Paris 10 | Dépannage Express 75"
+    },
+    {
+      "slug": "paris-10e",
+      "city": "Paris 10e",
+      "zipCode": "75010",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 10e | Dépannage Urgence 24/7 Gare du"
+    },
+    {
+      "slug": "paris-10e-arrondissement",
+      "city": "10E ARRONDISSEMENT",
+      "zipCode": "7510",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 10e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-11",
+      "city": "Paris 11",
+      "zipCode": "75011",
+      "department": "75",
+      "title": ">-"
+    },
+    {
+      "slug": "paris-11e",
+      "city": "Paris 11",
+      "zipCode": "75011",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 11e | Dépannage Urgence 24/7 Bastill"
+    },
+    {
+      "slug": "paris-11e-arrondissement",
+      "city": "11E ARRONDISSEMENT",
+      "zipCode": "7511",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 11e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-12",
+      "city": "Paris 12",
+      "zipCode": "75012",
+      "department": "75",
+      "title": "⚡ Dépannage Électricien Paris 12 | Urgence 75012"
+    },
+    {
+      "slug": "paris-12e",
+      "city": "Paris 12e",
+      "zipCode": "75012",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 12e | Dépannage Urgence 24/7 Bercy"
+    },
+    {
+      "slug": "paris-12e-arrondissement",
+      "city": "12E ARRONDISSEMENT",
+      "zipCode": "7512",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 12e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-13",
+      "city": "Paris 13",
+      "zipCode": "75013",
+      "department": "75",
+      "title": "⚡ Électricien Urgence Paris 13 | Dépannage 24/7 75"
+    },
+    {
+      "slug": "paris-13e",
+      "city": "Paris 13e",
+      "zipCode": "75013",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 13e | Dépannage Urgence 24/7 Bibliot"
+    },
+    {
+      "slug": "paris-13e-arrondissement",
+      "city": "13E ARRONDISSEMENT",
+      "zipCode": "7513",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 13e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-14",
+      "city": "Paris 14",
+      "zipCode": "75014",
+      "department": "75",
+      "title": "⚡ Électricien d'Urgence Paris 14 | Dépannage 75014"
+    },
+    {
+      "slug": "paris-14e",
+      "city": "Paris 14e",
+      "zipCode": "75014",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 14e | Dépannage Urgence 24/7 Montpar"
+    },
+    {
+      "slug": "paris-14e-arrondissement",
+      "city": "14E ARRONDISSEMENT",
+      "zipCode": "7514",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 14e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-15",
+      "city": "Paris 15",
+      "zipCode": "75015",
+      "department": "75",
+      "title": "⚡ Intervention Électricien Paris 15 | 24/7 75015"
+    },
+    {
+      "slug": "paris-15e",
+      "city": "Paris 15e",
+      "zipCode": "75015",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 15e | Dépannage Urgence 24/7 Beaugre"
+    },
+    {
+      "slug": "paris-15e-arrondissement",
+      "city": "15E ARRONDISSEMENT",
+      "zipCode": "7515",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 15e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-16",
+      "city": "Paris 16",
+      "zipCode": "75016",
+      "department": "75",
+      "title": "⚡ Électricien d'Urgence Paris 16 | Intervention 24/7"
+    },
+    {
+      "slug": "paris-16e",
+      "city": "Paris 16e",
+      "zipCode": "75016",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 16e | Dépannage Urgence 24/7 Passy"
+    },
+    {
+      "slug": "paris-16e-arrondissement",
+      "city": "16E ARRONDISSEMENT",
+      "zipCode": "7516",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 16e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-17",
+      "city": "Paris 17",
+      "zipCode": "75017",
+      "department": "75",
+      "title": "SOS Électricien Paris 17 | Dépannage Express ⚡ 75"
+    },
+    {
+      "slug": "paris-17e",
+      "city": "Paris 17e",
+      "zipCode": "75017",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 17e | Dépannage Urgence 24/7 Batigno"
+    },
+    {
+      "slug": "paris-17e-arrondissement",
+      "city": "17E ARRONDISSEMENT",
+      "zipCode": "7517",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 17e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-18",
+      "city": "Paris 18",
+      "zipCode": "75018",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 18 | Dépannage 24/7 75"
+    },
+    {
+      "slug": "paris-18e",
+      "city": "Paris 18e",
+      "zipCode": "75018",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 18e | Dépannage Urgence 24/7 Montmar"
+    },
+    {
+      "slug": "paris-18e-arrondissement",
+      "city": "18E ARRONDISSEMENT",
+      "zipCode": "7518",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 18e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-19",
+      "city": "Paris 19",
+      "zipCode": "75019",
+      "department": "75",
+      "title": "⚡ Électricien 24/7 Paris 19 | Dépannage Urgent 75"
+    },
+    {
+      "slug": "paris-19e",
+      "city": "Paris 19e",
+      "zipCode": "75019",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 19e | Dépannage Urgence 24/7 Buttes-"
+    },
+    {
+      "slug": "paris-19e-arrondissement",
+      "city": "19E ARRONDISSEMENT",
+      "zipCode": "7519",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 19e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-1e-arrondissement",
+      "city": "1ER ARRONDISSEMENT",
+      "zipCode": "75001",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 1er Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-1er",
+      "city": "Paris 1er",
+      "zipCode": "75001",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 1er | Dépannage Urgence 24/7 Louvre"
+    },
+    {
+      "slug": "paris-2",
+      "city": "Paris 2",
+      "zipCode": "75002",
+      "department": "75",
+      "title": "⚡ Dépannage Électricien Paris 2 | Urgence 75002"
+    },
+    {
+      "slug": "paris-20",
+      "city": "Paris 20",
+      "zipCode": "75020",
+      "department": "75",
+      "title": "⚡ Urgence Électricien Paris 20 | Dépannage 24/7"
+    },
+    {
+      "slug": "paris-20e",
+      "city": "Paris 20e",
+      "zipCode": "75020",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 20e | Dépannage Urgence 24/7 Bellevi"
+    },
+    {
+      "slug": "paris-20e-arrondissement",
+      "city": "20E ARRONDISSEMENT",
+      "zipCode": "7520",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 20e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-2e",
+      "city": "Paris 2e",
+      "zipCode": "75002",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 2e | Dépannage Urgence 24/7 Bourse O"
+    },
+    {
+      "slug": "paris-2e-arrondissement",
+      "city": "2E ARRONDISSEMENT",
+      "zipCode": "75002",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 2e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-3",
+      "city": "Paris 3",
+      "zipCode": "75003",
+      "department": "75",
+      "title": "⚡ Intervention Électricien Paris 3 | Urgence 24/7 75"
+    },
+    {
+      "slug": "paris-3e",
+      "city": "Paris 3e",
+      "zipCode": "75003",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 3e | Dépannage Urgence 24/7 Marais"
+    },
+    {
+      "slug": "paris-3e-arrondissement",
+      "city": "3E ARRONDISSEMENT",
+      "zipCode": "75003",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 3e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-4",
+      "city": "Paris 4",
+      "zipCode": "75004",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 4 | Dépannage Rapide 75"
+    },
+    {
+      "slug": "paris-4e",
+      "city": "Paris 4e",
+      "zipCode": "75004",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 4e | Dépannage Urgence 24/7 Hôtel de"
+    },
+    {
+      "slug": "paris-4e-arrondissement",
+      "city": "4E ARRONDISSEMENT",
+      "zipCode": "75004",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 4e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-5",
+      "city": "Paris 5",
+      "zipCode": "75005",
+      "department": "75",
+      "title": "⚡ Électricien d'Urgence Paris 5 | Dépannage 75005"
+    },
+    {
+      "slug": "paris-5e",
+      "city": "Paris 5e",
+      "zipCode": "75005",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 5e | Dépannage Urgence 24/7 Quartier"
+    },
+    {
+      "slug": "paris-5e-arrondissement",
+      "city": "5E ARRONDISSEMENT",
+      "zipCode": "75005",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 5e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-6",
+      "city": "Paris 6",
+      "zipCode": "75006",
+      "department": "75",
+      "title": "⚡ Électricien d'Urgence Paris 6 | Dépannage 75006"
+    },
+    {
+      "slug": "paris-6e",
+      "city": "Paris 6e",
+      "zipCode": "75006",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 6e | Dépannage Urgence 24/7 Saint-Ge"
+    },
+    {
+      "slug": "paris-6e-arrondissement",
+      "city": "6E ARRONDISSEMENT",
+      "zipCode": "75006",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 6e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-7",
+      "city": "Paris 7",
+      "zipCode": "75007",
+      "department": "75",
+      "title": "Électricien dépannage Paris 7 - À un prix accessible TEL: 06"
+    },
+    {
+      "slug": "paris-7e",
+      "city": "Paris 7e",
+      "zipCode": "75007",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 7e | Dépannage Urgence 24/7 Tour Eif"
+    },
+    {
+      "slug": "paris-7e-arrondissement",
+      "city": "7E ARRONDISSEMENT",
+      "zipCode": "75007",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 7e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-8",
+      "city": "Paris 8",
+      "zipCode": "75008",
+      "department": "75",
+      "title": "⚡ Électricien 24/7 Paris 8 | Dépannage Rapide 75"
+    },
+    {
+      "slug": "paris-8e",
+      "city": "Paris 8e",
+      "zipCode": "75008",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 8e | Dépannage Urgence 24/7 Champs-É"
+    },
+    {
+      "slug": "paris-8e-arrondissement",
+      "city": "8E ARRONDISSEMENT",
+      "zipCode": "75008",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 8e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-9",
+      "city": "Paris 9",
+      "zipCode": "75009",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 9 | Dépannage 24/7 75009"
+    },
+    {
+      "slug": "paris-9e",
+      "city": "Paris 9e",
+      "zipCode": "75009",
+      "department": "75",
+      "title": "⚡ SOS Électricien Paris 9e | Dépannage Urgence 24/7 Opéra"
+    },
+    {
+      "slug": "paris-9e-arrondissement",
+      "city": "9E ARRONDISSEMENT",
+      "zipCode": "75009",
+      "department": "75",
+      "title": "⚡ Intervention Électricien 9e Arrondissement | 24/7"
+    },
+    {
+      "slug": "paris-ville",
+      "city": "PARIS",
+      "zipCode": "75001",
+      "department": "75",
+      "title": "⚡ Intervention Électricien Paris | 24/7"
+    }
+  ],
+  "stats": {
+    "totalPages": 1379,
+    "cityPages": 1368,
+    "parisPages": 62,
+    "incorrectDepts": 70,
+    "duplicateGroups": 17
+  }
+}

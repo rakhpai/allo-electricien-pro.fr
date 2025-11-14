@@ -62,6 +62,25 @@ introText: >-
   et conformité aux normes actuelles. Nous couvrons l'ensemble du quartier avec
   une disponibilité immédiate pour tous vos dépannages et travaux électriques.
 introGeneratedAt: '2025-11-12T15:15:07.388Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 10e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -84,6 +103,23 @@ introGeneratedAt: '2025-11-12T15:15:07.388Z'
 ### Quartiers Couverts Paris 10e
 
 **Secteurs :** Gare du Nord, Gare de l'Est, Canal Saint-Martin
+
+### 🏘️ Arrondissements Voisins de Paris 10e
+
+**Service rapide également dans :**
+- [Urgence Paris 2e](/paris-2e/) - Sentier, Bonne Nouvelle
+- [Électricien Paris 3e](/paris-3e/) - République, Temple
+- [Dépannage Paris 9e](/paris-9e/) - Grands Boulevards, Opéra
+- [SOS électricien Paris 11e](/paris-11e/) - République, Belleville
+- [Électricien Paris 19e](/paris-19e/) - Stalingrad, Jaurès
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

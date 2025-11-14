@@ -62,5 +62,24 @@ introText: >-
   la sécurité des familles. Nos électriciens interviennent rapidement dans tout
   Dourdan pour vos dépannages, rénovations et installations électriques.
 introGeneratedAt: '2025-11-12T17:44:22.199Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à DOURDAN
+electriciansAvailable: 8
+localLandmark: Longjumeau
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Longjumeau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1365+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   Trilbardou et ses environs pour assurer l'entretien, les dépannages et les
   travaux de conformité électrique de votre habitation.
 introGeneratedAt: '2025-11-12T16:24:33.757Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à TRILBARDOU
+electriciansAvailable: 7
+localLandmark: Château de Blandy
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Blandy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1402+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

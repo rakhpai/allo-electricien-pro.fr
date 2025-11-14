@@ -64,5 +64,24 @@ introText: >-
   Luzarches et ses alentours pour assurer l'entretien, la réparation et
   l'installation de vos équipements électriques.
 introGeneratedAt: '2025-11-12T16:36:15.077Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LUZARCHES
+electriciansAvailable: 5
+localLandmark: Isle-Adam
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Isle-Adam
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1421+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

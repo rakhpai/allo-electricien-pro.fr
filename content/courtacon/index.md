@@ -63,5 +63,24 @@ introText: >-
   pour assurer l'entretien, la réparation et la mise aux normes de vos
   installations électriques.
 introGeneratedAt: '2025-11-12T16:17:49.482Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à COURTACON
+electriciansAvailable: 7
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 813+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

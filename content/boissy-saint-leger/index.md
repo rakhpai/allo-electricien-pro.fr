@@ -63,5 +63,24 @@ introText: >-
   normes actuelles. Nos électriciens interviennent rapidement dans toute la zone
   pour vos dépannages, rénovations et mises aux normes électriques.
 introGeneratedAt: '2025-11-12T18:09:45.154Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOISSY-SAINT-LEGER
+electriciansAvailable: 6
+localLandmark: Maisons-Alfort
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Maisons-Alfort
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1407+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

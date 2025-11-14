@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la commune pour vos besoins en électricité
   générale, rénovation et maintenance d'installations.
 introGeneratedAt: '2025-11-12T16:24:05.463Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à COURDIMANCHE
+electriciansAvailable: 6
+localLandmark: Argenteuil
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Argenteuil
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1123+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

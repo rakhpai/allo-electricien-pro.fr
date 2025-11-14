@@ -63,5 +63,24 @@ introText: >-
   de rénovation. Nous couvrons l'ensemble de Bussy-Saint-Georges avec une
   disponibilité rapide et une connaissance approfondie du territoire local.
 introGeneratedAt: '2025-11-12T15:25:44.071Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BUSSY-SAINT-GEORGES
+electriciansAvailable: 6
+localLandmark: Melun
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Melun
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1148+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

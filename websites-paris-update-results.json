@@ -1,0 +1,38 @@
+{
+  "updated": 20,
+  "failed": 6,
+  "total": 26,
+  "errors": [
+    {
+      "id": "81169c74-dade-47cc-ad0f-7ab28eebd124",
+      "subdomain": "paris-1",
+      "error": "Failed to update website 81169c74-dade-47cc-ad0f-7ab28eebd124: duplicate key value violates unique constraint \"websites_full_domain_key\""
+    },
+    {
+      "id": "f8343d07-cc36-47be-a7e1-084b7293d843",
+      "subdomain": "paris-11",
+      "error": "Failed to update website f8343d07-cc36-47be-a7e1-084b7293d843: duplicate key value violates unique constraint \"websites_full_domain_key\""
+    },
+    {
+      "id": "5d50d1e1-751a-498d-9627-bba9ae88bf97",
+      "subdomain": "paris-13",
+      "error": "Failed to update website 5d50d1e1-751a-498d-9627-bba9ae88bf97: duplicate key value violates unique constraint \"websites_full_domain_key\""
+    },
+    {
+      "id": "b75a3b12-f993-4225-9f7a-9bcb006d7dc0",
+      "subdomain": "paris-14",
+      "error": "Failed to update website b75a3b12-f993-4225-9f7a-9bcb006d7dc0: duplicate key value violates unique constraint \"websites_full_domain_key\""
+    },
+    {
+      "id": "7ee49b07-13d3-4475-99de-ffaf32945a41",
+      "subdomain": "paris-15",
+      "error": "Failed to update website 7ee49b07-13d3-4475-99de-ffaf32945a41: duplicate key value violates unique constraint \"websites_full_domain_key\""
+    },
+    {
+      "id": "79e16c4c-a4e8-4b63-8041-c395c11b6c02",
+      "subdomain": "paris-6",
+      "error": "Failed to update website 79e16c4c-a4e8-4b63-8041-c395c11b6c02: duplicate key value violates unique constraint \"websites_full_domain_key\""
+    }
+  ],
+  "timestamp": "2025-11-10T21:26:08.890Z"
+}

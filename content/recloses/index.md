@@ -63,5 +63,24 @@ introText: >-
   l'ensemble du secteur 77760 avec des délais d'intervention rapides et une
   connaissance approfondie des spécificités résidentielles de Recloses.
 introGeneratedAt: '2025-11-12T15:57:00.489Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à RECLOSES
+electriciansAvailable: 6
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 806+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

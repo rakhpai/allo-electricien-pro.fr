@@ -64,5 +64,24 @@ introText: >-
   rénovations. Nous intervenons rapidement sur l'ensemble de la commune avec une
   disponibilité optimale pour tous vos dépannages et travaux électriques.
 introGeneratedAt: '2025-11-12T15:22:27.199Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BAILLY-ROMAINVILLIERS
+electriciansAvailable: 6
+localLandmark: Forêt de Fontainebleau
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1308+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

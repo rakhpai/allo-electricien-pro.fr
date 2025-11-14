@@ -64,5 +64,24 @@ introText: >-
   électriciens interviennent rapidement dans toute la zone pour assurer vos
   besoins en électricité générale, chauffage et sécurité électrique.
 introGeneratedAt: '2025-11-12T17:15:36.954Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GUYANCOURT
+electriciansAvailable: 5
+localLandmark: Saint-Germain-en-Laye
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Saint-Germain-en-Laye
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 886+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

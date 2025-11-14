@@ -64,5 +64,24 @@ introText: >-
   pour l'entretien, la réparation et la mise aux normes de vos installations
   électriques.
 introGeneratedAt: '2025-11-12T18:02:45.669Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLENEUVE-SUR-AUVERS
+electriciansAvailable: 6
+localLandmark: Forêt de Sénart
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Sénart
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1092+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

@@ -1,0 +1,26 @@
+{
+  "sites": {
+    "file": "sites.json",
+    "removed": 5,
+    "before": 403,
+    "after": 398
+  },
+  "interlinks": {
+    "file": "interlinks.json",
+    "removed": 0
+  },
+  "otherFiles": [
+    {
+      "file": "electricien_profiles.json",
+      "removed": 0
+    },
+    {
+      "file": "commune_electricians.json",
+      "removed": 4
+    },
+    {
+      "file": "cities-by-department.json",
+      "removed": 0
+    }
+  ]
+}

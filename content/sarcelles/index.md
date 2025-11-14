@@ -64,5 +64,24 @@ introText: >-
   dans toute la zone de Sarcelles pour assurer la sécurité et la fiabilité de
   vos installations électriques.
 introGeneratedAt: '2025-11-12T16:48:48.784Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SARCELLES
+electriciansAvailable: 6
+localLandmark: Enghien-les-Bains
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Enghien-les-Bains
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1006+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

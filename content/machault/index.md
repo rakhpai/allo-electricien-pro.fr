@@ -63,5 +63,24 @@ introText: >-
   une disponibilité rapide pour répondre à tous vos besoins en électricité
   générale et maintenance.
 introGeneratedAt: '2025-11-12T15:47:43.538Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MACHAULT
+electriciansAvailable: 5
+localLandmark: Vaux-le-Vicomte
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vaux-le-Vicomte
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 994+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

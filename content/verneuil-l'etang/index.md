@@ -65,5 +65,24 @@ introText: >-
   rénovations complètes de systèmes électriques, en garantissant une
   intervention rapide et professionnelle adaptée aux spécificités de votre
   habitat.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VERNEUIL-L'ETANG
+electriciansAvailable: 6
+localLandmark: Château de Blandy
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Blandy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1422+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

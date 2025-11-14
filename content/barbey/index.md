@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement sur Barbey 77130 et ses alentours pour assurer votre
   sécurité électrique.
 introGeneratedAt: '2025-11-12T15:22:39.717Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BARBEY
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1437+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

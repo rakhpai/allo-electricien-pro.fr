@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-09T03:10:13.685Z",
+  "mode": "production",
+  "domain_id": "557ccb1c-5fa9-4c34-91fd-b3392fa7b8b0",
+  "stats": {
+    "pages_loaded": 1367,
+    "pages_imported": 1367,
+    "pages_failed": 0,
+    "pages_with_city_id": 1095,
+    "pages_without_city_id": 271,
+    "batches_processed": 14,
+    "errors": []
+  }
+}

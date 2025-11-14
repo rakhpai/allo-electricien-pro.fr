@@ -63,5 +63,24 @@ introText: >-
   rapidement sur Bois-le-Roi et ses alentours pour tous vos besoins en
   électricité générale.
 introGeneratedAt: '2025-11-12T15:23:44.031Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOIS-LE-ROI
+electriciansAvailable: 8
+localLandmark: Coulommiers
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1428+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

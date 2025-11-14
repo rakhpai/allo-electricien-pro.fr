@@ -63,5 +63,24 @@ introText: >-
   équipe intervient rapidement sur Andrezel 77390 et ses alentours pour tous vos
   besoins en électricité générale, dépannage et mise aux normes.
 introGeneratedAt: '2025-11-12T15:21:10.837Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ANDREZEL
+electriciansAvailable: 6
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 849+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

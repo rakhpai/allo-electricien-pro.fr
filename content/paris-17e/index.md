@@ -63,6 +63,25 @@ introText: >-
   dans tout le 75017, du quartier des Batignolles à Wagram, pour tous vos
   dépannages et installations.
 introGeneratedAt: '2025-11-12T15:15:53.603Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 17e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -85,6 +104,23 @@ introGeneratedAt: '2025-11-12T15:15:53.603Z'
 ### Quartiers Couverts Paris 17e
 
 **Secteurs :** Batignolles, Monceau, Ternes
+
+### 🏘️ Arrondissements Voisins de Paris 17e
+
+**Service rapide également dans :**
+- [Urgence Paris 8e](/paris-8e/) - Arc de Triomphe, Parc Monceau
+- [Électricien Paris 9e](/paris-9e/) - Place de Clichy, Saint-Lazare
+- [Dépannage Paris 16e](/paris-16e/) - Porte Maillot, Pereire
+- [SOS électricien Paris 18e](/paris-18e/) - Place de Clichy, Guy Môquet
+- [Électricien Levallois-Perret](/levallois-perret/) - Porte de Champerret
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

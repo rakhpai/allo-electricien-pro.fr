@@ -63,5 +63,24 @@ introText: >-
   électriques ou d'installations domotiques, en garantissant une expertise
   technique adaptée aux spécificités de ce territoire proche de Versailles et
   Saint-Germain-en-Laye.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLE-D'AVRAY
+electriciansAvailable: 7
+localLandmark: Meudon
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Meudon
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1370+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Hauts-de-Seine
 ---
 

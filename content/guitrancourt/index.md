@@ -63,5 +63,24 @@ introText: >-
   Guitrancourt et ses alentours pour assurer l'entretien, les dépannages et les
   travaux d'électricité générale de vos habitations.
 introGeneratedAt: '2025-11-12T16:53:32.185Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GUITRANCOURT
+electriciansAvailable: 8
+localLandmark: Rambouillet
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Rambouillet
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 970+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

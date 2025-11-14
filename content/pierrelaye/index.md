@@ -63,5 +63,24 @@ introText: >-
   actuelles. Nos électriciens interviennent rapidement sur Pierrelaye pour vos
   dépannages, installations et mises aux normes électriques.
 introGeneratedAt: '2025-11-12T18:24:46.188Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à PIERRELAYE
+electriciansAvailable: 5
+localLandmark: Enghien-les-Bains
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Enghien-les-Bains
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 973+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

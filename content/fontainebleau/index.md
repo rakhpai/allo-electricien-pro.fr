@@ -62,5 +62,24 @@ introText: >-
   professionnels qualifiés. Nous couvrons l'ensemble du secteur 77300 avec une
   disponibilité rapide pour tous vos dépannages et installations électriques.
 introGeneratedAt: '2025-11-12T15:37:17.733Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FONTAINEBLEAU
+electriciansAvailable: 6
+localLandmark: Centre-ville
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Centre-ville
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 834+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   adaptée. Nos électriciens interviennent rapidement dans la région pour assurer
   l'entretien, les dépannages et les mises aux normes de vos installations.
 introGeneratedAt: '2025-11-12T17:48:00.304Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LA FERTE-ALAIS
+electriciansAvailable: 8
+localLandmark: Massy
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Massy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1194+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

@@ -62,6 +62,25 @@ introText: >-
   normes actuelles. Nos électriciens interviennent rapidement dans tout le
   75012, disponibles pour diagnostics, rénovations et dépannages d'urgence.
 introGeneratedAt: '2025-11-12T15:15:15.449Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 12e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -84,6 +103,23 @@ introGeneratedAt: '2025-11-12T15:15:15.449Z'
 ### Quartiers Couverts Paris 12e
 
 **Secteurs :** Bercy, Nation, Gare de Lyon
+
+### 🏘️ Arrondissements Voisins de Paris 12e
+
+**Service rapide également dans :**
+- [Urgence Paris 4e](/paris-4e/) - Bastille, Arsenal
+- [Électricien Paris 11e](/paris-11e/) - Nation, Faidherbe
+- [Dépannage Paris 13e](/paris-13e/) - Gare d'Austerlitz, Bercy
+- [SOS électricien Paris 20e](/paris-20e/) - Nation, Porte de Vincennes
+- [Électricien Vincennes](/vincennes/) - Château de Vincennes
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

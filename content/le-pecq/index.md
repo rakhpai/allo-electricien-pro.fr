@@ -63,5 +63,24 @@ introText: >-
   dans toute la commune pour assurer maintenance, dépannage et mise aux normes
   de vos installations.
 introGeneratedAt: '2025-11-12T17:18:24.867Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LE PECQ
+electriciansAvailable: 5
+localLandmark: Montfort-l'Amaury
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Montfort-l'Amaury
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1040+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

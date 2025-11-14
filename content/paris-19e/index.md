@@ -63,6 +63,25 @@ introText: >-
   dans tout le 75019 pour garantir la sécurité et la fiabilité de vos
   installations électriques.
 introGeneratedAt: '2025-11-12T15:16:01.295Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 19e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -85,6 +104,23 @@ introGeneratedAt: '2025-11-12T15:16:01.295Z'
 ### Quartiers Couverts Paris 19e
 
 **Secteurs :** Buttes-Chaumont, Villette, Stalingrad
+
+### 🏘️ Arrondissements Voisins de Paris 19e
+
+**Service rapide également dans :**
+- [Urgence Paris 10e](/paris-10e/) - Colonel Fabien, Jaurès
+- [Électricien Paris 18e](/paris-18e/) - La Chapelle, Marx Dormoy
+- [Dépannage Paris 20e](/paris-20e/) - Belleville, Pyrénées
+- [SOS électricien Pantin](/pantin/) - Porte de Pantin
+- [Électricien Aubervilliers](/aubervilliers/) - Porte de la Villette
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

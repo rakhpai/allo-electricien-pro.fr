@@ -1,0 +1,1784 @@
+{
+  "timestamp": "2025-11-09T06:33:50.623Z",
+  "buckets": {
+    "serrurier-images": {
+      "public": true,
+      "created_at": "2025-10-24T05:53:21.096Z"
+    },
+    "audio-files": {
+      "public": true,
+      "created_at": "2025-11-07T03:15:14.164Z"
+    },
+    "source-images": {
+      "public": false,
+      "created_at": "2025-11-08T17:35:25.383Z"
+    },
+    "processed-images": {
+      "public": true,
+      "created_at": "2025-11-08T17:35:44.535Z"
+    }
+  },
+  "source_images": {
+    "expected": 342,
+    "found": 342,
+    "files": [
+      {
+        "name": "elec-001.jpg",
+        "size": 15026577,
+        "created_at": "2025-11-09T04:29:56.673Z"
+      },
+      {
+        "name": "elec-002.jpg",
+        "size": 6296934,
+        "created_at": "2025-11-09T04:29:58.765Z"
+      },
+      {
+        "name": "elec-003.jpg",
+        "size": 7338100,
+        "created_at": "2025-11-09T04:29:58.629Z"
+      },
+      {
+        "name": "elec-004.jpg",
+        "size": 6210055,
+        "created_at": "2025-11-09T04:29:58.262Z"
+      },
+      {
+        "name": "elec-005.jpg",
+        "size": 7451397,
+        "created_at": "2025-11-09T04:29:58.631Z"
+      },
+      {
+        "name": "elec-006.jpg",
+        "size": 12616827,
+        "created_at": "2025-11-09T04:30:05.067Z"
+      },
+      {
+        "name": "elec-007.jpg",
+        "size": 18980118,
+        "created_at": "2025-11-09T04:30:03.217Z"
+      },
+      {
+        "name": "elec-008.jpg",
+        "size": 11023071,
+        "created_at": "2025-11-09T04:30:06.223Z"
+      },
+      {
+        "name": "elec-009.jpg",
+        "size": 13480163,
+        "created_at": "2025-11-09T04:30:05.728Z"
+      },
+      {
+        "name": "elec-010.jpg",
+        "size": 13244056,
+        "created_at": "2025-11-09T04:30:04.460Z"
+      },
+      {
+        "name": "elec-011.jpg",
+        "size": 18358317,
+        "created_at": "2025-11-09T04:30:11.948Z"
+      },
+      {
+        "name": "elec-012.jpg",
+        "size": 13205109,
+        "created_at": "2025-11-09T04:30:08.242Z"
+      },
+      {
+        "name": "elec-013.jpg",
+        "size": 12118110,
+        "created_at": "2025-11-09T04:30:12.511Z"
+      },
+      {
+        "name": "elec-014.jpg",
+        "size": 9588238,
+        "created_at": "2025-11-09T04:30:10.586Z"
+      },
+      {
+        "name": "elec-015.jpg",
+        "size": 8545829,
+        "created_at": "2025-11-09T04:30:09.845Z"
+      },
+      {
+        "name": "elec-016.jpg",
+        "size": 8296341,
+        "created_at": "2025-11-09T04:30:16.973Z"
+      },
+      {
+        "name": "elec-017.jpg",
+        "size": 8362169,
+        "created_at": "2025-11-09T04:30:16.287Z"
+      },
+      {
+        "name": "elec-018.jpg",
+        "size": 4071875,
+        "created_at": "2025-11-09T04:30:15.450Z"
+      },
+      {
+        "name": "elec-019.jpg",
+        "size": 23379529,
+        "created_at": "2025-11-09T04:30:18.622Z"
+      },
+      {
+        "name": "elec-020.jpg",
+        "size": 20311318,
+        "created_at": "2025-11-09T04:30:19.179Z"
+      },
+      {
+        "name": "elec-021.jpg",
+        "size": 5898364,
+        "created_at": "2025-11-09T04:30:22.226Z"
+      },
+      {
+        "name": "elec-022.jpg",
+        "size": 10191428,
+        "created_at": "2025-11-09T04:30:22.623Z"
+      },
+      {
+        "name": "elec-023.jpg",
+        "size": 7345695,
+        "created_at": "2025-11-09T04:30:22.921Z"
+      },
+      {
+        "name": "elec-024.jpg",
+        "size": 13185734,
+        "created_at": "2025-11-09T04:30:23.807Z"
+      },
+      {
+        "name": "elec-025.jpg",
+        "size": 10388131,
+        "created_at": "2025-11-09T04:30:22.288Z"
+      },
+      {
+        "name": "elec-026.jpg",
+        "size": 12528979,
+        "created_at": "2025-11-09T04:30:28.437Z"
+      },
+      {
+        "name": "elec-027.jpg",
+        "size": 23812156,
+        "created_at": "2025-11-09T04:30:30.297Z"
+      },
+      {
+        "name": "elec-028.jpg",
+        "size": 9328093,
+        "created_at": "2025-11-09T04:30:27.620Z"
+      },
+      {
+        "name": "elec-029.jpg",
+        "size": 13239661,
+        "created_at": "2025-11-09T04:30:28.054Z"
+      },
+      {
+        "name": "elec-030.jpg",
+        "size": 6246656,
+        "created_at": "2025-11-09T04:30:26.183Z"
+      },
+      {
+        "name": "elec-031.jpg",
+        "size": 9742865,
+        "created_at": "2025-11-09T04:30:33.857Z"
+      },
+      {
+        "name": "elec-032.jpg",
+        "size": 14298689,
+        "created_at": "2025-11-09T04:30:35.315Z"
+      },
+      {
+        "name": "elec-033.jpg",
+        "size": 7190758,
+        "created_at": "2025-11-09T04:30:32.740Z"
+      },
+      {
+        "name": "elec-034.jpg",
+        "size": 17606818,
+        "created_at": "2025-11-09T04:30:36.339Z"
+      },
+      {
+        "name": "elec-035.jpg",
+        "size": 8778439,
+        "created_at": "2025-11-09T04:30:35.035Z"
+      },
+      {
+        "name": "elec-036.jpg",
+        "size": 13794252,
+        "created_at": "2025-11-09T04:30:41.278Z"
+      },
+      {
+        "name": "elec-037.jpg",
+        "size": 9104523,
+        "created_at": "2025-11-09T04:30:41.086Z"
+      },
+      {
+        "name": "elec-038.jpg",
+        "size": 13153763,
+        "created_at": "2025-11-09T04:30:41.587Z"
+      },
+      {
+        "name": "elec-039.jpg",
+        "size": 8076340,
+        "created_at": "2025-11-09T04:30:39.518Z"
+      },
+      {
+        "name": "elec-040.jpg",
+        "size": 9411665,
+        "created_at": "2025-11-09T04:30:40.042Z"
+      },
+      {
+        "name": "elec-041.jpg",
+        "size": 6642482,
+        "created_at": "2025-11-09T04:30:45.718Z"
+      },
+      {
+        "name": "elec-042.jpg",
+        "size": 8123748,
+        "created_at": "2025-11-09T04:30:44.064Z"
+      },
+      {
+        "name": "elec-043.jpg",
+        "size": 7924336,
+        "created_at": "2025-11-09T04:30:44.979Z"
+      },
+      {
+        "name": "elec-044.jpg",
+        "size": 9820858,
+        "created_at": "2025-11-09T04:30:46.233Z"
+      },
+      {
+        "name": "elec-045.jpg",
+        "size": 8637911,
+        "created_at": "2025-11-09T04:30:45.142Z"
+      },
+      {
+        "name": "elec-046.jpg",
+        "size": 2640269,
+        "created_at": "2025-11-09T04:30:49.104Z"
+      },
+      {
+        "name": "elec-047.jpg",
+        "size": 14701229,
+        "created_at": "2025-11-09T04:30:50.080Z"
+      },
+      {
+        "name": "elec-048.jpg",
+        "size": 9544378,
+        "created_at": "2025-11-09T04:30:50.274Z"
+      },
+      {
+        "name": "elec-049.jpg",
+        "size": 8199942,
+        "created_at": "2025-11-09T04:30:50.671Z"
+      },
+      {
+        "name": "elec-050.jpg",
+        "size": 7866475,
+        "created_at": "2025-11-09T04:30:50.333Z"
+      },
+      {
+        "name": "elec-051.jpg",
+        "size": 7408056,
+        "created_at": "2025-11-09T04:30:54.334Z"
+      },
+      {
+        "name": "elec-052.jpg",
+        "size": 7918114,
+        "created_at": "2025-11-09T04:30:52.885Z"
+      },
+      {
+        "name": "elec-053.jpg",
+        "size": 8838372,
+        "created_at": "2025-11-09T04:30:55.396Z"
+      },
+      {
+        "name": "elec-054.jpg",
+        "size": 7649686,
+        "created_at": "2025-11-09T04:30:54.779Z"
+      },
+      {
+        "name": "elec-055.jpg",
+        "size": 14626338,
+        "created_at": "2025-11-09T04:30:55.276Z"
+      },
+      {
+        "name": "elec-056.jpg",
+        "size": 18427538,
+        "created_at": "2025-11-09T04:31:03.368Z"
+      },
+      {
+        "name": "elec-057.jpg",
+        "size": 16694164,
+        "created_at": "2025-11-09T04:31:03.008Z"
+      },
+      {
+        "name": "elec-058.jpg",
+        "size": 25881249,
+        "created_at": "2025-11-09T04:31:04.300Z"
+      },
+      {
+        "name": "elec-059.jpg",
+        "size": 23305924,
+        "created_at": "2025-11-09T04:31:05.812Z"
+      },
+      {
+        "name": "elec-060.jpg",
+        "size": 18176882,
+        "created_at": "2025-11-09T04:31:00.796Z"
+      },
+      {
+        "name": "elec-061.jpg",
+        "size": 11282100,
+        "created_at": "2025-11-09T04:31:09.873Z"
+      },
+      {
+        "name": "elec-062.jpg",
+        "size": 12673204,
+        "created_at": "2025-11-09T04:31:11.224Z"
+      },
+      {
+        "name": "elec-063.jpg",
+        "size": 10935360,
+        "created_at": "2025-11-09T04:31:13.243Z"
+      },
+      {
+        "name": "elec-064.jpg",
+        "size": 15454535,
+        "created_at": "2025-11-09T04:31:13.746Z"
+      },
+      {
+        "name": "elec-065.jpg",
+        "size": 19165932,
+        "created_at": "2025-11-09T04:31:13.484Z"
+      },
+      {
+        "name": "elec-066.jpg",
+        "size": 5836661,
+        "created_at": "2025-11-09T04:31:20.396Z"
+      },
+      {
+        "name": "elec-067.jpg",
+        "size": 8021131,
+        "created_at": "2025-11-09T04:31:18.959Z"
+      },
+      {
+        "name": "elec-068.jpg",
+        "size": 16934141,
+        "created_at": "2025-11-09T04:31:20.295Z"
+      },
+      {
+        "name": "elec-069.jpg",
+        "size": 19452064,
+        "created_at": "2025-11-09T04:31:20.424Z"
+      },
+      {
+        "name": "elec-070.jpg",
+        "size": 18274636,
+        "created_at": "2025-11-09T04:31:17.535Z"
+      },
+      {
+        "name": "elec-071.jpg",
+        "size": 20419505,
+        "created_at": "2025-11-09T04:31:28.183Z"
+      },
+      {
+        "name": "elec-072.jpg",
+        "size": 20670463,
+        "created_at": "2025-11-09T04:31:26.892Z"
+      },
+      {
+        "name": "elec-073.jpg",
+        "size": 19560218,
+        "created_at": "2025-11-09T04:31:27.934Z"
+      },
+      {
+        "name": "elec-074.jpg",
+        "size": 11610038,
+        "created_at": "2025-11-09T04:31:24.109Z"
+      },
+      {
+        "name": "elec-075.jpg",
+        "size": 5843693,
+        "created_at": "2025-11-09T04:31:21.953Z"
+      },
+      {
+        "name": "elec-076.jpg",
+        "size": 11005178,
+        "created_at": "2025-11-09T04:31:33.433Z"
+      },
+      {
+        "name": "elec-077.jpg",
+        "size": 4337575,
+        "created_at": "2025-11-09T04:31:30.024Z"
+      },
+      {
+        "name": "elec-078.jpg",
+        "size": 7948483,
+        "created_at": "2025-11-09T04:31:31.809Z"
+      },
+      {
+        "name": "elec-079.jpg",
+        "size": 15964318,
+        "created_at": "2025-11-09T04:31:32.787Z"
+      },
+      {
+        "name": "elec-080.jpg",
+        "size": 9171513,
+        "created_at": "2025-11-09T04:31:32.512Z"
+      },
+      {
+        "name": "elec-081.jpg",
+        "size": 7029282,
+        "created_at": "2025-11-09T04:31:37.513Z"
+      },
+      {
+        "name": "elec-082.jpg",
+        "size": 9801007,
+        "created_at": "2025-11-09T04:31:38.027Z"
+      },
+      {
+        "name": "elec-083.jpg",
+        "size": 6839550,
+        "created_at": "2025-11-09T04:31:35.501Z"
+      },
+      {
+        "name": "elec-084.jpg",
+        "size": 7264248,
+        "created_at": "2025-11-09T04:31:37.346Z"
+      },
+      {
+        "name": "elec-085.jpg",
+        "size": 11180802,
+        "created_at": "2025-11-09T04:31:37.842Z"
+      },
+      {
+        "name": "elec-086.jpg",
+        "size": 14379896,
+        "created_at": "2025-11-09T04:31:42.118Z"
+      },
+      {
+        "name": "elec-087.jpg",
+        "size": 13096232,
+        "created_at": "2025-11-09T04:31:43.999Z"
+      },
+      {
+        "name": "elec-088.jpg",
+        "size": 9960898,
+        "created_at": "2025-11-09T04:31:42.635Z"
+      },
+      {
+        "name": "elec-089.jpg",
+        "size": 20441840,
+        "created_at": "2025-11-09T04:31:45.612Z"
+      },
+      {
+        "name": "elec-090.jpg",
+        "size": 15598704,
+        "created_at": "2025-11-09T04:31:44.816Z"
+      },
+      {
+        "name": "elec-091.jpg",
+        "size": 17976848,
+        "created_at": "2025-11-09T04:31:53.130Z"
+      },
+      {
+        "name": "elec-092.jpg",
+        "size": 15241357,
+        "created_at": "2025-11-09T04:31:52.536Z"
+      },
+      {
+        "name": "elec-093.jpg",
+        "size": 17426990,
+        "created_at": "2025-11-09T04:31:52.328Z"
+      },
+      {
+        "name": "elec-094.jpg",
+        "size": 12885294,
+        "created_at": "2025-11-09T04:31:52.120Z"
+      },
+      {
+        "name": "elec-095.jpg",
+        "size": 15590132,
+        "created_at": "2025-11-09T04:31:51.136Z"
+      },
+      {
+        "name": "elec-096.jpg",
+        "size": 19127493,
+        "created_at": "2025-11-09T04:32:02.190Z"
+      },
+      {
+        "name": "elec-097.jpg",
+        "size": 15901124,
+        "created_at": "2025-11-09T04:32:01.822Z"
+      },
+      {
+        "name": "elec-098.jpg",
+        "size": 18520407,
+        "created_at": "2025-11-09T04:31:59.527Z"
+      },
+      {
+        "name": "elec-099.jpg",
+        "size": 18676847,
+        "created_at": "2025-11-09T04:32:00.899Z"
+      },
+      {
+        "name": "elec-100.jpg",
+        "size": 17688229,
+        "created_at": "2025-11-09T04:32:01.647Z"
+      },
+      {
+        "name": "elec-101.jpg",
+        "size": 17610713,
+        "created_at": "2025-11-09T04:32:10.730Z"
+      },
+      {
+        "name": "elec-102.jpg",
+        "size": 17900873,
+        "created_at": "2025-11-09T04:32:10.020Z"
+      },
+      {
+        "name": "elec-103.jpg",
+        "size": 19529921,
+        "created_at": "2025-11-09T04:32:09.375Z"
+      },
+      {
+        "name": "elec-104.jpg",
+        "size": 16541174,
+        "created_at": "2025-11-09T04:32:08.981Z"
+      },
+      {
+        "name": "elec-105.jpg",
+        "size": 17476178,
+        "created_at": "2025-11-09T04:32:06.833Z"
+      },
+      {
+        "name": "elec-106.jpg",
+        "size": 19956643,
+        "created_at": "2025-11-09T04:32:16.818Z"
+      },
+      {
+        "name": "elec-107.jpg",
+        "size": 17762181,
+        "created_at": "2025-11-09T04:32:18.732Z"
+      },
+      {
+        "name": "elec-108.jpg",
+        "size": 15833602,
+        "created_at": "2025-11-09T04:32:17.891Z"
+      },
+      {
+        "name": "elec-109.jpg",
+        "size": 15784887,
+        "created_at": "2025-11-09T04:32:17.483Z"
+      },
+      {
+        "name": "elec-110.jpg",
+        "size": 16247563,
+        "created_at": "2025-11-09T04:32:19.090Z"
+      },
+      {
+        "name": "elec-111.jpg",
+        "size": 16383250,
+        "created_at": "2025-11-09T04:32:25.044Z"
+      },
+      {
+        "name": "elec-112.jpg",
+        "size": 17260240,
+        "created_at": "2025-11-09T04:32:25.843Z"
+      },
+      {
+        "name": "elec-113.jpg",
+        "size": 23608369,
+        "created_at": "2025-11-09T04:32:26.600Z"
+      },
+      {
+        "name": "elec-114.jpg",
+        "size": 6807822,
+        "created_at": "2025-11-09T04:32:20.532Z"
+      },
+      {
+        "name": "elec-115.jpg",
+        "size": 9913493,
+        "created_at": "2025-11-09T04:32:23.385Z"
+      },
+      {
+        "name": "elec-116.jpg",
+        "size": 10705266,
+        "created_at": "2025-11-09T04:32:33.132Z"
+      },
+      {
+        "name": "elec-117.jpg",
+        "size": 14906917,
+        "created_at": "2025-11-09T04:32:31.277Z"
+      },
+      {
+        "name": "elec-118.jpg",
+        "size": 16102227,
+        "created_at": "2025-11-09T04:32:33.413Z"
+      },
+      {
+        "name": "elec-119.jpg",
+        "size": 14045789,
+        "created_at": "2025-11-09T04:32:33.308Z"
+      },
+      {
+        "name": "elec-120.jpg",
+        "size": 12156794,
+        "created_at": "2025-11-09T04:32:30.583Z"
+      },
+      {
+        "name": "elec-121.jpg",
+        "size": 13510474,
+        "created_at": "2025-11-09T04:32:38.547Z"
+      },
+      {
+        "name": "elec-122.jpg",
+        "size": 11845279,
+        "created_at": "2025-11-09T04:32:36.993Z"
+      },
+      {
+        "name": "elec-123.jpg",
+        "size": 13439589,
+        "created_at": "2025-11-09T04:32:39.451Z"
+      },
+      {
+        "name": "elec-124.jpg",
+        "size": 14196973,
+        "created_at": "2025-11-09T04:32:39.628Z"
+      },
+      {
+        "name": "elec-125.jpg",
+        "size": 6912194,
+        "created_at": "2025-11-09T04:32:36.436Z"
+      },
+      {
+        "name": "elec-126.jpg",
+        "size": 11268434,
+        "created_at": "2025-11-09T04:32:46.177Z"
+      },
+      {
+        "name": "elec-127.jpg",
+        "size": 10425097,
+        "created_at": "2025-11-09T04:32:45.069Z"
+      },
+      {
+        "name": "elec-128.jpg",
+        "size": 17570672,
+        "created_at": "2025-11-09T04:32:46.405Z"
+      },
+      {
+        "name": "elec-129.jpg",
+        "size": 16035851,
+        "created_at": "2025-11-09T04:32:46.620Z"
+      },
+      {
+        "name": "elec-130.jpg",
+        "size": 12211946,
+        "created_at": "2025-11-09T04:32:41.842Z"
+      },
+      {
+        "name": "elec-131.jpg",
+        "size": 21372535,
+        "created_at": "2025-11-09T04:32:55.342Z"
+      },
+      {
+        "name": "elec-132.jpg",
+        "size": 19902870,
+        "created_at": "2025-11-09T04:32:54.822Z"
+      },
+      {
+        "name": "elec-133.jpg",
+        "size": 21732609,
+        "created_at": "2025-11-09T04:32:54.587Z"
+      },
+      {
+        "name": "elec-134.jpg",
+        "size": 11055681,
+        "created_at": "2025-11-09T04:32:54.340Z"
+      },
+      {
+        "name": "elec-135.jpg",
+        "size": 19708157,
+        "created_at": "2025-11-09T04:32:55.622Z"
+      },
+      {
+        "name": "elec-136.jpg",
+        "size": 17852492,
+        "created_at": "2025-11-09T04:33:04.064Z"
+      },
+      {
+        "name": "elec-137.jpg",
+        "size": 19882400,
+        "created_at": "2025-11-09T04:33:02.042Z"
+      },
+      {
+        "name": "elec-138.jpg",
+        "size": 18177576,
+        "created_at": "2025-11-09T04:33:01.340Z"
+      },
+      {
+        "name": "elec-139.jpg",
+        "size": 10203382,
+        "created_at": "2025-11-09T04:33:02.658Z"
+      },
+      {
+        "name": "elec-140.jpg",
+        "size": 20696638,
+        "created_at": "2025-11-09T04:33:03.601Z"
+      },
+      {
+        "name": "elec-141.jpg",
+        "size": 9187388,
+        "created_at": "2025-11-09T04:33:11.692Z"
+      },
+      {
+        "name": "elec-142.jpg",
+        "size": 21504877,
+        "created_at": "2025-11-09T04:33:10.671Z"
+      },
+      {
+        "name": "elec-143.jpg",
+        "size": 19655531,
+        "created_at": "2025-11-09T04:33:08.752Z"
+      },
+      {
+        "name": "elec-144.jpg",
+        "size": 21172710,
+        "created_at": "2025-11-09T04:33:13.221Z"
+      },
+      {
+        "name": "elec-145.jpg",
+        "size": 22050021,
+        "created_at": "2025-11-09T04:33:12.240Z"
+      },
+      {
+        "name": "elec-146.jpg",
+        "size": 18324602,
+        "created_at": "2025-11-09T04:33:18.948Z"
+      },
+      {
+        "name": "elec-147.jpg",
+        "size": 8122279,
+        "created_at": "2025-11-09T04:33:17.617Z"
+      },
+      {
+        "name": "elec-148.jpg",
+        "size": 9531765,
+        "created_at": "2025-11-09T04:33:16.527Z"
+      },
+      {
+        "name": "elec-149.jpg",
+        "size": 12436226,
+        "created_at": "2025-11-09T04:33:18.096Z"
+      },
+      {
+        "name": "elec-150.jpg",
+        "size": 7683669,
+        "created_at": "2025-11-09T04:33:16.764Z"
+      },
+      {
+        "name": "elec-151.jpg",
+        "size": 6010783,
+        "created_at": "2025-11-09T04:33:21.552Z"
+      },
+      {
+        "name": "elec-152.jpg",
+        "size": 6706604,
+        "created_at": "2025-11-09T04:33:21.372Z"
+      },
+      {
+        "name": "elec-153.jpg",
+        "size": 3487520,
+        "created_at": "2025-11-09T04:33:20.767Z"
+      },
+      {
+        "name": "elec-154.jpg",
+        "size": 4350657,
+        "created_at": "2025-11-09T04:33:20.737Z"
+      },
+      {
+        "name": "elec-155.jpg",
+        "size": 8672885,
+        "created_at": "2025-11-09T04:33:22.050Z"
+      },
+      {
+        "name": "elec-156.jpg",
+        "size": 5882673,
+        "created_at": "2025-11-09T04:33:25.820Z"
+      },
+      {
+        "name": "elec-157.jpg",
+        "size": 6821324,
+        "created_at": "2025-11-09T04:33:23.373Z"
+      },
+      {
+        "name": "elec-158.jpg",
+        "size": 16705477,
+        "created_at": "2025-11-09T04:33:28.195Z"
+      },
+      {
+        "name": "elec-159.jpg",
+        "size": 17465561,
+        "created_at": "2025-11-09T04:33:26.938Z"
+      },
+      {
+        "name": "elec-160.jpg",
+        "size": 16922149,
+        "created_at": "2025-11-09T04:33:27.726Z"
+      },
+      {
+        "name": "elec-161.jpg",
+        "size": 17811455,
+        "created_at": "2025-11-09T04:33:35.603Z"
+      },
+      {
+        "name": "elec-162.jpg",
+        "size": 17931535,
+        "created_at": "2025-11-09T04:33:35.095Z"
+      },
+      {
+        "name": "elec-163.jpg",
+        "size": 18948150,
+        "created_at": "2025-11-09T04:33:34.213Z"
+      },
+      {
+        "name": "elec-164.jpg",
+        "size": 10253538,
+        "created_at": "2025-11-09T04:33:32.123Z"
+      },
+      {
+        "name": "elec-165.jpg",
+        "size": 11167154,
+        "created_at": "2025-11-09T04:33:31.066Z"
+      },
+      {
+        "name": "elec-166.jpg",
+        "size": 7463266,
+        "created_at": "2025-11-09T04:33:37.924Z"
+      },
+      {
+        "name": "elec-167.jpg",
+        "size": 15150142,
+        "created_at": "2025-11-09T04:33:40.029Z"
+      },
+      {
+        "name": "elec-168.jpg",
+        "size": 3936278,
+        "created_at": "2025-11-09T04:33:37.225Z"
+      },
+      {
+        "name": "elec-169.jpg",
+        "size": 7370857,
+        "created_at": "2025-11-09T04:33:39.512Z"
+      },
+      {
+        "name": "elec-170.jpg",
+        "size": 10264503,
+        "created_at": "2025-11-09T04:33:39.720Z"
+      },
+      {
+        "name": "elec-171.jpg",
+        "size": 10105509,
+        "created_at": "2025-11-09T04:33:45.105Z"
+      },
+      {
+        "name": "elec-172.jpg",
+        "size": 6416471,
+        "created_at": "2025-11-09T04:33:44.047Z"
+      },
+      {
+        "name": "elec-173.jpg",
+        "size": 12839778,
+        "created_at": "2025-11-09T04:33:42.443Z"
+      },
+      {
+        "name": "elec-174.jpg",
+        "size": 13964266,
+        "created_at": "2025-11-09T04:33:45.846Z"
+      },
+      {
+        "name": "elec-175.jpg",
+        "size": 16506618,
+        "created_at": "2025-11-09T04:33:45.887Z"
+      },
+      {
+        "name": "elec-176.jpg",
+        "size": 13160228,
+        "created_at": "2025-11-09T04:33:52.570Z"
+      },
+      {
+        "name": "elec-177.jpg",
+        "size": 14131571,
+        "created_at": "2025-11-09T04:33:51.371Z"
+      },
+      {
+        "name": "elec-178.jpg",
+        "size": 14803551,
+        "created_at": "2025-11-09T04:33:52.448Z"
+      },
+      {
+        "name": "elec-179.jpg",
+        "size": 15977902,
+        "created_at": "2025-11-09T04:33:53.344Z"
+      },
+      {
+        "name": "elec-180.jpg",
+        "size": 15414964,
+        "created_at": "2025-11-09T04:33:49.136Z"
+      },
+      {
+        "name": "elec-181.jpg",
+        "size": 12941587,
+        "created_at": "2025-11-09T04:33:59.801Z"
+      },
+      {
+        "name": "elec-182.jpg",
+        "size": 14457296,
+        "created_at": "2025-11-09T04:33:58.749Z"
+      },
+      {
+        "name": "elec-183.jpg",
+        "size": 17364684,
+        "created_at": "2025-11-09T04:34:00.144Z"
+      },
+      {
+        "name": "elec-184.jpg",
+        "size": 8917438,
+        "created_at": "2025-11-09T04:33:56.368Z"
+      },
+      {
+        "name": "elec-185.jpg",
+        "size": 19053018,
+        "created_at": "2025-11-09T04:34:00.704Z"
+      },
+      {
+        "name": "elec-186.jpg",
+        "size": 22599510,
+        "created_at": "2025-11-09T04:34:09.413Z"
+      },
+      {
+        "name": "elec-187.jpg",
+        "size": 23979033,
+        "created_at": "2025-11-09T04:34:09.495Z"
+      },
+      {
+        "name": "elec-188.jpg",
+        "size": 18112744,
+        "created_at": "2025-11-09T04:34:07.496Z"
+      },
+      {
+        "name": "elec-189.jpg",
+        "size": 15107675,
+        "created_at": "2025-11-09T04:34:05.312Z"
+      },
+      {
+        "name": "elec-190.jpg",
+        "size": 9754740,
+        "created_at": "2025-11-09T04:34:05.686Z"
+      },
+      {
+        "name": "elec-191.jpg",
+        "size": 19076871,
+        "created_at": "2025-11-09T04:34:18.418Z"
+      },
+      {
+        "name": "elec-192.jpg",
+        "size": 14504777,
+        "created_at": "2025-11-09T04:34:18.771Z"
+      },
+      {
+        "name": "elec-193.jpg",
+        "size": 19309952,
+        "created_at": "2025-11-09T04:34:18.232Z"
+      },
+      {
+        "name": "elec-194.jpg",
+        "size": 17737598,
+        "created_at": "2025-11-09T04:34:15.513Z"
+      },
+      {
+        "name": "elec-195.jpg",
+        "size": 18833764,
+        "created_at": "2025-11-09T04:34:16.344Z"
+      },
+      {
+        "name": "elec-196.jpg",
+        "size": 19058717,
+        "created_at": "2025-11-09T04:34:24.831Z"
+      },
+      {
+        "name": "elec-197.jpg",
+        "size": 18992692,
+        "created_at": "2025-11-09T04:34:27.057Z"
+      },
+      {
+        "name": "elec-198.jpg",
+        "size": 17048974,
+        "created_at": "2025-11-09T04:34:26.160Z"
+      },
+      {
+        "name": "elec-199.jpg",
+        "size": 21017581,
+        "created_at": "2025-11-09T04:34:25.436Z"
+      },
+      {
+        "name": "elec-200.jpg",
+        "size": 10972599,
+        "created_at": "2025-11-09T04:34:25.564Z"
+      },
+      {
+        "name": "elec-201.jpg",
+        "size": 7688913,
+        "created_at": "2025-11-09T04:34:29.247Z"
+      },
+      {
+        "name": "elec-202.jpg",
+        "size": 5169678,
+        "created_at": "2025-11-09T04:34:29.615Z"
+      },
+      {
+        "name": "elec-203.jpg",
+        "size": 10271958,
+        "created_at": "2025-11-09T04:34:30.596Z"
+      },
+      {
+        "name": "elec-204.jpg",
+        "size": 12580710,
+        "created_at": "2025-11-09T04:34:31.046Z"
+      },
+      {
+        "name": "elec-205.jpg",
+        "size": 1711732,
+        "created_at": "2025-11-09T04:34:27.727Z"
+      },
+      {
+        "name": "elec-206.jpg",
+        "size": 3284121,
+        "created_at": "2025-11-09T04:34:33.353Z"
+      },
+      {
+        "name": "elec-207.jpg",
+        "size": 14920085,
+        "created_at": "2025-11-09T04:34:37.068Z"
+      },
+      {
+        "name": "elec-208.jpg",
+        "size": 9920622,
+        "created_at": "2025-11-09T04:34:36.730Z"
+      },
+      {
+        "name": "elec-209.jpg",
+        "size": 18481142,
+        "created_at": "2025-11-09T04:34:36.624Z"
+      },
+      {
+        "name": "elec-210.jpg",
+        "size": 14935020,
+        "created_at": "2025-11-09T04:34:36.062Z"
+      },
+      {
+        "name": "elec-211.jpg",
+        "size": 4109860,
+        "created_at": "2025-11-09T04:34:39.520Z"
+      },
+      {
+        "name": "elec-212.jpg",
+        "size": 7060234,
+        "created_at": "2025-11-09T04:34:40.560Z"
+      },
+      {
+        "name": "elec-213.jpg",
+        "size": 17805285,
+        "created_at": "2025-11-09T04:34:42.094Z"
+      },
+      {
+        "name": "elec-214.jpg",
+        "size": 8465700,
+        "created_at": "2025-11-09T04:34:39.560Z"
+      },
+      {
+        "name": "elec-215.jpg",
+        "size": 8833643,
+        "created_at": "2025-11-09T04:34:40.805Z"
+      },
+      {
+        "name": "elec-216.jpg",
+        "size": 8669002,
+        "created_at": "2025-11-09T04:34:46.514Z"
+      },
+      {
+        "name": "elec-217.jpg",
+        "size": 9680187,
+        "created_at": "2025-11-09T04:34:45.587Z"
+      },
+      {
+        "name": "elec-218.jpg",
+        "size": 13948507,
+        "created_at": "2025-11-09T04:34:47.920Z"
+      },
+      {
+        "name": "elec-219.jpg",
+        "size": 10533711,
+        "created_at": "2025-11-09T04:34:46.006Z"
+      },
+      {
+        "name": "elec-220.jpg",
+        "size": 11498203,
+        "created_at": "2025-11-09T04:34:47.115Z"
+      },
+      {
+        "name": "elec-221.jpg",
+        "size": 11471548,
+        "created_at": "2025-11-09T04:34:51.937Z"
+      },
+      {
+        "name": "elec-222.jpg",
+        "size": 11435283,
+        "created_at": "2025-11-09T04:34:53.004Z"
+      },
+      {
+        "name": "elec-223.jpg",
+        "size": 10659487,
+        "created_at": "2025-11-09T04:34:52.858Z"
+      },
+      {
+        "name": "elec-224.jpg",
+        "size": 10453004,
+        "created_at": "2025-11-09T04:34:50.962Z"
+      },
+      {
+        "name": "elec-225.jpg",
+        "size": 5966072,
+        "created_at": "2025-11-09T04:34:52.072Z"
+      },
+      {
+        "name": "elec-226.jpg",
+        "size": 12399033,
+        "created_at": "2025-11-09T04:34:57.800Z"
+      },
+      {
+        "name": "elec-227.jpg",
+        "size": 11250611,
+        "created_at": "2025-11-09T04:34:57.369Z"
+      },
+      {
+        "name": "elec-228.jpg",
+        "size": 7354962,
+        "created_at": "2025-11-09T04:34:57.026Z"
+      },
+      {
+        "name": "elec-229.jpg",
+        "size": 8437713,
+        "created_at": "2025-11-09T04:34:56.147Z"
+      },
+      {
+        "name": "elec-230.jpg",
+        "size": 9644400,
+        "created_at": "2025-11-09T04:34:56.799Z"
+      },
+      {
+        "name": "elec-231.jpg",
+        "size": 12106479,
+        "created_at": "2025-11-09T04:35:01.355Z"
+      },
+      {
+        "name": "elec-232.jpg",
+        "size": 12188821,
+        "created_at": "2025-11-09T04:35:04.008Z"
+      },
+      {
+        "name": "elec-233.jpg",
+        "size": 14109644,
+        "created_at": "2025-11-09T04:35:03.197Z"
+      },
+      {
+        "name": "elec-234.jpg",
+        "size": 6885548,
+        "created_at": "2025-11-09T04:35:02.553Z"
+      },
+      {
+        "name": "elec-235.jpg",
+        "size": 13740878,
+        "created_at": "2025-11-09T04:35:03.374Z"
+      },
+      {
+        "name": "elec-236.jpg",
+        "size": 13364722,
+        "created_at": "2025-11-09T04:35:08.675Z"
+      },
+      {
+        "name": "elec-237.jpg",
+        "size": 5700440,
+        "created_at": "2025-11-09T04:35:05.868Z"
+      },
+      {
+        "name": "elec-238.jpg",
+        "size": 6213739,
+        "created_at": "2025-11-09T04:35:06.809Z"
+      },
+      {
+        "name": "elec-239.jpg",
+        "size": 10891902,
+        "created_at": "2025-11-09T04:35:08.040Z"
+      },
+      {
+        "name": "elec-240.jpg",
+        "size": 7118573,
+        "created_at": "2025-11-09T04:35:06.129Z"
+      },
+      {
+        "name": "elec-241.jpg",
+        "size": 6672623,
+        "created_at": "2025-11-09T04:35:10.925Z"
+      },
+      {
+        "name": "elec-242.jpg",
+        "size": 12204969,
+        "created_at": "2025-11-09T04:35:11.830Z"
+      },
+      {
+        "name": "elec-243.jpg",
+        "size": 16566036,
+        "created_at": "2025-11-09T04:35:13.661Z"
+      },
+      {
+        "name": "elec-244.jpg",
+        "size": 13372129,
+        "created_at": "2025-11-09T04:35:14.412Z"
+      },
+      {
+        "name": "elec-245.jpg",
+        "size": 7127288,
+        "created_at": "2025-11-09T04:35:12.643Z"
+      },
+      {
+        "name": "elec-246.jpg",
+        "size": 9013038,
+        "created_at": "2025-11-09T04:35:17.515Z"
+      },
+      {
+        "name": "elec-247.jpg",
+        "size": 9889676,
+        "created_at": "2025-11-09T04:35:17.210Z"
+      },
+      {
+        "name": "elec-248.jpg",
+        "size": 15488722,
+        "created_at": "2025-11-09T04:35:19.410Z"
+      },
+      {
+        "name": "elec-249.jpg",
+        "size": 11653757,
+        "created_at": "2025-11-09T04:35:19.733Z"
+      },
+      {
+        "name": "elec-250.jpg",
+        "size": 7742087,
+        "created_at": "2025-11-09T04:35:18.531Z"
+      },
+      {
+        "name": "elec-251.jpg",
+        "size": 15892005,
+        "created_at": "2025-11-09T04:35:24.235Z"
+      },
+      {
+        "name": "elec-252.jpg",
+        "size": 14068742,
+        "created_at": "2025-11-09T04:35:25.361Z"
+      },
+      {
+        "name": "elec-253.jpg",
+        "size": 8472409,
+        "created_at": "2025-11-09T04:35:22.599Z"
+      },
+      {
+        "name": "elec-254.jpg",
+        "size": 7081980,
+        "created_at": "2025-11-09T04:35:21.558Z"
+      },
+      {
+        "name": "elec-255.jpg",
+        "size": 13078326,
+        "created_at": "2025-11-09T04:35:25.309Z"
+      },
+      {
+        "name": "elec-256.jpg",
+        "size": 6624140,
+        "created_at": "2025-11-09T04:35:27.985Z"
+      },
+      {
+        "name": "elec-257.jpg",
+        "size": 2576001,
+        "created_at": "2025-11-09T04:35:26.646Z"
+      },
+      {
+        "name": "elec-258.jpg",
+        "size": 8366777,
+        "created_at": "2025-11-09T04:35:28.066Z"
+      },
+      {
+        "name": "elec-259.jpg",
+        "size": 4859956,
+        "created_at": "2025-11-09T04:35:26.815Z"
+      },
+      {
+        "name": "elec-260.jpg",
+        "size": 20744852,
+        "created_at": "2025-11-09T04:35:29.960Z"
+      },
+      {
+        "name": "elec-261.jpg",
+        "size": 22989250,
+        "created_at": "2025-11-09T04:35:35.038Z"
+      },
+      {
+        "name": "elec-262.jpg",
+        "size": 1275142,
+        "created_at": "2025-11-09T04:35:31.169Z"
+      },
+      {
+        "name": "elec-263.jpg",
+        "size": 8165893,
+        "created_at": "2025-11-09T04:35:32.206Z"
+      },
+      {
+        "name": "elec-264.jpg",
+        "size": 7607572,
+        "created_at": "2025-11-09T04:35:33.500Z"
+      },
+      {
+        "name": "elec-265.jpg",
+        "size": 7456511,
+        "created_at": "2025-11-09T04:35:33.218Z"
+      },
+      {
+        "name": "elec-266.jpg",
+        "size": 7002145,
+        "created_at": "2025-11-09T04:35:39.752Z"
+      },
+      {
+        "name": "elec-267.jpg",
+        "size": 10871433,
+        "created_at": "2025-11-09T04:35:37.577Z"
+      },
+      {
+        "name": "elec-268.jpg",
+        "size": 7863636,
+        "created_at": "2025-11-09T04:35:39.790Z"
+      },
+      {
+        "name": "elec-269.jpg",
+        "size": 17792162,
+        "created_at": "2025-11-09T04:35:40.013Z"
+      },
+      {
+        "name": "elec-270.jpg",
+        "size": 9066109,
+        "created_at": "2025-11-09T04:35:40.281Z"
+      },
+      {
+        "name": "elec-271.jpg",
+        "size": 12483722,
+        "created_at": "2025-11-09T04:35:46.522Z"
+      },
+      {
+        "name": "elec-272.jpg",
+        "size": 11294219,
+        "created_at": "2025-11-09T04:35:46.734Z"
+      },
+      {
+        "name": "elec-273.jpg",
+        "size": 7596205,
+        "created_at": "2025-11-09T04:35:45.079Z"
+      },
+      {
+        "name": "elec-274.jpg",
+        "size": 14490654,
+        "created_at": "2025-11-09T04:35:45.017Z"
+      },
+      {
+        "name": "elec-275.jpg",
+        "size": 19978798,
+        "created_at": "2025-11-09T04:35:45.750Z"
+      },
+      {
+        "name": "elec-276.jpg",
+        "size": 21399217,
+        "created_at": "2025-11-09T04:35:53.082Z"
+      },
+      {
+        "name": "elec-277.jpg",
+        "size": 18009763,
+        "created_at": "2025-11-09T04:35:52.853Z"
+      },
+      {
+        "name": "elec-278.jpg",
+        "size": 10587571,
+        "created_at": "2025-11-09T04:35:50.215Z"
+      },
+      {
+        "name": "elec-279.jpg",
+        "size": 5963836,
+        "created_at": "2025-11-09T04:35:48.469Z"
+      },
+      {
+        "name": "elec-280.jpg",
+        "size": 4051069,
+        "created_at": "2025-11-09T04:35:49.011Z"
+      },
+      {
+        "name": "elec-281.jpg",
+        "size": 6953097,
+        "created_at": "2025-11-09T04:35:55.808Z"
+      },
+      {
+        "name": "elec-282.jpg",
+        "size": 5864573,
+        "created_at": "2025-11-09T04:35:56.902Z"
+      },
+      {
+        "name": "elec-283.jpg",
+        "size": 7645146,
+        "created_at": "2025-11-09T04:35:54.720Z"
+      },
+      {
+        "name": "elec-284.jpg",
+        "size": 12524623,
+        "created_at": "2025-11-09T04:35:57.918Z"
+      },
+      {
+        "name": "elec-285.jpg",
+        "size": 12896988,
+        "created_at": "2025-11-09T04:35:58.221Z"
+      },
+      {
+        "name": "elec-286.jpg",
+        "size": 19716536,
+        "created_at": "2025-11-09T04:36:03.922Z"
+      },
+      {
+        "name": "elec-287.jpg",
+        "size": 4889628,
+        "created_at": "2025-11-09T04:35:59.679Z"
+      },
+      {
+        "name": "elec-288.jpg",
+        "size": 8932806,
+        "created_at": "2025-11-09T04:36:01.286Z"
+      },
+      {
+        "name": "elec-289.jpg",
+        "size": 5874054,
+        "created_at": "2025-11-09T04:36:00.225Z"
+      },
+      {
+        "name": "elec-290.jpg",
+        "size": 8706097,
+        "created_at": "2025-11-09T04:36:02.451Z"
+      },
+      {
+        "name": "elec-291.jpg",
+        "size": 9503613,
+        "created_at": "2025-11-09T04:36:08.973Z"
+      },
+      {
+        "name": "elec-292.jpg",
+        "size": 10815097,
+        "created_at": "2025-11-09T04:36:08.538Z"
+      },
+      {
+        "name": "elec-293.jpg",
+        "size": 10242241,
+        "created_at": "2025-11-09T04:36:08.225Z"
+      },
+      {
+        "name": "elec-294.jpg",
+        "size": 9654752,
+        "created_at": "2025-11-09T04:36:07.297Z"
+      },
+      {
+        "name": "elec-295.jpg",
+        "size": 10468492,
+        "created_at": "2025-11-09T04:36:06.498Z"
+      },
+      {
+        "name": "elec-296.jpg",
+        "size": 8325288,
+        "created_at": "2025-11-09T04:36:13.299Z"
+      },
+      {
+        "name": "elec-297.jpg",
+        "size": 8325288,
+        "created_at": "2025-11-09T04:36:12.304Z"
+      },
+      {
+        "name": "elec-298.jpg",
+        "size": 10927212,
+        "created_at": "2025-11-09T04:36:13.868Z"
+      },
+      {
+        "name": "elec-299.jpg",
+        "size": 8025455,
+        "created_at": "2025-11-09T04:36:12.840Z"
+      },
+      {
+        "name": "elec-300.jpg",
+        "size": 9494754,
+        "created_at": "2025-11-09T04:36:11.924Z"
+      },
+      {
+        "name": "elec-301.jpg",
+        "size": 14061469,
+        "created_at": "2025-11-09T04:36:19.400Z"
+      },
+      {
+        "name": "elec-302.jpg",
+        "size": 42188999,
+        "created_at": "2025-11-09T04:36:22.335Z"
+      },
+      {
+        "name": "elec-303.jpg",
+        "size": 4824194,
+        "created_at": "2025-11-09T04:36:16.417Z"
+      },
+      {
+        "name": "elec-304.jpg",
+        "size": 8826254,
+        "created_at": "2025-11-09T04:36:18.079Z"
+      },
+      {
+        "name": "elec-305.jpg",
+        "size": 9555819,
+        "created_at": "2025-11-09T04:36:17.980Z"
+      },
+      {
+        "name": "elec-306.jpg",
+        "size": 4022001,
+        "created_at": "2025-11-09T04:36:23.903Z"
+      },
+      {
+        "name": "elec-307.jpg",
+        "size": 7391394,
+        "created_at": "2025-11-09T04:36:25.870Z"
+      },
+      {
+        "name": "elec-308.jpg",
+        "size": 9349993,
+        "created_at": "2025-11-09T04:36:25.305Z"
+      },
+      {
+        "name": "elec-309.jpg",
+        "size": 9964000,
+        "created_at": "2025-11-09T04:36:26.560Z"
+      },
+      {
+        "name": "elec-310.jpg",
+        "size": 6325402,
+        "created_at": "2025-11-09T04:36:24.649Z"
+      },
+      {
+        "name": "elec-311.jpg",
+        "size": 20256481,
+        "created_at": "2025-11-09T04:36:32.562Z"
+      },
+      {
+        "name": "elec-312.jpg",
+        "size": 11310528,
+        "created_at": "2025-11-09T04:36:33.155Z"
+      },
+      {
+        "name": "elec-313.jpg",
+        "size": 10656579,
+        "created_at": "2025-11-09T04:36:30.313Z"
+      },
+      {
+        "name": "elec-314.jpg",
+        "size": 8463417,
+        "created_at": "2025-11-09T04:36:30.818Z"
+      },
+      {
+        "name": "elec-315.jpg",
+        "size": 10585579,
+        "created_at": "2025-11-09T04:36:32.244Z"
+      },
+      {
+        "name": "elec-316.jpg",
+        "size": 12121893,
+        "created_at": "2025-11-09T04:36:38.852Z"
+      },
+      {
+        "name": "elec-317.jpg",
+        "size": 12343387,
+        "created_at": "2025-11-09T04:36:39.136Z"
+      },
+      {
+        "name": "elec-318.jpg",
+        "size": 12398192,
+        "created_at": "2025-11-09T04:36:36.912Z"
+      },
+      {
+        "name": "elec-319.jpg",
+        "size": 15519591,
+        "created_at": "2025-11-09T04:36:38.436Z"
+      },
+      {
+        "name": "elec-320.jpg",
+        "size": 9207690,
+        "created_at": "2025-11-09T04:36:38.061Z"
+      },
+      {
+        "name": "elec-321.jpg",
+        "size": 10436144,
+        "created_at": "2025-11-09T04:36:43.008Z"
+      },
+      {
+        "name": "elec-322.jpg",
+        "size": 10148878,
+        "created_at": "2025-11-09T04:36:42.405Z"
+      },
+      {
+        "name": "elec-323.jpg",
+        "size": 8778765,
+        "created_at": "2025-11-09T04:36:42.422Z"
+      },
+      {
+        "name": "elec-324.jpg",
+        "size": 4234636,
+        "created_at": "2025-11-09T04:36:41.492Z"
+      },
+      {
+        "name": "elec-325.jpg",
+        "size": 3627188,
+        "created_at": "2025-11-09T04:36:42.011Z"
+      },
+      {
+        "name": "elec-326.jpg",
+        "size": 8069046,
+        "created_at": "2025-11-09T04:36:46.931Z"
+      },
+      {
+        "name": "elec-327.jpg",
+        "size": 9772713,
+        "created_at": "2025-11-09T04:36:47.342Z"
+      },
+      {
+        "name": "elec-328.jpg",
+        "size": 8828841,
+        "created_at": "2025-11-09T04:36:47.214Z"
+      },
+      {
+        "name": "elec-329.jpg",
+        "size": 8673471,
+        "created_at": "2025-11-09T04:36:46.545Z"
+      },
+      {
+        "name": "elec-330.jpg",
+        "size": 6900506,
+        "created_at": "2025-11-09T04:36:44.401Z"
+      },
+      {
+        "name": "elec-331.jpg",
+        "size": 4116630,
+        "created_at": "2025-11-09T04:36:50.939Z"
+      },
+      {
+        "name": "elec-332.jpg",
+        "size": 6958075,
+        "created_at": "2025-11-09T04:36:50.776Z"
+      },
+      {
+        "name": "elec-333.jpg",
+        "size": 9697897,
+        "created_at": "2025-11-09T04:36:49.878Z"
+      },
+      {
+        "name": "elec-334.jpg",
+        "size": 8586677,
+        "created_at": "2025-11-09T04:36:51.203Z"
+      },
+      {
+        "name": "elec-335.jpg",
+        "size": 8060713,
+        "created_at": "2025-11-09T04:36:51.103Z"
+      },
+      {
+        "name": "elec-336.jpg",
+        "size": 8281268,
+        "created_at": "2025-11-09T04:36:55.009Z"
+      },
+      {
+        "name": "elec-337.jpg",
+        "size": 6194132,
+        "created_at": "2025-11-09T04:36:53.842Z"
+      },
+      {
+        "name": "elec-338.jpg",
+        "size": 9933818,
+        "created_at": "2025-11-09T04:36:54.228Z"
+      },
+      {
+        "name": "elec-339.jpg",
+        "size": 17806752,
+        "created_at": "2025-11-09T04:36:56.455Z"
+      },
+      {
+        "name": "elec-340.jpg",
+        "size": 18092814,
+        "created_at": "2025-11-09T04:36:57.006Z"
+      },
+      {
+        "name": "elec-341.jpg",
+        "size": 8576635,
+        "created_at": "2025-11-09T04:36:58.870Z"
+      },
+      {
+        "name": "elec-342.jpg",
+        "size": 15026577,
+        "created_at": "2025-11-09T04:36:59.772Z"
+      }
+    ],
+    "total_size": 4171493829
+  },
+  "processed_images": {
+    "found": 0,
+    "by_type": {
+      "hero": 0,
+      "og": 0,
+      "featured": 0,
+      "video": 0
+    },
+    "by_format": {
+      "jpg": 0,
+      "webp": 0,
+      "avif": 0
+    },
+    "files": [],
+    "total_size": 0
+  },
+  "logos": {
+    "found": 25,
+    "files": [
+      "247_icon.svg",
+      "banner_logo_1.svg",
+      "certifie_icon.svg",
+      "idf_icon_2.svg",
+      "idf_icon.svg",
+      "idftext_icon.svg",
+      "logo_1.svg",
+      "logo_1b.svg",
+      "logo_1c.svg",
+      "logo_1d.svg",
+      "logo_1e.svg",
+      "logo_1f.svg",
+      "logoicon-1.svg",
+      "logoicon-2.svg",
+      "logoicon-3.svg",
+      "logoicon-4.svg",
+      "logoicon-5.svg",
+      "logoicon-6.svg",
+      "logoicon-7.svg",
+      "logoicon-8.svg",
+      "logoicon-9.svg",
+      "tel_2.svg",
+      "tel_3.svg",
+      "tel.svg",
+      "trustpilot-seeklogo.svg"
+    ]
+  }
+}

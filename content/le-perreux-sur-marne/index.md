@@ -63,5 +63,24 @@ introText: >-
   rapidement dans toute la commune pour vos dépannages, rénovations et
   installations électriques.
 introGeneratedAt: '2025-11-12T17:05:55.232Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LE PERREUX-SUR-MARNE
+electriciansAvailable: 7
+localLandmark: Vitry-sur-Seine
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vitry-sur-Seine
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1229+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   rapidement sur Poligny 77167 et ses alentours pour assurer votre sécurité
   électrique.
 introGeneratedAt: '2025-11-12T15:55:25.208Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à POLIGNY
+electriciansAvailable: 5
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 904+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

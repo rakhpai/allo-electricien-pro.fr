@@ -1,11 +1,33 @@
 ---
-title: "❓ FAQ Électricien Paris | Questions Fréquentes Urgence & Dépannage"
+title: ❓ FAQ Électricien Paris | Questions Fréquentes Urgence & Dépannage
 slug: faq
 draft: false
-description: "Questions fréquentes sur nos services d'électricien à Paris : urgences 24/7, tarifs, délais, sécurité électrique. Toutes vos réponses sur le dépannage électrique. ☎️ 01 44 90 11 31"
+description: >-
+  Questions fréquentes sur nos services d'électricien à Paris : urgences 24/7,
+  tarifs, délais, sécurité électrique. Toutes vos réponses sur le dépannage
+  électrique. ☎️ 01 44 90 11 31
 sitemap:
   priority: 0.8
   changefreq: monthly
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à faq
+electriciansAvailable: 5
+localLandmark: Château de Versailles
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Versailles
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 800+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 
 # Questions Fréquentes - Électricien Paris

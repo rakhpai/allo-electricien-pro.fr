@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "processed": 8,
+    "successful": 2,
+    "failed": 6,
+    "totalTokens": 693,
+    "cost": 0.0013704000000000001,
+    "timestamp": "2025-11-12T18:36:10.383Z"
+  },
+  "results": [
+    {
+      "commune": "ORSONVILLE",
+      "slug": "orsonville",
+      "success": true,
+      "length": 470,
+      "text": "À Orsonville, dans les Yvelines, nous intervenons auprès des résidents des maisons individuelles et petits collectifs caractéristiques de cette commune rurale. Les installations électriques de ces habitations nécessitent un entretien régulier, des mises aux normes et des dépannages rapides pour garantir votre sécurité. Nos électriciens qualifiés sont disponibles pour tous vos besoins : rénovations, installations neuves ou interventions d'urgence, du lundi au samedi."
+    },
+    {
+      "commune": "PONTHÉVRARD",
+      "slug": "ponthevrard",
+      "success": true,
+      "length": 446,
+      "text": "À Ponthévrard, commune des Yvelines caractérisée par ses maisons individuelles et pavillons résidentiels, les installations électriques requièrent une expertise adaptée aux normes actuelles. Les propriétaires de ces habitations ont besoin de solutions fiables pour leurs rénovations, mises aux normes et dépannages urgents. Nos électriciens interviennent rapidement sur Ponthévrard et ses alentours, disponibles pour tous vos besoins électriques."
+    },
+    {
+      "commune": "SAINT-CYR-L'ECOLE",
+      "slug": "saint-cyr-l'ecole",
+      "success": false,
+      "error": "Missing city name \"SAINT-CYR-L'ECOLE\""
+    },
+    {
+      "commune": "SAINT-HILARION",
+      "slug": "saint-hilarion",
+      "success": false,
+      "error": "Too short: 361 chars (min 380), Missing city name \"SAINT-HILARION\""
+    },
+    {
+      "commune": "SAINT-OUEN-L'AUMONE",
+      "slug": "saint-ouen-l'aumone",
+      "success": false,
+      "error": "Missing city name \"SAINT-OUEN-L'AUMONE\""
+    },
+    {
+      "commune": "SAINT-REMY-L'HONORE",
+      "slug": "saint-remy-l'honore",
+      "success": false,
+      "error": "Missing city name \"SAINT-REMY-L'HONORE\""
+    },
+    {
+      "commune": "VERNEUIL-L'ETANG",
+      "slug": "verneuil-l'etang",
+      "success": false,
+      "error": "Missing city name \"VERNEUIL-L'ETANG\""
+    },
+    {
+      "commune": "VILLE-D'AVRAY",
+      "slug": "ville-d'avray",
+      "success": false,
+      "error": "Missing city name \"VILLE-D'AVRAY\""
+    }
+  ]
+}

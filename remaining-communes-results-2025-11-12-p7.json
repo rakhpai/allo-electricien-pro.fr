@@ -1,0 +1,76 @@
+{
+  "metadata": {
+    "processed": 10,
+    "successful": 4,
+    "failed": 6,
+    "totalTokens": 1345,
+    "cost": 0.0026248,
+    "timestamp": "2025-11-12T18:36:06.652Z"
+  },
+  "results": [
+    {
+      "commune": "ANDRESY",
+      "slug": "andresy",
+      "success": true,
+      "length": 401,
+      "text": "À Andresy, nos électriciens interviennent dans les maisons individuelles et petits collectifs typiques de cette commune des Yvelines. Les installations électriques de ces habitations anciennes et récentes nécessitent un entretien régulier, des mises aux normes et des dépannages urgents. Nos équipes sont disponibles rapidement pour tous vos besoins en électricité générale, rénovation et maintenance."
+    },
+    {
+      "commune": "BEAUVAIS",
+      "slug": "beauvais",
+      "success": true,
+      "length": 520,
+      "text": "À Beauvais, capitale de l'Oise, nous intervenons dans les maisons anciennes et les immeubles collectifs du centre-ville comme dans les résidences modernes des quartiers périphériques. Les installations électriques de ces habitats beauvaisiens requièrent une expertise particulière, notamment pour les mises aux normes et les rénovations des bâtiments historiques. Nos électriciens qualifiés sont disponibles rapidement pour tous vos dépannages, entretiens et créations de circuits électriques à Beauvais et ses environs."
+    },
+    {
+      "commune": "BOIS-D'ARCY",
+      "slug": "bois-d'arcy",
+      "success": false,
+      "error": "Missing city name \"BOIS-D'ARCY\""
+    },
+    {
+      "commune": "BOISSY-L'AILLERIE",
+      "slug": "boissy-l'aillerie",
+      "success": false,
+      "error": "Too long: 577 chars (max 550), Missing city name \"BOISSY-L'AILLERIE\""
+    },
+    {
+      "commune": "CHAMBLY",
+      "slug": "chambly",
+      "success": true,
+      "length": 422,
+      "text": "À Chambly, nos électriciens interviennent dans les maisons individuelles et petits collectifs caractéristiques de cette commune de l'Oise. Les installations électriques de ces habitations, souvent anciennes, nécessitent des mises aux normes régulières et des entretiens spécialisés pour garantir votre sécurité. Nos équipes restent disponibles rapidement pour tous vos dépannages, rénovations et installations électriques."
+    },
+    {
+      "commune": "COMPIEGNE",
+      "slug": "compiegne",
+      "success": true,
+      "length": 443,
+      "text": "À Compiègne, nos électriciens interviennent dans les maisons anciennes et les appartements haussmanniens qui caractérisent cette belle ville de l'Oise. Les installations électriques de ces bâtiments patrimoniaux nécessitent une expertise particulière pour garantir sécurité et conformité aux normes actuelles. Nos équipes qualifiées sont disponibles rapidement pour tous vos travaux d'électricité, du dépannage urgent à la rénovation complète."
+    },
+    {
+      "commune": "D'HUISON-LONGUEVILLE",
+      "slug": "d'huison-longueville",
+      "success": false,
+      "error": "Too long: 577 chars (max 550), Missing city name \"D'HUISON-LONGUEVILLE\""
+    },
+    {
+      "commune": "FLINS-NEUVE-ÉGLISE",
+      "slug": "flins-neuve-eglise",
+      "success": false,
+      "error": "Too short: 432 chars (min 440), Missing city name \"FLINS-NEUVE-ÉGLISE\""
+    },
+    {
+      "commune": "GERMIGNY-L'EVEQUE",
+      "slug": "germigny-l'eveque",
+      "success": false,
+      "error": "Missing city name \"GERMIGNY-L'EVEQUE\""
+    },
+    {
+      "commune": "JOUY-EN-JOSAS",
+      "slug": "jouy-en-josas",
+      "success": false,
+      "error": "Missing city name \"JOUY-EN-JOSAS\""
+    }
+  ]
+}

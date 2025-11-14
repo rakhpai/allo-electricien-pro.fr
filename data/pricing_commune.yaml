@@ -1,0 +1,131 @@
+# Pricing data for commune pages - All prices in Euros (€)
+# "À partir de" pricing structure for transparency
+
+base_rates:
+  emergency: 89
+  planned: 65
+  hourly_rate: 65
+  weekend_multiplier: 1.5
+  night_multiplier: 2
+
+emergency_services:
+  - name: "Panne de courant totale"
+    price_from: 89
+    duration: "30-45 min"
+    icon: "bolt"
+    description: "Diagnostic et réparation rapide pour restaurer l'électricité"
+
+  - name: "Disjoncteur qui saute"
+    price_from: 75
+    duration: "30 min"
+    icon: "exclamation-triangle"
+    description: "Identification et résolution du problème de surcharge"
+
+  - name: "Court-circuit urgent"
+    price_from: 120
+    duration: "1-2h"
+    icon: "fire"
+    description: "Intervention sécurisée pour éliminer tout risque"
+
+  - name: "Prise électrique défectueuse"
+    price_from: 65
+    duration: "30 min"
+    icon: "plug"
+    description: "Remplacement ou réparation de prise endommagée"
+
+  - name: "Câblage électrique endommagé"
+    price_from: 150
+    duration: "2-3h"
+    icon: "network-wired"
+    description: "Réparation complète du câblage défectueux"
+
+  - name: "Panne de chauffe-eau électrique"
+    price_from: 95
+    duration: "45 min"
+    icon: "temperature-hot"
+    description: "Diagnostic et remise en service du chauffe-eau"
+
+installation_services:
+  - name: "Installation de prises électriques"
+    price_from: 180
+    duration: "2h"
+    icon: "outlet"
+    description: "Installation professionnelle de nouvelles prises"
+
+  - name: "Tableau électrique neuf"
+    price_from: 350
+    duration: "4h"
+    icon: "server"
+    description: "Installation complète d'un tableau aux normes"
+
+  - name: "Éclairage LED moderne"
+    price_from: 220
+    duration: "2-3h"
+    icon: "lightbulb"
+    description: "Installation d'éclairage économique et design"
+
+  - name: "Installation domotique"
+    price_from: 450
+    duration: "4-6h"
+    icon: "home"
+    description: "Système intelligent pour votre maison connectée"
+
+  - name: "Borne de recharge véhicule"
+    price_from: 890
+    duration: "1 jour"
+    icon: "charging-station"
+    description: "Installation complète pour véhicule électrique"
+
+maintenance_services:
+  - name: "Mise aux normes électriques"
+    price_from: 199
+    duration: "3h"
+    icon: "certificate"
+    description: "Mise en conformité NF C 15-100"
+
+  - name: "Diagnostic électrique complet"
+    price_from: 149
+    duration: "2h"
+    icon: "clipboard-check"
+    description: "Contrôle approfondi de votre installation"
+
+  - name: "Vérification installation"
+    price_from: 89
+    duration: "1h"
+    icon: "search"
+    description: "Contrôle préventif de sécurité"
+
+  - name: "Remplacement disjoncteurs"
+    price_from: 120
+    duration: "1h"
+    icon: "toggle-on"
+    description: "Modernisation des protections électriques"
+
+# Trust elements for display
+trust_elements:
+  certifications:
+    - "Certifié Qualifelec"
+    - "Attestation décennale"
+    - "Formation sécurité électrique"
+
+  guarantees:
+    - "Garantie 1 an sur travaux"
+    - "Devis gratuit et transparent"
+    - "Intervention sous 30 minutes"
+
+  ratings:
+    average: 4.8
+    total_reviews: 1247
+    platform: "Google Reviews"
+
+# Additional information
+payment_methods:
+  - "Carte bancaire"
+  - "Espèces"
+  - "Chèque"
+  - "Virement"
+
+availability:
+  emergency: "24/7"
+  planned: "7j/7 de 7h à 22h"
+  response_time: "30 minutes"

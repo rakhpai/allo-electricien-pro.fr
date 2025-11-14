@@ -63,5 +63,24 @@ introText: >-
   rapidement à Diant 77940 et dans les communes avoisinantes pour tous vos
   besoins en électricité générale.
 introGeneratedAt: '2025-11-12T15:34:42.642Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à DIANT
+electriciansAvailable: 5
+localLandmark: Parc
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 821+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

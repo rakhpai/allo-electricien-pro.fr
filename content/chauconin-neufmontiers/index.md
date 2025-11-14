@@ -64,5 +64,24 @@ introText: >-
   intervenons rapidement sur Chauconin-Neufmontiers et les communes
   environnantes pour assurer la sécurité de vos installations.
 introGeneratedAt: '2025-11-12T15:29:36.057Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à CHAUCONIN-NEUFMONTIERS
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1471+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

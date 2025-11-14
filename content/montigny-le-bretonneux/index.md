@@ -64,5 +64,24 @@ introText: >-
   rapidement dans le 78180 pour assurer la sécurité de vos installations et
   maintenir la continuité de vos services électriques.
 introGeneratedAt: '2025-11-12T17:25:09.470Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MONTIGNY-LE-BRETONNEUX
+electriciansAvailable: 7
+localLandmark: Saint-Germain-en-Laye
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Saint-Germain-en-Laye
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 896+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

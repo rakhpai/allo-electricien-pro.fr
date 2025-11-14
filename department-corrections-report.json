@@ -1,0 +1,1099 @@
+{
+  "generated_at": "2025-11-10T17:58:25.507Z",
+  "total_analyzed": 1245,
+  "cities_with_wrong_dept": 79,
+  "threshold": "75% cross-department links",
+  "corrections": [
+    {
+      "slug": "bezons",
+      "currentDept": "77",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 4,
+        "92": 2,
+        "94": 1,
+        "95": 1
+      }
+    },
+    {
+      "slug": "bievres",
+      "currentDept": "78",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 8
+      }
+    },
+    {
+      "slug": "ablon-sur-seine",
+      "currentDept": "75",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 2,
+        "93": 1,
+        "94": 5
+      }
+    },
+    {
+      "slug": "alfortville",
+      "currentDept": "92",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "94": 8
+      }
+    },
+    {
+      "slug": "andresy",
+      "currentDept": "77",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 4,
+        "92": 2,
+        "95": 2
+      }
+    },
+    {
+      "slug": "antony",
+      "currentDept": "77",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 3,
+        "92": 1,
+        "94": 3,
+        "null": 1
+      }
+    },
+    {
+      "slug": "argenteuil",
+      "currentDept": "94",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 2,
+        "92": 2,
+        "95": 4
+      }
+    },
+    {
+      "slug": "bagneux",
+      "currentDept": "91",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 1,
+        "92": 3,
+        "93": 1,
+        "94": 3
+      }
+    },
+    {
+      "slug": "bagnolet",
+      "currentDept": "95",
+      "inferredDept": "93",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "77": 1,
+        "93": 4,
+        "94": 2
+      }
+    },
+    {
+      "slug": "beauchamp",
+      "currentDept": "75",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "92": 1,
+        "95": 7
+      }
+    },
+    {
+      "slug": "beaumont-sur-oise",
+      "currentDept": "93",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 1,
+        "92": 1,
+        "95": 6
+      }
+    },
+    {
+      "slug": "bessancourt",
+      "currentDept": "92",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "95": 7
+      }
+    },
+    {
+      "slug": "beynes",
+      "currentDept": "95",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 8
+      }
+    },
+    {
+      "slug": "blandy",
+      "currentDept": "91",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 8
+      }
+    },
+    {
+      "slug": "bures-sur-yvette",
+      "currentDept": "77",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 8
+      }
+    },
+    {
+      "slug": "cachan",
+      "currentDept": "78",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 1,
+        "94": 7
+      }
+    },
+    {
+      "slug": "carrieres-sous-poissy",
+      "currentDept": "95",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "77": 1,
+        "78": 4,
+        "92": 2
+      }
+    },
+    {
+      "slug": "cergy",
+      "currentDept": "93",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "95": 8
+      }
+    },
+    {
+      "slug": "cesson",
+      "currentDept": "95",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 8
+      }
+    },
+    {
+      "slug": "chambly",
+      "currentDept": "92",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 1,
+        "93": 1,
+        "95": 6
+      }
+    },
+    {
+      "slug": "champagne-sur-oise",
+      "currentDept": "91",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "92": 1,
+        "93": 1,
+        "95": 6
+      }
+    },
+    {
+      "slug": "chatenay-malabry",
+      "currentDept": "null",
+      "inferredDept": "92",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 1,
+        "91": 1,
+        "92": 3,
+        "93": 1,
+        "94": 2
+      }
+    },
+    {
+      "slug": "chaussy",
+      "currentDept": "95",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 8
+      }
+    },
+    {
+      "slug": "chevilly-larue",
+      "currentDept": "92",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 1,
+        "94": 7
+      }
+    },
+    {
+      "slug": "clamart",
+      "currentDept": "93",
+      "inferredDept": "92",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "91": 1,
+        "92": 5,
+        "null": 1
+      }
+    },
+    {
+      "slug": "clichy-sous-bois",
+      "currentDept": "95",
+      "inferredDept": "93",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 3,
+        "93": 5
+      }
+    },
+    {
+      "slug": "courcouronnes",
+      "currentDept": "95",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 7,
+        "94": 1
+      }
+    },
+    {
+      "slug": "creteil",
+      "currentDept": "75",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 1,
+        "94": 6,
+        "95": 1
+      }
+    },
+    {
+      "slug": "mery-sur-marne",
+      "currentDept": "77",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "93": 2,
+        "94": 4,
+        "95": 1
+      }
+    },
+    {
+      "slug": "moussy",
+      "currentDept": "95",
+      "inferredDept": "75",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 8
+      }
+    },
+    {
+      "slug": "aubervilliers",
+      "currentDept": "77",
+      "inferredDept": "93",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "93": 7
+      }
+    },
+    {
+      "slug": "auvers-sur-oise",
+      "currentDept": "94",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "92": 1,
+        "95": 7
+      }
+    },
+    {
+      "slug": "bailly-romainvilliers",
+      "currentDept": "78",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 8
+      }
+    },
+    {
+      "slug": "ballancourt-sur-essonne",
+      "currentDept": "92",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 8
+      }
+    },
+    {
+      "slug": "beauvais",
+      "currentDept": "91",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 8
+      }
+    },
+    {
+      "slug": "boissy-saint-leger",
+      "currentDept": "95",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "77": 1,
+        "93": 1,
+        "94": 5
+      }
+    },
+    {
+      "slug": "bondoufle",
+      "currentDept": "94",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "91": 7,
+        "95": 1
+      }
+    },
+    {
+      "slug": "bougival",
+      "currentDept": "91",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 1,
+        "78": 4,
+        "92": 3
+      }
+    },
+    {
+      "slug": "bry-sur-marne",
+      "currentDept": "91",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 2,
+        "93": 1,
+        "94": 5
+      }
+    },
+    {
+      "slug": "bussy-saint-georges",
+      "currentDept": "94",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 8
+      }
+    },
+    {
+      "slug": "chambourcy",
+      "currentDept": "75",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 7,
+        "95": 1
+      }
+    },
+    {
+      "slug": "champs-sur-marne",
+      "currentDept": "75",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "77": 7,
+        "93": 1
+      }
+    },
+    {
+      "slug": "chateau-landon",
+      "currentDept": "77",
+      "inferredDept": "75",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 8
+      }
+    },
+    {
+      "slug": "clichy",
+      "currentDept": "92",
+      "inferredDept": "75",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 7,
+        "93": 1
+      }
+    },
+    {
+      "slug": "compiegne",
+      "currentDept": "93",
+      "inferredDept": "75",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 8
+      }
+    },
+    {
+      "slug": "croissy-sur-seine",
+      "currentDept": "77",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "78": 5,
+        "91": 1,
+        "92": 2
+      }
+    },
+    {
+      "slug": "crosne",
+      "currentDept": "93",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 0,
+      "crossDeptLinks": 8,
+      "crossPct": 100,
+      "linksByDept": {
+        "75": 1,
+        "78": 1,
+        "91": 2,
+        "94": 4
+      }
+    },
+    {
+      "slug": "acheres",
+      "currentDept": "92",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 1,
+        "78": 5,
+        "92": 1,
+        "95": 1
+      }
+    },
+    {
+      "slug": "arnouville",
+      "currentDept": "93",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "93": 1,
+        "95": 7
+      }
+    },
+    {
+      "slug": "bois-colombes",
+      "currentDept": "77",
+      "inferredDept": "92",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 1,
+        "92": 6,
+        "94": 1
+      }
+    },
+    {
+      "slug": "brunoy",
+      "currentDept": "78",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "78": 1,
+        "91": 3,
+        "93": 1,
+        "94": 3
+      }
+    },
+    {
+      "slug": "chanteloup-les-vignes",
+      "currentDept": "92",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 1,
+        "78": 4,
+        "92": 1,
+        "95": 2
+      }
+    },
+    {
+      "slug": "perigny",
+      "currentDept": "94",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "78": 1,
+        "91": 6,
+        "94": 1
+      }
+    },
+    {
+      "slug": "asnieres-sur-seine",
+      "currentDept": "77",
+      "inferredDept": "92",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 1,
+        "92": 7
+      }
+    },
+    {
+      "slug": "boussy-saint-antoine",
+      "currentDept": "78",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "78": 1,
+        "91": 5,
+        "94": 2
+      }
+    },
+    {
+      "slug": "conflans-sainte-honorine",
+      "currentDept": "78",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 1,
+        "78": 1,
+        "92": 2,
+        "95": 4
+      }
+    },
+    {
+      "slug": "gournay-sur-marne",
+      "currentDept": "93",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "75": 1,
+        "77": 6,
+        "93": 1
+      }
+    },
+    {
+      "slug": "paris-6",
+      "currentDept": "75",
+      "inferredDept": "93",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "75": 1,
+        "77": 2,
+        "93": 5
+      }
+    },
+    {
+      "slug": "seraincourt",
+      "currentDept": "95",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "78": 7,
+        "95": 1
+      }
+    },
+    {
+      "slug": "tremblay-en-france",
+      "currentDept": "93",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 4,
+        "93": 1,
+        "95": 3
+      }
+    },
+    {
+      "slug": "villeneuve-la-garenne",
+      "currentDept": "92",
+      "inferredDept": "93",
+      "totalLinks": 8,
+      "sameDeptLinks": 1,
+      "crossDeptLinks": 7,
+      "crossPct": 88,
+      "linksByDept": {
+        "77": 1,
+        "92": 1,
+        "93": 4,
+        "95": 2
+      }
+    },
+    {
+      "slug": "boullay-les-troux",
+      "currentDept": "91",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "78": 6,
+        "91": 2
+      }
+    },
+    {
+      "slug": "champigny-sur-marne",
+      "currentDept": "77",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 2,
+        "91": 1,
+        "94": 5
+      }
+    },
+    {
+      "slug": "chatillon",
+      "currentDept": "92",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "75": 1,
+        "78": 1,
+        "91": 1,
+        "92": 2,
+        "93": 1,
+        "94": 2
+      }
+    },
+    {
+      "slug": "ecquevilly",
+      "currentDept": "78",
+      "inferredDept": "95",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 1,
+        "78": 2,
+        "92": 1,
+        "95": 4
+      }
+    },
+    {
+      "slug": "montreuil",
+      "currentDept": "93",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "75": 1,
+        "77": 1,
+        "93": 2,
+        "94": 3,
+        "95": 1
+      }
+    },
+    {
+      "slug": "nanteau-sur-essonne",
+      "currentDept": "77",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 2,
+        "91": 6
+      }
+    },
+    {
+      "slug": "ormesson",
+      "currentDept": "77",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "75": 1,
+        "77": 2,
+        "94": 5
+      }
+    },
+    {
+      "slug": "paris-3",
+      "currentDept": "75",
+      "inferredDept": "92",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "75": 2,
+        "92": 6
+      }
+    },
+    {
+      "slug": "saint-simeon",
+      "currentDept": "77",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 2,
+        "91": 1,
+        "94": 5
+      }
+    },
+    {
+      "slug": "villecresnes",
+      "currentDept": "94",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "78": 2,
+        "91": 4,
+        "94": 2
+      }
+    },
+    {
+      "slug": "carrieres-sur-seine",
+      "currentDept": "92",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 1,
+        "78": 5,
+        "92": 2
+      }
+    },
+    {
+      "slug": "chatou",
+      "currentDept": "92",
+      "inferredDept": "78",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 1,
+        "78": 4,
+        "91": 1,
+        "92": 2
+      }
+    },
+    {
+      "slug": "fontenay-aux-roses",
+      "currentDept": "92",
+      "inferredDept": "92",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "78": 1,
+        "91": 2,
+        "92": 2,
+        "93": 1,
+        "94": 1,
+        "null": 1
+      }
+    },
+    {
+      "slug": "lieusaint",
+      "currentDept": "77",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 2,
+        "78": 1,
+        "91": 4,
+        "94": 1
+      }
+    },
+    {
+      "slug": "mandres-les-roses",
+      "currentDept": "94",
+      "inferredDept": "91",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "78": 1,
+        "91": 5,
+        "94": 2
+      }
+    },
+    {
+      "slug": "santeny",
+      "currentDept": "94",
+      "inferredDept": "77",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "75": 1,
+        "77": 4,
+        "94": 2,
+        "95": 1
+      }
+    },
+    {
+      "slug": "sceaux",
+      "currentDept": "92",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 1,
+        "91": 2,
+        "92": 2,
+        "94": 2,
+        "null": 1
+      }
+    },
+    {
+      "slug": "verrieres-le-buisson",
+      "currentDept": "91",
+      "inferredDept": "94",
+      "totalLinks": 8,
+      "sameDeptLinks": 2,
+      "crossDeptLinks": 6,
+      "crossPct": 75,
+      "linksByDept": {
+        "77": 1,
+        "91": 2,
+        "92": 2,
+        "93": 1,
+        "94": 2
+      }
+    }
+  ],
+  "sql_commands": []
+}

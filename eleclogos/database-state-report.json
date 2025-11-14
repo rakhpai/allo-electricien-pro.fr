@@ -1,0 +1,66 @@
+{
+  "timestamp": "2025-11-09T06:33:58.331Z",
+  "tables": {
+    "sites": {
+      "exists": true,
+      "count": 1
+    },
+    "source_images": {
+      "exists": true,
+      "count": 0
+    },
+    "image_variants": {
+      "exists": true,
+      "count": 0
+    },
+    "image_usage": {
+      "exists": true,
+      "count": 0
+    },
+    "image_generation_queue": {
+      "exists": true,
+      "count": 0
+    },
+    "image_statistics": {
+      "exists": true,
+      "count": 0
+    }
+  },
+  "sites": [
+    {
+      "id": "a46f86b0-835d-4a67-a1eb-599db503161f",
+      "domain": "allo-electricien.pro",
+      "name": "Allo Électricien Pro",
+      "description": "Service d'urgence électrique en Île-de-France",
+      "watermark_config": {
+        "cta": {
+          "path": "logos/tel_3.svg",
+          "size": 1050,
+          "opacity": 1,
+          "position": "bottom-right",
+          "dropShadow": true,
+          "maxWidthPercent": 0.6
+        },
+        "logo": {
+          "path": "logos/logoicon-9.svg",
+          "size": 240,
+          "opacity": 1,
+          "position": "top-left"
+        },
+        "brandColor": "#dc2626"
+      },
+      "active": true,
+      "created_at": "2025-11-09T04:49:06.184486+00:00",
+      "updated_at": "2025-11-09T04:49:06.184486+00:00"
+    }
+  ],
+  "summary": {
+    "sites_count": 1,
+    "sources_count": 0,
+    "sources_complete": false,
+    "variants_count": 0,
+    "variants_expected": 4104,
+    "usage_count": 0,
+    "ready_for_generation": false
+  }
+}

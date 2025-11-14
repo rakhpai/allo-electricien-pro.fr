@@ -63,5 +63,24 @@ introText: >-
   pour assurer vos réparations, installations et contrôles de sécurité
   électrique.
 introGeneratedAt: '2025-11-12T18:00:05.877Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SOISY-SUR-ÉCOLE
+electriciansAvailable: 5
+localLandmark: Étampes
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Étampes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 944+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

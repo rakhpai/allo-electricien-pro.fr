@@ -63,5 +63,24 @@ introText: >-
   local. Nous intervenons rapidement sur Guignes 77390 et ses alentours pour
   tous vos besoins en électricité générale et dépannage d'urgence.
 introGeneratedAt: '2025-11-12T15:40:15.432Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GUIGNES
+electriciansAvailable: 5
+localLandmark: Melun
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Melun
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1156+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

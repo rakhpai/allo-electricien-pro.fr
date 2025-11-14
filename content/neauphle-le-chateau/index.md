@@ -63,5 +63,24 @@ introText: >-
   Nos électriciens interviennent rapidement dans la région pour assurer vos
   dépannages, installations et travaux de conformité électrique.
 introGeneratedAt: '2025-11-12T17:25:37.642Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à NEAUPHLE-LE-CHATEAU
+electriciansAvailable: 8
+localLandmark: Château
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1126+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

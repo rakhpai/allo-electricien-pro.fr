@@ -64,5 +64,24 @@ introText: >-
   électriciens couvrent l'ensemble du secteur 77660 avec une disponibilité
   immédiate pour tous vos dépannages et installations.
 introGeneratedAt: '2025-11-12T15:28:21.003Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à CHANGIS-SUR-MARNE
+electriciansAvailable: 6
+localLandmark: Château de Blandy
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Blandy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1404+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

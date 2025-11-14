@@ -1,16 +1,87 @@
 # Robots.txt for allo-electricien.pro
 # Generated to optimize SEO and video discoverability
+# Updated 2025 with AI crawler rules
 
+# === SEARCH ENGINE CRAWLERS ===
 User-agent: *
 Allow: /
+Crawl-delay: 1
 
-# Sitemaps
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# === AI CRAWLERS - ALLOWED ===
+# We allow AI crawlers to index our content for better AI search visibility
+
+# OpenAI GPT
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 2
+
+# OpenAI SearchGPT
+User-agent: OAI-SearchBot
+Allow: /
+Crawl-delay: 2
+
+# Anthropic Claude
+User-agent: anthropic-ai
+User-agent: Claude-Web
+Allow: /
+Crawl-delay: 2
+
+# Google Bard/Gemini
+User-agent: Google-Extended
+Allow: /
+Crawl-delay: 2
+
+# Microsoft Copilot
+User-agent: CCBot
+Allow: /
+Crawl-delay: 2
+
+# Perplexity AI
+User-agent: PerplexityBot
+Allow: /
+Crawl-delay: 2
+
+# Common Crawl (used by many AI systems)
+User-agent: CCBot
+Allow: /
+Crawl-delay: 2
+
+# Facebook AI
+User-agent: FacebookBot
+Allow: /
+Crawl-delay: 2
+
+# === DISALLOW SPECIFIC PATHS ===
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /cgi-bin/
+Disallow: /*.json$
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+Disallow: /*?*page=
+
+# === SITEMAPS ===
+Sitemap: https://allo-electricien.pro/sitemap_index.xml
 Sitemap: https://allo-electricien.pro/sitemap.xml
 Sitemap: https://allo-electricien.pro/video_sitemap.xml
 
-# Crawl-delay (optional, adjust if needed)
-# Crawl-delay: 1
-
-# Disallow certain paths (if any)
-# Disallow: /admin/
-# Disallow: /private/
+# === SPECIAL INSTRUCTIONS ===
+# Allow all crawlers to access CSS and JS for proper rendering
+User-agent: *
+Allow: /*.css
+Allow: /*.js
+Allow: /images/
+Allow: /videos-downloaded/
+Allow: /eleclogos/

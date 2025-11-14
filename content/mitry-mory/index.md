@@ -62,5 +62,24 @@ introText: >-
   et conformes aux normes actuelles. Nous couvrons l'ensemble du secteur 77290
   avec une disponibilité rapide pour tous vos dépannages et travaux électriques.
 introGeneratedAt: '2025-11-12T15:49:41.863Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MITRY-MORY
+electriciansAvailable: 7
+localLandmark: Château de Blandy
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Blandy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1346+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

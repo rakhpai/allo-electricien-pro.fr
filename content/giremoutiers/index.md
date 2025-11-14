@@ -62,5 +62,24 @@ introText: >-
   du bâti local. Nous intervenons rapidement sur Giremoutiers et ses alentours
   pour tous vos besoins en électricité générale et dépannage d'urgence.
 introGeneratedAt: '2025-11-12T15:38:54.878Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GIREMOUTIERS
+electriciansAvailable: 8
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 860+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

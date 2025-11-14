@@ -62,5 +62,24 @@ introText: >-
   préventive. Nos électriciens interviennent rapidement sur Roinville pour
   assurer vos dépannages, rénovations et conformité électrique.
 introGeneratedAt: '2025-11-12T17:56:23.820Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ROINVILLE
+electriciansAvailable: 8
+localLandmark: Évry-Courcouronnes
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Évry-Courcouronnes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1041+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

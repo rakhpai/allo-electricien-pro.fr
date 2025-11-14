@@ -62,5 +62,24 @@ introText: >-
   Nos électriciens interviennent rapidement sur Maffliers et ses alentours pour
   tous vos travaux d'installation, maintenance et dépannage électrique.
 introGeneratedAt: '2025-11-12T18:22:23.610Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MAFFLIERS
+electriciansAvailable: 7
+localLandmark: Château d'Écouen
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château d'Écouen
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 912+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

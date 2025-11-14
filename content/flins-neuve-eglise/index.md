@@ -62,5 +62,24 @@ introText: >-
   dépannages urgents, d'installations électriques pour pavillons, de mises aux
   normes ou de conseils énergétiques adaptés aux spécificités de votre habitat
   traditionnel local.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FLINS-NEUVE-ÉGLISE
+electriciansAvailable: 6
+localLandmark: Église
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Église
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1358+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

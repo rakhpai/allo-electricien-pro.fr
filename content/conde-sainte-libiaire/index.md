@@ -64,5 +64,24 @@ introText: >-
   code postal 77450 avec des délais d'intervention rapides et une connaissance
   approfondie des spécificités du territoire.
 introGeneratedAt: '2025-11-12T15:31:37.016Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à CONDÉ-SAINTE-LIBIAIRE
+electriciansAvailable: 7
+localLandmark: Forêt de Fontainebleau
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1332+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

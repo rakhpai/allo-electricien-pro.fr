@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "processed": 10,
+    "successful": 3,
+    "failed": 7,
+    "totalTokens": 990,
+    "cost": 0.0020239999999999998,
+    "timestamp": "2025-11-12T18:36:15.218Z"
+  },
+  "results": [
+    {
+      "commune": "LAVERRIERE",
+      "slug": "la-verriere",
+      "success": true,
+      "length": 460,
+      "text": "À LAVERRIERE, commune de l'Oise caractérisée par ses maisons individuelles et propriétés rurales, les installations électriques requièrent une expertise particulière. Les habitations anciennes et modernes de la région demandent des mises aux normes régulières et des interventions adaptées à leurs spécificités. Nos électriciens interviennent rapidement sur LAVERRIERE et ses alentours, disponibles pour vos dépannages, installations et entretiens électriques."
+    },
+    {
+      "commune": "LE PLESSIS-L'EVEQUE",
+      "slug": "le-plessis-l'eveque",
+      "success": false,
+      "error": "Too short: 415 chars (min 440), Missing city name \"LE PLESSIS-L'EVEQUE\""
+    },
+    {
+      "commune": "L'ETANG-LA-VILLE",
+      "slug": "l'etang-la-ville",
+      "success": false,
+      "error": "Missing city name \"L'ETANG-LA-VILLE\""
+    },
+    {
+      "commune": "L'HAY-LES-ROSES",
+      "slug": "l'hay-les-roses",
+      "success": false,
+      "error": "Missing city name \"L'HAY-LES-ROSES\""
+    },
+    {
+      "commune": "L'ILE-SAINT-DENIS",
+      "slug": "l'ile-saint-denis",
+      "success": false,
+      "error": "Missing city name \"L'ILE-SAINT-DENIS\""
+    },
+    {
+      "commune": "LIMAY",
+      "slug": "limay",
+      "success": true,
+      "length": 419,
+      "text": "À Limay, ville dynamique des Yvelines, nous intervenons dans les pavillons et petits collectifs caractéristiques de cette commune riveraine de la Seine. Les installations électriques de ces habitations requièrent un entretien régulier et des mises aux normes pour garantir votre sécurité. Nos électriciens qualifiés sont disponibles rapidement pour tous vos dépannages, rénovations et installations, du lundi au samedi."
+    },
+    {
+      "commune": "L'ISLE-ADAM",
+      "slug": "l'isle-adam",
+      "success": false,
+      "error": "Missing city name \"L'ISLE-ADAM\""
+    },
+    {
+      "commune": "MARGNY-LES-COMPIEGNE",
+      "slug": "margny-les-compiegne",
+      "success": false,
+      "error": "Missing city name \"MARGNY-LES-COMPIEGNE\""
+    },
+    {
+      "commune": "MONTAINVILLE",
+      "slug": "montainville",
+      "success": true,
+      "length": 493,
+      "text": "À Montainville, commune des Yvelines caractérisée par ses maisons individuelles et ses petits collectifs, les installations électriques demandent un savoir-faire adapté aux spécificités de l'habitat local. Qu'il s'agisse de rénovations, de mises aux normes ou de dépannages d'urgence, nos électriciens maîtrisent les défis techniques propres à votre région. Disponibles rapidement et réactifs, nous intervenons chez vous pour tous vos besoins en électricité, du diagnostic au chantier complet."
+    },
+    {
+      "commune": "MONTFORT-L'AMAURY",
+      "slug": "montfort-l'amaury",
+      "success": false,
+      "error": "Missing city name \"MONTFORT-L'AMAURY\""
+    }
+  ]
+}

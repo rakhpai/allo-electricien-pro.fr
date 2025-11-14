@@ -62,5 +62,24 @@ introText: >-
   spécifiques du secteur. Nos électriciens interviennent rapidement dans toute
   la zone pour assurer vos dépannages, rénovations et conformités électriques.
 introGeneratedAt: '2025-11-12T17:27:24.181Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à PERDREAUVILLE
+electriciansAvailable: 5
+localLandmark: Mantes-la-Jolie
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Mantes-la-Jolie
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1224+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

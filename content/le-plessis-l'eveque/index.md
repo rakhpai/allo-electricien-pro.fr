@@ -64,5 +64,24 @@ introText: >-
   une exploitation agricole, en proposant des interventions sur mesure allant du
   dépannage rapide à la rénovation complète des installations électriques,
   toujours avec le souci de la sécurité et de la performance énergétique.
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LE PLESSIS-L'EVEQUE
+electriciansAvailable: 6
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 927+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -64,5 +64,24 @@ introText: >-
   Fontaine-le-Port et ses alentours, disponibles pour tous vos besoins
   électriques domestiques et tertiaires.
 introGeneratedAt: '2025-11-12T15:37:13.777Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FONTAINE-LE-PORT
+electriciansAvailable: 7
+localLandmark: Melun
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Melun
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1180+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

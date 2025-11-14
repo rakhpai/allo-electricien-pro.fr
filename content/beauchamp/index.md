@@ -63,5 +63,24 @@ introText: >-
   rapidement dans tout Beauchamp pour assurer l'entretien, la rénovation et le
   dépannage de vos installations électriques.
 introGeneratedAt: '2025-11-12T18:15:41.072Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BEAUCHAMP
+electriciansAvailable: 8
+localLandmark: Argenteuil
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Argenteuil
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1132+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

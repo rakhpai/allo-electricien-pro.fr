@@ -62,5 +62,24 @@ introText: >-
   votre sécurité électrique. Nos électriciens interviennent rapidement sur Messy
   et ses alentours pour tous vos dépannages, installations et mises aux normes.
 introGeneratedAt: '2025-11-12T15:49:33.435Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MESSY
+electriciansAvailable: 5
+localLandmark: Parc
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 823+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

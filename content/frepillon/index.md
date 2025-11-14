@@ -64,5 +64,24 @@ introText: >-
   sur l'ensemble de Frépillon pour assurer la sécurité de vos installations et
   répondre à tous vos besoins électriques.
 introGeneratedAt: '2025-11-12T16:28:22.640Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FREPILLON
+electriciansAvailable: 5
+localLandmark: Montmorency
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Montmorency
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1328+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

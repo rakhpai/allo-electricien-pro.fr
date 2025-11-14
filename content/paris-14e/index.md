@@ -63,6 +63,25 @@ introText: >-
   rapidement dans tout Paris 14e pour diagnostiquer, installer et entretenir vos
   systèmes électriques avec professionnalisme.
 introGeneratedAt: '2025-11-12T15:15:23.572Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 14e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -85,6 +104,23 @@ introGeneratedAt: '2025-11-12T15:15:23.572Z'
 ### Quartiers Couverts Paris 14e
 
 **Secteurs :** Montparnasse, Denfert, Alésia
+
+### 🏘️ Arrondissements Voisins de Paris 14e
+
+**Service rapide également dans :**
+- [Urgence Paris 5e](/paris-5e/) - Port-Royal, Val-de-Grâce
+- [Électricien Paris 6e](/paris-6e/) - Montparnasse, Vavin
+- [Dépannage Paris 13e](/paris-13e/) - Place d'Italie, Tolbiac
+- [SOS électricien Paris 15e](/paris-15e/) - Plaisance, Pernety
+- [Électricien Montrouge](/montrouge/) - Porte d'Orléans
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

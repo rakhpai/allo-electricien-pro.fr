@@ -1,0 +1,52 @@
+{
+  "contentUpdates": [
+    {
+      "slug": "beauvais",
+      "success": true,
+      "action": "set_to_draft"
+    },
+    {
+      "slug": "chambly",
+      "success": true,
+      "action": "set_to_draft"
+    },
+    {
+      "slug": "compiegne",
+      "success": true,
+      "action": "set_to_draft"
+    },
+    {
+      "slug": "la-verriere",
+      "success": true,
+      "action": "set_to_draft"
+    },
+    {
+      "slug": "margny-les-compiegne",
+      "success": true,
+      "action": "set_to_draft"
+    }
+  ],
+  "databaseChecks": [
+    {
+      "slug": "beauvais",
+      "error": "column pages.slug does not exist"
+    },
+    {
+      "slug": "chambly",
+      "error": "column pages.slug does not exist"
+    },
+    {
+      "slug": "compiegne",
+      "error": "column pages.slug does not exist"
+    },
+    {
+      "slug": "la-verriere",
+      "error": "column pages.slug does not exist"
+    },
+    {
+      "slug": "margny-les-compiegne",
+      "error": "column pages.slug does not exist"
+    }
+  ],
+  "databaseUpdates": []
+}

@@ -64,5 +64,24 @@ introText: >-
   le 78640 pour tous vos besoins en dépannage, installation et conformité
   électrique.
 introGeneratedAt: '2025-11-12T17:30:48.044Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-GERMAIN-DE-LA-GRANGE
+electriciansAvailable: 8
+localLandmark: Montfort-l'Amaury
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Montfort-l'Amaury
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1044+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

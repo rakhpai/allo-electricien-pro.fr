@@ -63,5 +63,24 @@ introText: >-
   rapidement sur l'ensemble de Bréau et ses alentours pour tous vos dépannages,
   installations et mises aux normes électriques.
 introGeneratedAt: '2025-11-12T15:25:16.279Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BRÉAU
+electriciansAvailable: 5
+localLandmark: Parc
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 820+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

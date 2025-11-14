@@ -1,0 +1,11 @@
+{
+  "batch_id": "1",
+  "start_index": 425,
+  "end_index": 519,
+  "total_pages": 94,
+  "pages_processed": 94,
+  "variants_generated": 1054,
+  "variants_skipped": 74,
+  "errors": [],
+  "total_size": 122789416
+}

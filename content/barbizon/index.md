@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement dans toute la commune pour assurer
   dépannages, rénovations et conformité de vos installations électriques.
 introGeneratedAt: '2025-11-12T16:16:38.623Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BARBIZON
+electriciansAvailable: 8
+localLandmark: Forêt
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1116+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

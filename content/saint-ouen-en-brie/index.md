@@ -63,5 +63,24 @@ introText: >-
   normes électriques. Nos équipes interviennent rapidement dans toute la commune
   77720 et ses alentours pour assurer votre sécurité électrique.
 introGeneratedAt: '2025-11-12T16:00:36.494Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-OUEN-EN-BRIE
+electriciansAvailable: 8
+localLandmark: Meaux
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Meaux
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1038+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

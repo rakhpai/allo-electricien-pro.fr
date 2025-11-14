@@ -64,5 +64,24 @@ introText: >-
   Saint-Mard et ses alentours pour tous vos besoins en dépannage, installation
   et conseils électriques.
 introGeneratedAt: '2025-11-12T16:23:00.420Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-MARD
+electriciansAvailable: 5
+localLandmark: Vaux-le-Vicomte
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vaux-le-Vicomte
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1021+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

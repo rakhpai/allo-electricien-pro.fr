@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la zone pour assurer vos dépannages,
   rénovations et installations en toute sécurité.
 introGeneratedAt: '2025-11-12T18:12:42.890Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ORMESSON-SUR-MARNE
+electriciansAvailable: 8
+localLandmark: Ivry-sur-Seine
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Ivry-sur-Seine
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1319+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

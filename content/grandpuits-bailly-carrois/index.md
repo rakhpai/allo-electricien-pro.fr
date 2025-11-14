@@ -64,5 +64,24 @@ introText: >-
   interviennent rapidement sur Grandpuits-Bailly-Carrois et ses alentours pour
   garantir votre sécurité et votre confort électrique.
 introGeneratedAt: '2025-11-12T15:39:24.059Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GRANDPUITS-BAILLY-CARROIS
+electriciansAvailable: 6
+localLandmark: Coulommiers
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1485+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la zone pour assurer dépannages,
   rénovations et mises aux normes de vos installations.
 introGeneratedAt: '2025-11-12T17:33:00.421Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SOINDRES
+electriciansAvailable: 7
+localLandmark: Vallée de Chevreuse
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vallée de Chevreuse
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1489+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

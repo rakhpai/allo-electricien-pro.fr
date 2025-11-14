@@ -63,5 +63,24 @@ introText: >-
   pour assurer l'entretien, la réparation et l'installation de vos équipements
   électriques.
 introGeneratedAt: '2025-11-12T16:45:22.312Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à DAVRON
+electriciansAvailable: 7
+localLandmark: Vallée de Chevreuse
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vallée de Chevreuse
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1455+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

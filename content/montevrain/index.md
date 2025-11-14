@@ -63,5 +63,24 @@ introText: >-
   rapidement sur l'ensemble du 77144 et ses alentours, garantissant un service
   de proximité fiable et disponible selon vos besoins.
 introGeneratedAt: '2025-11-12T15:51:01.451Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MONTEVRAIN
+electriciansAvailable: 8
+localLandmark: Provins médiéval
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Provins médiéval
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1194+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement sur l'ensemble de la commune pour vos
   dépannages, rénovations et installations électriques.
 introGeneratedAt: '2025-11-12T17:45:40.297Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FONTAINE-LA-RIVIÈRE
+electriciansAvailable: 6
+localLandmark: Sainte-Geneviève-des-Bois
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Sainte-Geneviève-des-Bois
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1489+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

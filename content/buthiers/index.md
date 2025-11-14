@@ -63,5 +63,24 @@ introText: >-
   urgents. Nous intervenons rapidement sur Buthiers 77760 et ses alentours, avec
   une disponibilité adaptée aux réalités locales.
 introGeneratedAt: '2025-11-12T15:26:09.707Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BUTHIERS
+electriciansAvailable: 7
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 909+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

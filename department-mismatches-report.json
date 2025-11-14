@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "total_pages": 1000,
+    "valid_pages": 998,
+    "mismatches": 1,
+    "missing_data": 1,
+    "generated_at": "2025-11-10T17:32:17.838Z"
+  },
+  "mismatches": [
+    {
+      "id": "300fd4ee-0a07-4c28-97d6-830120f73793",
+      "name": "LAVERRIERE",
+      "slug": "la-verriere",
+      "postal_code": "60210",
+      "current_department": "78",
+      "expected_department": "60",
+      "city_id": 31762,
+      "url": "https://allo-electricien.pro/la-verriere/"
+    }
+  ],
+  "missing_data": [
+    {
+      "id": "3ce28a9e-3d33-488d-9135-e6ccff95eacd",
+      "name": "Unknown",
+      "slug": "unknown",
+      "postal_code": "MISSING",
+      "department": "MISSING",
+      "issue": "Missing postal code or department",
+      "url": "https://allo-electricien.pro/unknown/"
+    }
+  ]
+}

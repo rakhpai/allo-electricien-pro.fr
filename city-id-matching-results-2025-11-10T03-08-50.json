@@ -1,0 +1,2795 @@
+{
+  "high_confidence": [
+    {
+      "page_id": "8e0c1f4c-9948-44ae-bab7-1f25409f69e4",
+      "url": "https://allo-electricien.pro/le-blanc-mesnil",
+      "url_path": "/le-blanc-mesnil",
+      "city_name": "LE BLANC-MESNIL",
+      "postal_code": "93150",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "83ffa2c3-a142-4801-883b-5ae3cec7d0c7",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "83ffa2c3-a142-4801-883b-5ae3cec7d0c7",
+        "slug": "le-blanc-mesnil",
+        "name": "Le Blanc-Mesnil",
+        "postal_codes": [
+          "93150"
+        ],
+        "city_id": null,
+        "latitude": 48.9385489,
+        "longitude": 2.4631476
+      },
+      "notes": "Exact slug match: le-blanc-mesnil",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e83075e4-bb56-4dca-9862-d6b322d3e61c",
+      "url": "https://allo-electricien.pro/le-plessis-robinson",
+      "url_path": "/le-plessis-robinson",
+      "city_name": "LE PLESSIS-ROBINSON",
+      "postal_code": "92350",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "5257cc5f-fcba-476f-9d5c-aeb59ee3c18b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5257cc5f-fcba-476f-9d5c-aeb59ee3c18b",
+        "slug": "le-plessis-robinson",
+        "name": "Le Plessis-Robinson",
+        "postal_codes": [
+          "92350"
+        ],
+        "city_id": null,
+        "latitude": 48.7811049,
+        "longitude": 2.2619632
+      },
+      "notes": "Exact slug match: le-plessis-robinson",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "d2372122-a8af-4f26-95cd-81b8c6da302b",
+      "url": "https://allo-electricien.pro/le-raincy",
+      "url_path": "/le-raincy",
+      "city_name": "LE RAINCY",
+      "postal_code": "93340",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "5522abbc-6c00-4055-a667-92c24f684036",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5522abbc-6c00-4055-a667-92c24f684036",
+        "slug": "le-raincy",
+        "name": "Le Raincy",
+        "postal_codes": [
+          "93340"
+        ],
+        "city_id": null,
+        "latitude": 48.8986666,
+        "longitude": 2.5155626
+      },
+      "notes": "Exact slug match: le-raincy",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "96f1d8d7-3186-4db5-8688-88faf422fa15",
+      "url": "https://allo-electricien.pro/les-mesnuls",
+      "url_path": "/les-mesnuls",
+      "city_name": "LES MESNULS",
+      "postal_code": "78490",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "5c0a6482-8a2a-49d4-b32c-6d99c973e355",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5c0a6482-8a2a-49d4-b32c-6d99c973e355",
+        "slug": "les-mesnuls",
+        "name": "Les Mesnuls",
+        "postal_codes": [
+          "78490"
+        ],
+        "city_id": null,
+        "latitude": 48.7825438,
+        "longitude": 2.0439616
+      },
+      "notes": "Exact slug match: les-mesnuls",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "fef328a0-642b-464e-b08c-3c6f4b13a8a8",
+      "url": "https://allo-electricien.pro/lesches",
+      "url_path": "/lesches",
+      "city_name": "LESCHES",
+      "postal_code": "77450",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "72fd30f8-67a2-48ac-9e6f-61fd0fbfb394",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "72fd30f8-67a2-48ac-9e6f-61fd0fbfb394",
+        "slug": "lesches",
+        "name": "Lesches",
+        "postal_codes": [
+          "77450"
+        ],
+        "city_id": null,
+        "latitude": 48.8325038,
+        "longitude": 2.6385438
+      },
+      "notes": "Exact slug match: lesches",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "16818d9f-f364-484a-90ca-f024b092d0f2",
+      "url": "https://allo-electricien.pro/louan-villegruis-fontaine",
+      "url_path": "/louan-villegruis-fontaine",
+      "city_name": "LOUAN-VILLEGRUIS-FONTAINE",
+      "postal_code": "77560",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "89cd4eaf-c894-4209-a315-8029eeb1ea2e",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "89cd4eaf-c894-4209-a315-8029eeb1ea2e",
+        "slug": "louan-villegruis-fontaine",
+        "name": "Louan-Villegruis-Fontaine",
+        "postal_codes": [
+          "77560"
+        ],
+        "city_id": null,
+        "latitude": 48.7914667,
+        "longitude": 2.6660226
+      },
+      "notes": "Exact slug match: louan-villegruis-fontaine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "f0658661-1dbe-4e3d-b28b-591e5df4ba0d",
+      "url": "https://allo-electricien.pro/malakoff",
+      "url_path": "/malakoff",
+      "city_name": "MALAKOFF",
+      "postal_code": "92240",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "a18eff5d-4a0c-40a8-b201-c8b896f237b8",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a18eff5d-4a0c-40a8-b201-c8b896f237b8",
+        "slug": "malakoff",
+        "name": "Malakoff",
+        "postal_codes": [
+          "92240"
+        ],
+        "city_id": null,
+        "latitude": 48.8211559,
+        "longitude": 2.3019814
+      },
+      "notes": "Exact slug match: malakoff",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "3c6c8abc-6c22-4a08-98c9-6164b1e5a03b",
+      "url": "https://allo-electricien.pro/mareil-le-guyon",
+      "url_path": "/mareil-le-guyon",
+      "city_name": "MAREIL-LE-GUYON",
+      "postal_code": "78490",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "55c75500-9f04-417f-90d4-6606cf265777",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "55c75500-9f04-417f-90d4-6606cf265777",
+        "slug": "mareil-le-guyon",
+        "name": "Mareil-le-Guyon",
+        "postal_codes": [
+          "78490"
+        ],
+        "city_id": null,
+        "latitude": 48.8981966,
+        "longitude": 1.7007324
+      },
+      "notes": "Exact slug match: mareil-le-guyon",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "381a033f-15cf-45a4-ae27-5ffdbf255926",
+      "url": "https://allo-electricien.pro/marly-la-ville",
+      "url_path": "/marly-la-ville",
+      "city_name": "MARLY-LA-VILLE",
+      "postal_code": "95670",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "6d5d46c6-4f9e-4574-8e97-50947ad1ea68",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "6d5d46c6-4f9e-4574-8e97-50947ad1ea68",
+        "slug": "marly-la-ville",
+        "name": "Marly-la-Ville",
+        "postal_codes": [
+          "95670"
+        ],
+        "city_id": null,
+        "latitude": 49.0823913,
+        "longitude": 2.5034402
+      },
+      "notes": "Exact slug match: marly-la-ville",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c475a557-d3cf-4fae-9f9a-4ba9ebceeab2",
+      "url": "https://allo-electricien.pro/marly-le-roi",
+      "url_path": "/marly-le-roi",
+      "city_name": "MARLY-LE-ROI",
+      "postal_code": "78160",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "5a5ccaf3-6920-46bd-89bc-6a771fcd0b6e",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5a5ccaf3-6920-46bd-89bc-6a771fcd0b6e",
+        "slug": "marly-le-roi",
+        "name": "Marly-le-Roi",
+        "postal_codes": [
+          "78160"
+        ],
+        "city_id": null,
+        "latitude": 48.8681762,
+        "longitude": 2.0965935
+      },
+      "notes": "Exact slug match: marly-le-roi",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "8a2a6b7a-011e-4fa6-93a2-b821717992ee",
+      "url": "https://allo-electricien.pro/marolles-en-brie",
+      "url_path": "/marolles-en-brie",
+      "city_name": "MAROLLES-EN-BRIE",
+      "postal_code": "77120",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "a4cb9546-e2bd-4d9d-b35d-4e6c1aaf5273",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a4cb9546-e2bd-4d9d-b35d-4e6c1aaf5273",
+        "slug": "marolles-en-brie",
+        "name": "Marolles-en-Brie",
+        "postal_codes": [
+          "94440"
+        ],
+        "city_id": null,
+        "latitude": 48.7391,
+        "longitude": 2.55424
+      },
+      "notes": "Exact slug match: marolles-en-brie",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "96ffe162-67c4-4e24-9bc1-9a9a1f0a75d2",
+      "url": "https://allo-electricien.pro/mauchamps",
+      "url_path": "/mauchamps",
+      "city_name": "MAUCHAMPS",
+      "postal_code": "91730",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "8f2045bd-e861-4b77-a99a-3966dd56627f",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "8f2045bd-e861-4b77-a99a-3966dd56627f",
+        "slug": "mauchamps",
+        "name": "Mauchamps",
+        "postal_codes": [
+          "91730"
+        ],
+        "city_id": null,
+        "latitude": 48.599763,
+        "longitude": 2.3632229
+      },
+      "notes": "Exact slug match: mauchamps",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "93377623-36a7-4e09-9edc-bbd1a2b879bb",
+      "url": "https://allo-electricien.pro/maurecourt",
+      "url_path": "/maurecourt",
+      "city_name": "MAURECOURT",
+      "postal_code": "78780",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "726ca16f-dedf-43c9-8b0f-3766eb119b1d",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "726ca16f-dedf-43c9-8b0f-3766eb119b1d",
+        "slug": "maurecourt",
+        "name": "Maurecourt",
+        "postal_codes": [
+          "78780"
+        ],
+        "city_id": null,
+        "latitude": 48.9975159,
+        "longitude": 2.0625234
+      },
+      "notes": "Exact slug match: maurecourt",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "31412ee0-4d80-4710-9127-58fc15e56337",
+      "url": "https://allo-electricien.pro/melz-sur-seine",
+      "url_path": "/melz-sur-seine",
+      "city_name": "MELZ-SUR-SEINE",
+      "postal_code": "77171",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "62c94d7a-0717-446e-b40a-e71e1af34b78",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "62c94d7a-0717-446e-b40a-e71e1af34b78",
+        "slug": "melz-sur-seine",
+        "name": "Melz-sur-Seine",
+        "postal_codes": [
+          "77171"
+        ],
+        "city_id": null,
+        "latitude": 48.4983632,
+        "longitude": 3.3870965
+      },
+      "notes": "Exact slug match: melz-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "b071fbc9-4cde-406d-9cf9-9e62796ab69f",
+      "url": "https://allo-electricien.pro/menucourt",
+      "url_path": "/menucourt",
+      "city_name": "MENUCOURT",
+      "postal_code": "95180",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "8551ff06-ea42-4e7b-baac-edf052736a1b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "8551ff06-ea42-4e7b-baac-edf052736a1b",
+        "slug": "menucourt",
+        "name": "Menucourt",
+        "postal_codes": [
+          "95180"
+        ],
+        "city_id": null,
+        "latitude": 49.027615,
+        "longitude": 1.9815885
+      },
+      "notes": "Exact slug match: menucourt",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "6139fcc1-4fe1-4e0a-a2fd-80b866f1e8a5",
+      "url": "https://allo-electricien.pro/meru",
+      "url_path": "/meru",
+      "city_name": "MERU",
+      "postal_code": "60110",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "257924c7-d67e-44d7-9dda-1e267cbdf75b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "257924c7-d67e-44d7-9dda-1e267cbdf75b",
+        "slug": "meru",
+        "name": "Meru",
+        "postal_codes": [
+          "60110"
+        ],
+        "city_id": null,
+        "latitude": 49.6256551,
+        "longitude": 2.3238363
+      },
+      "notes": "Exact slug match: meru",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "789da013-3205-4690-b8d2-26ea9ae15eb1",
+      "url": "https://allo-electricien.pro/montesson",
+      "url_path": "/montesson",
+      "city_name": "MONTESSON",
+      "postal_code": "78360",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "99676a81-4127-40dc-940d-43b21bf5489f",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "99676a81-4127-40dc-940d-43b21bf5489f",
+        "slug": "montesson",
+        "name": "Montesson",
+        "postal_codes": [
+          "78360"
+        ],
+        "city_id": null,
+        "latitude": 48.9076492,
+        "longitude": 2.149134
+      },
+      "notes": "Exact slug match: montesson",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "6b83661d-02a8-4b56-8a44-21d28561f303",
+      "url": "https://allo-electricien.pro/montfermeil",
+      "url_path": "/montfermeil",
+      "city_name": "MONTFERMEIL",
+      "postal_code": "93370",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "65d82053-1e73-4375-8c1d-d59eeac74a7d",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "65d82053-1e73-4375-8c1d-d59eeac74a7d",
+        "slug": "montfermeil",
+        "name": "Montfermeil",
+        "postal_codes": [
+          "93370"
+        ],
+        "city_id": null,
+        "latitude": 48.899013,
+        "longitude": 2.560754
+      },
+      "notes": "Exact slug match: montfermeil",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "45412cca-3710-449f-a657-65990ed6079d",
+      "url": "https://allo-electricien.pro/montgeron",
+      "url_path": "/montgeron",
+      "city_name": "MONTGERON",
+      "postal_code": "91230",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "64320536-d24d-4073-accd-846192908f10",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "64320536-d24d-4073-accd-846192908f10",
+        "slug": "montgeron",
+        "name": "Montgeron",
+        "postal_codes": [
+          "91230"
+        ],
+        "city_id": null,
+        "latitude": 48.7038873,
+        "longitude": 2.4605107
+      },
+      "notes": "Exact slug match: montgeron",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c711b084-25ab-4167-82a7-2016fc889a0c",
+      "url": "https://allo-electricien.pro/mortery",
+      "url_path": "/mortery",
+      "city_name": "MORTERY",
+      "postal_code": "77160",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "833240b5-cf6e-42a5-964d-53509086b675",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "833240b5-cf6e-42a5-964d-53509086b675",
+        "slug": "mortery",
+        "name": "Mortery",
+        "postal_codes": [
+          "77160"
+        ],
+        "city_id": null,
+        "latitude": 48.5993479,
+        "longitude": 3.2602036
+      },
+      "notes": "Exact slug match: mortery",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c888a553-a762-4882-bfca-129b1a1478e9",
+      "url": "https://allo-electricien.pro/nanterre",
+      "url_path": "/nanterre",
+      "city_name": "NANTERRE",
+      "postal_code": "92000",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "a08c8778-9511-44cb-9eb3-05a92638ebc8",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a08c8778-9511-44cb-9eb3-05a92638ebc8",
+        "slug": "nanterre",
+        "name": "Nanterre",
+        "postal_codes": [
+          "92000"
+        ],
+        "city_id": null,
+        "latitude": 48.8924273,
+        "longitude": 2.2071267
+      },
+      "notes": "Exact slug match: nanterre",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "d93e1a30-4e9a-4df5-895a-3163b082c12b",
+      "url": "https://allo-electricien.pro/neuilly-sur-marne",
+      "url_path": "/neuilly-sur-marne",
+      "city_name": "NEUILLY-SUR-MARNE",
+      "postal_code": "93330",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "86b15272-67fd-4258-9f7e-2cc3ecf453c0",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "86b15272-67fd-4258-9f7e-2cc3ecf453c0",
+        "slug": "neuilly-sur-marne",
+        "name": "Neuilly-sur-Marne",
+        "postal_codes": [
+          "93330"
+        ],
+        "city_id": null,
+        "latitude": 48.8565557,
+        "longitude": 2.5290045
+      },
+      "notes": "Exact slug match: neuilly-sur-marne",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "9cc93e09-b828-47a1-acb7-64271c2e763e",
+      "url": "https://allo-electricien.pro/noiseau",
+      "url_path": "/noiseau",
+      "city_name": "NOISEAU",
+      "postal_code": "94880",
+      "department": "94",
+      "city_id": null,
+      "geographic_target_id": "5358d140-aa6d-44b6-97b0-aa770296d6d5",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5358d140-aa6d-44b6-97b0-aa770296d6d5",
+        "slug": "noiseau",
+        "name": "Noiseau",
+        "postal_codes": [
+          "94880"
+        ],
+        "city_id": null,
+        "latitude": 48.7906158,
+        "longitude": 2.4487408
+      },
+      "notes": "Exact slug match: noiseau",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e19f323e-57da-4b89-9fb1-b5377004f5bb",
+      "url": "https://allo-electricien.pro/palaiseau",
+      "url_path": "/palaiseau",
+      "city_name": "PALAISEAU",
+      "postal_code": "91120",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "a5807b83-c41d-4ea1-890e-404626417f98",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a5807b83-c41d-4ea1-890e-404626417f98",
+        "slug": "palaiseau",
+        "name": "Palaiseau",
+        "postal_codes": [
+          "91120"
+        ],
+        "city_id": null,
+        "latitude": 48.5213912,
+        "longitude": 2.2112587
+      },
+      "notes": "Exact slug match: palaiseau",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "224ecc7e-f618-438f-99d5-fa8747858b1e",
+      "url": "https://allo-electricien.pro/paris-1",
+      "url_path": "/paris-1",
+      "city_name": "Paris 1",
+      "postal_code": "75001",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "68a70b8a-4981-4bec-9d57-751b0455535f",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "68a70b8a-4981-4bec-9d57-751b0455535f",
+        "slug": "paris-1",
+        "name": "Paris 1",
+        "postal_codes": [
+          "75001"
+        ],
+        "city_id": null,
+        "latitude": 48.8534951,
+        "longitude": 2.3483915
+      },
+      "notes": "Exact slug match: paris-1",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "4a5e9e6d-5728-45ed-a810-a5f527d033b6",
+      "url": "https://allo-electricien.pro/paris-12e-arrondissement",
+      "url_path": "/paris-12e-arrondissement",
+      "city_name": "12E ARRONDISSEMENT",
+      "postal_code": "7512",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "eca54dcc-ae0f-4783-8bd3-afb44a044e73",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "eca54dcc-ae0f-4783-8bd3-afb44a044e73",
+        "slug": "paris-12e-arrondissement",
+        "name": "12e Arrondissement",
+        "postal_codes": [
+          "7512"
+        ],
+        "city_id": null,
+        "latitude": 48.8396154,
+        "longitude": 2.3957517
+      },
+      "notes": "Exact slug match: paris-12e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "1b2f3ef6-d1dd-45df-81ea-36521e2c0112",
+      "url": "https://allo-electricien.pro/paris-14",
+      "url_path": "/paris-14",
+      "city_name": "Paris 14",
+      "postal_code": "75014",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "62664479-73df-405d-badd-b108a55a9341",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "62664479-73df-405d-badd-b108a55a9341",
+        "slug": "paris-14",
+        "name": "Paris 14",
+        "postal_codes": [
+          "75014"
+        ],
+        "city_id": null,
+        "latitude": 48.8877747,
+        "longitude": 2.3741353
+      },
+      "notes": "Exact slug match: paris-14",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c1d2ea20-fb2c-4c71-a941-5b4f765fd0b8",
+      "url": "https://allo-electricien.pro/paris-14e-arrondissement",
+      "url_path": "/paris-14e-arrondissement",
+      "city_name": "14E ARRONDISSEMENT",
+      "postal_code": "7514",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "900c5547-e98c-467d-afbf-22719907b41a",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "900c5547-e98c-467d-afbf-22719907b41a",
+        "slug": "paris-14e-arrondissement",
+        "name": "14e Arrondissement",
+        "postal_codes": [
+          "7514"
+        ],
+        "city_id": null,
+        "latitude": 48.8295667,
+        "longitude": 2.3239625
+      },
+      "notes": "Exact slug match: paris-14e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "399a2e71-1ee2-4465-8579-4023d6b4ddc4",
+      "url": "https://allo-electricien.pro/paris-15e-arrondissement",
+      "url_path": "/paris-15e-arrondissement",
+      "city_name": "15E ARRONDISSEMENT",
+      "postal_code": "7515",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "6aa36b66-bbe3-4523-b24b-fc8abf173c4b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "6aa36b66-bbe3-4523-b24b-fc8abf173c4b",
+        "slug": "paris-15e-arrondissement",
+        "name": "15e Arrondissement",
+        "postal_codes": [
+          "7515"
+        ],
+        "city_id": null,
+        "latitude": 48.8411228,
+        "longitude": 2.2927657
+      },
+      "notes": "Exact slug match: paris-15e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "ca58eaa9-1b3a-49de-9b8d-f252c26459fb",
+      "url": "https://allo-electricien.pro/paris-16e-arrondissement",
+      "url_path": "/paris-16e-arrondissement",
+      "city_name": "16E ARRONDISSEMENT",
+      "postal_code": "7516",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "bb01ff7a-522c-48c0-87aa-2f1a0adc219e",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "bb01ff7a-522c-48c0-87aa-2f1a0adc219e",
+        "slug": "paris-16e-arrondissement",
+        "name": "16e Arrondissement",
+        "postal_codes": [
+          "7516"
+        ],
+        "city_id": null,
+        "latitude": 48.8636341,
+        "longitude": 2.276485
+      },
+      "notes": "Exact slug match: paris-16e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "9b51c355-37ec-4e6e-a2b9-71770d284b1b",
+      "url": "https://allo-electricien.pro/paris-18",
+      "url_path": "/paris-18",
+      "city_name": "Paris 18",
+      "postal_code": "75018",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "85793501-e86c-46c4-b665-8323203cb50b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "85793501-e86c-46c4-b665-8323203cb50b",
+        "slug": "paris-18",
+        "name": "Paris 18",
+        "postal_codes": [
+          "75018"
+        ],
+        "city_id": null,
+        "latitude": 48.8782074,
+        "longitude": 2.3427222
+      },
+      "notes": "Exact slug match: paris-18",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "a5f1a024-78cf-4c01-b66b-fc2d0a2e71ef",
+      "url": "https://allo-electricien.pro/paris-18e-arrondissement",
+      "url_path": "/paris-18e-arrondissement",
+      "city_name": "18E ARRONDISSEMENT",
+      "postal_code": "7518",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "2370d386-cc47-4ef8-89f2-03ee255f8e85",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "2370d386-cc47-4ef8-89f2-03ee255f8e85",
+        "slug": "paris-18e-arrondissement",
+        "name": "18e Arrondissement",
+        "postal_codes": [
+          "7518"
+        ],
+        "city_id": null,
+        "latitude": 48.8900117,
+        "longitude": 2.3464668
+      },
+      "notes": "Exact slug match: paris-18e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "36f19368-c666-49cc-84c0-a8c5870509e2",
+      "url": "https://allo-electricien.pro/paris-1e-arrondissement",
+      "url_path": "/paris-1e-arrondissement",
+      "city_name": "1ER ARRONDISSEMENT",
+      "postal_code": "75001",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "8c6bab09-704e-4824-9260-330c4b45b10c",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "8c6bab09-704e-4824-9260-330c4b45b10c",
+        "slug": "paris-1e-arrondissement",
+        "name": "1er Arrondissement",
+        "postal_codes": [
+          "75001"
+        ],
+        "city_id": null,
+        "latitude": 48.8646144,
+        "longitude": 2.334396
+      },
+      "notes": "Exact slug match: paris-1e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e3be924d-9750-4804-9e0c-2d30077e8686",
+      "url": "https://allo-electricien.pro/paris-5",
+      "url_path": "/paris-5",
+      "city_name": "Paris 5",
+      "postal_code": "75005",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "a0104ea9-8765-4f60-b789-a43a60e461bf",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a0104ea9-8765-4f60-b789-a43a60e461bf",
+        "slug": "paris-5",
+        "name": "Paris 5",
+        "postal_codes": [
+          "75005"
+        ],
+        "city_id": null,
+        "latitude": 48.8534951,
+        "longitude": 2.3483915
+      },
+      "notes": "Exact slug match: paris-5",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "162dc0e7-b283-4c01-8ec5-6f2078d94bdf",
+      "url": "https://allo-electricien.pro/paris-5e-arrondissement",
+      "url_path": "/paris-5e-arrondissement",
+      "city_name": "5E ARRONDISSEMENT",
+      "postal_code": "75005",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "59d35260-d60d-4123-a753-8584db83d2e0",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "59d35260-d60d-4123-a753-8584db83d2e0",
+        "slug": "paris-5e-arrondissement",
+        "name": "5e Arrondissement",
+        "postal_codes": [
+          "75005"
+        ],
+        "city_id": null,
+        "latitude": 48.8459728,
+        "longitude": 2.3443504
+      },
+      "notes": "Exact slug match: paris-5e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "90c54307-a757-418c-96af-37e82d7ec09b",
+      "url": "https://allo-electricien.pro/paris-7",
+      "url_path": "/paris-7",
+      "city_name": "Paris 7",
+      "postal_code": "75007",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "7e03cc0d-8b14-4ecc-ac97-fa222926a9ee",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "7e03cc0d-8b14-4ecc-ac97-fa222926a9ee",
+        "slug": "paris-7",
+        "name": "Paris 7",
+        "postal_codes": [
+          "75007"
+        ],
+        "city_id": null,
+        "latitude": 48.8719356,
+        "longitude": 2.3430137
+      },
+      "notes": "Exact slug match: paris-7",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "ac58501c-092a-4e94-9a1b-db9f4686b161",
+      "url": "https://allo-electricien.pro/parmain",
+      "url_path": "/parmain",
+      "city_name": "PARMAIN",
+      "postal_code": "95620",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "6f20ad3b-fc65-4ee7-942e-20abab85e2ed",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "6f20ad3b-fc65-4ee7-942e-20abab85e2ed",
+        "slug": "parmain",
+        "name": "Parmain",
+        "postal_codes": [
+          "95620"
+        ],
+        "city_id": null,
+        "latitude": 49.1142087,
+        "longitude": 2.2090453
+      },
+      "notes": "Exact slug match: parmain",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "1ee2c432-7f38-4629-9aad-ca922b62bff9",
+      "url": "https://allo-electricien.pro/paris-7e-arrondissement",
+      "url_path": "/paris-7e-arrondissement",
+      "city_name": "7E ARRONDISSEMENT",
+      "postal_code": "75007",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "06e688b4-cba7-46ee-be4c-62addfa174da",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "06e688b4-cba7-46ee-be4c-62addfa174da",
+        "slug": "paris-7e-arrondissement",
+        "name": "7e Arrondissement",
+        "postal_codes": [
+          "75007"
+        ],
+        "city_id": null,
+        "latitude": 48.8564911,
+        "longitude": 2.3128
+      },
+      "notes": "Exact slug match: paris-7e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "10c2e794-65c8-4f51-9148-c77691e16f8e",
+      "url": "https://allo-electricien.pro/paris-9",
+      "url_path": "/paris-9",
+      "city_name": "Paris 9",
+      "postal_code": "75009",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "8a0367a8-e709-462e-9119-683eb170cdb9",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "8a0367a8-e709-462e-9119-683eb170cdb9",
+        "slug": "paris-9",
+        "name": "Paris 9",
+        "postal_codes": [
+          "75009"
+        ],
+        "city_id": null,
+        "latitude": 48.8676266,
+        "longitude": 2.347592
+      },
+      "notes": "Exact slug match: paris-9",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e14590f8-4843-4b74-9d8b-a8d8b0a79954",
+      "url": "https://allo-electricien.pro/paris-9e-arrondissement",
+      "url_path": "/paris-9e-arrondissement",
+      "city_name": "9E ARRONDISSEMENT",
+      "postal_code": "75009",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "c18456d9-0489-4d65-b6ea-27bc5559da42",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "c18456d9-0489-4d65-b6ea-27bc5559da42",
+        "slug": "paris-9e-arrondissement",
+        "name": "9e Arrondissement",
+        "postal_codes": [
+          "75009"
+        ],
+        "city_id": null,
+        "latitude": 48.876019,
+        "longitude": 2.339962
+      },
+      "notes": "Exact slug match: paris-9e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "bb7c0223-47bc-4cdc-8de4-9e381f31e006",
+      "url": "https://allo-electricien.pro/plaisir",
+      "url_path": "/plaisir",
+      "city_name": "PLAISIR",
+      "postal_code": "78370",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "7b6e2f0d-9e4d-4587-a94b-f23bb0e4e4ff",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "7b6e2f0d-9e4d-4587-a94b-f23bb0e4e4ff",
+        "slug": "plaisir",
+        "name": "Plaisir",
+        "postal_codes": [
+          "78370"
+        ],
+        "city_id": null,
+        "latitude": 48.817399,
+        "longitude": 1.9476363
+      },
+      "notes": "Exact slug match: plaisir",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "4eb93426-9729-4a66-907c-dd122849f023",
+      "url": "https://allo-electricien.pro/presles-en-brie",
+      "url_path": "/presles-en-brie",
+      "city_name": "PRESLES-EN-BRIE",
+      "postal_code": "77220",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "5d99d644-5ae6-4c6e-9c5a-48f048d4f497",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5d99d644-5ae6-4c6e-9c5a-48f048d4f497",
+        "slug": "presles-en-brie",
+        "name": "Presles-en-Brie",
+        "postal_codes": [
+          "77220"
+        ],
+        "city_id": null,
+        "latitude": 48.7885,
+        "longitude": 2.609667
+      },
+      "notes": "Exact slug match: presles-en-brie",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "fe3739c8-853a-4b39-8923-8867b38ddaeb",
+      "url": "https://allo-electricien.pro/puteaux",
+      "url_path": "/puteaux",
+      "city_name": "PUTEAUX",
+      "postal_code": "92800",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "878e1db5-d7c2-4a4b-80fe-c93ba78ed92a",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "878e1db5-d7c2-4a4b-80fe-c93ba78ed92a",
+        "slug": "puteaux",
+        "name": "Puteaux",
+        "postal_codes": [
+          "92800"
+        ],
+        "city_id": null,
+        "latitude": 48.8841522,
+        "longitude": 2.2368863
+      },
+      "notes": "Exact slug match: puteaux",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "2f3ef6a6-e31e-407c-80fd-8c0cf7f2025b",
+      "url": "https://allo-electricien.pro/rochefort-en-yvelines",
+      "url_path": "/rochefort-en-yvelines",
+      "city_name": "ROCHEFORT-EN-YVELINES",
+      "postal_code": "78730",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "a2b1b370-28c6-49f0-8585-4344d136beba",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a2b1b370-28c6-49f0-8585-4344d136beba",
+        "slug": "rochefort-en-yvelines",
+        "name": "Rochefort-en-Yvelines",
+        "postal_codes": [
+          "78730"
+        ],
+        "city_id": null,
+        "latitude": 48.5872266,
+        "longitude": 1.9878964
+      },
+      "notes": "Exact slug match: rochefort-en-yvelines",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "9ba38b6a-9338-4d4c-9733-ce7015cf3a5d",
+      "url": "https://allo-electricien.pro/rosny-sur-seine",
+      "url_path": "/rosny-sur-seine",
+      "city_name": "ROSNY-SUR-SEINE",
+      "postal_code": "78710",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "8c84df79-2264-473f-9415-e58186d78e83",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "8c84df79-2264-473f-9415-e58186d78e83",
+        "slug": "rosny-sur-seine",
+        "name": "Rosny-sur-Seine",
+        "postal_codes": [
+          "78710"
+        ],
+        "city_id": null,
+        "latitude": 49.001733,
+        "longitude": 1.6280317
+      },
+      "notes": "Exact slug match: rosny-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "942604b0-0e4b-4f22-b5b7-764d0cf6ffe3",
+      "url": "https://allo-electricien.pro/rumont",
+      "url_path": "/rumont",
+      "city_name": "RUMONT",
+      "postal_code": "77760",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "480f9ba4-5275-4c07-9280-5a89cd97a5eb",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "480f9ba4-5275-4c07-9280-5a89cd97a5eb",
+        "slug": "rumont",
+        "name": "Rumont",
+        "postal_codes": [
+          "77760"
+        ],
+        "city_id": null,
+        "latitude": 48.8410806,
+        "longitude": 2.5873744
+      },
+      "notes": "Exact slug match: rumont",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "43c5a7db-9e66-415e-a09d-deed59ad3ce6",
+      "url": "https://allo-electricien.pro/saint-augustin",
+      "url_path": "/saint-augustin",
+      "city_name": "SAINT-AUGUSTIN",
+      "postal_code": "77515",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "7bae3ccc-9b8c-4a21-848b-df0d2c1f63c1",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "7bae3ccc-9b8c-4a21-848b-df0d2c1f63c1",
+        "slug": "saint-augustin",
+        "name": "Saint-Augustin",
+        "postal_codes": [
+          "77515"
+        ],
+        "city_id": null,
+        "latitude": 48.8745946,
+        "longitude": 2.3215439
+      },
+      "notes": "Exact slug match: saint-augustin",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "4790b519-6c1c-4367-af57-a984f357f3aa",
+      "url": "https://allo-electricien.pro/saint-fiacre",
+      "url_path": "/saint-fiacre",
+      "city_name": "SAINT-FIACRE",
+      "postal_code": "77470",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "78f78eb8-7af1-4799-850e-f50a42d3883b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "78f78eb8-7af1-4799-850e-f50a42d3883b",
+        "slug": "saint-fiacre",
+        "name": "Saint-Fiacre",
+        "postal_codes": [
+          "77470"
+        ],
+        "city_id": null,
+        "latitude": 48.8729977,
+        "longitude": 2.1016984
+      },
+      "notes": "Exact slug match: saint-fiacre",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "709ab116-b70c-444a-ae5b-cf23e1d7a868",
+      "url": "https://allo-electricien.pro/saint-germain-en-laye",
+      "url_path": "/saint-germain-en-laye",
+      "city_name": "SAINT-GERMAIN-EN-LAYE",
+      "postal_code": "78100",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "793310f9-ab2e-4a82-b6b5-abc6652cb119",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "793310f9-ab2e-4a82-b6b5-abc6652cb119",
+        "slug": "saint-germain-en-laye",
+        "name": "Saint-Germain-en-Laye",
+        "postal_codes": [
+          "78100"
+        ],
+        "city_id": null,
+        "latitude": 48.9356047,
+        "longitude": 2.0917743
+      },
+      "notes": "Exact slug match: saint-germain-en-laye",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "bc3118c7-628b-4998-91cf-ccead2f3a8fe",
+      "url": "https://allo-electricien.pro/saint-germain-sous-doue",
+      "url_path": "/saint-germain-sous-doue",
+      "city_name": "SAINT-GERMAIN-SOUS-DOUE",
+      "postal_code": "77169",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "995c2230-90e1-4ea7-9d50-5ccc02632671",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "995c2230-90e1-4ea7-9d50-5ccc02632671",
+        "slug": "saint-germain-sous-doue",
+        "name": "Saint-Germain-sous-Doue",
+        "postal_codes": [
+          "77169"
+        ],
+        "city_id": null,
+        "latitude": 48.8464312,
+        "longitude": 2.6243004
+      },
+      "notes": "Exact slug match: saint-germain-sous-doue",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e9d17406-f981-467a-9820-50d59f4ab0cb",
+      "url": "https://allo-electricien.pro/saint-gratien",
+      "url_path": "/saint-gratien",
+      "city_name": "SAINT-GRATIEN",
+      "postal_code": "95210",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "63ed8d62-f598-4b9d-ab52-8678451682a1",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "63ed8d62-f598-4b9d-ab52-8678451682a1",
+        "slug": "saint-gratien",
+        "name": "Saint-Gratien",
+        "postal_codes": [
+          "95210"
+        ],
+        "city_id": null,
+        "latitude": 48.9703664,
+        "longitude": 2.2840639
+      },
+      "notes": "Exact slug match: saint-gratien",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "7e0efbe7-4912-4348-b794-263f3b5a5fe9",
+      "url": "https://allo-electricien.pro/saint-pierre-du-perray",
+      "url_path": "/saint-pierre-du-perray",
+      "city_name": "SAINT-PIERRE-DU-PERRAY",
+      "postal_code": "91280",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "4f04a926-a375-419f-8ccd-1f26f5c4fc21",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "4f04a926-a375-419f-8ccd-1f26f5c4fc21",
+        "slug": "saint-pierre-du-perray",
+        "name": "Saint-Pierre-du-Perray",
+        "postal_codes": [
+          "91280"
+        ],
+        "city_id": null,
+        "latitude": 48.6137867,
+        "longitude": 2.505381
+      },
+      "notes": "Exact slug match: saint-pierre-du-perray",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c7a5b250-5f3a-4a16-9411-85c8d8aa7b78",
+      "url": "https://allo-electricien.pro/sainte-mesme",
+      "url_path": "/sainte-mesme",
+      "city_name": "SAINTE-MESME",
+      "postal_code": "78730",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "6483895a-f108-4114-9318-cfc52c4dcb60",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "6483895a-f108-4114-9318-cfc52c4dcb60",
+        "slug": "sainte-mesme",
+        "name": "Sainte-Mesme",
+        "postal_codes": [
+          "78730"
+        ],
+        "city_id": null,
+        "latitude": 49.0017356,
+        "longitude": 2.0973608
+      },
+      "notes": "Exact slug match: sainte-mesme",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e30ac42c-caf2-4eec-863b-9ea4aee36402",
+      "url": "https://allo-electricien.pro/saintry-sur-seine",
+      "url_path": "/saintry-sur-seine",
+      "city_name": "SAINTRY-SUR-SEINE",
+      "postal_code": "91250",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "a0d1262d-2374-4224-9351-daec0967d040",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a0d1262d-2374-4224-9351-daec0967d040",
+        "slug": "saintry-sur-seine",
+        "name": "Saintry-sur-Seine",
+        "postal_codes": [
+          "91250"
+        ],
+        "city_id": null,
+        "latitude": 48.5360593,
+        "longitude": 2.3196777
+      },
+      "notes": "Exact slug match: saintry-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "6c4c50f8-1fa0-4986-b33f-85d56b302e99",
+      "url": "https://allo-electricien.pro/sonchamp",
+      "url_path": "/sonchamp",
+      "city_name": "SONCHAMP",
+      "postal_code": "78120",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "8b4cd1a5-68cf-4dc0-b67a-554475edebb4",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "8b4cd1a5-68cf-4dc0-b67a-554475edebb4",
+        "slug": "sonchamp",
+        "name": "Sonchamp",
+        "postal_codes": [
+          "78120"
+        ],
+        "city_id": null,
+        "latitude": 48.5758959,
+        "longitude": 1.8784145
+      },
+      "notes": "Exact slug match: sonchamp",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "aae8c63c-9acc-4fd7-b146-6d010ca1b047",
+      "url": "https://allo-electricien.pro/sourdun",
+      "url_path": "/sourdun",
+      "city_name": "SOURDUN",
+      "postal_code": "77171",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "a55439ab-ebcc-4266-88b0-8dbb26c0957a",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a55439ab-ebcc-4266-88b0-8dbb26c0957a",
+        "slug": "sourdun",
+        "name": "Sourdun",
+        "postal_codes": [
+          "77171"
+        ],
+        "city_id": null,
+        "latitude": 48.5350824,
+        "longitude": 3.3480231
+      },
+      "notes": "Exact slug match: sourdun",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c97602f4-f378-4832-8c98-b118a2113598",
+      "url": "https://allo-electricien.pro/stains",
+      "url_path": "/stains",
+      "city_name": "STAINS",
+      "postal_code": "93240",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "9520eda4-d613-4973-a5e0-efc6dd10c32b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "9520eda4-d613-4973-a5e0-efc6dd10c32b",
+        "slug": "stains",
+        "name": "Stains",
+        "postal_codes": [
+          "93240"
+        ],
+        "city_id": null,
+        "latitude": 48.9565669,
+        "longitude": 2.3825154
+      },
+      "notes": "Exact slug match: stains",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "0fa3206e-c67d-4ca7-9e4f-88bdcfe04398",
+      "url": "https://allo-electricien.pro/sucy-en-brie",
+      "url_path": "/sucy-en-brie",
+      "city_name": "SUCY-EN-BRIE",
+      "postal_code": "94880",
+      "department": "94",
+      "city_id": null,
+      "geographic_target_id": "807c1d7b-b4e0-4c3c-9d75-def025391798",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "807c1d7b-b4e0-4c3c-9d75-def025391798",
+        "slug": "sucy-en-brie",
+        "name": "Sucy-en-Brie",
+        "postal_codes": [
+          "94880"
+        ],
+        "city_id": null,
+        "latitude": 48.7712233,
+        "longitude": 2.5091705
+      },
+      "notes": "Exact slug match: sucy-en-brie",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "2365b9d9-26ac-4b46-8149-49a1bcc9674c",
+      "url": "https://allo-electricien.pro/tancrou",
+      "url_path": "/tancrou",
+      "city_name": "TANCROU",
+      "postal_code": "77440",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "9e1757cf-6c96-465b-b971-b69ec18d2f2d",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "9e1757cf-6c96-465b-b971-b69ec18d2f2d",
+        "slug": "tancrou",
+        "name": "Tancrou",
+        "postal_codes": [
+          "77440"
+        ],
+        "city_id": null,
+        "latitude": 48.9467251,
+        "longitude": 2.7158972
+      },
+      "notes": "Exact slug match: tancrou",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "fb2b768e-d01e-46fb-8564-3c12a35dc13b",
+      "url": "https://allo-electricien.pro/vanves",
+      "url_path": "/vanves",
+      "city_name": "VANVES",
+      "postal_code": "92170",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "5afe2ae2-4cd4-4a43-a170-12d61a25e2f1",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5afe2ae2-4cd4-4a43-a170-12d61a25e2f1",
+        "slug": "vanves",
+        "name": "Vanves",
+        "postal_codes": [
+          "92170"
+        ],
+        "city_id": null,
+        "latitude": 48.8212037,
+        "longitude": 2.289259
+      },
+      "notes": "Exact slug match: vanves",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "60b73b9f-b68e-451f-b860-add2fc456853",
+      "url": "https://allo-electricien.pro/vaujours",
+      "url_path": "/vaujours",
+      "city_name": "VAUJOURS",
+      "postal_code": "93410",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "69ae8b79-9772-4a01-8cbf-8675cc2321db",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "69ae8b79-9772-4a01-8cbf-8675cc2321db",
+        "slug": "vaujours",
+        "name": "Vaujours",
+        "postal_codes": [
+          "93410"
+        ],
+        "city_id": null,
+        "latitude": 48.9302563,
+        "longitude": 2.5691921
+      },
+      "notes": "Exact slug match: vaujours",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "de347811-834b-466d-9348-5dd6f8f190b2",
+      "url": "https://allo-electricien.pro/vigny",
+      "url_path": "/vigny",
+      "city_name": "VIGNY",
+      "postal_code": "95450",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "a4650496-15d6-45a3-b43d-8edb1cb80a08",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a4650496-15d6-45a3-b43d-8edb1cb80a08",
+        "slug": "vigny",
+        "name": "Vigny",
+        "postal_codes": [
+          "95450"
+        ],
+        "city_id": null,
+        "latitude": 48.9890539,
+        "longitude": 2.2548145
+      },
+      "notes": "Exact slug match: vigny",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "32c26a47-6008-4a6b-8dff-b5c916827bcd",
+      "url": "https://allo-electricien.pro/villejuif",
+      "url_path": "/villejuif",
+      "city_name": "VILLEJUIF",
+      "postal_code": "94800",
+      "department": "94",
+      "city_id": null,
+      "geographic_target_id": "9c98aa4d-0bde-4751-93db-17c713c98109",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "9c98aa4d-0bde-4751-93db-17c713c98109",
+        "slug": "villejuif",
+        "name": "Villejuif",
+        "postal_codes": [
+          "94800"
+        ],
+        "city_id": null,
+        "latitude": 48.7797078,
+        "longitude": 2.456043
+      },
+      "notes": "Exact slug match: villejuif",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "e6e0849d-73fa-4b81-8e34-551a05c12e9e",
+      "url": "https://allo-electricien.pro/vitry-sur-seine",
+      "url_path": "/vitry-sur-seine",
+      "city_name": "VITRY-SUR-SEINE",
+      "postal_code": "94400",
+      "department": "94",
+      "city_id": null,
+      "geographic_target_id": "99f04e48-04ec-4033-a350-92e2080080cf",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "99f04e48-04ec-4033-a350-92e2080080cf",
+        "slug": "vitry-sur-seine",
+        "name": "Vitry-sur-Seine",
+        "postal_codes": [
+          "94400"
+        ],
+        "city_id": null,
+        "latitude": 48.7876,
+        "longitude": 2.39164
+      },
+      "notes": "Exact slug match: vitry-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "c17dfc1c-002c-4b3c-8579-feb5284d1c00",
+      "url": "https://allo-electricien.pro/breteuil",
+      "url_path": "/breteuil",
+      "city_name": "BRETEUIL",
+      "postal_code": "60120",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "3a0f0c34-8fdd-4253-8cc9-86ad7b90ce7e",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "3a0f0c34-8fdd-4253-8cc9-86ad7b90ce7e",
+        "slug": "breteuil",
+        "name": "Breteuil",
+        "postal_codes": [
+          "60120"
+        ],
+        "city_id": null,
+        "latitude": 43.6030826,
+        "longitude": 1.4076713
+      },
+      "notes": "Exact slug match: breteuil",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "d882c03a-9b4f-4741-87da-9aeb5e2993d1",
+      "url": "https://allo-electricien.pro/clermont",
+      "url_path": "/clermont",
+      "city_name": "CLERMONT",
+      "postal_code": "60600",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "882abfda-e1b0-4b20-8497-9d073ca51f90",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "882abfda-e1b0-4b20-8497-9d073ca51f90",
+        "slug": "clermont",
+        "name": "Clermont",
+        "postal_codes": [
+          "60600"
+        ],
+        "city_id": null,
+        "latitude": 48.8548856,
+        "longitude": 2.3176084
+      },
+      "notes": "Exact slug match: clermont",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "a91ac135-3966-49ed-a135-760963545728",
+      "url": "https://allo-electricien.pro/crepy-en-valois",
+      "url_path": "/crepy-en-valois",
+      "city_name": "CREPY-EN-VALOIS",
+      "postal_code": "60800",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "cf3aba49-3c1b-4ef9-a116-a0e5df146695",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "cf3aba49-3c1b-4ef9-a116-a0e5df146695",
+        "slug": "crepy-en-valois",
+        "name": "Crepy En Valois",
+        "postal_codes": [
+          "60800"
+        ],
+        "city_id": null,
+        "latitude": 43.6182182,
+        "longitude": 1.3969643
+      },
+      "notes": "Exact slug match: crepy-en-valois",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "b3b87c5b-0ab7-48ad-9492-33abdd544945",
+      "url": "https://allo-electricien.pro/la-garenne-colombes",
+      "url_path": "/la-garenne-colombes",
+      "city_name": "LA GARENNE-COLOMBES",
+      "postal_code": "92250",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "7895dd6f-d99d-48f6-a1cf-19f8d9828851",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "7895dd6f-d99d-48f6-a1cf-19f8d9828851",
+        "slug": "la-garenne-colombes",
+        "name": "La Garenne-Colombes",
+        "postal_codes": [
+          "92250"
+        ],
+        "city_id": null,
+        "latitude": 48.9100652,
+        "longitude": 2.240827
+      },
+      "notes": "Exact slug match: la-garenne-colombes",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "b9a831e5-c678-4849-8990-c8ae483a9b4e",
+      "url": "https://allo-electricien.pro/le-val-saint-germain",
+      "url_path": "/le-val-saint-germain",
+      "city_name": "LE VAL-SAINT-GERMAIN",
+      "postal_code": "91530",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "4c69a182-c59a-43bd-b589-1a74dee176ae",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "4c69a182-c59a-43bd-b589-1a74dee176ae",
+        "slug": "le-val-saint-germain",
+        "name": "Le Val-Saint-Germain",
+        "postal_codes": [
+          "91530"
+        ],
+        "city_id": null,
+        "latitude": 48.5654209,
+        "longitude": 2.0603904
+      },
+      "notes": "Exact slug match: le-val-saint-germain",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "38ae7ffa-8261-461a-ab6c-e29ed563bc48",
+      "url": "https://allo-electricien.pro/les-ormes-sur-voulzie",
+      "url_path": "/les-ormes-sur-voulzie",
+      "city_name": "LES ORMES-SUR-VOULZIE",
+      "postal_code": "77134",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "785dc346-dff6-4eb3-9a2a-a697b1a9dfd0",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "785dc346-dff6-4eb3-9a2a-a697b1a9dfd0",
+        "slug": "les-ormes-sur-voulzie",
+        "name": "Les Ormes-sur-Voulzie",
+        "postal_codes": [
+          "77134"
+        ],
+        "city_id": null,
+        "latitude": 48.4615634,
+        "longitude": 3.2269469
+      },
+      "notes": "Exact slug match: les-ormes-sur-voulzie",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "917e1fb6-3e02-46b1-9ed3-1bf09e8ffeb6",
+      "url": "https://allo-electricien.pro/lumigny-nesles-ormeaux",
+      "url_path": "/lumigny-nesles-ormeaux",
+      "city_name": "LUMIGNY-NESLES-ORMEAUX",
+      "postal_code": "77540",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "9df4caa8-6a27-4194-bce6-9dbf9d66372b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "9df4caa8-6a27-4194-bce6-9dbf9d66372b",
+        "slug": "lumigny-nesles-ormeaux",
+        "name": "Lumigny-Nesles-Ormeaux",
+        "postal_codes": [
+          "77540"
+        ],
+        "city_id": null,
+        "latitude": 48.7335673,
+        "longitude": 2.9510173
+      },
+      "notes": "Exact slug match: lumigny-nesles-ormeaux",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "def36487-b510-44c0-8fb2-b9b08baf2d2c",
+      "url": "https://allo-electricien.pro/montlignon",
+      "url_path": "/montlignon",
+      "city_name": "MONTLIGNON",
+      "postal_code": "95680",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "65cb58bf-5b46-4eee-a157-971c87880df4",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "65cb58bf-5b46-4eee-a157-971c87880df4",
+        "slug": "montlignon",
+        "name": "Montlignon",
+        "postal_codes": [
+          "95680"
+        ],
+        "city_id": null,
+        "latitude": 49.008969,
+        "longitude": 2.2862669
+      },
+      "notes": "Exact slug match: montlignon",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "81e4068a-3deb-4ed1-b5a0-acb7080efbab",
+      "url": "https://allo-electricien.pro/montreuil-sur-epte",
+      "url_path": "/montreuil-sur-epte",
+      "city_name": "MONTREUIL-SUR-EPTE",
+      "postal_code": "95770",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "6a9e8e2e-eae8-4646-a8e2-7361cb5c2ce1",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "6a9e8e2e-eae8-4646-a8e2-7361cb5c2ce1",
+        "slug": "montreuil-sur-epte",
+        "name": "Montreuil-sur-Epte",
+        "postal_codes": [
+          "95770"
+        ],
+        "city_id": null,
+        "latitude": 49.0340869,
+        "longitude": 2.0779629
+      },
+      "notes": "Exact slug match: montreuil-sur-epte",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "60583c79-93fd-469f-9e9b-410b47bdc549",
+      "url": "https://allo-electricien.pro/montrouge",
+      "url_path": "/montrouge",
+      "city_name": "MONTROUGE",
+      "postal_code": "92120",
+      "department": "92",
+      "city_id": null,
+      "geographic_target_id": "a3ef2d18-df2d-4b74-b888-4a17fab56b96",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a3ef2d18-df2d-4b74-b888-4a17fab56b96",
+        "slug": "montrouge",
+        "name": "Montrouge",
+        "postal_codes": [
+          "92120"
+        ],
+        "city_id": null,
+        "latitude": 48.8112265,
+        "longitude": 2.3022982
+      },
+      "notes": "Exact slug match: montrouge",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "48526726-d8f1-4241-9602-232fadea745f",
+      "url": "https://allo-electricien.pro/neuilly-plaisance",
+      "url_path": "/neuilly-plaisance",
+      "city_name": "NEUILLY-PLAISANCE",
+      "postal_code": "93360",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "71d8f1d1-9e64-4543-92a0-c0973dbfd95b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "71d8f1d1-9e64-4543-92a0-c0973dbfd95b",
+        "slug": "neuilly-plaisance",
+        "name": "Neuilly-Plaisance",
+        "postal_codes": [
+          "93360"
+        ],
+        "city_id": null,
+        "latitude": 48.8608712,
+        "longitude": 2.5060144
+      },
+      "notes": "Exact slug match: neuilly-plaisance",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "81ce6f7f-cffd-4466-86c9-bc9933842ada",
+      "url": "https://allo-electricien.pro/nogent-sur-marne",
+      "url_path": "/nogent-sur-marne",
+      "city_name": "NOGENT-SUR-MARNE",
+      "postal_code": "94130",
+      "department": "94",
+      "city_id": null,
+      "geographic_target_id": "a1956c02-efc8-4905-9716-60a78f6c8086",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "a1956c02-efc8-4905-9716-60a78f6c8086",
+        "slug": "nogent-sur-marne",
+        "name": "Nogent-sur-Marne",
+        "postal_codes": [
+          "94130"
+        ],
+        "city_id": null,
+        "latitude": 48.8227106,
+        "longitude": 2.5119367
+      },
+      "notes": "Exact slug match: nogent-sur-marne",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "7b5c59de-c174-4edd-b4b3-2a6f27f59c05",
+      "url": "https://allo-electricien.pro/noisy-le-grand",
+      "url_path": "/noisy-le-grand",
+      "city_name": "NOISY-LE-GRAND",
+      "postal_code": "93160",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "4d189e8e-ca64-4b72-bf13-4117404160c1",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "4d189e8e-ca64-4b72-bf13-4117404160c1",
+        "slug": "noisy-le-grand",
+        "name": "Noisy-le-Grand",
+        "postal_codes": [
+          "93160"
+        ],
+        "city_id": null,
+        "latitude": 48.8305523,
+        "longitude": 2.5580382
+      },
+      "notes": "Exact slug match: noisy-le-grand",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "ce2ee864-b0e3-4db7-8a2c-4c290ea5a3e0",
+      "url": "https://allo-electricien.pro/noisy-le-sec",
+      "url_path": "/noisy-le-sec",
+      "city_name": "NOISY-LE-SEC",
+      "postal_code": "93130",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "812b80ed-da59-44af-b84e-ad41cd5cb3b4",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "812b80ed-da59-44af-b84e-ad41cd5cb3b4",
+        "slug": "noisy-le-sec",
+        "name": "Noisy-le-Sec",
+        "postal_codes": [
+          "93130"
+        ],
+        "city_id": null,
+        "latitude": 48.8897751,
+        "longitude": 2.4516055
+      },
+      "notes": "Exact slug match: noisy-le-sec",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "46b9c23a-9215-4dfd-80f9-c4906c5d9754",
+      "url": "https://allo-electricien.pro/oinville-sur-montcient",
+      "url_path": "/oinville-sur-montcient",
+      "city_name": "OINVILLE-SUR-MONTCIENT",
+      "postal_code": "78250",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "4773f5e1-0933-4546-be25-329cb8cdb8fd",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "4773f5e1-0933-4546-be25-329cb8cdb8fd",
+        "slug": "oinville-sur-montcient",
+        "name": "Oinville-sur-Montcient",
+        "postal_codes": [
+          "78250"
+        ],
+        "city_id": null,
+        "latitude": 48.9752349,
+        "longitude": 1.7160458
+      },
+      "notes": "Exact slug match: oinville-sur-montcient",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "359cecfd-7d78-40dd-b777-0bab92dc6a5d",
+      "url": "https://allo-electricien.pro/paris-10e-arrondissement",
+      "url_path": "/paris-10e-arrondissement",
+      "city_name": "10E ARRONDISSEMENT",
+      "postal_code": "7510",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "577eaa1c-a86f-4896-932b-e696d486c7de",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "577eaa1c-a86f-4896-932b-e696d486c7de",
+        "slug": "paris-10e-arrondissement",
+        "name": "10e Arrondissement",
+        "postal_codes": [
+          "7510"
+        ],
+        "city_id": null,
+        "latitude": 48.876225,
+        "longitude": 2.3595209
+      },
+      "notes": "Exact slug match: paris-10e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "cf46f755-a9d9-46dc-b1b4-a8c6a7753053",
+      "url": "https://allo-electricien.pro/paris-11e-arrondissement",
+      "url_path": "/paris-11e-arrondissement",
+      "city_name": "11E ARRONDISSEMENT",
+      "postal_code": "7511",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "0b91ddc2-80ba-4fbb-bf1e-eb80ceeecc0d",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "0b91ddc2-80ba-4fbb-bf1e-eb80ceeecc0d",
+        "slug": "paris-11e-arrondissement",
+        "name": "11e Arrondissement",
+        "postal_codes": [
+          "7511"
+        ],
+        "city_id": null,
+        "latitude": 48.858416,
+        "longitude": 2.379703
+      },
+      "notes": "Exact slug match: paris-11e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "75bea5be-3b3a-48a7-a92a-552ce6ecf097",
+      "url": "https://allo-electricien.pro/paris-13e-arrondissement",
+      "url_path": "/paris-13e-arrondissement",
+      "city_name": "13E ARRONDISSEMENT",
+      "postal_code": "7513",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "0affa6bb-fcd9-4e5f-913d-4b0f20824394",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "0affa6bb-fcd9-4e5f-913d-4b0f20824394",
+        "slug": "paris-13e-arrondissement",
+        "name": "13e Arrondissement",
+        "postal_codes": [
+          "7513"
+        ],
+        "city_id": null,
+        "latitude": 48.8290105,
+        "longitude": 2.3636124
+      },
+      "notes": "Exact slug match: paris-13e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "f7101446-c0f5-4413-9aab-57a8e98c930a",
+      "url": "https://allo-electricien.pro/paris-19e-arrondissement",
+      "url_path": "/paris-19e-arrondissement",
+      "city_name": "19E ARRONDISSEMENT",
+      "postal_code": "7519",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "ab1aa95d-7334-4d63-9341-56e30d449ca5",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "ab1aa95d-7334-4d63-9341-56e30d449ca5",
+        "slug": "paris-19e-arrondissement",
+        "name": "19e Arrondissement",
+        "postal_codes": [
+          "7519"
+        ],
+        "city_id": null,
+        "latitude": 48.889343,
+        "longitude": 2.38436
+      },
+      "notes": "Exact slug match: paris-19e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "0acd18f2-a92e-456e-9aac-0453da1c05bd",
+      "url": "https://allo-electricien.pro/paris-17",
+      "url_path": "/paris-17",
+      "city_name": "Paris 17",
+      "postal_code": "75017",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "7f1e89ce-d2a9-4803-a8d3-a8acb5f255cd",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "7f1e89ce-d2a9-4803-a8d3-a8acb5f255cd",
+        "slug": "paris-17",
+        "name": "Paris 17",
+        "postal_codes": [
+          "75017"
+        ],
+        "city_id": null,
+        "latitude": 48.8694234,
+        "longitude": 2.3366051
+      },
+      "notes": "Exact slug match: paris-17",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "7276511a-2cda-45ba-98ce-b8ae772f4b66",
+      "url": "https://allo-electricien.pro/paris-17e-arrondissement",
+      "url_path": "/paris-17e-arrondissement",
+      "city_name": "17E ARRONDISSEMENT",
+      "postal_code": "7517",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "73bf63c5-5d41-4583-b3d2-6e3197ad59ca",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "73bf63c5-5d41-4583-b3d2-6e3197ad59ca",
+        "slug": "paris-17e-arrondissement",
+        "name": "17e Arrondissement",
+        "postal_codes": [
+          "7517"
+        ],
+        "city_id": null,
+        "latitude": 48.8869265,
+        "longitude": 2.3065472
+      },
+      "notes": "Exact slug match: paris-17e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "67c347b6-307e-4cef-b168-4c85ab58ae85",
+      "url": "https://allo-electricien.pro/paris-20e-arrondissement",
+      "url_path": "/paris-20e-arrondissement",
+      "city_name": "20E ARRONDISSEMENT",
+      "postal_code": "7520",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": "66f930ef-68f8-40cd-ada6-df4ad9515b65",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "66f930ef-68f8-40cd-ada6-df4ad9515b65",
+        "slug": "paris-20e-arrondissement",
+        "name": "20e Arrondissement",
+        "postal_codes": [
+          "7520"
+        ],
+        "city_id": null,
+        "latitude": 48.865042,
+        "longitude": 2.398929
+      },
+      "notes": "Exact slug match: paris-20e-arrondissement",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "709e199b-7ba7-4d21-8bf1-1978b16cdce4",
+      "url": "https://allo-electricien.pro/pierrefitte-sur-seine",
+      "url_path": "/pierrefitte-sur-seine",
+      "city_name": "PIERREFITTE-SUR-SEINE",
+      "postal_code": "93380",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "54114b08-b4f7-47c0-bef8-cf50a8f2994b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "54114b08-b4f7-47c0-bef8-cf50a8f2994b",
+        "slug": "pierrefitte-sur-seine",
+        "name": "Pierrefitte-sur-Seine",
+        "postal_codes": [
+          "93380"
+        ],
+        "city_id": null,
+        "latitude": 48.9604165,
+        "longitude": 2.3630609
+      },
+      "notes": "Exact slug match: pierrefitte-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "19262c55-d2aa-4766-92af-a3bb9232175e",
+      "url": "https://allo-electricien.pro/rouvres",
+      "url_path": "/rouvres",
+      "city_name": "ROUVRES",
+      "postal_code": "77230",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "5f91f4b3-139e-49fc-9b93-bb7bfab4f732",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5f91f4b3-139e-49fc-9b93-bb7bfab4f732",
+        "slug": "rouvres",
+        "name": "Rouvres",
+        "postal_codes": [
+          "77230"
+        ],
+        "city_id": null,
+        "latitude": 48.705231,
+        "longitude": 2.4406534
+      },
+      "notes": "Exact slug match: rouvres",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "7b48c05a-46ea-4591-8fb8-0cbdea590b6b",
+      "url": "https://allo-electricien.pro/saint-jean-de-beauregard",
+      "url_path": "/saint-jean-de-beauregard",
+      "city_name": "SAINT-JEAN-DE-BEAUREGARD",
+      "postal_code": "91940",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "83f2c8f6-da33-476b-a9eb-0210b4ea821e",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "83f2c8f6-da33-476b-a9eb-0210b4ea821e",
+        "slug": "saint-jean-de-beauregard",
+        "name": "Saint-Jean-de-Beauregard",
+        "postal_codes": [
+          "91940"
+        ],
+        "city_id": null,
+        "latitude": 48.5113662,
+        "longitude": 2.2957893
+      },
+      "notes": "Exact slug match: saint-jean-de-beauregard",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "a0fdae3e-3483-46d0-a560-e18a3e4ee7f6",
+      "url": "https://allo-electricien.pro/saint-michel-sur-orge",
+      "url_path": "/saint-michel-sur-orge",
+      "city_name": "SAINT-MICHEL-SUR-ORGE",
+      "postal_code": "91240",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "66b0eab9-9f1d-4050-b358-d71a825e5e87",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "66b0eab9-9f1d-4050-b358-d71a825e5e87",
+        "slug": "saint-michel-sur-orge",
+        "name": "Saint-Michel-sur-Orge",
+        "postal_codes": [
+          "91240"
+        ],
+        "city_id": null,
+        "latitude": 48.6302735,
+        "longitude": 2.3027478
+      },
+      "notes": "Exact slug match: saint-michel-sur-orge",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "088b4095-f859-4ced-a26c-e982924a644d",
+      "url": "https://allo-electricien.pro/saint-ouen",
+      "url_path": "/saint-ouen",
+      "city_name": "SAINT-OUEN",
+      "postal_code": "93400",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "94591f27-a984-4b81-927e-54cef1dfd701",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "94591f27-a984-4b81-927e-54cef1dfd701",
+        "slug": "saint-ouen",
+        "name": "Saint-Ouen",
+        "postal_codes": [
+          "93400"
+        ],
+        "city_id": null,
+        "latitude": 48.911729,
+        "longitude": 2.334267
+      },
+      "notes": "Exact slug match: saint-ouen",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "619674ec-3d55-41a9-ac6a-b09c2cc9bdc8",
+      "url": "https://allo-electricien.pro/sannois",
+      "url_path": "/sannois",
+      "city_name": "SANNOIS",
+      "postal_code": "95110",
+      "department": "95",
+      "city_id": null,
+      "geographic_target_id": "76985ff1-ede7-4e67-bdd3-3b4703fe685b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "76985ff1-ede7-4e67-bdd3-3b4703fe685b",
+        "slug": "sannois",
+        "name": "Sannois",
+        "postal_codes": [
+          "95110"
+        ],
+        "city_id": null,
+        "latitude": 48.9717267,
+        "longitude": 2.2568296
+      },
+      "notes": "Exact slug match: sannois",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "386a0872-dd9d-4f6d-b8a3-2a9f2459d583",
+      "url": "https://allo-electricien.pro/sevran",
+      "url_path": "/sevran",
+      "city_name": "SEVRAN",
+      "postal_code": "93270",
+      "department": "93",
+      "city_id": null,
+      "geographic_target_id": "7189ec0f-fd7c-41c1-8e60-225e78fe00b9",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "7189ec0f-fd7c-41c1-8e60-225e78fe00b9",
+        "slug": "sevran",
+        "name": "Sevran",
+        "postal_codes": [
+          "93270"
+        ],
+        "city_id": null,
+        "latitude": 48.937634,
+        "longitude": 2.5298164
+      },
+      "notes": "Exact slug match: sevran",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "df4cd9c9-affc-45be-b748-caf5da6b4843",
+      "url": "https://allo-electricien.pro/souzy-la-briche",
+      "url_path": "/souzy-la-briche",
+      "city_name": "SOUZY-LA-BRICHE",
+      "postal_code": "91580",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "5d4239f9-8f00-4144-a2e8-0e252ba47b51",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5d4239f9-8f00-4144-a2e8-0e252ba47b51",
+        "slug": "souzy-la-briche",
+        "name": "Souzy-la-Briche",
+        "postal_codes": [
+          "91580"
+        ],
+        "city_id": null,
+        "latitude": 48.436168,
+        "longitude": 2.3754158
+      },
+      "notes": "Exact slug match: souzy-la-briche",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "203d47f9-362e-4624-ab66-5f949733d5bc",
+      "url": "https://allo-electricien.pro/varennes-sur-seine",
+      "url_path": "/varennes-sur-seine",
+      "city_name": "VARENNES-SUR-SEINE",
+      "postal_code": "77130",
+      "department": "77",
+      "city_id": null,
+      "geographic_target_id": "5d39ad35-9896-48c1-97ae-24ff7601f339",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5d39ad35-9896-48c1-97ae-24ff7601f339",
+        "slug": "varennes-sur-seine",
+        "name": "Varennes-sur-Seine",
+        "postal_codes": [
+          "77130"
+        ],
+        "city_id": null,
+        "latitude": 48.6605528,
+        "longitude": 2.5756093
+      },
+      "notes": "Exact slug match: varennes-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "591a6deb-8326-4272-bd6a-7109bb2e4ac3",
+      "url": "https://allo-electricien.pro/verneuil-sur-seine",
+      "url_path": "/verneuil-sur-seine",
+      "city_name": "VERNEUIL-SUR-SEINE",
+      "postal_code": "78480",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "9e9a0d76-2ac9-43e6-809f-e9d744899749",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "9e9a0d76-2ac9-43e6-809f-e9d744899749",
+        "slug": "verneuil-sur-seine",
+        "name": "Verneuil-sur-Seine",
+        "postal_codes": [
+          "78480"
+        ],
+        "city_id": null,
+        "latitude": 48.9792052,
+        "longitude": 1.9756367
+      },
+      "notes": "Exact slug match: verneuil-sur-seine",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "091314d8-3277-438b-b789-e466cd35d04f",
+      "url": "https://allo-electricien.pro/videlles",
+      "url_path": "/videlles",
+      "city_name": "VIDELLES",
+      "postal_code": "91890",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "5042f580-6d63-4bee-904d-e5a5d69e1735",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "5042f580-6d63-4bee-904d-e5a5d69e1735",
+        "slug": "videlles",
+        "name": "Videlles",
+        "postal_codes": [
+          "91890"
+        ],
+        "city_id": null,
+        "latitude": 48.4641375,
+        "longitude": 2.4338156
+      },
+      "notes": "Exact slug match: videlles",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "1627d14b-407e-412d-8372-0a61767fe243",
+      "url": "https://allo-electricien.pro/villiers-le-mahieu",
+      "url_path": "/villiers-le-mahieu",
+      "city_name": "VILLIERS-LE-MAHIEU",
+      "postal_code": "78770",
+      "department": "78",
+      "city_id": null,
+      "geographic_target_id": "4719ed20-4ef7-4096-8563-578eb24a638b",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "4719ed20-4ef7-4096-8563-578eb24a638b",
+        "slug": "villiers-le-mahieu",
+        "name": "Villiers-le-Mahieu",
+        "postal_codes": [
+          "78770"
+        ],
+        "city_id": null,
+        "latitude": 48.5652685,
+        "longitude": 1.9611557
+      },
+      "notes": "Exact slug match: villiers-le-mahieu",
+      "use_geo_target": true
+    },
+    {
+      "page_id": "416182d2-2e8a-46de-a613-a53a6b13bc2a",
+      "url": "https://allo-electricien.pro/yerres",
+      "url_path": "/yerres",
+      "city_name": "YERRES",
+      "postal_code": "91330",
+      "department": "91",
+      "city_id": null,
+      "geographic_target_id": "9d5a8bf6-200b-45a7-8d5b-b928c3cbe604",
+      "strategy": "exact_slug",
+      "confidence": 1,
+      "matched_location": {
+        "id": "9d5a8bf6-200b-45a7-8d5b-b928c3cbe604",
+        "slug": "yerres",
+        "name": "Yerres",
+        "postal_codes": [
+          "91330"
+        ],
+        "city_id": null,
+        "latitude": 48.716811,
+        "longitude": 2.4879753
+      },
+      "notes": "Exact slug match: yerres",
+      "use_geo_target": true
+    }
+  ],
+  "ambiguous": [],
+  "no_match": [
+    {
+      "page_id": "3ce28a9e-3d33-488d-9135-e6ccff95eacd",
+      "url": "https://allo-electricien.pro/",
+      "url_path": "/",
+      "city_name": null,
+      "postal_code": null,
+      "department": null,
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: unknown",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "b302dcc4-d6ac-4ddd-9e03-5fedf6ca6fa3",
+      "url": "https://allo-electricien.pro/paris-10e",
+      "url_path": "/paris-10e",
+      "city_name": "Paris 10e",
+      "postal_code": "75110",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 10e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "4bbf0d2e-4914-44e7-8dc5-c4e7c3d0e888",
+      "url": "https://allo-electricien.pro/paris-13e",
+      "url_path": "/paris-13e",
+      "city_name": "Paris 13e",
+      "postal_code": "75113",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 13e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "6d77ae2f-91ad-4eae-bf46-613b13d5031c",
+      "url": "https://allo-electricien.pro/paris-17e",
+      "url_path": "/paris-17e",
+      "city_name": "Paris 17e",
+      "postal_code": "75117",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 17e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "d852c01b-705a-49ab-bbe9-86c395e0d59b",
+      "url": "https://allo-electricien.pro/paris-19e",
+      "url_path": "/paris-19e",
+      "city_name": "Paris 19e",
+      "postal_code": "75119",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 19e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "13ca33dd-57cc-4a73-8a4d-0928aa94afad",
+      "url": "https://allo-electricien.pro/paris-20e",
+      "url_path": "/paris-20e",
+      "city_name": "Paris 20e",
+      "postal_code": "75120",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 20e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "75259a4f-d119-476c-9633-9905dd33007e",
+      "url": "https://allo-electricien.pro/paris-2e",
+      "url_path": "/paris-2e",
+      "city_name": "Paris 2e",
+      "postal_code": "75102",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 2e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "40a38c68-e040-492a-a2a8-5990d71a5c0a",
+      "url": "https://allo-electricien.pro/paris-4e",
+      "url_path": "/paris-4e",
+      "city_name": "Paris 4e",
+      "postal_code": "75104",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 4e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "5c950b7b-4e42-4f09-83f8-b73a1949f431",
+      "url": "https://allo-electricien.pro/paris-6e",
+      "url_path": "/paris-6e",
+      "city_name": "Paris 6e",
+      "postal_code": "75106",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 6e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "84f303f5-f076-49d4-a0f2-f460d6e4537d",
+      "url": "https://allo-electricien.pro/paris-8e",
+      "url_path": "/paris-8e",
+      "city_name": "Paris 8e",
+      "postal_code": "75108",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 8e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "886fff37-dbea-451a-b492-a384b5aa6a12",
+      "url": "https://allo-electricien.pro/paris-12e",
+      "url_path": "/paris-12e",
+      "city_name": "Paris 12e",
+      "postal_code": "75112",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 12e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "b38b24db-ab17-4310-97e0-12cefa340e41",
+      "url": "https://allo-electricien.pro/paris-14e",
+      "url_path": "/paris-14e",
+      "city_name": "Paris 14e",
+      "postal_code": "75114",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 14e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "5df7c689-2770-4891-8b01-7f3317d945e4",
+      "url": "https://allo-electricien.pro/paris-15e",
+      "url_path": "/paris-15e",
+      "city_name": "Paris 15e",
+      "postal_code": "75115",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 15e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "747bf7e0-ffc3-43cf-8faf-a5a21b1a0d84",
+      "url": "https://allo-electricien.pro/paris-16e",
+      "url_path": "/paris-16e",
+      "city_name": "Paris 16e",
+      "postal_code": "75116",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 16e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "11145163-2633-49f0-9164-189095021379",
+      "url": "https://allo-electricien.pro/paris-18e",
+      "url_path": "/paris-18e",
+      "city_name": "Paris 18e",
+      "postal_code": "75118",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 18e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "6f7f4d77-3836-4184-aab5-b5762063408a",
+      "url": "https://allo-electricien.pro/paris-1er",
+      "url_path": "/paris-1er",
+      "city_name": "Paris 1er",
+      "postal_code": "75101",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 1er",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "913211b8-4981-40a0-843b-36b395df2840",
+      "url": "https://allo-electricien.pro/paris-3e",
+      "url_path": "/paris-3e",
+      "city_name": "Paris 3e",
+      "postal_code": "75103",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 3e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "ca8ec360-408c-4282-8ddd-800d40edf8d3",
+      "url": "https://allo-electricien.pro/paris-5e",
+      "url_path": "/paris-5e",
+      "city_name": "Paris 5e",
+      "postal_code": "75105",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 5e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "13e6b107-91e8-4752-80ec-a1c86d7b782f",
+      "url": "https://allo-electricien.pro/paris-7e",
+      "url_path": "/paris-7e",
+      "city_name": "Paris 7e",
+      "postal_code": "75107",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 7e",
+      "use_geo_target": false
+    },
+    {
+      "page_id": "3ea70388-b13e-4c73-aeec-888a41b1d3bb",
+      "url": "https://allo-electricien.pro/paris-9e",
+      "url_path": "/paris-9e",
+      "city_name": "Paris 9e",
+      "postal_code": "75109",
+      "department": "75",
+      "city_id": null,
+      "geographic_target_id": null,
+      "strategy": "no_match",
+      "confidence": 0,
+      "matched_location": null,
+      "notes": "No match found for: Paris 9e",
+      "use_geo_target": false
+    }
+  ],
+  "stats": {
+    "total": 119,
+    "exact_slug": 99,
+    "postal_code_single": 0,
+    "postal_code_name": 0,
+    "postal_code_coordinates": 0,
+    "normalized_name": 0,
+    "name_coordinates": 0,
+    "ambiguous": 0,
+    "no_match": 20,
+    "using_geo_target": 99,
+    "using_city_id": 0
+  }
+}

@@ -64,5 +64,24 @@ introText: >-
   rapidement dans toute la commune pour vos dépannages, installations et mises
   aux normes électriques.
 introGeneratedAt: '2025-11-12T17:09:17.762Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BREUIL-BOIS-ROBERT
+electriciansAvailable: 7
+localLandmark: Mantes-la-Jolie
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Mantes-la-Jolie
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1235+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

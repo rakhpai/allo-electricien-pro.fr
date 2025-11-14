@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement dans toute la commune pour assurer la
   sécurité de vos installations et la continuité de vos services électriques.
 introGeneratedAt: '2025-11-12T17:30:20.286Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SAINT-ARNOULT-EN-YVELINES
+electriciansAvailable: 6
+localLandmark: Mantes-la-Jolie
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Mantes-la-Jolie
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1221+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

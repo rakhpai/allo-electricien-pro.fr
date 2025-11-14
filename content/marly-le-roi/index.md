@@ -63,5 +63,24 @@ introText: >-
   rapidement dans toute la zone pour assurer la sécurité et la fiabilité de vos
   installations.
 introGeneratedAt: '2025-11-12T17:21:59.751Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MARLY-LE-ROI
+electriciansAvailable: 6
+localLandmark: Mantes-la-Jolie
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Mantes-la-Jolie
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1247+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

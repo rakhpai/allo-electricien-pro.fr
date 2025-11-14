@@ -63,5 +63,24 @@ introText: >-
   rapidement dans toute la zone pour assurer vos réparations, installations et
   contrôles électriques avec professionnalisme.
 introGeneratedAt: '2025-11-12T16:26:20.400Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLEMER
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1493+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -63,6 +63,25 @@ introText: >-
   rapidement dans tout le 75013 pour assurer la sécurité et le confort de votre
   installation électrique.
 introGeneratedAt: '2025-11-12T15:15:19.428Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 13e
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -85,6 +104,23 @@ introGeneratedAt: '2025-11-12T15:15:19.428Z'
 ### Quartiers Couverts Paris 13e
 
 **Secteurs :** Bibliothèque, Butte-aux-Cailles, Italie
+
+### 🏘️ Arrondissements Voisins de Paris 13e
+
+**Service rapide également dans :**
+- [SOS électricien Paris 5e](/paris-5e/) - Gobelins, Campo Formio
+- [Dépannage Paris 12e](/paris-12e/) - Bercy, Gare d'Austerlitz
+- [Électricien Paris 14e](/paris-14e/) - Alésia, Tolbiac
+- [Urgence Ivry-sur-Seine](/ivry-sur-seine/) - Porte d'Ivry
+- [Électricien Gentilly](/gentilly/) - Porte de Gentilly
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

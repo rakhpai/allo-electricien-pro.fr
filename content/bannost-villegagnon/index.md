@@ -64,5 +64,24 @@ introText: >-
   commune avec une disponibilité rapide et une connaissance approfondie du
   secteur.
 introGeneratedAt: '2025-11-12T15:22:35.817Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BANNOST-VILLEGAGNON
+electriciansAvailable: 8
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 930+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

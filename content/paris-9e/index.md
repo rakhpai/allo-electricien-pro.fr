@@ -63,6 +63,25 @@ introText: >-
   tout le 75009, du Faubourg-Montmartre aux alentours de la Gare Saint-Lazare,
   avec une disponibilité adaptée aux urgences.
 introGeneratedAt: '2025-11-12T15:15:03.607Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 9e
+electriciansAvailable: 7
+localLandmark: Gare
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Gare
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1205+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -85,6 +104,23 @@ introGeneratedAt: '2025-11-12T15:15:03.607Z'
 ### Quartiers Couverts Paris 9e
 
 **Secteurs :** Opéra, Pigalle, Grands Boulevards
+
+### 🏘️ Arrondissements Voisins de Paris 9e
+
+**Service rapide également dans :**
+- [Électricien Paris 2e](/paris-2e/) - Bourse, Sentier, Montorgueil
+- [Dépannage Paris 8e](/paris-8e/) - Champs-Élysées, Madeleine
+- [SOS électricien Paris 10e](/paris-10e/) - République, Gare du Nord
+- [Urgence Paris 17e](/paris-17e/) - Place de Clichy, Batignolles
+- [Électricien Paris 18e](/paris-18e/) - Montmartre, Pigalle
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

@@ -1,4 +1,56 @@
 {{- if .IsHome }}
+<!-- WebSite Schema with SearchAction -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "{{ .Site.BaseURL }}",
+  "name": "SOS Électricien Paris - Dépannage Électrique Urgence",
+  "alternateName": "Allo Électricien",
+  "description": "{{ .Site.Params.description }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.companyName }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/logo_1.svg"
+    }
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "{{ .Site.BaseURL }}search?q={search_term_string}"
+    },
+    "query-input": "required name=search_term_string"
+  },
+  "sameAs": [
+    "https://g.page/allo-electricien-paris"
+  ],
+  "mainEntity": {
+    "@type": "Organization",
+    "name": "{{ .Site.Params.companyName }}",
+    "legalName": "{{ .Site.Params.companyName }} {{ .Site.Params.companyLegalForm }}",
+    "url": "{{ .Site.BaseURL }}",
+    "logo": "{{ .Site.BaseURL }}images/logo_1.svg",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "telephone": "+33-1-44-90-11-31",
+      "contactType": "emergency",
+      "areaServed": "FR",
+      "availableLanguage": "French"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ .Site.Params.address }}",
+      "addressLocality": "{{ .Site.Params.city }}",
+      "postalCode": "{{ .Site.Params.postalCode }}",
+      "addressCountry": "FR"
+    }
+  }
+}
+</script>
+
 <!-- FAQPage Schema for SEO -->
 {{ with .Site.Data.faq }}
 <script type="application/ld+json">

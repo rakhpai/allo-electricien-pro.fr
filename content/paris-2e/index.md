@@ -64,6 +64,25 @@ introText: >-
   interviennent rapidement dans le 75002 et ses alentours pour assurer la
   sécurité et la fiabilité de vos installations.
 introGeneratedAt: '2025-11-12T15:14:27.105Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 2e
+electriciansAvailable: 7
+localLandmark: Place de la République
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Place de la République
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1205+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 ## SOS Électricien Paris 2e - Intervention Urgente <30 Minutes
@@ -130,6 +149,23 @@ Notre **service d'électricien d'urgence** couvre l'intégralité du 2e arrondis
 - **Grands Boulevards** - Boulevard Montmartre, Boulevard des Italiens
 
 **Métros proches :** Bourse, Sentier, Réaumur-Sébastopol, Grands Boulevards, Opéra
+
+### 🏘️ Arrondissements Voisins de Paris 2e
+
+**Service rapide également dans :**
+- [Urgence Paris 1er](/paris-1er/) - Louvre, Châtelet, Les Halles
+- [Électricien Paris 3e](/paris-3e/) - Le Marais, Arts et Métiers, Temple
+- [Dépannage Paris 9e](/paris-9e/) - Opéra, Grands Magasins, Pigalle
+- [SOS électricien Paris 10e](/paris-10e/) - République, Gare du Nord, Canal Saint-Martin
+- [Urgence Clichy](/clichy/) - Porte de Clichy, Mairie de Clichy
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

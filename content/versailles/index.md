@@ -64,5 +64,24 @@ introText: >-
   électriciens interviennent rapidement sur l'ensemble du secteur versaillais
   pour tous vos dépannages, installations.
 introGeneratedAt: '2025-11-12T15:16:45.493Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VERSAILLES
+electriciansAvailable: 6
+localLandmark: Parc
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Parc
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 937+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

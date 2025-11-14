@@ -63,5 +63,24 @@ introText: >-
   rapidement sur Valmondois et ses environs pour assurer dépannages,
   installations neuves et travaux de conformité électrique.
 introGeneratedAt: '2025-11-12T16:51:07.647Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VALMONDOIS
+electriciansAvailable: 5
+localLandmark: Aéroport Roissy-CDG
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Aéroport Roissy-CDG
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 807+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement sur tout le secteur 77830, disponibles
   pour diagnostics, dépannages et travau.
 introGeneratedAt: '2025-11-12T15:35:17.456Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ÉCHOUBOULAINS
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1449+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la zone de Courances pour assurer vos
   installations, réparations et créations électriques en toute sécurité.
 introGeneratedAt: '2025-11-12T17:43:21.839Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à COURANCES
+electriciansAvailable: 7
+localLandmark: Plateau de Saclay
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Plateau de Saclay
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 819+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

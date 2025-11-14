@@ -63,5 +63,24 @@ introText: >-
   complètes.  Nous assurons une disponibilité rapide sur Chambry et ses
   alentours, avec une réactivité garantie pour sécuriser vos in.
 introGeneratedAt: '2025-11-12T15:27:34.681Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à CHAMBRY
+electriciansAvailable: 6
+localLandmark: Forêt de Fontainebleau
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1275+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

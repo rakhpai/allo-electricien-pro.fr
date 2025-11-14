@@ -63,5 +63,24 @@ introText: >-
   actuelles. Nos électriciens interviennent rapidement dans toute la commune
   pour vos dépannages, installations et mises aux normes électriques.
 introGeneratedAt: '2025-11-12T18:14:14.771Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLENEUVE-LE-ROI
+electriciansAvailable: 5
+localLandmark: Ivry-sur-Seine
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Ivry-sur-Seine
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1288+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   Grisy-sur-Seine et ses alentours, disponibles pour tous vos besoins en
   électricité générale et dépannage d'urgence.
 introGeneratedAt: '2025-11-12T15:39:51.671Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GRISY-SUR-SEINE
+electriciansAvailable: 7
+localLandmark: Provins médiéval
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Provins médiéval
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1229+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

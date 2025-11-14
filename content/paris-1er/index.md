@@ -64,6 +64,25 @@ introText: >-
   rapidement dans le 75001 pour tous vos dépannages, mises aux normes et travaux
   d'électricité générale.
 introGeneratedAt: '2025-11-12T15:14:23.175Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 1er
+electriciansAvailable: 8
+localLandmark: Tour Eiffel
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Tour Eiffel
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 833+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 ## SOS Électricien Paris 1er - Intervention Urgente <30 Minutes
@@ -131,6 +150,23 @@ Notre **service d'électricien d'urgence** couvre l'intégralité du 1er arrondi
 - **Tuileries** - Jardin des Tuileries, Place de la Concorde
 
 **Métros proches :** Châtelet, Les Halles, Louvre-Rivoli, Palais Royal, Tuileries, Pyramides
+
+### 🏘️ Arrondissements Voisins de Paris 1er
+
+**Service rapide également dans :**
+- [Électricien Paris 2e](/paris-2e/) - Bourse, Sentier, Grands Boulevards
+- [Dépannage Paris 4e](/paris-4e/) - Île de la Cité, Notre-Dame, Hôtel de Ville
+- [SOS électricien Paris 8e](/paris-8e/) - Champs-Élysées, Madeleine, Saint-Lazare
+- [Urgence Levallois-Perret](/levallois-perret/) - Porte de Champerret
+- [Électricien Neuilly-sur-Seine](/neuilly-sur-seine/) - Porte Maillot
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

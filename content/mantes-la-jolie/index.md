@@ -64,5 +64,24 @@ introText: >-
   interviennent rapidement dans toute la zone pour assurer l'entretien, la
   rénovation et le dépannage de vos systèmes électriques.
 introGeneratedAt: '2025-11-12T17:21:22.004Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MANTES-LA-JOLIE
+electriciansAvailable: 8
+localLandmark: Forêt de Rambouillet
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Rambouillet
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1422+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   mise aux normes. Nos électriciens interviennent rapidement dans la zone pour
   assurer dépannages, rénovations et installations conformes à vos besoins.
 introGeneratedAt: '2025-11-12T17:45:01.193Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à EPINAY-SUR-ORGE
+electriciansAvailable: 5
+localLandmark: Forêt de Sénart
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Sénart
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1141+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

@@ -62,5 +62,24 @@ introText: >-
   conformité aux normes actuelles. Nos électriciens interviennent rapidement sur
   toute la commune et ses alentours pour garantir votre sécurité électrique.
 introGeneratedAt: '2025-11-12T15:21:52.949Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à AUGERS-EN-BRIE
+electriciansAvailable: 7
+localLandmark: Meaux
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Meaux
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1045+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

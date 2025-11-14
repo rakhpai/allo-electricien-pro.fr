@@ -63,5 +63,24 @@ introText: >-
   actuelles. Nos électriciens interviennent rapidement dans la région pour
   assurer dépannages, rénovations et mises aux normes de vos installations.
 introGeneratedAt: '2025-11-12T18:26:06.099Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SURVILLIERS
+electriciansAvailable: 5
+localLandmark: Montmorency
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Montmorency
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1335+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

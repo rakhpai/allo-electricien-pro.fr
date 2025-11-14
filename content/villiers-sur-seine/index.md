@@ -64,5 +64,24 @@ introText: >-
   interviennent rapidement sur l'ensemble de la zone pour assurer maintenance,
   dépannage et mise aux normes de vos installations.
 introGeneratedAt: '2025-11-12T16:28:45.028Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLIERS-SUR-SEINE
+electriciansAvailable: 7
+localLandmark: Vaux-le-Vicomte
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vaux-le-Vicomte
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 972+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

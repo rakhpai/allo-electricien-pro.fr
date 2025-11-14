@@ -62,5 +62,24 @@ introText: >-
   préventive. Nos électriciens interviennent rapidement dans toute la zone pour
   assurer la sécurité et la fiabilité de vos installations électriques.
 introGeneratedAt: '2025-11-12T17:53:01.292Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MONNERVILLE
+electriciansAvailable: 7
+localLandmark: Évry-Courcouronnes
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Évry-Courcouronnes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1053+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

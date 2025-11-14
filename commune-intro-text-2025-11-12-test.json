@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "mode": "dry_run",
+    "scope": "test",
+    "processed": 5,
+    "successful": 5,
+    "failed": 0,
+    "totalTokens": 2745,
+    "cost": 0.0042568,
+    "timestamp": "2025-11-12T12:39:34.830Z"
+  },
+  "results": [
+    {
+      "commune": "Paris 1er",
+      "tier": "B",
+      "department": "75",
+      "charCount": 478,
+      "text": "À Paris 1er, au cœur du 1er arrondissement, les immeubles haussmanniens et les bâtiments historiques demandent une expertise électrique particulière et adaptée. Les installations anciennes des résidences et commerces du secteur nécessitent des interventions professionnelles régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement dans tout le 75001 pour tous vos dépannages, installations et mises aux normes électriques.",
+      "success": true
+    },
+    {
+      "commune": "Meaux",
+      "tier": "C",
+      "department": "77",
+      "charCount": 486,
+      "text": "À Meaux, commune dynamique de Seine-et-Marne, le parc immobilier diversifié alliant maisons individuelles et petits collectifs requiert une expertise électrique de proximité adaptée. Les installations anciennes des quartiers résidentiels et les besoins croissants en modernisation électrique demandent des interventions rapides et fiables. Nos électriciens interviennent sur Meaux 77100 et ses alentours avec réactivité, garantissant une couverture complète de vos urgences électriques.",
+      "success": true
+    },
+    {
+      "commune": "Versailles",
+      "tier": "C",
+      "department": "78",
+      "charCount": 479,
+      "text": "À Versailles, dans le 78000, les résidences historiques et pavillons côtoient des immeubles modernes demandant une expertise électrique adaptée à chaque époque. Les installations anciennes des quartiers patrimoniaux et les rénovations contemporaines requièrent des électriciens maîtrisant les normes actuelles et le respect des structures existantes. Nous intervenons rapidement sur l'ensemble de Versailles et ses alentours pour tous vos dépannages et installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "Évry",
+      "tier": "C",
+      "department": "91",
+      "charCount": 464,
+      "text": "À Évry, commune dynamique de l'Essonne, le parc immobilier diversifié comprend pavillons individuels et petits collectifs demandant une expertise électrique adaptée. Les installations anciennes comme les constructions récentes nécessitent des interventions régulières pour garantir sécurité et conformité aux normes actuelles. Nos électriciens interviennent rapidement sur l'ensemble du secteur 91090, disponibles pour tous vos dépannages et travaux d'électricité.",
+      "success": true
+    },
+    {
+      "commune": "Poissy",
+      "tier": "D",
+      "department": "78",
+      "charCount": 482,
+      "text": "À Poissy, en plein cœur des Yvelines, le tissu urbain mêle maisons individuelles, petits collectifs et zones commerciales qui requièrent une expertise électrique adaptée et fiable. Les installations anciennes côtoient les rénovations modernes, exigeant des électriciens maîtrisant les normes actuelles et les spécificités du patrimoine local. Nous intervenons rapidement sur l'ensemble de Poissy et ses alentours, disponibles pour diagnostics, dépannages et installations complètes.",
+      "success": true
+    }
+  ]
+}

@@ -64,5 +64,24 @@ introText: >-
   l'ensemble de Maisons-Alfort avec des interventions rapides et une
   disponibilité réactive pour tous vos dépannages électriques.
 introGeneratedAt: '2025-11-12T15:19:59.152Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à MAISONS-ALFORT
+electriciansAvailable: 6
+localLandmark: Château de Vincennes
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Vincennes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 865+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

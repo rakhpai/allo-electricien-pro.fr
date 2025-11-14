@@ -64,5 +64,24 @@ introText: >-
   électriciens interviennent rapidement sur l'ensemble du 94500 et ses
   alentours, disponibles pour tous vos dépannage.
 introGeneratedAt: '2025-11-12T15:19:17.203Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à CHAMPIGNY-SUR-MARNE
+electriciansAvailable: 8
+localLandmark: Château de Vincennes
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Vincennes
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 870+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-de-Marne
 ---
 

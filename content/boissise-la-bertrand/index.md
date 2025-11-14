@@ -64,5 +64,24 @@ introText: >-
   commune avec une disponibilité rapide pour tous vos dépannages et travaux
   électriques.
 introGeneratedAt: '2025-11-12T15:23:55.941Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOISSISE-LA-BERTRAND
+electriciansAvailable: 7
+localLandmark: Disneyland Paris
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Disneyland Paris
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 922+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

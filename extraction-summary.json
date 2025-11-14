@@ -1,0 +1,54 @@
+{
+  "timestamp": "2025-11-09T03:06:58.679Z",
+  "mode": "production",
+  "stats": {
+    "pages_scanned": 1366,
+    "pages_extracted": 1367,
+    "pages_skipped": 0,
+    "errors": []
+  },
+  "sample_page": {
+    "slug": "",
+    "url": "https://allo-electricien.pro/",
+    "url_path": "/",
+    "url_hash": "5ba9aed988f02609b27d4047407cf7f0",
+    "page_type": "homepage",
+    "is_indexed": true,
+    "draft": false,
+    "title": "⚡ Électricien Urgence Île-de-France | Dépannage Électrique 24/7",
+    "meta_description": "Service d'électricien en urgence dans toute l'Île-de-France. Dépannage électrique rapide et professionnel. Trouvez votre électricien local disponible 24/7.",
+    "h1": "⚡ Électricien Urgence Île-de-France | Dépannage Électrique 24/7",
+    "keyword": null,
+    "city_name": null,
+    "zip_code": null,
+    "department": null,
+    "latitude": null,
+    "longitude": null,
+    "company_name": null,
+    "phone": null,
+    "phone_raw": null,
+    "images": {},
+    "featured_image_url": null,
+    "og_image_url": null,
+    "hero_image": null,
+    "video_image": null,
+    "sitemap_priority": 1,
+    "sitemap_changefreq": "daily",
+    "data": {
+      "niche": "électricité",
+      "kwSource": null,
+      "framework": "Hugo",
+      "source": "hugo-extraction",
+      "original_frontmatter": {
+        "title": "⚡ Électricien Urgence Île-de-France | Dépannage Électrique 24/7",
+        "description": "Service d'électricien en urgence dans toute l'Île-de-France. Dépannage électrique rapide et professionnel. Trouvez votre électricien local disponible 24/7.",
+        "sitemap": {
+          "priority": 1,
+          "changefreq": "daily"
+        }
+      }
+    },
+    "first_seen": "2025-11-09",
+    "extracted_at": "2025-11-09T03:06:58.425Z"
+  }
+}

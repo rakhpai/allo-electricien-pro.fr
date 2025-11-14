@@ -62,6 +62,25 @@ introText: >-
   sécurité et conformité. Nous couvrons l'ensemble du 75011 avec une
   disponibilité immédiate pour tous vos dépannages et travaux électriques.
 introGeneratedAt: '2025-11-12T15:15:11.364Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à Paris 11
+electriciansAvailable: 7
+localLandmark: Place de la République
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Place de la République
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1205+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: au cœur de Paris
 ---
 
 
@@ -84,6 +103,23 @@ introGeneratedAt: '2025-11-12T15:15:11.364Z'
 ### Quartiers Couverts Paris 11e
 
 **Secteurs :** Bastille, République, Nation, Oberkampf
+
+### 🏘️ Arrondissements Voisins de Paris 11e
+
+**Service rapide également dans :**
+- [SOS électricien Paris 3e](/paris-3e/) - République, Marais Nord
+- [Dépannage Paris 4e](/paris-4e/) - Bastille, Marais Sud
+- [Électricien Paris 10e](/paris-10e/) - République, Goncourt
+- [Urgence Paris 12e](/paris-12e/) - Nation, Reuilly
+- [Électricien Paris 20e](/paris-20e/) - Belleville, Ménilmontant
+
+### 🔧 Services Complémentaires
+
+**Découvrez nos services spécialisés :**
+- [Dépannage électrique urgence IDF](/sos-electricien/) - Intervention 24/7
+- [Mise aux normes électriques](/depannage-electricite-paris/) - Conformité NF C 15-100
+- [Tarifs électricien transparents](/tarifs/) - Devis gratuit
+- [Annuaire électriciens IDF](/annuaire/) - Toutes les communes
 
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement sur Lommoye et ses alentours pour assurer
   l'entretien, la sécurité et la modernisation de vos équipements électriques.
 introGeneratedAt: '2025-11-12T17:20:33.979Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LOMMOYE
+electriciansAvailable: 5
+localLandmark: Poissy
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Poissy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1147+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

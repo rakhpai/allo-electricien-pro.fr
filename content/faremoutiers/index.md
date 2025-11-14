@@ -64,5 +64,24 @@ introText: >-
   secteur et interviennent sans délai sur toute la commune pour vos dépannages,
   installations et mises aux normes.
 introGeneratedAt: '2025-11-12T15:36:09.625Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à FAREMOUTIERS
+electriciansAvailable: 7
+localLandmark: Melun
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Melun
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1184+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

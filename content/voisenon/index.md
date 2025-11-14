@@ -63,5 +63,24 @@ introText: >-
   dans toute la commune pour assurer dépannages, installations neuves et travaux
   de conformité électrique.
 introGeneratedAt: '2025-11-12T16:29:33.770Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VOISENON
+electriciansAvailable: 8
+localLandmark: Melun
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Melun
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1183+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

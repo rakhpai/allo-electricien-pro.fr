@@ -63,5 +63,24 @@ introText: >-
   aux normes actuelles. Nos électriciens interviennent rapidement dans la région
   pour assurer dépannages, rénovations et mises aux normes de vos installations.
 introGeneratedAt: '2025-11-12T18:02:55.398Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLIERS-LE-BÂCLE
+electriciansAvailable: 5
+localLandmark: Palaiseau
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Palaiseau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1349+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

@@ -63,5 +63,24 @@ introText: >-
   électriciens interviennent rapidement sur Seugy et ses alentours pour tous vos
   besoins en dépannage, installation et maintenance électrique.
 introGeneratedAt: '2025-11-12T16:49:09.044Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à SEUGY
+electriciansAvailable: 5
+localLandmark: Aéroport Roissy-CDG
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Aéroport Roissy-CDG
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 825+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

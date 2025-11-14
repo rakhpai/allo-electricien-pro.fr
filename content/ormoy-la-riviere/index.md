@@ -64,5 +64,24 @@ introText: >-
   rapidement sur toute la zone pour vos dépannages, mises aux normes et
   installations électriques complètes.
 introGeneratedAt: '2025-11-12T17:54:28.715Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ORMOY-LA-RIVIÈRE
+electriciansAvailable: 5
+localLandmark: Les Ulis
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Les Ulis
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1280+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Essonne
 ---
 

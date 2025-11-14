@@ -1,0 +1,1317 @@
+{
+  "metadata": {
+    "mode": "live",
+    "processId": "2",
+    "range": "650-END",
+    "skipExisting": true,
+    "delay": 2400,
+    "processed": 175,
+    "successful": 75,
+    "failed": 100,
+    "totalTokens": 37465,
+    "cost": 0.062404,
+    "timestamp": "2025-11-12T16:54:34.697Z"
+  },
+  "results": [
+    {
+      "commune": "ARRONVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 544 chars (max 510)"
+    },
+    {
+      "commune": "ARTHIES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Arthies, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs caractéristiques de la région. Les installations électriques de ces habitations, souvent anciennes ou rénovées, nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage urgent. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et maintenances électriques en toute sécurité.",
+      "success": true
+    },
+    {
+      "commune": "ASNIERES-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 505,
+      "text": "À Asnières-sur-Oise, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits immeubles d'habitation aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles électriques.",
+      "success": true
+    },
+    {
+      "commune": "ATTAINVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 504,
+      "text": "À Attainville, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent un entretien régulier, des mises aux normes et des interventions d'urgence adaptées aux spécificités du bâti local. Nos électriciens interviennent rapidement sur Attainville et ses alentours pour assurer la sécurité de vos installations et la continuité de vos services électriques.",
+      "success": true
+    },
+    {
+      "commune": "AUVERS-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 560 chars (max 510)"
+    },
+    {
+      "commune": "AVERNES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 525 chars (max 510)"
+    },
+    {
+      "commune": "BAILLET-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 565 chars (max 510)"
+    },
+    {
+      "commune": "BANTHELU",
+      "tier": "D",
+      "department": "95",
+      "charCount": 494,
+      "text": "À Banthelu, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Banthelu et ses alentours pour assurer dépannages, installations et conformité électrique de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "BEAUCHAMP",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 539 chars (max 510)"
+    },
+    {
+      "commune": "BEAUMONT-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 534 chars (max 510)"
+    },
+    {
+      "commune": "BELLEFONTAINE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 484,
+      "text": "À Bellefontaine, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'électricité générale de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "BELLOY-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 559 chars (max 510)"
+    },
+    {
+      "commune": "BERNES-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 492,
+      "text": "À Bernes-sur-Oise, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Bernes-sur-Oise et ses alentours pour tous vos besoins en dépannage, installation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "BERVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 486,
+      "text": "À Berville, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans Berville et ses environs pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "BESSANCOURT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 550 chars (max 510)"
+    },
+    {
+      "commune": "BÉTHEMONT-LA-FORÊT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 539 chars (max 510)"
+    },
+    {
+      "commune": "BEZONS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 497,
+      "text": "À Bezons, commune résidentielle du Val-d'Oise, le tissu urbain se compose principalement d'habitations individuelles et d'immeubles collectifs aux installations anciennes et modernes. Les installations électriques de ces logements nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et maintenances électriques.",
+      "success": true
+    },
+    {
+      "commune": "BOISEMONT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 564 chars (max 510)"
+    },
+    {
+      "commune": "BOISSY-L'AILLERIE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 477,
+      "text": "À Boissy-l'Aillerie, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles électriques.",
+      "success": true
+    },
+    {
+      "commune": "BONNEUIL-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 551 chars (max 510)"
+    },
+    {
+      "commune": "BOUFFEMONT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 548 chars (max 510)"
+    },
+    {
+      "commune": "BOUQUEVAL",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 570 chars (max 510)"
+    },
+    {
+      "commune": "BRAY-ET-LÛ",
+      "tier": "D",
+      "department": "95",
+      "charCount": 510,
+      "text": "À Bray-et-Lû, petite commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits collectifs caractéristiques de l'Île-de-France rurale. Les installations électriques de ces habitations, souvent anciennes, nécessitent des mises aux normes régulières, des dépannages d'urgence et des extensions pour répondre aux besoins énergétiques modernes. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de v",
+      "success": true
+    },
+    {
+      "commune": "BRÉANÇON",
+      "tier": "D",
+      "department": "95",
+      "charCount": 510,
+      "text": "À Bréançon, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs caractéristiques de la région. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "BRIGNANCOURT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 507,
+      "text": "À Brignancourt, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux de conformité électrique de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "BRUYERES-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 534 chars (max 510)"
+    },
+    {
+      "commune": "BUHY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 551 chars (max 510)"
+    },
+    {
+      "commune": "BUTRY-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 544 chars (max 510)"
+    },
+    {
+      "commune": "CHAMPAGNE-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 477,
+      "text": "À Champagne-sur-Oise, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité des normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "CHARMONT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 540 chars (max 510)"
+    },
+    {
+      "commune": "CHARS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Chars, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement sur Chars et ses alentours pour tous vos besoins en électricité générale, rénovation et maintenance.",
+      "success": true
+    },
+    {
+      "commune": "CHÂTENAY-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 510,
+      "text": "À Châtenay-en-France, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'installation électrique adaptés à vos besoins.",
+      "success": true
+    },
+    {
+      "commune": "CHAUMONTEL",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 536 chars (max 510)"
+    },
+    {
+      "commune": "CHAUSSY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 502,
+      "text": "À Chaussy, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs caractéristiques de la région. Les installations électriques de ces habitations, souvent anciennes ou en rénovation, nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage urgent. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et répondre à tous vos besoins en électricité générale.",
+      "success": true
+    },
+    {
+      "commune": "CHAUVRY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 514 chars (max 510)"
+    },
+    {
+      "commune": "CHENNEVIÈRES-LÈS-LOUVRES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 550 chars (max 510)"
+    },
+    {
+      "commune": "CHÉRENCE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 498,
+      "text": "À Chérence, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de bâtiments anciens caractéristiques de la région. Les installations électriques de ces propriétés nécessitent des mises aux normes régulières et des interventions adaptées aux spécificités des constructions traditionnelles. Nos électriciens interviennent rapidement dans tout Chérence pour assurer l'entretien, la réparation et l'amélioration de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "CLÉRY-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 533 chars (max 510)"
+    },
+    {
+      "commune": "COMMENY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 531 chars (max 510)"
+    },
+    {
+      "commune": "CONDÉCOURT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 491,
+      "text": "À Condécourt, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles caractéristiques de l'Île-de-France. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et la continuité de vos services électriques.",
+      "success": true
+    },
+    {
+      "commune": "CORMEILLES-EN-PARISIS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 499,
+      "text": "À Cormeilles-en-Parisis, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, installations et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "CORMEILLES-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 540 chars (max 510)"
+    },
+    {
+      "commune": "COURCELLES-SUR-VIOSNE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 469,
+      "text": "À Courcelles-sur-Viosne, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "COURDIMANCHE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 500,
+      "text": "À Courdimanche, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour vos besoins en électricité générale, rénovation et maintenance d'installations.",
+      "success": true
+    },
+    {
+      "commune": "DEUIL-LA-BARRE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 549 chars (max 510)"
+    },
+    {
+      "commune": "DOMONT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 547 chars (max 510)"
+    },
+    {
+      "commune": "EAUBONNE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 567 chars (max 510)"
+    },
+    {
+      "commune": "ECOUEN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 577 chars (max 510)"
+    },
+    {
+      "commune": "ENGHIEN-LES-BAINS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 571 chars (max 510)"
+    },
+    {
+      "commune": "ENNERY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 504,
+      "text": "À Ennery, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations de ces habitations nécessitent un entretien régulier et des mises aux normes pour garantir la sécurité des habitants et la conformité réglementaire. Nos électriciens interviennent rapidement sur l'ensemble de la commune pour tous vos travaux d'installation, de maintenance et de dépannage électrique.",
+      "success": true
+    },
+    {
+      "commune": "ÉPIAIS-LÈS-LOUVRES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 509,
+      "text": "À Épiais-lès-Louvres, commune résidentielle du Val-d'Oise située en Île-de-France, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations de ces habitations nécessitent un entretien régulier et des mises aux normes pour garantir la sécurité des familles et la conformité réglementaire. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations et maintenance de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "ÉPIAIS-RHUS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 500,
+      "text": "À Épiais-Rhus, petite commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, installations et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "ÉPINAY-CHAMPLÂTREUX",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 520 chars (max 510)"
+    },
+    {
+      "commune": "ERAGNY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 527 chars (max 510)"
+    },
+    {
+      "commune": "ERMONT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 497,
+      "text": "À Ermont, commune résidentielle du Val-d'Oise, le tissu urbain se compose principalement de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles électriques.",
+      "success": true
+    },
+    {
+      "commune": "EZANVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 545 chars (max 510)"
+    },
+    {
+      "commune": "FONTENAY-EN-PARISIS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 571 chars (max 510)"
+    },
+    {
+      "commune": "FOSSES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Fosses, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations souvent anciennes. Les installations électriques de ces habitations nécessitent des mises aux normes régulières, des dépannages d'urgence et des travaux de rénovation pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "FRANCONVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 573 chars (max 510)"
+    },
+    {
+      "commune": "FRÉMAINVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 489,
+      "text": "À Frémainville, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations de ces habitations, souvent anciennes ou en rénovation, nécessitent des interventions régulières en conformité électrique, dépannage et mise aux normes. Nos électriciens interviennent rapidement dans la commune pour assurer vos dépannages, entretiens et travaux de sécurisation électrique.",
+      "success": true
+    },
+    {
+      "commune": "FRÉMÉCOURT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 559 chars (max 510)"
+    },
+    {
+      "commune": "FREPILLON",
+      "tier": "D",
+      "department": "95",
+      "charCount": 502,
+      "text": "À Frépillon, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs caractéristiques de l'Île-de-France. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement sur l'ensemble de Frépillon pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "FROUVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 513 chars (max 510)"
+    },
+    {
+      "commune": "GADANCOURT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 530 chars (max 510)"
+    },
+    {
+      "commune": "GARGES-LES-GONESSE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 507,
+      "text": "À Garges-les-Gonesse, commune résidentielle du Val-d'Oise, le tissu urbain se compose principalement de maisons individuelles et d'immeubles collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'électricité générale de vos habitations.",
+      "success": true
+    },
+    {
+      "commune": "GENAINVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 490,
+      "text": "À Genainville, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Genainville et ses alentours pour tous vos besoins en dépannage, installation et entretien électrique.",
+      "success": true
+    },
+    {
+      "commune": "GÉNICOURT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 490,
+      "text": "À Génicourt, petite commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières en maintenance, rénovation et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations neuves et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "GONESSE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 537 chars (max 510)"
+    },
+    {
+      "commune": "GOUSSAINVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 550 chars (max 510)"
+    },
+    {
+      "commune": "GOUZANGREZ",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 553 chars (max 510)"
+    },
+    {
+      "commune": "GRISY-LES-PLÂTRES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 465,
+      "text": "À Grisy-les-Plâtres, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes en vigueur. Nos électriciens interviennent rapidement dans la région pour assurer l'entretien, la rénovation et le dépannage de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "GROSLAY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 536 chars (max 510)"
+    },
+    {
+      "commune": "GUIRY-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "charCount": 505,
+      "text": "À Guiry-en-Vexin, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Guiry-en-Vexin et ses alentours pour assurer l'entretien, les dépannages et les travaux d'amélioration de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "HARAVILLIERS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 530 chars (max 510)"
+    },
+    {
+      "commune": "HAUTE-ISLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 524 chars (max 510)"
+    },
+    {
+      "commune": "HÉDOUVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 494,
+      "text": "À Hédouville, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour assurer la sécurité des habitants. Nos électriciens interviennent rapidement dans la commune pour tous vos besoins en électricité générale, rénovation et installation de systèmes modernes.",
+      "success": true
+    },
+    {
+      "commune": "HERBLAY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 549 chars (max 510)"
+    },
+    {
+      "commune": "HÉROUVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 543 chars (max 510)"
+    },
+    {
+      "commune": "HODENT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 516 chars (max 510)"
+    },
+    {
+      "commune": "JAGNY-SOUS-BOIS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Jagny-sous-Bois, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour assurer la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour vous proposer des services de qualité adaptés à vos besoins résidentiels.",
+      "success": true
+    },
+    {
+      "commune": "JOUY-LE-MOUTIER",
+      "tier": "D",
+      "department": "95",
+      "charCount": 507,
+      "text": "À Jouy-le-Moutier, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles d'habitation caractéristiques de l'Île-de-France. Les installations électriques de ces bâtiments, souvent anciennes ou en rénovation, nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et répondre à tous vos besoins",
+      "success": true
+    },
+    {
+      "commune": "L'ISLE-ADAM",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 522 chars (max 510)"
+    },
+    {
+      "commune": "LA CHAPELLE-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 542 chars (max 510)"
+    },
+    {
+      "commune": "LA FRETTE-SUR-SEINE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 538 chars (max 510)"
+    },
+    {
+      "commune": "LA ROCHE-GUYON",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 528 chars (max 510)"
+    },
+    {
+      "commune": "LABBEVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 556 chars (max 510)"
+    },
+    {
+      "commune": "LASSY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 546 chars (max 510)"
+    },
+    {
+      "commune": "LE BELLAY-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "charCount": 487,
+      "text": "À Le Bellay-en-Vexin, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, rénovation et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations neuves et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LE HEAULME",
+      "tier": "D",
+      "department": "95",
+      "charCount": 504,
+      "text": "À Le Heaulme, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations et contrôles de conformité adaptés à vos besoins.",
+      "success": true
+    },
+    {
+      "commune": "LE MESNIL-AUBRY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 557 chars (max 510)"
+    },
+    {
+      "commune": "LE PERCHAY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Le Perchay, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement sur Le Perchay et ses alentours pour assurer l'entretien, la réparation et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "LE PLESSIS-BOUCHARD",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 536 chars (max 510)"
+    },
+    {
+      "commune": "LE PLESSIS-GASSOT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 497,
+      "text": "À Le Plessis-Gassot, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans Le Plessis-Gassot et ses alentours pour tous vos besoins en dépannage, installation et conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LE PLESSIS-LUZARCHES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 547 chars (max 510)"
+    },
+    {
+      "commune": "LE THILLAY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 505,
+      "text": "À Le Thillay, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos travaux d'installation, de rénovation et de maintenance électrique.",
+      "success": true
+    },
+    {
+      "commune": "LIVILLIERS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 509,
+      "text": "À Livilliers, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières en maintenance, dépannage et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les réparations et les installations électriques adaptées à vos besoins.",
+      "success": true
+    },
+    {
+      "commune": "LONGUESSE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 507,
+      "text": "À Longuesse, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières en maintenance, rénovation et mise aux normes pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer dépannages, installations neuves et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "LOUVRES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 535 chars (max 510)"
+    },
+    {
+      "commune": "LUZARCHES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 493,
+      "text": "À Luzarches, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement à Luzarches et ses alentours pour assurer l'entretien, la réparation et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "MAFFLIERS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 550 chars (max 510)"
+    },
+    {
+      "commune": "MAGNY-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 514 chars (max 510)"
+    },
+    {
+      "commune": "MAREIL-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 573 chars (max 510)"
+    },
+    {
+      "commune": "MARGENCY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 511 chars (max 510)"
+    },
+    {
+      "commune": "MARINES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 475,
+      "text": "À Marines, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Marines et ses alentours pour assurer l'entretien, le dépannage et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "MARLY-LA-VILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 532 chars (max 510)"
+    },
+    {
+      "commune": "MAUDÉTOUR-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 557 chars (max 510)"
+    },
+    {
+      "commune": "MENOUVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 475,
+      "text": "À Menouville, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité des normes électriques actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "MENUCOURT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 561 chars (max 510)"
+    },
+    {
+      "commune": "MERIEL",
+      "tier": "D",
+      "department": "95",
+      "charCount": 474,
+      "text": "À Mériel, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la région nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Mériel et ses alentours pour tous vos besoins en dépannage, installation et conseil électrique.",
+      "success": true
+    },
+    {
+      "commune": "MERY-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 552 chars (max 510)"
+    },
+    {
+      "commune": "MOISSELLES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 550 chars (max 510)"
+    },
+    {
+      "commune": "MONTGEROULT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 564 chars (max 510)"
+    },
+    {
+      "commune": "MONTIGNY-LES-CORMEILLES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 538 chars (max 510)"
+    },
+    {
+      "commune": "MONTLIGNON",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 538 chars (max 510)"
+    },
+    {
+      "commune": "MONTMAGNY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 540 chars (max 510)"
+    },
+    {
+      "commune": "MONTMORENCY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 502,
+      "text": "À Montmorency, commune résidentielle du Val-d'Oise caractérisée par un habitat pavillonnaire et des petits immeubles collectifs, le tissu local demande une expertise électrique adaptée. Les installations domestiques et tertiaires de la zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans Montmorency et ses alentours pour assurer l'entretien, le dépannage et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "MONTREUIL-SUR-EPTE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 548 chars (max 510)"
+    },
+    {
+      "commune": "MONTSOULT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 572 chars (max 510)"
+    },
+    {
+      "commune": "MOURS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 476,
+      "text": "À Mours, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent un entretien régulier et des mises aux normes pour garantir la sécurité des habitants et entreprises locales. Nos électriciens interviennent rapidement sur Mours et ses alentours pour assurer dépannages, installations et conformité électrique de vos bâtiments.",
+      "success": true
+    },
+    {
+      "commune": "MOUSSY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 491,
+      "text": "À Moussy, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles électriques en toute conformité.",
+      "success": true
+    },
+    {
+      "commune": "NERVILLE-LA-FORÊT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 545 chars (max 510)"
+    },
+    {
+      "commune": "NESLES-LA-VALLÉE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 566 chars (max 510)"
+    },
+    {
+      "commune": "NEUILLY-EN-VEXIN",
+      "tier": "D",
+      "department": "95",
+      "charCount": 475,
+      "text": "À Neuilly-en-Vexin, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "NEUVILLE-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 556 chars (max 510)"
+    },
+    {
+      "commune": "NOISY-SUR-OISE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 531 chars (max 510)"
+    },
+    {
+      "commune": "NUCOURT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 505,
+      "text": "À Nucourt, petite commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits collectifs caractéristiques de l'Île-de-France. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et maintenances électriques.",
+      "success": true
+    },
+    {
+      "commune": "OMERVILLE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 516 chars (max 510)"
+    },
+    {
+      "commune": "OSNY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 479,
+      "text": "À Osny, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles électriques.",
+      "success": true
+    },
+    {
+      "commune": "PARMAIN",
+      "tier": "D",
+      "department": "95",
+      "charCount": 479,
+      "text": "À Parmain, commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et maintenances électriques.",
+      "success": true
+    },
+    {
+      "commune": "PERSAN",
+      "tier": "D",
+      "department": "95",
+      "charCount": 484,
+      "text": "À Persan, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la région nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Persan et ses alentours pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "PIERRELAYE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 550 chars (max 510)"
+    },
+    {
+      "commune": "PISCOP",
+      "tier": "D",
+      "department": "95",
+      "charCount": 499,
+      "text": "À Piscop, commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits immeubles collectifs caractéristiques de l'Île-de-France. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans tout Piscop pour assurer la sécurité de vos installations et répondre à vos besoins en électricité générale.",
+      "success": true
+    },
+    {
+      "commune": "PRESLES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 530 chars (max 510)"
+    },
+    {
+      "commune": "PUISEUX-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 510,
+      "text": "À Puiseux-en-France, commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits immeubles caractéristiques de l'Île-de-France. Les installations électriques de ces habitations, souvent anciennes, nécessitent des mises aux normes régulières et des interventions de maintenance pour garantir la sécurité des occupants. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'installation de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "PUISEUX-PONTOISE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 504,
+      "text": "À Puiseux-Pontoise, commune résidentielle du Val-d'Oise située dans un tissu urbain dense, les habitations individuelles et petits collectifs constituent le patrimoine bâti local. Les installations électriques de ces logements, souvent anciens ou en rénovation, nécessitent des mises aux normes régulières et des interventions de maintenance préventive. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et l'amélioration de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "ROISSY-EN-FRANCE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 572 chars (max 510)"
+    },
+    {
+      "commune": "RONQUEROLLES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 551 chars (max 510)"
+    },
+    {
+      "commune": "SAGY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 500,
+      "text": "À Sagy, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations domestiques et tertiaires nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos dépannages, rénovations et installations électriques en toute conformité.",
+      "success": true
+    },
+    {
+      "commune": "SAINT-BRICE-SOUS-FORET",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 549 chars (max 510)"
+    },
+    {
+      "commune": "SAINT-CLAIR-SUR-EPTE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 516 chars (max 510)"
+    },
+    {
+      "commune": "SAINT-CYR-EN-ARTHIES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 497,
+      "text": "À Saint-Cyr-en-Arthies, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de ce secteur nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, les dépannages et les travaux d'amélioration de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "SAINT-GERVAIS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Saint-Gervais, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement dans Saint-Gervais pour assurer l'entretien, les dépannages et les travaux d'amélioration de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "SAINT-GRATIEN",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 575 chars (max 510)"
+    },
+    {
+      "commune": "SAINT-LEU-LA-FORET",
+      "tier": "D",
+      "department": "95",
+      "charCount": 499,
+      "text": "À Saint-Leu-la-Forêt, commune résidentielle du Val-d'Oise située en périphérie nord de l'Île-de-France, le tissu local est composé de maisons individuelles et de petits immeubles d'habitation caractéristiques de la région. Les installations électriques de ces bâtiments, souvent anciennes ou nécessitant des mises à jour, demandent des interventions régulières en matière de conformité et de sécurité. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la répa",
+      "success": true
+    },
+    {
+      "commune": "SAINT-MARTIN-DU-TERTRE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 560 chars (max 510)"
+    },
+    {
+      "commune": "SAINT-OUEN-L'AUMONE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 481,
+      "text": "À Saint-Ouen-l'Aumône, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et d'immeubles collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la réparation et la mise aux normes de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "SAINT-PRIX",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 539 chars (max 510)"
+    },
+    {
+      "commune": "SAINT-WITZ",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Saint-Witz, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement dans Saint-Witz et ses alentours pour assurer l'entretien, le dépannage et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "SANNOIS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 586 chars (max 510)"
+    },
+    {
+      "commune": "SANTEUIL",
+      "tier": "D",
+      "department": "95",
+      "charCount": 501,
+      "text": "À Santeuil, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la région nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité. Nos électriciens interviennent rapidement sur Santeuil et ses environs pour assurer l'entretien, le dépannage et l'installation de vos équipements électriques.",
+      "success": true
+    },
+    {
+      "commune": "SARCELLES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 489,
+      "text": "À Sarcelles, commune résidentielle du Val-d'Oise caractérisée par un habitat collectif et pavillonnaire, les bâtiments anciens et modernes constituent le tissu urbain local. Les installations électriques de ces logements et petits commerces nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la zone de Sarcelles pour assurer la sécurité et la fiabilité de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "SERAINCOURT",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Seraincourt, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs caractéristiques de la région. Les installations électriques de ces habitations anciennes et modernes nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans tout Seraincourt pour assurer l'entretien, la rénovation et le dépannage de vos systèmes électriques.",
+      "success": true
+    },
+    {
+      "commune": "SEUGY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 504,
+      "text": "À Seugy, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la région nécessitent un entretien régulier, des mises aux normes et des interventions d'urgence pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement sur Seugy et ses alentours pour tous vos besoins en dépannage, installation et maintenance électrique.",
+      "success": true
+    },
+    {
+      "commune": "SOISY-SOUS-MONTMORENCY",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 518 chars (max 510)"
+    },
+    {
+      "commune": "SURVILLIERS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 565 chars (max 510)"
+    },
+    {
+      "commune": "TAVERNY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 504,
+      "text": "À Taverny, commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits immeubles collectifs aux installations anciennes et modernes. Les installations électriques de ces habitations nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des résidents. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et maintenances électriques.",
+      "success": true
+    },
+    {
+      "commune": "THÉMÉRICOURT",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 543 chars (max 510)"
+    },
+    {
+      "commune": "THEUVILLE",
+      "tier": "D",
+      "department": "95",
+      "charCount": 461,
+      "text": "À Theuville, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes de la région nécessitent des interventions régulières pour garantir la sécurité et la conformité des normes électriques actuelles. Nos électriciens interviennent rapidement à Theuville pour tous vos besoins en dépannage, maintenance et rénovation électrique.",
+      "success": true
+    },
+    {
+      "commune": "US",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 529 chars (max 510)"
+    },
+    {
+      "commune": "VALLANGOUJARD",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 524 chars (max 510)"
+    },
+    {
+      "commune": "VALMONDOIS",
+      "tier": "D",
+      "department": "95",
+      "charCount": 509,
+      "text": "À Valmondois, commune résidentielle du Val-d'Oise située en Île-de-France, le tissu local est composé de maisons individuelles et de petits immeubles aux installations électriques variées. Les installations anciennes et modernes de cette zone nécessitent des interventions régulières en maintenance, rénovation et mise aux normes de sécurité électrique. Nos électriciens interviennent rapidement sur Valmondois et ses environs pour assurer dépannages, installations neuves et travaux de conformité électrique.",
+      "success": true
+    },
+    {
+      "commune": "VAUDHERLAND",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 538 chars (max 510)"
+    },
+    {
+      "commune": "VAUREAL",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 555 chars (max 510)"
+    },
+    {
+      "commune": "VÉMARS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 517 chars (max 510)"
+    },
+    {
+      "commune": "VÉTHEUIL",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 521 chars (max 510)"
+    },
+    {
+      "commune": "VIARMES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 539 chars (max 510)"
+    },
+    {
+      "commune": "VIENNE-EN-ARTHIES",
+      "tier": "D",
+      "department": "95",
+      "charCount": 501,
+      "text": "À Vienne-en-Arthies, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits immeubles d'habitation caractéristiques de la région. Les installations électriques de ces bâtiments anciens et récents nécessitent des interventions régulières pour garantir la sécurité et la conformité aux normes actuelles. Nos électriciens interviennent rapidement dans toute la commune pour assurer l'entretien, la rénovation et le dépannage de vos installations électriques.",
+      "success": true
+    },
+    {
+      "commune": "VIGNY",
+      "tier": "D",
+      "department": "95",
+      "charCount": 508,
+      "text": "À Vigny, petite commune résidentielle du Val-d'Oise, le tissu local se compose principalement de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations anciennes et modernes nécessitent des interventions régulières d'entretien, de mise aux normes et de dépannage pour garantir la sécurité des habitants. Nos électriciens interviennent rapidement dans toute la commune pour assurer vos réparations, installations et contrôles électriques avec professionnalisme.",
+      "success": true
+    },
+    {
+      "commune": "VILLAINES-SOUS-BOIS",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 531 chars (max 510)"
+    },
+    {
+      "commune": "VILLERON",
+      "tier": "D",
+      "department": "95",
+      "charCount": 484,
+      "text": "À Villeron, commune résidentielle du Val-d'Oise, le tissu local se compose de maisons individuelles et de petits collectifs aux installations électriques variées. Les installations domestiques et tertiaires de la zone nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement sur Villeron et ses alentours pour assurer la sécurité de vos installations et la continuité de vos services électriques.",
+      "success": true
+    },
+    {
+      "commune": "VILLERS-EN-ARTHIES",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 528 chars (max 510)"
+    },
+    {
+      "commune": "VILLIERS-ADAM",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 546 chars (max 510)"
+    },
+    {
+      "commune": "VILLIERS-LE-BEL",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 517 chars (max 510)"
+    },
+    {
+      "commune": "VILLIERS-LE-SEC",
+      "tier": "D",
+      "department": "95",
+      "charCount": 496,
+      "text": "À Villiers-le-Sec, commune résidentielle du Val-d'Oise, le tissu local est composé de maisons individuelles et de petits collectifs caractéristiques de l'Île-de-France. Les installations électriques de ces habitations anciennes et récentes nécessitent des interventions régulières de maintenance, de mise aux normes et de dépannage d'urgence. Nos électriciens interviennent rapidement dans toute la commune pour assurer la sécurité de vos installations et répondre à tous vos besoins électriques.",
+      "success": true
+    },
+    {
+      "commune": "WY-DIT-JOLI-VILLAGE",
+      "tier": "D",
+      "department": "95",
+      "success": false,
+      "error": "Too long: 536 chars (max 510)"
+    }
+  ]
+}

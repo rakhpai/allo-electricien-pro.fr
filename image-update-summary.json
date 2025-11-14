@@ -1,0 +1,15 @@
+{
+  "timestamp": "2025-11-09T03:38:33.735Z",
+  "mode": "production",
+  "domain_id": "557ccb1c-5fa9-4c34-91fd-b3392fa7b8b0",
+  "stats": {
+    "pages_in_supabase": 1367,
+    "pages_matched": 1367,
+    "pages_updated": 1367,
+    "pages_failed": 0,
+    "pages_with_images_set": 360,
+    "pages_with_images_null": 1007,
+    "batches_processed": 14,
+    "errors": []
+  }
+}

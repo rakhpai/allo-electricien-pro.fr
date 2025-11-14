@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement sur l'ensemble de La Falaise pour tous vos besoins en
   dépannage, installation et conformité électrique.
 introGeneratedAt: '2025-11-12T16:58:22.032Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LA FALAISE
+electriciansAvailable: 5
+localLandmark: Saint-Germain-en-Laye
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Saint-Germain-en-Laye
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 895+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans les Yvelines
 ---
 

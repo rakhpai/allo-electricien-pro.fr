@@ -64,5 +64,24 @@ introText: >-
   la commune pour assurer l'entretien, les dépannages et les travaux
   d'amélioration de vos installations électriques.
 introGeneratedAt: '2025-11-12T16:25:26.273Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à VILLE-SAINT-JACQUES
+electriciansAvailable: 5
+localLandmark: Meaux
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Meaux
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1078+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

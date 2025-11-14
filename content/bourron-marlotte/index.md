@@ -64,5 +64,24 @@ introText: >-
   rapidement dans tout le secteur 77780 pour assurer la sécurité et la fiabilité
   de vos installations électriques.
 introGeneratedAt: '2025-11-12T15:24:51.430Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à BOURRON-MARLOTTE
+electriciansAvailable: 6
+localLandmark: Forêt
+heroUSP:
+  - text: 6 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1392+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

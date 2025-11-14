@@ -63,5 +63,24 @@ introText: >-
   petits immeubles locaux. Nous intervenons rapidement sur Ormesson 77167 et ses
   alentours immédiats pour tous vos dép
 introGeneratedAt: '2025-11-12T15:54:07.539Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à ORMESSON
+electriciansAvailable: 7
+localLandmark: Coulommiers
+heroUSP:
+  - text: 7 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Coulommiers
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1459+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

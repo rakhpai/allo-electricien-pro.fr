@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement sur Gastins 77370 et ses alentours pour tous vos
   besoins en dépannage, instal.
 introGeneratedAt: '2025-11-12T15:38:33.595Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à GASTINS
+electriciansAvailable: 5
+localLandmark: Vaux-le-Vicomte
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Vaux-le-Vicomte
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 972+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

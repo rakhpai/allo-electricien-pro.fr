@@ -63,5 +63,24 @@ introText: >-
   disponibilité rapide pour tous vos besoins en électricité générale et
   spécialisée.
 introGeneratedAt: '2025-11-12T15:53:22.014Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à NOISIEL
+electriciansAvailable: 8
+localLandmark: Forêt de Fontainebleau
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Forêt de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1275+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

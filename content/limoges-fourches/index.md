@@ -64,5 +64,24 @@ introText: >-
   électriciens interviennent rapidement sur l'ensemble de Limoges-Fourches et
   ses alentours pour tous vos dépannages,.
 introGeneratedAt: '2025-11-12T15:45:58.897Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LIMOGES-FOURCHES
+electriciansAvailable: 8
+localLandmark: Château de Fontainebleau
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Fontainebleau
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 837+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 

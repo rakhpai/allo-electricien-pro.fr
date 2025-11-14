@@ -63,5 +63,24 @@ introText: >-
   interviennent rapidement dans toute la commune pour assurer dépannages,
   installations neuves et travaux de conformité électrique.
 introGeneratedAt: '2025-11-12T16:35:51.704Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à LONGUESSE
+electriciansAvailable: 5
+localLandmark: Gonesse
+heroUSP:
+  - text: 5 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Gonesse
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1244+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: dans le Val-d'Oise
 ---
 

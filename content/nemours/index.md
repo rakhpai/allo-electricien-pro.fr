@@ -63,5 +63,24 @@ introText: >-
   Nemours et ses alentours pour tous vos besoins en dépannage, installation et
   maintenance électrique.
 introGeneratedAt: '2025-11-12T15:53:10.843Z'
+heroEnhanced: true
+heroSubheading: Intervention Express <30min à NEMOURS
+electriciansAvailable: 8
+localLandmark: Château de Blandy
+heroUSP:
+  - text: 8 électriciens disponibles maintenant
+    icon: users
+  - text: Proche de Château de Blandy
+    icon: map-marker
+  - text: Certifié Qualifelec ⭐4.8/5
+    icon: certificate
+  - text: Interventions dès 65€/h
+    icon: euro
+trustBadges:
+  - Certifié Qualifelec
+  - ⭐ 4.8/5 (1247 avis)
+  - 1368+ interventions
+pricingTeaser: À partir de 65€/h
+localContext: en Seine-et-Marne
 ---
 
