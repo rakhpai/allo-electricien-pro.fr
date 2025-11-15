@@ -11,11 +11,6 @@
       threshold: 0.1,
       rootMargin: '100px'
     },
-    lottie: {
-      selector: '#lottie-hero',
-      threshold: 0.1,
-      rootMargin: '50px'
-    },
     swiper: {
       selector: '.swiper',
       threshold: 0.1,
@@ -26,7 +21,6 @@
   // Track loaded resources
   const loaded = {
     leaflet: false,
-    lottie: false,
     swiper: false
   };
 
@@ -61,55 +55,6 @@
           .bindPopup(marker.popup));
       });
       map.addLayer(markers);
-    }
-  }
-
-  // Lazy load Lottie Animation
-  function initializeLottie() {
-    if (loaded.lottie) return;
-
-    const lottieElement = document.querySelector(config.lottie.selector);
-    if (!lottieElement) return;
-
-    // Check if Lottie is loaded
-    if (typeof lottie === 'undefined') {
-      console.warn('Lottie not loaded yet, waiting...');
-      setTimeout(initializeLottie, 100);
-      return;
-    }
-
-    loaded.lottie = true;
-
-    // Check for reduced motion preference
-    const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-    if (!prefersReducedMotion) {
-      // Load Lottie animation
-      const animation = lottie.loadAnimation({
-        container: lottieElement,
-        renderer: 'svg',
-        loop: true,
-        autoplay: true,
-        path: '/animations/electrical-service.json'
-      });
-
-      // Performance optimization: Pause animation when not visible
-      const animObserver = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            animation.play();
-          } else {
-            animation.pause();
-          }
-        });
-      }, {
-        threshold: 0.1
-      });
-
-      animObserver.observe(lottieElement);
-    } else {
-      // Static fallback for reduced motion
-      lottieElement.innerHTML = '<div class="w-full h-full flex items-center justify-center bg-gray-200 rounded-lg"><svg class="w-32 h-32 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg></div>';
     }
   }
 
@@ -176,23 +121,6 @@
       mapObserver.observe(mapElement);
     }
 
-    // Lottie Observer
-    const lottieElement = document.querySelector(config.lottie.selector);
-    if (lottieElement) {
-      const lottieObserver = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting && !loaded.lottie) {
-            initializeLottie();
-            lottieObserver.unobserve(entry.target);
-          }
-        });
-      }, {
-        threshold: config.lottie.threshold,
-        rootMargin: config.lottie.rootMargin
-      });
-      lottieObserver.observe(lottieElement);
-    }
-
     // Swiper Observer
     const swiperElement = document.querySelector(config.swiper.selector);
     if (swiperElement) {
@@ -223,10 +151,6 @@
     if (!loaded.leaflet && document.querySelector(config.map.selector)) {
       console.log('Fallback: Loading map after timeout');
       initializeMap();
-    }
-    if (!loaded.lottie && document.querySelector(config.lottie.selector)) {
-      console.log('Fallback: Loading Lottie after timeout');
-      initializeLottie();
     }
     if (!loaded.swiper && document.querySelector(config.swiper.selector)) {
       console.log('Fallback: Loading Swiper after timeout');

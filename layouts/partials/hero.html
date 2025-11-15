@@ -1,11 +1,15 @@
-<!-- Modern Hero Section with Lottie Animation -->
+<!-- Modern Hero Section -->
 <section class="relative bg-white overflow-hidden">
   <div class="container mx-auto px-4 py-16 md:py-24">
     <div class="grid md:grid-cols-2 gap-[0.1rem] items-center">
 
-      <!-- LEFT: Lottie Animation -->
+      <!-- LEFT: Hero Image -->
       <div class="order-1 flex justify-center">
-        <div id="lottie-hero" class="w-full max-w-md md:max-w-lg" role="img" aria-label="Électricien d'urgence professionnel"></div>
+        <div class="w-full max-w-md md:max-w-lg flex items-center justify-center p-8" role="img" aria-label="Électricien d'urgence professionnel">
+          <svg class="w-full h-auto text-blue-600" viewBox="0 0 24 24" fill="none" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+          </svg>
+        </div>
       </div>
 
       <!-- RIGHT: Content -->
@@ -112,43 +116,6 @@
     </div>
   </div>
 </section>
-
-<!-- Lottie Animation Initialization -->
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  // Check if user prefers reduced motion
-  const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-
-  if (!prefersReducedMotion) {
-    // Load Lottie animation
-    const animation = lottie.loadAnimation({
-      container: document.getElementById('lottie-hero'),
-      renderer: 'svg',
-      loop: true,
-      autoplay: true,
-      path: '/animations/electrical-service.json'
-    });
-
-    // Performance optimization: Pause animation when not visible
-    const observer = new IntersectionObserver((entries) => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          animation.play();
-        } else {
-          animation.pause();
-        }
-      });
-    }, {
-      threshold: 0.1
-    });
-
-    observer.observe(document.getElementById('lottie-hero'));
-  } else {
-    // For users who prefer reduced motion, show a static image or placeholder
-    document.getElementById('lottie-hero').innerHTML = '<div class="w-full h-full flex items-center justify-center bg-gray-200 rounded-lg"><svg class="w-32 h-32 text-gray-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg></div>';
-  }
-});
-</script>
 
 <!-- CRO-Optimized Stats Section -->
 <section class="bg-gradient-to-br from-gray-50 to-white py-16 border-t border-gray-200" aria-labelledby="stats-heading">
