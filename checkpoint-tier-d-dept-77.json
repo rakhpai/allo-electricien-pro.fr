@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T18:38:10.766Z",
-  "lastUpdate": "2025-11-15T18:38:10.766Z",
+  "startTime": "2025-11-15T19:01:39.550Z",
+  "lastUpdate": "2025-11-15T19:01:39.550Z",
   "processed": {
     "total": 507,
-    "processed": 280,
-    "successful": 279,
+    "processed": 320,
+    "successful": 319,
     "failed": 1,
-    "totalInputTokens": 588915,
-    "totalOutputTokens": 627236
+    "totalInputTokens": 673825,
+    "totalOutputTokens": 717657
   },
-  "lastProcessedSlug": "/marles-en-brie",
+  "lastProcessedSlug": "/moussy-le-neuf",
   "costs": {
-    "inputTokens": 588915,
-    "outputTokens": 627236,
-    "totalTokens": 1216151,
-    "cost": 2.980076,
-    "inputCost": 0.471132,
-    "outputCost": 2.508944
+    "inputTokens": 673825,
+    "outputTokens": 717657,
+    "totalTokens": 1391482,
+    "cost": 3.409688,
+    "inputCost": 0.53906,
+    "outputCost": 2.870628
   }
 }
