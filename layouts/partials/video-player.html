@@ -106,29 +106,75 @@
         {{/* SEO-Optimized Video Section H2 with Rotating Variants */}}
         {{ if $videoData.voiceover_script }}
           <div class="mt-8">
-            {{ partial "video-heading-h2.html" . }}
+            {{/* Generate deterministic variant index (0-4) based on hash of city slug and zip code */}}
+            {{ $citySlug := .File.BaseFileName }}
+            {{ $zipCode := .Params.zipCode }}
+            {{ $city := .Params.city }}
+            {{ $hash := md5 (printf "%s%s" $citySlug $zipCode) }}
+            {{ $hashSubstr := substr $hash 0 8 }}
+            {{ $hashInt := 0 }}
+            {{/* Simple hash to int conversion using character values */}}
+            {{ range $i, $char := split $hashSubstr "" }}
+              {{ if eq $char "a" }}{{ $hashInt = add $hashInt 10 }}{{ end }}
+              {{ if eq $char "b" }}{{ $hashInt = add $hashInt 11 }}{{ end }}
+              {{ if eq $char "c" }}{{ $hashInt = add $hashInt 12 }}{{ end }}
+              {{ if eq $char "d" }}{{ $hashInt = add $hashInt 13 }}{{ end }}
+              {{ if eq $char "e" }}{{ $hashInt = add $hashInt 14 }}{{ end }}
+              {{ if eq $char "f" }}{{ $hashInt = add $hashInt 15 }}{{ end }}
+              {{ if eq $char "0" }}{{ $hashInt = add $hashInt 0 }}{{ end }}
+              {{ if eq $char "1" }}{{ $hashInt = add $hashInt 1 }}{{ end }}
+              {{ if eq $char "2" }}{{ $hashInt = add $hashInt 2 }}{{ end }}
+              {{ if eq $char "3" }}{{ $hashInt = add $hashInt 3 }}{{ end }}
+              {{ if eq $char "4" }}{{ $hashInt = add $hashInt 4 }}{{ end }}
+              {{ if eq $char "5" }}{{ $hashInt = add $hashInt 5 }}{{ end }}
+              {{ if eq $char "6" }}{{ $hashInt = add $hashInt 6 }}{{ end }}
+              {{ if eq $char "7" }}{{ $hashInt = add $hashInt 7 }}{{ end }}
+              {{ if eq $char "8" }}{{ $hashInt = add $hashInt 8 }}{{ end }}
+              {{ if eq $char "9" }}{{ $hashInt = add $hashInt 9 }}{{ end }}
+            {{ end }}
+            {{ $variantIndex := mod $hashInt 5 }}
+
+            {{/* Define 5 SEO-optimized variant templates */}}
+            {{ $variant0 := printf "Vidéo SOS Électricien %s (%s) - Dépannage 24/7" $city $zipCode }}
+            {{ $variant1 := printf "Présentation Vidéo - Électricien Urgence %s (%s)" $city $zipCode }}
+            {{ $variant2 := printf "Vidéo Dépannage Électrique 24h/24 %s (%s)" $city $zipCode }}
+            {{ $variant3 := printf "Découvrez Votre Électricien SOS %s (%s) en Vidéo" $city $zipCode }}
+            {{ $variant4 := printf "Intervention Urgence Électricien %s (%s) - Vidéo 24/7" $city $zipCode }}
+
+            {{ $selectedVariant := "" }}
+            {{ if eq $variantIndex 0 }}{{ $selectedVariant = $variant0 }}{{ end }}
+            {{ if eq $variantIndex 1 }}{{ $selectedVariant = $variant1 }}{{ end }}
+            {{ if eq $variantIndex 2 }}{{ $selectedVariant = $variant2 }}{{ end }}
+            {{ if eq $variantIndex 3 }}{{ $selectedVariant = $variant3 }}{{ end }}
+            {{ if eq $variantIndex 4 }}{{ $selectedVariant = $variant4 }}{{ end }}
+
+            {{/* H2 heading with toggle icon at the end */}}
+            <div class="flex items-center justify-between mb-4">
+              <h2 class="text-2xl font-bold text-gray-900">
+                {{ $selectedVariant }}
+              </h2>
+              <button type="button"
+                      id="transcript-toggle"
+                      class="p-2 hover:bg-gray-100 rounded-lg transition-colors flex-shrink-0"
+                      aria-expanded="false"
+                      aria-controls="transcript-content"
+                      aria-label="Afficher/masquer la transcription vidéo">
+                <svg class="w-7 h-7 text-primary transition-transform duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
+                </svg>
+              </button>
+            </div>
 
             {{/* Collapsible Video Transcript */}}
-            <details class="mt-4 bg-gray-50 rounded-lg group">
-            <summary class="px-6 py-4 cursor-pointer hover:bg-gray-100
-                            transition-colors duration-200
-                            flex items-center justify-between
-                            focus:outline-none focus:ring-2 focus:ring-primary focus:ring-offset-2 rounded-lg">
-              <h3 class="text-lg font-semibold text-gray-900 flex items-center gap-2 relative transcript-heading-group">
-                <svg class="w-6 h-6 text-primary cursor-help" fill="none" stroke="currentColor" viewBox="0 0 24 24" title="Transcription de la vidéo">
+            <div id="transcript-content" class="hidden mt-4 bg-gray-50 rounded-lg p-6 transition-all duration-300">
+              <div class="relative transcript-icon-container">
+                <svg class="w-6 h-6 text-primary cursor-help inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" title="Transcription de la vidéo">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                 </svg>
-                <span class="tooltip-transcript">Transcription de la vidéo</span>
-              </h3>
-              <svg class="w-5 h-5 text-gray-600 transition-transform duration-200 group-open:rotate-180"
-                   fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
-              </svg>
-            </summary>
-
-            <div class="px-6 pb-6 pt-2 border-t border-gray-200">
-              <p class="text-gray-700 whitespace-pre-line leading-relaxed text-base">
+                <span class="tooltip-transcript-icon">Transcription de la vidéo</span>
+              </div>
+              <p class="text-gray-700 whitespace-pre-line leading-relaxed text-base mt-4">
                 {{ $videoData.voiceover_script }}
               </p>
 
@@ -138,7 +184,6 @@
               </div>
               {{ end }}
             </div>
-          </details>
           </div>
         {{ end }}
 
@@ -218,14 +263,28 @@
       }
     });
 
-    // Track transcript toggle
-    const details = document.querySelector('.video-section details');
-    if (details) {
-      details.addEventListener('toggle', function(e) {
+    // Track and handle transcript toggle
+    const toggleButton = document.getElementById('transcript-toggle');
+    const transcriptContent = document.getElementById('transcript-content');
+    if (toggleButton && transcriptContent) {
+      toggleButton.addEventListener('click', function() {
+        const isExpanded = this.getAttribute('aria-expanded') === 'true';
+        const newState = !isExpanded;
+
+        // Update ARIA state
+        this.setAttribute('aria-expanded', newState);
+
+        // Toggle content visibility
+        transcriptContent.classList.toggle('hidden');
+
+        // Rotate icon
+        this.querySelector('svg').classList.toggle('rotate-180');
+
+        // Track analytics
         if (typeof gtag !== 'undefined') {
           gtag('event', 'video_transcript_toggle', {
             city: videoData.city,
-            state: e.target.open ? 'expanded' : 'collapsed'
+            state: newState ? 'expanded' : 'collapsed'
           });
         }
       });
