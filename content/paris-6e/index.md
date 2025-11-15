@@ -8,6 +8,7 @@ keyword: Électricien Urgence Paris 6e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 6e (75006) ⚡ Dépannage électricité urgence
   <30min Saint-Germain-des-Prés, Luxembourg, Odéon. Panne, court-circuit 24/7.
   ☎️ 06 44 64 48 24

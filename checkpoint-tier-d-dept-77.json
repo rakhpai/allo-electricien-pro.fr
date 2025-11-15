@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:30:01.568Z",
-  "lastUpdate": "2025-11-15T17:30:01.568Z",
+  "startTime": "2025-11-15T17:41:27.645Z",
+  "lastUpdate": "2025-11-15T17:41:27.645Z",
   "processed": {
     "total": 507,
-    "processed": 160,
-    "successful": 159,
+    "processed": 180,
+    "successful": 179,
     "failed": 1,
-    "totalInputTokens": 335193,
-    "totalOutputTokens": 356899
+    "totalInputTokens": 377171,
+    "totalOutputTokens": 401285
   },
-  "lastProcessedSlug": "/fericy",
+  "lastProcessedSlug": "/germigny-l-eveque",
   "costs": {
-    "inputTokens": 335193,
-    "outputTokens": 356899,
-    "totalTokens": 692092,
-    "cost": 1.6957504,
-    "inputCost": 0.2681544,
-    "outputCost": 1.427596
+    "inputTokens": 377171,
+    "outputTokens": 401285,
+    "totalTokens": 778456,
+    "cost": 1.9068768,
+    "inputCost": 0.3017368,
+    "outputCost": 1.60514
   }
 }

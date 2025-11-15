@@ -8,6 +8,7 @@ keyword: Électricien Urgence Paris 9e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 9e (75009) ⚡ Dépannage électricité urgence
   <30min Opéra, Pigalle, Grands Boulevards. Panne, court-circuit 24/7. ☎️ 06 44
   95 55 55

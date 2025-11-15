@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:24:42.758Z",
-  "lastUpdate": "2025-11-15T17:24:42.758Z",
+  "startTime": "2025-11-15T17:41:46.042Z",
+  "lastUpdate": "2025-11-15T17:41:46.042Z",
   "processed": {
     "total": 262,
-    "processed": 150,
-    "successful": 150,
+    "processed": 180,
+    "successful": 180,
     "failed": 0,
-    "totalInputTokens": 314196,
-    "totalOutputTokens": 335337
+    "totalInputTokens": 377046,
+    "totalOutputTokens": 402931
   },
-  "lastProcessedSlug": "/magnanville",
+  "lastProcessedSlug": "/montesson",
   "costs": {
-    "inputTokens": 314196,
-    "outputTokens": 335337,
-    "totalTokens": 649533,
-    "cost": 1.5927048,
-    "inputCost": 0.2513568,
-    "outputCost": 1.341348
+    "inputTokens": 377046,
+    "outputTokens": 402931,
+    "totalTokens": 779977,
+    "cost": 1.9133608,
+    "inputCost": 0.30163680000000004,
+    "outputCost": 1.611724
   }
 }

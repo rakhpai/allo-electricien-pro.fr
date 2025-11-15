@@ -8,6 +8,7 @@ keyword: Électricien d'Urgence Paris 11
 company: Paris 11Watt
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 11e (75011) ⚡ Dépannage électricité urgence
   <30min Bastille, République, Nation, Oberkampf. Panne, court-circuit 24/7. ☎️
   06 44 64 48 24

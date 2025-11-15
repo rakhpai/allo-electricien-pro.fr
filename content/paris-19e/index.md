@@ -8,6 +8,7 @@ keyword: Électricien Urgence Paris 19e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 19e (75019) ⚡ Dépannage électricité urgence
   <30min Buttes-Chaumont, Villette, Stalingrad. Panne, court-circuit 24/7. ☎️ 06
   44 95 55 55

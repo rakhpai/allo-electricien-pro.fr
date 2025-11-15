@@ -8,6 +8,7 @@ keyword: Électricien Urgence Paris 18e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 18e (75018) ⚡ Dépannage électricité urgence
   <30min Montmartre, Barbès, Clignancourt. Panne, court-circuit 24/7. ☎️ 06 44
   95 55 55

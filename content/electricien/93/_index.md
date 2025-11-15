@@ -3,7 +3,7 @@ title: "⚡ Électricien Seine-Saint-Denis (93) | Saint-Denis, Montreuil | SOS 2
 slug: "93"
 department: "93"
 departmentName: "Seine-Saint-Denis"
-description: "Électricien Seine-Saint-Denis 93 ⚡ Intervention dans 45 communes. Saint-Denis, Montreuil, Aubervilliers. Spécialiste mixte résidentiel/industriel. ☎️ 06 44 95 55 55"
+description: "Électricien Seine-Saint-Denis 93 ⚡ Intervention dans 45 communes. Saint-Denis, Montreuil, Aubervilliers. Spécialiste mixte résidentiel/industriel. ☎️ 06 44 64 48 24"
 draft: false
 sitemap:
   priority: 0.92
@@ -14,8 +14,8 @@ keywords:
   - électricien Saint-Denis
   - électricien Montreuil
   - panne électrique 93
-phone: "06 44 95 55 55"
-phoneRaw: "0644955555"
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 company: "PExpert"
 niche: électricité
 images:
@@ -41,7 +41,7 @@ cdnImages:
 
 **Panne électrique en Seine-Saint-Denis ?** Notre réseau d'**électriciens qualifiés** intervient dans les **45 communes du département 93**, de Saint-Denis à Montreuil, d'Aubervilliers à Aulnay-sous-Bois. Spécialistes des **installations mixtes résidentiel/commercial/industriel**, disponibles **24h/24 et 7j/7**.
 
-**☎️ Appelez immédiatement : 06 44 95 55 55** - SOS Électricien Seine-Saint-Denis disponible maintenant
+**☎️ Appelez immédiatement : 06 44 64 48 24** - SOS Électricien Seine-Saint-Denis disponible maintenant
 
 ### Seine-Saint-Denis : Territoire en Mutation Dynamique
 
@@ -243,7 +243,7 @@ Wallbox 7 kW : 800-1 200€ TTC pose incluse. Peut nécessiter renforcement (pas
 
 De Saint-Denis à Montreuil, d'Aulnay à Aubervilliers, nos électriciens sont à votre service.
 
-📞 **Appelez immédiatement : 06 44 95 55 55**
+📞 **Appelez immédiatement : 06 44 64 48 24**
 
 - ⚡ Intervention rapide 45 communes
 - 💬 Devis gratuit détaillé

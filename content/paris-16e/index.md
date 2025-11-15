@@ -8,6 +8,7 @@ keyword: Électricien Urgence Paris 16e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 16e (75016) ⚡ Dépannage électricité urgence
   <30min Passy, Trocadéro, Auteuil. Panne, court-circuit 24/7. ☎️ 06 44 64 48 24
 niche: électricité

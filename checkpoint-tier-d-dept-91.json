@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:29:15.270Z",
-  "lastUpdate": "2025-11-15T17:29:15.270Z",
+  "startTime": "2025-11-15T17:40:54.270Z",
+  "lastUpdate": "2025-11-15T17:40:54.270Z",
   "processed": {
     "total": 196,
-    "processed": 160,
-    "successful": 160,
+    "processed": 180,
+    "successful": 180,
     "failed": 0,
-    "totalInputTokens": 336658,
-    "totalOutputTokens": 360160
+    "totalInputTokens": 379098,
+    "totalOutputTokens": 405785
   },
-  "lastProcessedSlug": "/saint-maurice-montcouronne",
+  "lastProcessedSlug": "/vayres-sur-essonne",
   "costs": {
-    "inputTokens": 336658,
-    "outputTokens": 360160,
-    "totalTokens": 696818,
-    "cost": 1.7099663999999999,
-    "inputCost": 0.2693264,
-    "outputCost": 1.44064
+    "inputTokens": 379098,
+    "outputTokens": 405785,
+    "totalTokens": 784883,
+    "cost": 1.9264184,
+    "inputCost": 0.3032784,
+    "outputCost": 1.62314
   }
 }

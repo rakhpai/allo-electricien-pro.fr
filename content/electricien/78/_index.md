@@ -3,7 +3,7 @@ title: "⚡ Électricien Yvelines (78) | Versailles, Saint-Germain | SOS Urgence
 slug: "78"
 department: "78"
 departmentName: "Yvelines"
-description: "Électricien Yvelines 78 ⚡ Intervention dans 265 communes. Spécialiste propriétés haut standing, Versailles, Saint-Germain-en-Laye. Dépannage 24/7. ☎️ 06 44 95 55 55"
+description: "Électricien Yvelines 78 ⚡ Intervention dans 265 communes. Spécialiste propriétés haut standing, Versailles, Saint-Germain-en-Laye. Dépannage 24/7. ☎️ 06 44 64 48 24"
 draft: false
 sitemap:
   priority: 0.92
@@ -14,8 +14,8 @@ keywords:
   - électricien Versailles
   - électricien Saint-Germain-en-Laye
   - panne électrique Yvelines
-phone: "06 44 95 55 55"
-phoneRaw: "0644955555"
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 company: "PExpert"
 niche: électricité
 images:
@@ -41,7 +41,7 @@ cdnImages:
 
 **Besoin d'un électricien dans les Yvelines ?** Notre réseau d'**électriciens qualifiés** intervient dans les **265 communes du département 78**, de Versailles à Saint-Germain-en-Laye, des bords de Seine aux villages du Vexin. Spécialistes des **propriétés haut standing** et **patrimoine historique**, intervention **24h/24 et 7j/7**.
 
-**☎️ Appelez immédiatement : 06 44 95 55 55** - SOS Électricien Yvelines disponible maintenant
+**☎️ Appelez immédiatement : 06 44 64 48 24** - SOS Électricien Yvelines disponible maintenant
 
 ### Yvelines : Territoire Résidentiel d'Exception
 
@@ -316,7 +316,7 @@ Oui, c'est notre spécialité Yvelines ! Étude éclairage paysager (arbres, bas
 
 De Versailles à Saint-Germain-en-Laye, nos électriciens spécialisés haut de gamme sont à votre service.
 
-📞 **Appelez immédiatement : 06 44 95 55 55**
+📞 **Appelez immédiatement : 06 44 64 48 24**
 
 - ⚡ Intervention rapide dans les 265 communes
 - 💬 Devis gratuit personnalisé

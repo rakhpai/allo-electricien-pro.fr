@@ -8,8 +8,9 @@ keyword: Électricien Urgence Paris 10e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
-  06 44 64 48 24 SOS Électricien Paris 10e (75010) ⚡ Dépannage électricité urgence
-  <30min Gare du Nord, Gare de l'Est, Canal Saint-Martin. Panne, court-circuit
+description: >-
+  SOS Électricien Paris 10e (75010) ⚡ Dépannage électricité urgence <30min
+  Gare du Nord, Gare de l'Est, Canal Saint-Martin. Panne, court-circuit, intervention
   24/7. ☎️ 06 44 64 48 24
 niche: électricité
 kwSource: électricité

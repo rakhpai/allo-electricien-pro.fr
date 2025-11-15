@@ -3,7 +3,7 @@ title: "⚡ Électricien Paris (75) | Tous Arrondissements | SOS Urgence 24/7 <3
 slug: "75"
 department: "75"
 departmentName: "Paris"
-description: "Électricien Paris département 75 ⚡ Intervention urgence dans les 20 arrondissements. Spécialiste immeubles haussmanniens. Dépannage <30min 24/7. ☎️ 06 44 95 55 55"
+description: "Électricien Paris département 75 ⚡ Intervention urgence dans les 20 arrondissements. Spécialiste immeubles haussmanniens. Dépannage <30min 24/7. ☎️ 06 44 64 48 24"
 draft: false
 sitemap:
   priority: 0.92
@@ -14,8 +14,8 @@ keywords:
   - électricien urgence Paris
   - électricien arrondissements Paris
   - panne électrique Paris
-phone: "06 44 95 55 55"
-phoneRaw: "0644955555"
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 company: "PExpert"
 niche: électricité
 images:
@@ -41,7 +41,7 @@ cdnImages:
 
 **Panne électrique dans Paris ?** Notre réseau d'**électriciens qualifiés Paris département 75** intervient en urgence dans tous les arrondissements de la capitale. Spécialistes des **immeubles haussmanniens** et du patrimoine parisien, nous garantissons une **intervention en moins de 30 minutes**, 24h/24 et 7j/7.
 
-**☎️ Appelez immédiatement : 06 44 95 55 55** - SOS Électricien Paris disponible maintenant
+**☎️ Appelez immédiatement : 06 44 64 48 24** - SOS Électricien Paris disponible maintenant
 
 ### Couverture Complète des 20 Arrondissements de Paris
 
@@ -339,7 +339,7 @@ Oui ! Nous proposons des solutions adaptées quand les saignées sont impossible
 
 Ne laissez pas une panne électrique gâcher votre quotidien parisien. Notre équipe d'électriciens spécialistes du patrimoine parisien est prête à intervenir dans votre arrondissement.
 
-📞 **Appelez immédiatement : 06 44 95 55 55**
+📞 **Appelez immédiatement : 06 44 64 48 24**
 
 - ⚡ Intervention urgente <30 minutes dans Paris
 - 💬 Devis gratuit par téléphone

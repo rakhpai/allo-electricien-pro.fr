@@ -1,7 +1,7 @@
 ---
 title: "⚡ Électricien Île-de-France | Service 24/7 Paris & IDF | SOS Urgence <30min"
 slug: electricien
-description: "Électricien professionnel en Île-de-France ⚡ Intervention 24/7 dans les 8 départements (75, 77, 78, 91, 92, 93, 94, 95). Dépannage urgence <30min. ☎️ 06 44 95 55 55"
+description: "Électricien professionnel en Île-de-France ⚡ Intervention 24/7 dans les 8 départements (75, 77, 78, 91, 92, 93, 94, 95). Dépannage urgence <30min. ☎️ 06 44 64 48 24"
 draft: false
 sitemap:
   priority: 0.98
@@ -12,8 +12,8 @@ keywords:
   - dépannage électricité IDF
   - SOS électricien région parisienne
   - électricien urgence 24/7
-phone: "06 44 95 55 55"
-phoneRaw: "0644955555"
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 company: "PExpert"
 niche: électricité
 images:
@@ -39,7 +39,7 @@ cdnImages:
 
 **Besoin d'un électricien en urgence en Île-de-France ?** Notre réseau de **SOS électriciens qualifiés** couvre l'intégralité de la région parisienne avec des **interventions garanties en moins de 30 minutes**. Disponibles 24h/24 et 7j/7 dans les 8 départements franciliens.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible dans votre département
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible dans votre département
 
 ### Couverture Complète Île-de-France - 8 Départements, 1 365+ Communes
 
@@ -174,7 +174,7 @@ Certaines situations électriques nécessitent une **intervention immédiate** p
 - 🔊 **Bruits anormaux** dans tableau électrique (grésillement, bourdonnement)
 - ⚠️ **Prises ou interrupteurs** trop chauds au toucher
 
-**Dans tous ces cas, coupez le disjoncteur général et contactez immédiatement notre SOS électricien au 06 44 95 55 55.**
+**Dans tous ces cas, coupez le disjoncteur général et contactez immédiatement notre SOS électricien au 06 44 64 48 24.**
 
 ### Électricité & Réglementation en Île-de-France
 
@@ -221,7 +221,7 @@ Découvrez nos services d'électricien dans votre département :
 ### Processus d'Intervention - De l'Appel à la Résolution
 
 **Étape 1 : Contact & Urgence**
-- 📞 Appel au **06 44 95 55 55** (gratuit, 24/7)
+- 📞 Appel au **06 44 64 48 24** (gratuit, 24/7)
 - 🎯 Évaluation de l'urgence et du besoin
 - 📍 Localisation précise de votre adresse
 - ⏱️ Délai d'intervention annoncé
@@ -274,7 +274,7 @@ Oui, nous délivrons systématiquement une facture détaillée conforme aux exig
 
 Ne restez pas dans le noir ! Notre équipe d'électriciens professionnels est prête à intervenir dans votre département francilien.
 
-📞 **Appelez immédiatement : 06 44 95 55 55**
+📞 **Appelez immédiatement : 06 44 64 48 24**
 
 - ⚡ Intervention urgente <30 minutes
 - 💬 Devis gratuit par téléphone

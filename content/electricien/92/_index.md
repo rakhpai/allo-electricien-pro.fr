@@ -3,7 +3,7 @@ title: "⚡ Électricien Hauts-de-Seine (92) | La Défense, Neuilly | SOS Urgenc
 slug: "92"
 department: "92"
 departmentName: "Hauts-de-Seine"
-description: "Électricien Hauts-de-Seine 92 ⚡ Intervention dans 39 communes. Spécialiste tertiaire La Défense, immeubles haut standing. Dépannage 24/7. ☎️ 06 44 95 55 55"
+description: "Électricien Hauts-de-Seine 92 ⚡ Intervention dans 39 communes. Spécialiste tertiaire La Défense, immeubles haut standing. Dépannage 24/7. ☎️ 06 44 64 48 24"
 draft: false
 sitemap:
   priority: 0.92
@@ -14,8 +14,8 @@ keywords:
   - électricien La Défense
   - électricien Neuilly
   - panne électrique Hauts-de-Seine
-phone: "06 44 95 55 55"
-phoneRaw: "0644955555"
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 company: "PExpert"
 niche: électricité
 images:
@@ -41,7 +41,7 @@ cdnImages:
 
 **Besoin d'un électricien dans les Hauts-de-Seine ?** Notre réseau d'**électriciens qualifiés** intervient dans les **39 communes du département 92**, de La Défense à Neuilly-sur-Seine, de Boulogne-Billancourt à Nanterre. Experts en **installations tertiaires** et **résidentiel haut standing**, disponibles **24h/24 et 7j/7**.
 
-**☎️ Appelez immédiatement : 06 44 95 55 55** - SOS Électricien Hauts-de-Seine disponible maintenant
+**☎️ Appelez immédiatement : 06 44 64 48 24** - SOS Électricien Hauts-de-Seine disponible maintenant
 
 ### Hauts-de-Seine : Premier Pôle Économique d'Europe
 
@@ -301,7 +301,7 @@ Oui, nos électriciens sont formés aux systèmes premium : KNX (standard profes
 
 De La Défense à Neuilly, de Boulogne à Nanterre, nos électriciens experts sont à votre service.
 
-📞 **Appelez immédiatement : 06 44 95 55 55**
+📞 **Appelez immédiatement : 06 44 64 48 24**
 
 - ⚡ Intervention express <30 min
 - 💬 Devis professionnel gratuit

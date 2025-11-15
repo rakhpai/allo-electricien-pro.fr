@@ -3,7 +3,7 @@ title: "⚡ Électricien Essonne (91) | Évry, Corbeil | SOS Urgence 24/7"
 slug: "91"
 department: "91"
 departmentName: "Essonne"
-description: "Électricien Essonne 91 ⚡ Intervention dans 195 communes. Évry, Corbeil-Essonnes, Massy. Spécialiste zones mixtes résidentiel/technologique. ☎️ 06 44 95 55 55"
+description: "Électricien Essonne 91 ⚡ Intervention dans 195 communes. Évry, Corbeil-Essonnes, Massy. Spécialiste zones mixtes résidentiel/technologique. ☎️ 06 44 64 48 24"
 draft: false
 sitemap:
   priority: 0.92
@@ -14,8 +14,8 @@ keywords:
   - électricien Évry
   - électricien Corbeil-Essonnes
   - panne électrique Essonne
-phone: "06 44 95 55 55"
-phoneRaw: "0644955555"
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 company: "PExpert"
 niche: électricité
 images:
@@ -41,7 +41,7 @@ cdnImages:
 
 **Panne électrique dans l'Essonne ?** Notre réseau d'**électriciens qualifiés** intervient dans les **195 communes du département 91**, d'Évry à Massy, de Corbeil-Essonnes aux villages du Hurepoix. Spécialistes des **installations mixtes résidentiel/technologique**, intervention **24h/24 et 7j/7**.
 
-**☎️ Appelez immédiatement : 06 44 95 55 55** - SOS Électricien Essonne disponible maintenant
+**☎️ Appelez immédiatement : 06 44 64 48 24** - SOS Électricien Essonne disponible maintenant
 
 ### Essonne : Département Scientifique & Résidentiel du Sud Francilien
 
@@ -272,7 +272,7 @@ Oui. Premier diagnostic : problème réseau ERDF ou installation privée. Si ré
 
 D'Évry à Étampes, du plateau de Saclay au Hurepoix, nos électriciens sont prêts à intervenir.
 
-📞 **Appelez immédiatement : 06 44 95 55 55**
+📞 **Appelez immédiatement : 06 44 64 48 24**
 
 - ⚡ Intervention rapide 195 communes
 - 💬 Devis gratuit personnalisé

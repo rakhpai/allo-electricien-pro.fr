@@ -8,6 +8,7 @@ keyword: Électricien Urgence Paris 5e
 company: PExpert
 phone: "06 44 64 48 24"
 phoneRaw: "0644644824"
+description: >-
   06 44 64 48 24 SOS Électricien Paris 5e (75005) ⚡ Dépannage électricité urgence
   <30min Quartier Latin, Panthéon, Sorbonne. Panne, court-circuit 24/7. ☎️ 06 44
   95 55 55
