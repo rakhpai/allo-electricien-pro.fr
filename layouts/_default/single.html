@@ -132,13 +132,12 @@
             </div> */}}
             {{ end }}
 
-            {{/* SEO Enhanced Content Blocks */}}
+            {{/* SEO Enhanced Content Blocks - Optimized H2 Sequence */}}
             {{ partial "seo-local-context.html" . }}
             {{ partial "seo-services-detailed.html" . }}
             {{ partial "seo-why-choose-local.html" . }}
-            {{ partial "seo-faq-local.html" . }}
 
-            {{/* Pricing Section: Use AI-generated if available, otherwise fall back to detailed pricing */}}
+            {{/* Pricing Section (MOVED UP for better SEO hierarchy): Use AI-generated if available, otherwise fall back to detailed pricing */}}
             {{ if and (ne .Section "services") (not (in .RelPermalink "mentions-legales")) (not (in .RelPermalink "politique-confidentialite")) (not (in .RelPermalink "electricien")) (not (in .RelPermalink "profiles")) .Params.city }}
               {{ if .Params.seoContent.pricing }}
                 {{ partial "seo-pricing.html" . }}
@@ -146,6 +145,9 @@
                 {{ partial "pricing-commune-detailed.html" . }}
               {{ end }}
             {{ end }}
+
+            {{/* FAQ Section (MOVED AFTER pricing for better conversion flow) */}}
+            {{ partial "seo-faq-local.html" . }}
           {{ end }}
 
           {{ if ne .Section "services" }}

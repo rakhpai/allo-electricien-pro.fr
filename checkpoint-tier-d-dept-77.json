@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T18:15:45.846Z",
-  "lastUpdate": "2025-11-15T18:15:45.846Z",
+  "startTime": "2025-11-15T18:21:26.334Z",
+  "lastUpdate": "2025-11-15T18:21:26.334Z",
   "processed": {
     "total": 507,
-    "processed": 240,
-    "successful": 239,
+    "processed": 250,
+    "successful": 249,
     "failed": 1,
-    "totalInputTokens": 504023,
-    "totalOutputTokens": 536758
+    "totalInputTokens": 525201,
+    "totalOutputTokens": 559552
   },
-  "lastProcessedSlug": "/le-mesnil-amelot",
+  "lastProcessedSlug": "/les-marets",
   "costs": {
-    "inputTokens": 504023,
-    "outputTokens": 536758,
-    "totalTokens": 1040781,
-    "cost": 2.5502504,
-    "inputCost": 0.40321840000000003,
-    "outputCost": 2.147032
+    "inputTokens": 525201,
+    "outputTokens": 559552,
+    "totalTokens": 1084753,
+    "cost": 2.6583688000000003,
+    "inputCost": 0.42016080000000006,
+    "outputCost": 2.238208
   }
 }
