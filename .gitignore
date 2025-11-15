@@ -47,3 +47,7 @@ videos-thumbnails/
 eleclogos/cache/
 eleclogos/generated/
 debug/
+
+# Node modules
+node_modules/
+package-lock.json

@@ -2,6 +2,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Google Search Console Verification -->
+<!-- Replace YOUR_GOOGLE_VERIFICATION_CODE with actual code from Google Search Console -->
+<!-- To get your code: https://search.google.com/search-console -->
 <meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE">
 
 <!-- DNS Prefetch & Preconnect for External Resources -->
@@ -151,35 +153,24 @@
   .px-4{padding-left:1rem;padding-right:1rem}
 </style>
 
-<!-- Tailwind CSS - DISABLED: Using local build instead -->
-<!-- TO ENABLE LOCAL BUILD:
-     1. Run: npm install -D tailwindcss
-     2. Configure tailwind.config.js with proper purging
-     3. Build: npx tailwindcss -o static/css/tailwind.min.css --minify
-     4. Replace with: <link rel="stylesheet" href="/css/tailwind.min.css">
--->
-<!--
-<script src="https://cdn.tailwindcss.com"></script>
+<!-- Tailwind CSS - Local Build (Optimized) -->
+<link rel="stylesheet" href="/css/tailwind.min.css">
+
+<!-- Fallback to CDN if local build fails -->
 <script>
-  tailwind.config = {
-    theme: {
-      extend: {
-        colors: {
-          primary: '#0066FF',
-          accent: '#FFD700',
-          emergency: '#FF0000',
-        },
-        fontFamily: {
-          sans: ['Inter', 'sans-serif'],
-        },
-        height: {
-          '20': '3.2rem',
-        },
-      }
+  // Check if Tailwind CSS loaded successfully
+  (function() {
+    var link = document.querySelector('link[href="/css/tailwind.min.css"]');
+    if (link) {
+      link.onerror = function() {
+        console.warn('Local Tailwind CSS failed to load, falling back to CDN');
+        var script = document.createElement('script');
+        script.src = 'https://cdn.tailwindcss.com';
+        document.head.appendChild(script);
+      };
     }
-  }
+  })();
 </script>
--->
 <style>
   .from-primary {
     --tw-gradient-from: rgb(55 65 81) var(--tw-gradient-from-position) !important;
