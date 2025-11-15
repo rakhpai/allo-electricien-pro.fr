@@ -88,6 +88,35 @@ seoMetaDescription: >-
   fiables ⚡ Devis gratuit et sans engagement. Disponible 24h/24. Contactez-nous
   maintenant ⭐
 seoContent:
+  localContext:
+    title: Votre électricien à Paris 20e
+    paragraphs:
+      - >-
+        Le 20e arrondissement de Paris, situé à l'est de la capitale, se
+        caractérise par son architecture éclectique mêlant immeubles
+        haussmanniens du XIXe siècle et constructions plus modernes. Les
+        quartiers de Belleville, Ménilmontant et Charonne présentent un tissu
+        urbain dense avec des bâtiments résidentiels de quatre à six étages, des
+        petits commerces et des ateliers. Cette zone populaire et dynamique
+        combine patrimoine architectural préservé et habitat contemporain,
+        reflétant l'évolution urbaine parisienne.
+      - >-
+        Les installations électriques du 20e arrondissement font face à des
+        défis spécifiques liés à l'ancienneté des bâtiments haussmanniens, dont
+        les systèmes d'électricité requièrent modernisation et mise aux normes.
+        Les problèmes courants incluent surcharges électriques, installations
+        obsolètes, défauts de mise à terre et nécessité de rénovation complète.
+        Les immeubles collectifs demandent également des interventions
+        coordonnées et des expertise en conformité aux normes actuelles de
+        sécurité.
+      - >-
+        Nos services électriques couvrent l'intégralité du 20e arrondissement
+        avec une équipe disponible pour interventions d'urgence et dépannages
+        rapides. Forts d'une connaissance approfondie des spécificités
+        architecturales locales, nos électriciens maîtrisent les contraintes des
+        immeubles anciens et les exigences de mise aux normes. Nous proposons
+        diagnostic, rénovation, maintenance préventive et travaux neufs,
+        garantissant sécurité et conformité réglementaire.
   servicesDetailed:
     title: Nos interventions électriques à Paris 20e
     intro: >-

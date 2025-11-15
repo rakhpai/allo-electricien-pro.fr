@@ -88,6 +88,35 @@ seoMetaDescription: >-
   Électricien Paris 4e (75004) ⚡ Dépannage rapide, installation et rénovation
   électrique. Disponible 24h/24. Devis gratuit ⭐ Contactez-nous maintenant !
 seoContent:
+  localContext:
+    title: Votre électricien à Paris 4e
+    paragraphs:
+      - >-
+        Le 4e arrondissement de Paris, situé au cœur de l'île de la Cité et de
+        l'île Saint-Louis, se caractérise par son architecture historique
+        remarquable. Cet arrondissement abrite des bâtiments haussmanniens
+        typiques aux façades élégantes, ainsi que des immeubles anciens datant
+        du Moyen Âge et de la Renaissance. Les résidences, commerces et petits
+        hôtels particuliers constituent un tissu urbain dense et patrimonial, où
+        chaque intervention technique doit respecter les contraintes
+        architecturales et réglementaires spécifiques aux zones protégées.
+      - >-
+        Les installations électriques du 4e arrondissement présentent des défis
+        particuliers liés à l'ancienneté des bâtiments. Les vieux immeubles
+        haussmanniens possèdent souvent des systèmes électriques obsolètes
+        nécessitant des mises à jour complètes pour garantir la sécurité aux
+        normes actuelles. Les électriciens interviennent fréquemment pour
+        remplacer les tableaux électriques vétustes, rénover les circuits
+        défaillants, et adapter les installations aux besoins modernes de
+        climatisation, chauffage et connectivité numérique.
+      - >-
+        Notre service d'électricité couvre l'ensemble du 75004, du Marais à
+        Notre-Dame, avec une intervention rapide dans les deux heures suivant
+        votre appel. Nos électriciens qualifiés maîtrisent les spécificités des
+        bâtiments parisiens anciens et disposent des certifications requises
+        pour travailler en zones historiques. Nous garantissons des solutions
+        durables respectant les normes de sécurité électrique et les exigences
+        patrimoniales du quartier.
   servicesDetailed:
     title: Nos interventions électriques à Paris 4e
     intro: >-

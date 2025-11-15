@@ -86,6 +86,35 @@ seoMetaDescription: >-
   Électricien Paris 12e (75012) ⚡ Dépannage rapide 24h/24, devis gratuit.
   Installations, rénovations, normes NFC 15-100. ⭐ Contactez-nous maintenant !
 seoContent:
+  localContext:
+    title: Votre électricien à Paris 12e
+    paragraphs:
+      - >-
+        Le 12e arrondissement de Paris, situé à l'est de la capitale, se
+        caractérise par une architecture diversifiée alliant immeubles
+        haussmanniens classiques et constructions modernes. Ce quartier
+        dynamique comprend des bâtiments résidentiels, des immeubles de bureaux,
+        ainsi que des espaces commerciaux concentrés notamment autour de Bercy
+        et de la Gare de Lyon. Les bâtiments anciens côtoient des structures
+        contemporaines, créant une mixité architecturale typique de ce secteur
+        en constante évolution.
+      - >-
+        Les installations électriques du 12e arrondissement doivent répondre à
+        des exigences particulières liées à cette mixité urbaine. Les immeubles
+        haussmanniens présentent souvent des systèmes électriques vieillissants
+        nécessitant des mises aux normes régulières, tandis que les bâtiments
+        modernes requièrent une maintenance spécialisée. Les problèmes courants
+        incluent les surcharges électriques, l'usure des installations anciennes
+        et la demande croissante en énergie pour les équipements numériques et
+        climatisation.
+      - >-
+        Nos services d'électricité couvrent l'intégralité du 12e arrondissement
+        avec une intervention rapide et efficace. Forts d'une expertise locale
+        approfondie, nos électriciens connaissent parfaitement les spécificités
+        des bâtiments parisiens et les normes en vigueur. Nous proposons des
+        diagnostics complets, des dépannages d'urgence et des installations
+        conformes aux standards actuels, garantissant la sécurité et la
+        fiabilité de vos installations électriques.
   servicesDetailed:
     title: Nos interventions électriques à Paris 12e
     intro: >-

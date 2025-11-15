@@ -88,6 +88,35 @@ seoMetaDescription: >-
   sécurisées ⚡ Devis gratuit et sans engagement. Disponible 24h/24.
   Contactez-nous maintenant ⭐
 seoContent:
+  localContext:
+    title: Votre électricien à Paris 9e
+    paragraphs:
+      - >-
+        Le 9e arrondissement de Paris incarne le charme de la capitale avec ses
+        immeubles haussmanniens caractéristiques, aux façades ornées et aux
+        hauteurs régulières. Ce quartier historique, qui s'étend de la Gare
+        Saint-Lazare aux Grands Boulevards, combine élégance parisienne et
+        dynamisme urbain. Les bâtiments résidentiels côtoient des immeubles de
+        bureaux et des commerces, reflétant la mixité fonctionnelle typique de
+        cet arrondissement central. L'architecture préservée du 9e impose des
+        contraintes particulières aux interventions techniques.
+      - >-
+        Les installations électriques des immeubles haussmanniens du 9e
+        présentent des défis spécifiques : vétusté des circuits anciens,
+        surcharge des systèmes face aux besoins modernes, et nécessité de
+        respecter les normes de sécurité actuelles. Les propriétaires et
+        locataires font face à des pannes récurrentes, des mises aux normes
+        obligatoires, et des demandes croissantes en électricité pour les
+        équipements contemporains. Les espaces commerciaux du quartier
+        requièrent également des installations robustes et fiables.
+      - >-
+        Nos services d'électricité couvrent l'intégralité du 9e arrondissement
+        avec une réactivité optimale et une expertise reconnue des
+        particularités du patrimoine parisien. Nos électriciens interviennent
+        rapidement pour les urgences et les dépannages, tout en maîtrisant les
+        contraintes de restauration des bâtiments anciens. Forts d'une
+        connaissance approfondie du quartier, nous garantissons des solutions
+        adaptées et conformes aux normes en vigueur.
   servicesDetailed:
     title: Nos interventions électriques à Paris 9e
     intro: >-
