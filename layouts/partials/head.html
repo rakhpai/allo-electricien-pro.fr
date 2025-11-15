@@ -1,6 +1,17 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="YOUR_GOOGLE_VERIFICATION_CODE">
+
+<!-- DNS Prefetch & Preconnect for External Resources -->
+<link rel="dns-prefetch" href="https://unpkg.com">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com">
+<link rel="preconnect" href="https://unpkg.com" crossorigin>
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+
 {{- if .IsHome }}
 <title>{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.description }}">
@@ -110,12 +121,44 @@
   {{- end -}}
 {{- end }}
 
-<!-- Google Fonts -->
+<!-- Google Fonts (Optimized with font-display) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
-<!-- Tailwind CSS -->
+<!-- Critical CSS (Inline for immediate render) -->
+<style>
+  /* Critical CSS for above-the-fold content */
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{line-height:1.5;-webkit-text-size-adjust:100%;font-family:Inter,sans-serif}
+  body{min-height:100vh;display:flex;flex-direction:column}
+  .container{width:100%;margin:0 auto;padding:0 1rem}
+  @media(min-width:640px){.container{max-width:640px}}
+  @media(min-width:768px){.container{max-width:768px}}
+  @media(min-width:1024px){.container{max-width:1024px}}
+  @media(min-width:1280px){.container{max-width:1280px}}
+  .hidden{display:none}
+  .flex{display:flex}
+  .bg-white{background-color:#fff}
+  .text-gray-900{color:#111827}
+  .font-bold{font-weight:700}
+  .text-xl{font-size:1.25rem;line-height:1.75rem}
+  .text-2xl{font-size:1.5rem;line-height:2rem}
+  .text-3xl{font-size:1.875rem;line-height:2.25rem}
+  .text-4xl{font-size:2.25rem;line-height:2.5rem}
+  .mb-4{margin-bottom:1rem}
+  .py-4{padding-top:1rem;padding-bottom:1rem}
+  .px-4{padding-left:1rem;padding-right:1rem}
+</style>
+
+<!-- Tailwind CSS - DISABLED: Using local build instead -->
+<!-- TO ENABLE LOCAL BUILD:
+     1. Run: npm install -D tailwindcss
+     2. Configure tailwind.config.js with proper purging
+     3. Build: npx tailwindcss -o static/css/tailwind.min.css --minify
+     4. Replace with: <link rel="stylesheet" href="/css/tailwind.min.css">
+-->
+<!--
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = {
@@ -136,6 +179,7 @@
     }
   }
 </script>
+-->
 <style>
   .from-primary {
     --tw-gradient-from: rgb(55 65 81) var(--tw-gradient-from-position) !important;
@@ -164,26 +208,26 @@
 </style>
 
 {{- if .IsHome }}
-<!-- Leaflet.js for Maps -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<!-- Leaflet.js for Maps (Deferred & Async CSS) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" media="print" onload="this.media='all'">
+<script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
-<!-- Leaflet MarkerCluster -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
-<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<!-- Leaflet MarkerCluster (Deferred) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" media="print" onload="this.media='all'">
+<script defer src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 
-<!-- Swiper.js for Carousel -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<!-- Swiper.js for Carousel (Deferred) -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" media="print" onload="this.media='all'">
+<script defer src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 {{- else }}
-<!-- Leaflet.js for individual page map -->
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<!-- Leaflet.js for individual page map (Deferred) -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" media="print" onload="this.media='all'">
+<script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 {{- end }}
 
-<!-- Lottie Web Player for Animations -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js" integrity="sha512-jEnuDt6jfecCjthQAJ+ed0MTVA++5ZKmlUcmDGBv2vUI/REn6FuIdixLNnQT+vKusE2hhTk2is3cFvv5wA+Sgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- Lottie Web Player for Animations (Deferred) -->
+<script defer src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js" integrity="sha512-jEnuDt6jfecCjthQAJ+ed0MTVA++5ZKmlUcmDGBv2vUI/REn6FuIdixLNnQT+vKusE2hhTk2is3cFvv5wA+Sgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <!-- Alpine.js for Interactive Components (Accordions, Dropdowns) -->
 <!-- Load Collapse plugin first, then Alpine.js core -->
@@ -192,6 +236,9 @@
 
 <!-- Custom CSS -->
 <link rel="stylesheet" href="/css/custom.css">
+
+<!-- Lazy Loading Script (Critical for performance) -->
+<script defer src="/js/lazy-load.js"></script>
 
 <!-- Schema.org Structured Data -->
 {{ partial "schema.html" . }}
