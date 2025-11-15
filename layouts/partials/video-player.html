@@ -103,9 +103,13 @@
 
         </div>
 
-        {{/* Collapsible Video Transcript */}}
+        {{/* SEO-Optimized Video Section H2 with Rotating Variants */}}
         {{ if $videoData.voiceover_script }}
-          <details class="mt-6 bg-gray-50 rounded-lg group">
+          <div class="mt-8">
+            {{ partial "video-heading-h2.html" . }}
+
+            {{/* Collapsible Video Transcript */}}
+            <details class="mt-4 bg-gray-50 rounded-lg group">
             <summary class="px-6 py-4 cursor-pointer hover:bg-gray-100
                             transition-colors duration-200
                             flex items-center justify-between
@@ -135,6 +139,7 @@
               {{ end }}
             </div>
           </details>
+          </div>
         {{ end }}
 
       </div>

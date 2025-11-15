@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T18:15:27.957Z",
-  "lastUpdate": "2025-11-15T18:15:27.957Z",
+  "startTime": "2025-11-15T18:21:00.323Z",
+  "lastUpdate": "2025-11-15T18:21:00.323Z",
   "processed": {
     "total": 262,
-    "processed": 240,
-    "successful": 240,
+    "processed": 250,
+    "successful": 250,
     "failed": 0,
-    "totalInputTokens": 503790,
-    "totalOutputTokens": 538328
+    "totalInputTokens": 524878,
+    "totalOutputTokens": 561005
   },
-  "lastProcessedSlug": "/sonchamp",
+  "lastProcessedSlug": "/velizy-villacoublay",
   "costs": {
-    "inputTokens": 503790,
-    "outputTokens": 538328,
-    "totalTokens": 1042118,
-    "cost": 2.556344,
-    "inputCost": 0.403032,
-    "outputCost": 2.153312
+    "inputTokens": 524878,
+    "outputTokens": 561005,
+    "totalTokens": 1085883,
+    "cost": 2.6639223999999997,
+    "inputCost": 0.4199024,
+    "outputCost": 2.24402
   }
 }
