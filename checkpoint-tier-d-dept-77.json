@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T19:19:05.582Z",
-  "lastUpdate": "2025-11-15T19:19:05.582Z",
+  "startTime": "2025-11-15T19:35:54.620Z",
+  "lastUpdate": "2025-11-15T19:35:54.620Z",
   "processed": {
     "total": 507,
-    "processed": 350,
-    "successful": 349,
+    "processed": 380,
+    "successful": 379,
     "failed": 1,
-    "totalInputTokens": 737053,
-    "totalOutputTokens": 785289
+    "totalInputTokens": 799651,
+    "totalOutputTokens": 851741
   },
-  "lastProcessedSlug": "/penchard",
+  "lastProcessedSlug": "/rupereux",
   "costs": {
-    "inputTokens": 737053,
-    "outputTokens": 785289,
-    "totalTokens": 1522342,
-    "cost": 3.7307984000000003,
-    "inputCost": 0.5896424,
-    "outputCost": 3.141156
+    "inputTokens": 799651,
+    "outputTokens": 851741,
+    "totalTokens": 1651392,
+    "cost": 4.0466847999999995,
+    "inputCost": 0.6397208000000001,
+    "outputCost": 3.406964
   }
 }

@@ -167,14 +167,28 @@
 
             {{/* Collapsible Video Transcript */}}
             <div id="transcript-content" class="hidden mt-4 bg-gray-50 rounded-lg p-6 transition-all duration-300">
-              <div class="relative transcript-icon-container">
-                <svg class="w-6 h-6 text-primary cursor-help inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" title="Transcription de la vidéo">
+              {{/* Define 5 SEO-optimized H3 variant templates */}}
+              {{ $h3variant0 := printf "Transcription Complète - Électricien %s (%s)" $city $zipCode }}
+              {{ $h3variant1 := printf "Détails Services Électricien %s (%s)" $city $zipCode }}
+              {{ $h3variant2 := printf "Contenu Vidéo Électricien Urgence %s" $city }}
+              {{ $h3variant3 := printf "Présentation Complète Électricien %s (%s)" $city $zipCode }}
+              {{ $h3variant4 := printf "Texte Intégral Vidéo Dépannage %s" $city }}
+
+              {{ $selectedH3 := "" }}
+              {{ if eq $variantIndex 0 }}{{ $selectedH3 = $h3variant0 }}{{ end }}
+              {{ if eq $variantIndex 1 }}{{ $selectedH3 = $h3variant1 }}{{ end }}
+              {{ if eq $variantIndex 2 }}{{ $selectedH3 = $h3variant2 }}{{ end }}
+              {{ if eq $variantIndex 3 }}{{ $selectedH3 = $h3variant3 }}{{ end }}
+              {{ if eq $variantIndex 4 }}{{ $selectedH3 = $h3variant4 }}{{ end }}
+
+              <h3 class="text-lg md:text-xl font-semibold text-gray-900 mb-4 flex items-center gap-2">
+                <svg class="w-6 h-6 text-primary flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                         d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                 </svg>
-                <span class="tooltip-transcript-icon">Transcription de la vidéo</span>
-              </div>
-              <p class="text-gray-700 whitespace-pre-line leading-relaxed text-base mt-4">
+                <span>{{ $selectedH3 }}</span>
+              </h3>
+              <p class="text-gray-700 whitespace-pre-line leading-relaxed text-base">
                 {{ $videoData.voiceover_script }}
               </p>
 
