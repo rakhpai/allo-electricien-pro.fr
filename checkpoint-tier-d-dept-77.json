@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T18:09:40.179Z",
-  "lastUpdate": "2025-11-15T18:09:40.179Z",
+  "startTime": "2025-11-15T18:15:45.846Z",
+  "lastUpdate": "2025-11-15T18:15:45.846Z",
   "processed": {
     "total": 507,
-    "processed": 230,
-    "successful": 229,
+    "processed": 240,
+    "successful": 239,
     "failed": 1,
-    "totalInputTokens": 482863,
-    "totalOutputTokens": 514180
+    "totalInputTokens": 504023,
+    "totalOutputTokens": 536758
   },
-  "lastProcessedSlug": "/la-houssaye-en-brie",
+  "lastProcessedSlug": "/le-mesnil-amelot",
   "costs": {
-    "inputTokens": 482863,
-    "outputTokens": 514180,
-    "totalTokens": 997043,
-    "cost": 2.4430104,
-    "inputCost": 0.38629040000000003,
-    "outputCost": 2.05672
+    "inputTokens": 504023,
+    "outputTokens": 536758,
+    "totalTokens": 1040781,
+    "cost": 2.5502504,
+    "inputCost": 0.40321840000000003,
+    "outputCost": 2.147032
   }
 }

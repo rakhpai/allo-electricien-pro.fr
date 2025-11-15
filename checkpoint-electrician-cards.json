@@ -1,5 +1,5 @@
 {
-  "lastProcessedCommune": "beautheil",
+  "lastProcessedCommune": "bezalles",
   "processedCommunes": [
     "chelles",
     "meaux",
@@ -30,17 +30,22 @@
     "bazoches-les-bray",
     "beauchery-saint-martin",
     "beaumont-du-gatinais",
-    "beautheil"
+    "beautheil",
+    "beauvoir",
+    "bellot",
+    "bernay-vilbert",
+    "beton-bazoches",
+    "bezalles"
   ],
   "processed": {
-    "successful": 180,
+    "successful": 210,
     "errors": 0,
     "total": 128
   },
   "stats": {
-    "inputTokens": 199349,
-    "outputTokens": 50430,
-    "apiCalls": 900
+    "inputTokens": 231964,
+    "outputTokens": 58669,
+    "apiCalls": 1050
   },
   "output": {
     "generated_at": "2025-11-15T17:27:25.559Z",
@@ -2232,6 +2237,371 @@
             "trust_signal": "10 ans d'expérience confirmée à Beautheil, électricien fiable et professionnel",
             "why_this_commune": "Eric Lemoine est le choix idéal pour Beautheil. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
             "generated_at": "2025-11-15T18:12:37.577Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "beauvoir": {
+        "commune_name": "BEAUVOIR",
+        "postal_code": "77390",
+        "department": "77",
+        "electricians": {
+          "11f41c9a-316f-4389-a7d1-638da2dbfd02": {
+            "profile_id": "11f41c9a-316f-4389-a7d1-638da2dbfd02",
+            "commune_slug": "beauvoir",
+            "bio_localized": "Électricien domotique à Beauvoir, Gérard Sanchez accompagne les habitants de Seine-et-Marne dans la modernisation de leurs installations. Spécialiste en automatisation, il équipe pavillons et immeubles de solutions intelligentes et durables. Avec 9 ans d'expertise, il garantit des interventions fiables et un service client irréprochable.",
+            "local_badge": "Électricien expert de Beauvoir, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation à Beauvoir, je modernise vos installations pour plus de confort et d'efficacité énergétique.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien de confiance à Beauvoir",
+            "why_this_commune": "Gérard Sanchez est le choix idéal pour Beauvoir. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers beauvoiriens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-15T18:12:51.209Z",
+            "used_fallback": false
+          },
+          "cff50c0f-a646-4eb5-b920-6b8df3f24a57": {
+            "profile_id": "cff50c0f-a646-4eb5-b920-6b8df3f24a57",
+            "commune_slug": "beauvoir",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Beauvoir, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je propose des solutions adaptées à votre logement. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert de Beauvoir, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge pour véhicules électriques à Beauvoir et ses environs.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Beauvoir, interventions rapides et fiables",
+            "why_this_commune": "Guillaume Schmitt est un excellent choix pour Beauvoir. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers beauvoiriens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité et une totale fiabilité.",
+            "generated_at": "2025-11-15T18:13:03.917Z",
+            "used_fallback": false
+          },
+          "d08f6d48-be1d-4078-a49a-31f49574678d": {
+            "profile_id": "d08f6d48-be1d-4078-a49a-31f49574678d",
+            "commune_slug": "beauvoir",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Beauvoir, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Beauvoir, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Beauvoir.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et reconnu à Beauvoir",
+            "why_this_commune": "Antoine Chevalier est le choix idéal pour Beauvoir. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:13:17.457Z",
+            "used_fallback": false
+          },
+          "9771c199-24d4-4047-99c0-caabd56a3803": {
+            "profile_id": "9771c199-24d4-4047-99c0-caabd56a3803",
+            "commune_slug": "beauvoir",
+            "bio_localized": "Fort de 14 années d'expérience, Patrick Brun intervient à Beauvoir en Seine-et-Marne pour tous vos besoins électriques. Agréé Consuel, il garantit la conformité et la sécurité de vos installations, qu'elles concernent des pavillons ou des immeubles. Un professionnel de confiance pour votre tranquillité électrique.",
+            "local_badge": "Électricien expert de Beauvoir, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Beauvoir, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "14 ans d'expérience électricien à Beauvoir, interventions rapides et fiables garanties",
+            "why_this_commune": "Patrick Brun, électricien local à Beauvoir, maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience en Seine-et-Marne, il offre un service fiable et adapté à vos besoins locaux.",
+            "generated_at": "2025-11-15T18:13:32.537Z",
+            "used_fallback": false
+          },
+          "7af97dc2-bc22-4dff-87fa-2a1c75a871d4": {
+            "profile_id": "7af97dc2-bc22-4dff-87fa-2a1c75a871d4",
+            "commune_slug": "beauvoir",
+            "bio_localized": "Électricien qualifié depuis 8 ans à Beauvoir, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis un travail conforme aux normes. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Beauvoir, interventions rapides",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Beauvoir pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "8 ans d'expérience confirmée à Beauvoir, électricien fiable et professionnel",
+            "why_this_commune": "Frédéric Lucas est le choix idéal pour Beauvoir. Électricien local, il connaît parfaitement les spécificités des bâtiments beauvoiriens et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité adapté à vos besoins locaux.",
+            "generated_at": "2025-11-15T18:13:45.345Z",
+            "used_fallback": false
+          },
+          "7a087381-8b88-45cb-ac39-e9813a90a436": {
+            "profile_id": "7a087381-8b88-45cb-ac39-e9813a90a436",
+            "commune_slug": "beauvoir",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, Eric Nicolas intervient à Beauvoir et en Seine-et-Marne pour l'installation de tableaux électriques. Spécialiste des pavillons et petits collectifs locaux, il garantit des installations conformes et sécurisées. Disponible pour diagnostics et mises aux normes.",
+            "local_badge": "Électricien expert de Beauvoir, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques, intervenant régulièrement à Beauvoir pour vos besoins résidentiels et professionnels.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Beauvoir",
+            "why_this_commune": "Eric Nicolas est le choix idéal pour Beauvoir. Électricien local, il maîtrise parfaitement les spécificités architecturales et les infrastructures de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone seine-et-marnaise assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-15T18:13:59.831Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bellot": {
+        "commune_name": "BELLOT",
+        "postal_code": "77510",
+        "department": "77",
+        "electricians": {
+          "9834f331-7fa0-4682-a8f6-29968d01505e": {
+            "profile_id": "9834f331-7fa0-4682-a8f6-29968d01505e",
+            "commune_slug": "bellot",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, je suis basé à Bellot en Seine-et-Marne. Spécialisé en dépannage express, j'interviens rapidement sur tous types de installations électriques. Que vous habitiez un pavillon ou un immeuble, je garantis des solutions fiables et durables pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Bellot, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Bellot : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et reconnu à Bellot",
+            "why_this_commune": "Vincent Gauthier est le choix idéal pour Bellot. Électricien local, il connaît parfaitement les spécificités des bâtiments bellotois et intervient rapidement. Son expérience confirmée dans la région garantit des solutions adaptées et un service fiable.",
+            "generated_at": "2025-11-15T18:14:13.153Z",
+            "used_fallback": false
+          },
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "bellot",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Bellot, je maîtrise les installations électriques de tous types : pavillons, immeubles modernes et bâtiments anciens. Disponible 24/7 pour vos urgences en Seine-et-Marne, je garantis des interventions rapides et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Bellot, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Bellot pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et reconnu à Bellot",
+            "why_this_commune": "Daniel Fabre est le choix idéal pour Bellot. Électricien local, il maîtrise parfaitement les spécificités des bâtiments bellotois et intervient rapidement grâce à sa proximité. Son expérience confirmée dans la région garantit un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-15T18:14:27.555Z",
+            "used_fallback": false
+          },
+          "06611958-2c09-4107-8716-0bebe5b4ae69": {
+            "profile_id": "06611958-2c09-4107-8716-0bebe5b4ae69",
+            "commune_slug": "bellot",
+            "bio_localized": "Marc Philippe, électricien agréé Consuel à Bellot, met ses 11 années d'expertise au service des résidents de Seine-et-Marne. Spécialiste des installations électriques dans les pavillons et immeubles locaux, il garantit la conformité et la sécurité de vos installations. Intervenant fiable et professionnel sur Bellot et ses alentours.",
+            "local_badge": "Électricien expert de Bellot, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Bellot, garantissant la conformité et la sécurité de toutes vos installations électriques.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et certifié à Bellot",
+            "why_this_commune": "Marc Philippe est le choix idéal pour Bellot. Électricien local, il maîtrise parfaitement les spécificités des bâtiments bellotains et leurs quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:14:41.104Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "bellot",
+            "bio_localized": "Électricien expérimenté depuis 5 ans à Bellot, je maîtrise tous les types d'installations électriques, des pavillons aux immeubles modernes de Seine-et-Marne. Disponible 24h/24 pour vos urgences, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Bellot, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Bellot pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et professionnel à Bellot",
+            "why_this_commune": "Alain Renard est le choix idéal pour Bellot. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers bellotains. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-15T18:14:54.431Z",
+            "used_fallback": false
+          },
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "bellot",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, Michel Bertrand intervient à Bellot et ses environs en Seine-et-Marne. Spécialisé en électricité générale, il assure l'installation et la maintenance électrique de vos pavillons et habitations. Travail soigné, interventions rapides et fiables.",
+            "local_badge": "Électricien expert de Bellot, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Bellot pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "5 ans d'expérience, électricien fiable et réactif à Bellot, interventions rapides garanties",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Bellot. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et les quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:15:08.053Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "bellot",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Bellot, je spécialise dans la mise aux normes NF C 15-100 pour tous types d'habitations. Que vous possédiez un pavillon en Seine-et-Marne ou un immeuble ancien, je garantis une installation électrique sécurisée et conforme. Devis gratuit et intervention réactive.",
+            "local_badge": "Électricien expert de Bellot, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Bellot pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience électricien à Bellot, interventions rapides et fiables garanties",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Bellot. Électricien local, il connaît parfaitement les spécificités des bâtiments bellotois et leurs particularités. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience en Seine-et-Marne, il maîtrise les défis électriques régionaux. Un professionnel de confiance, disponible et efficace.",
+            "generated_at": "2025-11-15T18:15:21.478Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bernay-vilbert": {
+        "commune_name": "BERNAY-VILBERT",
+        "postal_code": "77540",
+        "department": "77",
+        "electricians": {
+          "3aceeaf7-a3d4-4d50-baaa-020234764934": {
+            "profile_id": "3aceeaf7-a3d4-4d50-baaa-020234764934",
+            "commune_slug": "bernay-vilbert",
+            "bio_localized": "Électricien depuis 19 ans à Bernay-Vilbert, je spécialise dans l'éclairage LED professionnel. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je vous propose des solutions d'éclairage performantes et durables. Intervention rapide et travail soigné garantis.",
+            "local_badge": "Électricien expert de Bernay-Vilbert, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités de Bernay-Vilbert, optimisant vos consommations énergétiques.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable à Bernay-Vilbert",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Bernay-Vilbert. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-15T18:15:34.584Z",
+            "used_fallback": false
+          },
+          "5c54036c-90a3-44a5-8315-072aabd6ba40": {
+            "profile_id": "5c54036c-90a3-44a5-8315-072aabd6ba40",
+            "commune_slug": "bernay-vilbert",
+            "bio_localized": "Électricien expert à Bernay-Vilbert depuis 16 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible rapidement pour vos urgences électriques en Seine-et-Marne, je garantis des interventions fiables et professionnelles. Votre confiance, ma priorité.",
+            "local_badge": "Électricien expert de Bernay-Vilbert depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Bernay-Vilbert : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Bernay-Vilbert, interventions rapides garanties",
+            "why_this_commune": "Thomas Rolland est un excellent choix pour Bernay-Vilbert. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:15:48.520Z",
+            "used_fallback": false
+          },
+          "d8b0df04-e436-456a-aed2-d2e55556b4cf": {
+            "profile_id": "d8b0df04-e436-456a-aed2-d2e55556b4cf",
+            "commune_slug": "bernay-vilbert",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, je propose des solutions d'électricité générale adaptées aux pavillons et maisons de Bernay-Vilbert. Diagnostic précis, interventions rapides et travail soigné sont mes engagements. Disponible en Seine-et-Marne pour vos dépannages et installations électriques.",
+            "local_badge": "Électricien expert de Bernay-Vilbert, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Bernay-Vilbert pour particuliers et professionnels.",
+            "trust_signal": "8 ans d'expérience confirmée à Bernay-Vilbert, électricien fiable et professionnel",
+            "why_this_commune": "Jean Renard est le choix idéal pour Bernay-Vilbert. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-15T18:16:01.545Z",
+            "used_fallback": false
+          },
+          "db6a482a-d497-409c-90ed-5c79d582713d": {
+            "profile_id": "db6a482a-d497-409c-90ed-5c79d582713d",
+            "commune_slug": "bernay-vilbert",
+            "bio_localized": "Électricien qualifié intervenant à Bernay-Vilbert et ses environs, je maîtrise l'électricité générale pour tous types de bâtiments, des pavillons aux immeubles modernes. Fort de 6 ans d'expérience, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Bernay-Vilbert, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Bernay-Vilbert pour tous vos travaux d'installation et de maintenance électrique résidentielle et commerciale.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien de confiance à Bernay-Vilbert",
+            "why_this_commune": "Michel Meyer est le choix idéal pour Bernay-Vilbert. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:16:15.249Z",
+            "used_fallback": false
+          },
+          "30b99a67-fbee-442d-bc02-6c83b9e20adb": {
+            "profile_id": "30b99a67-fbee-442d-bc02-6c83b9e20adb",
+            "commune_slug": "bernay-vilbert",
+            "bio_localized": "Électricien expert à Bernay-Vilbert depuis 14 ans, je spécialise dans l'éclairage LED professionnel pour les pavillons et immeubles de Seine-et-Marne. Je conçois des solutions d'éclairage modernes et économes, adaptées à chaque architecture locale. Disponible pour vos projets résidentiels et professionnels.",
+            "local_badge": "Électricien expert de Bernay-Vilbert, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Bernay-Vilbert, je transforme vos espaces avec des solutions modernes et économes en énergie.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Bernay-Vilbert depuis longtemps",
+            "why_this_commune": "Alexandre Henry est un excellent choix pour Bernay-Vilbert. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:16:28.649Z",
+            "used_fallback": false
+          },
+          "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86": {
+            "profile_id": "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86",
+            "commune_slug": "bernay-vilbert",
+            "bio_localized": "Électricien qualifié depuis 12 ans, j'interviens à Bernay-Vilbert et ses alentours en Seine-et-Marne pour l'installation de bornes de recharge. Spécialiste des pavillons et immeubles, je propose des solutions adaptées à votre habitat. Devis gratuit et travaux rapides garantis.",
+            "local_badge": "Électricien expert de Bernay-Vilbert, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Bernay-Vilbert et alentours.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et reconnu à Bernay-Vilbert",
+            "why_this_commune": "Julien Garcia est le choix idéal pour Bernay-Vilbert. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:16:41.610Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "beton-bazoches": {
+        "commune_name": "BETON-BAZOCHES",
+        "postal_code": "77320",
+        "department": "77",
+        "electricians": {
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "beton-bazoches",
+            "bio_localized": "Électricien qualifié depuis 9 ans à Beton-Bazoches, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et maisons anciennes de Seine-et-Marne. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Beton-Bazoches, intervention rapide",
+            "service_highlight": "Mise aux normes NF C 15-100 pour tous vos logements et bâtiments à Beton-Bazoches, sécurité garantie.",
+            "trust_signal": "9 ans d'expérience confirmée à Beton-Bazoches, électricien fiable et professionnel",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Beton-Bazoches. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:16:54.507Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "beton-bazoches",
+            "bio_localized": "Eric Barbier, électricien expert à Beton-Bazoches, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 5 ans d'expérience, il accompagne les résidents du 77 dans la sécurisation de leurs installations, du pavillon à l'immeuble. Qualité et fiabilité garanties.",
+            "local_badge": "Électricien expert de Beton-Bazoches depuis des années",
+            "service_highlight": "Spécialiste de l'installation et la mise aux normes de tableaux électriques à Beton-Bazoches pour tous types de bâtiments.",
+            "trust_signal": "5 ans d'expérience confirmée à Beton-Bazoches, électricien fiable et réactif",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Beton-Bazoches. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:17:08.005Z",
+            "used_fallback": false
+          },
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "beton-bazoches",
+            "bio_localized": "Michel Bertrand, électricien expérimenté depuis 5 ans, intervient à Beton-Bazoches et ses environs en Seine-et-Marne. Spécialisé en électricité générale, il assure l'installation et la maintenance électrique de vos pavillons et résidences. Interventions rapides et travail soigné garantis pour votre sécurité.",
+            "local_badge": "Électricien expert de Beton-Bazoches, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Beton-Bazoches pour particuliers et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Beton-Bazoches",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Beton-Bazoches. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments de la commune et ses quartiers. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:17:21.048Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "beton-bazoches",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Beton-Bazoches, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Interventions rapides et fiables, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Beton-Bazoches depuis des années",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Beton-Bazoches.",
+            "trust_signal": "10 ans d'expérience confirmée à Beton-Bazoches, électricien fiable et professionnel",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Beton-Bazoches. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et les quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-15T18:17:34.178Z",
+            "used_fallback": false
+          },
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "beton-bazoches",
+            "bio_localized": "Eric Vincent, électricien expert à Beton-Bazoches, intervient depuis 10 ans sur l'installation de tableaux électriques. Spécialisé dans les pavillons et petits collectifs de Seine-et-Marne, il garantit des installations conformes et durables. Service fiable et client au cœur de ses préoccupations.",
+            "local_badge": "Électricien expert de Beton-Bazoches, intervention rapide",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques à Beton-Bazoches, garantissant conformité et sécurité.",
+            "trust_signal": "10 ans d'expérience confirmée à Beton-Bazoches, électricien fiable et réactif",
+            "why_this_commune": "Eric Vincent est le choix idéal pour Beton-Bazoches. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune en Seine-et-Marne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-15T18:17:46.982Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "beton-bazoches",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, Alain Renard intervient 24/7 à Beton-Bazoches et ses environs en Seine-et-Marne. Spécialisé en urgences électriques, il maîtrise les installations des pavillons comme des immeubles modernes. Intervention rapide, diagnostic précis et travail soigné garantis pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Beton-Bazoches depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Beton-Bazoches pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et reconnu à Beton-Bazoches",
+            "why_this_commune": "Alain Renard est un excellent choix pour Beton-Bazoches. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:18:00.026Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bezalles": {
+        "commune_name": "BEZALLES",
+        "postal_code": "77970",
+        "department": "77",
+        "electricians": {
+          "0f8310c2-4fa6-413f-9131-795b02b85985": {
+            "profile_id": "0f8310c2-4fa6-413f-9131-795b02b85985",
+            "commune_slug": "bezalles",
+            "bio_localized": "Électricien domotique à Bezalles, je modernise les installations électriques de vos pavillons et maisons. Avec 8 ans d'expertise en automatisation, je sécurise votre habitat en Seine-et-Marne. Solutions intelligentes et fiables pour votre confort quotidien.",
+            "local_badge": "Électricien expert de Bezalles, intervention rapide",
+            "service_highlight": "Automatisation et domotique intelligente pour résidences et entreprises de Bezalles, solutions modernes et sur mesure.",
+            "trust_signal": "8 ans d'expérience confirmée à Bezalles, électricien fiable et professionnel",
+            "why_this_commune": "Jacques Vidal est le choix idéal pour Bezalles. Électricien local, il maîtrise les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:18:12.820Z",
+            "used_fallback": false
+          },
+          "4d52b1a4-e830-428d-9c2c-eb8b2a1fab00": {
+            "profile_id": "4d52b1a4-e830-428d-9c2c-eb8b2a1fab00",
+            "commune_slug": "bezalles",
+            "bio_localized": "Électricien professionnel à Bezalles depuis 12 ans, je spécialise dans l'éclairage LED haute performance. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je conçois des solutions d'éclairage innovantes et économes. Disponible pour vos installations résidentielles et commerciales.",
+            "local_badge": "Électricien expert de Bezalles - Intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel à Bezalles, optimisant consommation énergétique et luminosité vos espaces.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et qualifié à Bezalles",
+            "why_this_commune": "David Lucas est le choix idéal pour Bezalles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-15T18:18:25.792Z",
+            "used_fallback": false
+          },
+          "7e0c85f4-54cb-45d5-b7dc-ffc0e17a5470": {
+            "profile_id": "7e0c85f4-54cb-45d5-b7dc-ffc0e17a5470",
+            "commune_slug": "bezalles",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Robert Nicolas intervient à Bezalles et ses alentours en Seine-et-Marne. Spécialiste en rénovation électrique, il modernise les installations des pavillons et immeubles locaux avec professionnalisme et fiabilité. Travaux conformes aux normes actuelles.",
+            "local_badge": "Électricien expert de Bezalles, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Bezalles, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et reconnu à Bezalles",
+            "why_this_commune": "Robert Nicolas est le choix idéal pour Bezalles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:18:38.348Z",
+            "used_fallback": false
+          },
+          "853ee8e6-c215-46e7-9712-c4595018b162": {
+            "profile_id": "853ee8e6-c215-46e7-9712-c4595018b162",
+            "commune_slug": "bezalles",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Bezalles, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous résidiez en pavillon ou immeuble en Seine-et-Marne, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide assurée.",
+            "local_badge": "Électricien expert de Bezalles - Intervention rapide",
+            "service_highlight": "Électricien spécialisé en installation de bornes de recharge à Bezalles, pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Bezalles, interventions fiables",
+            "why_this_commune": "Julien Sanchez est le choix idéal pour Bezalles. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-15T18:18:51.412Z",
+            "used_fallback": false
+          },
+          "b491facd-2f4f-4933-8a88-4fb8eff3cece": {
+            "profile_id": "b491facd-2f4f-4933-8a88-4fb8eff3cece",
+            "commune_slug": "bezalles",
+            "bio_localized": "Georges Meunier, électricien expert à Bezalles en Seine-et-Marne, intervient depuis 16 ans sur l'installation de tableaux électriques. Spécialiste des pavillons et petits immeubles locaux, il garantit des installations conformes et sécurisées. Service fiable et client satisfait, votre électricien de confiance.",
+            "local_badge": "Électricien expert de Bezalles, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Bezalles, intervenant sur tous types de bâtiments résidentiels et commerciaux.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Bezalles",
+            "why_this_commune": "Georges Meunier est le choix idéal pour Bezalles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-15T18:19:04.263Z",
+            "used_fallback": false
+          },
+          "06611958-2c09-4107-8716-0bebe5b4ae69": {
+            "profile_id": "06611958-2c09-4107-8716-0bebe5b4ae69",
+            "commune_slug": "bezalles",
+            "bio_localized": "Marc Philippe, électricien agréé Consuel à Bezalles, met ses 11 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur pavillons, immeubles et bâtiments anciens. Normes de sécurité garanties et diagnostic fiable.",
+            "local_badge": "Électricien expert de Bezalles, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Bezalles, intervient sur installations neuves et rénovations avec certification de conformité.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable et professionnel à Bezalles",
+            "why_this_commune": "Marc Philippe est le choix idéal pour Bezalles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-15T18:19:17.482Z",
             "used_fallback": false
           }
         }

@@ -1,0 +1,51 @@
+{{/* Video Heading H2 with Rotating Variants for SEO Optimization */}}
+{{ $citySlug := .File.BaseFileName }}
+{{ $zipCode := .Params.zipCode }}
+{{ $city := .Params.city }}
+
+{{/* Generate deterministic variant index (0-4) based on hash of city slug and zip code */}}
+{{ $hash := md5 (printf "%s%s" $citySlug $zipCode) }}
+{{/* Convert first 8 characters of hash to int and mod 5 for variant selection */}}
+{{ $hashSubstr := substr $hash 0 8 }}
+{{ $hashInt := 0 }}
+{{/* Simple hash to int conversion using character values */}}
+{{ range $i, $char := split $hashSubstr "" }}
+  {{ if eq $char "a" }}{{ $hashInt = add $hashInt 10 }}{{ end }}
+  {{ if eq $char "b" }}{{ $hashInt = add $hashInt 11 }}{{ end }}
+  {{ if eq $char "c" }}{{ $hashInt = add $hashInt 12 }}{{ end }}
+  {{ if eq $char "d" }}{{ $hashInt = add $hashInt 13 }}{{ end }}
+  {{ if eq $char "e" }}{{ $hashInt = add $hashInt 14 }}{{ end }}
+  {{ if eq $char "f" }}{{ $hashInt = add $hashInt 15 }}{{ end }}
+  {{ if eq $char "0" }}{{ $hashInt = add $hashInt 0 }}{{ end }}
+  {{ if eq $char "1" }}{{ $hashInt = add $hashInt 1 }}{{ end }}
+  {{ if eq $char "2" }}{{ $hashInt = add $hashInt 2 }}{{ end }}
+  {{ if eq $char "3" }}{{ $hashInt = add $hashInt 3 }}{{ end }}
+  {{ if eq $char "4" }}{{ $hashInt = add $hashInt 4 }}{{ end }}
+  {{ if eq $char "5" }}{{ $hashInt = add $hashInt 5 }}{{ end }}
+  {{ if eq $char "6" }}{{ $hashInt = add $hashInt 6 }}{{ end }}
+  {{ if eq $char "7" }}{{ $hashInt = add $hashInt 7 }}{{ end }}
+  {{ if eq $char "8" }}{{ $hashInt = add $hashInt 8 }}{{ end }}
+  {{ if eq $char "9" }}{{ $hashInt = add $hashInt 9 }}{{ end }}
+{{ end }}
+{{ $variantIndex := mod $hashInt 5 }}
+
+{{/* Define 5 SEO-optimized variant templates with urgency keywords */}}
+{{ $variant0 := printf "Vidéo SOS Électricien %s (%s) - Dépannage 24/7" $city $zipCode }}
+{{ $variant1 := printf "Présentation Vidéo - Électricien Urgence %s (%s)" $city $zipCode }}
+{{ $variant2 := printf "Vidéo Dépannage Électrique 24h/24 %s (%s)" $city $zipCode }}
+{{ $variant3 := printf "Découvrez Votre Électricien SOS %s (%s) en Vidéo" $city $zipCode }}
+{{ $variant4 := printf "Intervention Urgence Électricien %s (%s) - Vidéo 24/7" $city $zipCode }}
+
+{{ $selectedVariant := "" }}
+{{ if eq $variantIndex 0 }}{{ $selectedVariant = $variant0 }}{{ end }}
+{{ if eq $variantIndex 1 }}{{ $selectedVariant = $variant1 }}{{ end }}
+{{ if eq $variantIndex 2 }}{{ $selectedVariant = $variant2 }}{{ end }}
+{{ if eq $variantIndex 3 }}{{ $selectedVariant = $variant3 }}{{ end }}
+{{ if eq $variantIndex 4 }}{{ $selectedVariant = $variant4 }}{{ end }}
+
+<h2 class="text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
+  <svg class="w-7 h-7 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 10l4.553-2.276A1 1 0 0121 8.618v6.764a1 1 0 01-1.447.894L15 14M5 18h8a2 2 0 002-2V8a2 2 0 00-2-2H5a2 2 0 00-2 2v8a2 2 0 002 2z"></path>
+  </svg>
+  <span>{{ $selectedVariant }}</span>
+</h2>
