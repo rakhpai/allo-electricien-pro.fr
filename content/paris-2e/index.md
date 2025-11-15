@@ -88,36 +88,6 @@ seoMetaDescription: >-
   Électricien Paris 2e (75002) ⚡ Dépannage urgent 24h/24, intervention rapide
   garantie. Devis gratuit et sans engagement ⭐ Contactez-nous maintenant !
 seoContent:
-  localContext:
-    title: Votre électricien à Paris 2e
-    paragraphs:
-      - >-
-        Le 2e arrondissement de Paris, situé au cœur de la capitale, se
-        caractérise par son architecture Haussmannienne distinctive et ses
-        immeubles de prestige datant du XIXe siècle. Ce quartier historique, qui
-        englobe des secteurs comme la Bourse et les Halles, combine des
-        bâtiments résidentiels élégants avec des immeubles commerciaux et des
-        sièges sociaux importants. Les façades ornementées et les structures
-        anciennes confèrent au quartier son charme particulier, mais requièrent
-        une expertise spécialisée pour l'entretien des installations
-        électriques.
-      - >-
-        Les immeubles Haussmanniens du 2e arrondissement présentent des défis
-        électriques spécifiques liés à leur ancienneté. Les installations
-        d'époque nécessitent souvent une mise aux normes, notamment concernant
-        les circuits de distribution, les prises de terre et les systèmes de
-        protection. Les propriétaires et gestionnaires d'immeubles font face à
-        des problèmes courants tels que l'insuffisance de puissance,
-        l'obsolescence des tableaux électriques et la nécessité de conformité
-        aux standards actuels de sécurité.
-      - >-
-        Notre service d'électricité couvre l'ensemble du 2e arrondissement avec
-        une intervention rapide et efficace. Nos électriciens expérimentés
-        maîtrisent les particularités des constructions anciennes parisiennes et
-        interviennent sur diagnostic, rénovation et maintenance. Disponibles
-        pour les urgences électriques, nous garantissons une prise en charge
-        prioritaire dans ce secteur central, assurant la sécurité et la
-        conformité de vos installations.
   servicesDetailed:
     title: Nos interventions électriques à Paris 2e
     intro: >-

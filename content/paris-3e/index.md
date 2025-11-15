@@ -87,35 +87,6 @@ seoMetaDescription: >-
   Électricien expert à Paris 3e (75003). Dépannage rapide, installations et
   rénovations. ⚡ Devis gratuit, intervention 24h/24. Contactez-nous maintenant !
 seoContent:
-  localContext:
-    title: Votre électricien à Paris 3e
-    paragraphs:
-      - >-
-        Le 3e arrondissement de Paris, situé au cœur du Marais, se distingue par
-        son architecture historique remarquable. Dominé par des immeubles
-        haussmanniens aux façades élégantes et des bâtiments plus anciens datant
-        du Moyen Âge, ce quartier combine patrimoine médiéval et modernité
-        urbaine. Les rues étroites et sinueuses côtoient des places
-        emblématiques comme la Place des Vosges, tandis que les commerces,
-        galeries d'art et petits hôtels particuliers caractérisent ce secteur
-        densément peuplé et touristique.
-      - >-
-        Les installations électriques du 3e arrondissement présentent des défis
-        spécifiques liés à l'ancienneté des bâtiments. Les immeubles
-        haussmanniens et médiévaux possèdent souvent des systèmes électriques
-        obsolètes nécessitant des mises aux normes régulières. Les surcharges
-        électriques, les défauts d'isolation et les problèmes de distribution
-        d'énergie sont courants dans ces structures anciennes. Les interventions
-        d'urgence pour pannes, court-circuits et installations défaillantes
-        représentent une part importante de la demande locale.
-      - >-
-        Nos services électriques couvrent l'ensemble du 3e arrondissement avec
-        une expertise reconnue des particularités architecturales parisiennes.
-        Nous intervenons rapidement pour les dépannages d'urgence, les
-        installations neuves et les rénovations aux normes actuelles. Notre
-        équipe maîtrise les contraintes spécifiques des bâtiments historiques,
-        garantissant des travaux respectueux du patrimoine tout en assurant la
-        sécurité et la conformité électrique.
   servicesDetailed:
     title: Nos interventions électriques à Paris 3e
     intro: >-

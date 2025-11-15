@@ -87,35 +87,6 @@ seoMetaDescription: >-
   Électricien Paris 8e (75008) ⚡ Interventions rapides, dépannage 24h/24. Devis
   gratuit et sans engagement ⭐ Appelez-nous maintenant !
 seoContent:
-  localContext:
-    title: Votre électricien à Paris 8e
-    paragraphs:
-      - >-
-        Le 8e arrondissement de Paris est l'un des quartiers les plus
-        prestigieux de la capitale, caractérisé par son architecture
-        Haussmannienne majestueuse. Les immeubles de prestige côtoient les
-        bâtiments administratifs et commerciaux, notamment autour de l'Élysée et
-        des Champs-Élysées. Cette zone combine résidences de standing, bureaux
-        modernes et commerces de luxe, avec des façades ornementales typiques du
-        XIXe siècle qui demandent une attention particulière lors des
-        interventions électriques.
-      - >-
-        Les installations électriques du 8e arrondissement présentent des défis
-        spécifiques liés à la coexistence d'anciens systèmes dans les immeubles
-        Haussmanniens et d'équipements contemporains dans les bâtiments récents.
-        Les propriétaires rencontrent fréquemment des surcharges électriques,
-        des problèmes d'humidité affectant les circuits, et des besoins en
-        modernisation des installations vieillissantes. Les bureaux requièrent
-        également des mises aux normes régulières et des installations de
-        sécurité conformes aux standards actuels.
-      - >-
-        Nos services d'électricité couvrent l'ensemble du 8e arrondissement avec
-        une réactivité optimale et une expertise reconnue des spécificités
-        locales. Nos électriciens interviennent rapidement pour les dépannages
-        d'urgence, les diagnostics complets et les travaux de rénovation. Forts
-        d'une connaissance approfondie de l'architecture parisienne et des
-        normes en vigueur, nous garantissons des solutions durables adaptées à
-        chaque type de bâtiment du quartier.
   servicesDetailed:
     title: Nos interventions électriques à Paris 8e
     intro: >-

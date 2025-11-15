@@ -86,33 +86,6 @@ seoMetaDescription: >-
   Électricien expert à Paris 10e (75010). Dépannage rapide 24h/24, devis gratuit
   ⚡ Interventions certifiées. Contactez-nous sans tarder !
 seoContent:
-  localContext:
-    title: Votre électricien à Paris 10e
-    paragraphs:
-      - >-
-        Le 10e arrondissement de Paris, situé entre République et Gare du Nord,
-        se caractérise par une architecture majoritairement haussmannienne du
-        XIXe siècle. Ce quartier populaire combine immeubles résidentiels
-        classiques aux façades ornementées avec des bâtiments commerciaux et
-        industriels. Les immeubles anciens côtoient progressivement des
-        structures plus modernes, créant une mixité architecturale typique de ce
-        secteur dynamique et densément peuplé.
-      - >-
-        Les installations électriques du 10e arrondissement présentent des défis
-        spécifiques liés à l'ancienneté des bâtiments haussmanniens. Les
-        circuits électriques obsolètes, l'insuffisance de puissance et les
-        risques de surcharge sont des problématiques récurrentes. Les
-        propriétaires et locataires demandent régulièrement des mises aux
-        normes, des installations de chauffage électrique et des rénovations
-        complètes pour adapter les anciens systèmes aux besoins contemporains.
-      - >-
-        Nos services électriques couvrent l'intégralité du 10e arrondissement
-        avec une réactivité maximale. Forts d'une expertise approfondie des
-        particularités des immeubles parisiens, nos électriciens interviennent
-        rapidement pour diagnostiquer et résoudre tout problème. Que ce soit
-        pour des dépannages d'urgence, des installations neuves ou des
-        conformités aux normes actuelles, nous garantissons un service
-        professionnel adapté aux réalités locales du quartier.
   servicesDetailed:
     title: Nos interventions électriques à Paris 10e
     intro: >-

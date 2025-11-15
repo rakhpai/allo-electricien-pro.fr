@@ -87,35 +87,6 @@ seoMetaDescription: >-
   Électricien Paris 13e (75013) ⚡ Dépannage rapide 24h/24, devis gratuit et sans
   engagement. Professionnel certifié. Contactez-nous maintenant ⭐
 seoContent:
-  localContext:
-    title: Votre électricien à Paris 13e
-    paragraphs:
-      - >-
-        Le 13e arrondissement de Paris se distingue par sa diversité
-        architecturale remarquable. Aux immeubles haussmanniens du sud succèdent
-        les constructions modernes de la Bibliothèque François-Mitterrand et du
-        quartier de Masséna. Cet arrondissement accueille également des
-        bâtiments plus anciens près de la Gare d'Austerlitz, ainsi que des
-        pavillons individuels dans les zones résidentielles. Cette hétérogénéité
-        architecturale crée un environnement urbain dynamique où cohabitent
-        patrimoine classique et modernité contemporaine.
-      - >-
-        Les installations électriques du 13e arrondissement présentent des défis
-        variés selon l'ancienneté des bâtiments. Les immeubles haussmanniens
-        requièrent souvent une mise aux normes de leurs systèmes électriques
-        vétustes, tandis que les constructions récentes demandent des
-        interventions spécialisées en domotique et efficacité énergétique. Les
-        surcharges électriques, les défauts d'isolation et les problèmes de
-        distribution restent des problématiques courantes dans ce secteur
-        densément peuplé où les demandes énergétiques sont considérables.
-      - >-
-        Les électriciens intervenant dans le 75013 maîtrisent parfaitement les
-        spécificités de cet arrondissement complexe. Nos équipes assurent une
-        couverture complète, de la Gare d'Austerlitz aux quartiers résidentiels,
-        avec des interventions rapides et efficaces. Forte d'une expertise
-        locale approfondie, notre équipe gère tant les restaurations
-        patrimoniales que les installations modernes, garantissant une service
-        de qualité adapté aux besoins spécifiques du 13e arrondissement.
   servicesDetailed:
     title: Nos interventions électriques à Paris 13e
     intro: >-

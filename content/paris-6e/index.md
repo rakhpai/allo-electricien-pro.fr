@@ -86,35 +86,6 @@ seoMetaDescription: >-
   Électricien expert à Paris 6e 75006. Dépannage rapide, installation et
   rénovation électrique ⚡ Devis gratuit. Contactez-nous maintenant ⭐
 seoContent:
-  localContext:
-    title: Votre électricien à Paris 6e
-    paragraphs:
-      - >-
-        Le 6e arrondissement de Paris, cœur du Quartier Latin, se caractérise
-        par son architecture haussmannienne distinctive et ses bâtiments
-        historiques datant du XIXe siècle. Cette zone densément peuplée comprend
-        des immeubles résidentiels classiques aux façades ornementées, des
-        petits commerces au rez-de-chaussée et des monuments patrimoniaux. Les
-        rues étroites et l'urbanisme ancien du quartier Saint-Germain-des-Prés
-        reflètent l'histoire architecturale parisienne, avec des structures
-        nécessitant une expertise particulière pour les interventions
-        électriques.
-      - >-
-        Les installations électriques du 6e arrondissement présentent des défis
-        spécifiques liés à l'ancienneté des bâtiments. Les vieux systèmes de
-        câblage, les tableaux électriques obsolètes et l'absence de mise aux
-        normes constituent des problèmes courants. Les électriciens intervenant
-        dans ce secteur doivent gérer les contraintes des petits espaces, les
-        restrictions patrimoniales et les demandes de conformité croissantes
-        pour les logements collectifs et commerciaux.
-      - >-
-        Nos services électriques couvrent l'ensemble du 6e arrondissement avec
-        une disponibilité rapide et une connaissance approfondie des
-        spécificités locales. Nous intervenons sur les installations anciennes,
-        les rénovations conformes aux normes actuelles et les dépannages
-        d'urgence. Notre équipe qualifiée respecte les exigences patrimoniales
-        tout en garantissant la sécurité et la fiabilité des installations
-        électriques de ce quartier emblématique.
   servicesDetailed:
     title: Nos interventions électriques à Paris 6e
     intro: >-
