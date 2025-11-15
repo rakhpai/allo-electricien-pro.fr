@@ -37,12 +37,17 @@ const args = {
   LIMIT: parseInt(process.argv.find(arg => arg.startsWith('--limit='))?.split('=')[1]) || null,
   BATCH_SIZE: parseInt(process.argv.find(arg => arg.startsWith('--batch-size='))?.split('=')[1]) || 200,
   USE_SONNET: process.argv.includes('--use-sonnet'),
-  RESUME: process.argv.includes('--resume')
+  RESUME: process.argv.includes('--resume'),
+  CHECKPOINT: process.argv.find(arg => arg.startsWith('--checkpoint='))?.split('=')[1] || null,
+  PARALLEL: process.argv.includes('--parallel')
 };
 
 // Select model
 const MODEL = args.USE_SONNET ? CONFIG.MODEL_SONNET : CONFIG.MODEL;
-const CHECKPOINT_FILE = 'checkpoint-seo-enhancement.json';
+// Support custom checkpoint file for parallel processing
+const CHECKPOINT_FILE = args.CHECKPOINT || 'checkpoint-seo-enhancement.json';
+// Reduce delay for parallel mode (avoid API conflicts by staggering)
+const DELAY_MS = args.PARALLEL ? 1000 : CONFIG.DELAY_MS;
 
 /**
  * Load checkpoint if exists
@@ -622,42 +627,42 @@ async function processCommune(commune, stats) {
     totalInputTokens += titleResult.usage.input_tokens;
     totalOutputTokens += titleResult.usage.output_tokens;
     console.log(`     "${titleResult.title}" (${titleResult.title.length} chars)`);
-    await sleep(CONFIG.DELAY_MS);
+    await sleep(DELAY_MS);
 
     console.log('  🤖 Generating meta description...');
     const metaResult = await generateMetaDescription(commune);
     totalInputTokens += metaResult.usage.input_tokens;
     totalOutputTokens += metaResult.usage.output_tokens;
     console.log(`     ${metaResult.description.length} chars`);
-    await sleep(CONFIG.DELAY_MS);
+    await sleep(DELAY_MS);
 
     console.log('  🤖 Generating local context...');
     const contextResult = await generateLocalContext(commune);
     totalInputTokens += contextResult.usage.input_tokens;
     totalOutputTokens += contextResult.usage.output_tokens;
     console.log(`     ${contextResult.paragraphs.length} paragraphs`);
-    await sleep(CONFIG.DELAY_MS);
+    await sleep(DELAY_MS);
 
     console.log('  🤖 Generating detailed services...');
     const servicesResult = await generateDetailedServices(commune);
     totalInputTokens += servicesResult.usage.input_tokens;
     totalOutputTokens += servicesResult.usage.output_tokens;
     console.log(`     ${servicesResult.services.length} services`);
-    await sleep(CONFIG.DELAY_MS);
+    await sleep(DELAY_MS);
 
     console.log('  🤖 Generating why choose local...');
     const whyChooseResult = await generateWhyChooseLocal(commune);
     totalInputTokens += whyChooseResult.usage.input_tokens;
     totalOutputTokens += whyChooseResult.usage.output_tokens;
     console.log(`     ${whyChooseResult.reasons.length} reasons`);
-    await sleep(CONFIG.DELAY_MS);
+    await sleep(DELAY_MS);
 
     console.log('  🤖 Generating local FAQs...');
     const faqsResult = await generateLocalFAQs(commune);
     totalInputTokens += faqsResult.usage.input_tokens;
     totalOutputTokens += faqsResult.usage.output_tokens;
     console.log(`     ${faqsResult.faqs.length} FAQs`);
-    await sleep(CONFIG.DELAY_MS);
+    await sleep(DELAY_MS);
 
     console.log('  🤖 Generating pricing section...');
     const pricingResult = await generatePricingSection(commune);
@@ -762,16 +767,26 @@ async function main() {
     ].filter(p => testSlugs.includes(p.url_path)).slice(0, 5);
   } else if (args.TIER === 'tier_b') {
     communes = sitemapData.organized.tier_b?.paris || [];
+  } else if (args.TIER === 'tier_c' && args.DEPT) {
+    // Tier C filtered by department
+    communes = sitemapData.organized.tier_c_by_dept?.[args.DEPT] || [];
   } else if (args.TIER === 'tier_c') {
+    // All Tier C
     communes = Object.values(sitemapData.organized.tier_c_by_dept || {}).flat();
+  } else if (args.TIER === 'tier_d' && args.DEPT) {
+    // Tier D filtered by department - THIS IS THE FIX FOR PARALLEL PROCESSING
+    communes = sitemapData.organized.tier_d_by_dept?.[args.DEPT] || [];
   } else if (args.TIER === 'tier_d') {
+    // All Tier D
     communes = Object.values(sitemapData.organized.tier_d_by_dept || {}).flat();
   } else if (args.DEPT) {
+    // Specific department (both tier_c and tier_d)
     communes = [
       ...(sitemapData.organized.tier_c_by_dept?.[args.DEPT] || []),
       ...(sitemapData.organized.tier_d_by_dept?.[args.DEPT] || [])
     ];
   } else {
+    // All communes
     communes = [
       ...(sitemapData.organized.tier_b?.paris || []),
       ...Object.values(sitemapData.organized.tier_c_by_dept || {}).flat(),
