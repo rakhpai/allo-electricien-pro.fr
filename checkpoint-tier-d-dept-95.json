@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:04:56.469Z",
-  "lastUpdate": "2025-11-15T16:04:56.469Z",
+  "startTime": "2025-11-15T16:33:15.643Z",
+  "lastUpdate": "2025-11-15T16:33:15.643Z",
   "processed": {
     "total": 181,
-    "processed": 10,
-    "successful": 10,
+    "processed": 60,
+    "successful": 60,
     "failed": 0,
-    "totalInputTokens": 20782,
-    "totalOutputTokens": 22485
+    "totalInputTokens": 126582,
+    "totalOutputTokens": 135190
   },
-  "lastProcessedSlug": "/attainville",
+  "lastProcessedSlug": "/eragny",
   "costs": {
-    "inputTokens": 20782,
-    "outputTokens": 22485,
-    "totalTokens": 43267,
-    "cost": 0.10656560000000001,
-    "inputCost": 0.0166256,
-    "outputCost": 0.08994
+    "inputTokens": 126582,
+    "outputTokens": 135190,
+    "totalTokens": 261772,
+    "cost": 0.6420256,
+    "inputCost": 0.10126560000000001,
+    "outputCost": 0.54076
   }
 }

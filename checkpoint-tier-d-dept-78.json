@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:04:42.303Z",
-  "lastUpdate": "2025-11-15T16:04:42.303Z",
+  "startTime": "2025-11-15T16:32:51.512Z",
+  "lastUpdate": "2025-11-15T16:32:51.512Z",
   "processed": {
     "total": 262,
-    "processed": 10,
-    "successful": 10,
+    "processed": 60,
+    "successful": 60,
     "failed": 0,
-    "totalInputTokens": 20728,
-    "totalOutputTokens": 22407
+    "totalInputTokens": 125880,
+    "totalOutputTokens": 134155
   },
-  "lastProcessedSlug": "/auffargis",
+  "lastProcessedSlug": "/courgent",
   "costs": {
-    "inputTokens": 20728,
-    "outputTokens": 22407,
-    "totalTokens": 43135,
-    "cost": 0.1062104,
-    "inputCost": 0.0165824,
-    "outputCost": 0.089628
+    "inputTokens": 125880,
+    "outputTokens": 134155,
+    "totalTokens": 260035,
+    "cost": 0.637324,
+    "inputCost": 0.100704,
+    "outputCost": 0.53662
   }
 }

@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:04:37.270Z",
-  "lastUpdate": "2025-11-15T16:04:37.270Z",
+  "startTime": "2025-11-15T16:32:40.400Z",
+  "lastUpdate": "2025-11-15T16:32:40.400Z",
   "processed": {
     "total": 507,
-    "processed": 10,
-    "successful": 9,
+    "processed": 60,
+    "successful": 59,
     "failed": 1,
-    "totalInputTokens": 19215,
-    "totalOutputTokens": 20653
+    "totalInputTokens": 124367,
+    "totalOutputTokens": 132474
   },
-  "lastProcessedSlug": "/aubepierre-ozouer-le-repos",
+  "lastProcessedSlug": "/cely",
   "costs": {
-    "inputTokens": 19215,
-    "outputTokens": 20653,
-    "totalTokens": 39868,
-    "cost": 0.097984,
-    "inputCost": 0.015372,
-    "outputCost": 0.082612
+    "inputTokens": 124367,
+    "outputTokens": 132474,
+    "totalTokens": 256841,
+    "cost": 0.6293896000000001,
+    "inputCost": 0.09949360000000002,
+    "outputCost": 0.529896
   }
 }

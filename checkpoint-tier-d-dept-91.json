@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:04:48.102Z",
-  "lastUpdate": "2025-11-15T16:04:48.102Z",
+  "startTime": "2025-11-15T16:33:04.811Z",
+  "lastUpdate": "2025-11-15T16:33:04.811Z",
   "processed": {
     "total": 196,
-    "processed": 10,
-    "successful": 10,
+    "processed": 60,
+    "successful": 60,
     "failed": 0,
-    "totalInputTokens": 20914,
-    "totalOutputTokens": 22328
+    "totalInputTokens": 126258,
+    "totalOutputTokens": 134778
   },
-  "lastProcessedSlug": "/avrainville",
+  "lastProcessedSlug": "/dannemois",
   "costs": {
-    "inputTokens": 20914,
-    "outputTokens": 22328,
-    "totalTokens": 43242,
-    "cost": 0.1060432,
-    "inputCost": 0.016731199999999998,
-    "outputCost": 0.089312
+    "inputTokens": 126258,
+    "outputTokens": 134778,
+    "totalTokens": 261036,
+    "cost": 0.6401184000000001,
+    "inputCost": 0.10100640000000001,
+    "outputCost": 0.539112
   }
 }
