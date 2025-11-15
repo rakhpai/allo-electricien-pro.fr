@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T18:21:26.334Z",
-  "lastUpdate": "2025-11-15T18:21:26.334Z",
+  "startTime": "2025-11-15T18:38:10.766Z",
+  "lastUpdate": "2025-11-15T18:38:10.766Z",
   "processed": {
     "total": 507,
-    "processed": 250,
-    "successful": 249,
+    "processed": 280,
+    "successful": 279,
     "failed": 1,
-    "totalInputTokens": 525201,
-    "totalOutputTokens": 559552
+    "totalInputTokens": 588915,
+    "totalOutputTokens": 627236
   },
-  "lastProcessedSlug": "/les-marets",
+  "lastProcessedSlug": "/marles-en-brie",
   "costs": {
-    "inputTokens": 525201,
-    "outputTokens": 559552,
-    "totalTokens": 1084753,
-    "cost": 2.6583688000000003,
-    "inputCost": 0.42016080000000006,
-    "outputCost": 2.238208
+    "inputTokens": 588915,
+    "outputTokens": 627236,
+    "totalTokens": 1216151,
+    "cost": 2.980076,
+    "inputCost": 0.471132,
+    "outputCost": 2.508944
   }
 }
