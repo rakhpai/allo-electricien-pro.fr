@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:55:47.580Z",
-  "lastUpdate": "2025-11-15T16:55:47.580Z",
+  "startTime": "2025-11-15T17:01:26.379Z",
+  "lastUpdate": "2025-11-15T17:01:26.379Z",
   "processed": {
     "total": 181,
-    "processed": 100,
-    "successful": 100,
+    "processed": 110,
+    "successful": 110,
     "failed": 0,
-    "totalInputTokens": 210736,
-    "totalOutputTokens": 224801
+    "totalInputTokens": 231572,
+    "totalOutputTokens": 246950
   },
-  "lastProcessedSlug": "/le-plessis-luzarches",
+  "lastProcessedSlug": "/marines",
   "costs": {
-    "inputTokens": 210736,
-    "outputTokens": 224801,
-    "totalTokens": 435537,
-    "cost": 1.0677928,
-    "inputCost": 0.1685888,
-    "outputCost": 0.899204
+    "inputTokens": 231572,
+    "outputTokens": 246950,
+    "totalTokens": 478522,
+    "cost": 1.1730576,
+    "inputCost": 0.18525760000000002,
+    "outputCost": 0.9878
   }
 }

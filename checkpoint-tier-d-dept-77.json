@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:55:18.844Z",
-  "lastUpdate": "2025-11-15T16:55:18.844Z",
+  "startTime": "2025-11-15T17:01:04.285Z",
+  "lastUpdate": "2025-11-15T17:01:04.285Z",
   "processed": {
     "total": 507,
-    "processed": 100,
-    "successful": 99,
+    "processed": 110,
+    "successful": 109,
     "failed": 1,
-    "totalInputTokens": 208773,
-    "totalOutputTokens": 222171
+    "totalInputTokens": 229969,
+    "totalOutputTokens": 244976
   },
-  "lastProcessedSlug": "/choisy-en-brie",
+  "lastProcessedSlug": "/congis-sur-therouanne",
   "costs": {
-    "inputTokens": 208773,
-    "outputTokens": 222171,
-    "totalTokens": 430944,
-    "cost": 1.0557024,
-    "inputCost": 0.1670184,
-    "outputCost": 0.888684
+    "inputTokens": 229969,
+    "outputTokens": 244976,
+    "totalTokens": 474945,
+    "cost": 1.1638792,
+    "inputCost": 0.1839752,
+    "outputCost": 0.979904
   }
 }
