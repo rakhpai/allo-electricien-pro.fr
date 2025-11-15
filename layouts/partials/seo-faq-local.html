@@ -1,0 +1,71 @@
+{{/*
+  SEO Local FAQ Section
+  Renders AI-generated location-specific FAQs
+  Includes FAQPage schema.org markup
+  Accordion/details design for better UX
+*/}}
+
+{{ $faqs := .Params.seoContent.faqLocal }}
+{{ if $faqs }}
+
+<!-- Local FAQ Section -->
+<section class="bg-white rounded-xl shadow-lg p-6 md:p-8 mb-8">
+  <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
+    Questions fréquentes - {{ .Params.city }}
+  </h2>
+
+  <div class="space-y-3 md:space-y-4">
+    {{ range $index, $faq := $faqs }}
+    <details class="group bg-gray-50 rounded-lg overflow-hidden hover:bg-gray-100 transition-colors">
+      <summary class="flex items-center justify-between cursor-pointer p-4 md:p-6 font-semibold text-gray-900 list-none">
+        <span class="flex-1 pr-4 text-sm md:text-base">{{ $faq.question }}</span>
+        <svg class="w-5 h-5 text-primary transition-transform duration-200 group-open:rotate-180 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+        </svg>
+      </summary>
+      <div class="px-4 md:px-6 pb-4 md:pb-6">
+        <div class="text-gray-600 leading-relaxed text-sm md:text-base prose prose-sm md:prose-base max-w-none">
+          {{ $faq.answer | markdownify }}
+        </div>
+      </div>
+    </details>
+    {{ end }}
+  </div>
+
+  {{/* Call to Action after FAQs */}}
+  <div class="mt-8 pt-6 border-t border-gray-200 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg p-6 text-center">
+    <p class="text-gray-700 font-medium mb-4">
+      Vous avez une autre question ? Nos électriciens sont à votre écoute !
+    </p>
+    <a href="tel:{{ .Params.phoneRaw }}"
+       class="inline-flex items-center gap-2 bg-primary hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg shadow-lg transform transition-all duration-300 hover:scale-105">
+      <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+        <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
+      </svg>
+      Appelez-nous maintenant
+    </a>
+  </div>
+</section>
+
+<!-- FAQ Schema Markup for SEO -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {{ range $index, $faq := $faqs }}
+    {{ if $index }},{{ end }}
+    {
+      "@type": "Question",
+      "name": {{ $faq.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ $faq.answer | plainify | jsonify }}
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+{{ end }}

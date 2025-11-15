@@ -10,10 +10,15 @@
 
   {{ partial "footer.html" . }}
 
-  <!-- Alpine.js for interactive components -->
-  <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <!-- Critical JavaScript - Mobile Menu (Loads immediately) -->
+  <script src="/js/app-critical.js"></script>
 
-  <!-- Custom JavaScript -->
-  <script src="/js/app.js"></script>
+  {{- if .IsHome }}
+  <!-- Homepage JavaScript - City Search & Filter (Homepage only) -->
+  <script src="/js/app-homepage.js"></script>
+  {{- end }}
+
+  <!-- Non-Critical Interactions (Deferred for performance) -->
+  <script defer src="/js/app-interactions.js"></script>
 </body>
 </html>

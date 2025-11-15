@@ -1,0 +1,36 @@
+{{/*
+  SEO Meta Tags - Enhanced
+  Uses seoTitle and seoMetaDescription from frontmatter if available
+  Falls back to default title and description
+*/}}
+
+{{ $seoTitle := .Params.seoTitle | default .Title }}
+{{ $seoDesc := .Params.seoMetaDescription | default .Params.description }}
+
+{{/* Page Title */}}
+<title>{{ $seoTitle }}</title>
+
+{{/* Meta Description */}}
+{{ if $seoDesc }}
+<meta name="description" content="{{ $seoDesc }}">
+{{ end }}
+
+{{/* Open Graph Meta Tags */}}
+<meta property="og:title" content="{{ $seoTitle }}">
+{{ if $seoDesc }}
+<meta property="og:description" content="{{ $seoDesc }}">
+{{ end }}
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ .Permalink }}">
+
+{{/* Twitter Card Meta Tags */}}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $seoTitle }}">
+{{ if $seoDesc }}
+<meta name="twitter:description" content="{{ $seoDesc }}">
+{{ end }}
+
+{{/* Robots Meta - Allow indexing for SEO-enhanced pages */}}
+{{ if .Params.seoEnhanced }}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+{{ end }}

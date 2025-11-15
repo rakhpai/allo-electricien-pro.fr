@@ -35,7 +35,6 @@
         src="{{ $profile.avatar_url }}"
         alt="{{ $fullName }} - Électricien professionnel"
         class="absolute inset-0 w-full h-full object-cover transform transition-transform duration-500 group-hover:scale-105"
-        itemprop="image"
         loading="lazy"
         onerror="this.onerror=null; this.parentElement.classList.add('fallback-gradient'); this.style.display='none';"
       />
@@ -75,7 +74,7 @@
         {{ end }}
 
         {{/* Name with Text Shadow */}}
-        <h3 class="text-xl md:text-2xl font-bold {{ if and $profile.avatar_url (not (in $profile.avatar_url "ui-avatars.com")) }}text-white drop-shadow-lg{{ else }}text-gray-900{{ end }} mb-2" itemprop="name">
+        <h3 class="text-xl md:text-2xl font-bold {{ if and $profile.avatar_url (not (in $profile.avatar_url "ui-avatars.com")) }}text-white drop-shadow-lg{{ else }}text-gray-900{{ end }} mb-2">
           {{ $fullName }}
         </h3>
 
@@ -91,7 +90,7 @@
   <div class="p-5 flex-grow flex flex-col">
     {{/* Specialty */}}
     <div class="mb-3">
-      <p class="text-sm font-medium text-blue-700 text-center" itemprop="description">
+      <p class="text-sm font-medium text-blue-700 text-center">
         {{ $profile.specialty_primary }}
       </p>
     </div>
@@ -158,7 +157,6 @@
     <a
       href="tel:{{ $phoneHref }}"
       class="block w-full bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold py-3 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 text-center group"
-      itemprop="telephone"
       aria-label="Appeler {{ $fullName }}"
     >
       <span class="flex items-center justify-center">

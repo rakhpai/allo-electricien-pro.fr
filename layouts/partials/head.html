@@ -14,6 +14,9 @@
 <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
 <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
 
+{{/* SEO Enhanced Meta Tags - Takes priority if seoTitle/seoMetaDescription exist */}}
+{{/* Only use default title/meta if SEO fields not present */}}
+{{- if not .Params.seoTitle }}
 {{- if .IsHome }}
 <title>{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.description }}">
@@ -22,6 +25,9 @@
 <title>{{ .Params.title | default .Title }} | {{ .Site.Title }}</title>
 <meta name="description" content="{{ .Params.description | default .Summary }}">
 <meta name="keywords" content="{{ .Params.keyword }}, électricien {{ .Params.city }}, dépannage électrique {{ .Params.city }}">
+{{- end }}
+{{- else }}
+{{ partial "seo-head-meta.html" . }}
 {{- end }}
 
 <!-- Open Graph / Social Media -->
@@ -123,10 +129,13 @@
   {{- end -}}
 {{- end }}
 
-<!-- Google Fonts (Optimized with font-display) -->
+<!-- Google Fonts (Optimized with font-display and preload) -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<!-- Preload the actual font file for faster rendering -->
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet"></noscript>
 
 <!-- Critical CSS (Inline for immediate render) -->
 <style>
@@ -151,6 +160,12 @@
   .mb-4{margin-bottom:1rem}
   .py-4{padding-top:1rem;padding-bottom:1rem}
   .px-4{padding-left:1rem;padding-right:1rem}
+  /* Prevent CLS - Reserve space for hero section */
+  section.relative{min-height:500px}
+  @media(min-width:1024px){section.relative{min-height:600px}}
+  /* Prevent CLS - Reserve space for images */
+  img{display:block;max-width:100%;height:auto}
+  img[width][height]{height:auto}
 </style>
 
 <!-- Tailwind CSS - Local Build (Optimized) -->
@@ -217,16 +232,21 @@
 <script defer src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 {{- end }}
 
-<!-- Lottie Web Player for Animations (Deferred) -->
+{{- if .IsHome }}
+<!-- Lottie Web Player for Animations (Deferred - Homepage only) -->
 <script defer src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.12.2/lottie.min.js" integrity="sha512-jEnuDt6jfecCjthQAJ+ed0MTVA++5ZKmlUcmDGBv2vUI/REn6FuIdixLNnQT+vKusE2hhTk2is3cFvv5wA+Sgg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+{{- end }}
 
+{{- if or .IsHome (in .RelPermalink "/conseils/") }}
 <!-- Alpine.js for Interactive Components (Accordions, Dropdowns) -->
 <!-- Load Collapse plugin first, then Alpine.js core -->
 <script defer src="https://cdn.jsdelivr.net/npm/@alpinejs/collapse@3.13.3/dist/cdn.min.js"></script>
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.13.3/dist/cdn.min.js"></script>
+{{- end }}
 
-<!-- Custom CSS -->
-<link rel="stylesheet" href="/css/custom.css">
+<!-- Custom CSS (Async loading - non-critical) -->
+<link rel="stylesheet" href="/css/custom.css" media="print" onload="this.media='all'">
+<noscript><link rel="stylesheet" href="/css/custom.css"></noscript>
 
 <!-- Lazy Loading Script (Critical for performance) -->
 <script defer src="/js/lazy-load.js"></script>
