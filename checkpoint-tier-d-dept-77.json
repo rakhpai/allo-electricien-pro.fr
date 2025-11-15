@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:24:23.206Z",
-  "lastUpdate": "2025-11-15T17:24:23.206Z",
+  "startTime": "2025-11-15T17:30:01.568Z",
+  "lastUpdate": "2025-11-15T17:30:01.568Z",
   "processed": {
     "total": 507,
-    "processed": 150,
-    "successful": 149,
+    "processed": 160,
+    "successful": 159,
     "failed": 1,
-    "totalInputTokens": 314177,
-    "totalOutputTokens": 334477
+    "totalInputTokens": 335193,
+    "totalOutputTokens": 356899
   },
-  "lastProcessedSlug": "/emerainville",
+  "lastProcessedSlug": "/fericy",
   "costs": {
-    "inputTokens": 314177,
-    "outputTokens": 334477,
-    "totalTokens": 648654,
-    "cost": 1.5892496,
-    "inputCost": 0.2513416,
-    "outputCost": 1.337908
+    "inputTokens": 335193,
+    "outputTokens": 356899,
+    "totalTokens": 692092,
+    "cost": 1.6957504,
+    "inputCost": 0.2681544,
+    "outputCost": 1.427596
   }
 }

@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:24:05.139Z",
-  "lastUpdate": "2025-11-15T17:24:05.139Z",
+  "startTime": "2025-11-15T17:29:45.169Z",
+  "lastUpdate": "2025-11-15T17:29:45.169Z",
   "processed": {
     "total": 181,
-    "processed": 150,
-    "successful": 150,
+    "processed": 160,
+    "successful": 160,
     "failed": 0,
-    "totalInputTokens": 316068,
-    "totalOutputTokens": 337198
+    "totalInputTokens": 337120,
+    "totalOutputTokens": 359849
   },
-  "lastProcessedSlug": "/saint-leu-la-foret",
+  "lastProcessedSlug": "/soisy-sous-montmorency",
   "costs": {
-    "inputTokens": 316068,
-    "outputTokens": 337198,
-    "totalTokens": 653266,
-    "cost": 1.6016464,
-    "inputCost": 0.25285440000000003,
-    "outputCost": 1.348792
+    "inputTokens": 337120,
+    "outputTokens": 359849,
+    "totalTokens": 696969,
+    "cost": 1.7090919999999998,
+    "inputCost": 0.269696,
+    "outputCost": 1.439396
   }
 }
