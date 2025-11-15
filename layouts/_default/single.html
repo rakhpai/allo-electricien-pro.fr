@@ -57,7 +57,7 @@
   {{ partial "hero-emergency.html" . }}
 {{ else if and (ne .Section "services") (not (in .RelPermalink "mentions-legales")) (not (in .RelPermalink "politique-confidentialite")) (not (in .RelPermalink "electricien")) (not (in .RelPermalink "profiles")) .Params.city }}
   {{/* Use enhanced hero for commune pages */}}
-  {{ partial "hero-commune-enhanced.html" . }}
+  {{/* {{ partial "hero-commune-enhanced.html" . }} */}}
 {{ else }}
 <!-- Hero Section -->
 <section class="relative bg-gradient-to-r from-primary to-blue-700 text-white py-12 overflow-hidden">
