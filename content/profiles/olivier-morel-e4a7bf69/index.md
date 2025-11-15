@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - Chauffage électrique
   - Éclairage
-phone: 01 74 72 47 31
+phone: "06 44 64 48 24"
 phone_href: '+33174724731'
 available_24_7: true
 rating: 4.8

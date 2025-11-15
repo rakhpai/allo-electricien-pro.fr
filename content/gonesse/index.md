@@ -8,8 +8,8 @@ zipCode: '95500'
 department: '95'
 keyword: Électricien Urgence Gonesse
 company: RapideWatt95
-phone: 06 44 60 04 17
-phoneRaw: '0644600417'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Service de dépannage Gonesse
 niche: électricité
 kwSource: électricité

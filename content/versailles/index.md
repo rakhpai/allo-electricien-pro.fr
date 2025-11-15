@@ -6,8 +6,8 @@ zipCode: '78000'
 department: '78'
 keyword: Électricien Urgence Versailles
 company: VERSAILLESExpert
-phone: 06 44 60 48 30
-phoneRaw: 0644604830
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Versailles 78 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez

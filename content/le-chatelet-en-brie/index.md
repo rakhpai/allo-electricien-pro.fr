@@ -6,8 +6,8 @@ zipCode: '77820'
 department: '77'
 keyword: SOS Électricien Le chatelet-En-Brie
 company: LE CHATELET-EN-BRIE77
-phone: 06 44 60 15 44
-phoneRaw: '0644601544'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Le Chatelet-En-Brie 77820 ⚡ Panne, installation, réparation.
   Urgence 24h/7j. Technicien certifié. Intervention immédiate. Devis gratuit.

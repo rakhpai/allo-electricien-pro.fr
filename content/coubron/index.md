@@ -6,8 +6,8 @@ zipCode: '93470'
 department: '93'
 keyword: Électricien Urgence Coubron 93470
 company: COUBRONAmpère
-phone: 06 44 64 87 01
-phoneRaw: 0644648701
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Coubron 93470 ⚡ Réparation, installation, panne
   électrique. Intervention immédiate 24h/7j. Devis gratuit. COUBRONAmpère

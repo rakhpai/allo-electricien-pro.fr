@@ -23,7 +23,7 @@ services:
   - VMC
   - Rénovation complète
   - Prise & interrupteur
-phone: 01 74 03 77 43
+phone: "06 44 64 48 24"
 phone_href: '+33174037743'
 available_24_7: false
 rating: 4.9

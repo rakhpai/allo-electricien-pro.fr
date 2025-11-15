@@ -6,8 +6,8 @@ zipCode: '78370'
 department: '78'
 keyword: Urgence Électricien Plaisir 78370
 company: PLAISIRFlash
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Plaisir 78370 ⚡ Court-circuit, panne, installation.
   Service 24h/7j. Intervention immédiate. Devis gratuit. PLAISIRFlash certifié.

@@ -27,7 +27,7 @@ services:
   - Mise aux normes
   - Borne recharge VE
   - Éclairage
-phone: 01 74 03 74 58
+phone: "06 44 64 48 24"
 phone_href: '+33174037458'
 available_24_7: true
 rating: 4.7

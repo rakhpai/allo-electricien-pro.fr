@@ -25,7 +25,7 @@ services:
   - Rénovation complète
   - Diagnostic électrique
   - Dépannage urgence
-phone: 01 74 03 75 43
+phone: "06 44 64 48 24"
 phone_href: '+33174037543'
 available_24_7: true
 rating: 4.7

@@ -46,4 +46,4 @@ Utilisez le plan du site ci-dessous pour naviguer rapidement vers votre commune 
 ---
 
 **Besoin d'un électricien en urgence ?**
-📞 **01 44 90 11 31** - Intervention garantie en moins de 30 minutes
+📞 **06 44 64 48 24** - Intervention garantie en moins de 30 minutes

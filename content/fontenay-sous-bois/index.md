@@ -6,8 +6,8 @@ zipCode: '94120'
 department: '94'
 keyword: Électricien Urgence Fontenay-Sous-Bois 94120
 company: Volt94
-phone: 06 44 60 14 99
-phoneRaw: 0644601499
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Fontenay-Sous-Bois 94120 ⚡ Réparation, panne, tableau.
   Dépannage 24h/7j. Intervention immédiate. Artisan certifié. Tel. rapide!

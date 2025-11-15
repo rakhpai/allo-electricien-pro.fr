@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - Diagnostic électrique
   - VMC
-phone: 01 76 21 36 95
+phone: "06 44 64 48 24"
 phone_href: '+33176213695'
 available_24_7: false
 rating: 4.8

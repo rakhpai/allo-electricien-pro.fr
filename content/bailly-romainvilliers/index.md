@@ -6,8 +6,8 @@ zipCode: '77700'
 department: '77'
 keyword: Électricien Urgence Bailly-Romainvilliers
 company: AideBailly78
-phone: 06 44 64 20 60
-phoneRaw: '0644642060'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Bailly-Romainvilliers 77700 ⚡ Panne, réparation,
   installation électrique. Dépannage 24h/24. Intervention immédiate. Devis

@@ -6,8 +6,8 @@ zipCode: '94520'
 department: '94'
 keyword: Dépannage Électricien Mandres-Les-Roses 94520
 company: AideWatt94
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Mandres-Les-Roses 94520 ⚡ Installation, réparation,
   court-circuit. Service 24h/7j. Devis gratuit. Intervention rapide garantie.

@@ -35,8 +35,8 @@ zipCode: '92420'
 department: '92'
 keyword: Intervention Électricien Vaucresson 92420
 company: Aide92
-phone: 06 44 64 47 22
-phoneRaw: '0644644722'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: La meilleure solution pour réduire vos soucis Vaucresson
 niche: électricité
 kwSource: électricité

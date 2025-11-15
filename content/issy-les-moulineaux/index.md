@@ -6,8 +6,8 @@ zipCode: '92130'
 department: '92'
 keyword: Électricien d'Urgence Issy-Les-Moulineaux 92130
 company: Volt92Express
-phone: 06 44 64 28 18
-phoneRaw: 0644642818
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'Urgence Issy-Les-Moulineaux 92130 ⚡ Installation, réparation,
   panne. Dépannage 24h/7j. Intervention garantie. Devis gratuit. Volt92Express.

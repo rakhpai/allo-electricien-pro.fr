@@ -23,7 +23,7 @@ services:
   - Diagnostic électrique
   - Dépannage urgence
   - Chauffage électrique
-phone: 01 74 72 46 46
+phone: "06 44 64 48 24"
 phone_href: '+33174724646'
 available_24_7: false
 rating: 4.7

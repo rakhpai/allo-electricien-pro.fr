@@ -6,8 +6,8 @@ zipCode: '93500'
 department: '93'
 keyword: Dépannage Électricien Pantin
 company: PANTINFlash
-phone: 06 44 64 51 25
-phoneRaw: '0644645125'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Pantin 93500 ⚡ Panne, installation, réparation.
   Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan certifié. Tel.

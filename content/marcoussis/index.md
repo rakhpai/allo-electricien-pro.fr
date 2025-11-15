@@ -6,8 +6,8 @@ zipCode: '91460'
 department: '91'
 keyword: Électricien Urgence Marcoussis
 company: AideMARCOUSSIS
-phone: 06 44 64 36 86
-phoneRaw: 0644643686
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Marcoussis 91460 ⚡ Installation, réparation, panne électrique.
   Urgence 24h/7j. Intervention express. Devis gratuit. AideMARCOUSSIS certifié.

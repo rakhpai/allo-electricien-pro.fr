@@ -6,8 +6,8 @@ zipCode: '91240'
 department: '91'
 keyword: Électricien 24/7 Saint-Michel-Sur-Orge
 company: RapideÉlec91
-phone: 06 44 60 68 44
-phoneRaw: 0644606844
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Saint-Michel-Sur-Orge 91240 ⚡ Panne, installation, réparation.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. RapideÉlec91 certifié.

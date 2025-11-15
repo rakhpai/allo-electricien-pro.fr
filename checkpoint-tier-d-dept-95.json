@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:01:26.379Z",
-  "lastUpdate": "2025-11-15T17:01:26.379Z",
+  "startTime": "2025-11-15T17:24:05.139Z",
+  "lastUpdate": "2025-11-15T17:24:05.139Z",
   "processed": {
     "total": 181,
-    "processed": 110,
-    "successful": 110,
+    "processed": 150,
+    "successful": 150,
     "failed": 0,
-    "totalInputTokens": 231572,
-    "totalOutputTokens": 246950
+    "totalInputTokens": 316068,
+    "totalOutputTokens": 337198
   },
-  "lastProcessedSlug": "/marines",
+  "lastProcessedSlug": "/saint-leu-la-foret",
   "costs": {
-    "inputTokens": 231572,
-    "outputTokens": 246950,
-    "totalTokens": 478522,
-    "cost": 1.1730576,
-    "inputCost": 0.18525760000000002,
-    "outputCost": 0.9878
+    "inputTokens": 316068,
+    "outputTokens": 337198,
+    "totalTokens": 653266,
+    "cost": 1.6016464,
+    "inputCost": 0.25285440000000003,
+    "outputCost": 1.348792
   }
 }

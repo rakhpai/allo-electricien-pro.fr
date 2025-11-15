@@ -6,8 +6,8 @@ zipCode: '93390'
 department: '93'
 keyword: Électricien Urgence Clichy-Sous-Bois
 company: AideWatt95
-phone: 06 44 64 36 86
-phoneRaw: 0644643686
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Clichy-Sous-Bois 93390 ⚡ Installation, réparation,
   court-circuit. Dépannage 24h/7j garanti. Intervention express. Devis gratuit.

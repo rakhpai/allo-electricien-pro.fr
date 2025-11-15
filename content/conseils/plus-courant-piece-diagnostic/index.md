@@ -92,7 +92,7 @@ Si c'est le **disjoncteur différentiel** (gros interrupteur avec bouton TEST) q
 - **Danger** : ne plus toucher
 - **Action** : Appeler SOS électricien
 
-☎️ **06 44 95 55 55** - Diagnostic panne électrique Paris <30min
+☎️ **06 44 64 48 24** - Diagnostic panne électrique Paris <30min
 
 **SCÉNARIO C** ⚠️ : **Le disjoncteur tient, puis re-saute après quelques minutes/heures**
 - Défaut intermittent (appareil défectueux ou câble endommagé)
@@ -209,7 +209,7 @@ Dans les **bâtiments avant 1970**, certains ont encore des **fusibles à fil** 
 
 **Danger incendie imminent** - Appel immédiat.
 
-☎️ **06 44 95 55 55** - SOS Électricien Paris 24/7
+☎️ **06 44 64 48 24** - SOS Électricien Paris 24/7
 
 ### Intervention RAPIDE (sous 24-48h) recommandée si :
 
@@ -324,7 +324,7 @@ Mais **surveillance 24-48h** recommandée.
 
 **Plus de courant dans une pièce à Paris ? Diagnostic professionnel en <30 minutes**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris - Dépannage Circuit Électrique 24/7 - Intervention Rapide Garantie
 
 *Panne électrique pièce - Plus de courant chambre - Diagnostic électrique Paris - SOS électricien urgent*

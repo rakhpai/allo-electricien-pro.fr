@@ -25,7 +25,7 @@ services:
   - Domotique
   - Diagnostic électrique
   - Tableau électrique
-phone: 01 74 03 75 36
+phone: "06 44 64 48 24"
 phone_href: '+33174037536'
 available_24_7: false
 rating: 4.7

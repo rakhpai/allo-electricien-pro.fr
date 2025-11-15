@@ -25,7 +25,7 @@ services:
   - Mise aux normes
   - Installation électrique
   - Prise & interrupteur
-phone: 01 74 72 47 28
+phone: "06 44 64 48 24"
 phone_href: '+33174724728'
 available_24_7: false
 rating: 4.7

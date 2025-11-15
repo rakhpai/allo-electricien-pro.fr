@@ -6,8 +6,8 @@ zipCode: '93430'
 department: '93'
 keyword: SOS Électricien Villetaneuse
 company: Élec93Villetaneuse
-phone: 06 44 64 87 01
-phoneRaw: 0644648701
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Villetaneuse 93430 ⚡ Installation, réparation, panne
   électrique. Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan

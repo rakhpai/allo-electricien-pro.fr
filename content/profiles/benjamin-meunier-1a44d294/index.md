@@ -25,7 +25,7 @@ services:
   - VMC
   - Prise & interrupteur
   - Tableau électrique
-phone: 01 74 72 45 99
+phone: "06 44 64 48 24"
 phone_href: '+33174724599'
 available_24_7: false
 rating: 4.7

@@ -23,7 +23,7 @@ services:
   - Mise aux normes
   - Dépannage urgence
   - Chauffage électrique
-phone: 01 74 03 76 24
+phone: "06 44 64 48 24"
 phone_href: '+33174037624'
 available_24_7: false
 rating: 4.7

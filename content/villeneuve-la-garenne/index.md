@@ -6,8 +6,8 @@ zipCode: '92390'
 department: '92'
 keyword: Dépannage Électricien Villeneuve-La-Garenne
 company: WattPlus92
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Villeneuve-La-Garenne 92390 ⚡ Panne, tableau,
   court-circuit. Service 24h/7j. Intervention immédiate. Artisan certifié. Devis

@@ -8,8 +8,8 @@ zipCode: '91370'
 department: '91'
 keyword: Intervention Électricien Verrieres-Le-Buisson 91370
 company: VoltPro91
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Un travail de qualité VERRIERES-LE-BUISSON
 niche: électricité
 kwSource: électricité

@@ -6,8 +6,8 @@ zipCode: '77000'
 department: '77'
 keyword: Électricien Urgence Melun
 company: ElecMaster77
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Melun 77000 ⚡ Panne électrique, installation, réparation
   tableau. Intervention immédiate 24h/7j. Devis gratuit. ElecMaster77 certifié.

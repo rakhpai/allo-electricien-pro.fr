@@ -6,8 +6,8 @@ zipCode: '94700'
 department: '94'
 keyword: Intervention Électricien Maisons-Alfort
 company: Watt94
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Maisons-Alfort 94700 ⚡ Installation, réparation,
   court-circuit. Dépannage 24h/7j immédiat. Rapide et fiable. Devis gratuit.

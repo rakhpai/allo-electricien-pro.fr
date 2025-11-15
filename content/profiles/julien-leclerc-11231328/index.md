@@ -23,7 +23,7 @@ services:
   - Rénovation complète
   - Chauffage électrique
   - Éclairage
-phone: 01 74 72 45 95
+phone: "06 44 64 48 24"
 phone_href: '+33174724595'
 available_24_7: false
 rating: 4.8

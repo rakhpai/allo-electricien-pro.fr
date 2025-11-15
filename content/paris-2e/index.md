@@ -6,8 +6,8 @@ zipCode: '75002'
 department: '75'
 keyword: Électricien Urgence Paris 2e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: 0644955555
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Paris 2e (75002) ⚡ Dépannage électricité urgence <30min
   Bourse, Opéra, Sentier. Panne, court-circuit, intervention 24/7. ☎️ 06 44 95
@@ -241,7 +241,7 @@ seoContentWordCount: 670
 
 **Panne électrique secteur Bourse, Opéra ou Sentier ?** Notre service **SOS électricien Paris 2e** intervient en urgence 24h/24 dans tout le 2e arrondissement : Bourse, Opéra Comique, Sentier, Montorgueil, Grands Boulevards. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 2e - Quartier Bourse & Sentier
 
@@ -323,7 +323,7 @@ Notre **service d'électricien d'urgence** couvre l'intégralité du 2e arrondis
 
 **Urgence électrique Paris 2e ? Commerce sans courant ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 ---

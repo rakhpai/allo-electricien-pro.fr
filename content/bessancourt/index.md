@@ -6,8 +6,8 @@ zipCode: '95550'
 department: '95'
 keyword: Électricien d'Urgence Bessancourt 95550
 company: BessancourtWatt
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Bessancourt 95550 ⚡ Installation, réparation, panne.
   Dépannage immédiat 24h/7j. Artisan qualifié. Intervention rapide. Devis

@@ -42,7 +42,7 @@ images:
 **Fonctionnement** :
 
 1. **Permanence téléphonique** active 24/7
-   - Numéro unique : ☎️ **06 44 95 55 55**
+   - Numéro unique : ☎️ **06 44 64 48 24**
    - Réponse humaine (pas de répondeur)
    - Prise en charge immédiate
 
@@ -103,7 +103,7 @@ images:
 - **Danger** : Court-circuit + électrocution
 - **Action** : Couper disjoncteur général + SOS électricien
 
-☎️ **06 44 95 55 55** - SOS Électricien Nuit Paris - Intervention <30min
+☎️ **06 44 64 48 24** - SOS Électricien Nuit Paris - Intervention <30min
 
 ### Urgences importantes (intervention rapide souhaitable)
 
@@ -202,7 +202,7 @@ images:
 - Odeur légère inhabituelle au tableau
 
 **23h05 - Appel SOS électricien nuit**
-- ☎️ **06 44 95 55 55**
+- ☎️ **06 44 64 48 24**
 - Permanence répond immédiatement
 - Vous décrivez la situation
 - Adresse communiquée : Paris 11e (Bastille)
@@ -397,7 +397,7 @@ Si **uniquement vous** :
 
 **Urgence électrique en pleine nuit à Paris ? Intervention garantie <30 minutes, 7j/7, 365j/an**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Nuit Paris - Service 24h/24 - Dépannage Nocturne Urgent - Tarif Transparent
 
 *Électricien nuit Paris - Dépannage électrique 24h - SOS électricien nocturne - Urgence électrique nuit*

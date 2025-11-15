@@ -6,8 +6,8 @@ zipCode: '77310'
 department: '77'
 keyword: Dépannage Électricien Saint-Fargeau-Ponthierry
 company: Services Saint-Fargeau-Ponthierry
-phone: 06 44 64 44 15
-phoneRaw: '0644644415'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Saint-Fargeau-Ponthierry 77310 ⚡ Panne, installation,
   réparation. Intervention immédiate 24h/7j. Devis gratuit. Artisan qualifié.

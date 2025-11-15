@@ -6,8 +6,8 @@ zipCode: '77280'
 department: '77'
 keyword: Électricien d'Urgence Othis
 company: VoltOTHIS77
-phone: 06 44 64 72 11
-phoneRaw: '0644647211'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Othis 77280 ⚡ Panne, installation, réparation. Service
   24h/7j. Intervention immédiate. Devis gratuit. VoltOTHIS77 certifié.

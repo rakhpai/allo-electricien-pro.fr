@@ -25,7 +25,7 @@ services:
   - Rénovation complète
   - Borne recharge VE
   - Prise & interrupteur
-phone: 01 74 03 74 53
+phone: "06 44 64 48 24"
 phone_href: '+33174037453'
 available_24_7: false
 rating: 4.7

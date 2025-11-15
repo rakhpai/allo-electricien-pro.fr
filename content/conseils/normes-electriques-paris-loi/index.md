@@ -321,7 +321,7 @@ La **NF C 15-100** est la norme française qui régit toutes les **installations
 
 **Installation électrique non conforme à Paris ? Diagnostic gratuit et devis mise aux normes**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### Électricien Qualifié Paris - Mise aux Normes NF C 15-100 - Attestation Consuel
 
 *Norme électrique Paris - Mise aux normes NF C 15-100 - Diagnostic obligatoire - Électricien certifié*

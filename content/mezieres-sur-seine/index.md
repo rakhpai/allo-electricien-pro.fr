@@ -6,8 +6,8 @@ zipCode: '78970'
 department: '78'
 keyword: Électricien Urgence MEZIERES-SUR-SEINE
 company: MEZIERESSURSEINEExpert
-phone: 06 44 98 58 58
-phoneRaw: 0644985858
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence MEZIERES-SUR-SEINE 78 ⚡ Court-circuit, panne,
   installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.

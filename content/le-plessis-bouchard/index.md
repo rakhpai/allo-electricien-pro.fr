@@ -8,8 +8,8 @@ zipCode: '95130'
 department: '95'
 keyword: Urgence Électricien Le plessis-Bouchard
 company: WattPlus95
-phone: 06 44 64 12 53
-phoneRaw: '0644641253'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Compter sur notre artisan Le Plessis-Bouchard
 niche: électricité
 kwSource: électricité

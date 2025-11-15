@@ -23,7 +23,7 @@ services:
   - Éclairage
   - Domotique
   - Installation électrique
-phone: 01 74 03 74 28
+phone: "06 44 64 48 24"
 phone_href: '+33174037428'
 available_24_7: false
 rating: 4.8

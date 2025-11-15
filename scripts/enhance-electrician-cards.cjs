@@ -33,6 +33,7 @@ const args = {
   DEPT: process.argv.find(arg => arg.startsWith('--dept='))?.split('=')[1] || null,
   TIER: process.argv.find(arg => arg.startsWith('--tier='))?.split('=')[1] || null,
   LIMIT: parseInt(process.argv.find(arg => arg.startsWith('--limit='))?.split('=')[1]) || null,
+  OFFSET: parseInt(process.argv.find(arg => arg.startsWith('--offset='))?.split('=')[1]) || 0,
   USE_SONNET: process.argv.includes('--use-sonnet'),
   RESUME: process.argv.includes('--resume'),
   ALL: process.argv.includes('--all')
@@ -386,8 +387,8 @@ async function main() {
   }
 
   // Tier C
-  if (sitemapData.organized.tier_c) {
-    Object.values(sitemapData.organized.tier_c).forEach(deptCommunes => {
+  if (sitemapData.organized.tier_c_by_dept) {
+    Object.values(sitemapData.organized.tier_c_by_dept).forEach(deptCommunes => {
       if (Array.isArray(deptCommunes)) {
         communes = communes.concat(deptCommunes);
       }
@@ -395,8 +396,8 @@ async function main() {
   }
 
   // Tier D
-  if (sitemapData.organized.tier_d) {
-    Object.values(sitemapData.organized.tier_d).forEach(deptCommunes => {
+  if (sitemapData.organized.tier_d_by_dept) {
+    Object.values(sitemapData.organized.tier_d_by_dept).forEach(deptCommunes => {
       if (Array.isArray(deptCommunes)) {
         communes = communes.concat(deptCommunes);
       }
@@ -429,9 +430,15 @@ async function main() {
     process.exit(1);
   }
 
+  // Apply offset and limit for parallel processing
+  if (args.OFFSET > 0) {
+    communes = communes.slice(args.OFFSET);
+    console.log(`📌 Offset: skipping first ${args.OFFSET} communes`);
+  }
+
   if (args.LIMIT) {
     communes = communes.slice(0, args.LIMIT);
-    console.log(`📌 Limited to ${args.LIMIT} communes`);
+    console.log(`📌 Limit: processing ${args.LIMIT} communes`);
   }
 
   // Load checkpoint or initialize

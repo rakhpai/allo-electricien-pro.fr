@@ -6,8 +6,8 @@ zipCode: '95230'
 department: '95'
 keyword: Électricien Urgence Soisy-Sous-Montmorency 95230
 company: Watt95Pro
-phone: 06 44 64 31 33
-phoneRaw: '0644643133'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Soisy-Sous-Montmorency 95230 ⚡ Dépannage électrique,
   installation, réparation. Service 24h/7j. Intervention rapide. Devis gratuit.

@@ -6,8 +6,8 @@ zipCode: '94500'
 department: '94'
 keyword: Électricien Urgence Champigny-Sur-Marne
 company: Watt77
-phone: 06 44 64 30 77
-phoneRaw: '0644643077'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Champigny-sur-Marne 94500 ⚡ Installation, panne,
   réparation. Dépannage immédiat 24h/7j. Intervention rapide. Devis gratuit.

@@ -35,14 +35,14 @@ const COMPANY_NAMES = {
 
 // Base phone numbers by department (will vary slightly)
 const BASE_PHONES = {
-  '75': '0644644699',
-  '77': '0144901131',
-  '78': '0644604830',
-  '91': '0144901131',
-  '92': '0644644699',
-  '93': '0144901131',
-  '94': '0644644699',
-  '95': '0144901131'
+  '75': '0644644824',
+  '77': '0644644824',
+  '78': '0644644824',
+  '91': '0644644824',
+  '92': '0644644824',
+  '93': '0644644824',
+  '94': '0644644824',
+  '95': '0644644824'
 };
 
 /**
@@ -101,7 +101,7 @@ function generateImages(slug, zipCode) {
 function createFrontmatter(commune) {
   const zipCode = Array.isArray(commune.postal_codes) ? commune.postal_codes[0] : commune.postal_codes;
   const department = commune.department;
-  const phoneRaw = BASE_PHONES[department] || '0144901131';
+  const phoneRaw = BASE_PHONES[department] || '0644644824';
   const phone = formatPhone(phoneRaw);
   const company = COMPANY_NAMES[department] || 'ÉlecPro';
   const cityName = commune.name;

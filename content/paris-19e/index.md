@@ -6,9 +6,9 @@ zipCode: '75019'
 department: '75'
 keyword: Électricien Urgence Paris 19e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: >-
-  0644955555 SOS Électricien Paris 19e (75019) ⚡ Dépannage électricité urgence
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
+  06 44 64 48 24 SOS Électricien Paris 19e (75019) ⚡ Dépannage électricité urgence
   <30min Buttes-Chaumont, Villette, Stalingrad. Panne, court-circuit 24/7. ☎️ 06
   44 95 55 55
 niche: électricité
@@ -238,7 +238,7 @@ seoContentWordCount: 625
 
 **Panne électrique Buttes-Chaumont ou Villette, Stalingrad ?** Notre service **SOS électricien Paris 19e** intervient en urgence 24h/24. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 19e
 
@@ -275,7 +275,7 @@ seoContentWordCount: 625
 
 **Urgence électrique Paris 19e ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 *Électricien Paris 19e - Dépannage électricité urgent. Service professionnel 24h/24.*

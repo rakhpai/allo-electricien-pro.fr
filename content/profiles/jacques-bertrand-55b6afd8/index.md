@@ -25,7 +25,7 @@ services:
   - Borne recharge VE
   - Mise aux normes
   - Diagnostic électrique
-phone: 01 74 03 77 53
+phone: "06 44 64 48 24"
 phone_href: '+33174037753'
 available_24_7: false
 rating: 4.7

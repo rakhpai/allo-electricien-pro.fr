@@ -6,8 +6,8 @@ zipCode: '77270'
 department: '77'
 keyword: Électricien 24/7 Villeparisis 77270
 company: VilleparisissAide77
-phone: 07 55 51 27 25
-phoneRaw: '0755512725'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Villeparisis 77270 ⚡ Réparation panne, tableau électrique,
   court-circuit. Intervention immédiate garantie. Devis gratuit. Appelez

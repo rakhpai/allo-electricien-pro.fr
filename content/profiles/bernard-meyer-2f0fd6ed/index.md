@@ -23,7 +23,7 @@ services:
   - Dépannage urgence
   - Diagnostic électrique
   - VMC
-phone: 01 45 22 73 53
+phone: "06 44 64 48 24"
 phone_href: '+33145227353'
 available_24_7: true
 rating: 4.9

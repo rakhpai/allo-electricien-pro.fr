@@ -23,7 +23,7 @@ services:
   - Diagnostic électrique
   - Installation électrique
   - Domotique
-phone: 01 74 03 76 44
+phone: "06 44 64 48 24"
 phone_href: '+33174037644'
 available_24_7: false
 rating: 5

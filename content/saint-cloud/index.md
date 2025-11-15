@@ -6,8 +6,8 @@ zipCode: '92210'
 department: '92'
 keyword: Électricien 24/7 Saint-Cloud
 company: AidePower92
-phone: 06 44 64 46 99
-phoneRaw: 0644644699
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Saint-Cloud 92210 ⚡ Installation, réparation, panne. Urgence
   24h/7j. Intervention immédiate. Devis gratuit. AidePower92 certifié. Appelez!

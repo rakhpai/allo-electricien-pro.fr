@@ -27,7 +27,7 @@ services:
   - Tableau électrique
   - Borne recharge VE
   - Mise aux normes
-phone: 01 74 72 46 09
+phone: "06 44 64 48 24"
 phone_href: '+33174724609'
 available_24_7: false
 rating: 4.7

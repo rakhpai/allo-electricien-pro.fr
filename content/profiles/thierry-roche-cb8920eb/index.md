@@ -23,7 +23,7 @@ services:
   - Installation électrique
   - VMC
   - Prise & interrupteur
-phone: 01 76 21 37 39
+phone: "06 44 64 48 24"
 phone_href: '+33176213739'
 available_24_7: false
 rating: 4.8

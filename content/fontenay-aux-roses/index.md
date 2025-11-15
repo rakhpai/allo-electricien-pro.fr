@@ -6,8 +6,8 @@ zipCode: '92260'
 department: '92'
 keyword: Électricien 24/7 Fontenay-Aux-Roses
 company: FontenayÉlec92
-phone: 06 44 64 09 80
-phoneRaw: 0644640980
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Fontenay-Aux-Roses 92260 ⚡ Panne électrique, installation,
   réparation. Dépannage immédiat 24h/7j. Devis gratuit. Artisan qualifié

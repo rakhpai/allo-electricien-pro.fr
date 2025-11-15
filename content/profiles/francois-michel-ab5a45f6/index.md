@@ -27,7 +27,7 @@ services:
   - Tableau électrique
   - Mise aux normes
   - Dépannage urgence
-phone: 01 74 03 73 95
+phone: "06 44 64 48 24"
 phone_href: '+33174037395'
 available_24_7: false
 rating: 4.7

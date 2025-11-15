@@ -4,11 +4,11 @@ slug: installation-electrique-paris
 city: Paris
 zipCode: '75000'
 company: Allo Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 department: '75'
 draft: false
-description: "Installation électrique Paris - Neuf, rénovation, ajout prises. Électricien qualifié dans tous les arrondissements. Devis gratuit, tarifs transparents ☎️ 01 44 90 11 31"
+description: "Installation électrique Paris - Neuf, rénovation, ajout prises. Électricien qualifié dans tous les arrondissements. Devis gratuit, tarifs transparents ☎️ 06 44 64 48 24"
 sitemap:
   priority: 0.85
   changefreq: weekly
@@ -20,7 +20,7 @@ sitemap:
 
 Besoin d'une **installation électrique** à Paris ? Nos **électriciens certifiés** réalisent tous vos travaux d'installation dans les 20 arrondissements : installation complète neuf/rénovation, ajout de prises, éclairage, tableau électrique.
 
-**☎️ 01 44 90 11 31** - Devis gratuit - Électricien qualifié
+**☎️ 06 44 64 48 24** - Devis gratuit - Électricien qualifié
 
 ---
 
@@ -248,7 +248,7 @@ Pour certains travaux de rénovation électrique, vous pouvez bénéficier de :
 
 {{< step-process >}}
   {{< step number="1" title="Demande de Devis (Gratuit)" >}}
-- Contactez-nous au 01 44 90 11 31
+- Contactez-nous au 06 44 64 48 24
 - Décrivez votre projet d'installation
 - Prise de rendez-vous pour visite technique (si nécessaire)
   {{< /step >}}
@@ -345,7 +345,7 @@ Il est **fortement recommandé** de faire appel à un électricien professionnel
 
 Projet d'installation électrique à Paris ? Demandez votre **devis gratuit** sans engagement.
 
-### ☎️ **01 44 90 11 31**
+### ☎️ **06 44 64 48 24**
 ### Électricien installation Paris - Devis sous 48h
 
 **Disponible du lundi au samedi** - Tous arrondissements - Conseils gratuits

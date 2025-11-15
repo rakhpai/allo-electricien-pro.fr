@@ -6,8 +6,8 @@ zipCode: '92000'
 department: '92'
 keyword: Intervention Électricien Nanterre
 company: ÉlectriService Nanterre
-phone: 06 44 60 19 93
-phoneRaw: 0644601993
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Nanterre 92000 ⚡ Panne, installation, réparation.
   Dépannage express 24h/7j. Artisan certifié. Devis gratuit. Tel. rapide!

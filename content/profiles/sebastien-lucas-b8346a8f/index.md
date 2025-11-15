@@ -27,7 +27,7 @@ services:
   - Rénovation complète
   - Tableau électrique
   - VMC
-phone: 01 74 03 75 33
+phone: "06 44 64 48 24"
 phone_href: '+33174037533'
 available_24_7: false
 rating: 4.7

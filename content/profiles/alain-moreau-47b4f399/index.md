@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - Rénovation complète
   - Diagnostic électrique
-phone: 01 74 03 74 24
+phone: "06 44 64 48 24"
 phone_href: '+33174037424'
 available_24_7: true
 rating: 4.9

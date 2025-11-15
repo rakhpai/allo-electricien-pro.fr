@@ -25,7 +25,7 @@ services:
   - Dépannage urgence
   - Rénovation complète
   - Chauffage électrique
-phone: 01 76 21 32 22
+phone: "06 44 64 48 24"
 phone_href: '+33176213222'
 available_24_7: false
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '78450'
 department: '78'
 keyword: Intervention Électricien Villepreux
 company: VILLEPREUXDépanne
-phone: 06 44 64 31 33
-phoneRaw: '0644643133'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Villepreux 78450 ⚡ Tableau, court-circuit, panne.
   Dépannage express 24h/7j garantie. Artisan certifié. Devis gratuit. Tel.

@@ -6,8 +6,8 @@ zipCode: '92340'
 department: '92'
 keyword: Électricien d'Urgence Bourg-La-Reine
 company: AideLumière94
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Bourg-La-Reine 92340 ⚡ Réparation, installation, tableau
   électrique. Dépannage 24h/7j. Intervention immédiate. Artisan certifié. Devis

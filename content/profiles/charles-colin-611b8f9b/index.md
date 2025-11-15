@@ -23,7 +23,7 @@ services:
   - Prise & interrupteur
   - Installation électrique
   - Rénovation complète
-phone: 01 74 72 47 23
+phone: "06 44 64 48 24"
 phone_href: '+33174724723'
 available_24_7: false
 rating: 5

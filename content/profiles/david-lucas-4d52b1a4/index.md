@@ -27,7 +27,7 @@ services:
   - Installation électrique
   - Domotique
   - Tableau électrique
-phone: 01 74 03 75 08
+phone: "06 44 64 48 24"
 phone_href: '+33174037508'
 available_24_7: false
 rating: 4.7

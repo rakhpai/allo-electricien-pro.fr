@@ -6,8 +6,8 @@ zipCode: '91520'
 department: '91'
 keyword: Électricien 24/7 Egly
 company: FixWatt91
-phone: 06 44 64 20 60
-phoneRaw: '0644642060'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Egly 91520 ⚡ Panne, installation, réparation électrique.
   Intervention express garantie. Devis gratuit immédiat. FixWatt91 certifié.

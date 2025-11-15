@@ -6,8 +6,8 @@ zipCode: '92410'
 department: '92'
 keyword: Intervention Électricien Ville-D'avray
 company: ÉlectriciensUrgence Ville-d'Avray
-phone: 06 44 60 19 93
-phoneRaw: 0644601993
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Ville-D'avray 92410 ⚡ Installation, réparation,
   dépannage urgent. Service 24h/7j. Technicien certifié. Devis gratuit. Tel.

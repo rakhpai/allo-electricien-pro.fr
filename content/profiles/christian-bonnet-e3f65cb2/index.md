@@ -23,7 +23,7 @@ services:
   - VMC
   - Tableau électrique
   - Mise aux normes
-phone: 01 74 03 77 20
+phone: "06 44 64 48 24"
 phone_href: '+33174037720'
 available_24_7: true
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '95410'
 department: '95'
 keyword: Dépannage Électricien Groslay 95410
 company: Dupont Électro 95
-phone: 06 44 64 87 01
-phoneRaw: 0644648701
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Groslay 95410 ⚡ Panne, tableau électrique,
   court-circuit. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Dupont

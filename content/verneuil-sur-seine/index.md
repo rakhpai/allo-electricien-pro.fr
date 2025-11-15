@@ -6,8 +6,8 @@ zipCode: '78480'
 department: '78'
 keyword: SOS Électricien Verneuil-Sur-Seine
 company: VERNEUIL-SUR-SEINELight
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Verneuil-Sur-Seine 78480 ⚡ Panne, installation, réparation.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. Artisan certifié.

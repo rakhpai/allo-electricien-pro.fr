@@ -6,8 +6,8 @@ zipCode: '91160'
 department: '91'
 keyword: Électricien Urgence Longjumeau 91160
 company: Services Longjumeau
-phone: 07 56 79 60 30
-phoneRaw: 0756796030
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Longjumeau 91160 ⚡ Panne électrique, réparation, installation.
   Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan qualifié.

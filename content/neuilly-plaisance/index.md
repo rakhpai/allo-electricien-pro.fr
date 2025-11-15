@@ -6,8 +6,8 @@ zipCode: '93360'
 department: '93'
 keyword: SOS Électricien Neuilly-Plaisance
 company: ExpressÉlec93
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Neuilly-Plaisance 93360 ⚡ Panne, tableau, court-circuit.
   Intervention immédiate 24h/7j. Rapide et fiable. Devis gratuit. ExpressÉlec93

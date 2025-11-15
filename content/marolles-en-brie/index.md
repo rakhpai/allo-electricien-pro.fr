@@ -6,8 +6,8 @@ zipCode: '77120'
 department: '77'
 keyword: Électricien 24/7 Marolles-En-Brie 77120
 company: MAROLLES-EN-BRIELight
-phone: 07 56 79 60 30
-phoneRaw: 0756796030
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Marolles-En-Brie 77120 ⚡ Installation, réparation, panne
   électrique. Intervention express garantie. Devis gratuit. Artisan disponible

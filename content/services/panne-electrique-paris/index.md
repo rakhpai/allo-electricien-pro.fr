@@ -4,11 +4,11 @@ slug: panne-electrique-paris
 city: Paris
 zipCode: '75000'
 company: Allo Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 department: '75'
 draft: false
-description: "Panne électrique à Paris ? Plus de courant dans tout ou partie du logement ? Intervention urgente 24h/24 <30min. Diagnostic gratuit ☎️ 01 44 90 11 31"
+description: "Panne électrique à Paris ? Plus de courant dans tout ou partie du logement ? Intervention urgente 24h/24 <30min. Diagnostic gratuit ☎️ 06 44 64 48 24"
 sitemap:
   priority: 0.9
   changefreq: weekly
@@ -18,7 +18,7 @@ sitemap:
 
 ## Plus de Courant à Paris ? Intervention Rapide Garantie <30 Minutes
 
-**☎️ 01 44 90 11 31** - Dépannage panne électrique - Disponible immédiatement
+**☎️ 06 44 64 48 24** - Dépannage panne électrique - Disponible immédiatement
 
 **Panne de courant totale ou partielle** dans votre logement à Paris ? Notre service d'**électricien d'urgence** intervient **24 heures sur 24** pour diagnostiquer et réparer votre panne électrique en moins de 30 minutes.
 
@@ -156,7 +156,7 @@ Couverture complète de Paris avec intervention rapide garantie :
 - Coupez les plaques de cuisson si elles étaient allumées
 
 **4. Appelez un électricien d'urgence**
-- ☎️ **01 44 90 11 31** - Service 24h/24
+- ☎️ **06 44 64 48 24** - Service 24h/24
 - Décrivez la situation précisément
 - Indiquez votre arrondissement pour intervention rapide
 
@@ -243,7 +243,7 @@ Défaut d'isolement quelque part dans l'installation (fuite de courant vers la t
 
 Ne restez pas dans le noir. Notre équipe d'électriciens intervient **immédiatement** pour rétablir votre courant en toute sécurité.
 
-### 📞 **01 44 90 11 31**
+### 📞 **06 44 64 48 24**
 ### Dépannage panne électrique 24h/24 - Intervention <30 min
 
 **Disponible MAINTENANT** - Tous arrondissements de Paris - Devis gratuit

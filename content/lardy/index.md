@@ -6,8 +6,8 @@ zipCode: '91510'
 department: '91'
 keyword: Électricien Urgence Lardy
 company: LARDYLight
-phone: 06 44 64 09 90
-phoneRaw: 0644640990
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Lardy 91510 ⚡ Court-circuit, panne électrique, réparation.
   Intervention immédiate 24h/7j. Devis gratuit. Artisan qualifié LARDYLight.

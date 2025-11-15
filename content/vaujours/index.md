@@ -6,8 +6,8 @@ zipCode: '93410'
 department: '93'
 keyword: Électricien Urgence Vaujours
 company: VAUJOURSExpress
-phone: 06 44 64 35 05
-phoneRaw: '0644643505'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Urgence Vaujours 93410 ⚡ Court-circuit, panne électrique, tableau.
   Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez!

@@ -27,7 +27,7 @@ Le site **allo-electricien.pro** est édité par :
 
 **Directeur de la publication :** Miguel Victor VALLÉE (Gérant)
 **Contact :** contact@allo-electricien.pro
-**Téléphone :** 01 44 90 11 31
+**Téléphone :** 06 44 64 48 24
 
 ### 2. Hébergement du Site
 
@@ -126,7 +126,7 @@ En cas de litige et à défaut d'accord amiable, le litige sera porté devant le
 
 Pour toute question concernant les mentions légales ou le site **allo-electricien.pro**, vous pouvez nous contacter :
 
-**Téléphone :** 01 44 90 11 31
+**Téléphone :** 06 44 64 48 24
 **Email :** contact@allo-electricien.pro
 **Adresse :** ECLAT RAPIDE ELECTRICITE, 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
 

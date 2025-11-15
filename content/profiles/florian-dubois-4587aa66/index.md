@@ -27,7 +27,7 @@ services:
   - Chauffage électrique
   - Éclairage
   - Domotique
-phone: 01 74 03 76 90
+phone: "06 44 64 48 24"
 phone_href: '+33174037690'
 available_24_7: false
 rating: 4.7

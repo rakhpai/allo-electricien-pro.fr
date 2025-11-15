@@ -27,7 +27,7 @@ services:
   - Prise & interrupteur
   - Borne recharge VE
   - Chauffage électrique
-phone: 01 76 21 37 35
+phone: "06 44 64 48 24"
 phone_href: '+33176213735'
 available_24_7: false
 rating: 4.7

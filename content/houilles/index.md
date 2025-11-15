@@ -6,8 +6,8 @@ zipCode: '78800'
 department: '78'
 keyword: Électricien 24/7 Houilles 78800
 company: Électricien Dépannage Houilles
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Houilles 78800 ⚡ Installation, réparation, panne électrique.
   Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez!

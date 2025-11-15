@@ -6,8 +6,8 @@ zipCode: '94150'
 department: '94'
 keyword: SOS Électricien Rungis
 company: RungisCircuit
-phone: 07 56 79 95 59
-phoneRaw: 0756799559
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Rungis 94150 ⚡ Installation, réparation, tableau électrique.
   Urgence 24h/7j immédiate. Intervention express. Devis gratuit. Certifié.

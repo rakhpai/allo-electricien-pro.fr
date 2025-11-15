@@ -6,8 +6,8 @@ zipCode: '93000'
 department: '93'
 keyword: Urgence Électricien Bobigny
 company: BOBIGNYAidE93
-phone: 06 44 60 19 93
-phoneRaw: 0644601993
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Bobigny 93000 ⚡ Installation, réparation, panne
   électrique. Dépannage immédiat 24h/7j. Artisan certifié. Intervention rapide.

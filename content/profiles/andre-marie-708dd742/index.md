@@ -27,7 +27,7 @@ services:
   - Domotique
   - Borne recharge VE
   - Diagnostic électrique
-phone: 01 74 72 47 18
+phone: "06 44 64 48 24"
 phone_href: '+33174724718'
 available_24_7: true
 rating: 4.7

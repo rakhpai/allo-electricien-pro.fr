@@ -126,7 +126,7 @@ Disjoncteur 32A en 230V = 32A × 230V = 7360W maximum
 - **OUI, sous 48h** si un appareil fixe (chauffe-eau) est en cause
 - Appelez **SOS électricien 24/7** si récidive immédiate
 
-☎️ **06 44 95 55 55** - Diagnostic fuite de courant Paris <30min
+☎️ **06 44 64 48 24** - Diagnostic fuite de courant Paris <30min
 
 ### CAS 4 : Disjoncteur Saute par Temps Humide/Orageux
 
@@ -203,7 +203,7 @@ Disjoncteur 32A en 230V = 32A × 230V = 7360W maximum
 
 **Intervention <30 minutes** garantie dans Paris et petite couronne.
 
-☎️ **06 44 95 55 55** - SOS Électricien Paris 24/7
+☎️ **06 44 64 48 24** - SOS Électricien Paris 24/7
 
 ### APPEL sous 24-48h conseillé si :
 
@@ -259,7 +259,7 @@ Dans les **arrondissements centraux de Paris** (1er au 9e surtout), les immeuble
 
 **Disjoncteur qui saute à répétition à Paris ? Diagnostic professionnel en <30min**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris - Dépannage Disjoncteur 24h/24 - Intervention Urgente Garantie
 
 *Disjoncteur qui saute Paris - Dépannage électrique urgence - SOS électricien 24/7 - Tableau électrique*

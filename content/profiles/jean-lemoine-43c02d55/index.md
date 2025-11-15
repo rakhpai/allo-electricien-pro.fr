@@ -23,7 +23,7 @@ services:
   - Chauffage électrique
   - Domotique
   - Diagnostic électrique
-phone: 01 74 03 77 66
+phone: "06 44 64 48 24"
 phone_href: '+33174037766'
 available_24_7: false
 rating: 4.8

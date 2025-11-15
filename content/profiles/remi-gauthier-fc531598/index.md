@@ -25,7 +25,7 @@ services:
   - Installation électrique
   - Tableau électrique
   - Prise & interrupteur
-phone: 01 74 72 47 13
+phone: "06 44 64 48 24"
 phone_href: '+33174724713'
 available_24_7: false
 rating: 4.7

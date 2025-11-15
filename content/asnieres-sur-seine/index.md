@@ -6,8 +6,8 @@ zipCode: '92600'
 department: '92'
 keyword: Électricien Urgence Asnieres-Sur-Seine 92600
 company: ASNIERES-SUR-SEINELight
-phone: 06 44 64 47 22
-phoneRaw: '0644644722'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Asnieres-Sur-Seine 92600 ⚡ Installation, panne,
   court-circuit. Dépannage immédiat 24h/7j. Artisan qualifié. Intervention

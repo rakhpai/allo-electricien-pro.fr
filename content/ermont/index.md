@@ -6,8 +6,8 @@ zipCode: '95120'
 department: '95'
 keyword: Électricien 24/7 Ermont
 company: ERMONTExpert
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Ermont 95120 ⚡ Réparation, installation, tableau électrique.
   Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!

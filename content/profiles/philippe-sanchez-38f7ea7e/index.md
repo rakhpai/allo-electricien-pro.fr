@@ -23,7 +23,7 @@ services:
   - Mise aux normes
   - Dépannage urgence
   - VMC
-phone: 01 74 72 47 11
+phone: "06 44 64 48 24"
 phone_href: '+33174724711'
 available_24_7: true
 rating: 4.9

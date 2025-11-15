@@ -6,8 +6,8 @@ zipCode: '93440'
 department: '93'
 keyword: Intervention Électricien Dugny
 company: DépannePower93
-phone: 06 44 64 35 35
-phoneRaw: '0644643535'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Dugny 93440 ⚡ Dépannage panne, réparation,
   installation. Urgence 24h/7j. Artisan certifié. Devis gratuit. Tel. rapide

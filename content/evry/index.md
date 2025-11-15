@@ -6,8 +6,8 @@ zipCode: '91090'
 department: '91'
 keyword: Dépannage Électricien Evry
 company: AideVolt91
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Evry 91090 ⚡ Panne, installation, réparation.
   Intervention immédiate garantie. Devis gratuit. AideVolt91 certifié. Appelez

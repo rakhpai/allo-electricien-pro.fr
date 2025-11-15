@@ -25,7 +25,7 @@ services:
   - Domotique
   - Installation électrique
   - Prise & interrupteur
-phone: 01 74 03 74 33
+phone: "06 44 64 48 24"
 phone_href: '+33174037433'
 available_24_7: false
 rating: 4.7

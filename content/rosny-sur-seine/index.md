@@ -6,8 +6,8 @@ zipCode: '78710'
 department: '78'
 keyword: Électricien Urgence Rosny-Sur-Seine 78710
 company: RapideÉlec78
-phone: 07 56 79 88 58
-phoneRaw: 0756798858
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Rosny-Sur-Seine 78710 ⚡ Installation, réparation, panne
   électrique. Urgence 24h/7j. Intervention garantie. Devis gratuit. RapideÉlec78

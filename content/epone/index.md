@@ -35,8 +35,8 @@ zipCode: '78680'
 department: '78'
 keyword: Électricien 24/7 Epone
 company: PowerEPONE78
-phone: 06 44 64 44 88
-phoneRaw: 0644644488
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Entreprise artisanale Épône
 niche: électricité
 kwSource: électricité

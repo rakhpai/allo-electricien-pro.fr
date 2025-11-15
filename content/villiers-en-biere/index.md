@@ -6,8 +6,8 @@ zipCode: '77190'
 department: '77'
 keyword: Intervention Électricien Villiers-en-Bière
 company: ÉlecExpert77
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Villiers-en-Bière 77190 ⚡ Panne, dépannage,
   réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez

@@ -23,7 +23,7 @@ services:
   - Domotique
   - Borne recharge VE
   - Chauffage électrique
-phone: 01 74 03 73 96
+phone: "06 44 64 48 24"
 phone_href: '+33174037396'
 available_24_7: true
 rating: 4.8

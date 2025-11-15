@@ -321,7 +321,7 @@ Pour **mise aux normes complète** (non urgence) :
 
 **Urgence électrique à Paris ? Devis gratuit et transparent avant toute intervention**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris - Tarifs Clairs - Intervention <30min - Paiement CB/Chèque/Espèces
 
 *Prix électricien Paris - Tarif dépannage électrique - SOS électricien urgent - Devis gratuit*

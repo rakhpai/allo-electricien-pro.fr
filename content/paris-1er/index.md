@@ -6,8 +6,8 @@ zipCode: '75001'
 department: '75'
 keyword: Électricien Urgence Paris 1er
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: 0644955555
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Paris 1er (75001) ⚡ Dépannage électricité urgence <30min
   Louvre, Châtelet, Les Halles. Panne, court-circuit, intervention 24/7. ☎️ 06
@@ -233,7 +233,7 @@ seoContentWordCount: 618
 
 **Panne électrique au cœur de Paris ?** Notre service **SOS électricien Paris 1er** intervient en urgence dans tout le 1er arrondissement : Louvre, Châtelet, Les Halles, Palais-Royal, Place Vendôme, Tuileries. **Dépannage électricité garanti en moins de 30 minutes**, 24h/24 et 7j/7.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 1er - Secteur Louvre & Châtelet
 
@@ -316,7 +316,7 @@ Notre **service d'électricien d'urgence** couvre l'intégralité du 1er arrondi
 
 **Urgence électrique Paris 1er ? N'attendez pas !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 ---

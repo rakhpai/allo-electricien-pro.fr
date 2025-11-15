@@ -6,8 +6,8 @@ zipCode: '95220'
 department: '95'
 keyword: Électricien d'Urgence Herblay 95220
 company: HERBLAYLight
-phone: 06 44 64 44 88
-phoneRaw: 0644644488
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Herblay 95220 ⚡ Court-circuit, panne électrique,
   installation. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit!

@@ -6,8 +6,8 @@ zipCode: '75003'
 department: '75'
 keyword: Électricien Urgence Paris 3e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: 0644955555
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Paris 3e (75003) ⚡ Dépannage électricité urgence <30min
   Marais, Archives, Temple. Panne, court-circuit, intervention 24/7. ☎️ 06 44 95
@@ -237,7 +237,7 @@ seoContentWordCount: 659
 
 **Panne électrique dans Le Marais ou quartier Archives ?** Notre service **SOS électricien Paris 3e** intervient en urgence 24h/24 dans tout le 3e arrondissement : Le Marais, Archives, Temple, Arts et Métiers, République. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 3e - Secteur Marais & Archives
 
@@ -319,7 +319,7 @@ Notre **service d'électricien d'urgence** couvre l'intégralité du 3e arrondis
 
 **Urgence électrique Paris 3e ? Immeuble ancien du Marais ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 ---

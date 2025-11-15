@@ -6,8 +6,8 @@ zipCode: '94340'
 department: '94'
 keyword: Électricien d'Urgence Joinville-Le-Pont 94340
 company: Urgence Électricité Joinville
-phone: 06 44 64 16 42
-phoneRaw: '0644641642'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Joinville-Le-Pont 94340 ⚡ Panne, tableau, court-circuit.
   Dépannage 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!

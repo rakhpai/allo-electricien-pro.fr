@@ -6,8 +6,8 @@ zipCode: '78530'
 department: '78'
 keyword: Intervention Électricien Buc
 company: BUCLight78
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Buc 78530 ⚡ Panne, tableau électrique, court-circuit.
   Urgence 24h/7j. Dépannage rapide garanti. Devis gratuit. BUCLight78.

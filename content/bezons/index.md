@@ -6,8 +6,8 @@ zipCode: '95870'
 department: '95'
 keyword: Dépannage Électricien Bezons 95870
 company: BEZONSFlash
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Bezons 95870 ⚡ Panne, réparation, installation. Urgence
   24h/7j. Intervention rapide garantie. Devis gratuit immédiat. BEZONSFlash

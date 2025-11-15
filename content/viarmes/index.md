@@ -6,8 +6,8 @@ zipCode: '95270'
 department: '95'
 keyword: Électricien Urgence Viarmes 95270
 company: Élec95Plus
-phone: 06 44 64 44 88
-phoneRaw: 0644644488
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Viarmes 95270 ⚡ Installation, réparation, panne
   électrique. Intervention 24h/7j garantie. Devis gratuit immédiat. Élec95Plus

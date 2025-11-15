@@ -35,8 +35,8 @@ zipCode: '91320'
 department: '91'
 keyword: SOS Électricien Wissous
 company: WISSOUSAide
-phone: 06 44 64 72 11
-phoneRaw: '0644647211'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Wissous 91320 ⚡ Panne électrique, tableau, court-circuit.
   Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez

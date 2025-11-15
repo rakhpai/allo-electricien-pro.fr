@@ -6,8 +6,8 @@ zipCode: '92300'
 department: '92'
 keyword: Électricien Urgence Levallois-Perret
 company: FixLevallois92
-phone: 06 44 64 16 42
-phoneRaw: '0644641642'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Levallois-Perret 92300 ⚡ Panne, réparation, installation.
   Dépannage 24h/7j. Artisan certifié. Intervention rapide. Devis gratuit!

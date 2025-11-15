@@ -6,8 +6,8 @@ zipCode: '60600'
 department: '78'
 keyword: SOS Électricien Clermont 60600
 company: Volt78
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Clermont 60600 ⚡ Panne, réparation, installation électrique.
   Intervention rapide 24h/7j garantie. Devis gratuit immédiat. Volt78 certifié.

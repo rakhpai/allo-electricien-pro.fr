@@ -6,8 +6,8 @@ zipCode: '77140'
 department: '77'
 keyword: Urgence Électricien Nemours
 company: Aide77
-phone: 06 44 60 43 09
-phoneRaw: 0644604309
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Nemours 77140 ⚡ Réparation panne, tableau électrique,
   court-circuit. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit!

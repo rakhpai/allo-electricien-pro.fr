@@ -36,7 +36,7 @@ localContext: dans les Yvelines
 
 Notre réseau couvre l'**intégralité de l'Île-de-France** avec **408 électriciens certifiés** répartis stratégiquement dans **8 départements**. Cette couverture complète nous permet de garantir une **intervention rapide en moins de 30 minutes** où que vous soyez en région parisienne.
 
-**☎️ 01 44 90 11 31** - Intervention 24h/24 dans toute l'IDF
+**☎️ 06 44 64 48 24** - Intervention 24h/24 dans toute l'IDF
 
 ---
 
@@ -200,7 +200,7 @@ Tous nos électriciens disposent de :
 
 ### Processus d'Intervention
 
-1. **Vous appelez le 01 44 90 11 31** - Notre service client répond immédiatement
+1. **Vous appelez le 06 44 64 48 24** - Notre service client répond immédiatement
 
 2. **Géolocalisation automatique** - Nous identifions l'électricien le plus proche de chez vous
 
@@ -284,7 +284,7 @@ Avec 408 professionnels répartis stratégiquement, notre taux de disponibilité
 
 ---
 
-**☎️ 01 44 90 11 31**
+**☎️ 06 44 64 48 24**
 **Intervention 24h/24 dans toute l'Île-de-France**
 
 ---

@@ -8,8 +8,8 @@ zipCode: '78650'
 department: '78'
 keyword: Dépannage Électricien Beynes
 company: BEYNESAide
-phone: 06 44 60 14 99
-phoneRaw: 0644601499
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Entreprise spécialiste Luzarches
 niche: électricité
 kwSource: électricité

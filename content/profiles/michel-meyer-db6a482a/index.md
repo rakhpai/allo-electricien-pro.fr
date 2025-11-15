@@ -23,7 +23,7 @@ services:
   - Prise & interrupteur
   - VMC
   - Éclairage
-phone: 01 74 03 76 52
+phone: "06 44 64 48 24"
 phone_href: '+33174037652'
 available_24_7: true
 rating: 4.8

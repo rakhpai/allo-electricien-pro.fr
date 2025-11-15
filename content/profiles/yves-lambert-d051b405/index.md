@@ -25,7 +25,7 @@ services:
   - VMC
   - Diagnostic électrique
   - Domotique
-phone: 01 74 03 77 84
+phone: "06 44 64 48 24"
 phone_href: '+33174037784'
 available_24_7: true
 rating: 4.7

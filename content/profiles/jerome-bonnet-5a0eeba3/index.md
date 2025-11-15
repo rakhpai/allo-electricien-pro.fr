@@ -25,7 +25,7 @@ services:
   - Diagnostic électrique
   - VMC
   - Borne recharge VE
-phone: 01 76 21 36 99
+phone: "06 44 64 48 24"
 phone_href: '+33176213699'
 available_24_7: false
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '94510'
 department: '94'
 keyword: Électricien 24/7 La queue-En-Brie 94510
 company: AmpèrePlus
-phone: 06 44 64 46 99
-phoneRaw: 0644644699
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien La Queue-En-Brie 94510 ⚡ Panne électrique, installation,
   réparation. Dépannage 24h/7j. Intervention garantie. Devis gratuit. AmpèrePlus

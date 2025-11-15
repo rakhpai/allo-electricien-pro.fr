@@ -6,8 +6,8 @@ zipCode: '92800'
 department: '92'
 keyword: Urgence Électricien Puteaux
 company: VoltDupont92
-phone: 07 56 79 60 30
-phoneRaw: 0756796030
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence Électricien Puteaux 92800 ⚡ Panne, installation, réparation.
   Intervention immédiate 24h/7j. Artisan VoltDupont92 certifié. Devis gratuit!

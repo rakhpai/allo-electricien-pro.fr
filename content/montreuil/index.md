@@ -6,8 +6,8 @@ zipCode: '93100'
 department: '93'
 keyword: Électricien Urgence MONTREUIL
 company: MONTREUILExpert
-phone: 06 44 73 43 33
-phoneRaw: '0644734333'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence MONTREUIL 93 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez

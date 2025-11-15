@@ -27,7 +27,7 @@ services:
   - VMC
   - Borne recharge VE
   - Dépannage urgence
-phone: 01 45 22 91 55
+phone: "06 44 64 48 24"
 phone_href: '+33145229155'
 available_24_7: true
 rating: 4.7

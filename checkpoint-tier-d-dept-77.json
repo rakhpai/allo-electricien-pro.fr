@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:01:04.285Z",
-  "lastUpdate": "2025-11-15T17:01:04.285Z",
+  "startTime": "2025-11-15T17:24:23.206Z",
+  "lastUpdate": "2025-11-15T17:24:23.206Z",
   "processed": {
     "total": 507,
-    "processed": 110,
-    "successful": 109,
+    "processed": 150,
+    "successful": 149,
     "failed": 1,
-    "totalInputTokens": 229969,
-    "totalOutputTokens": 244976
+    "totalInputTokens": 314177,
+    "totalOutputTokens": 334477
   },
-  "lastProcessedSlug": "/congis-sur-therouanne",
+  "lastProcessedSlug": "/emerainville",
   "costs": {
-    "inputTokens": 229969,
-    "outputTokens": 244976,
-    "totalTokens": 474945,
-    "cost": 1.1638792,
-    "inputCost": 0.1839752,
-    "outputCost": 0.979904
+    "inputTokens": 314177,
+    "outputTokens": 334477,
+    "totalTokens": 648654,
+    "cost": 1.5892496,
+    "inputCost": 0.2513416,
+    "outputCost": 1.337908
   }
 }

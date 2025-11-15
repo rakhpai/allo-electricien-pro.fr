@@ -25,7 +25,7 @@ services:
   - Éclairage
   - Installation électrique
   - Diagnostic électrique
-phone: 01 74 03 75 86
+phone: "06 44 64 48 24"
 phone_href: '+33174037586'
 available_24_7: true
 rating: 4.7

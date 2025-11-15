@@ -94,7 +94,7 @@ Dans les **appartements parisiens** :
 - Ne touchez plus à rien
 - Appelez électricien urgence 24/7
 
-☎️ **06 44 95 55 55** - Intervention urgente Paris <30min
+☎️ **06 44 64 48 24** - Intervention urgente Paris <30min
 
 ## Étape 4 : Identifier le Circuit Défaillant
 
@@ -193,7 +193,7 @@ Notre service **SOS électricien** couvre :
 
 **Panne totale de courant à Paris ? Ne restez pas dans le noir !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Dépannage Urgence 24/7 - Intervention <30 minutes
 
 *Panne électrique Paris - Dépannage courant urgent - SOS électricien 24h - Plus de courant que faire*

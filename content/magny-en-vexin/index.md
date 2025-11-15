@@ -6,8 +6,8 @@ zipCode: '95420'
 department: '95'
 keyword: SOS Électricien Magny-En-Vexin
 company: VoltMagny95
-phone: 06 44 60 15 44
-phoneRaw: '0644601544'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS électricien Magny-En-Vexin 95420 ⚡ Installation, réparation, panne.
   Urgence 24h/7j. Intervention immédiate. Artisan certifié. Appelez maintenant!

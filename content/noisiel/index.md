@@ -6,8 +6,8 @@ zipCode: '77186'
 department: '77'
 keyword: Urgence Électricien Noisiel 77186
 company: ÉlectriSafe Urgence Noisiel
-phone: 06 44 60 02 88
-phoneRaw: 0644600288
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Noisiel 77186 ⚡ Panne, réparation, tableau électrique.
   Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez!

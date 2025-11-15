@@ -23,7 +23,7 @@ services:
   - Installation électrique
   - Chauffage électrique
   - Tableau électrique
-phone: 01 45 22 73 51
+phone: "06 44 64 48 24"
 phone_href: '+33145227351'
 available_24_7: true
 rating: 5

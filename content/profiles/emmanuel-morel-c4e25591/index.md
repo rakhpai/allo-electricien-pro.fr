@@ -25,7 +25,7 @@ services:
   - Éclairage
   - Tableau électrique
   - Borne recharge VE
-phone: 01 45 22 73 52
+phone: "06 44 64 48 24"
 phone_href: '+33145227352'
 available_24_7: false
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '93370'
 department: '93'
 keyword: SOS Électricien Montfermeil
 company: FlashMontfermeil
-phone: 07 56 79 99 82
-phoneRaw: 0756799982
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Montfermeil 93370 ⚡ Installation, réparation, panne. Urgence
   24h/7j immédiate. Intervention rapide. Devis gratuit. FlashMontfermeil

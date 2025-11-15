@@ -8,8 +8,8 @@ zipCode: '93220'
 department: '93'
 keyword: Électricien 24/7 Gagny 93220
 company: GAGNYLight
-phone: 06 44 64 10 17
-phoneRaw: '0644641017'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Contactez nous en toute confiance Gagny
 niche: électricité
 kwSource: électricité

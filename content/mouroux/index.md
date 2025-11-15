@@ -8,8 +8,8 @@ zipCode: '77120'
 department: '77'
 keyword: Intervention Électricien Mouroux 77120
 company: MOUROUXExpress
-phone: 06 44 64 05 55
-phoneRaw: '0644640555'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Pour tout urgence ou dépannage Mouroux
 niche: électricité
 kwSource: électricité

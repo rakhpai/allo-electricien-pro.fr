@@ -6,8 +6,8 @@ zipCode: '78440'
 department: '78'
 keyword: Électricien Urgence Gargenville
 company: VoltMaster78
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Gargenville 78440 ⚡ Panne, installation, réparation électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. VoltMaster78 certifié.

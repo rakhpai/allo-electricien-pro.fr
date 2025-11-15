@@ -6,8 +6,8 @@ zipCode: '78380'
 department: '78'
 keyword: Intervention Électricien Bougival
 company: BOUGIVALAide
-phone: 07 56 79 95 59
-phoneRaw: 0756799559
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Bougival 78380 ⚡ Installation, réparation, panne
   électrique. Dépannage immédiat 24h/7j. Artisan certifié. Devis gratuit!

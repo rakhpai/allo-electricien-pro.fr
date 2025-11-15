@@ -6,8 +6,8 @@ zipCode: '95440'
 department: '95'
 keyword: Urgence Électricien Ecouen
 company: Élec95
-phone: 06 44 64 30 77
-phoneRaw: '0644643077'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Ecouen 95440 ⚡ Court-circuit, panne tableau, réparation.
   Dépannage 24h/7j. Intervention immédiate. Élec95 qualifié. Tel. rapide!

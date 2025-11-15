@@ -27,7 +27,7 @@ services:
   - Installation électrique
   - Borne recharge VE
   - Domotique
-phone: 01 74 03 75 41
+phone: "06 44 64 48 24"
 phone_href: '+33174037541'
 available_24_7: false
 rating: 4.7

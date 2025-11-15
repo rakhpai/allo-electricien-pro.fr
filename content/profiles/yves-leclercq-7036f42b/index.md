@@ -25,7 +25,7 @@ services:
   - Éclairage
   - Rénovation complète
   - VMC
-phone: 01 74 03 76 58
+phone: "06 44 64 48 24"
 phone_href: '+33174037658'
 available_24_7: false
 rating: 4.7

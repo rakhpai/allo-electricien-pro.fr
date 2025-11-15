@@ -6,8 +6,8 @@ zipCode: '60280'
 department: '60'
 keyword: Intervention Électricien Margny-Les-Compiegne
 company: DépanneVolt78
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Margny-Les-Compiegne 60280 ⚡ Panne, installation,
   réparation. Dépannage 24h/7j garanti. Devis gratuit. DépanneVolt78 certifié.

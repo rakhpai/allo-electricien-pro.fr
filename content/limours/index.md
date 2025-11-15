@@ -6,8 +6,8 @@ zipCode: '91470'
 department: '91'
 keyword: Intervention Électricien Limours
 company: LIMOURSFlash
-phone: 06 44 64 71 75
-phoneRaw: '0644647175'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Limours 91470 ⚡ Tableau, installation, réparation.
   Dépannage immédiat 24h/7j. Artisan qualifié. Devis gratuit. LIMOURSFlash.

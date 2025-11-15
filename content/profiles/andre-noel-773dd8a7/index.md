@@ -27,7 +27,7 @@ services:
   - Dépannage urgence
   - Domotique
   - Installation électrique
-phone: 01 76 21 31 06
+phone: "06 44 64 48 24"
 phone_href: '+33176213106'
 available_24_7: false
 rating: 4.7

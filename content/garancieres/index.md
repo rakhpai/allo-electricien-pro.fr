@@ -6,8 +6,8 @@ zipCode: '78890'
 department: '78'
 keyword: SOS Électricien Garancieres
 company: GARANCIERESExpress
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Garancieres 78890 ⚡ Panne, installation, tableau. Intervention
   immédiate 24h/7j. Devis gratuit. GARANCIERESExpress certifié. Tel!

@@ -25,7 +25,7 @@ services:
   - Mise aux normes
   - Rénovation complète
   - Dépannage urgence
-phone: 01 76 21 37 19
+phone: "06 44 64 48 24"
 phone_href: '+33176213719'
 available_24_7: false
 rating: 4.7

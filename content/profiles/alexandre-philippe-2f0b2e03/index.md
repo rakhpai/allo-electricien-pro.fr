@@ -25,7 +25,7 @@ services:
   - Tableau électrique
   - Borne recharge VE
   - VMC
-phone: 01 74 03 75 74
+phone: "06 44 64 48 24"
 phone_href: '+33174037574'
 available_24_7: false
 rating: 4.7

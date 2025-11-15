@@ -6,8 +6,8 @@ zipCode: '78550'
 department: '78'
 keyword: Intervention Électricien Dannemarie
 company: VoltPro78
-phone: 06 44 60 48 30
-phoneRaw: 0644604830
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Dannemarie 78550 ⚡ Panne, dépannage, réparation.
   Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!

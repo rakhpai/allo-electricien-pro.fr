@@ -6,8 +6,8 @@ zipCode: '94200'
 department: '94'
 keyword: Électricien Urgence Ivry-Sur-Seine 94200
 company: CircuitIvry94
-phone: 06 44 64 71 75
-phoneRaw: '0644647175'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Ivry-Sur-Seine 94200 ⚡ Installation, réparation, panne
   électrique. Dépannage immédiat 24h/7j. Technicien qualifié. Devis gratuit.

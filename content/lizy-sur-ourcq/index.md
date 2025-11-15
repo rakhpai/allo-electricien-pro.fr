@@ -6,8 +6,8 @@ zipCode: '77440'
 department: '77'
 keyword: Électricien Urgence LIZY-SUR-OURCQ
 company: LIZYSUROURCQExpert
-phone: 06 44 97 57 57
-phoneRaw: 0644975757
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence LIZY-SUR-OURCQ 77 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez

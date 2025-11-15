@@ -25,7 +25,7 @@ services:
   - Dépannage urgence
   - Installation électrique
   - Chauffage électrique
-phone: 01 74 03 76 26
+phone: "06 44 64 48 24"
 phone_href: '+33174037626'
 available_24_7: true
 rating: 4.7

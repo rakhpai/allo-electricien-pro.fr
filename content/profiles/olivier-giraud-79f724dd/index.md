@@ -23,7 +23,7 @@ services:
   - Domotique
   - Chauffage électrique
   - Tableau électrique
-phone: 01 74 03 75 46
+phone: "06 44 64 48 24"
 phone_href: '+33174037546'
 available_24_7: false
 rating: 5

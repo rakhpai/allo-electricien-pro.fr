@@ -6,8 +6,8 @@ zipCode: '95140'
 department: '95'
 keyword: Électricien d'Urgence Garges-Les-Gonesse 95140
 company: DépanneWatt95
-phone: 06 44 60 84 33
-phoneRaw: 0644608433
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Garges-Les-Gonesse 95 ⚡ Panne, installation, réparation.
   Intervention 24h/7j garantie. Dépannage express. Devis gratuit immédiat.

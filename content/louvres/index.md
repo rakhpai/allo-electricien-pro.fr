@@ -6,8 +6,8 @@ zipCode: '95380'
 department: '95'
 keyword: Urgence Électricien Louvres
 company: LOUVRESFlash
-phone: 06 44 64 31 33
-phoneRaw: '0644643133'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Louvres 95380 ⚡ Panne, tableau électrique, court-circuit.
   Dépannage 24h/7j. Intervention express. Devis gratuit. LOUVRESFlash certifié.

@@ -6,8 +6,8 @@ zipCode: '77290'
 department: '77'
 keyword: Urgence Électricien Mitry-Mory 77290
 company: VoltMitry77
-phone: 06 44 64 95 05
-phoneRaw: 0644649505
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Mitry-Mory 77290 ⚡ Installation, réparation, panne.
   Intervention immédiate 24h/7j. Devis gratuit. Artisan certifié VoltMitry77.

@@ -6,8 +6,8 @@ zipCode: '78580'
 department: '78'
 keyword: SOS Électricien Maule 78580
 company: VoltMaule78
-phone: 06 44 64 72 11
-phoneRaw: '0644647211'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Maule 78580 ⚡ Panne, installation, réparation électrique.
   Dépannage 24h/7j. Intervention immédiate. Artisan qualifié. Devis gratuit!

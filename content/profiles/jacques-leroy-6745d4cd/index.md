@@ -27,7 +27,7 @@ services:
   - Prise & interrupteur
   - Tableau électrique
   - Mise aux normes
-phone: 01 74 03 76 59
+phone: "06 44 64 48 24"
 phone_href: '+33174037659'
 available_24_7: true
 rating: 4.7

@@ -23,7 +23,7 @@ services:
   - Rénovation complète
   - Domotique
   - Diagnostic électrique
-phone: 01 74 03 73 93
+phone: "06 44 64 48 24"
 phone_href: '+33174037393'
 available_24_7: true
 rating: 4.9

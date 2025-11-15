@@ -6,8 +6,8 @@ zipCode: '78180'
 department: '78'
 keyword: Urgence Électricien Montigny-Le-Bretonneux 78180
 company: Services Montigny-le-Bretonneux
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Montigny-Le-Bretonneux 78180 ⚡ Installation, réparation,
   panne. Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan

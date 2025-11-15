@@ -6,8 +6,8 @@ zipCode: '77220'
 department: '77'
 keyword: Dépannage Électricien Tournan-En-Brie
 company: AideLumière77
-phone: 06 44 60 80 61
-phoneRaw: 0644608061
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Tournan-En-Brie 77220 ⚡ Panne, tableau, court-circuit.
   Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!

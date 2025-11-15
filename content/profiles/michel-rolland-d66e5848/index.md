@@ -25,7 +25,7 @@ services:
   - VMC
   - Borne recharge VE
   - Chauffage électrique
-phone: 01 74 03 75 40
+phone: "06 44 64 48 24"
 phone_href: '+33174037540'
 available_24_7: false
 rating: 4.7

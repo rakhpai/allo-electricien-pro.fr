@@ -6,8 +6,8 @@ zipCode: '95290'
 department: '95'
 keyword: Électricien Urgence L'isle-Adam
 company: CircuitVolt95
-phone: 06 44 64 46 99
-phoneRaw: 0644644699
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien L'isle-Adam 95290 ⚡ Installation, tableau, panne électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. CircuitVolt95 certifié.

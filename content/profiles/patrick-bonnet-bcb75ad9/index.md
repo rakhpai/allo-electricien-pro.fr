@@ -25,7 +25,7 @@ services:
   - Borne recharge VE
   - Mise aux normes
   - Dépannage urgence
-phone: 01 74 03 75 94
+phone: "06 44 64 48 24"
 phone_href: '+33174037594'
 available_24_7: false
 rating: 4.7

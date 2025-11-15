@@ -27,7 +27,7 @@ services:
   - Domotique
   - VMC
   - Tableau électrique
-phone: 01 74 03 77 68
+phone: "06 44 64 48 24"
 phone_href: '+33174037768'
 available_24_7: false
 rating: 4.7

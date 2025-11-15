@@ -4,11 +4,11 @@ slug: mise-aux-normes-paris
 city: Paris
 zipCode: '75000'
 company: Allo Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 department: '75'
 draft: false
-description: "Mise aux normes électrique Paris - Conformité NF C 15-100, diagnostic avant vente, certificat Consuel. Électricien qualifié tous arrondissements ☎️ 01 44 90 11 31"
+description: "Mise aux normes électrique Paris - Conformité NF C 15-100, diagnostic avant vente, certificat Consuel. Électricien qualifié tous arrondissements ☎️ 06 44 64 48 24"
 sitemap:
   priority: 0.85
   changefreq: weekly
@@ -20,7 +20,7 @@ sitemap:
 
 Votre **installation électrique** ne répond plus aux normes actuelles ? Nos **électriciens certifiés** réalisent la **mise aux normes NF C 15-100** de votre logement à Paris : diagnostic gratuit, travaux de conformité, obtention certificat Consuel.
 
-**☎️ 01 44 90 11 31** - Devis gratuit - Électricien qualifié
+**☎️ 06 44 64 48 24** - Devis gratuit - Électricien qualifié
 
 ---
 
@@ -384,7 +384,7 @@ Conditions à vérifier selon ressources et nature des travaux.
 
 Besoin d'un **diagnostic électrique gratuit** et d'un devis pour mise aux normes ?
 
-### ☎️ **01 44 90 11 31**
+### ☎️ **06 44 64 48 24**
 ### Diagnostic gratuit - Devis détaillé sous 48h
 
 **Disponible du lundi au samedi** - Tous arrondissements Paris

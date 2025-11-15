@@ -6,8 +6,8 @@ zipCode: '94550'
 department: '94'
 keyword: Électricien 24/7 Chevilly-Larue 94550
 company: CHEVILLY-LARUELight
-phone: 06 44 64 22 80
-phoneRaw: 0644642280
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Appelez nous en toute confiance Puteaux
 niche: électricité
 kwSource: électricité

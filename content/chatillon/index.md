@@ -6,8 +6,8 @@ zipCode: '92320'
 department: '92'
 keyword: Électricien d'Urgence Chatillon
 company: AmpèreExpert92
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'Urgence Chatillon 92320 ⚡ Panne, tableau électrique,
   court-circuit. Intervention immédiate 24h/7j. AmpèreExpert92 certifié. Devis

@@ -23,7 +23,7 @@ services:
   - Dépannage urgence
   - Installation électrique
   - Mise aux normes
-phone: 01 45 22 71 19
+phone: "06 44 64 48 24"
 phone_href: '+33145227119'
 available_24_7: false
 rating: 5

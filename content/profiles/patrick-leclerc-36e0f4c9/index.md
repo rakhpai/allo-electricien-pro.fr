@@ -23,7 +23,7 @@ services:
   - Mise aux normes
   - Dépannage urgence
   - Éclairage
-phone: 01 74 72 46 67
+phone: "06 44 64 48 24"
 phone_href: '+33174724667'
 available_24_7: false
 rating: 5

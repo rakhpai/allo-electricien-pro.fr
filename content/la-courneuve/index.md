@@ -6,8 +6,8 @@ zipCode: '93120'
 department: '93'
 keyword: Intervention Électricien La courneuve 93120
 company: LA COURNEUVEDépanne
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien La Courneuve 93120 ⚡ Réparation, installation, panne.
   Dépannage 24h/7j. Artisan certifié. Intervention express. Devis gratuit!

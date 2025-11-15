@@ -163,7 +163,7 @@ Si le grésillement s'accompagne de :
 
 **ÉTAPE 3 : APPELER SOS ÉLECTRICIEN IMMÉDIATEMENT**
 
-☎️ **06 44 95 55 55** - Urgence tableau électrique Paris 24/7
+☎️ **06 44 64 48 24** - Urgence tableau électrique Paris 24/7
 
 **Précisez au téléphone** :
 - "Mon tableau grésille"
@@ -330,7 +330,7 @@ Si le grésillement s'accompagne de :
 
 **Votre tableau électrique grésille à Paris ? URGENCE - Intervention <30 minutes garantie**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris - Tableau Électrique Urgence 24/7 - Prévention Incendie
 
 *Tableau électrique grésille - Bruit tableau électrique - Dépannage urgence Paris - SOS électricien 24h*

@@ -6,8 +6,8 @@ zipCode: '92230'
 department: '92'
 keyword: Électricien 24/7 Gennevilliers 92230
 company: Watt92Pro
-phone: 06 44 64 36 86
-phoneRaw: 0644643686
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Gennevilliers 92230 ⚡ Panne, installation, réparation.
   Intervention express garantie. Devis gratuit immédiat. Watt92Pro certifié.

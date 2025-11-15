@@ -6,8 +6,8 @@ zipCode: '77410'
 department: '77'
 keyword: Intervention Électricien Claye-Souilly
 company: ElectroSecours Claye-Souilly
-phone: 06 44 64 02 82
-phoneRaw: 0644640282
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Claye-Souilly 77410 ⚡ Réparation, installation, panne
   électrique. Dépannage urgence 24h/7j. Artisan certifié. Devis gratuit!

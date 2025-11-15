@@ -25,7 +25,7 @@ services:
   - VMC
   - Éclairage
   - Domotique
-phone: 01 74 03 74 49
+phone: "06 44 64 48 24"
 phone_href: '+33174037449'
 available_24_7: false
 rating: 4.7

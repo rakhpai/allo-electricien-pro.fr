@@ -6,8 +6,8 @@ zipCode: '91580'
 department: '91'
 keyword: Électricien d'Urgence Etrechy 91580
 company: ElectroSecours Étréchy
-phone: 06 44 64 71 75
-phoneRaw: '0644647175'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Etrechy 91580 ⚡ Court-circuit, panne tableau,
   installation. Intervention 24h/7j. Artisan certifié. Devis gratuit. Appelez

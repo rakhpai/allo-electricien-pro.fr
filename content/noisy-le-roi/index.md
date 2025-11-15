@@ -6,8 +6,8 @@ zipCode: '78590'
 department: '78'
 keyword: Électricien 24/7 Noisy-Le-Roi
 company: NOISY-LE-ROILight
-phone: 06 44 64 44 15
-phoneRaw: '0644644415'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Noisy-Le-Roi 78590 ⚡ Panne, installation, réparation
   électrique. Intervention immédiate. Artisan certifié. Devis gratuit. Appelez

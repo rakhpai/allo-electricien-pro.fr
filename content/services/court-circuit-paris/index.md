@@ -4,11 +4,11 @@ slug: court-circuit-paris
 city: Paris
 zipCode: '75000'
 company: Allo Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 department: '75'
 draft: false
-description: "Court-circuit à Paris ? Intervention urgente 24h/24 dans tous les arrondissements. Recherche de panne, sécurisation, réparation immédiate. ☎️ 01 44 90 11 31"
+description: "Court-circuit à Paris ? Intervention urgente 24h/24 dans tous les arrondissements. Recherche de panne, sécurisation, réparation immédiate. ☎️ 06 44 64 48 24"
 sitemap:
   priority: 0.9
   changefreq: weekly
@@ -18,7 +18,7 @@ sitemap:
 
 ## Court-Circuit Électrique ? Appelez Maintenant pour Intervention Rapide
 
-**☎️ 01 44 90 11 31** - Électricien disponible 24h/24 - Intervention <30 minutes
+**☎️ 06 44 64 48 24** - Électricien disponible 24h/24 - Intervention <30 minutes
 
 Un **court-circuit** est une situation d'urgence électrique qui nécessite une intervention rapide. Nos électriciens interviennent **en moins de 30 minutes** partout à Paris pour identifier, sécuriser et réparer votre installation.
 
@@ -152,7 +152,7 @@ Nos électriciens spécialisés en **recherche de court-circuit** interviennent 
 2. Débranchez tous les appareils électriques
 3. Si odeur de brûlé ou fumée : évacuez et appelez pompiers
 4. N'essayez PAS de réarmer vous-même
-5. Appelez un électricien d'urgence : 01 44 90 11 31
+5. Appelez un électricien d'urgence : 06 44 64 48 24
 
 **Puis-je réarmer mon disjoncteur après un court-circuit ?**
 NON. Si votre disjoncteur saute à cause d'un court-circuit (déclenche instantanément), ne le réarmez PAS. Le court-circuit est toujours présent et vous risquez l'incendie. Appelez un électricien.
@@ -189,7 +189,7 @@ Les immeubles haussmanniens ont souvent des installations électriques de 50+ an
 
 Un court-circuit est une **urgence électrique** qui peut dégénérer en incendie en quelques minutes. Ne prenez aucun risque.
 
-### 📞 **01 44 90 11 31**
+### 📞 **06 44 64 48 24**
 ### Électricien spécialisé court-circuit - Intervention <30 min
 
 **Disponible 24h/24** - Même nuit, dimanche et jours fériés

@@ -6,8 +6,8 @@ zipCode: '77260'
 department: '77'
 keyword: Intervention Électricien La ferte-Sous-Jouarre
 company: AmpèreFix77
-phone: 06 44 64 48 88
-phoneRaw: 0644644888
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien La Ferté-Sous-Jouarre 77260 ⚡ Panne électrique, réparation,
   installation. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit!

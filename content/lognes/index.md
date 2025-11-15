@@ -6,8 +6,8 @@ zipCode: '77185'
 department: '77'
 keyword: Électricien d'Urgence Lognes
 company: AmpèreExpress
-phone: 06 44 64 44 88
-phoneRaw: 0644644488
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Lognes 77185 ⚡ Panne électrique, installation,
   réparation. Intervention immédiate 24h/7j. Devis gratuit. AmpèreExpress

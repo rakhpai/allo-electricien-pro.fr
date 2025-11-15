@@ -6,8 +6,8 @@ zipCode: '95190'
 department: '95'
 keyword: Électricien Urgence GOUSSAINVILLE
 company: GOUSSAINVILLEExpert
-phone: 06 44 75 45 35
-phoneRaw: '0644754535'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence GOUSSAINVILLE 95 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez

@@ -6,8 +6,8 @@ zipCode: '94360'
 department: '94'
 keyword: Électricien Urgence Bry-Sur-Marne
 company: Urgence91
-phone: 06 44 64 44 88
-phoneRaw: 0644644488
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Bry-Sur-Marne 94360 ⚡ Panne, installation, dépannage
   électrique. Service 24h/7j. Intervention express. Devis gratuit. Urgence91

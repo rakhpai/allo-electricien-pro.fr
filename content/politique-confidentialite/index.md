@@ -23,7 +23,7 @@ Les données personnelles collectées sur le site **allo-electricien.pro** sont 
 **Raison sociale :** ECLAT RAPIDE ELECTRICITE
 **Adresse :** 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
 **Email :** contact@allo-electricien.pro
-**Téléphone :** 01 44 90 11 31
+**Téléphone :** 06 44 64 48 24
 
 **Délégué à la Protection des Données (DPO) :** Non requis (PME)
 
@@ -303,7 +303,7 @@ Cette Politique de Confidentialité est régie par le droit français et conform
 Pour toute question concernant cette Politique de Confidentialité ou le traitement de vos données personnelles :
 
 **Email :** contact@allo-electricien.pro
-**Téléphone :** 01 44 90 11 31
+**Téléphone :** 06 44 64 48 24
 **Adresse :** ECLAT RAPIDE ELECTRICITE, 55-69 Avenue de Fontainebleau, 94270 Le Kremlin-Bicêtre, France
 
 **Délégué à la Protection des Données (DPO) :** Non requis (PME)

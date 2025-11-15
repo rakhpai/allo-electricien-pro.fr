@@ -6,8 +6,8 @@ zipCode: '94420'
 department: '94'
 keyword: Électricien d'Urgence Le plessis-Trevise
 company: AidePower94
-phone: 06 44 60 43 09
-phoneRaw: 0644604309
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Le Plessis-Trevise 94420 ⚡ Installation, réparation,
   panne électrique. Dépannage immédiat 24h/7j. Devis gratuit. Artisan certifié

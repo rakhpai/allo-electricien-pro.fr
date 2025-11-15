@@ -6,8 +6,8 @@ zipCode: '91270'
 department: '91'
 keyword: Électricien 24/7 Vigneux-Sur-Seine
 company: CircuitPlus91
-phone: 06 44 64 05 55
-phoneRaw: '0644640555'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Vigneux-Sur-Seine 91270 ⚡ Panne, tableau électrique,
   court-circuit. Intervention rapide garantie. Devis gratuit immédiat.

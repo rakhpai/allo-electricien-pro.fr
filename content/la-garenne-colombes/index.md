@@ -6,8 +6,8 @@ zipCode: '92250'
 department: '92'
 keyword: Électricien Urgence LA GARENNE-COLOMBES
 company: LAGARENNECOLOMBESExpert
-phone: 06 44 72 42 32
-phoneRaw: '0644724232'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence LA GARENNE-COLOMBES 92 ⚡ Court-circuit, panne,
   installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.

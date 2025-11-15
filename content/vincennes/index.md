@@ -6,8 +6,8 @@ zipCode: '94300'
 department: '94'
 keyword: Électricien Urgence Vincennes
 company: Moreau94
-phone: 06 44 64 51 25
-phoneRaw: '0644645125'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Vincennes 94300 ⚡ Réparation panne, tableau électrique,
   court-circuit. Intervention 24h/7j rapide. Devis gratuit immédiat. Moreau94.

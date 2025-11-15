@@ -23,7 +23,7 @@ services:
   - Éclairage
   - Rénovation complète
   - Borne recharge VE
-phone: 01 74 03 74 90
+phone: "06 44 64 48 24"
 phone_href: '+33174037490'
 available_24_7: true
 rating: 4.8

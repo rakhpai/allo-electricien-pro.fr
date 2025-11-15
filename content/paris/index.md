@@ -35,8 +35,8 @@ zipCode: '75001'
 department: '75'
 keyword: SOS Électricien Paris
 company: Watt75
-phone: 06 44 64 46 99
-phoneRaw: 0644644699
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Services d'urgence 24/24 7/7 Paris
 niche: électricité
 kwSource: électricité

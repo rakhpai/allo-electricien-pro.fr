@@ -6,8 +6,8 @@ zipCode: '75004'
 department: '75'
 keyword: Électricien Urgence Paris 4e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: 0644955555
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Paris 4e (75004) ⚡ Dépannage électricité urgence <30min Hôtel
   de Ville, Notre-Dame, Bastille, Marais. Panne, court-circuit 24/7. ☎️ 06 44 95
@@ -241,7 +241,7 @@ seoContentWordCount: 683
 
 **Panne électrique Hôtel de Ville, Notre-Dame ou Bastille ?** Notre service **SOS électricien Paris 4e** intervient en urgence 24h/24 dans tout le 4e arrondissement : Île de la Cité, Île Saint-Louis, Le Marais, Hôtel de Ville, Bastille. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 4e - Secteur Îles & Marais
 
@@ -299,7 +299,7 @@ Notre **électricien Paris 4e** maîtrise les interventions en secteur sauvegard
 
 **Urgence électrique Paris 4e ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 *Électricien Paris 4e - Dépannage électricité urgent Île de la Cité, Marais, Bastille. Spécialiste monuments historiques. Service 24h/24.*

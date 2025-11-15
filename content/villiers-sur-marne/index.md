@@ -6,8 +6,8 @@ zipCode: '94350'
 department: '94'
 keyword: Intervention Électricien Villiers-Sur-Marne 94350
 company: VoltMaster94
-phone: 06 44 60 07 27
-phoneRaw: '0644600727'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Villiers-Sur-Marne 94350 ⚡ Réparation, panne, tableau
   électrique. Service d'urgence 24h/7j. Devis gratuit. VoltMaster94 certifié.

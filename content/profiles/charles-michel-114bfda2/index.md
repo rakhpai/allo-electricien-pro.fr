@@ -25,7 +25,7 @@ services:
   - Chauffage électrique
   - Tableau électrique
   - Installation électrique
-phone: 01 74 03 75 47
+phone: "06 44 64 48 24"
 phone_href: '+33174037547'
 available_24_7: false
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '78280'
 department: '78'
 keyword: Électricien Urgence Guyancourt
 company: VoltGUYANCOURT
-phone: 06 44 64 28 18
-phoneRaw: 0644642818
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Urgence Guyancourt 78280 ⚡ Panne, tableau électrique,
   court-circuit. Dépannage 24h/7j. Intervention immédiate. Devis gratuit.

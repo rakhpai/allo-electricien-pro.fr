@@ -6,8 +6,8 @@ zipCode: '92700'
 department: '92'
 keyword: Dépannage Électricien Colombes 92700
 company: COLOMBESFlash
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Colombes 92700 ⚡ Panne, tableau électrique,
   court-circuit. Intervention immédiate 24h/7j. COLOMBESFlash certifié. Devis

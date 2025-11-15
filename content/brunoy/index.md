@@ -6,8 +6,8 @@ zipCode: '91800'
 department: '91'
 keyword: Urgence Électricien Brunoy
 company: BRUNOYAide
-phone: 06 44 60 07 27
-phoneRaw: '0644600727'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Brunoy 91800 ⚡ Panne, court-circuit, tableau électrique.
   Intervention 24h/7j immédiate. Rapide et fiable. Devis gratuit. Artisan

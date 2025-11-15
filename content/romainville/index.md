@@ -6,8 +6,8 @@ zipCode: '93230'
 department: '93'
 keyword: Électricien Urgence Romainville
 company: RapideÉlec93
-phone: 06 44 60 04 17
-phoneRaw: '0644600417'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Romainville 93230 ⚡ Panne électrique, dépannage tableau,
   installation. Service 24h/7j. Artisan certifié. Intervention immédiate. Devis

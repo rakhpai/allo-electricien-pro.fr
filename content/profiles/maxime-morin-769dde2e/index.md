@@ -25,7 +25,7 @@ services:
   - VMC
   - Éclairage
   - Installation électrique
-phone: 01 74 03 74 41
+phone: "06 44 64 48 24"
 phone_href: '+33174037441'
 available_24_7: false
 rating: 4.7

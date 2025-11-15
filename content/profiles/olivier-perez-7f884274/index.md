@@ -25,7 +25,7 @@ services:
   - Diagnostic électrique
   - Prise & interrupteur
   - Rénovation complète
-phone: 01 74 72 46 12
+phone: "06 44 64 48 24"
 phone_href: '+33174724612'
 available_24_7: false
 rating: 4.7

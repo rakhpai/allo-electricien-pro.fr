@@ -4,7 +4,7 @@ title = "SOS Électricien Paris | Dépannage Électricité Urgence 24/7 IDF"
 enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
 
 [params]
-  description = "SOS Électricien Paris & IDF ⚡ Dépannage électricité en urgence <30min. 410 professionnels 24/7. Court-circuit, panne totale, installation. ☎️ 01 44 90 11 31"
+  description = "SOS Électricien Paris & IDF ⚡ Dépannage électricité en urgence <30min. 410 professionnels 24/7. Court-circuit, panne totale, installation. ☎️ 06 44 64 48 24"
 
   # Company Information
   companyName = "ECLAT RAPIDE ELECTRICITE"
@@ -18,8 +18,8 @@ enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
   country = "France"
 
   # Contact
-  mainPhone = "01 44 90 11 31"
-  mainPhoneRaw = "0144901131"
+  mainPhone = "06 44 64 48 24"
+  mainPhoneRaw = "0644644824"
   email = "contact@allo-electricien.pro"
 
   # WhatsApp Contact

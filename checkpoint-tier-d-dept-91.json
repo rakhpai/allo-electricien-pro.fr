@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:01:03.395Z",
-  "lastUpdate": "2025-11-15T17:01:03.395Z",
+  "startTime": "2025-11-15T17:29:15.270Z",
+  "lastUpdate": "2025-11-15T17:29:15.270Z",
   "processed": {
     "total": 196,
-    "processed": 110,
-    "successful": 110,
+    "processed": 160,
+    "successful": 160,
     "failed": 0,
-    "totalInputTokens": 231422,
-    "totalOutputTokens": 247176
+    "totalInputTokens": 336658,
+    "totalOutputTokens": 360160
   },
-  "lastProcessedSlug": "/marolles-en-beauce",
+  "lastProcessedSlug": "/saint-maurice-montcouronne",
   "costs": {
-    "inputTokens": 231422,
-    "outputTokens": 247176,
-    "totalTokens": 478598,
-    "cost": 1.1738416,
-    "inputCost": 0.1851376,
-    "outputCost": 0.988704
+    "inputTokens": 336658,
+    "outputTokens": 360160,
+    "totalTokens": 696818,
+    "cost": 1.7099663999999999,
+    "inputCost": 0.2693264,
+    "outputCost": 1.44064
   }
 }

@@ -6,8 +6,8 @@ zipCode: '92380'
 department: '92'
 keyword: Dépannage Électricien Garches 92380
 company: AideÉlec92
-phone: 07 55 51 27 25
-phoneRaw: '0755512725'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Garches 92380 ⚡ Panne, tableau électrique,
   court-circuit. Urgence 24h/7j. Intervention immédiate. Devis gratuit.

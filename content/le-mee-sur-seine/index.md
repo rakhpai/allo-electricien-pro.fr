@@ -6,8 +6,8 @@ zipCode: '77350'
 department: '77'
 keyword: Dépannage Électricien Le mee-Sur-Seine 77350
 company: LE MEE-SUR-SEINEFlash
-phone: 06 44 64 87 01
-phoneRaw: 0644648701
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Le Mee-Sur-Seine 77350 ⚡ Panne, court-circuit, tableau.
   Service 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!

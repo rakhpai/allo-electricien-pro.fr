@@ -6,8 +6,8 @@ zipCode: '93130'
 department: '93'
 keyword: Urgence Électricien Noisy-Le-Sec 93130
 company: RapideAmpère93
-phone: 07 56 79 88 58
-phoneRaw: 0756798858
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Urgence et dépannage Noisy-le-Sec
 niche: électricité
 kwSource: électricité

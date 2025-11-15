@@ -25,7 +25,7 @@ services:
   - Dépannage urgence
   - VMC
   - Installation électrique
-phone: 01 74 72 47 20
+phone: "06 44 64 48 24"
 phone_href: '+33174724720'
 available_24_7: false
 rating: 4.7

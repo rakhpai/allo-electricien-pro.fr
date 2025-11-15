@@ -6,8 +6,8 @@ zipCode: '95460'
 department: '95'
 keyword: Urgence Électricien Ezanville
 company: WattPro95
-phone: 06 44 64 67 02
-phoneRaw: '0644646702'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Ezanville 95460 ⚡ Panne, installation, réparation.
   Dépannage 24h/7j. Intervention express. Devis gratuit. WattPro95 certifié.

@@ -6,8 +6,8 @@ zipCode: '92270'
 department: '92'
 keyword: Dépannage Électricien Bois-Colombes 92270
 company: BOIS-COLOMBESFlash
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Bois-Colombes 92270 ⚡ Panne, installation,
   court-circuit. Urgence 24h/7j. Artisan certifié. Intervention immédiate. Devis

@@ -23,7 +23,7 @@ services:
   - Mise aux normes
   - Éclairage
   - VMC
-phone: 01 76 21 30 45
+phone: "06 44 64 48 24"
 phone_href: '+33176213045'
 available_24_7: true
 rating: 4.8

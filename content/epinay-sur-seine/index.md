@@ -6,8 +6,8 @@ zipCode: '93800'
 department: '93'
 keyword: SOS Électricien Epinay-Sur-Seine
 company: FixWatt93
-phone: 07 56 79 95 59
-phoneRaw: 0756799559
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Epinay-Sur-Seine 93800 ⚡ Court-circuit, panne, installation.
   Dépannage 24h/7j. Intervention rapide. Devis gratuit. Artisan certifié

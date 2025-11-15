@@ -8,8 +8,8 @@ zipCode: '95530'
 department: '95'
 keyword: Électricien d'Urgence La frette-Sur-Seine 95530
 company: AmpèrePlus95
-phone: 06 44 60 02 88
-phoneRaw: 0644600288
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Pour un travail de top La Frette-sur-Seine
 niche: électricité
 kwSource: électricité

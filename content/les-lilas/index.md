@@ -6,8 +6,8 @@ zipCode: '93260'
 department: '93'
 keyword: SOS Électricien Les lilas 93260
 company: LES LILAS Light
-phone: 06 44 64 95 05
-phoneRaw: 0644649505
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Les lilas 93260 ⚡ Installation, réparation, panne électrique.
   Urgence 24h/7j. Intervention rapide. Devis gratuit. LES LILAS Light certifié.

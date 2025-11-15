@@ -4,14 +4,14 @@ slug: depannage-electricite-paris
 city: Paris
 zipCode: '75000'
 company: Allo Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 department: '75'
 draft: false
 description: >-
   Dépannage électricité Paris - Intervention rapide dans les 20 arrondissements.
   Panne de courant, court-circuit, tableau électrique. Électricien qualifié
-  24h/24. Devis gratuit ☎️ 01 44 90 11 31
+  24h/24. Devis gratuit ☎️ 06 44 64 48 24
 sitemap:
   priority: 0.95
   changefreq: daily
@@ -42,7 +42,7 @@ localContext: au cœur de Paris
 
 **Panne électrique à Paris ?** Notre réseau d'**électriciens professionnels** intervient **24h/24 et 7j/7** pour tout dépannage électricité dans la capitale. **Intervention garantie en moins de 30 minutes** dans tous les arrondissements de Paris.
 
-**☎️ 01 44 90 11 31** - Devis gratuit - Électricien disponible maintenant
+**☎️ 06 44 64 48 24** - Devis gratuit - Électricien disponible maintenant
 
 ---
 
@@ -258,7 +258,7 @@ Aucune facturation sans votre accord préalable.
 
 ### Besoin d'un Dépannage Électrique Maintenant ?
 
-**Appelez le 01 44 90 11 31** - Un conseiller vous répond immédiatement, évalue votre problème et dépêche l'électricien le plus proche de votre arrondissement.
+**Appelez le 06 44 64 48 24** - Un conseiller vous répond immédiatement, évalue votre problème et dépêche l'électricien le plus proche de votre arrondissement.
 
 **Disponible 24h/24 et 7j/7** pour tous vos dépannages électriques à Paris, qu'ils soient urgents ou planifiés.
 
@@ -276,7 +276,7 @@ Oui, notre service de dépannage électricité fonctionne 7j/7, y compris les di
 1. Vérifiez si vos voisins ont aussi du courant (problème ENEDIS ?)
 2. Contrôlez votre disjoncteur général (position ON ?)
 3. Ne touchez pas au tableau si odeur de brûlé
-4. Appelez-nous au 01 44 90 11 31 pour intervention rapide
+4. Appelez-nous au 06 44 64 48 24 pour intervention rapide
 
 **Un électricien peut-il intervenir la nuit à Paris ?**
 Absolument. Notre service de dépannage électricité Paris est disponible 24h/24, y compris la nuit. Un électricien peut intervenir à 2h du matin si nécessaire.
@@ -302,7 +302,7 @@ Oui, toutes nos interventions sont garanties. En cas de problème suite à notre
 
 **Besoin d'un dépannage électricité à Paris ? N'attendez plus !**
 
-## ☎️ 01 44 90 11 31
+## ☎️ 06 44 64 48 24
 ### Électricien disponible maintenant - Intervention rapide garantie
 
 ---

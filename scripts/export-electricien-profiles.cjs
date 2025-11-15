@@ -146,7 +146,7 @@ async function loadCommunesFromPages() {
  */
 function transformProfile(profile, phone, isPrimary = false) {
   // Format phone: raw "0176213061" -> display "01 76 21 30 61" + href "+33176213061"
-  const rawPhone = phone || '0144901131';
+  const rawPhone = phone || '0644644824';
 
   // Remove leading 0 and format for display: "01 76 21 30 61"
   const phoneDisplay = rawPhone.replace(/^0/, '0').replace(/(\d{2})(\d{2})(\d{2})(\d{2})(\d{2})/, '$1 $2 $3 $4 $5');

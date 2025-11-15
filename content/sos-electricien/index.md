@@ -4,7 +4,7 @@ slug: sos-electricien
 description: >-
   SOS Électricien disponible MAINTENANT ! Panne totale, court-circuit, plus de
   courant ? Intervention urgente garantie en -30min partout à Paris et
-  Île-de-France. Appelez 01 44 90 11 31
+  Île-de-France. Appelez 06 44 64 48 24
 draft: false
 sitemap:
   priority: 1
@@ -34,7 +34,7 @@ localContext: dans les Yvelines
 
 ## Panne Électrique MAINTENANT ? Appelez Immédiatement !
 
-**☎️ 01 44 90 11 31** - Intervention garantie en moins de 30 minutes
+**☎️ 06 44 64 48 24** - Intervention garantie en moins de 30 minutes
 
 ---
 
@@ -136,7 +136,7 @@ Notre service d'urgence électrique couvre **l'intégralité de Paris en moins d
 ## 📞 Comment Fonctionne Notre Service SOS Électricien ?
 
 ### Étape 1 : Appel Urgent - Disponible 24/7
-Appelez le **01 44 90 11 31** dès maintenant. Un conseiller répond **immédiatement**, évalue votre situation et dépêche l'électricien le plus proche.
+Appelez le **06 44 64 48 24** dès maintenant. Un conseiller répond **immédiatement**, évalue votre situation et dépêche l'électricien le plus proche.
 
 ### Étape 2 : Intervention Rapide <30min
 L'électricien intervient **en moins de 30 minutes** à Paris et proche banlieue, équipé pour résoudre votre problème sur place.
@@ -209,7 +209,7 @@ Oui, notre service SOS Électricien intervient pour les **particuliers ET les pr
 
 **Ne prenez aucun risque** avec votre sécurité et celle de votre famille. Notre équipe **SOS Électricien** est mobilisée **24h/24** pour intervenir en urgence.
 
-### 📞 **01 44 90 11 31**
+### 📞 **06 44 64 48 24**
 ### Intervention garantie <30 minutes à Paris
 
 **Disponible MAINTENANT** - 7 jours sur 7, même la nuit et jours fériés

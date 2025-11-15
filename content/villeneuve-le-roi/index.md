@@ -6,8 +6,8 @@ zipCode: '94290'
 department: '94'
 keyword: Urgence Électricien Villeneuve-Le-Roi
 company: RapidePower94
-phone: 06 44 64 35 05
-phoneRaw: '0644643505'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Villeneuve-Le-Roi 94290 ⚡ Panne, installation,
   court-circuit. Dépannage 24h/7j. RapidePower94 certifié. Intervention

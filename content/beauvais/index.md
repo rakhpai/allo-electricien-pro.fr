@@ -6,8 +6,8 @@ zipCode: '60155'
 department: '60'
 keyword: Électricien Urgence Beauvais 60155
 company: BEAUVAISAide91
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Urgence Beauvais 60155 ⚡ Réparation panne, installation,
   court-circuit. Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit!

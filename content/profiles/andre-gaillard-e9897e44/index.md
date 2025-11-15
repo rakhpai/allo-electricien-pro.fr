@@ -25,7 +25,7 @@ services:
   - Tableau électrique
   - Chauffage électrique
   - Dépannage urgence
-phone: 01 74 03 76 81
+phone: "06 44 64 48 24"
 phone_href: '+33174037681'
 available_24_7: false
 rating: 4.7

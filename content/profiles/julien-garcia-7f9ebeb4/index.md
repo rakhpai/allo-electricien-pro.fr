@@ -27,7 +27,7 @@ services:
   - Domotique
   - Mise aux normes
   - Tableau électrique
-phone: 01 76 21 36 93
+phone: "06 44 64 48 24"
 phone_href: '+33176213693'
 available_24_7: false
 rating: 4.7

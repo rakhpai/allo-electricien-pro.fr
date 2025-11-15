@@ -6,8 +6,8 @@ zipCode: '91090'
 department: '91'
 keyword: Électricien 24/7 Lisses
 company: VoltAide91
-phone: 06 44 64 35 05
-phoneRaw: '0644643505'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Lisses 91090 ⚡ Court-circuit, panne, tableau électrique.
   Intervention immédiate. Artisan certifié. Devis gratuit. VoltAide91 disponible

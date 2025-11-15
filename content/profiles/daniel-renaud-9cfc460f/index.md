@@ -27,7 +27,7 @@ services:
   - Mise aux normes
   - Domotique
   - Chauffage électrique
-phone: 01 74 03 74 81
+phone: "06 44 64 48 24"
 phone_href: '+33174037481'
 available_24_7: true
 rating: 4.7

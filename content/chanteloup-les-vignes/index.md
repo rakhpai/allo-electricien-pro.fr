@@ -6,8 +6,8 @@ zipCode: '78570'
 department: '78'
 keyword: Urgence Électricien Chanteloup-Les-Vignes
 company: FixWatt92
-phone: 06 44 64 36 86
-phoneRaw: 0644643686
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Chanteloup-Les-Vignes 78570 ⚡ Panne, installation,
   réparation. Dépannage 24h/7j. FixWatt92 certifié. Intervention immédiate.

@@ -6,8 +6,8 @@ zipCode: '93300'
 department: '93'
 keyword: Électricien Urgence Aubervilliers 93300
 company: DépanneWatt77
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Aubervilliers 93300 ⚡ Installation, réparation, panne électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. DépanneWatt77 certifié.

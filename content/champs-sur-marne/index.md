@@ -6,8 +6,8 @@ zipCode: '77420'
 department: '77'
 keyword: Électricien d'Urgence Champs-Sur-Marne
 company: LightPro75
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Champs-Sur-Marne 77420 ⚡ Panne, installation, tableau
   électrique. Dépannage 24h/7j. Intervention immédiate. Devis gratuit.

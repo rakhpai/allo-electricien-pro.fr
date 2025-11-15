@@ -6,8 +6,8 @@ zipCode: '95470'
 department: '95'
 keyword: Électricien Urgence FOSSES
 company: FOSSESExpert
-phone: 06 44 75 45 35
-phoneRaw: '0644754535'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence FOSSES 95 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez

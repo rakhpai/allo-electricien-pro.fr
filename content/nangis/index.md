@@ -8,8 +8,8 @@ zipCode: '77370'
 department: '77'
 keyword: Intervention Électricien Nangis 77370
 company: NANGISLight
-phone: 06 44 64 10 17
-phoneRaw: '0644641017'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Solutions rapides Nangis
 niche: électricité
 kwSource: électricité

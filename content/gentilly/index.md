@@ -35,8 +35,8 @@ zipCode: '94250'
 department: '94'
 keyword: SOS Électricien Gentilly
 company: DépannePlus94
-phone: 06 44 60 84 33
-phoneRaw: 0644608433
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Gentilly 94250 ⚡ Panne, installation, réparation électrique.
   Urgence 24h/7j. Intervention express. Devis gratuit. DépannePlus94 certifié.

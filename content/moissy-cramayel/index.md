@@ -6,8 +6,8 @@ zipCode: '77550'
 department: '77'
 keyword: Dépannage Électricien Moissy-Cramayel 77550
 company: MOISSY-CRAMAYELExpert
-phone: 07 56 79 87 78
-phoneRaw: 0756798778
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Moissy-Cramayel 77550 ⚡ Installation, panne, réparation.
   Urgence 24h/7j immédiate. Intervention rapide. Devis gratuit. Expert certifié.

@@ -6,8 +6,8 @@ zipCode: '91170'
 department: '91'
 keyword: Électricien 24/7 Viry-Chatillon 91170
 company: VIRY-CHATILLONFlash
-phone: 06 44 60 04 17
-phoneRaw: '0644600417'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Viry-Chatillon 91170 ⚡ Panne, installation, réparation électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. VIRY-CHATILLONFlash

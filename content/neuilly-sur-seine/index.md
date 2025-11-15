@@ -6,8 +6,8 @@ zipCode: '92200'
 department: '92'
 keyword: Urgence Électricien Neuilly-Sur-Seine
 company: Ampère92
-phone: 06 44 64 35 05
-phoneRaw: '0644643505'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Neuilly-Sur-Seine 92200 ⚡ Panne, installation, réparation.
   Dépannage 24h/7j. Intervention immédiate. Devis gratuit. Ampère92 certifié.

@@ -8,8 +8,8 @@ zipCode: '92150'
 department: '92'
 keyword: Urgence Électricien Suresnes 92150
 company: Élec92
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Les meilleures solutions pour vos problème Suresnes
 niche: électricité
 kwSource: électricité

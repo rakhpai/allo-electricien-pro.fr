@@ -6,8 +6,8 @@ zipCode: '77700'
 department: '77'
 keyword: SOS Électricien Magny-Le-Hongre 77700
 company: Électricien Magny-le-Hongre
-phone: 06 44 64 22 80
-phoneRaw: 0644642280
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Magny-Le-Hongre 77700 ⚡ Panne, tableau électrique,
   court-circuit. Urgence 24h/7j. Dépannage express. Artisan certifié. Appelez

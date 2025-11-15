@@ -6,8 +6,8 @@ zipCode: '92170'
 department: '92'
 keyword: Urgence Électricien Vanves
 company: CircuitVanves
-phone: 06 44 64 28 18
-phoneRaw: 0644642818
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Vanves 92170 ⚡ Panne, réparation, installation.
   Intervention rapide 24h/7j. Dépannage garanti. Devis gratuit. CircuitVanves

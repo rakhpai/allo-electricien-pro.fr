@@ -6,8 +6,8 @@ zipCode: '77174'
 department: '77'
 keyword: Intervention Électricien Villeneuve-Saint-Denis
 company: ÉlecExpert77
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Villeneuve-Saint-Denis 77174 ⚡ Panne, dépannage,
   réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez

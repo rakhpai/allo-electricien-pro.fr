@@ -23,7 +23,7 @@ services:
   - Rénovation complète
   - Domotique
   - Chauffage électrique
-phone: 01 74 03 77 79
+phone: "06 44 64 48 24"
 phone_href: '+33174037779'
 available_24_7: false
 rating: 4.8

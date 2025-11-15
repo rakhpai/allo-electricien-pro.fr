@@ -63,7 +63,7 @@ Les **services d'urgence électrique à Paris** fonctionnent **en continu** :
 
 **Délai d'intervention dimanche** : **<30 minutes** en zone Paris/proche banlieue.
 
-☎️ **06 44 95 55 55** - SOS Électricien Paris Dimanche 24/7
+☎️ **06 44 64 48 24** - SOS Électricien Paris Dimanche 24/7
 
 ## Quelles Urgences Nécessitent un Électricien le Dimanche ?
 
@@ -281,7 +281,7 @@ En attendant lundi :
 
 **Urgence électrique un dimanche à Paris ? Intervention garantie <30 minutes, 7j/7**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris Dimanche - Dépannage Weekend & Jours Fériés - Disponible 24h/24
 
 *Électricien dimanche Paris - Dépannage électrique weekend - SOS électricien 24/7 - Intervention urgente*

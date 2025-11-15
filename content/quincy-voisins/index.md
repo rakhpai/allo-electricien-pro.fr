@@ -6,8 +6,8 @@ zipCode: '77860'
 department: '77'
 keyword: Électricien Urgence Quincy-Voisins
 company: FixWatt77
-phone: 06 44 60 14 99
-phoneRaw: 0644601499
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Quincy-Voisins 77860 ⚡ Panne, installation, réparation électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. FixWatt77 certifié.

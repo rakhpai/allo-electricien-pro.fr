@@ -6,8 +6,8 @@ zipCode: '95610'
 department: '95'
 keyword: Électricien Urgence Eragny
 company: AideÉlec95
-phone: 06 44 64 10 17
-phoneRaw: '0644641017'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Eragny 95610 ⚡ Panne, installation, réparation électrique.
   Intervention immédiate 24h/7j garantie. Devis gratuit. AideÉlec95 certifiée.

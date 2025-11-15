@@ -6,8 +6,8 @@ zipCode: '78310'
 department: '78'
 keyword: Dépannage Électricien Maurepas
 company: VoltMaurepas
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Maurepas 78310 ⚡ Installation, réparation, tableau.
   Urgence 24h/7j immédiate. Intervention express. Devis gratuit. VoltMaurepas

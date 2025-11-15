@@ -6,8 +6,8 @@ zipCode: '95490'
 department: '95'
 keyword: Électricien 24/7 Vaureal
 company: VoltMaster95
-phone: 06 44 64 02 82
-phoneRaw: 0644640282
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Vaureal 95490 ⚡ Panne, installation, tableau électrique.
   Intervention immédiate. Artisan certifié. Devis gratuit. Appelez maintenant!

@@ -6,8 +6,8 @@ zipCode: '95570'
 department: '95'
 keyword: Intervention Électricien Villaines-sous-Bois
 company: WattService95
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Villaines-sous-Bois 95570 ⚡ Panne, dépannage,
   réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez

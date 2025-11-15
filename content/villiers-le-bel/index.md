@@ -35,8 +35,8 @@ zipCode: '95400'
 department: '95'
 keyword: Dépannage Électricien Villiers-Le-Bel
 company: VilliersPower95
-phone: 07 56 79 88 58
-phoneRaw: 0756798858
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Pour un travail de top Villiers-le-Bel
 niche: électricité
 kwSource: électricité

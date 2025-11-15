@@ -6,9 +6,9 @@ zipCode: '75014'
 department: '75'
 keyword: Électricien Urgence Paris 14e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: >-
-  0644955555 SOS Électricien Paris 14e (75014) ⚡ Dépannage électricité urgence
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
+  06 44 64 48 24 SOS Électricien Paris 14e (75014) ⚡ Dépannage électricité urgence
   <30min Montparnasse, Denfert, Alésia. Panne, court-circuit 24/7. ☎️ 06 44 95
   55 55
 niche: électricité
@@ -241,7 +241,7 @@ seoContentWordCount: 675
 
 **Panne électrique Montparnasse ou Denfert, Alésia ?** Notre service **SOS électricien Paris 14e** intervient en urgence 24h/24. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 14e
 
@@ -278,7 +278,7 @@ seoContentWordCount: 675
 
 **Urgence électrique Paris 14e ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 *Électricien Paris 14e - Dépannage électricité urgent. Service professionnel 24h/24.*

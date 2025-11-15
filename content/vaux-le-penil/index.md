@@ -8,8 +8,8 @@ zipCode: '77000'
 department: '77'
 keyword: Électricien 24/7 Vaux-Le-Penil 77000
 company: VAUX-LE-PENILPro
-phone: 06 44 64 05 55
-phoneRaw: '0644640555'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: Vraies solutions en ce qui concerne vos soucis Vaux-le-Pénil
 niche: électricité
 kwSource: électricité

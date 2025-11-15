@@ -6,8 +6,8 @@ zipCode: '77680'
 department: '77'
 keyword: Intervention Électricien Roissy-En-Brie 77680
 company: DépanneÉlec77
-phone: 07 56 79 99 82
-phoneRaw: 0756799982
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Roissy-En-Brie 77680 ⚡ Installation, réparation, panne électrique.
   Intervention urgence 24h/7j garantie. Devis gratuit immédiat. DépanneÉlec77

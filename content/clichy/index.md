@@ -6,8 +6,8 @@ zipCode: '92110'
 department: '92'
 keyword: Intervention Électricien Clichy
 company: CLICHYLight
-phone: 06 44 60 60 40
-phoneRaw: '0644606040'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Clichy 92110 ⚡ Panne, installation, réparation.
   Service 24h/7j immédiat. Fiable et rapide. Devis gratuit. CLICHYLight

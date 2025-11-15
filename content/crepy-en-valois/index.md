@@ -6,8 +6,8 @@ zipCode: '60800'
 department: '93'
 keyword: Urgence Électricien Crepy-En-Valois
 company: CREPY-EN-VALOISExpert
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Crepy-En-Valois 60800 ⚡ Installation, réparation, panne
   électrique. Intervention 24h/7j. Devis gratuit. Artisan certifié disponible.

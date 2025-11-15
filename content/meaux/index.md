@@ -6,8 +6,8 @@ zipCode: '77100'
 department: '77'
 keyword: Dépannage Électricien Meaux 77100
 company: MEAUXFlash77
-phone: 06 44 64 31 33
-phoneRaw: '0644643133'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Meaux 77100 ⚡ Panne, installation, réparation tableau.
   Intervention immédiate 24h/7j. Devis gratuit. MEAUXFlash77 certifié.

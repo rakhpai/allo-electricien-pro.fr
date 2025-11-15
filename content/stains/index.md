@@ -6,8 +6,8 @@ zipCode: '93240'
 department: '93'
 keyword: SOS Électricien Stains
 company: STAINSLight
-phone: 06 44 60 04 17
-phoneRaw: '0644600417'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Stains 93240 ⚡ Tableau, court-circuit, panne électrique.
   Urgence 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!

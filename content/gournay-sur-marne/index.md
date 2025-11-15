@@ -6,8 +6,8 @@ zipCode: '93460'
 department: '93'
 keyword: Intervention Électricien Gournay-Sur-Marne 93460
 company: Circuit93
-phone: 07 56 79 87 78
-phoneRaw: 0756798778
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Gournay-Sur-Marne 93460 ⚡ Panne, réparation, tableau.
   Dépannage 24h/7j. Artisan certifié. Devis gratuit. Appelez maintenant!

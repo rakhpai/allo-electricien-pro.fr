@@ -6,8 +6,8 @@ zipCode: '94160'
 department: '94'
 keyword: Dépannage Électricien Saint-Mande
 company: SAINT-MANDELight
-phone: 06 44 64 36 86
-phoneRaw: 0644643686
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Saint-Mandé 94160 ⚡ Panne, installation, réparation.
   Intervention immédiate 24h/7j. Rapide et fiable. Devis gratuit.

@@ -112,7 +112,7 @@ L'eau est **conductrice d'électricité**. Les zones à risque :
 
 **RÉACTION** : Ne touchez à rien, coupez le disjoncteur général, appelez **SOS électricien immédiatement**.
 
-☎️ **06 44 95 55 55** - Intervention urgente Paris <30min
+☎️ **06 44 64 48 24** - Intervention urgente Paris <30min
 
 ### Signes avant-coureurs (intervention rapide conseillée)
 
@@ -243,7 +243,7 @@ Dans un **logement parisien moderne** conforme :
 
 **Court-circuit électrique à Paris ? Intervention urgente garantie <30 minutes**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris - Dépannage Court-Circuit 24h/24 - Tous arrondissements
 
 *Court-circuit Paris - Dépannage urgence électrique - SOS électricien 24/7 - Disjoncteur qui saute*

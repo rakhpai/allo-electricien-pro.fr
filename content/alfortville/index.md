@@ -6,8 +6,8 @@ zipCode: '94140'
 department: '94'
 keyword: Intervention Électricien Alfortville 94140
 company: Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Alfortville 94140 ⚡ Installation, panne, réparation. Intervention
   immédiate 24h/7j. Artisan certifié. Devis gratuit. Appelez maintenant!

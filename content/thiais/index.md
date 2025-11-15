@@ -6,8 +6,8 @@ zipCode: '94320'
 department: '94'
 keyword: Intervention Électricien Thiais
 company: Dépanne94
-phone: 06 44 64 35 05
-phoneRaw: '0644643505'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Thiais 94320 ⚡ Panne, installation, tableau
   électrique. Dépannage 24h/7j. Appel immédiat. Devis gratuit. Dépanne94

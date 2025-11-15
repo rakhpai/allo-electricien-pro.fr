@@ -38,7 +38,7 @@ localContext: dans les Yvelines
 
 Bienvenue dans l'**annuaire le plus complet des électriciens en Île-de-France**. Notre réseau regroupe **408 professionnels certifiés** répartis dans **8 départements** pour vous garantir une intervention rapide et de qualité, où que vous soyez.
 
-**☎️ 01 44 90 11 31** - Service disponible 24h/24 et 7j/7
+**☎️ 06 44 64 48 24** - Service disponible 24h/24 et 7j/7
 
 ---
 
@@ -203,7 +203,7 @@ Chaque fiche électricien indique :
 
 Besoin d'un électricien en urgence ou pour un projet planifié ?
 
-**Appelez le 01 44 90 11 31**
+**Appelez le 06 44 64 48 24**
 
 Notre service client vous met en relation avec l'électricien le plus proche de votre localisation, disponible immédiatement pour intervenir.
 

@@ -27,7 +27,7 @@ services:
   - Dépannage urgence
   - Rénovation complète
   - Mise aux normes
-phone: 01 74 03 77 30
+phone: "06 44 64 48 24"
 phone_href: '+33174037730'
 available_24_7: false
 rating: 4.7

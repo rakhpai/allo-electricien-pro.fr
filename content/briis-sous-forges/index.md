@@ -6,8 +6,8 @@ zipCode: '91640'
 department: '91'
 keyword: Électricien Urgence BRIIS-SOUS-FORGES
 company: BRIISSOUSFORGESExpert
-phone: 06 44 71 41 31
-phoneRaw: '0644714131'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence BRIIS-SOUS-FORGES 91 ⚡ Court-circuit, panne,
   installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.

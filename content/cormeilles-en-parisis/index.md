@@ -6,8 +6,8 @@ zipCode: '95240'
 department: '95'
 keyword: Dépannage Électricien Cormeilles-En-Parisis 95240
 company: SerruVite95
-phone: 06 44 64 04 77
-phoneRaw: '0644640477'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Cormeilles-En-Parisis 95 ⚡ Panne, installation,
   réparation. Urgence 24h/7j. Intervention immédiate. Devis gratuit. SerruVite95

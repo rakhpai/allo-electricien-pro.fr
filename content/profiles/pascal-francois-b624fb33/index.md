@@ -23,7 +23,7 @@ services:
   - Domotique
   - VMC
   - Prise & interrupteur
-phone: 01 74 72 45 98
+phone: "06 44 64 48 24"
 phone_href: '+33174724598'
 available_24_7: false
 rating: 4.7

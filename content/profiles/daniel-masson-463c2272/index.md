@@ -23,7 +23,7 @@ services:
   - VMC
   - Diagnostic électrique
   - Chauffage électrique
-phone: 01 74 72 45 90
+phone: "06 44 64 48 24"
 phone_href: '+33174724590'
 available_24_7: true
 rating: 4.9

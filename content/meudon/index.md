@@ -6,8 +6,8 @@ zipCode: 92190-92360
 department: '92'
 keyword: Électricien 24/7 Meudon
 company: VoltMeudon92
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Meudon 92190 ⚡ Installation, réparation, panne électrique. Urgence
   24h/7j. Intervention immédiate. Devis gratuit. VoltMeudon92 certifié.

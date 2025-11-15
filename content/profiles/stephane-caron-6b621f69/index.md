@@ -27,7 +27,7 @@ services:
   - VMC
   - Diagnostic électrique
   - Installation électrique
-phone: 01 76 21 33 92
+phone: "06 44 64 48 24"
 phone_href: '+33176213392'
 available_24_7: false
 rating: 4.7

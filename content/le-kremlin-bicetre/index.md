@@ -6,8 +6,8 @@ zipCode: '94270'
 department: '94'
 keyword: Intervention Électricien Le kremlin-Bicetre
 company: CircuitPro94
-phone: 06 44 64 35 35
-phoneRaw: '0644643535'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Le Kremlin-Bicetre 94 ⚡ Panne, installation,
   réparation. Dépannage 24h/7j. Devis gratuit. Artisan CircuitPro94 certifié.

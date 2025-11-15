@@ -27,7 +27,7 @@ services:
   - Prise & interrupteur
   - Installation électrique
   - Domotique
-phone: 01 74 72 46 53
+phone: "06 44 64 48 24"
 phone_href: '+33174724653'
 available_24_7: false
 rating: 4.7

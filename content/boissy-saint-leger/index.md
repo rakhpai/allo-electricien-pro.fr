@@ -6,8 +6,8 @@ zipCode: '94470'
 department: '94'
 keyword: Électricien Urgence Boissy-Saint-Leger
 company: AideLumière95
-phone: 06 44 64 51 25
-phoneRaw: '0644645125'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Boissy-Saint-Leger 94470 ⚡ Installation, réparation, panne
   électrique. Dépannage 24h/7j. Artisan certifié. Intervention rapide. Devis

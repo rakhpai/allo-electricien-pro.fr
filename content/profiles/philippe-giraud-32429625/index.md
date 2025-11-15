@@ -27,7 +27,7 @@ services:
   - VMC
   - Rénovation complète
   - Chauffage électrique
-phone: 01 45 22 71 23
+phone: "06 44 64 48 24"
 phone_href: '+33145227123'
 available_24_7: false
 rating: 4.7

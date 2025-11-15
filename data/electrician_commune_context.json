@@ -1,92 +1,31 @@
 {
-  "generated_at": "2025-11-15T17:00:25.333Z",
+  "generated_at": "2025-11-15T17:26:56.998Z",
   "model": "claude-haiku-4-5-20251001",
-  "by_commune": {
-    "paris-1er": {
-      "commune_name": "Paris 1er",
-      "postal_code": "75001",
-      "department": "75",
-      "electricians": {
-        "9b09e215-2ff1-477d-a8f8-33b8703451f9": {
-          "profile_id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
-          "commune_slug": "paris-1er",
-          "bio_localized": "Électricien expérimenté depuis 9 ans à Paris 1er, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens. Intervenant dans le cœur de la capitale, je garantis des installations électriques sécurisées et conformes. Devis gratuit et service réactif.",
-          "local_badge": "Électricien expert du 1er arrondissement Paris",
-          "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les installations électriques à Paris 1er.",
-          "trust_signal": "9 ans d'expérience confirmée à Paris 1er, interventions rapides et fiables garanties",
-          "why_this_commune": "Yves Marchand est le choix idéal pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et des monuments historiques du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
-          "generated_at": "2025-11-15T17:00:38.077Z",
-          "used_fallback": false
-        },
-        "fc21f596-61b7-41af-94b0-b4b455231cd5": {
-          "profile_id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
-          "commune_slug": "paris-1er",
-          "bio_localized": "Électricien qualifié depuis 17 ans à Paris 1er, je spécialise dans la mise aux normes NF C 15-100 des immeubles haussmanniens et bâtiments historiques du centre parisien. Expert en installations électriques conformes, je garantis sécurité et fiabilité. Devis gratuit et interventions rapides.",
-          "local_badge": "Électricien expert du 1er arrondissement Paris",
-          "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les appartements et immeubles parisiens du 1er arrondissement.",
-          "trust_signal": "17 ans d'expérience, électricien certifié à Paris 1er, interventions rapides et fiables",
-          "why_this_commune": "Antoine Lefevre est un excellent choix pour Paris 1er. Électricien local, il maîtrise les spécificités des bâtiments historiques du quartier. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
-          "generated_at": "2025-11-15T17:00:51.188Z",
-          "used_fallback": false
-        },
-        "611b8f9b-4834-4278-a749-5926689bef99": {
-          "profile_id": "611b8f9b-4834-4278-a749-5926689bef99",
-          "commune_slug": "paris-1er",
-          "bio_localized": "Électricien expérimenté depuis 20 ans à Paris 1er, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens. Intervenant près du Louvre et des Halles, je garantis des installations sécurisées et conformes. Devis gratuit, service rapide et fiable.",
-          "local_badge": "Électricien expert du 1er arrondissement Paris",
-          "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les immeubles parisiens du 1er arrondissement.",
-          "trust_signal": "20 ans d'expérience confirmée, électricien fiable et reconnu à Paris 1er",
-          "why_this_commune": "Charles Colin est le choix idéal pour Paris 1er. Implanté localement, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et monuments du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone centrale assure un service de qualité et rassurant.",
-          "generated_at": "2025-11-15T17:01:04.295Z",
-          "used_fallback": false
-        },
-        "13a60596-2e6b-4d21-90c5-9903b9c378d6": {
-          "profile_id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
-          "commune_slug": "paris-1er",
-          "bio_localized": "Électricien professionnel à Paris 1er depuis 16 ans, je spécialise dans l'éclairage LED pour les immeubles haussmanniens et bâtiments modernes du quartier. Expertise en installations électriques complètes et modernisations énergétiques. Intervention rapide et travail soigné pour tous vos besoins électriques en centre-ville parisien.",
-          "local_badge": "Électricien expert du 1er arrondissement Paris",
-          "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et immeubles du 1er arrondissement de Paris.",
-          "trust_signal": "16 ans d'expérience confirmée à Paris 1er, électricien fiable et réactif",
-          "why_this_commune": "Alexandre Renard est un excellent choix pour Paris 1er. Électricien local, il connaît parfaitement les spécificités architecturales du quartier historique et intervient rapidement. Son expérience confirmée dans cette zone garantit des solutions adaptées à vos installations électriques.",
-          "generated_at": "2025-11-15T17:01:17.585Z",
-          "used_fallback": false
-        },
-        "383e801f-e283-46bd-bee4-7c871470b590": {
-          "profile_id": "383e801f-e283-46bd-bee4-7c871470b590",
-          "commune_slug": "paris-1er",
-          "bio_localized": "Serge Morel, électricien expert en rénovation électrique à Paris 1er, intervient sur les prestigieux immeubles haussmanniens du quartier. Fort de 5 années d'expérience, il modernise vos installations électriques en respectant l'authenticité architecturale. Professionnel fiable et méticuleux pour tous vos besoins électriques.",
-          "local_badge": "Électricien expert du 1er arrondissement Paris",
-          "service_highlight": "Électricien spécialiste en rénovation électrique pour les appartements haussmanniens et immeubles anciens de Paris 1er.",
-          "trust_signal": "5 ans d'expérience confirmée, interventions rapides et fiables à Paris 1er",
-          "why_this_commune": "Serge Morel est le choix idéal pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités architecturales du quartier historique. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et professionnel adapté à vos besoins.",
-          "generated_at": "2025-11-15T17:01:31.567Z",
-          "used_fallback": false
-        },
-        "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a": {
-          "profile_id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
-          "commune_slug": "paris-1er",
-          "bio_localized": "René Legrand, électricien expert à Paris 1er, maîtrise la rénovation électrique des prestigieux immeubles haussmanniens du quartier. Fort de 17 ans d'expérience, il modernise les installations électriques en respectant l'architecture parisienne classique. Intervention fiable et professionnelle pour vos besoins électriques.",
-          "local_badge": "Électricien expert du 1er arrondissement Paris",
-          "service_highlight": "Rénovation électrique complète des appartements haussmanniens et immeubles anciens du 1er arrondissement de Paris.",
-          "trust_signal": "17 ans d'expérience confirmée, électricien fiable et reconnu à Paris 1er",
-          "why_this_commune": "René Legrand est le choix idéal pour Paris 1er. Implanté localement, il maîtrise les spécificités des bâtiments haussmanniens et monuments du quartier. Sa proximité garantit une intervention rapide. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
-          "generated_at": "2025-11-15T17:01:44.681Z",
-          "used_fallback": false
-        }
-      }
-    }
-  },
+  "by_commune": {},
   "metadata": {
-    "total_communes": 1,
-    "total_pairs": 6,
+    "total_communes": 0,
+    "total_pairs": 0,
     "total_errors": 0,
     "cost": {
-      "input_tokens": 6384,
-      "output_tokens": 1591,
-      "api_calls": 30,
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "api_calls": 0,
       "total_cost_usd": 0
     },
-    "generated_at": "2025-11-15T17:01:44.681Z",
-    "model": "claude-haiku-4-5-20251001"
+    "batches_merged": 0,
+    "missing_batches": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ]
   }
 }

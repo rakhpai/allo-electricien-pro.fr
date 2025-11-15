@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - VMC
   - Diagnostic électrique
-phone: 01 74 72 46 54
+phone: "06 44 64 48 24"
 phone_href: '+33174724654'
 available_24_7: false
 rating: 4.9

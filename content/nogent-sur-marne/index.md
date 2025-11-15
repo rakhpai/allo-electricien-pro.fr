@@ -6,8 +6,8 @@ zipCode: '94130'
 department: '94'
 keyword: Dépannage Électricien Nogent-Sur-Marne
 company: WattMaster94
-phone: 06 44 64 35 35
-phoneRaw: '0644643535'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Nogent-Sur-Marne 94 ⚡ Panne, réparation, installation.
   Urgence 24h/7j. WattMaster94 certifié. Intervention garantie. Devis gratuit.

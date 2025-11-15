@@ -23,7 +23,7 @@ services:
   - Installation électrique
   - Diagnostic électrique
   - Dépannage urgence
-phone: 01 76 21 31 95
+phone: "06 44 64 48 24"
 phone_href: '+33176213195'
 available_24_7: false
 rating: 4.9

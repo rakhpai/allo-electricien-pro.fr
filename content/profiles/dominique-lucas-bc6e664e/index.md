@@ -23,7 +23,7 @@ services:
   - Domotique
   - Chauffage électrique
   - Prise & interrupteur
-phone: 01 74 03 75 55
+phone: "06 44 64 48 24"
 phone_href: '+33174037555'
 available_24_7: true
 rating: 4.9

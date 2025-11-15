@@ -6,8 +6,8 @@ zipCode: '77590'
 department: '77'
 keyword: Électricien Urgence Bois-Le-Roi
 company: ÉlectroPro Dépannage Bois-le-Roi
-phone: 06 44 64 04 77
-phoneRaw: '0644640477'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Bois-Le-Roi 77590 ⚡ Court-circuit, panne tableau, installation.
   Dépannage 24h/7j. Intervention immédiate. Artisan qualifié. Tel. rapide!

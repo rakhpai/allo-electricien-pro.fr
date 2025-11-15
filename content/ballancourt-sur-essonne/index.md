@@ -6,8 +6,8 @@ zipCode: '91610'
 department: '91'
 keyword: Dépannage Électricien Ballancourt-Sur-Essonne
 company: DépanneWatt92
-phone: 06 44 64 28 18
-phoneRaw: 0644642818
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Ballancourt-Sur-Essonne 91 ⚡ Court-circuit, panne,
   réparation. Service 24h/24. Intervention immédiate. Artisan qualifié. Devis

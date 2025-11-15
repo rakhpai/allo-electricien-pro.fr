@@ -6,8 +6,8 @@ zipCode: '77130'
 department: '77'
 keyword: Urgence Électricien Montereau-Fault-Yonne
 company: VoltMontéreau77
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Montereau-Fault-Yonne 77 ⚡ Installation, réparation,
   panne. Dépannage 24h/7j. Intervention garantie. Devis gratuit.

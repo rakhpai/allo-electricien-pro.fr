@@ -6,8 +6,8 @@ zipCode: '91310'
 department: '91'
 keyword: Électricien d'Urgence Longpont-Sur-Orge 91310
 company: Électricien Urgence 91
-phone: 06 44 64 05 55
-phoneRaw: '0644640555'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Longpont-Sur-Orge 91310 ⚡ Installation, réparation,
   panne. Dépannage 24h/7j. Intervention immédiate. Artisan certifié. Devis

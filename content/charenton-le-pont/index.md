@@ -6,8 +6,8 @@ zipCode: '94220'
 department: '94'
 keyword: Électricien Urgence CHARENTON-LE-PONT
 company: CHARENTONLEPONTExpert
-phone: 06 44 74 44 34
-phoneRaw: '0644744434'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence CHARENTON-LE-PONT 94 ⚡ Court-circuit, panne,
   installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.

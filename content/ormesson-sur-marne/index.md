@@ -6,8 +6,8 @@ zipCode: '94490'
 department: '94'
 keyword: Électricien 24/7 Ormesson-Sur-Marne
 company: DépannePro94
-phone: 06 44 64 81 88
-phoneRaw: 0644648188
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Ormesson-Sur-Marne 94490 ⚡ Panne, tableau, réparation. Dépannage
   24h/7j. Intervention immédiate. Devis gratuit. DépannePro94 certifié. Appelez!

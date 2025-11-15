@@ -25,7 +25,7 @@ services:
   - Tableau électrique
   - Mise aux normes
   - Rénovation complète
-phone: 01 74 72 46 44
+phone: "06 44 64 48 24"
 phone_href: '+33174724644'
 available_24_7: true
 rating: 4.7

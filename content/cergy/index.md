@@ -6,8 +6,8 @@ zipCode: 95000-95800
 department: '95'
 keyword: Dépannage Électricien Cergy 95000-95800
 company: CERGYAide
-phone: 06 44 64 36 86
-phoneRaw: 0644643686
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Cergy 95 ⚡ Installation, réparation, panne électrique.
   Urgence 24h/7j. Intervention express. Devis gratuit. CERGYAide certifié.

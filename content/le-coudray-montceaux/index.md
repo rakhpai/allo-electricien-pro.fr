@@ -6,8 +6,8 @@ zipCode: '91830'
 department: '91'
 keyword: Intervention Électricien Le coudray-Montceaux 91830
 company: LE COUDRAY-MONTCEAUXLight
-phone: 06 44 64 05 55
-phoneRaw: '0644640555'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Le Coudray-Montceaux 91830 ⚡ Panne, réparation, installation
   électrique. Urgence 24h/7j. Intervention garantie. Devis gratuit. Artisan

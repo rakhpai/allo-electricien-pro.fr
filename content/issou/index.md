@@ -6,8 +6,8 @@ zipCode: '78440'
 department: '78'
 keyword: SOS Électricien Issou
 company: Élec78
-phone: 06 44 64 95 05
-phoneRaw: 0644649505
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Issou 78440 ⚡ Panne électrique, réparation, installation.
   Dépannage 24h/7j. Intervention immédiate garantie. Devis gratuit. Artisan

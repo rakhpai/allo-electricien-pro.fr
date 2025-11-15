@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - Diagnostic électrique
   - Prise & interrupteur
-phone: 01 76 21 37 13
+phone: "06 44 64 48 24"
 phone_href: '+33176213713'
 available_24_7: false
 rating: 5

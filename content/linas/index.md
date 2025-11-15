@@ -6,8 +6,8 @@ zipCode: '91310'
 department: '91'
 keyword: Dépannage Électricien Linas 91310
 company: LINASAide91
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Linas 91310 ⚡ Panne, réparation, installation
   électrique. Service 24h/7j. Intervention immédiate. Artisan qualifié. Devis

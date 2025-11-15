@@ -6,8 +6,8 @@ zipCode: '93170'
 department: '93'
 keyword: Urgence Électricien Bagnolet 93170
 company: BAGNOLETExpert
-phone: 06 44 64 81 88
-phoneRaw: 0644648188
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Bagnolet 93170 ⚡ Panne, installation, réparation
   électrique. Dépannage 24h/24. Intervention immédiate. Artisan qualifié. Devis

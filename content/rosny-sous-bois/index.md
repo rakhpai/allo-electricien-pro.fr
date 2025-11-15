@@ -6,8 +6,8 @@ zipCode: '93110'
 department: '93'
 keyword: Intervention Électricien Rosny-Sous-Bois 93110
 company: Dépanne93
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Rosny-Sous-Bois 93110 ⚡ Panne, installation,
   réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez

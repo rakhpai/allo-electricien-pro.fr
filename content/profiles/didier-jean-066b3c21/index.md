@@ -27,7 +27,7 @@ services:
   - Éclairage
   - Chauffage électrique
   - Dépannage urgence
-phone: 01 74 03 75 57
+phone: "06 44 64 48 24"
 phone_href: '+33174037557'
 available_24_7: false
 rating: 4.7

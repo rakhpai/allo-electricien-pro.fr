@@ -36,7 +36,7 @@ localContext: dans les Yvelines
 
 Découvrez nos **tarifs d'électricien en Île-de-France** pour 2025. Nous pratiquons une **politique de transparence totale** : tous nos prix sont communiqués clairement avant intervention, et un **devis gratuit** vous est systématiquement proposé.
 
-**☎️ 01 44 90 11 31** - Devis gratuit sous 24h
+**☎️ 06 44 64 48 24** - Devis gratuit sous 24h
 
 ---
 
@@ -346,7 +346,7 @@ Découvrez nos **tarifs d'électricien en Île-de-France** pour 2025. Nous prati
 
 ### Obtenez Votre Devis en 24h
 
-**Appelez le 01 44 90 11 31**
+**Appelez le 06 44 64 48 24**
 
 Notre équipe vous établit un **devis gratuit et détaillé** dans les 24 heures suivant votre demande. Pour les urgences, estimation tarifaire immédiate par téléphone.
 
@@ -385,4 +385,4 @@ Pour certains travaux de rénovation énergétique incluant l'électricité, vou
 
 ---
 
-*Tarifs Électricien Paris & Île-de-France 2025 - Grille tarifaire complète : dépannage, installation, mise aux normes. Devis gratuit sous 24h. Transparence garantie ☎️ 01 44 90 11 31*
+*Tarifs Électricien Paris & Île-de-France 2025 - Grille tarifaire complète : dépannage, installation, mise aux normes. Devis gratuit sous 24h. Transparence garantie ☎️ 06 44 64 48 24*

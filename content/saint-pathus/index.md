@@ -6,8 +6,8 @@ zipCode: '77178'
 department: '77'
 keyword: Électricien 24/7 Saint-Pathus
 company: Électro Dépannage Saint-Pathus
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Saint-Pathus 77178 ⚡ Panne, installation, réparation électrique.
   Dépannage 24h/7j. Intervention immédiate. Artisan qualifié. Devis gratuit!

@@ -6,8 +6,8 @@ zipCode: '94800'
 department: '94'
 keyword: Électricien Urgence Villejuif
 company: CircuitVillejuif
-phone: 06 44 64 20 60
-phoneRaw: '0644642060'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Villejuif 94 ⚡ Court-circuit, panne, installation. Urgence 24h/7j.
   Intervention immédiate. Devis gratuit. CircuitVillejuif certifié. Appelez!

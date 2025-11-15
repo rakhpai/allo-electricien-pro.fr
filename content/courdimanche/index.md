@@ -6,8 +6,8 @@ zipCode: '95800'
 department: '95'
 keyword: Dépannage Électricien Courdimanche
 company: Électricien Urgence Courdimanche
-phone: 06 44 64 31 33
-phoneRaw: '0644643133'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Courdimanche 95800 ⚡ Installation, réparation, panne.
   Intervention immédiate 24h/7j. Artisan qualifié. Devis gratuit. Tel rapide!

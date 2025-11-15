@@ -23,7 +23,7 @@ services:
   - Chauffage électrique
   - Rénovation complète
   - Installation électrique
-phone: 01 74 72 46 14
+phone: "06 44 64 48 24"
 phone_href: '+33174724614'
 available_24_7: false
 rating: 4.7

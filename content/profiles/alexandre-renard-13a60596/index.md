@@ -23,7 +23,7 @@ services:
   - Chauffage électrique
   - Installation électrique
   - Dépannage urgence
-phone: 01 74 03 75 81
+phone: "06 44 64 48 24"
 phone_href: '+33174037581'
 available_24_7: false
 rating: 5

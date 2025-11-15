@@ -4,14 +4,14 @@ slug: electricien-paris
 city: Paris
 zipCode: '75000'
 company: Allo Électricien
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 department: '75'
 draft: false
 description: >-
   Électricien Paris disponible dans les 20 arrondissements. Urgence, dépannage,
   installation électrique 24h/24. Intervention rapide <30min. Devis gratuit ☎️
-  01 44 90 11 31
+  06 44 64 48 24
 sitemap:
   priority: 0.95
   changefreq: daily
@@ -42,7 +42,7 @@ localContext: au cœur de Paris
 
 Vous cherchez un **électricien à Paris** ? Notre réseau de **professionnels certifiés** intervient **dans tous les arrondissements de la capitale** pour vos travaux d'électricité urgents ou planifiés. **Intervention garantie en moins de 30 minutes** pour les urgences.
 
-**☎️ 01 44 90 11 31** - Devis gratuit - Disponible 24/7
+**☎️ 06 44 64 48 24** - Devis gratuit - Disponible 24/7
 
 ---
 
@@ -233,7 +233,7 @@ Intervention 14e : Montparnasse, Denfert-Rochereau, Alésia. Arrondissement rés
 
 Que vous soyez dans le 1er, le 15e ou le 20e arrondissement, un électricien peut intervenir **immédiatement** pour votre urgence ou planifier votre rendez-vous.
 
-**☎️ 01 44 90 11 31**
+**☎️ 06 44 64 48 24**
 
 **Disponible 24h/24 - 7j/7** - Devis gratuit - Intervention rapide garantie
 
@@ -275,7 +275,7 @@ Vérifiez : certification professionnelle, assurance décennale, avis clients, t
 
 **Un problème électrique à Paris ? Un projet d'installation ? Une mise aux normes ?**
 
-## ☎️ 01 44 90 11 31
+## ☎️ 06 44 64 48 24
 ### Électricien disponible maintenant dans votre arrondissement
 
 ---

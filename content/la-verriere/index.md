@@ -6,8 +6,8 @@ zipCode: '60210'
 department: '60'
 keyword: Électricien d'Urgence Laverriere 60210
 company: AideLAVERRIERE
-phone: 07 56 79 69 96
-phoneRaw: 0756796996
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Laverriere 60210 ⚡ Panne, court-circuit, réparation
   tableau. Intervention immédiate 24h/7j. Devis gratuit. Artisan qualifié.

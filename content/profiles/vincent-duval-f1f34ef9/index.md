@@ -25,7 +25,7 @@ services:
   - Prise & interrupteur
   - Installation électrique
   - Dépannage urgence
-phone: 01 74 03 75 70
+phone: "06 44 64 48 24"
 phone_href: '+33174037570'
 available_24_7: false
 rating: 4.7

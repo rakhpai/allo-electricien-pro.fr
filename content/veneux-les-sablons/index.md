@@ -6,8 +6,8 @@ zipCode: '77250'
 department: '77'
 keyword: Électricien Urgence Veneux-Les-Sablons
 company: Dépanne77
-phone: 06 44 60 43 09
-phoneRaw: 0644604309
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Veneux-Les-Sablons 77250 ⚡ Réparation, installation, panne
   électrique. Dépannage 24h/7j. Intervention express. Devis gratuit.

@@ -23,7 +23,7 @@ services:
   - Chauffage électrique
   - Mise aux normes
   - Rénovation complète
-phone: 01 74 72 46 43
+phone: "06 44 64 48 24"
 phone_href: '+33174724643'
 available_24_7: false
 rating: 4.8

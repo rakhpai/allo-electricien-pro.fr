@@ -6,8 +6,8 @@ zipCode: '94380'
 department: '94'
 keyword: Dépannage Électricien Bonneuil-Sur-Marne 94380
 company: AideVolt94
-phone: 06 44 64 04 77
-phoneRaw: '0644640477'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Bonneuil-Sur-Marne 94380 ⚡ Panne, installation,
   réparation. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Artisan

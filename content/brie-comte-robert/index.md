@@ -6,8 +6,8 @@ zipCode: '77170'
 department: '77'
 keyword: Électricien Urgence Brie-Comte-Robert
 company: CircuitBrie77
-phone: 06 44 60 41 83
-phoneRaw: 0644604183
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Brie-Comte-Robert 77170 ⚡ Installation, réparation, panne
   électrique. Intervention immédiate 24h/7j. Artisan qualifié. Devis gratuit!

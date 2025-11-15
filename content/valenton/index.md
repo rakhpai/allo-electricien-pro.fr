@@ -6,8 +6,8 @@ zipCode: '94460'
 department: '94'
 keyword: Électricien Urgence Valenton
 company: VALENTONLight
-phone: 06 44 64 13 33
-phoneRaw: '0644641333'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Valenton 94460 ⚡ Panne électrique, installation, réparation.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. VALENTONLight certifié.

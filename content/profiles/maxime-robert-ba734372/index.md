@@ -25,7 +25,7 @@ services:
   - Installation électrique
   - Éclairage
   - Prise & interrupteur
-phone: 01 74 72 47 24
+phone: "06 44 64 48 24"
 phone_href: '+33174724724'
 available_24_7: true
 rating: 4.7

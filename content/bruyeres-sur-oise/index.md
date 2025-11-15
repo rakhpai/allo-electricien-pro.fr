@@ -6,8 +6,8 @@ zipCode: '95820'
 department: '95'
 keyword: Électricien Urgence BRUYERES-SUR-OISE
 company: BRUYERESSUROISEExpert
-phone: 06 44 75 45 35
-phoneRaw: '0644754535'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence BRUYERES-SUR-OISE 95 ⚡ Court-circuit, panne,
   installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.

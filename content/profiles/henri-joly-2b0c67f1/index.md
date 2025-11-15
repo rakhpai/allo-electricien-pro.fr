@@ -27,7 +27,7 @@ services:
   - Rénovation complète
   - Borne recharge VE
   - Tableau électrique
-phone: 01 74 72 45 97
+phone: "06 44 64 48 24"
 phone_href: '+33174724597'
 available_24_7: true
 rating: 4.7

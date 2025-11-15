@@ -25,7 +25,7 @@ services:
   - Rénovation complète
   - Borne recharge VE
   - Dépannage urgence
-phone: 01 74 03 75 32
+phone: "06 44 64 48 24"
 phone_href: '+33174037532'
 available_24_7: false
 rating: 4.7

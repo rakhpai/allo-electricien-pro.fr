@@ -27,7 +27,7 @@ services:
   - Chauffage électrique
   - Éclairage
   - Prise & interrupteur
-phone: 01 74 03 74 19
+phone: "06 44 64 48 24"
 phone_href: '+33174037419'
 available_24_7: true
 rating: 4.7

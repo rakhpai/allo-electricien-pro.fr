@@ -6,9 +6,9 @@ zipCode: '75008'
 department: '75'
 keyword: Électricien Urgence Paris 8e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: >-
-  0644955555 SOS Électricien Paris 8e (75008) ⚡ Dépannage électricité urgence
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
+  06 44 64 48 24 SOS Électricien Paris 8e (75008) ⚡ Dépannage électricité urgence
   <30min Champs-Élysées, Madeleine, Concorde. Panne, court-circuit 24/7. ☎️ 06
   44 95 55 55
 niche: électricité
@@ -247,7 +247,7 @@ seoContentWordCount: 673
 
 **Panne électrique Champs-Élysées ou Madeleine, Concorde ?** Notre service **SOS électricien Paris 8e** intervient en urgence 24h/24. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 8e
 
@@ -284,7 +284,7 @@ seoContentWordCount: 673
 
 **Urgence électrique Paris 8e ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 *Électricien Paris 8e - Dépannage électricité urgent. Service professionnel 24h/24.*

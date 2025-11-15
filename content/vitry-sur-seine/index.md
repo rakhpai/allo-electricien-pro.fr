@@ -6,8 +6,8 @@ zipCode: '94400'
 department: '94'
 keyword: Électricien 24/7 Vitry-Sur-Seine
 company: VITRY-SUR-SEINEWatt
-phone: 06 44 64 47 22
-phoneRaw: '0644644722'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien 24/7 Vitry-Sur-Seine 94400 ⚡ Panne, court-circuit, tableau
   électrique. Dépannage rapide 24h/7j. Intervention garantie. Devis gratuit

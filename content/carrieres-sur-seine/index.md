@@ -6,8 +6,8 @@ zipCode: '78420'
 department: '78'
 keyword: Électricien d'Urgence Carrieres-Sur-Seine 78420
 company: CARRIERES-SUR-SEINEExpert
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Carrieres-Sur-Seine 78420 ⚡ Réparation, installation,
   tableau électrique. Dépannage 24h/7j immédiat. Devis gratuit. Artisan

@@ -6,8 +6,8 @@ zipCode: '93350'
 department: '93'
 keyword: Électricien Urgence Le bourget
 company: Power93
-phone: 06 44 64 81 88
-phoneRaw: 0644648188
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Le Bourget 93350 ⚡ Dépannage électrique, réparation tableau,
   installation. Intervention immédiate 24h/7j. Artisan Power93 certifié. Devis

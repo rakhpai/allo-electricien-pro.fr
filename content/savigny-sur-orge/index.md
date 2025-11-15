@@ -6,8 +6,8 @@ zipCode: '91600'
 department: '91'
 keyword: Électricien 24/7 Savigny-Sur-Orge 91600
 company: Services Savigny-sur-Orge
-phone: 06 44 64 16 42
-phoneRaw: '0644641642'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Savigny-Sur-Orge 91600 ⚡ Panne, installation, réparation tableau.
   Dépannage immédiat 24h/7j. Intervention rapide. Devis gratuit. Certifié.

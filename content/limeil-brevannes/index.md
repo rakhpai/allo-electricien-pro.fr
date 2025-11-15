@@ -6,8 +6,8 @@ zipCode: '94450'
 department: '94'
 keyword: Électricien d'Urgence Limeil-Brevannes
 company: LimeilLight94
-phone: 06 44 64 31 33
-phoneRaw: '0644643133'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Limeil-Brevannes 94450 ⚡ Installation, réparation,
   panne. Intervention express garantie. Devis gratuit. LimeilLight94 certifié.

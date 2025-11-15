@@ -27,7 +27,7 @@ services:
   - Installation électrique
   - Tableau électrique
   - Diagnostic électrique
-phone: 01 74 03 75 29
+phone: "06 44 64 48 24"
 phone_href: '+33174037529'
 available_24_7: false
 rating: 4.7

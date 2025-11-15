@@ -41,7 +41,7 @@ images:
 
 **Action immédiate** : Appelez un électricien d'urgence 24/7 à Paris. Ne tentez jamais de réparer vous-même.
 
-☎️ **06 44 95 55 55** - SOS Électricien Paris - Intervention <30min
+☎️ **06 44 64 48 24** - SOS Électricien Paris - Intervention <30min
 
 ## 2. Étincelles au Niveau des Prises ou Interrupteurs
 
@@ -133,7 +133,7 @@ Même sans signe d'urgence immédiate, une vérification s'impose :
 
 **Un seul de ces signes suffit pour appeler !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien Paris - Dépannage Urgence <30min - Disponible 24/7
 
 *Urgence électrique Paris - Signes danger électricité - SOS électricien 24h - Dépannage électrique urgent*

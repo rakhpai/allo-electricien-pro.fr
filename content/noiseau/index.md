@@ -6,8 +6,8 @@ zipCode: '94880'
 department: '94'
 keyword: SOS Électricien Noiseau
 company: NOISEAUAide
-phone: 07 56 79 87 78
-phoneRaw: 0756798778
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Noiseau 94880 ⚡ Installation, réparation, panne électrique.
   Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan qualifié.

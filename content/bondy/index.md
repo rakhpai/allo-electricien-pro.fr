@@ -6,8 +6,8 @@ zipCode: '93140'
 department: '93'
 keyword: SOS Électricien Bondy
 company: DépanneMaster
-phone: 06 44 64 22 80
-phoneRaw: 0644642280
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS Électricien Bondy 93140 ⚡ Panne, court-circuit, tableau électrique.
   Intervention 24h/7j. Artisan certifié DépanneMaster. Devis gratuit. Appelez

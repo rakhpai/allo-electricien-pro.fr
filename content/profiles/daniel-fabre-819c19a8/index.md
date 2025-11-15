@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - VMC
   - Éclairage
-phone: 01 74 03 74 52
+phone: "06 44 64 48 24"
 phone_href: '+33174037452'
 available_24_7: true
 rating: 5

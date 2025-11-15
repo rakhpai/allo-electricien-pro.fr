@@ -25,7 +25,7 @@ services:
   - Diagnostic électrique
   - Rénovation complète
   - Chauffage électrique
-phone: 01 73 27 32 51
+phone: "06 44 64 48 24"
 phone_href: '+33173273251'
 available_24_7: false
 rating: 4.7

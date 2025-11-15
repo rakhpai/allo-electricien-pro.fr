@@ -27,7 +27,7 @@ services:
   - Dépannage urgence
   - Borne recharge VE
   - Chauffage électrique
-phone: 01 74 03 75 16
+phone: "06 44 64 48 24"
 phone_href: '+33174037516'
 available_24_7: true
 rating: 4.7

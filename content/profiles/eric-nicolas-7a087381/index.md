@@ -25,7 +25,7 @@ services:
   - Rénovation complète
   - Diagnostic électrique
   - Éclairage
-phone: 01 74 03 74 10
+phone: "06 44 64 48 24"
 phone_href: '+33174037410'
 available_24_7: false
 rating: 4.7

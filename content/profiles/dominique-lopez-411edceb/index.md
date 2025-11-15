@@ -23,7 +23,7 @@ services:
   - Tableau électrique
   - Diagnostic électrique
   - Mise aux normes
-phone: 01 74 03 74 48
+phone: "06 44 64 48 24"
 phone_href: '+33174037448'
 available_24_7: false
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '78400'
 department: '78'
 keyword: Électricien d'Urgence Chatou
 company: ChatouLight92
-phone: 06 44 64 81 88
-phoneRaw: 0644648188
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Chatou 78400 ⚡ Panne, installation, réparation tableau.
   Intervention immédiate 24h/7j. Devis gratuit. ChatouLight92 certifié.

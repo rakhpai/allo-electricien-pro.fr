@@ -27,7 +27,7 @@ services:
   - Borne recharge VE
   - Domotique
   - Dépannage urgence
-phone: 01 76 21 31 66
+phone: "06 44 64 48 24"
 phone_href: '+33176213166'
 available_24_7: false
 rating: 4.7

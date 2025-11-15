@@ -6,8 +6,8 @@ zipCode: '95170'
 department: '95'
 keyword: Urgence Électricien Deuil-La-Barre
 company: DépannePlus95
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Urgence électricien Deuil-La-Barre 95170 ⚡ Tableau, panne, court-circuit.
   Dépannage 24h/7j. Intervention immédiate. Artisan certifié. Devis gratuit!

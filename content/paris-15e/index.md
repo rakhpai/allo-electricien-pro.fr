@@ -6,11 +6,11 @@ zipCode: '75015'
 department: '75'
 keyword: Électricien Urgence Paris 15e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: >-
-  0644955555 SOS Électricien Paris 15e (75015) ⚡ Dépannage électricité urgence
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
+  06 44 64 48 24 SOS Électricien Paris 15e (75015) ⚡ Dépannage électricité urgence
   <30min Beaugrenelle, Convention, Montparnasse. Panne, court-circuit 24/7. ☎️
-  06 44 95 55 55
+  06 44 64 48 24
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -243,7 +243,7 @@ seoContentWordCount: 686
 
 **Panne électrique Beaugrenelle ou Convention, Montparnasse ?** Notre service **SOS électricien Paris 15e** intervient en urgence 24h/24. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 15e
 
@@ -309,7 +309,7 @@ Notre équipe d'électriciens basée dans le **15e arrondissement de Paris** gar
 
 **Urgence électrique Paris 15e ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 **Autres services disponibles :**

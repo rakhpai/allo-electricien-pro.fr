@@ -23,7 +23,7 @@ services:
   - Mise aux normes
   - VMC
   - Domotique
-phone: 01 74 72 46 62
+phone: "06 44 64 48 24"
 phone_href: '+33174724662'
 available_24_7: false
 rating: 4.7

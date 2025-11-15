@@ -6,8 +6,8 @@ zipCode: '95250'
 department: '95'
 keyword: Intervention Électricien Beauchamp 95250
 company: BEAUCHAMPFlash
-phone: 06 44 64 28 89
-phoneRaw: 0644642889
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Beauchamp 95250 ⚡ Panne, installation, réparation électrique.
   Intervention 24h/7j garantie. Devis gratuit immédiat. Artisan certifié.

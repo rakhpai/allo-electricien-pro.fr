@@ -6,8 +6,8 @@ zipCode: '77360'
 department: '77'
 keyword: Dépannage Électricien Vaires-Sur-Marne
 company: AidePower77
-phone: 06 44 60 19 93
-phoneRaw: 0644601993
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Dépannage électricien Vaires-Sur-Marne 77360 ⚡ Panne, installation, tableau.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. AidePower77 certifié.

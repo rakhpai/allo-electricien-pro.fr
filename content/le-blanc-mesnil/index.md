@@ -6,8 +6,8 @@ zipCode: '93150'
 department: '93'
 keyword: Électricien Urgence LE BLANC-MESNIL
 company: LEBLANCMESNILExpert
-phone: 06 44 73 43 33
-phoneRaw: '0644734333'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence LE BLANC-MESNIL 93 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez

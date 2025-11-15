@@ -27,7 +27,7 @@ services:
   - Borne recharge VE
   - Diagnostic électrique
   - Chauffage électrique
-phone: 01 74 72 46 01
+phone: "06 44 64 48 24"
 phone_href: '+33174724601'
 available_24_7: true
 rating: 4.7

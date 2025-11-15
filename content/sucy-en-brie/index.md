@@ -6,8 +6,8 @@ zipCode: '94880'
 department: '94'
 keyword: Électricien d'Urgence Sucy-En-Brie 94880
 company: DépanneWatt94
-phone: 06 44 64 20 60
-phoneRaw: '0644642060'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'urgence Sucy-En-Brie 94880 ⚡ Installation, réparation, panne
   électrique. Intervention immédiate 24h/7j garantie. Devis gratuit. Tel.

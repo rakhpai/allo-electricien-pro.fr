@@ -6,8 +6,8 @@ zipCode: '92290'
 department: '92'
 keyword: Électricien d'Urgence Chatenay-Malabry 92290
 company: DépannePlus92
-phone: 01 44 90 11 31
-phoneRaw: 0144901131
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien d'Urgence Chatenay-Malabry 92290 ⚡ Installation, réparation,
   panne. Intervention immédiate 24h/7j. DépannePlus92 certifié. Devis gratuit!

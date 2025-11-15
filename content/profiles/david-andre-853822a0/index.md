@@ -27,7 +27,7 @@ services:
   - Chauffage électrique
   - Éclairage
   - Installation électrique
-phone: 01 74 72 45 94
+phone: "06 44 64 48 24"
 phone_href: '+33174724594'
 available_24_7: false
 rating: 4.7

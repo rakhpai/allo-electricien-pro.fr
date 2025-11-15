@@ -6,8 +6,8 @@ zipCode: '94430'
 department: '94'
 keyword: Intervention Électricien Chennevieres-Sur-Marne
 company: CircuitVolt94
-phone: 06 44 60 29 30
-phoneRaw: 0644602930
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien Chennevières-sur-Marne 94 ⚡ Réparation, installation,
   tableau électrique. Dépannage 24h/7j rapide. Devis gratuit. CircuitVolt94

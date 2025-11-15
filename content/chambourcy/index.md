@@ -6,8 +6,8 @@ zipCode: '78240'
 department: '78'
 keyword: Électricien d'Urgence Chambourcy
 company: PowerDupont75
-phone: 06 44 64 46 72
-phoneRaw: '0644644672'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien urgence Chambourcy 78240 ⚡ Court-circuit, panne électrique,
   réparation. Intervention immédiate 24h/7j garantie. Devis gratuit.

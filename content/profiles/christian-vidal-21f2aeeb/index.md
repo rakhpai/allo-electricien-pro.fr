@@ -23,7 +23,7 @@ services:
   - Prise & interrupteur
   - Rénovation complète
   - Tableau électrique
-phone: 01 74 03 76 60
+phone: "06 44 64 48 24"
 phone_href: '+33174037660'
 available_24_7: true
 rating: 5

@@ -23,7 +23,7 @@ services:
   - Installation électrique
   - Chauffage électrique
   - VMC
-phone: 01 74 03 74 67
+phone: "06 44 64 48 24"
 phone_href: '+33174037467'
 available_24_7: false
 rating: 5

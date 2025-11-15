@@ -8,8 +8,8 @@ zipCode: '94240'
 department: '94'
 keyword: Intervention Électricien L'HAY-LES-ROSES
 company: VoltExpress94
-phone: 06 44 64 46 99
-phoneRaw: 0644644699
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Intervention électricien L'HAY-LES-ROSES 94240 ⚡ Panne, dépannage, réparation.
   Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez maintenant!

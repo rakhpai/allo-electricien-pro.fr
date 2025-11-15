@@ -23,7 +23,7 @@ services:
   - Dépannage urgence
   - Diagnostic électrique
   - VMC
-phone: 01 74 03 76 72
+phone: "06 44 64 48 24"
 phone_href: '+33174037672'
 available_24_7: true
 rating: 4.7

@@ -6,8 +6,8 @@ zipCode: '91070'
 department: '91'
 keyword: SOS Électricien Bondoufle 91070
 company: CircuitBondoufle
-phone: 06 44 64 41 25
-phoneRaw: '0644644125'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   SOS électricien Bondoufle 91070 ⚡ Tableau, court-circuit, panne. Intervention
   immédiate 24h/7j garantie. Devis gratuit. CircuitBondoufle certifiée.

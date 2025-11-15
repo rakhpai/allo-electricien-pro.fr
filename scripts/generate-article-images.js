@@ -160,7 +160,7 @@ async function generateImage(article, variant, dimensions) {
       <text x="${width/2}" y="${height - 40}"
             font-family="Arial, sans-serif" font-size="20"
             text-anchor="middle" fill="white" opacity="0.7">
-        SOS Électricien Paris - ☎️ 06 44 95 55 55
+        SOS Électricien Paris - ☎️ 06 44 64 48 24
       </text>
 
       <!-- Emergency badge for hero images -->

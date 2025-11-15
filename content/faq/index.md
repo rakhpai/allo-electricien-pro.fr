@@ -5,7 +5,7 @@ draft: false
 description: >-
   Questions fréquentes sur nos services d'électricien à Paris : urgences 24/7,
   tarifs, délais, sécurité électrique. Toutes vos réponses sur le dépannage
-  électrique. ☎️ 01 44 90 11 31
+  électrique. ☎️ 06 44 64 48 24
 sitemap:
   priority: 0.8
   changefreq: monthly
@@ -36,7 +36,7 @@ localContext: dans les Yvelines
 
 Retrouvez les **réponses aux questions les plus fréquentes** sur nos services d'électricien à Paris et en Île-de-France : urgences électriques, dépannages, tarifs, délais d'intervention, sécurité.
 
-**Une question ? Appelez-nous au ☎️ 01 44 90 11 31** - Disponible 24h/24
+**Une question ? Appelez-nous au ☎️ 06 44 64 48 24** - Disponible 24h/24
 
 ---
 
@@ -44,7 +44,7 @@ Retrouvez les **réponses aux questions les plus fréquentes** sur nos services 
 
 ### Que faire en cas de panne électrique totale à Paris ?
 
-En cas de panne totale : 1) Vérifiez si vos voisins ont aussi du courant (panne ENEDIS ?), 2) Contrôlez votre disjoncteur général sans le toucher, 3) Débranchez les appareils sensibles, 4) N'essayez PAS de réarmer si vous sentez une odeur de brûlé, 5) Appelez immédiatement notre SOS électricien au 01 44 90 11 31 pour une intervention en moins de 30 minutes.
+En cas de panne totale : 1) Vérifiez si vos voisins ont aussi du courant (panne ENEDIS ?), 2) Contrôlez votre disjoncteur général sans le toucher, 3) Débranchez les appareils sensibles, 4) N'essayez PAS de réarmer si vous sentez une odeur de brûlé, 5) Appelez immédiatement notre SOS électricien au 06 44 64 48 24 pour une intervention en moins de 30 minutes.
 
 ### Comment reconnaître une urgence électrique dangereuse ?
 
@@ -56,15 +56,15 @@ Un court-circuit est un contact direct entre deux conducteurs de polarités oppo
 
 ### Que faire si je sens une odeur de brûlé électrique ?
 
-URGENCE IMMÉDIATE : 1) Coupez le disjoncteur général IMMÉDIATEMENT, 2) Évacuez si fumée visible, 3) N'utilisez AUCUN appareil électrique, 4) Aérez les pièces, 5) Appelez notre SOS électricien 24/7 : 01 44 90 11 31. Intervention en -20 min. L'odeur de brûlé indique un problème GRAVE (câble qui fond, court-circuit). Ne prenez aucun risque.
+URGENCE IMMÉDIATE : 1) Coupez le disjoncteur général IMMÉDIATEMENT, 2) Évacuez si fumée visible, 3) N'utilisez AUCUN appareil électrique, 4) Aérez les pièces, 5) Appelez notre SOS électricien 24/7 : 06 44 64 48 24. Intervention en -20 min. L'odeur de brûlé indique un problème GRAVE (câble qui fond, court-circuit). Ne prenez aucun risque.
 
 ### Dois-je appeler les pompiers ou un électricien en cas d'urgence électrique ?
 
-Appelez les POMPIERS (18) si : incendie déclaré, fumée importante, impossibilité de couper le courant, personne électrocutée. Appelez notre SOS ÉLECTRICIEN (01 44 90 11 31) si : odeur de brûlé sans feu, court-circuit, panne urgente, disjoncteur qui saute, étincelles sans incendie. Nous sécurisons l'installation et réparons immédiatement.
+Appelez les POMPIERS (18) si : incendie déclaré, fumée importante, impossibilité de couper le courant, personne électrocutée. Appelez notre SOS ÉLECTRICIEN (06 44 64 48 24) si : odeur de brûlé sans feu, court-circuit, panne urgente, disjoncteur qui saute, étincelles sans incendie. Nous sécurisons l'installation et réparons immédiatement.
 
 ### Mon disjoncteur saute sans arrêt, que faire ?
 
-Si votre disjoncteur saute répétitivement : 1) NE le réarmez PAS plusieurs fois (risque court-circuit/incendie), 2) Débranchez tous les appareils, 3) Tentez UN réarmement, 4) S'il saute à nouveau : STOP, c'est un défaut électrique sérieux. Appelez notre électricien d'urgence 24/7 au 01 44 90 11 31. Intervention en -30 min à Paris.
+Si votre disjoncteur saute répétitivement : 1) NE le réarmez PAS plusieurs fois (risque court-circuit/incendie), 2) Débranchez tous les appareils, 3) Tentez UN réarmement, 4) S'il saute à nouveau : STOP, c'est un défaut électrique sérieux. Appelez notre électricien d'urgence 24/7 au 06 44 64 48 24. Intervention en -30 min à Paris.
 
 ### Puis-je réarmer mon disjoncteur après une coupure ?
 
@@ -96,7 +96,7 @@ Arrivée de l'électricien : moins de 30 minutes à Paris. Durée réparation : 
 
 ### Êtes-vous disponibles la nuit et le week-end ?
 
-Oui, nos électriciens sont disponibles 24h/24, 7j/7, y compris la nuit, les week-ends et les jours fériés. En cas de panne électrique ou d'urgence, vous pouvez nous contacter à tout moment au 01 44 90 11 31.
+Oui, nos électriciens sont disponibles 24h/24, 7j/7, y compris la nuit, les week-ends et les jours fériés. En cas de panne électrique ou d'urgence, vous pouvez nous contacter à tout moment au 06 44 64 48 24.
 
 ---
 
@@ -160,7 +160,7 @@ Oui, les immeubles haussmanniens (1850-1914) présentent souvent : absence de pr
 
 ### Comment éviter les pannes électriques ?
 
-Pour prévenir les pannes : 1) Ne surchargez pas les prises (évitez multiprises en cascade), 2) Faites vérifier votre installation si >15 ans, 3) Remplacez les câbles abîmés immédiatement, 4) Installez des interrupteurs différentiels 30mA, 5) Mettez aux normes NF C 15-100, 6) Débranchez les appareils non utilisés. Diagnostic électrique gratuit : 01 44 90 11 31.
+Pour prévenir les pannes : 1) Ne surchargez pas les prises (évitez multiprises en cascade), 2) Faites vérifier votre installation si >15 ans, 3) Remplacez les câbles abîmés immédiatement, 4) Installez des interrupteurs différentiels 30mA, 5) Mettez aux normes NF C 15-100, 6) Débranchez les appareils non utilisés. Diagnostic électrique gratuit : 06 44 64 48 24.
 
 ### Une panne électrique peut-elle endommager mes appareils ?
 
@@ -180,7 +180,7 @@ Absolument. Tous nos électriciens sont certifiés et qualifiés selon les norme
 
 Vous n'avez pas trouvé la réponse à votre question ? Notre équipe est à votre disposition pour vous renseigner.
 
-### ☎️ **01 44 90 11 31**
+### ☎️ **06 44 64 48 24**
 ### Disponible 24h/24 - 7j/7 - Même nuit et jours fériés
 
 **Urgence électrique** : intervention en moins de 30 minutes

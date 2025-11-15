@@ -6,9 +6,9 @@ zipCode: '75007'
 department: '75'
 keyword: Électricien Urgence Paris 7e
 company: PExpert
-phone: 06 44 95 55 55
-phoneRaw: >-
-  0644955555 SOS Électricien Paris 7e (75007) ⚡ Dépannage électricité urgence
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
+  06 44 64 48 24 SOS Électricien Paris 7e (75007) ⚡ Dépannage électricité urgence
   <30min Tour Eiffel, Invalides, Musée d'Orsay. Panne, court-circuit 24/7. ☎️ 06
   44 95 55 55
 niche: électricité
@@ -240,7 +240,7 @@ seoContentWordCount: 692
 
 **Panne électrique Tour Eiffel ou Invalides, Musée d'Orsay ?** Notre service **SOS électricien Paris 7e** intervient en urgence 24h/24. **Dépannage électricité garanti en moins de 30 minutes**.
 
-**☎️ Appelez maintenant : 06 44 95 55 55** - Électricien d'urgence disponible immédiatement
+**☎️ Appelez maintenant : 06 44 64 48 24** - Électricien d'urgence disponible immédiatement
 
 ### Urgences Électriques Paris 7e
 
@@ -277,7 +277,7 @@ seoContentWordCount: 692
 
 **Urgence électrique Paris 7e ? Appelez !**
 
-## ☎️ 06 44 95 55 55
+## ☎️ 06 44 64 48 24
 ### SOS Électricien - Intervention <30 min - Disponible 24/7
 
 *Électricien Paris 7e - Dépannage électricité urgent. Service professionnel 24h/24.*

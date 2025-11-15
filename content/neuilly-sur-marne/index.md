@@ -6,8 +6,8 @@ zipCode: '93330'
 department: '93'
 keyword: Électricien 24/7 Neuilly-Sur-Marne
 company: WattExpress93
-phone: 06 44 60 15 44
-phoneRaw: '0644601544'
+phone: "06 44 64 48 24"
+phoneRaw: "0644644824"
 description: >-
   Électricien Neuilly-Sur-Marne 93330 ⚡ Installation, réparation, panne
   électrique. Urgence 24h/7j. Intervention immédiate. Devis gratuit. Appelez

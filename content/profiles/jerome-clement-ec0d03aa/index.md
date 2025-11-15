@@ -27,7 +27,7 @@ services:
   - VMC
   - Installation électrique
   - Domotique
-phone: 01 74 72 47 33
+phone: "06 44 64 48 24"
 phone_href: '+33174724733'
 available_24_7: false
 rating: 4.7

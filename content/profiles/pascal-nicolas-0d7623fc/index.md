@@ -23,7 +23,7 @@ services:
   - Dépannage urgence
   - Domotique
   - Diagnostic électrique
-phone: 01 74 03 75 34
+phone: "06 44 64 48 24"
 phone_href: '+33174037534'
 available_24_7: false
 rating: 4.9
