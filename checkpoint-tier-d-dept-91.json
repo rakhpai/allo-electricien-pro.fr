@@ -1,0 +1,22 @@
+{
+  "sessionId": "seo-enhancement-2025-11-15",
+  "startTime": "2025-11-15T16:04:48.102Z",
+  "lastUpdate": "2025-11-15T16:04:48.102Z",
+  "processed": {
+    "total": 196,
+    "processed": 10,
+    "successful": 10,
+    "failed": 0,
+    "totalInputTokens": 20914,
+    "totalOutputTokens": 22328
+  },
+  "lastProcessedSlug": "/avrainville",
+  "costs": {
+    "inputTokens": 20914,
+    "outputTokens": 22328,
+    "totalTokens": 43242,
+    "cost": 0.1060432,
+    "inputCost": 0.016731199999999998,
+    "outputCost": 0.089312
+  }
+}

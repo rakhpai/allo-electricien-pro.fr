@@ -1,0 +1,22 @@
+{
+  "sessionId": "seo-enhancement-2025-11-15",
+  "startTime": "2025-11-15T16:04:56.469Z",
+  "lastUpdate": "2025-11-15T16:04:56.469Z",
+  "processed": {
+    "total": 181,
+    "processed": 10,
+    "successful": 10,
+    "failed": 0,
+    "totalInputTokens": 20782,
+    "totalOutputTokens": 22485
+  },
+  "lastProcessedSlug": "/attainville",
+  "costs": {
+    "inputTokens": 20782,
+    "outputTokens": 22485,
+    "totalTokens": 43267,
+    "cost": 0.10656560000000001,
+    "inputCost": 0.0166256,
+    "outputCost": 0.08994
+  }
+}

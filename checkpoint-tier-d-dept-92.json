@@ -1,0 +1,22 @@
+{
+  "sessionId": "seo-enhancement-2025-11-15",
+  "startTime": "2025-11-15T16:04:46.022Z",
+  "lastUpdate": "2025-11-15T16:04:46.022Z",
+  "processed": {
+    "total": 22,
+    "processed": 10,
+    "successful": 10,
+    "failed": 0,
+    "totalInputTokens": 21070,
+    "totalOutputTokens": 22587
+  },
+  "lastProcessedSlug": "/la-garenne-colombes",
+  "costs": {
+    "inputTokens": 21070,
+    "outputTokens": 22587,
+    "totalTokens": 43657,
+    "cost": 0.107204,
+    "inputCost": 0.016856,
+    "outputCost": 0.090348
+  }
+}

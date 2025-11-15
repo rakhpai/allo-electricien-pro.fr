@@ -1,0 +1,22 @@
+{
+  "sessionId": "seo-enhancement-2025-11-15",
+  "startTime": "2025-11-15T16:05:00.325Z",
+  "lastUpdate": "2025-11-15T16:05:00.325Z",
+  "processed": {
+    "total": 38,
+    "processed": 10,
+    "successful": 10,
+    "failed": 0,
+    "totalInputTokens": 21286,
+    "totalOutputTokens": 22988
+  },
+  "lastProcessedSlug": "/chevilly-larue",
+  "costs": {
+    "inputTokens": 21286,
+    "outputTokens": 22988,
+    "totalTokens": 44274,
+    "cost": 0.1089808,
+    "inputCost": 0.0170288,
+    "outputCost": 0.091952
+  }
+}

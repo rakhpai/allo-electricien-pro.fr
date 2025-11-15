@@ -1,0 +1,22 @@
+{
+  "sessionId": "seo-enhancement-2025-11-15",
+  "startTime": "2025-11-15T16:04:37.270Z",
+  "lastUpdate": "2025-11-15T16:04:37.270Z",
+  "processed": {
+    "total": 507,
+    "processed": 10,
+    "successful": 9,
+    "failed": 1,
+    "totalInputTokens": 19215,
+    "totalOutputTokens": 20653
+  },
+  "lastProcessedSlug": "/aubepierre-ozouer-le-repos",
+  "costs": {
+    "inputTokens": 19215,
+    "outputTokens": 20653,
+    "totalTokens": 39868,
+    "cost": 0.097984,
+    "inputCost": 0.015372,
+    "outputCost": 0.082612
+  }
+}
