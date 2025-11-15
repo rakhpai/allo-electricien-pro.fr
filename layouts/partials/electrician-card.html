@@ -1,34 +1,55 @@
 {{/*
   Electrician Profile Card Component
 
-  Usage: {{ partial "electrician-card.html" $profile }}
+  Usage: {{ partial "electrician-card.html" (dict "profile" $profile "Page" $) }}
 
-  Expected context ($profile):
-  - id: Profile UUID
-  - first_name, last_name: String
-  - specialty_primary: String
-  - specialty_badge: String (Premium, Expert, Certifié)
-  - badge_color: String (blue, green, gold, purple)
-  - bio_short: String
-  - avatar_url: String
-  - service_tags: Array of strings
-  - is_available_24_7: Boolean
-  - phone: String
-  - rating: Float (0-5)
-  - years_experience: Integer
-  - is_primary_for_city: Boolean
+  Expected context:
+  - profile: Profile object with fields:
+    - id: Profile UUID
+    - first_name, last_name: String
+    - specialty_primary: String
+    - specialty_badge: String (Premium, Expert, Certifié)
+    - badge_color: String (blue, green, gold, purple)
+    - bio_short: String
+    - avatar_url: String
+    - service_tags: Array of strings
+    - is_available_24_7: Boolean
+    - phone: String
+    - rating: Float (0-5)
+    - years_experience: Integer
+    - is_primary_for_city: Boolean
+  - Page: Page context for accessing params
 */}}
 
-{{ $profile := . }}
+{{ $profile := .profile | default . }}
 {{ $badgeColors := dict "blue" "bg-blue-600" "green" "bg-green-600" "gold" "bg-yellow-500" "purple" "bg-purple-600" "orange" "bg-orange-600" }}
 {{ $badgeColor := index $badgeColors (default "blue" $profile.badge_color) }}
 {{ $fullName := printf "%s %s" $profile.first_name $profile.last_name }}
 {{ $phoneDisplay := default $profile.phone $profile.phone_display }}
 {{ $phoneHref := default $profile.phone $profile.phone_href }}
 
-<article class="electrician-card bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden h-full flex flex-col group">
+{{/* Build profile URL and page context */}}
+{{ $profileUrl := printf "/profiles/%s/" $profile.id }}
+{{ $page := .Page }}
+{{ $cityName := "" }}
+{{ if $page }}
+  {{ $cityName = $page.Params.city | default $page.Title }}
+{{ end }}
+{{ $linkTitle := printf "%s - Électricien %s à %s - Voir le profil complet" $fullName $profile.specialty_primary $cityName }}
+
+<article class="electrician-card bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 overflow-hidden h-full flex flex-col group relative cursor-pointer">
+  {{/* Profile Link Overlay - Makes entire card clickable */}}
+  <a
+    href="{{ $profileUrl }}"
+    class="absolute inset-0 z-0"
+    title="{{ $linkTitle }}"
+    aria-label="{{ $linkTitle }}"
+  >
+    <span class="sr-only">Voir le profil de {{ $fullName }}</span>
+  </a>
+
   {{/* Header with Background Image */}}
-  <div class="relative overflow-hidden h-40 md:h-48">
+  <div class="relative overflow-hidden h-40 md:h-48 z-10">
     {{/* Background Image Layer */}}
     {{ if and $profile.avatar_url (not (in $profile.avatar_url "ui-avatars.com")) }}
       <img
@@ -87,7 +108,7 @@
   </div>
 
   {{/* Content Section */}}
-  <div class="p-5 flex-grow flex flex-col">
+  <div class="p-5 flex-grow flex flex-col relative z-10">
     {{/* Specialty */}}
     <div class="mb-3">
       <p class="text-sm font-medium text-blue-700 text-center">
@@ -153,11 +174,12 @@
   </div>
 
   {{/* Footer with CTA */}}
-  <div class="p-5 pt-0">
+  <div class="p-5 pt-0 relative z-20">
     <a
       href="tel:{{ $phoneHref }}"
-      class="block w-full bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold py-3 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 text-center group"
+      class="block w-full bg-gradient-to-r from-blue-600 to-blue-700 hover:from-blue-700 hover:to-blue-800 text-white font-semibold py-3 px-4 rounded-lg shadow-md hover:shadow-lg transition-all duration-200 text-center group relative z-20"
       aria-label="Appeler {{ $fullName }}"
+      onclick="event.stopPropagation()"
     >
       <span class="flex items-center justify-center">
         <svg class="w-5 h-5 mr-2 group-hover:animate-pulse" fill="currentColor" viewBox="0 0 20 20">

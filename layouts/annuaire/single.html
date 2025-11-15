@@ -67,7 +67,7 @@
       {{/* Display top 12 profiles sorted by rating */}}
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
         {{ range first 12 $profilesData.all_profiles }}
-          {{ partial "electrician-card.html" . }}
+          {{ partial "electrician-card.html" (dict "profile" . "Page" $) }}
         {{ end }}
       </div>
     </div>
@@ -143,7 +143,7 @@
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {{ range $deptProfiles }}
-                {{ partial "electrician-card.html" . }}
+                {{ partial "electrician-card.html" (dict "profile" . "Page" $) }}
               {{ end }}
             </div>
           </div>

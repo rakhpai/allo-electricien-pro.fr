@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:32:40.400Z",
-  "lastUpdate": "2025-11-15T16:32:40.400Z",
+  "startTime": "2025-11-15T16:55:18.844Z",
+  "lastUpdate": "2025-11-15T16:55:18.844Z",
   "processed": {
     "total": 507,
-    "processed": 60,
-    "successful": 59,
+    "processed": 100,
+    "successful": 99,
     "failed": 1,
-    "totalInputTokens": 124367,
-    "totalOutputTokens": 132474
+    "totalInputTokens": 208773,
+    "totalOutputTokens": 222171
   },
-  "lastProcessedSlug": "/cely",
+  "lastProcessedSlug": "/choisy-en-brie",
   "costs": {
-    "inputTokens": 124367,
-    "outputTokens": 132474,
-    "totalTokens": 256841,
-    "cost": 0.6293896000000001,
-    "inputCost": 0.09949360000000002,
-    "outputCost": 0.529896
+    "inputTokens": 208773,
+    "outputTokens": 222171,
+    "totalTokens": 430944,
+    "cost": 1.0557024,
+    "inputCost": 0.1670184,
+    "outputCost": 0.888684
   }
 }

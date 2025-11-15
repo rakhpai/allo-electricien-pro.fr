@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:32:51.512Z",
-  "lastUpdate": "2025-11-15T16:32:51.512Z",
+  "startTime": "2025-11-15T17:00:59.269Z",
+  "lastUpdate": "2025-11-15T17:00:59.269Z",
   "processed": {
     "total": 262,
-    "processed": 60,
-    "successful": 60,
+    "processed": 110,
+    "successful": 110,
     "failed": 0,
-    "totalInputTokens": 125880,
-    "totalOutputTokens": 134155
+    "totalInputTokens": 229934,
+    "totalOutputTokens": 245264
   },
-  "lastProcessedSlug": "/courgent",
+  "lastProcessedSlug": "/jambville",
   "costs": {
-    "inputTokens": 125880,
-    "outputTokens": 134155,
-    "totalTokens": 260035,
-    "cost": 0.637324,
-    "inputCost": 0.100704,
-    "outputCost": 0.53662
+    "inputTokens": 229934,
+    "outputTokens": 245264,
+    "totalTokens": 475198,
+    "cost": 1.1650032000000001,
+    "inputCost": 0.1839472,
+    "outputCost": 0.981056
   }
 }

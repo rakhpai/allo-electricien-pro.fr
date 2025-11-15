@@ -1,0 +1,32 @@
+{
+  "generated_at": "2025-11-15T16:59:47.506Z",
+  "model": "claude-4-5-haiku-20241022",
+  "by_commune": {
+    "paris-1er": {
+      "commune_name": "Paris 1er",
+      "postal_code": "75001",
+      "department": "75",
+      "electricians": {}
+    }
+  },
+  "metadata": {
+    "total_communes": 1,
+    "total_pairs": 0,
+    "total_errors": 6,
+    "cost": {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "api_calls": 0,
+      "total_cost_usd": {
+        "inputTokens": 0,
+        "outputTokens": 0,
+        "totalTokens": 0,
+        "cost": 0,
+        "inputCost": 0,
+        "outputCost": 0
+      }
+    },
+    "generated_at": "2025-11-15T16:59:48.614Z",
+    "model": "claude-4-5-haiku-20241022"
+  }
+}

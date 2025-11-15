@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:33:15.643Z",
-  "lastUpdate": "2025-11-15T16:33:15.643Z",
+  "startTime": "2025-11-15T16:55:47.580Z",
+  "lastUpdate": "2025-11-15T16:55:47.580Z",
   "processed": {
     "total": 181,
-    "processed": 60,
-    "successful": 60,
+    "processed": 100,
+    "successful": 100,
     "failed": 0,
-    "totalInputTokens": 126582,
-    "totalOutputTokens": 135190
+    "totalInputTokens": 210736,
+    "totalOutputTokens": 224801
   },
-  "lastProcessedSlug": "/eragny",
+  "lastProcessedSlug": "/le-plessis-luzarches",
   "costs": {
-    "inputTokens": 126582,
-    "outputTokens": 135190,
-    "totalTokens": 261772,
-    "cost": 0.6420256,
-    "inputCost": 0.10126560000000001,
-    "outputCost": 0.54076
+    "inputTokens": 210736,
+    "outputTokens": 224801,
+    "totalTokens": 435537,
+    "cost": 1.0677928,
+    "inputCost": 0.1685888,
+    "outputCost": 0.899204
   }
 }

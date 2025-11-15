@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T16:33:04.811Z",
-  "lastUpdate": "2025-11-15T16:33:04.811Z",
+  "startTime": "2025-11-15T17:01:03.395Z",
+  "lastUpdate": "2025-11-15T17:01:03.395Z",
   "processed": {
     "total": 196,
-    "processed": 60,
-    "successful": 60,
+    "processed": 110,
+    "successful": 110,
     "failed": 0,
-    "totalInputTokens": 126258,
-    "totalOutputTokens": 134778
+    "totalInputTokens": 231422,
+    "totalOutputTokens": 247176
   },
-  "lastProcessedSlug": "/dannemois",
+  "lastProcessedSlug": "/marolles-en-beauce",
   "costs": {
-    "inputTokens": 126258,
-    "outputTokens": 134778,
-    "totalTokens": 261036,
-    "cost": 0.6401184000000001,
-    "inputCost": 0.10100640000000001,
-    "outputCost": 0.539112
+    "inputTokens": 231422,
+    "outputTokens": 247176,
+    "totalTokens": 478598,
+    "cost": 1.1738416,
+    "inputCost": 0.1851376,
+    "outputCost": 0.988704
   }
 }
