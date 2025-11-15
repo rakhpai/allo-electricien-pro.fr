@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:41:46.042Z",
-  "lastUpdate": "2025-11-15T17:41:46.042Z",
+  "startTime": "2025-11-15T18:09:52.833Z",
+  "lastUpdate": "2025-11-15T18:09:52.833Z",
   "processed": {
     "total": 262,
-    "processed": 180,
-    "successful": 180,
+    "processed": 230,
+    "successful": 230,
     "failed": 0,
-    "totalInputTokens": 377046,
-    "totalOutputTokens": 402931
+    "totalInputTokens": 482648,
+    "totalOutputTokens": 515696
   },
-  "lastProcessedSlug": "/montesson",
+  "lastProcessedSlug": "/saint-martin-la-garenne",
   "costs": {
-    "inputTokens": 377046,
-    "outputTokens": 402931,
-    "totalTokens": 779977,
-    "cost": 1.9133608,
-    "inputCost": 0.30163680000000004,
-    "outputCost": 1.611724
+    "inputTokens": 482648,
+    "outputTokens": 515696,
+    "totalTokens": 998344,
+    "cost": 2.4489024,
+    "inputCost": 0.38611840000000003,
+    "outputCost": 2.062784
   }
 }

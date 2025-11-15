@@ -1,22 +1,22 @@
 {
   "sessionId": "seo-enhancement-2025-11-15",
-  "startTime": "2025-11-15T17:41:27.645Z",
-  "lastUpdate": "2025-11-15T17:41:27.645Z",
+  "startTime": "2025-11-15T18:09:40.179Z",
+  "lastUpdate": "2025-11-15T18:09:40.179Z",
   "processed": {
     "total": 507,
-    "processed": 180,
-    "successful": 179,
+    "processed": 230,
+    "successful": 229,
     "failed": 1,
-    "totalInputTokens": 377171,
-    "totalOutputTokens": 401285
+    "totalInputTokens": 482863,
+    "totalOutputTokens": 514180
   },
-  "lastProcessedSlug": "/germigny-l-eveque",
+  "lastProcessedSlug": "/la-houssaye-en-brie",
   "costs": {
-    "inputTokens": 377171,
-    "outputTokens": 401285,
-    "totalTokens": 778456,
-    "cost": 1.9068768,
-    "inputCost": 0.3017368,
-    "outputCost": 1.60514
+    "inputTokens": 482863,
+    "outputTokens": 514180,
+    "totalTokens": 997043,
+    "cost": 2.4430104,
+    "inputCost": 0.38629040000000003,
+    "outputCost": 2.05672
   }
 }
