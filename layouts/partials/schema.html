@@ -229,13 +229,22 @@
   "@context": "https://schema.org",
   "@type": "VideoObject",
   "name": "{{ $videoTitle }}",
-  "description": "{{ if $videoData.voiceover_script }}{{ $videoData.voiceover_script | plainify }}{{ else }}Découvrez les services d'électricien à {{ $cityName }}. Intervention rapide 24/7 pour tous vos besoins électriques.{{ end }}",
+  "description": "{{ if $videoData.voiceover_script }}{{ $videoData.voiceover_script | plainify | truncate 200 }}{{ else }}Découvrez les services d'électricien à {{ $cityName }}. Intervention rapide 24/7 pour tous vos besoins électriques.{{ end }}",
   {{ if $thumbnailPath }}"thumbnailUrl": "{{ $thumbnailPath }}",{{ end }}
   "contentUrl": "{{ $videoUrl }}",
   "uploadDate": "{{ if $videoData.created_at }}{{ $videoData.created_at }}{{ else }}{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}{{ end }}",
   "duration": "{{ if $videoData.duration_iso }}{{ $videoData.duration_iso }}{{ else }}PT45S{{ end }}",
   "width": "1920",
-  "height": "1080"{{ if $videoData.voiceover_script }},
+  "height": "1080",
+  "inLanguage": "fr",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Allo Électricien",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}eleclogos/logo.png"
+    }
+  }{{ if $videoData.voiceover_script }},
   "transcript": "{{ $videoData.voiceover_script | plainify }}"{{ end }}
 }
 </script>

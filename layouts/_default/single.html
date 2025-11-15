@@ -9,46 +9,31 @@
   {{ end }}
 {{ end }}
 
-{{ if $hasVideo }}
-  {{/* LAYOUT WITH VIDEO: Video → Breadcrumb → Hero */}}
-
-  <!-- Video Section (first, wrapper has mt-24 to clear fixed navbar) -->
-  <div class="mt-24">
-    {{ partial "video-player.html" . }}
+<!-- Breadcrumb (consistent placement on all pages, before video/hero) -->
+<div class="py-3 mt-24">
+  <div class="container mx-auto px-4">
+    <nav class="flex items-center space-x-3 text-sm" aria-label="Breadcrumb">
+      <a href="/" class="text-primary hover:underline">SOS Électricien</a>
+      {{ if and .Params.department (ne .Params.department "null") }}
+      <span class="text-gray-400">/</span>
+      <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
+      {{ end }}
+      <span class="text-gray-400">/</span>
+      <span class="text-gray-600">{{ .Params.city }}</span>
+    </nav>
   </div>
+</div>
 
-  <!-- Breadcrumb (no top margin, video provides clearance) -->
-  <div class="bg-gray-100 border-b border-gray-200 py-3">
-    <div class="container mx-auto px-4">
-      <nav class="flex items-center space-x-2 text-sm">
-        <a href="/" class="text-primary hover:underline">SOS Électricien</a>
-        {{ if and .Params.department (ne .Params.department "null") }}
-        <span class="text-gray-400">/</span>
-        <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
-        {{ end }}
-        <span class="text-gray-400">/</span>
-        <span class="text-gray-600">{{ .Params.city }}</span>
-      </nav>
-    </div>
+{{ if $hasVideo }}
+  {{/* LAYOUT WITH VIDEO: Breadcrumb → Video → Hero */}}
+
+  <!-- Video Section -->
+  <div>
+    {{ partial "video-player.html" . }}
   </div>
 
 {{ else }}
   {{/* LAYOUT WITHOUT VIDEO: Breadcrumb → Hero */}}
-
-  <!-- Breadcrumb (with mt-24 to clear fixed navbar) -->
-  <div class="bg-gray-100 border-b border-gray-200 py-3 mt-24">
-    <div class="container mx-auto px-4">
-      <nav class="flex items-center space-x-2 text-sm">
-        <a href="/" class="text-primary hover:underline">SOS Électricien</a>
-        {{ if and .Params.department (ne .Params.department "null") }}
-        <span class="text-gray-400">/</span>
-        <a href="/electricien/{{ .Params.department }}" class="text-primary hover:underline">{{ .Params.department }}</a>
-        {{ end }}
-        <span class="text-gray-400">/</span>
-        <span class="text-gray-600">{{ .Params.city }}</span>
-      </nav>
-    </div>
-  </div>
 
 {{ end }}
 
@@ -392,7 +377,7 @@
       <!-- Profile Cards Grid -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
         {{ range $cityProfiles }}
-          {{ partial "electrician-card.html" . }}
+          {{ partial "electrician-card.html" (dict "profile" . "Page" $) }}
         {{ end }}
       </div>
 
