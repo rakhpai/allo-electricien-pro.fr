@@ -142,13 +142,13 @@
 
             {{/* Page markdown content if exists */}}
             {{ if .Content }}
-            <div class="prose prose-lg max-w-none mb-8">
+            {{/* <div class="prose prose-lg max-w-none mb-8">
               {{ .Content }}
-            </div>
+            </div> */}}
             {{ end }}
 
             {{/* SEO Enhanced Content Blocks */}}
-            {{/* {{ partial "seo-local-context.html" . }} */}}
+            {{ partial "seo-local-context.html" . }}
             {{ partial "seo-services-detailed.html" . }}
             {{ partial "seo-why-choose-local.html" . }}
             {{ partial "seo-faq-local.html" . }}
