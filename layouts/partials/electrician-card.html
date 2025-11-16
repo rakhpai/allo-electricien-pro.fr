@@ -146,12 +146,25 @@
       </div>
     </div>
 
-    {{/* Bio Snippet */}}
-    {{ if $profile.bio_short }}
+    {{/* Bio Snippet - Use localized bio if available, otherwise fall back to bio_short */}}
+    {{ $bioText := $profile.bio_localized | default $profile.bio_short }}
+    {{ if $bioText }}
     <div class="mb-4">
       <p class="text-sm text-gray-600 line-clamp-3 leading-relaxed">
-        {{ $profile.bio_short }}
+        {{ $bioText }}
       </p>
+    </div>
+    {{ end }}
+
+    {{/* Local Badge - Display if available */}}
+    {{ if $profile.local_badge }}
+    <div class="mb-3">
+      <span class="inline-flex items-center px-3 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded-full">
+        <svg class="w-3 h-3 mr-1.5 text-blue-600" fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
+        </svg>
+        {{ $profile.local_badge }}
+      </span>
     </div>
     {{ end }}
 

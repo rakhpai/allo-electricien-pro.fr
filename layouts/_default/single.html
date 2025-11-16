@@ -350,6 +350,10 @@
 {{ $citySlug := .Params.slug }}
 {{ $cityProfiles := slice }}
 
+{{/* Load localized commune context data */}}
+{{ $localizedContext := dict }}
+{{ $communeContext := index .Site.Data.electrician_commune_context.by_commune $citySlug }}
+
 {{/* Get profiles for this specific city - try both with and without "e" suffix for Paris arrondissements */}}
 {{ if and $profilesData $citySlug }}
   {{ if isset $profilesData.by_city $citySlug }}
@@ -363,8 +367,29 @@
   {{ end }}
 {{ end }}
 
+{{/* Merge localized context with profiles */}}
+{{ $enrichedProfiles := slice }}
+{{ if and $cityProfiles $communeContext }}
+  {{ range $cityProfiles }}
+    {{ $profile := . }}
+    {{ $profileId := .id }}
+    {{ $localizedData := index $communeContext.electricians $profileId }}
+
+    {{/* Merge profile with localized data if available */}}
+    {{ if $localizedData }}
+      {{ $enrichedProfile := merge $profile $localizedData }}
+      {{ $enrichedProfiles = $enrichedProfiles | append $enrichedProfile }}
+    {{ else }}
+      {{ $enrichedProfiles = $enrichedProfiles | append $profile }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{/* No localized context, use original profiles */}}
+  {{ $enrichedProfiles = $cityProfiles }}
+{{ end }}
+
 {{/* Display profiles if available */}}
-{{ if gt (len $cityProfiles) 0 }}
+{{ if gt (len $enrichedProfiles) 0 }}
 <!-- Electricians Section -->
 <section class="py-16 bg-gradient-to-br from-gray-50 via-blue-50 to-gray-50">
   <div class="container mx-auto px-4">
@@ -375,13 +400,13 @@
           Nos Électriciens à {{ .Params.city }}
         </h2>
         <p class="text-lg text-gray-600 max-w-2xl mx-auto">
-          {{ len $cityProfiles }} professionnel{{ if gt (len $cityProfiles) 1 }}s{{ end }} certifié{{ if gt (len $cityProfiles) 1 }}s{{ end }} disponible{{ if gt (len $cityProfiles) 1 }}s{{ end }} pour intervenir rapidement à {{ .Params.city }} ({{ .Params.zipCode }})
+          {{ len $enrichedProfiles }} professionnel{{ if gt (len $enrichedProfiles) 1 }}s{{ end }} certifié{{ if gt (len $enrichedProfiles) 1 }}s{{ end }} disponible{{ if gt (len $enrichedProfiles) 1 }}s{{ end }} pour intervenir rapidement à {{ .Params.city }} ({{ .Params.zipCode }})
         </p>
       </div>
 
       <!-- Profile Cards Grid -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-8">
-        {{ range $cityProfiles }}
+        {{ range $enrichedProfiles }}
           {{ partial "electrician-card.html" (dict "profile" . "Page" $) }}
         {{ end }}
       </div>
