@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "moussy-le-neuf",
+  "processedCommunes": [
+    "mortcerf",
+    "mortery",
+    "mouroux",
+    "mousseaux-les-bray",
+    "moussy-le-neuf"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 33266,
+    "outputTokens": 8357,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.503Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "mortcerf": {
+        "commune_name": "MORTCERF",
+        "postal_code": "77163",
+        "department": "77",
+        "electricians": {
+          "c4e25591-90e8-4f2d-9be0-de8e3a9e634d": {
+            "profile_id": "c4e25591-90e8-4f2d-9be0-de8e3a9e634d",
+            "commune_slug": "mortcerf",
+            "bio_localized": "Électricien professionnel basé à Mortcerf, je propose des solutions d'éclairage LED innovantes adaptées aux pavillons et bâtiments de Seine-et-Marne. Avec 5 ans d'expérience, je garantis des installations durables et économes. Disponible pour tous vos projets électriques en région parisienne.",
+            "local_badge": "Électricien expert de Mortcerf, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Mortcerf, optimisant votre consommation énergétique.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Mortcerf",
+            "why_this_commune": "Emmanuel Morel est le choix idéal pour Mortcerf. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:23.368Z",
+            "used_fallback": false
+          },
+          "a79f112a-a961-45ca-a857-6615a6fd5d5a": {
+            "profile_id": "a79f112a-a961-45ca-a857-6615a6fd5d5a",
+            "commune_slug": "mortcerf",
+            "bio_localized": "Électricien expert à Mortcerf depuis 10 ans, je maîtrise l'installation de tableaux électriques pour tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Certifié et rigoureux, je garantis des installations conformes et sécurisées en Seine-et-Marne. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Mortcerf, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation et rénovation de tableaux électriques à Mortcerf pour tous vos besoins domestiques.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et réactif à Mortcerf",
+            "why_this_commune": "Eric Lemoine est le choix idéal pour Mortcerf. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:55:35.837Z",
+            "used_fallback": false
+          },
+          "31d6496e-3370-49f5-99bd-d4b697489f61": {
+            "profile_id": "31d6496e-3370-49f5-99bd-d4b697489f61",
+            "commune_slug": "mortcerf",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, Stéphane Martinez intervient à Mortcerf et ses environs en Seine-et-Marne. Spécialiste de la rénovation électrique, il modernise les installations des pavillons et bâtiments anciens avec professionnalisme. Diagnostics précis et travaux de qualité garantis pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Mortcerf, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Mortcerf, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "17 ans d'expérience électricien à Mortcerf, interventions rapides et fiables",
+            "why_this_commune": "Stéphane Martinez est le choix idéal pour Mortcerf. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:49.646Z",
+            "used_fallback": false
+          },
+          "7a087381-8b88-45cb-ac39-e9813a90a436": {
+            "profile_id": "7a087381-8b88-45cb-ac39-e9813a90a436",
+            "commune_slug": "mortcerf",
+            "bio_localized": "Expert en installation de tableaux électriques à Mortcerf depuis 16 ans, Eric Nicolas intervient sur les pavillons et immeubles de Seine-et-Marne. Certifié et rigoureux, il garantit des installations sécurisées et conformes aux normes. Votre satisfaction est sa priorité.",
+            "local_badge": "Électricien expert de Mortcerf, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques à Mortcerf pour résidences et commerces.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et reconnu à Mortcerf",
+            "why_this_commune": "Eric Nicolas est un excellent choix pour Mortcerf. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:56:02.410Z",
+            "used_fallback": false
+          },
+          "54e9f06b-240a-458a-8e20-da157bf9207b": {
+            "profile_id": "54e9f06b-240a-458a-8e20-da157bf9207b",
+            "commune_slug": "mortcerf",
+            "bio_localized": "Électricien expérimenté à Mortcerf, je sécurise vos installations selon la norme NF C 15-100. Spécialisé dans la mise aux normes des pavillons et résidences de Seine-et-Marne, je garantis des interventions fiables et conformes. Devis gratuit, travail soigné et rapide.",
+            "local_badge": "Électricien expert de Mortcerf, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Mortcerf pour sécuriser vos installations électriques.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Mortcerf",
+            "why_this_commune": "Charles Perrin est le choix idéal pour Mortcerf. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et les particularités de ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:19.186Z",
+            "used_fallback": false
+          },
+          "7528d30f-88c4-4a75-bf3a-6daa64188d25": {
+            "profile_id": "7528d30f-88c4-4a75-bf3a-6daa64188d25",
+            "commune_slug": "mortcerf",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Mortcerf, je maîtrise le dépannage express pour tous types d'installations. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une intervention rapide et fiable. Mon expertise couvre vos besoins électriques urgents avec professionnalisme et réactivité.",
+            "local_badge": "Électricien expert de Mortcerf, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Mortcerf : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "19 ans d'expérience électricien à Mortcerf, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Garnier est le choix idéal pour Mortcerf. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:31.997Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "mortery": {
+        "commune_name": "MORTERY",
+        "postal_code": "77160",
+        "department": "77",
+        "electricians": {
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "mortery",
+            "bio_localized": "Eric Vincent, électricien expert à Mortery en Seine-et-Marne, intervient depuis 10 ans sur l'installation et la rénovation de tableaux électriques. Spécialiste des pavillons et immeubles locaux, il garantit des installations conformes et sécurisées. Service fiable et satisfaction client assurée.",
+            "local_badge": "Électricien expert de Mortery, intervention rapide",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les habitations et commerces de Mortery",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Mortery, interventions rapides et fiables",
+            "why_this_commune": "Eric Vincent est le choix idéal pour Mortery. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience en Seine-et-Marne, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:56:44.879Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "mortery",
+            "bio_localized": "Électricien expérimenté à Mortery depuis 10 ans, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Je garantis des installations sécurisées et conformes. Devis gratuit et interventions rapides dans votre commune.",
+            "local_badge": "Électricien expert de Mortery, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Mortery.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et réactif à Mortery, garantie satisfaction",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Mortery. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:58.884Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "mortery",
+            "bio_localized": "Eric Barbier, électricien expert à Mortery, intervient sur l'installation de tableaux électriques pour les pavillons et résidences de Seine-et-Marne. Fort de 5 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et satisfaction client assurée dans toute la région.",
+            "local_badge": "Électricien expert de Mortery, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes des tableaux électriques à Mortery pour tous vos besoins.",
+            "trust_signal": "5 ans d'expérience, électricien fiable et certifié à Mortery",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Mortery. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:12.262Z",
+            "used_fallback": false
+          },
+          "95a68b59-a0ac-4250-8658-7be5d58f3f29": {
+            "profile_id": "95a68b59-a0ac-4250-8658-7be5d58f3f29",
+            "commune_slug": "mortery",
+            "bio_localized": "Luc Gautier, électricien expert en domotique et automatisation à Mortery, intervient depuis 20 ans en Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il modernise vos installations avec solutions intelligentes et fiables. Qualité et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Mortery, intervention rapide",
+            "service_highlight": "Électricien expert en domotique et automatisation pour les habitations modernes de Mortery",
+            "trust_signal": "20 ans d'expérience électricien à Mortery, interventions rapides et fiables",
+            "why_this_commune": "Luc Gautier est le choix idéal pour Mortery. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:26.140Z",
+            "used_fallback": false
+          },
+          "9cf3a72e-3ad2-4184-8bae-d61fea31fd92": {
+            "profile_id": "9cf3a72e-3ad2-4184-8bae-d61fea31fd92",
+            "commune_slug": "mortery",
+            "bio_localized": "Électricien professionnel à Mortery depuis 13 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles de Seine-et-Marne. Efficacité énergétique et modernisation garanties. Interventions rapides et fiables pour tous vos besoins électriques en région parisienne.",
+            "local_badge": "Électricien expert de Mortery, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Mortery, je transforme vos espaces avec des solutions lumineuses modernes et économes.",
+            "trust_signal": "13 ans d'expérience électricien confirmé à Mortery, interventions rapides et fiables",
+            "why_this_commune": "Florian Marchand est le choix idéal pour Mortery. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T08:57:38.298Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "mortery",
+            "bio_localized": "Électricien expérimenté à Mortery depuis 9 ans, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de Seine-et-Marne. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Mortery, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Mortery.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Mortery",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Mortery. Électricien local, il maîtrise parfaitement les spécificités architecturales et les caractéristiques des bâtiments de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:57:51.145Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "mouroux": {
+        "commune_name": "MOUROUX",
+        "postal_code": "77120",
+        "department": "77",
+        "electricians": {
+          "54e9f06b-240a-458a-8e20-da157bf9207b": {
+            "profile_id": "54e9f06b-240a-458a-8e20-da157bf9207b",
+            "commune_slug": "mouroux",
+            "bio_localized": "Électricien qualifié à Mouroux depuis 5 ans, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et résidences de Seine-et-Marne. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Mouroux, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Mouroux.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Mouroux",
+            "why_this_commune": "Charles Perrin est le choix idéal pour Mouroux. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:03.955Z",
+            "used_fallback": false
+          },
+          "7528d30f-88c4-4a75-bf3a-6daa64188d25": {
+            "profile_id": "7528d30f-88c4-4a75-bf3a-6daa64188d25",
+            "commune_slug": "mouroux",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Mouroux, je maîtrise le dépannage express sur tous types d'installations. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une intervention rapide et fiable. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert de Mouroux, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Mouroux : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "19 ans d'expérience électricien à Mouroux, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Garnier est le choix idéal pour Mouroux. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et une totale confiance.",
+            "generated_at": "2025-11-16T08:58:45.315Z",
+            "used_fallback": false
+          },
+          "c4e25591-90e8-4f2d-9be0-de8e3a9e634d": {
+            "profile_id": "c4e25591-90e8-4f2d-9be0-de8e3a9e634d",
+            "commune_slug": "mouroux",
+            "bio_localized": "Électricien professionnel à Mouroux depuis 5 ans, je spécialise dans l'éclairage LED haute performance. Que vous résidiez dans les pavillons typiques de Seine-et-Marne ou les constructions modernes, j'optimise votre consommation énergétique avec des solutions d'éclairage durables et innovantes. Disponible pour tous vos projets électriques.",
+            "local_badge": "Électricien expert de Mouroux, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour tous vos projets d'illumination à Mouroux et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée à Mouroux, électricien fiable et professionnel",
+            "why_this_commune": "Emmanuel Morel est un excellent choix pour Mouroux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:58:58.194Z",
+            "used_fallback": false
+          },
+          "a79f112a-a961-45ca-a857-6615a6fd5d5a": {
+            "profile_id": "a79f112a-a961-45ca-a857-6615a6fd5d5a",
+            "commune_slug": "mouroux",
+            "bio_localized": "Eric Lemoine, électricien expert à Mouroux, intervient sur l'installation et la rénovation de tableaux électriques pour les pavillons et résidences de Seine-et-Marne. Fort de 10 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et professionnel au cœur du 77.",
+            "local_badge": "Électricien expert de Mouroux, intervention rapide",
+            "service_highlight": "Électricien spécialisé dans l'installation et la mise aux normes de tableaux électriques à Mouroux.",
+            "trust_signal": "10 ans d'expérience électricien à Mouroux, intervention rapide garantie",
+            "why_this_commune": "Eric Lemoine est un excellent choix pour Mouroux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:12.044Z",
+            "used_fallback": false
+          },
+          "31d6496e-3370-49f5-99bd-d4b697489f61": {
+            "profile_id": "31d6496e-3370-49f5-99bd-d4b697489f61",
+            "commune_slug": "mouroux",
+            "bio_localized": "Fort de 17 ans d'expérience, Stéphane Martinez intervient à Mouroux pour rénover complètement vos installations électriques. Spécialiste des pavillons et immeubles de Seine-et-Marne, il modernise vos réseaux avec professionnalisme et sécurité, garantissant une électricité fiable et conforme aux normes actuelles.",
+            "local_badge": "Électricien expert de Mouroux, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Mouroux, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et reconnu à Mouroux",
+            "why_this_commune": "Stéphane Martinez est le choix idéal pour Mouroux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T08:59:25.135Z",
+            "used_fallback": false
+          },
+          "3b96883f-208b-40c1-96a1-11511e2cd078": {
+            "profile_id": "3b96883f-208b-40c1-96a1-11511e2cd078",
+            "commune_slug": "mouroux",
+            "bio_localized": "Pascal Rolland, électricien agréé Consuel à Mouroux, intervient depuis 6 ans sur les installations électriques résidentielles et professionnelles. Expert en conformité et sécurité électrique, il accompagne les habitants de Seine-et-Marne pour leurs diagnostics, rénovations et mises aux normes. Professionnel fiable et rigoureux.",
+            "local_badge": "Électricien expert de Mouroux, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Mouroux, expert en installations et conformité électrique pour tous vos projets résidentiels et professionnels.",
+            "trust_signal": "6 ans d'expérience, électricien fiable et réactif à Mouroux",
+            "why_this_commune": "Pascal Rolland est le choix idéal pour Mouroux. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:39.356Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "mousseaux-les-bray": {
+        "commune_name": "MOUSSEAUX-LÈS-BRAY",
+        "postal_code": "77480",
+        "department": "77",
+        "electricians": {
+          "25ee41c4-13c1-4b4d-8139-75c1ef9aec26": {
+            "profile_id": "25ee41c4-13c1-4b4d-8139-75c1ef9aec26",
+            "commune_slug": "mousseaux-les-bray",
+            "bio_localized": "Électricien qualifié depuis 20 ans à Mousseaux-Lès-Bray, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Expert en installations électriques sécurisées, je garantis conformité et fiabilité. Devis gratuit et interventions rapides en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Mousseaux-Lès-Bray depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations de Mousseaux-Lès-Bray, garantissant votre sécurité électrique.",
+            "trust_signal": "20 ans d'expérience électricien à Mousseaux-Lès-Bray, intervention rapide garantie",
+            "why_this_commune": "Antoine Rousseau est le choix idéal pour Mousseaux-Lès-Bray. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:51.947Z",
+            "used_fallback": false
+          },
+          "ecfda4f8-6f59-4e65-93e8-2bd415e03d93": {
+            "profile_id": "ecfda4f8-6f59-4e65-93e8-2bd415e03d93",
+            "commune_slug": "mousseaux-les-bray",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Mousseaux-Lès-Bray, Philippe Mercier intervient sur tous types de installations électriques. Que ce soit pour vos pavillons, immeubles ou rénovations, il garantit un travail soigné et des interventions rapides. Expertise reconnue en électricité générale en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Mousseaux-Lès-Bray depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Mousseaux-Lès-Bray pour particuliers et professionnels.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Mousseaux-Lès-Bray, interventions rapides garanties",
+            "why_this_commune": "Philippe Mercier est le choix idéal pour Mousseaux-Lès-Bray. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:05.356Z",
+            "used_fallback": false
+          },
+          "7076db8d-13da-4bc9-b65f-3c0273bc5232": {
+            "profile_id": "7076db8d-13da-4bc9-b65f-3c0273bc5232",
+            "commune_slug": "mousseaux-les-bray",
+            "bio_localized": "Serge Robin, électricien expert à Mousseaux-Lès-Bray, fort de 19 ans d'expérience en rénovation électrique. Spécialiste des installations anciennes et modernes, il intervient sur pavillons et immeubles du secteur Seine-et-Marne. Sérieux et fiable, il garantit des travaux conformes aux normes actuelles pour votre sécurité.",
+            "local_badge": "Électricien expert de Mousseaux-Lès-Bray depuis longtemps",
+            "service_highlight": "Rénovation électrique complète pour maisons anciennes à Mousseaux-Lès-Bray, mise aux normes et sécurité garanties.",
+            "trust_signal": "19 ans d'expérience électrique à Mousseaux-Lès-Bray, intervention rapide garantie",
+            "why_this_commune": "Serge Robin est le choix idéal pour Mousseaux-Lès-Bray. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:19.407Z",
+            "used_fallback": false
+          },
+          "95a68b59-a0ac-4250-8658-7be5d58f3f29": {
+            "profile_id": "95a68b59-a0ac-4250-8658-7be5d58f3f29",
+            "commune_slug": "mousseaux-les-bray",
+            "bio_localized": "Luc Gautier, électricien expert en domotique et automatisation à Mousseaux-Lès-Bray, intervient depuis 20 ans auprès des résidents de Seine-et-Marne. Spécialiste des installations intelligentes pour pavillons et immeubles, il modernise votre habitat avec professionnalisme et fiabilité, garantissant confort et sécurité électrique.",
+            "local_badge": "Électricien expert de Mousseaux-Lès-Bray",
+            "service_highlight": "Expert en domotique et automatisation électrique pour les résidences de Mousseaux-Lès-Bray, garantissant confort et efficacité énergétique.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Mousseaux-Lès-Bray, interventions rapides garanties",
+            "why_this_commune": "Luc Gautier est le choix idéal pour Mousseaux-Lès-Bray. Électricien local, il connaît parfaitement les spécificités architecturales et infrastructures de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:32.285Z",
+            "used_fallback": false
+          },
+          "9cf3a72e-3ad2-4184-8bae-d61fea31fd92": {
+            "profile_id": "9cf3a72e-3ad2-4184-8bae-d61fea31fd92",
+            "commune_slug": "mousseaux-les-bray",
+            "bio_localized": "Électricien depuis 13 ans à Mousseaux-Lès-Bray, je spécialise dans l'éclairage LED professionnel pour pavillons et bâtiments modernes. En Seine-et-Marne, j'interviens pour optimiser votre consommation énergétique avec des solutions d'éclairage innovantes et durables. Artisan de confiance, disponible pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Mousseaux-Lès-Bray depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités de Mousseaux-Lès-Bray.",
+            "trust_signal": "13 ans d'expérience, électricien fiable et reconnu à Mousseaux-Lès-Bray",
+            "why_this_commune": "Florian Marchand est le choix idéal pour Mousseaux-Lès-Bray. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:00:45.479Z",
+            "used_fallback": false
+          },
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "mousseaux-les-bray",
+            "bio_localized": "Expert en installation de tableaux électriques à Mousseaux-Lès-Bray, je maîtrise les spécificités des pavillons et constructions modernes de Seine-et-Marne. Fort de 10 ans d'expérience, je garantis des installations conformes et sécurisées. Votre satisfaction et la qualité de mes interventions sont mes priorités absolues.",
+            "local_badge": "Électricien expert de Mousseaux-Lès-Bray, intervention rapide",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les résidences de Mousseaux-Lès-Bray",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable à Mousseaux-Lès-Bray, interventions rapides garanties",
+            "why_this_commune": "Eric Vincent est le choix idéal pour Mousseaux-Lès-Bray. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:00:58.135Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "moussy-le-neuf": {
+        "commune_name": "MOUSSY-LE-NEUF",
+        "postal_code": "77230",
+        "department": "77",
+        "electricians": {
+          "066b3c21-f8c9-44e9-8639-7c7a547de869": {
+            "profile_id": "066b3c21-f8c9-44e9-8639-7c7a547de869",
+            "commune_slug": "moussy-le-neuf",
+            "bio_localized": "Didier Jean, électricien expert à Moussy-le-Neuf, intervient depuis 13 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et petits immeubles de Seine-et-Marne, il garantit des installations conformes aux normes, sécurisées et durables. Service fiable et professionnel.",
+            "local_badge": "Électricien expert de Moussy-le-Neuf depuis des années",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Moussy-le-Neuf pour résidences et bâtiments tertiaires.",
+            "trust_signal": "13 ans d'expérience confirmée à Moussy-le-Neuf, électricien fiable et réactif",
+            "why_this_commune": "Didier Jean est le choix idéal pour Moussy-le-Neuf. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:12.076Z",
+            "used_fallback": false
+          },
+          "c27a67dd-7b00-4bf4-a2a6-a7ce0dca0bb7": {
+            "profile_id": "c27a67dd-7b00-4bf4-a2a6-a7ce0dca0bb7",
+            "commune_slug": "moussy-le-neuf",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Moussy-le-Neuf, je spécialise dans l'installation de tableaux électriques pour pavillons et immeubles. Maîtrisant les normes actuelles, j'interviens en Seine-et-Marne avec professionnalisme et fiabilité. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Moussy-le-Neuf depuis longtemps",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques neufs et rénovations à Moussy-le-Neuf pour résidences et entreprises.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Moussy-le-Neuf, interventions rapides garanties",
+            "why_this_commune": "Eric Boyer est le choix idéal pour Moussy-le-Neuf. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:25.002Z",
+            "used_fallback": false
+          },
+          "d820c27d-817a-4c5b-a19a-5b1af57c8914": {
+            "profile_id": "d820c27d-817a-4c5b-a19a-5b1af57c8914",
+            "commune_slug": "moussy-le-neuf",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Moussy-le-Neuf, Philippe Bourgeois intervient sur tous types de installations électriques. Maisons individuelles, pavillons ou immeubles, il garantit un travail soigné et des interventions rapides. Votre électricité générale en Seine-et-Marne, c'est son expertise.",
+            "local_badge": "Électricien expert de Moussy-le-Neuf depuis années",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Moussy-le-Neuf et ses environs proches.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et reconnu à Moussy-le-Neuf",
+            "why_this_commune": "Philippe Bourgeois est le choix idéal pour Moussy-le-Neuf. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:37.666Z",
+            "used_fallback": false
+          },
+          "37930c85-1e07-4a6a-bec5-6b9ea13dcee7": {
+            "profile_id": "37930c85-1e07-4a6a-bec5-6b9ea13dcee7",
+            "commune_slug": "moussy-le-neuf",
+            "bio_localized": "Robert Morel, électricien expert à Moussy-le-Neuf, met ses 15 années d'expérience au service de vos projets de rénovation électrique. Spécialiste des installations résidentielles en Seine-et-Marne, il intervient sur pavillons et immeubles avec professionnalisme et fiabilité. Votre partenaire de confiance pour une électricité sécurisée et conforme.",
+            "local_badge": "Électricien expert de Moussy-le-Neuf depuis des années",
+            "service_highlight": "Électricien expert en rénovation électrique à Moussy-le-Neuf, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Moussy-le-Neuf, interventions rapides garanties",
+            "why_this_commune": "Robert Morel est le choix idéal pour Moussy-le-Neuf. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:50.367Z",
+            "used_fallback": false
+          },
+          "ce98024b-3a81-4e86-bac2-7ce59fc3d721": {
+            "profile_id": "ce98024b-3a81-4e86-bac2-7ce59fc3d721",
+            "commune_slug": "moussy-le-neuf",
+            "bio_localized": "René Brunet, électricien expert à Moussy-le-Neuf depuis 19 ans, maîtrise parfaitement la rénovation électrique. Spécialisé dans la modernisation des installations des pavillons et immeubles de Seine-et-Marne, il garantit des travaux sécurisés et conformes aux normes actuelles pour votre tranquillité.",
+            "local_badge": "Électricien expert de Moussy-le-Neuf, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, intervenant régulièrement à Moussy-le-Neuf pour moderniser vos installations.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable et reconnu à Moussy-le-Neuf",
+            "why_this_commune": "René Brunet est le choix idéal pour Moussy-le-Neuf. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:02:02.691Z",
+            "used_fallback": false
+          },
+          "98e368df-bab0-47dd-8ce9-6323c067f9ae": {
+            "profile_id": "98e368df-bab0-47dd-8ce9-6323c067f9ae",
+            "commune_slug": "moussy-le-neuf",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Moussy-le-Neuf, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Moussy-le-Neuf depuis des années",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Moussy-le-Neuf pour sécuriser vos installations électriques.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Moussy-le-Neuf",
+            "why_this_commune": "Yves Leclercq est le choix idéal pour Moussy-le-Neuf. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:02:16.544Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

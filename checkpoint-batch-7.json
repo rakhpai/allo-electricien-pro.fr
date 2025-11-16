@@ -1,5 +1,5 @@
 {
-  "lastProcessedCommune": "plessis-saint-benoist",
+  "lastProcessedCommune": "saint-escobille",
   "processedCommunes": [
     "evry",
     "abbeville-la-riviere",
@@ -140,17 +140,32 @@
     "palaiseau",
     "paray-vieille-poste",
     "pecqueuse",
-    "plessis-saint-benoist"
+    "plessis-saint-benoist",
+    "prunay-sur-essonne",
+    "puiselet-le-marais",
+    "pussay",
+    "quincy-sous-senart",
+    "richarville",
+    "ris-orangis",
+    "roinville",
+    "roinvilliers",
+    "saclas",
+    "saclay",
+    "saint-aubin",
+    "saint-cheron",
+    "saint-cyr-la-riviere",
+    "saint-cyr-sous-dourdan",
+    "saint-escobille"
   ],
   "processed": {
-    "successful": 840,
+    "successful": 930,
     "errors": 0,
     "total": 197
   },
   "stats": {
-    "inputTokens": 926690,
-    "outputTokens": 231792,
-    "apiCalls": 4200
+    "inputTokens": 1026282,
+    "outputTokens": 256671,
+    "apiCalls": 4650
   },
   "output": {
     "generated_at": "2025-11-16T05:03:20.992Z",
@@ -10372,6 +10387,1101 @@
             "trust_signal": "13 ans d'expérience électrique à Plessis-Saint-Benoist, interventions rapides et fiables",
             "why_this_commune": "Sébastien Morel est le choix idéal pour Plessis-Saint-Benoist. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
             "generated_at": "2025-11-16T08:13:48.818Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "prunay-sur-essonne": {
+        "commune_name": "PRUNAY-SUR-ESSONNE",
+        "postal_code": "91720",
+        "department": "91",
+        "electricians": {
+          "6c0bd034-fc42-4c85-922b-0ab14c096eda": {
+            "profile_id": "6c0bd034-fc42-4c85-922b-0ab14c096eda",
+            "commune_slug": "prunay-sur-essonne",
+            "bio_localized": "Bernard Renaud, électricien à Prunay-sur-Essonne, intervient 24h/24 sur tous vos besoins électriques. Avec 6 ans d'expérience, il maîtrise les installations des pavillons locaux comme les rénovations d'immeubles. Disponible en urgence, il garantit un travail soigné et une intervention rapide pour sécuriser votre habitat en Essonne.",
+            "local_badge": "Électricien expert de Prunay-sur-Essonne depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Prunay-sur-Essonne pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Prunay-sur-Essonne",
+            "why_this_commune": "Bernard Renaud est le choix idéal pour Prunay-sur-Essonne. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une totale fiabilité.",
+            "generated_at": "2025-11-16T08:14:01.728Z",
+            "used_fallback": false
+          },
+          "b7bec5fd-de44-46dd-8cdc-0650e85b765d": {
+            "profile_id": "b7bec5fd-de44-46dd-8cdc-0650e85b765d",
+            "commune_slug": "prunay-sur-essonne",
+            "bio_localized": "Benjamin Martinez, électricien expert en éclairage LED professionnel à Prunay-sur-Essonne. Fort de 6 ans d'expérience, j'interviens sur les pavillons et bâtiments du secteur essonnien. Solutions d'éclairage modernes, économes et durables pour vos projets résidentiels et commerciaux. Disponible pour diagnostics et installations.",
+            "local_badge": "Électricien expert de Prunay-sur-Essonne depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités de Prunay-sur-Essonne",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Prunay-sur-Essonne",
+            "why_this_commune": "Benjamin Martinez est le choix idéal pour Prunay-sur-Essonne. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:14:15.010Z",
+            "used_fallback": false
+          },
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "prunay-sur-essonne",
+            "bio_localized": "Thomas Lemaire, électricien expert à Prunay-sur-Essonne, intervient rapidement sur tous vos dépannages électriques. Fort de 5 ans d'expérience, je maîtrise les installations des pavillons et immeubles locaux. Disponible en urgence, je garantis des solutions fiables et durables pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Prunay-sur-Essonne",
+            "service_highlight": "Dépannage électrique express à Prunay-sur-Essonne : interventions rapides et efficaces pour tous vos problèmes électriques.",
+            "trust_signal": "5 ans d'expérience confirmée à Prunay-sur-Essonne, électricien fiable et professionnel",
+            "why_this_commune": "Thomas Lemaire est le choix idéal pour Prunay-sur-Essonne. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:14:28.067Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "prunay-sur-essonne",
+            "bio_localized": "Électricien dépanneur à Prunay-sur-Essonne depuis 7 ans, je maîtrise les installations des pavillons et maisons de la région. Spécialiste du dépannage express, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible en urgence, je garantis un service fiable et professionnel adapté à votre habitat.",
+            "local_badge": "Électricien expert de Prunay-sur-Essonne depuis longtemps",
+            "service_highlight": "Dépannage électrique express et fiable à Prunay-sur-Essonne pour tous vos problèmes d'électricité urgents",
+            "trust_signal": "7 ans d'expérience, électricien fiable et réactif à Prunay-sur-Essonne",
+            "why_this_commune": "Maxime Dupont est le choix idéal pour Prunay-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:14:40.864Z",
+            "used_fallback": false
+          },
+          "91e70702-0b59-4116-9a21-44e712c2e3d5": {
+            "profile_id": "91e70702-0b59-4116-9a21-44e712c2e3d5",
+            "commune_slug": "prunay-sur-essonne",
+            "bio_localized": "Gérard Morel, électricien expert en domotique et automatisation à Prunay-sur-Essonne, intervient depuis 20 ans auprès des habitants de l'Essonne. Spécialisé dans l'équipement des pavillons et résidences modernes, il propose des solutions intelligentes adaptées à chaque habitat. Qualité et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Prunay-sur-Essonne",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les maisons de Prunay-sur-Essonne, modernisant vos installations électriques.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Prunay-sur-Essonne, intervention rapide garantie",
+            "why_this_commune": "Gérard Morel est le choix idéal pour Prunay-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une grande fiabilité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:14:53.721Z",
+            "used_fallback": false
+          },
+          "5f598468-db3b-480c-ace3-5d85b769c50e": {
+            "profile_id": "5f598468-db3b-480c-ace3-5d85b769c50e",
+            "commune_slug": "prunay-sur-essonne",
+            "bio_localized": "Électricien expérimenté depuis 13 ans, Pierre Brunet intervient à Prunay-sur-Essonne pour tous vos besoins en électricité générale. Spécialisé dans l'entretien et la rénovation des installations électriques, il garantit des interventions rapides et soignées sur les pavillons et immeubles de la région essonnienne.",
+            "local_badge": "Électricien expert de Prunay-sur-Essonne depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Prunay-sur-Essonne pour particuliers et professionnels.",
+            "trust_signal": "13 ans d'expérience électricien à Prunay-sur-Essonne, interventions rapides garanties",
+            "why_this_commune": "Pierre Brunet est le choix idéal pour Prunay-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:15:07.262Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "puiselet-le-marais": {
+        "commune_name": "PUISELET-LE-MARAIS",
+        "postal_code": "91150",
+        "department": "91",
+        "electricians": {
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "puiselet-le-marais",
+            "bio_localized": "Électricien professionnel à Puiselet-le-Marais depuis 7 ans, je maîtrise le dépannage express pour tous les types d'habitations. Des pavillons aux immeubles modernes de l'Essonne, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible et réactif, je garantis un service fiable et sécurisé.",
+            "local_badge": "Électricien expert de Puiselet-le-Marais depuis des années",
+            "service_highlight": "Dépannage électrique express à Puiselet-le-Marais : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expertise électrique à Puiselet-le-Marais, interventions fiables et rapides",
+            "why_this_commune": "Maxime Dupont est le choix idéal pour Puiselet-le-Marais. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:15:21.805Z",
+            "used_fallback": false
+          },
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "puiselet-le-marais",
+            "bio_localized": "Thomas Lemaire, électricien expert à Puiselet-le-Marais, intervient rapidement sur tous vos dépannages électriques. Avec 5 ans d'expérience, je maîtrise les installations des pavillons et immeubles de l'Essonne. Dépannage express et solutions fiables pour votre tranquillité électrique.",
+            "local_badge": "Électricien expert de Puiselet-le-Marais depuis années",
+            "service_highlight": "Dépannage électrique express à Puiselet-le-Marais : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Puiselet-le-Marais, interventions rapides garanties",
+            "why_this_commune": "Thomas Lemaire est le choix idéal pour Puiselet-le-Marais. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et les caractéristiques de ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T08:15:34.695Z",
+            "used_fallback": false
+          },
+          "6c0bd034-fc42-4c85-922b-0ab14c096eda": {
+            "profile_id": "6c0bd034-fc42-4c85-922b-0ab14c096eda",
+            "commune_slug": "puiselet-le-marais",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Puiselet-le-Marais, Bernard Renaud intervient 24h/24 sur tous types de bâtiments, des pavillons aux immeubles modernes. Spécialisé en dépannage d'urgence, il garantit une intervention rapide et un travail soigné pour sécuriser votre installation électrique en Essonne.",
+            "local_badge": "Électricien expert de Puiselet-le-Marais depuis années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Puiselet-le-Marais",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Puiselet-le-Marais",
+            "why_this_commune": "Bernard Renaud est le choix idéal pour Puiselet-le-Marais. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:15:47.099Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "puiselet-le-marais",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Puiselet-le-Marais, met à profit 15 ans d'expérience pour sécuriser vos installations. Spécialisé en électricité professionnelle, il intervient sur les pavillons et immeubles de l'Essonne avec expertise et fiabilité. Votre conformité électrique, sa priorité.",
+            "local_badge": "Électricien expert de Puiselet-le-Marais depuis années",
+            "service_highlight": "Électricien agréé Consuel intervenant sur tous les travaux électriques à Puiselet-le-Marais avec certification aux normes en vigueur.",
+            "trust_signal": "15 ans d'expérience électricien à Puiselet-le-Marais, interventions rapides et fiables",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Puiselet-le-Marais. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et adapté.",
+            "generated_at": "2025-11-16T08:16:02.002Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "puiselet-le-marais",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Puiselet-le-Marais, je suis spécialisé en dépannage express pour tous les types d'habitations : pavillons, maisons anciennes et résidences modernes. Interventions rapides et fiables en Essonne. Votre électricien de confiance pour une sécurité électrique garantie.",
+            "local_badge": "Électricien expert de Puiselet-le-Marais depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Puiselet-le-Marais : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "13 ans d'expérience, électricien certifié à Puiselet-le-Marais, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Morel, électricien local à Puiselet-le-Marais, maîtrise parfaitement les spécificités architecturales de l'Essonne. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:16:16.398Z",
+            "used_fallback": false
+          },
+          "353345b2-315b-4d3c-b94c-82919ef6c8f0": {
+            "profile_id": "353345b2-315b-4d3c-b94c-82919ef6c8f0",
+            "commune_slug": "puiselet-le-marais",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Puiselet-le-Marais, Bernard Gautier intervient 24h/24 sur les pavillons et immeubles de l'Essonne. Spécialiste des urgences électriques, il garantit des interventions rapides et un travail soigné. Disponible immédiatement pour vos dépannages.",
+            "local_badge": "Électricien expert de Puiselet-le-Marais",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Puiselet-le-Marais",
+            "trust_signal": "13 ans d'expérience confirmée à Puiselet-le-Marais, électricien fiable et professionnel",
+            "why_this_commune": "Bernard Gautier, électricien local à Puiselet-le-Marais, maîtrise parfaitement les caractéristiques des bâtiments essonniens. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins spécifiques de la commune.",
+            "generated_at": "2025-11-16T08:16:30.698Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "pussay": {
+        "commune_name": "PUSSAY",
+        "postal_code": "91740",
+        "department": "91",
+        "electricians": {
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "pussay",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Pussay, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et résidences de l'Essonne. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Pussay depuis des années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations électriques à Pussay.",
+            "trust_signal": "19 ans d'expérience électricien à Pussay, interventions rapides et fiables",
+            "why_this_commune": "Denis Rodriguez est le choix idéal pour Pussay. Électricien local, il maîtrise parfaitement les spécificités architecturales et les particularités des installations de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience approfondie de la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:16:42.783Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "pussay",
+            "bio_localized": "Électricien expérimenté depuis 12 ans, je propose un dépannage express adapté aux besoins variés de Pussay. Que vous habitiez un pavillon ou un immeuble, je maîtrise tous les types d'installations électriques. Intervention rapide et fiable pour sécuriser votre habitat en Essonne.",
+            "local_badge": "Électricien expert de Pussay, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Pussay : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à Pussay",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Pussay. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T08:16:55.852Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "pussay",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je suis spécialisé dans l'installation de bornes de recharge à Pussay et ses environs. Je maîtrise les installations résidentielles, des pavillons aux immeubles modernes. Intervention rapide, devis gratuit et travail de qualité garantis en Essonne.",
+            "local_badge": "Électricien expert de Pussay, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge à Pussay pour véhicules électriques.",
+            "trust_signal": "15 ans d'expérience électricien à Pussay, interventions rapides et fiables garanties",
+            "why_this_commune": "Guillaume Nguyen est un excellent choix pour Pussay. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:17:08.807Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "pussay",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Pussay, met son expertise de 15 ans au service des habitants de l'Essonne. Spécialisé dans les installations électriques des pavillons et immeubles locaux, il garantit la conformité et la sécurité de vos installations avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Pussay depuis des années",
+            "service_highlight": "Électricien agréé Consuel à Pussay, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Pussay, interventions rapides garanties",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Pussay. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service de qualité et une compréhension précise de vos besoins électriques.",
+            "generated_at": "2025-11-16T08:17:22.173Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "pussay",
+            "bio_localized": "Électricien expérimenté depuis 13 ans, je suis votre spécialiste du dépannage express à Pussay et ses environs. Intervenant sur les pavillons et immeubles de l'Essonne, je garantis des solutions rapides et fiables pour tous vos problèmes électriques. Disponible pour urgences et entretien.",
+            "local_badge": "Électricien expert de Pussay, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Pussay : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable et professionnel à Pussay",
+            "why_this_commune": "Sébastien Morel est le choix idéal pour Pussay. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune essonnienne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:17:34.752Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "pussay",
+            "bio_localized": "Électricien expérimenté à Pussay, je maîtrise le dépannage express sur tous types de bâtiments, des pavillons aux immeubles modernes de l'Essonne. Avec 7 ans d'expertise, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible et fiable pour sécuriser votre installation.",
+            "local_badge": "Électricien expert de Pussay, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Pussay : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience, électricien fiable et reconnu à Pussay",
+            "why_this_commune": "Maxime Dupont, électricien local à Pussay, connaît parfaitement les spécificités des bâtiments essonniens. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience en Essonne, il maîtrise les particularités architecturales locales pour un service fiable et adapté.",
+            "generated_at": "2025-11-16T08:17:47.189Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "quincy-sous-senart": {
+        "commune_name": "QUINCY-SOUS-SENART",
+        "postal_code": "91480",
+        "department": "91",
+        "electricians": {
+          "e9897e44-8534-4032-bd4f-2ecfbc886101": {
+            "profile_id": "e9897e44-8534-4032-bd4f-2ecfbc886101",
+            "commune_slug": "quincy-sous-senart",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Quincy-sous-Senart, je maîtrise tous les travaux d'électricité générale. Que vous habitiez un pavillon, un immeuble moderne ou une construction ancienne, j'interviens rapidement pour garantir votre sécurité électrique. Travail soigné et professionnel en Essonne.",
+            "local_badge": "Électricien expert de Quincy-sous-Senart depuis des années",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Quincy-sous-Senart pour installations et dépannages électriques résidentiels et tertiaires.",
+            "trust_signal": "12 ans d'expérience électrique à Quincy-sous-Senart, interventions rapides et fiables",
+            "why_this_commune": "André Gaillard est le choix idéal pour Quincy-sous-Senart. Électricien local expérimenté, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:18:01.469Z",
+            "used_fallback": false
+          },
+          "d051b405-14ae-4a70-a49e-1ffa358a9d1e": {
+            "profile_id": "d051b405-14ae-4a70-a49e-1ffa358a9d1e",
+            "commune_slug": "quincy-sous-senart",
+            "bio_localized": "Électricien expérimenté à Quincy-sous-Senart, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Depuis 10 ans, je sécurise vos installations électriques avec professionnalisme. Devis gratuit et interventions rapides garanties.",
+            "local_badge": "Électricien expert de Quincy-sous-Senart depuis des années",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour tous les logements de Quincy-sous-Senart, garantissant votre sécurité électrique.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable et reconnu à Quincy-sous-Senart",
+            "why_this_commune": "Yves Lambert est le choix idéal pour Quincy-sous-Senart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:18:14.676Z",
+            "used_fallback": false
+          },
+          "36b67415-6ae1-4ce5-aaea-07cfaabeb93b": {
+            "profile_id": "36b67415-6ae1-4ce5-aaea-07cfaabeb93b",
+            "commune_slug": "quincy-sous-senart",
+            "bio_localized": "Henri Petit, électricien expert en domotique et automatisation à Quincy-sous-Senart, intervient depuis 16 ans auprès des résidents de l'Essonne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions intelligentes adaptées à chaque habitat. Qualité de service et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Quincy-sous-Senart depuis des années",
+            "service_highlight": "Électricien domotique à Quincy-sous-Senart : automatisation et installations intelligentes pour votre confort résidentiel et professionnel.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Quincy-sous-Senart",
+            "why_this_commune": "Henri Petit est le choix idéal pour Quincy-sous-Senart. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone essonnienne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:18:28.465Z",
+            "used_fallback": false
+          },
+          "8148c340-510b-4348-a9fe-d7aae0ad9c09": {
+            "profile_id": "8148c340-510b-4348-a9fe-d7aae0ad9c09",
+            "commune_slug": "quincy-sous-senart",
+            "bio_localized": "Henri Duval, électricien expert en domotique et automatisation à Quincy-sous-Senart, intervient depuis 18 ans auprès des résidents de l'Essonne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il modernise votre habitat avec des solutions intelligentes fiables et durables. Satisfaction client garantie.",
+            "local_badge": "Électricien expert de Quincy-sous-Senart depuis des années",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les résidences de Quincy-sous-Senart, modernisant vos installations intelligentes.",
+            "trust_signal": "18 ans d'expérience, électricien fiable et qualifié à Quincy-sous-Senart",
+            "why_this_commune": "Henri Duval est le choix idéal pour Quincy-sous-Senart. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:18:41.262Z",
+            "used_fallback": false
+          },
+          "b6b4f22c-bb57-46cb-9af8-15c00255a9fc": {
+            "profile_id": "b6b4f22c-bb57-46cb-9af8-15c00255a9fc",
+            "commune_slug": "quincy-sous-senart",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Quincy-sous-Senart, je maîtrise l'électricité dans tous les types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Disponible 24h/24 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné en Essonne.",
+            "local_badge": "Électricien expert à Quincy-sous-Senart depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Quincy-sous-Senart pour toutes vos interventions électriques rapides et fiables.",
+            "trust_signal": "14 ans d'expérience confirmée, électricien fiable à Quincy-sous-Senart",
+            "why_this_commune": "Daniel Barbier est un excellent choix pour Quincy-sous-Senart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:18:53.972Z",
+            "used_fallback": false
+          },
+          "a1e16894-5dcb-46e2-bd69-9691d665c17e": {
+            "profile_id": "a1e16894-5dcb-46e2-bd69-9691d665c17e",
+            "commune_slug": "quincy-sous-senart",
+            "bio_localized": "François André, électricien certifié à Quincy-sous-Senart, intervient sur l'installation et la rénovation de tableaux électriques. Spécialiste des pavillons et immeubles de l'Essonne, il garantit des installations conformes et sécurisées. Avec 5 ans d'expérience, il met votre satisfaction au cœur de ses interventions.",
+            "local_badge": "Électricien expert de Quincy-sous-Senart depuis des années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour résidences et commerces à Quincy-sous-Senart.",
+            "trust_signal": "5 ans d'expérience confirmée à Quincy-sous-Senart, interventions rapides et fiables",
+            "why_this_commune": "François André est le choix idéal pour Quincy-sous-Senart. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:19:07.081Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "richarville": {
+        "commune_name": "RICHARVILLE",
+        "postal_code": "91410",
+        "department": "91",
+        "electricians": {
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "richarville",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Richarville, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes de l'Essonne. Intervention rapide et fiable pour vos urgences électriques. Disponible pour diagnostiquer et résoudre vos problèmes sans délai.",
+            "local_badge": "Électricien expert de Richarville, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Richarville : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Richarville",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Richarville. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments richarvellois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:19:23.942Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "richarville",
+            "bio_localized": "Électricien qualifié depuis 15 ans, j'interviens à Richarville pour l'installation de bornes de recharge. Spécialiste des infrastructures électriques modernes, j'adapte mes solutions aux pavillons et immeubles de l'Essonne. Devis gratuit, travail soigné et délais respectés.",
+            "local_badge": "Électricien expert de Richarville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Richarville et ses environs.",
+            "trust_signal": "15 ans d'expérience confirmée à Richarville, électricien fiable et réactif",
+            "why_this_commune": "Guillaume Nguyen est un excellent choix pour Richarville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune essonnienne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:19:36.489Z",
+            "used_fallback": false
+          },
+          "776b98df-4196-4812-b127-6a33cea0ef52": {
+            "profile_id": "776b98df-4196-4812-b127-6a33cea0ef52",
+            "commune_slug": "richarville",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Richarville, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous résidiez en pavillon ou immeuble en Essonne, je garantis des interventions rapides et professionnelles. Devis gratuit et service de qualité assurés.",
+            "local_badge": "Électricien expert de Richarville, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Richarville pour véhicules électriques",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Richarville, intervention rapide garantie",
+            "why_this_commune": "Julien Clement est le choix idéal pour Richarville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit une intervention rapide en cas d'urgence. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:19:49.615Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "richarville",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Richarville, je maîtrise le dépannage express sur tous types de bâtiments. Des pavillons aux immeubles modernes de l'Essonne, j'interviens rapidement pour résoudre vos urgences électriques. Disponible et fiable pour garantir votre sécurité.",
+            "local_badge": "Électricien expert de Richarville, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Richarville : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "13 ans d'expérience électricien à Richarville, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Morel est le choix idéal pour Richarville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune essonnienne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:20:01.968Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "richarville",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Richarville, met à profit ses 15 années d'expertise pour sécuriser vos installations électriques. Spécialiste des pavillons et immeubles essonniens, il garantit conformité et fiabilité pour tous vos travaux en Essonne.",
+            "local_badge": "Électricien expert de Richarville, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Richarville, expert en conformité et sécurité des installations électriques résidentielles et commerciales.",
+            "trust_signal": "15 ans d'expérience confirmée à Richarville, électricien fiable et professionnel",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Richarville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service de qualité et rassurant.",
+            "generated_at": "2025-11-16T08:20:15.521Z",
+            "used_fallback": false
+          },
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "richarville",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Richarville, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles de l'Essonne. Intervenant rapidement sur 91410, je garantis des installations sécurisées et conformes. Devis gratuit et travail de qualité.",
+            "local_badge": "Électricien expert de Richarville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Richarville pour sécuriser vos installations électriques.",
+            "trust_signal": "10 ans d'expérience électricien à Richarville, intervention rapide garantie",
+            "why_this_commune": "Antoine Vidal est le choix idéal pour Richarville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:20:27.779Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ris-orangis": {
+        "commune_name": "RIS-ORANGIS",
+        "postal_code": "91000",
+        "department": "91",
+        "electricians": {
+          "1f474ed1-9439-4e09-b1a0-416f5769aa66": {
+            "profile_id": "1f474ed1-9439-4e09-b1a0-416f5769aa66",
+            "commune_slug": "ris-orangis",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Ris-Orangis, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant sur l'Essonne, je garantis des installations sécurisées et conformes. Devis gratuit et service rapide pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Ris-Orangis, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Ris-Orangis pour sécuriser vos installations électriques résidentielles et tertiaires.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable à Ris-Orangis depuis longtemps",
+            "why_this_commune": "Thierry Fournier est le choix idéal pour Ris-Orangis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:20:41.573Z",
+            "used_fallback": false
+          },
+          "039bc952-d120-4162-b344-138c3f7e93f2": {
+            "profile_id": "039bc952-d120-4162-b344-138c3f7e93f2",
+            "commune_slug": "ris-orangis",
+            "bio_localized": "Électricien spécialisé en rénovation électrique à Ris-Orangis, Robert Rodriguez intervient sur l'ensemble de l'Essonne. Fort de 15 ans d'expérience, il modernise les installations des pavillons et immeubles locaux. Expertise reconnue, travail soigné et devis transparent pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert à Ris-Orangis, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique intervenant régulièrement à Ris-Orangis pour moderniser installations anciennes.",
+            "trust_signal": "15 ans d'expérience confirmée, électricien de confiance à Ris-Orangis",
+            "why_this_commune": "Robert Rodriguez est un excellent choix pour Ris-Orangis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:20:54.364Z",
+            "used_fallback": false
+          },
+          "708dd742-caa2-43cb-bb47-7df7bae361bf": {
+            "profile_id": "708dd742-caa2-43cb-bb47-7df7bae361bf",
+            "commune_slug": "ris-orangis",
+            "bio_localized": "Électricien expérimenté de 16 ans à Ris-Orangis, je maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Ris-Orangis, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Ris-Orangis pour tous vos besoins en installations et dépannages électriques résidentiels.",
+            "trust_signal": "16 ans d'expérience électricien à Ris-Orangis, interventions rapides et fiables",
+            "why_this_commune": "André Marie est un excellent choix pour Ris-Orangis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:21:07.089Z",
+            "used_fallback": false
+          },
+          "2f797855-b577-4c1f-bc1a-1ee76e2d6840": {
+            "profile_id": "2f797855-b577-4c1f-bc1a-1ee76e2d6840",
+            "commune_slug": "ris-orangis",
+            "bio_localized": "Dominique Olivier, électricien expert à Ris-Orangis, intervient depuis 19 ans sur l'installation de tableaux électriques. Spécialisé dans les pavillons et immeubles de l'Essonne, il garantit des installations conformes et sécurisées. Service fiable et professionnel pour votre tranquillité.",
+            "local_badge": "Électricien expert de Ris-Orangis, intervention rapide",
+            "service_highlight": "Spécialiste de l'installation et la mise aux normes de tableaux électriques pour les habitations de Ris-Orangis.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable à Ris-Orangis",
+            "why_this_commune": "Dominique Olivier est le choix idéal pour Ris-Orangis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et fiables. Son expérience confirmée dans cette zone essonnienne assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:21:21.407Z",
+            "used_fallback": false
+          },
+          "4f92bec2-a75c-4005-8ba1-d102cb9ba06d": {
+            "profile_id": "4f92bec2-a75c-4005-8ba1-d102cb9ba06d",
+            "commune_slug": "ris-orangis",
+            "bio_localized": "Électricien expérimenté à Ris-Orangis depuis 7 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Disponible rapidement pour vos urgences électriques en Essonne, je garantis des interventions fiables et professionnelles.",
+            "local_badge": "Électricien expert de Ris-Orangis, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Ris-Orangis : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience confirmée à Ris-Orangis, électricien fiable et professionnel",
+            "why_this_commune": "Vincent Perez est le choix idéal pour Ris-Orangis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:21:34.106Z",
+            "used_fallback": false
+          },
+          "c3f87772-4c53-417d-9203-9ad72fecad07": {
+            "profile_id": "c3f87772-4c53-417d-9203-9ad72fecad07",
+            "commune_slug": "ris-orangis",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Ris-Orangis, je spécialise dans la mise aux normes NF C 15-100 pour pavillons, immeubles et bâtiments anciens de l'Essonne. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Ris-Orangis, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Ris-Orangis.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Ris-Orangis, interventions rapides garanties",
+            "why_this_commune": "Yves Rolland est le choix idéal pour Ris-Orangis. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans cette zone de l'Essonne, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:21:47.435Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "roinville": {
+        "commune_name": "ROINVILLE",
+        "postal_code": "91410",
+        "department": "91",
+        "electricians": {
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "roinville",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Roinville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Roinville, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations électriques à Roinville.",
+            "trust_signal": "10 ans d'expérience, électricien de confiance à Roinville pour tous vos travaux",
+            "why_this_commune": "Antoine Vidal est un excellent choix pour Roinville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:22:00.211Z",
+            "used_fallback": false
+          },
+          "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683": {
+            "profile_id": "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683",
+            "commune_slug": "roinville",
+            "bio_localized": "Paul Gautier, électricien expert à Roinville, intervient depuis 19 ans sur la rénovation électrique des pavillons et immeubles de l'Essonne. Spécialiste des installations anciennes et modernes, il sécurise votre habitat avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Roinville, intervention rapide garantie",
+            "service_highlight": "Rénovation électrique complète pour les maisons anciennes et modernes de Roinville, avec expertise reconnue.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Roinville, interventions rapides et fiables",
+            "why_this_commune": "Paul Gautier est un excellent choix pour Roinville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T08:22:13.895Z",
+            "used_fallback": false
+          },
+          "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9": {
+            "profile_id": "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9",
+            "commune_slug": "roinville",
+            "bio_localized": "Pascal Nicolas, électricien agréé Consuel à Roinville, met ses 15 années d'expertise au service des habitants de l'Essonne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur les pavillons et immeubles de la région avec rigueur et fiabilité pour garantir votre sécurité électrique.",
+            "local_badge": "Électricien expert de Roinville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Roinville, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Roinville, interventions rapides et fiables",
+            "why_this_commune": "Pascal Nicolas est le choix idéal pour Roinville. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:22:27.008Z",
+            "used_fallback": false
+          },
+          "6b0cbbce-772e-4473-933d-abb0a7722856": {
+            "profile_id": "6b0cbbce-772e-4473-933d-abb0a7722856",
+            "commune_slug": "roinville",
+            "bio_localized": "Électricien professionnel basé à Roinville, je mets à profit 19 ans d'expérience pour illuminer vos espaces. Spécialiste en éclairage LED performant, j'interviens sur les pavillons et immeubles de l'Essonne. Solutions énergétiques modernes et durables pour résidences et professionnels.",
+            "local_badge": "Électricien expert de Roinville, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour tous les bâtiments et commerces de Roinville",
+            "trust_signal": "19 ans d'expérience, électricien de confiance à Roinville, interventions rapides et fiables",
+            "why_this_commune": "Alexandre Bourgeois est le choix idéal pour Roinville. Installé localement en Essonne, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:22:39.400Z",
+            "used_fallback": false
+          },
+          "0373b220-5e27-49ce-9e52-ecc11dfae039": {
+            "profile_id": "0373b220-5e27-49ce-9e52-ecc11dfae039",
+            "commune_slug": "roinville",
+            "bio_localized": "Olivier Renard, électricien agréé Consuel à Roinville, intervient depuis 5 ans sur les pavillons et immeubles de l'Essonne. Spécialiste des installations électriques neuves et rénovations, il garantit la conformité de vos installations avec expertise et sérieux. Votre électricien de confiance en Essonne.",
+            "local_badge": "Électricien expert de Roinville, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Roinville, expert en conformité et sécurité des installations électriques résidentielles et professionnelles.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Roinville",
+            "why_this_commune": "Olivier Renard est le choix idéal pour Roinville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée en Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:22:52.137Z",
+            "used_fallback": false
+          },
+          "32429625-95d5-47f8-9a53-773b4ff6be05": {
+            "profile_id": "32429625-95d5-47f8-9a53-773b4ff6be05",
+            "commune_slug": "roinville",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, je maîtrise l'électricité générale pour tous les types de bâtiments à Roinville. Des pavillons aux immeubles modernes, j'interviens rapidement avec professionnalisme et rigueur. Diagnostics, installations, rénovations : votre sécurité électrique est ma priorité en Essonne.",
+            "local_badge": "Électricien expert de Roinville, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Roinville pour tous vos besoins en installations et rénovations électriques.",
+            "trust_signal": "16 ans d'expérience électricien à Roinville, interventions rapides et fiables garanties",
+            "why_this_commune": "Philippe Giraud est le choix idéal pour Roinville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:23:05.257Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "roinvilliers": {
+        "commune_name": "ROINVILLIERS",
+        "postal_code": "91150",
+        "department": "91",
+        "electricians": {
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "roinvilliers",
+            "bio_localized": "Électricien expérimenté basé à Roinvilliers, je propose un dépannage express pour tous vos besoins électriques. Spécialisé dans l'intervention rapide sur les pavillons et immeubles de l'Essonne, je garantis des solutions fiables et efficaces. Avec 5 ans d'expérience, je suis votre professionnel de confiance pour tous vos dépannages électriques.",
+            "local_badge": "Électricien expert de Roinvilliers, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Roinvilliers : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Roinvilliers",
+            "why_this_commune": "Thomas Lemaire est un excellent choix pour Roinvilliers. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:23:18.419Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "roinvilliers",
+            "bio_localized": "Électricien professionnel basé à Roinvilliers, je propose un dépannage express adapté à tous les types d'habitations : pavillons, immeubles et bâtiments anciens de l'Essonne. Avec 7 ans d'expérience, je garantis des interventions rapides et fiables pour vos problèmes électriques. Disponible pour vous servir localement.",
+            "local_badge": "Électricien expert de Roinvilliers, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Roinvilliers : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Roinvilliers",
+            "why_this_commune": "Maxime Dupont est le choix idéal pour Roinvilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:23:31.215Z",
+            "used_fallback": false
+          },
+          "6c0bd034-fc42-4c85-922b-0ab14c096eda": {
+            "profile_id": "6c0bd034-fc42-4c85-922b-0ab14c096eda",
+            "commune_slug": "roinvilliers",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Roinvilliers, je maîtrise les installations des pavillons et immeubles de l'Essonne. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme. Diagnostics précis et réparations fiables garantis pour votre sécurité et tranquillité.",
+            "local_badge": "Électricien expert de Roinvilliers, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Roinvilliers pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Roinvilliers",
+            "why_this_commune": "Bernard Renaud est le choix idéal pour Roinvilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone de l'Essonne assure un travail de qualité et fiable.",
+            "generated_at": "2025-11-16T08:23:44.407Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "roinvilliers",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Roinvilliers, met à profit 15 années d'expertise pour sécuriser vos installations. Spécialiste des contrôles de conformité en Essonne, il intervient sur pavillons et immeubles avec professionnalisme et rigueur, garantissant vos normes électriques.",
+            "local_badge": "Électricien expert de Roinvilliers, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Roinvilliers, je garantis la conformité de vos installations électriques avec expertise et professionnalisme.",
+            "trust_signal": "15 ans d'expérience électricien à Roinvilliers, interventions rapides et fiables garanties",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Roinvilliers. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et les quartiers environnants. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:23:57.570Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "roinvilliers",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Roinvilliers, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans toute l'Essonne.",
+            "local_badge": "Électricien expert de Roinvilliers, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Roinvilliers : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "13 ans d'expertise électrique à Roinvilliers, intervention rapide garantie",
+            "why_this_commune": "Sébastien Morel est le choix idéal pour Roinvilliers grâce à sa connaissance approfondie des spécificités locales et de l'architecture du secteur. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté aux besoins des habitants.",
+            "generated_at": "2025-11-16T08:24:10.443Z",
+            "used_fallback": false
+          },
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "roinvilliers",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Roinvilliers, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Roinvilliers, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Roinvilliers.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Roinvilliers, interventions rapides garanties",
+            "why_this_commune": "Denis Rodriguez est le choix idéal pour Roinvilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:24:24.115Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saclas": {
+        "commune_name": "SACLAS",
+        "postal_code": "91690",
+        "department": "91",
+        "electricians": {
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "saclas",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Saclas, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles de l'Essonne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saclas, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saclas pour sécuriser vos installations électriques.",
+            "trust_signal": "19 ans d'expérience électricien à Saclas, interventions rapides et fiables",
+            "why_this_commune": "Denis Rodriguez est le choix idéal pour Saclas. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:24:36.575Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "saclas",
+            "bio_localized": "Électricien expérimenté à Saclas depuis 7 ans, je maîtrise le dépannage express pour tous vos besoins. Spécialiste des installations résidentielles et tertiaires en Essonne, j'interviens rapidement dans les pavillons et immeubles de la région. Professionnel fiable et réactif, je garantis des solutions durables et sécurisées.",
+            "local_badge": "Électricien expert de Saclas, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Saclas : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience, électricien fiable et disponible rapidement à Saclas",
+            "why_this_commune": "Maxime Dupont est le choix idéal pour Saclas grâce à sa connaissance approfondie des bâtiments et quartiers locaux. Basé en Essonne, il intervient rapidement dans votre commune. Son expérience confirmée dans cette zone garantit des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:24:49.508Z",
+            "used_fallback": false
+          },
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "saclas",
+            "bio_localized": "Électricien expérimenté à Saclas, je maîtrise le dépannage express pour tous les types de bâtiments : pavillons, immeubles résidentiels et locaux commerciaux. Avec 5 ans d'expertise, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible et réactif en Essonne, je garantis un service professionnel et fiable.",
+            "local_badge": "Électricien expert de Saclas, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Saclas : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "5 ans d'expérience, électricien fiable et réactif à Saclas",
+            "why_this_commune": "Thomas Lemaire est le choix idéal pour Saclas. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:25:03.902Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "saclas",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Saclas, met 15 ans d'expertise au service des pavillons et immeubles de l'Essonne. Spécialiste des installations électriques professionnelles, il garantit la conformité et la sécurité de vos installations. Interventions fiables dans toute la région.",
+            "local_badge": "Électricien expert de Saclas, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Saclas, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience confirmée, électricien fiable et réactif à Saclas",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Saclas. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:25:17.741Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "saclas",
+            "bio_localized": "Électricien expérimenté à Saclas depuis 12 ans, je maîtrise le dépannage express pour tous types d'habitations : pavillons, immeubles et constructions modernes de l'Essonne. Interventions rapides et fiables, disponible pour vos urgences électriques. Votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert de Saclas, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Saclas : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à Saclas",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Saclas. Électricien local, il connaît parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité adapté aux besoins spécifiques de Saclas.",
+            "generated_at": "2025-11-16T08:25:30.977Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "saclas",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je spécialise dans l'installation de bornes de recharge à Saclas. Que vous habitiez un pavillon ou un immeuble en Essonne, je garantis des interventions rapides et fiables. Devis gratuit et conseil personnalisé pour votre transition électrique.",
+            "local_badge": "Électricien expert de Saclas, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge électrique à Saclas pour véhicules électriques.",
+            "trust_signal": "15 ans d'expérience, électricien fiable et réactif à Saclas",
+            "why_this_commune": "Guillaume Nguyen est le choix idéal pour Saclas. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:25:43.859Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saclay": {
+        "commune_name": "SACLAY",
+        "postal_code": "91400",
+        "department": "91",
+        "electricians": {
+          "31f99c0b-e43e-4964-96da-7d067472371c": {
+            "profile_id": "31f99c0b-e43e-4964-96da-7d067472371c",
+            "commune_slug": "saclay",
+            "bio_localized": "Électricien expérimenté basé à Saclay, je propose des solutions d'éclairage LED professionnel adaptées aux pavillons et bâtiments modernes de l'Essonne. Fort de 15 ans d'expertise, j'interviens pour optimiser votre consommation énergétique avec des installations fiables et durables. Disponible pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert à Saclay, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Saclay pour optimiser vos installations lumineuses.",
+            "trust_signal": "15 ans d'expérience électricien à Saclay, interventions rapides et fiables garanties",
+            "why_this_commune": "Emmanuel Fournier est le choix idéal pour Saclay. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:25:56.443Z",
+            "used_fallback": false
+          },
+          "f1c4a960-2d01-4c62-861f-1369de89793a": {
+            "profile_id": "f1c4a960-2d01-4c62-861f-1369de89793a",
+            "commune_slug": "saclay",
+            "bio_localized": "Laurent Lemaire, électricien spécialisé en domotique et automatisation à Saclay. Depuis 5 ans, je modernise les installations électriques des pavillons et immeubles du plateau de Saclay. Expert certifié, je garantis des solutions intelligentes adaptées à votre habitat, avec un service fiable et une satisfaction client assurée.",
+            "local_badge": "Électricien expert de Saclay, intervention rapide garantie",
+            "service_highlight": "Électricien domotique à Saclay : automatisation intelligente et installations électriques modernes pour votre confort.",
+            "trust_signal": "5 ans d'expérience confirmée à Saclay, interventions rapides et fiables garanties",
+            "why_this_commune": "Laurent Lemaire est le choix idéal pour Saclay. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:26:10.053Z",
+            "used_fallback": false
+          },
+          "ab458f09-2c64-4f54-a8e9-28c1f8cec51f": {
+            "profile_id": "ab458f09-2c64-4f54-a8e9-28c1f8cec51f",
+            "commune_slug": "saclay",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Saclay, je maîtrise le dépannage express pour tous types de bâtiments : pavillons, immeubles modernes et résidences. Disponible rapidement en Essonne, je garantis des interventions fiables et professionnelles pour vos urgences électriques.",
+            "local_badge": "Électricien expert de Saclay depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saclay : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Saclay, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Durand est le choix idéal pour Saclay. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:26:24.109Z",
+            "used_fallback": false
+          },
+          "c5abf0f8-003b-49ab-9785-4f87cb5aaf45": {
+            "profile_id": "c5abf0f8-003b-49ab-9785-4f87cb5aaf45",
+            "commune_slug": "saclay",
+            "bio_localized": "Électricien expert à Saclay depuis 16 ans, Eric Barbier intervient sur l'installation de tableaux électriques pour les pavillons et immeubles modernes de l'Essonne. Certifié et rigoureux, il garantit des installations sécurisées et conformes aux normes. Votre satisfaction est sa priorité.",
+            "local_badge": "Électricien expert à Saclay, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes de tableaux électriques résidentiels à Saclay.",
+            "trust_signal": "16 ans d'expérience électricien à Saclay, interventions rapides et fiables garanties",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Saclay. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:26:36.846Z",
+            "used_fallback": false
+          },
+          "4b6dd5b7-8602-4796-a3bb-ff5c390691c7": {
+            "profile_id": "4b6dd5b7-8602-4796-a3bb-ff5c390691c7",
+            "commune_slug": "saclay",
+            "bio_localized": "Électricien expérimenté à Saclay depuis 8 ans, je spécialise en éclairage LED professionnel pour les pavillons et immeubles modernes de l'Essonne. Intervenant sur tous vos besoins électriques, je garantis des installations fiables et économes. Votre confiance, ma priorité.",
+            "local_badge": "Électricien expert de Saclay, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et bâtiments de Saclay, optimisant votre consommation énergétique.",
+            "trust_signal": "8 ans d'expérience confirmée à Saclay, électricien fiable et réactif",
+            "why_this_commune": "Benjamin André est un excellent choix pour Saclay. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité et une totale fiabilité pour vos besoins électriques.",
+            "generated_at": "2025-11-16T08:26:49.622Z",
+            "used_fallback": false
+          },
+          "d2264c77-a5a8-4a52-be3f-61564164c4c1": {
+            "profile_id": "d2264c77-a5a8-4a52-be3f-61564164c4c1",
+            "commune_slug": "saclay",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saclay, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Disponible immédiatement en Essonne, je garantis un diagnostic rapide et des réparations fiables pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert de Saclay, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Saclay pour tous vos dépannages et installations électriques.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Saclay, interventions rapides et fiables",
+            "why_this_commune": "Daniel Dupont est un excellent choix pour Saclay. Électricien local basé en Essonne, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T08:27:03.048Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-aubin": {
+        "commune_name": "SAINT-AUBIN",
+        "postal_code": "91190",
+        "department": "91",
+        "electricians": {
+          "c5abf0f8-003b-49ab-9785-4f87cb5aaf45": {
+            "profile_id": "c5abf0f8-003b-49ab-9785-4f87cb5aaf45",
+            "commune_slug": "saint-aubin",
+            "bio_localized": "Eric Barbier, électricien expert à Saint-Aubin, intervient depuis 16 ans sur l'installation de tableaux électriques. Spécialiste des pavillons et immeubles de l'Essonne, il garantit des installations sécurisées et conformes. Votre confiance est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Aubin depuis années",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Saint-Aubin, garantissant conformité et sécurité.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Aubin, électricien fiable et professionnel",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Saint-Aubin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers essonniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:27:17.726Z",
+            "used_fallback": false
+          },
+          "4b6dd5b7-8602-4796-a3bb-ff5c390691c7": {
+            "profile_id": "4b6dd5b7-8602-4796-a3bb-ff5c390691c7",
+            "commune_slug": "saint-aubin",
+            "bio_localized": "Électricien expérimenté basé à Saint-Aubin, je maîtrise l'éclairage LED professionnel depuis 8 ans. Spécialisé dans l'optimisation énergétique des pavillons et immeubles essonniens, j'interviens sur tous vos besoins électriques avec professionnalisme et fiabilité. Disponible en Essonne pour des solutions d'éclairage modernes et durables.",
+            "local_badge": "Électricien expert de Saint-Aubin depuis années",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Saint-Aubin, je transforme vos espaces avec des solutions modernes et économes en énergie.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Aubin, électricien fiable et réactif",
+            "why_this_commune": "Benjamin André est le choix idéal pour Saint-Aubin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:27:30.643Z",
+            "used_fallback": false
+          },
+          "d2264c77-a5a8-4a52-be3f-61564164c4c1": {
+            "profile_id": "d2264c77-a5a8-4a52-be3f-61564164c4c1",
+            "commune_slug": "saint-aubin",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Aubin, je maîtrise les installations des pavillons essonniens et immeubles modernes. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme. Diagnostic fiable et travail soigné garantis pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert de Saint-Aubin depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Saint-Aubin pour tous vos dépannages électriques rapides et efficaces.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable à Saint-Aubin",
+            "why_this_commune": "Daniel Dupont est le choix idéal pour Saint-Aubin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:27:44.089Z",
+            "used_fallback": false
+          },
+          "6b621f69-3cf3-4f9b-bba4-8eaa45ee3ca7": {
+            "profile_id": "6b621f69-3cf3-4f9b-bba4-8eaa45ee3ca7",
+            "commune_slug": "saint-aubin",
+            "bio_localized": "Stéphane Caron, électricien expert à Saint-Aubin, intervient depuis 13 ans sur la rénovation électrique. Spécialiste des installations dans les pavillons et immeubles essonniens, il modernise vos systèmes électriques avec professionnalisme et sérieux. Diagnostics complets et travaux de qualité garantis en Essonne.",
+            "local_badge": "Électricien expert de Saint-Aubin depuis longtemps",
+            "service_highlight": "Électricien expert en rénovation électrique à Saint-Aubin, je modernise les installations électriques de vos habitations anciennes.",
+            "trust_signal": "13 ans d'expérience confirmée à Saint-Aubin, électricien fiable et professionnel",
+            "why_this_commune": "Stéphane Caron est le choix idéal pour Saint-Aubin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:27:56.804Z",
+            "used_fallback": false
+          },
+          "215b0145-6434-4cda-bf66-5bfd10ed20fe": {
+            "profile_id": "215b0145-6434-4cda-bf66-5bfd10ed20fe",
+            "commune_slug": "saint-aubin",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Saint-Aubin, je maîtrise l'urgence 24/7 pour tous vos besoins électriques. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Aubin, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Aubin pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Aubin, interventions rapides et fiables",
+            "why_this_commune": "Claude Robert, électricien basé à Saint-Aubin, maîtrise parfaitement les spécificités architecturales locales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en Essonne, il offre un service fiable et de qualité adapté aux besoins résidentiels de Saint-Aubin.",
+            "generated_at": "2025-11-16T08:28:10.628Z",
+            "used_fallback": false
+          },
+          "be10ba36-2202-430f-ba47-230858a65168": {
+            "profile_id": "be10ba36-2202-430f-ba47-230858a65168",
+            "commune_slug": "saint-aubin",
+            "bio_localized": "Électricien professionnel à Saint-Aubin, je maîtrise l'éclairage LED pour tous types de bâtiments : pavillons, immeubles et structures modernes de l'Essonne. Fort de 7 ans d'expérience, j'optimise votre consommation énergétique avec des solutions innovantes et durables. Disponible pour vos projets électriques locaux.",
+            "local_badge": "Électricien expert de Saint-Aubin depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Saint-Aubin, je conçois et installe des solutions lumineuses modernes et économes pour tous vos projets.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Aubin, électricien fiable et professionnel",
+            "why_this_commune": "Emmanuel Jean est un excellent choix pour Saint-Aubin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:28:23.763Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-cheron": {
+        "commune_name": "SAINT-CHERON",
+        "postal_code": "91530",
+        "department": "91",
+        "electricians": {
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "saint-cheron",
+            "bio_localized": "Électricien expérimenté à Saint-Chéron, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de l'Essonne. Avec 10 ans d'expertise, je garantis des installations sécurisées et conformes. Devis gratuit et interventions rapides dans votre commune.",
+            "local_badge": "Électricien expert de Saint-Cheron depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Saint-Cheron, garantissant la sécurité de votre installation électrique.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et certifié à Saint-Cheron",
+            "why_this_commune": "Antoine Vidal, électricien établi à Saint-Cheron, maîtrise parfaitement les spécificités locales et l'architecture essonnienne. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:28:37.138Z",
+            "used_fallback": false
+          },
+          "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683": {
+            "profile_id": "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683",
+            "commune_slug": "saint-cheron",
+            "bio_localized": "Paul Gautier, électricien à Saint-Chéron, met 19 ans d'expertise au service de votre rénovation électrique. Spécialiste des installations anciennes et modernes, il intervient sur les pavillons et bâtiments de l'Essonne avec professionnalisme et sérieux. Diagnostics complets et conformité garantis.",
+            "local_badge": "Électricien expert de Saint-Cheron depuis années",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Saint-Chéron, intervenant sur les installations anciennes et modernisations résidentielles.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable à Saint-Cheron",
+            "why_this_commune": "Paul Gautier est un excellent choix pour Saint-Cheron. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées et de qualité.",
+            "generated_at": "2025-11-16T08:28:51.626Z",
+            "used_fallback": false
+          },
+          "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9": {
+            "profile_id": "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9",
+            "commune_slug": "saint-cheron",
+            "bio_localized": "Pascal Nicolas, électricien agréé Consuel à Saint-Chéron, met son expertise de 15 ans au service de votre sécurité électrique. Intervenant sur les pavillons et immeubles de l'Essonne, il garantit des installations conformes et durables pour votre tranquillité.",
+            "local_badge": "Électricien expert de Saint-Cheron depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel à Saint-Cheron, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Saint-Cheron, interventions rapides garanties",
+            "why_this_commune": "Pascal Nicolas est le choix idéal pour Saint-Cheron. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone essonnienne assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T08:29:05.332Z",
+            "used_fallback": false
+          },
+          "6b0cbbce-772e-4473-933d-abb0a7722856": {
+            "profile_id": "6b0cbbce-772e-4473-933d-abb0a7722856",
+            "commune_slug": "saint-cheron",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Saint-Chéron, je spécialise dans l'éclairage LED professionnel pour les pavillons et immeubles de l'Essonne. Maîtrisant les installations modernes et efficaces énergétiques, je garantis des solutions lumineuses adaptées à chaque projet résidentiel ou commercial local.",
+            "local_badge": "Électricien expert de Saint-Cheron depuis années",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Saint-Chéron pour optimiser vos installations lumineuses.",
+            "trust_signal": "19 ans d'expérience, électricien de confiance à Saint-Cheron depuis longtemps",
+            "why_this_commune": "Alexandre Bourgeois est le choix idéal pour Saint-Cheron. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:29:19.096Z",
+            "used_fallback": false
+          },
+          "0373b220-5e27-49ce-9e52-ecc11dfae039": {
+            "profile_id": "0373b220-5e27-49ce-9e52-ecc11dfae039",
+            "commune_slug": "saint-cheron",
+            "bio_localized": "Olivier Renard, électricien agréé Consuel à Saint-Cheron, intervient sur les pavillons et immeubles de l'Essonne. Fort de 5 ans d'expérience, il garantit vos installations électriques aux normes. Spécialiste des diagnostics et mises en conformité, il assure sécurité et fiabilité pour vos projets résidentiels.",
+            "local_badge": "Électricien expert de Saint-Cheron depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel à Saint-Cheron, garantissant la conformité et la sécurité de vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Saint-Cheron",
+            "why_this_commune": "Olivier Renard est le choix idéal pour Saint-Cheron. Électricien local, il maîtrise parfaitement les spécificités architecturales et infrastructures de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:29:31.919Z",
+            "used_fallback": false
+          },
+          "3296d40c-79db-478f-9fa7-3dd1ac037166": {
+            "profile_id": "3296d40c-79db-478f-9fa7-3dd1ac037166",
+            "commune_slug": "saint-cheron",
+            "bio_localized": "Michel Gaillard, électricien expérimenté depuis 14 ans, intervient à Saint-Chéron pour tous vos besoins en électricité générale. Spécialiste des installations résidentielles, du dépannage et de la mise aux normes, il garantit des interventions rapides et un travail soigné dans les pavillons et immeubles de l'Essonne.",
+            "local_badge": "Électricien expert de Saint-Cheron depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Cheron pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et reconnu à Saint-Cheron",
+            "why_this_commune": "Michel Gaillard est le choix idéal pour Saint-Cheron. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une grande fiabilité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:29:45.927Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-cyr-la-riviere": {
+        "commune_name": "SAINT-CYR-LA-RIVIÈRE",
+        "postal_code": "91690",
+        "department": "91",
+        "electricians": {
+          "4406e040-2c51-46d7-a73a-3a321c70bbf3": {
+            "profile_id": "4406e040-2c51-46d7-a73a-3a321c70bbf3",
+            "commune_slug": "saint-cyr-la-riviere",
+            "bio_localized": "Pascal Lucas, électricien agréé Consuel à Saint-Cyr-la-Rivière, intervient depuis 20 ans dans l'Essonne. Spécialiste des installations électriques résidentielles et tertiaires, il sécurise pavillons et immeubles de la région. Expert en conformité et diagnostics, Pascal garantit des travaux fiables et aux normes pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Cyr-la-Rivière depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel à Saint-Cyr-la-Rivière, je garantis vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Cyr-la-Rivière",
+            "why_this_commune": "Pascal Lucas est un excellent choix pour Saint-Cyr-la-Rivière. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:29:59.819Z",
+            "used_fallback": false
+          },
+          "9733a77d-3998-4d45-b214-3967a448b96e": {
+            "profile_id": "9733a77d-3998-4d45-b214-3967a448b96e",
+            "commune_slug": "saint-cyr-la-riviere",
+            "bio_localized": "Électricien expérimenté depuis 10 ans, je maîtrise l'électricité générale pour tous les types de bâtiments à Saint-Cyr-la-Rivière. Des pavillons aux immeubles, j'interviens rapidement avec professionnalisme et rigueur. Travail soigné et fiable garanti en Essonne.",
+            "local_badge": "Électricien expert de Saint-Cyr-la-Rivière",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Saint-Cyr-la-Rivière et ses environs",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Cyr-la-Rivière, électricien fiable et réactif",
+            "why_this_commune": "Michel Lambert est un excellent choix pour Saint-Cyr-la-Rivière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:30:14.519Z",
+            "used_fallback": false
+          },
+          "9e2426ec-18fb-4a54-b5e5-da3bb2e12233": {
+            "profile_id": "9e2426ec-18fb-4a54-b5e5-da3bb2e12233",
+            "commune_slug": "saint-cyr-la-riviere",
+            "bio_localized": "Serge Barbier, électricien expert à Saint-Cyr-la-Rivière, intervient depuis 7 ans sur la rénovation électrique des pavillons et immeubles de l'Essonne. Spécialiste reconnu, il modernise vos installations avec professionnalisme et fiabilité, garantissant la sécurité de votre habitat.",
+            "local_badge": "Électricien expert de Saint-Cyr-la-Rivière",
+            "service_highlight": "Rénovation électrique complète pour les maisons anciennes de Saint-Cyr-la-Rivière, aux normes actuelles.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Cyr-la-Rivière, électricien fiable et réactif",
+            "why_this_commune": "Serge Barbier est le choix idéal pour Saint-Cyr-la-Rivière. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:30:27.178Z",
+            "used_fallback": false
+          },
+          "38288344-c295-4968-bb04-a1ab2ba868ae": {
+            "profile_id": "38288344-c295-4968-bb04-a1ab2ba868ae",
+            "commune_slug": "saint-cyr-la-riviere",
+            "bio_localized": "Olivier Duval, électricien agréé Consuel à Saint-Cyr-la-Rivière, intervient depuis 9 ans sur l'Essonne. Spécialiste des installations électriques neuves et rénovations, il sécurise les pavillons et immeubles locaux. Certifications à jour, diagnostics fiables et conformité garantie.",
+            "local_badge": "Électricien expert de Saint-Cyr-la-Rivière depuis années",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Cyr-la-Rivière pour vos installations et conformités électriques",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable à Saint-Cyr-la-Rivière",
+            "why_this_commune": "Olivier Duval est le choix idéal pour Saint-Cyr-la-Rivière. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:30:40.012Z",
+            "used_fallback": false
+          },
+          "14a72681-0bbd-459c-a6ba-5a4f86cd27b8": {
+            "profile_id": "14a72681-0bbd-459c-a6ba-5a4f86cd27b8",
+            "commune_slug": "saint-cyr-la-riviere",
+            "bio_localized": "Électricien qualifié depuis 5 ans à Saint-Cyr-la-Rivière, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je garantis une intervention professionnelle et rapide. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Saint-Cyr-la-Rivière",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Saint-Cyr-la-Rivière et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Saint-Cyr-la-Rivière, interventions rapides garanties",
+            "why_this_commune": "Julien Laurent est le choix idéal pour Saint-Cyr-la-Rivière. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Faites confiance à son expertise reconnue en Essonne.",
+            "generated_at": "2025-11-16T08:30:52.504Z",
+            "used_fallback": false
+          },
+          "be352270-32f6-4220-9847-a4475eaff54e": {
+            "profile_id": "be352270-32f6-4220-9847-a4475eaff54e",
+            "commune_slug": "saint-cyr-la-riviere",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Saint-Cyr-la-Rivière, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles et constructions modernes de l'Essonne. Interventions rapides, travail soigné et solutions adaptées à vos besoins électriques. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Cyr-la-Rivière",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Cyr-la-Rivière pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "11 ans d'expérience confirmée à Saint-Cyr-la-Rivière, électricien de confiance",
+            "why_this_commune": "Philippe Robin est un excellent choix pour Saint-Cyr-la-Rivière. Électricien local établi en Essonne, il connaît parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins.",
+            "generated_at": "2025-11-16T08:31:07.948Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-cyr-sous-dourdan": {
+        "commune_name": "SAINT-CYR-SOUS-DOURDAN",
+        "postal_code": "91410",
+        "department": "91",
+        "electricians": {
+          "32429625-95d5-47f8-9a53-773b4ff6be05": {
+            "profile_id": "32429625-95d5-47f8-9a53-773b4ff6be05",
+            "commune_slug": "saint-cyr-sous-dourdan",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Cyr-sous-Dourdan, je maîtrise l'électricité générale pour tous les types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Essonne, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Cyr-sous-Dourdan depuis années",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Cyr-sous-Dourdan pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Cyr-sous-Dourdan, électricien fiable et réactif",
+            "why_this_commune": "Philippe Giraud est le choix idéal pour Saint-Cyr-sous-Dourdan. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:31:20.988Z",
+            "used_fallback": false
+          },
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "saint-cyr-sous-dourdan",
+            "bio_localized": "Électricien expérimenté à Saint-Cyr-sous-Dourdan, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et maisons anciennes de l'Essonne. Avec 10 ans d'expertise, j'assure la sécurité électrique de votre habitat. Devis gratuit et intervention rapide dans toute la région.",
+            "local_badge": "Électricien expert de Saint-Cyr-sous-Dourdan depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations de Saint-Cyr-sous-Dourdan et ses environs.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et certifié à Saint-Cyr-sous-Dourdan",
+            "why_this_commune": "Antoine Vidal est le choix idéal pour Saint-Cyr-sous-Dourdan. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:31:34.384Z",
+            "used_fallback": false
+          },
+          "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683": {
+            "profile_id": "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683",
+            "commune_slug": "saint-cyr-sous-dourdan",
+            "bio_localized": "Paul Gautier, électricien expert à Saint-Cyr-sous-Dourdan, fort de 19 ans d'expérience en rénovation électrique. Spécialiste des installations résidentielles, il intervient sur les pavillons et immeubles de l'Essonne avec professionnalisme et fiabilité, garantissant des normes de sécurité optimales pour votre habitat.",
+            "local_badge": "Électricien expert de Saint-Cyr-sous-Dourdan",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, intervient régulièrement à Saint-Cyr-sous-Dourdan pour moderniser les installations anciennes.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Saint-Cyr-sous-Dourdan",
+            "why_this_commune": "Paul Gautier est le choix idéal pour Saint-Cyr-sous-Dourdan. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise de la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:31:47.424Z",
+            "used_fallback": false
+          },
+          "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9": {
+            "profile_id": "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9",
+            "commune_slug": "saint-cyr-sous-dourdan",
+            "bio_localized": "Pascal Nicolas, électricien agréé Consuel à Saint-Cyr-sous-Dourdan, met à votre service 15 ans d'expertise. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur pavillons et immeubles de l'Essonne. Conformité, sécurité et qualité garanties pour tous vos projets électriques.",
+            "local_badge": "Électricien expert de Saint-Cyr-sous-Dourdan",
+            "service_highlight": "Électricien agréé Consuel à Saint-Cyr-sous-Dourdan, je garantis vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "15 ans d'expérience électricien à Saint-Cyr-sous-Dourdan, interventions rapides garanties",
+            "why_this_commune": "Pascal Nicolas est le choix idéal pour Saint-Cyr-sous-Dourdan. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:32:00.195Z",
+            "used_fallback": false
+          },
+          "6b0cbbce-772e-4473-933d-abb0a7722856": {
+            "profile_id": "6b0cbbce-772e-4473-933d-abb0a7722856",
+            "commune_slug": "saint-cyr-sous-dourdan",
+            "bio_localized": "Électricien expert en éclairage LED professionnel à Saint-Cyr-sous-Dourdan, j'interviens depuis 19 ans sur les pavillons et résidences de l'Essonne. Spécialisé dans les solutions d'éclairage performantes et durables, je garantis une installation de qualité adaptée à vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Cyr-sous-Dourdan",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Saint-Cyr-sous-Dourdan pour optimiser vos consommations énergétiques",
+            "trust_signal": "19 ans d'expérience, électricien fiable et reconnu à Saint-Cyr-sous-Dourdan",
+            "why_this_commune": "Alexandre Bourgeois est le choix idéal pour Saint-Cyr-sous-Dourdan. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:32:13.376Z",
+            "used_fallback": false
+          },
+          "0373b220-5e27-49ce-9e52-ecc11dfae039": {
+            "profile_id": "0373b220-5e27-49ce-9e52-ecc11dfae039",
+            "commune_slug": "saint-cyr-sous-dourdan",
+            "bio_localized": "Olivier Renard, électricien agréé Consuel à Saint-Cyr-sous-Dourdan, intervient sur les pavillons et immeubles de l'Essonne. Fort de 5 ans d'expérience, il garantit la conformité électrique de vos installations. Diagnostics, mises aux normes et dépannages : un professionnel de confiance pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Saint-Cyr-sous-Dourdan",
+            "service_highlight": "Électricien agréé Consuel à Saint-Cyr-sous-Dourdan, spécialisé dans les installations et conformités électriques résidentielles et tertiaires.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Cyr-sous-Dourdan, électricien fiable et réactif",
+            "why_this_commune": "Olivier Renard est le choix idéal pour Saint-Cyr-sous-Dourdan. Implanté localement, il connaît parfaitement les spécificités architecturales et électriques de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et adapté.",
+            "generated_at": "2025-11-16T08:32:26.512Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-escobille": {
+        "commune_name": "SAINT-ESCOBILLE",
+        "postal_code": "91410",
+        "department": "91",
+        "electricians": {
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "saint-escobille",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Saint-Escobille, je maîtrise le dépannage express pour tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Intervenant rapidement en Essonne, je garantis des solutions fiables et durables pour vos installations électriques.",
+            "local_badge": "Électricien expert de Saint-Escobille depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saint-Escobille : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Escobille, électricien fiable et professionnel",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Saint-Escobille. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers communaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:32:40.002Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "saint-escobille",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Saint-Escobille, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant auprès des pavillons et immeubles de l'Essonne, je garantis des installations conformes et sécurisées. Devis gratuit et service réactif.",
+            "local_badge": "Électricien expert de Saint-Escobille, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Saint-Escobille pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Saint-Escobille pour tous vos travaux",
+            "why_this_commune": "Guillaume Nguyen est le choix idéal pour Saint-Escobille. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:32:53.092Z",
+            "used_fallback": false
+          },
+          "776b98df-4196-4812-b127-6a33cea0ef52": {
+            "profile_id": "776b98df-4196-4812-b127-6a33cea0ef52",
+            "commune_slug": "saint-escobille",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Saint-Escobille, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je garantis des interventions rapides et professionnelles. Devis gratuit et travail conforme aux normes.",
+            "local_badge": "Électricien expert de Saint-Escobille depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Saint-Escobille, je sécurise votre transition vers la mobilité électrique.",
+            "trust_signal": "15 ans d'expérience confirmée à Saint-Escobille, électricien de confiance",
+            "why_this_commune": "Julien Clement est le choix idéal pour Saint-Escobille. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:33:05.790Z",
+            "used_fallback": false
+          },
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "saint-escobille",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Saint-Escobille, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles de l'Essonne. Intervenant rapidement sur le 91410, je garantis des installations sécurisées et conformes. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert de Saint-Escobille depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Saint-Escobille",
+            "trust_signal": "19 ans d'expérience, électricien de confiance à Saint-Escobille",
+            "why_this_commune": "Denis Rodriguez, électricien local à Saint-Escobille, maîtrise parfaitement les spécificités des bâtiments et quartiers essonniens. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience confirmée dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:33:21.605Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "saint-escobille",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Saint-Escobille, intervient depuis 15 ans sur les pavillons et immeubles de l'Essonne. Fort de son expertise en électricité professionnelle, il garantit la conformité de vos installations et votre sécurité électrique. Disponible pour vos diagnostics et travaux.",
+            "local_badge": "Électricien expert de Saint-Escobille depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Escobille, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Saint-Escobille depuis longtemps",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Saint-Escobille. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:33:34.641Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "saint-escobille",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Saint-Escobille, je propose un dépannage express pour tous vos besoins électriques. Spécialisé dans l'intervention rapide sur pavillons et immeubles de l'Essonne, je garantis des solutions fiables et durables. Disponible pour diagnostiquer et résoudre vos problèmes électriques en toute confiance.",
+            "local_badge": "Électricien expert de Saint-Escobille depuis des années",
+            "service_highlight": "Dépannage électrique express à Saint-Escobille : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "13 ans d'expérience confirmée à Saint-Escobille, électricien de confiance",
+            "why_this_commune": "Sébastien Morel est un excellent choix pour Saint-Escobille. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T08:33:47.270Z",
             "used_fallback": false
           }
         }

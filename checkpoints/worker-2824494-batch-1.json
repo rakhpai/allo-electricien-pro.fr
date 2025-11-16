@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "paris-5e",
+  "processedCommunes": [
+    "paris-1er",
+    "paris-2e",
+    "paris-3e",
+    "paris-4e",
+    "paris-5e"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 31920,
+    "outputTokens": 8001,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.498Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "paris-1er": {
+        "commune_name": "Paris 1er",
+        "postal_code": "75001",
+        "department": "75",
+        "electricians": {
+          "9b09e215-2ff1-477d-a8f8-33b8703451f9": {
+            "profile_id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
+            "commune_slug": "paris-1er",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Paris 1er, je spécialise dans la mise aux normes NF C 15-100 pour les immeubles haussmanniens et bâtiments parisiens. Intervenant rapidement dans le centre de Paris, je garantis des installations sécurisées et conformes. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert du 1er arrondissement parisien",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les immeubles parisiens du 1er arrondissement.",
+            "trust_signal": "9 ans d'expérience confirmée à Paris 1er, interventions rapides et fiables garanties",
+            "why_this_commune": "Yves Marchand est le choix idéal pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités des bâtiments historiques du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un travail de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:55:23.008Z",
+            "used_fallback": false
+          },
+          "fc21f596-61b7-41af-94b0-b4b455231cd5": {
+            "profile_id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
+            "commune_slug": "paris-1er",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Paris 1er, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens. Intervenant dans le cœur de Paris, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif.",
+            "local_badge": "Électricien expert du 1er arrondissement parisien",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les immeubles parisiens du 1er arrondissement.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable et certifié à Paris 1er",
+            "why_this_commune": "Antoine Lefevre est un excellent choix pour Paris 1er. Basé localement, il maîtrise les spécificités des bâtiments historiques et haussmanniens du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:55:36.998Z",
+            "used_fallback": false
+          },
+          "611b8f9b-4834-4278-a749-5926689bef99": {
+            "profile_id": "611b8f9b-4834-4278-a749-5926689bef99",
+            "commune_slug": "paris-1er",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Paris 1er, je spécialise dans la mise aux normes NF C 15-100 des immeubles haussmanniens et bâtiments historiques du centre parisien. Interventions rapides et devis gratuit pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert du 1er arrondissement Paris",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les installations électriques à Paris 1er.",
+            "trust_signal": "20 ans d'expérience confirmée à Paris 1er, électricien agréé et de confiance",
+            "why_this_commune": "Charles Colin est un excellent choix pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et monuments historiques du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone centrale assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:55:49.871Z",
+            "used_fallback": false
+          },
+          "13a60596-2e6b-4d21-90c5-9903b9c378d6": {
+            "profile_id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
+            "commune_slug": "paris-1er",
+            "bio_localized": "Électricien expert à Paris 1er, je maîtrise l'éclairage LED professionnel depuis 16 ans. Spécialisé dans la rénovation des immeubles haussmanniens et bâtiments patrimoniaux du cœur de Paris, j'adapte mes solutions d'éclairage à chaque architecture. Interventions rapides et fiables pour vos besoins électriques.",
+            "local_badge": "Électricien expert du 1er arrondissement Paris",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et immeubles du cœur de Paris 1er.",
+            "trust_signal": "Électricien confirmé avec 16 ans d'expérience à Paris 1er, interventions rapides et fiables",
+            "why_this_commune": "Alexandre Renard est le choix idéal pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et monuments historiques du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:02.717Z",
+            "used_fallback": false
+          },
+          "383e801f-e283-46bd-bee4-7c871470b590": {
+            "profile_id": "383e801f-e283-46bd-bee4-7c871470b590",
+            "commune_slug": "paris-1er",
+            "bio_localized": "Serge Morel, électricien expert à Paris 1er, maîtrise la rénovation électrique des immeubles haussmanniens du quartier. Fort de 5 ans d'expérience, il modernise les installations tout en respectant le charme architectural local. Intervention rapide et professionnelle pour vos besoins électriques.",
+            "local_badge": "Électricien expert du 1er arrondissement Paris",
+            "service_highlight": "Électricien spécialiste en rénovation électrique pour les appartements haussmanniens et immeubles anciens de Paris 1er.",
+            "trust_signal": "Électricien confirmé 5 ans d'expérience, interventions rapides et fiables à Paris 1er",
+            "why_this_commune": "Serge Morel est le choix idéal pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et monuments historiques du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service de qualité adapté aux enjeux électriques parisiens.",
+            "generated_at": "2025-11-16T08:56:16.715Z",
+            "used_fallback": false
+          },
+          "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a": {
+            "profile_id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+            "commune_slug": "paris-1er",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, René Legrand maîtrise la rénovation électrique dans le cœur de Paris 1er. Spécialiste des bâtiments haussmanniens et immeubles parisiens, il modernise vos installations avec professionnalisme. Interventions fiables et conformes aux normes pour votre sécurité au Marais et alentours.",
+            "local_badge": "Électricien expert du 1er arrondissement parisien",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, intervient régulièrement sur les immeubles parisiens du 1er arrondissement pour moderniser vos installations.",
+            "trust_signal": "Électricien confirmé avec 17 ans d'expérience à Paris 1er, interventions rapides garanties",
+            "why_this_commune": "René Legrand est un excellent choix pour Paris 1er. Électricien local, il maîtrise parfaitement les spécificités architecturales du quartier historique. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:29.925Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "paris-2e": {
+        "commune_name": "Paris 2e",
+        "postal_code": "75002",
+        "department": "75",
+        "electricians": {
+          "9b09e215-2ff1-477d-a8f8-33b8703451f9": {
+            "profile_id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
+            "commune_slug": "paris-2e",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Paris 2e, je spécialise dans la mise aux normes NF C 15-100 pour les immeubles haussmanniens et bâtiments du quartier. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert du 2e arrondissement Paris",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les installations électriques à Paris 2e.",
+            "trust_signal": "9 ans d'expérience confirmée, interventions rapides et fiables à Paris 2e",
+            "why_this_commune": "Yves Marchand est un excellent choix pour Paris 2e. Électricien local, il maîtrise parfaitement les spécificités architecturales du quartier historique. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables pour vos besoins électriques.",
+            "generated_at": "2025-11-16T08:56:42.608Z",
+            "used_fallback": false
+          },
+          "fc21f596-61b7-41af-94b0-b4b455231cd5": {
+            "profile_id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
+            "commune_slug": "paris-2e",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Paris 2e, je spécialise dans la mise aux normes NF C 15-100 des immeubles haussmanniens et bâtiments modernes du quartier. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert du 2e arrondissement parisien",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les immeubles parisiens du 2e arrondissement.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien spécialisé dans Paris 2e",
+            "why_this_commune": "Antoine Lefevre est un excellent choix pour Paris 2e. Basé localement, il connaît parfaitement les spécificités architecturales des immeubles haussmanniens et anciens du quartier. Son expérience confirmée dans cette zone garantit des interventions rapides et adaptées aux installations électriques typiques du 2e arrondissement.",
+            "generated_at": "2025-11-16T08:56:55.002Z",
+            "used_fallback": false
+          },
+          "611b8f9b-4834-4278-a749-5926689bef99": {
+            "profile_id": "611b8f9b-4834-4278-a749-5926689bef99",
+            "commune_slug": "paris-2e",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Paris 2e, je spécialise dans la mise aux normes NF C 15-100 des immeubles haussmanniens et bâtiments parisiens. Intervenant rapidement dans le quartier des Halles et Marais, je garantis des installations sécurisées et conformes. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert du 2e arrondissement Paris",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les immeubles parisiens du 2e arrondissement.",
+            "trust_signal": "20 ans d'expérience, électricien fiable et rapide à Paris 2e",
+            "why_this_commune": "Charles Colin est un excellent choix pour Paris 2e. Électricien local, il maîtrise parfaitement les spécificités des immeubles haussmanniens et bâtiments anciens du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:08.782Z",
+            "used_fallback": false
+          },
+          "13a60596-2e6b-4d21-90c5-9903b9c378d6": {
+            "profile_id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
+            "commune_slug": "paris-2e",
+            "bio_localized": "Électricien expert en éclairage LED professionnel à Paris 2e, je modernise les installations des immeubles haussmanniens et bâtiments contemporains du quartier. Fort de 16 ans d'expérience, je garantis des solutions d'éclairage performantes et durables pour vos locaux commerciaux et résidentiels. Disponible pour tous travaux électriques.",
+            "local_badge": "Électricien expert du 2e arrondissement Paris",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bureaux du centre de Paris 2e.",
+            "trust_signal": "Électricien confirmé, 16 ans d'expérience à Paris 2e, interventions rapides et fiables",
+            "why_this_commune": "Alexandre Renard est un excellent choix pour Paris 2e. Installé localement, il maîtrise les spécificités des immeubles haussmanniens et anciens du quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:22.984Z",
+            "used_fallback": false
+          },
+          "383e801f-e283-46bd-bee4-7c871470b590": {
+            "profile_id": "383e801f-e283-46bd-bee4-7c871470b590",
+            "commune_slug": "paris-2e",
+            "bio_localized": "Serge Morel, électricien expert à Paris 2e, maîtrise la rénovation électrique des immeubles haussmanniens et bâtiments parisiens. Avec 5 ans d'expérience, il sécurise et modernise vos installations en respectant les spécificités architecturales du quartier. Professionnel reconnu pour son savoir-faire et sa fiabilité.",
+            "local_badge": "Électricien expert du 2e arrondissement Paris",
+            "service_highlight": "Électricien spécialiste en rénovation électrique pour les immeubles anciens et haussmanniens de Paris 2e.",
+            "trust_signal": "Électricien confirmé avec 5 ans d'expérience à Paris 2e, intervention rapide garantie",
+            "why_this_commune": "Serge Morel est le choix idéal pour Paris 2e. Électricien local, il maîtrise parfaitement les spécificités architecturales du quartier et les bâtiments haussmanniens. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:36.748Z",
+            "used_fallback": false
+          },
+          "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a": {
+            "profile_id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+            "commune_slug": "paris-2e",
+            "bio_localized": "Électricien spécialisé en rénovation électrique à Paris 2e, René Legrand met à profit ses 17 années d'expérience pour moderniser les installations des immeubles haussmanniens du quartier. Intervenant dans le cœur historique de la capitale, il garantit des travaux conformes aux normes actuelles, alliant respect du patrimoine et sécurité électrique.",
+            "local_badge": "Électricien expert du 2e arrondissement Paris",
+            "service_highlight": "Rénovation électrique complète pour les appartements haussmanniens et immeubles anciens de Paris 2e, aux normes actuelles.",
+            "trust_signal": "17 ans d'expérience, électricien certifié intervenant à Paris 2e",
+            "why_this_commune": "René Legrand est un excellent choix pour Paris 2e. Basé localement, il maîtrise les spécificités architecturales du quartier et intervient rapidement. Son expérience confirmée dans cette zone garantit une expertise adaptée aux bâtiments parisiens et une disponibilité optimale pour vos urgences électriques.",
+            "generated_at": "2025-11-16T08:57:49.521Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "paris-3e": {
+        "commune_name": "Paris 3e",
+        "postal_code": "75003",
+        "department": "75",
+        "electricians": {
+          "9b09e215-2ff1-477d-a8f8-33b8703451f9": {
+            "profile_id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
+            "commune_slug": "paris-3e",
+            "bio_localized": "Électricien expérimenté depuis 9 ans, je suis spécialisé dans la mise aux normes NF C 15-100 pour les appartements haussmanniens et immeubles parisiens du 3e arrondissement. Intervention rapide, devis gratuit et travail conforme aux standards actuels.",
+            "local_badge": "Électricien expert du Marais, Paris 3e",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les appartements et immeubles parisiens du 3e arrondissement.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Paris 3e",
+            "why_this_commune": "Yves Marchand est le choix idéal pour Paris 3e grâce à sa connaissance approfondie des bâtiments haussmanniens du Marais. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans ce quartier historique assure des solutions adaptées à vos installations électriques.",
+            "generated_at": "2025-11-16T08:58:02.452Z",
+            "used_fallback": false
+          },
+          "fc21f596-61b7-41af-94b0-b4b455231cd5": {
+            "profile_id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
+            "commune_slug": "paris-3e",
+            "bio_localized": "Électricien qualifié depuis 17 ans à Paris 3e, je spécialise dans la mise aux normes NF C 15-100 des immeubles haussmanniens et bâtiments modernes du Marais. Intervention rapide, devis gratuit et expertise reconnue pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert du Marais, Paris 3e",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les appartements et immeubles parisiens du 3e arrondissement.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance dans Paris 3e",
+            "why_this_commune": "Antoine Lefevre est un excellent choix pour Paris 3e. Basé localement, il maîtrise parfaitement les spécificités architecturales du Marais et des quartiers historiques. Son expérience confirmée dans la zone garantit interventions rapides et solutions adaptées aux bâtiments anciens parisiens.",
+            "generated_at": "2025-11-16T08:58:15.357Z",
+            "used_fallback": false
+          },
+          "611b8f9b-4834-4278-a749-5926689bef99": {
+            "profile_id": "611b8f9b-4834-4278-a749-5926689bef99",
+            "commune_slug": "paris-3e",
+            "bio_localized": "Électricien qualifié intervenant à Paris 3e, je spécialise dans la mise aux normes NF C 15-100 pour les immeubles haussmanniens et résidences du Marais. Avec 20 ans d'expérience, j'adapte les installations électriques anciennes aux standards actuels. Devis gratuit et interventions rapides garanties.",
+            "local_badge": "Électricien expert du Marais, Paris 3e",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les logements parisiens du 3e arrondissement.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance dans Paris 3e depuis deux décennies",
+            "why_this_commune": "Charles Colin est un excellent choix pour Paris 3e. Basé localement, il connaît parfaitement les spécificités architecturales du Marais et des bâtiments haussmanniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:28.265Z",
+            "used_fallback": false
+          },
+          "13a60596-2e6b-4d21-90c5-9903b9c378d6": {
+            "profile_id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
+            "commune_slug": "paris-3e",
+            "bio_localized": "Électricien spécialisé en éclairage LED professionnel à Paris 3e, je maîtrise l'installation et la rénovation sur les immeubles haussmanniens du Marais. Avec 16 ans d'expérience, j'optimise votre consommation énergétique tout en préservant le charme architectural de votre espace. Interventions rapides et fiables.",
+            "local_badge": "Électricien expert du Marais, Paris 3e",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et immeubles du Marais à Paris 3e.",
+            "trust_signal": "16 ans d'expérience confirmée, électricien de confiance à Paris 3e",
+            "why_this_commune": "Alexandre Renard est un excellent choix pour Paris 3e. Basé localement, il connaît parfaitement les spécificités architecturales du Marais et des bâtiments historiques parisiens. Son expérience confirmée dans ce quartier garantit des interventions rapides et adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:41.087Z",
+            "used_fallback": false
+          },
+          "383e801f-e283-46bd-bee4-7c871470b590": {
+            "profile_id": "383e801f-e283-46bd-bee4-7c871470b590",
+            "commune_slug": "paris-3e",
+            "bio_localized": "Serge Morel, électricien expert en rénovation électrique à Paris 3e, intervient sur les prestigieux immeubles haussmanniens du Marais et ses environs. Avec 5 ans d'expérience, il modernise vos installations électriques en respectant l'architecture parisienne. Intervention fiable et professionnelle pour vos besoins électriques.",
+            "local_badge": "Électricien expert du Marais - Paris 3e",
+            "service_highlight": "Spécialiste en rénovation électrique pour les appartements haussmanniens et immeubles anciens du 3e arrondissement de Paris.",
+            "trust_signal": "Électricien confirmé 5 ans d'expérience, interventions rapides et fiables à Paris 3e",
+            "why_this_commune": "Serge Morel est un excellent choix pour Paris 3e. Électricien expérimenté dans cette commune, il maîtrise les spécificités des bâtiments du Marais et quartiers adjacents. Sa proximité garantit une intervention rapide et efficace. Connaissance approfondie du secteur et réactivité assurent votre satisfaction.",
+            "generated_at": "2025-11-16T08:58:53.851Z",
+            "used_fallback": false
+          },
+          "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a": {
+            "profile_id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+            "commune_slug": "paris-3e",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, René Legrand maîtrise la rénovation électrique dans le Paris 3e. Spécialiste des installations aux normes dans les immeubles haussmanniens du Marais et bâtiments modernes. Intervention fiable et sécurisée pour vos projets résidentiels et professionnels.",
+            "local_badge": "Électricien expert du Marais Paris 3e",
+            "service_highlight": "Spécialiste de la rénovation électrique pour les appartements haussmanniens et immeubles anciens du Marais à Paris 3e.",
+            "trust_signal": "Électricien confirmé 17 ans d'expérience, interventions rapides et fiables Paris 3e",
+            "why_this_commune": "René Legrand est le choix idéal pour Paris 3e. Électricien local, il maîtrise parfaitement les spécificités architecturales du Marais et ses bâtiments anciens. Sa proximité garantit une intervention rapide et réactive. Son expérience confirmée dans ce quartier historique assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:07.243Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "paris-4e": {
+        "commune_name": "Paris 4e",
+        "postal_code": "75004",
+        "department": "75",
+        "electricians": {
+          "9b09e215-2ff1-477d-a8f8-33b8703451f9": {
+            "profile_id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
+            "commune_slug": "paris-4e",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Paris 4e, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens. Interventions rapides et devis gratuit. Votre sécurité électrique, ma priorité dans le Marais et ses alentours.",
+            "local_badge": "Électricien expert du Marais - Paris 4e",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les logements parisiens du 4e arrondissement.",
+            "trust_signal": "9 ans d'expérience confirmée à Paris 4e, interventions rapides et fiables garanties",
+            "why_this_commune": "Yves Marchand est le choix idéal pour Paris 4e. Électricien local, il maîtrise les spécificités des bâtiments anciens du Marais et de l'Île Saint-Louis. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans ce quartier historique assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T08:59:21.296Z",
+            "used_fallback": false
+          },
+          "fc21f596-61b7-41af-94b0-b4b455231cd5": {
+            "profile_id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
+            "commune_slug": "paris-4e",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Paris 4e, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens. Intervenant dans le Marais et ses environs, je garantis des installations sécurisées et conformes. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert du Marais, Paris 4e",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les immeubles parisiens du 4e arrondissement.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable et réactif à Paris 4e",
+            "why_this_commune": "Antoine Lefevre est un excellent choix pour Paris 4e. Basé localement, il connaît parfaitement les spécificités architecturales du Marais et de l'Île Saint-Louis. Son expérience confirmée dans ce quartier garantit des interventions rapides et adaptées aux bâtiments anciens parisiens.",
+            "generated_at": "2025-11-16T08:59:34.041Z",
+            "used_fallback": false
+          },
+          "611b8f9b-4834-4278-a749-5926689bef99": {
+            "profile_id": "611b8f9b-4834-4278-a749-5926689bef99",
+            "commune_slug": "paris-4e",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Paris 4e, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens. Interventions rapides et devis gratuit pour vos installations électriques. Votre sécurité électrique, ma priorité dans le Marais et ses environs.",
+            "local_badge": "Électricien expert du Marais, Paris 4e",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les logements parisiens du 4e arrondissement.",
+            "trust_signal": "20 ans d'expérience confirmée, électricien de confiance à Paris 4e",
+            "why_this_commune": "Charles Colin est un excellent choix pour Paris 4e. Basé localement, il maîtrise les spécificités des bâtiments historiques du Marais et de l'Île Saint-Louis. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans ce quartier assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:47.454Z",
+            "used_fallback": false
+          },
+          "13a60596-2e6b-4d21-90c5-9903b9c378d6": {
+            "profile_id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
+            "commune_slug": "paris-4e",
+            "bio_localized": "Électricien spécialisé en éclairage LED professionnel à Paris 4e, je mets mon expertise de 16 ans au service des bâtiments haussmanniens et immeubles du Marais. Interventions rapides et fiables pour optimiser votre éclairage. Disponible pour tous vos besoins électriques dans le quartier.",
+            "local_badge": "Électricien expert du Marais, Paris 4e",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les bâtiments haussmanniens et commerces de Paris 4e.",
+            "trust_signal": "16 ans d'expérience confirmée à Paris 4e, électricien fiable et réactif",
+            "why_this_commune": "Alexandre Renard est un excellent choix pour Paris 4e. Installé localement, il connaît parfaitement les spécificités architecturales du Marais et de l'Île Saint-Louis. Son expérience confirmée dans ce quartier garantit des interventions rapides et adaptées aux anciennes installations électriques caractéristiques de cette zone historique.",
+            "generated_at": "2025-11-16T09:00:00.220Z",
+            "used_fallback": false
+          },
+          "383e801f-e283-46bd-bee4-7c871470b590": {
+            "profile_id": "383e801f-e283-46bd-bee4-7c871470b590",
+            "commune_slug": "paris-4e",
+            "bio_localized": "Serge Morel, électricien expert à Paris 4e, intervient sur la rénovation électrique des immeubles haussmanniens et bâtiments parisiens. Avec 5 années d'expérience, il sécurise et modernise vos installations dans le Marais et ses environs. Professionnel reconnu pour son savoir-faire et sa fiabilité.",
+            "local_badge": "Électricien expert du Marais, Paris 4e",
+            "service_highlight": "Électricien expert en rénovation électrique pour les appartements et immeubles haussmanniens du 4e arrondissement de Paris.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Paris 4e",
+            "why_this_commune": "Serge Morel est un excellent choix pour Paris 4e. Électricien local, il maîtrise parfaitement les spécificités architecturales du quartier du Marais et des bâtiments historiques parisiens. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:00:14.010Z",
+            "used_fallback": false
+          },
+          "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a": {
+            "profile_id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+            "commune_slug": "paris-4e",
+            "bio_localized": "Fort de 17 ans d'expérience, René Legrand intervient à Paris 4e pour rénover les installations électriques des immeubles haussmanniens et bâtiments modernes du Marais. Électricien spécialisé en rénovation, il garantit conformité et sécurité pour votre patrimoine immobilier parisien.",
+            "local_badge": "Électricien expert du Marais - Paris 4e",
+            "service_highlight": "Électricien expert en rénovation électrique pour les appartements haussmanniens et immeubles anciens de Paris 4e.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable et certifié à Paris 4e",
+            "why_this_commune": "René Legrand est un excellent choix pour Paris 4e. Électricien local, il maîtrise les spécificités architecturales du Marais et de l'Île Saint-Louis. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans ce quartier historique assure un travail de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:00:26.721Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "paris-5e": {
+        "commune_name": "Paris 5e",
+        "postal_code": "75005",
+        "department": "75",
+        "electricians": {
+          "9b09e215-2ff1-477d-a8f8-33b8703451f9": {
+            "profile_id": "9b09e215-2ff1-477d-a8f8-33b8703451f9",
+            "commune_slug": "paris-5e",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Paris 5e, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles du Quartier Latin. Intervention rapide et devis gratuit pour sécuriser votre installation électrique aux normes actuelles.",
+            "local_badge": "Électricien expert du 5e arrondissement Paris",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les immeubles parisiens du 5e arrondissement.",
+            "trust_signal": "9 ans d'expérience confirmée à Paris 5e, électricien fiable et réactif",
+            "why_this_commune": "Yves Marchand est un excellent choix pour Paris 5e. Électricien local, il maîtrise parfaitement les spécificités architecturales du quartier Latin et des immeubles haussmanniens. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:39.034Z",
+            "used_fallback": false
+          },
+          "fc21f596-61b7-41af-94b0-b4b455231cd5": {
+            "profile_id": "fc21f596-61b7-41af-94b0-b4b455231cd5",
+            "commune_slug": "paris-5e",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Paris 5e, je spécialise dans la mise aux normes NF C 15-100 des immeubles haussmanniens et résidences du Quartier Latin. Interventions rapides et devis gratuit pour tous vos besoins électriques. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert du 5e arrondissement Paris",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les logements et immeubles parisiens du 5e arrondissement.",
+            "trust_signal": "Électricien confirmé avec 17 ans d'expérience dans Paris 5e, interventions rapides garanties",
+            "why_this_commune": "Antoine Lefevre est un excellent choix pour Paris 5e. Basé localement, il maîtrise les spécificités des immeubles haussmanniens et des bâtiments historiques du quartier Latin. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:00:52.074Z",
+            "used_fallback": false
+          },
+          "611b8f9b-4834-4278-a749-5926689bef99": {
+            "profile_id": "611b8f9b-4834-4278-a749-5926689bef99",
+            "commune_slug": "paris-5e",
+            "bio_localized": "Électricien expérimenté depuis 20 ans, je spécialise dans la mise aux normes NF C 15-100 des bâtiments haussmanniens et immeubles parisiens du 5e arrondissement. Interventions rapides et devis gratuits pour sécuriser vos installations électriques dans le Quartier Latin et ses environs.",
+            "local_badge": "Électricien expert du 5e arrondissement parisien",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les appartements haussmanniens de Paris 5e.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance dans Paris 5e, interventions rapides et fiables",
+            "why_this_commune": "Charles Colin est un excellent choix pour Paris 5e. Électricien local, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et médiévaux du quartier Latin. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T09:01:04.873Z",
+            "used_fallback": false
+          },
+          "13a60596-2e6b-4d21-90c5-9903b9c378d6": {
+            "profile_id": "13a60596-2e6b-4d21-90c5-9903b9c378d6",
+            "commune_slug": "paris-5e",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Paris 5e, je spécialise dans l'éclairage LED professionnel. Expert en modernisation des bâtiments haussmanniens et immeubles parisiens, je propose des solutions d'éclairage innovantes et économes. Interventions rapides et fiables dans le Quartier Latin et alentours.",
+            "local_badge": "Électricien expert du 5e arrondissement Paris",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les immeubles parisiens du 5e arrondissement, garantissant efficacité énergétique et design moderne.",
+            "trust_signal": "16 ans d'expérience confirmée, électricien fiable et qualifié à Paris 5e",
+            "why_this_commune": "Alexandre Renard est un excellent choix pour Paris 5e. Électricien local, il maîtrise les spécificités des bâtiments haussmanniens et médiévaux du quartier Latin. Sa proximité garantit une intervention rapide. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T09:01:19.380Z",
+            "used_fallback": false
+          },
+          "383e801f-e283-46bd-bee4-7c871470b590": {
+            "profile_id": "383e801f-e283-46bd-bee4-7c871470b590",
+            "commune_slug": "paris-5e",
+            "bio_localized": "Serge Morel, électricien expert en rénovation électrique à Paris 5e, intervient sur les prestigieux immeubles haussmanniens du Quartier Latin ainsi que les résidences modernes du secteur. Fort de 5 ans d'expérience, il garantit des installations sécurisées et conformes aux normes actuelles pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert du 5e arrondissement Paris",
+            "service_highlight": "Électricien expert en rénovation électrique pour les appartements et immeubles anciens du quartier Latin à Paris 5e.",
+            "trust_signal": "Électricien expérimenté 5 ans, interventions rapides et fiables à Paris 5e",
+            "why_this_commune": "Serge Morel est un excellent choix pour Paris 5e. Électricien local, il maîtrise parfaitement les spécificités des immeubles haussmanniens et médiévaux du quartier. Sa proximité garantit une intervention rapide et son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:32.074Z",
+            "used_fallback": false
+          },
+          "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a": {
+            "profile_id": "9bc811ae-6bd3-4103-ad25-dc32c0e9a58a",
+            "commune_slug": "paris-5e",
+            "bio_localized": "René Legrand, électricien expert à Paris 5e depuis 17 ans, maîtrise la rénovation électrique des bâtiments haussmanniens du Quartier Latin. Spécialiste des installations aux normes dans les immeubles anciens, il intervient avec professionnalisme et sérieux pour sécuriser votre logement parisien.",
+            "local_badge": "Électricien expert du 5e arrondissement Paris",
+            "service_highlight": "Spécialiste en rénovation électrique pour les appartements haussmanniens du 5e arrondissement de Paris",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable et réactif à Paris 5e",
+            "why_this_commune": "René Legrand est le choix idéal pour Paris 5e. Implanté localement, il maîtrise parfaitement les spécificités des bâtiments haussmanniens et médiévaux du quartier Latin. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:01:44.962Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

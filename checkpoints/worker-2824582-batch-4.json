@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "la-tombe",
+  "processedCommunes": [
+    "la-haute-maison",
+    "la-houssaye-en-brie",
+    "la-madeleine-sur-loing",
+    "la-rochette",
+    "la-tombe"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 33332,
+    "outputTokens": 8411,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.498Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "la-haute-maison": {
+        "commune_name": "LA HAUTE-MAISON",
+        "postal_code": "77580",
+        "department": "77",
+        "electricians": {
+          "7af97dc2-bc22-4dff-87fa-2a1c75a871d4": {
+            "profile_id": "7af97dc2-bc22-4dff-87fa-2a1c75a871d4",
+            "commune_slug": "la-haute-maison",
+            "bio_localized": "Électricien qualifié depuis 8 ans à La haute-Maison, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et immeubles de Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et service rapide pour tous vos besoins électriques locaux.",
+            "local_badge": "Électricien expert de La haute-Maison depuis années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à La haute-Maison pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "8 ans d'expérience confirmée à La haute-Maison, électricien fiable et professionnel",
+            "why_this_commune": "Frédéric Lucas est le choix idéal pour La haute-Maison. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:55:23.791Z",
+            "used_fallback": false
+          },
+          "7a087381-8b88-45cb-ac39-e9813a90a436": {
+            "profile_id": "7a087381-8b88-45cb-ac39-e9813a90a436",
+            "commune_slug": "la-haute-maison",
+            "bio_localized": "Eric Nicolas, électricien expert à La Haute-Maison, maîtrise l'installation de tableaux électriques depuis 16 ans. Spécialisé dans les rénovations de pavillons et les modernisations électriques, il garantit des installations conformes et sécurisées. Votre satisfaction et la qualité de son travail sont ses priorités absolues en Seine-et-Marne.",
+            "local_badge": "Électricien expert de La haute-Maison, intervention rapide",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de La haute-Maison.",
+            "trust_signal": "16 ans d'expérience confirmée à La haute-Maison, électricien fiable et professionnel",
+            "why_this_commune": "Eric Nicolas est un excellent choix pour La haute-Maison. Électricien local basé en Seine-et-Marne, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:55:37.363Z",
+            "used_fallback": false
+          },
+          "bce53314-75cc-46c6-917c-67297007a942": {
+            "profile_id": "bce53314-75cc-46c6-917c-67297007a942",
+            "commune_slug": "la-haute-maison",
+            "bio_localized": "Didier Blanc, électricien expert à La haute-Maison, intervient sur l'installation et la rénovation de tableaux électriques. Avec 9 ans d'expérience en Seine-et-Marne, il maîtrise les installations résidentielles et tertiaires. Professionnel certifié, il garantit des travaux conformes aux normes, pour votre sécurité et tranquillité d'esprit.",
+            "local_badge": "Électricien expert de La haute-Maison depuis des années",
+            "service_highlight": "Électricien spécialisé en installation et rénovation de tableaux électriques à La haute-Maison pour tous types de bâtiments.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien de confiance à La haute-Maison",
+            "why_this_commune": "Didier Blanc est le choix idéal pour La haute-Maison. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:55:50.452Z",
+            "used_fallback": false
+          },
+          "11f41c9a-316f-4389-a7d1-638da2dbfd02": {
+            "profile_id": "11f41c9a-316f-4389-a7d1-638da2dbfd02",
+            "commune_slug": "la-haute-maison",
+            "bio_localized": "Gérard Sanchez, électricien expert en domotique et automatisation à La haute-Maison, intervient depuis 9 ans en Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions intelligentes adaptées à chaque habitat. Qualité de service et satisfaction client garanties.",
+            "local_badge": "Électricien expert de La haute-Maison",
+            "service_highlight": "Électricien domotique et automatisation spécialisé dans l'équipement intelligent des habitations de La haute-Maison.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien de confiance à La haute-Maison",
+            "why_this_commune": "Gérard Sanchez est le choix idéal pour La haute-Maison. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:03.422Z",
+            "used_fallback": false
+          },
+          "1459e2fe-809a-4b26-860c-252ee3f82e42": {
+            "profile_id": "1459e2fe-809a-4b26-860c-252ee3f82e42",
+            "commune_slug": "la-haute-maison",
+            "bio_localized": "Électricien qualifié depuis 17 ans, je suis spécialisé dans l'installation de bornes de recharge à La haute-Maison et ses environs. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de La haute-Maison",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à La haute-Maison et ses environs.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à La haute-Maison, interventions rapides garanties",
+            "why_this_commune": "Jérôme Caron est le choix idéal pour La haute-Maison. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:56:16.446Z",
+            "used_fallback": false
+          },
+          "d08f6d48-be1d-4078-a49a-31f49574678d": {
+            "profile_id": "d08f6d48-be1d-4078-a49a-31f49574678d",
+            "commune_slug": "la-haute-maison",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à La Haute-Maison, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du secteur. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité en Seine-et-Marne.",
+            "local_badge": "Électricien expert de La haute-Maison",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à La haute-Maison.",
+            "trust_signal": "14 ans d'expérience confirmée à La haute-Maison, électricien fiable et reconnu",
+            "why_this_commune": "Antoine Chevalier est le choix idéal pour La haute-Maison. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:29.255Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "la-houssaye-en-brie": {
+        "commune_name": "LA HOUSSAYE-EN-BRIE",
+        "postal_code": "77610",
+        "department": "77",
+        "electricians": {
+          "11f41c9a-316f-4389-a7d1-638da2dbfd02": {
+            "profile_id": "11f41c9a-316f-4389-a7d1-638da2dbfd02",
+            "commune_slug": "la-houssaye-en-brie",
+            "bio_localized": "Gérard Sanchez, électricien expert en domotique et automatisation à La Houssaye-en-Brie, intervient depuis 9 ans auprès des résidents locaux. Spécialisé dans l'équipement des pavillons et maisons modernes de Seine-et-Marne, il propose des solutions intelligentes et fiables. Service de qualité et satisfaction client garantis.",
+            "local_badge": "Électricien expert de La houssaye-en-Brie",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les habitations de La houssaye-en-Brie",
+            "trust_signal": "9 ans d'expérience électricien confirmé à La houssaye-en-Brie, interventions rapides garanties",
+            "why_this_commune": "Gérard Sanchez est le choix idéal pour La houssaye-en-Brie. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:41.917Z",
+            "used_fallback": false
+          },
+          "7a087381-8b88-45cb-ac39-e9813a90a436": {
+            "profile_id": "7a087381-8b88-45cb-ac39-e9813a90a436",
+            "commune_slug": "la-houssaye-en-brie",
+            "bio_localized": "Eric Nicolas, électricien expert à La Houssaye-en-Brie, intervient depuis 16 ans sur l'installation et la mise aux normes de tableaux électriques. Spécialiste des pavillons et résidences de Seine-et-Marne, il garantit des installations sécurisées et conformes. Service fiable et client prioritaire.",
+            "local_badge": "Électricien expert de La houssaye-en-Brie depuis années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques à La houssaye-en-Brie pour résidences et petits commerces.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à La houssaye-en-Brie, interventions rapides garanties",
+            "why_this_commune": "Eric Nicolas est le choix idéal pour La houssaye-en-Brie. Électricien local, il maîtrise parfaitement les spécificités des bâtiments briards et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:56:54.811Z",
+            "used_fallback": false
+          },
+          "7af97dc2-bc22-4dff-87fa-2a1c75a871d4": {
+            "profile_id": "7af97dc2-bc22-4dff-87fa-2a1c75a871d4",
+            "commune_slug": "la-houssaye-en-brie",
+            "bio_localized": "Électricien qualifié depuis 8 ans, je suis spécialisé dans l'installation de bornes de recharge à La Houssaye-en-Brie. Je maîtrise les spécificités des pavillons et résidences de Seine-et-Marne. Devis gratuit, intervention rapide et garantie. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de La houssaye-en-Brie depuis années",
+            "service_highlight": "Spécialiste installation bornes de recharge électrique pour véhicules à La houssaye-en-Brie et alentours.",
+            "trust_signal": "8 ans d'expérience électricien confirmé à La houssaye-en-Brie, interventions rapides garanties",
+            "why_this_commune": "Frédéric Lucas est le choix idéal pour La houssaye-en-Brie. Électricien local expérimenté, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Vous bénéficiez d'un professionnel fiable, connaissant intimement votre territoire.",
+            "generated_at": "2025-11-16T08:57:07.995Z",
+            "used_fallback": false
+          },
+          "c4e25591-90e8-4f2d-9be0-de8e3a9e634d": {
+            "profile_id": "c4e25591-90e8-4f2d-9be0-de8e3a9e634d",
+            "commune_slug": "la-houssaye-en-brie",
+            "bio_localized": "Électricien professionnel à La Houssaye-en-Brie, je maîtrise l'éclairage LED pour tous vos projets. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marie, je vous propose des solutions d'éclairage performantes et durables. Fort de 5 ans d'expérience, je garantis un travail de qualité et un service fiable.",
+            "local_badge": "Électricien expert à La houssaye-en-Brie depuis longtemps",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de La houssaye-en-Brie",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à La houssaye-en-Brie",
+            "why_this_commune": "Emmanuel Morel est le choix idéal pour La Houssaye-en-Brie. Électricien local expérimenté, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Faites confiance à son expertise reconnue dans la région.",
+            "generated_at": "2025-11-16T08:57:21.284Z",
+            "used_fallback": false
+          },
+          "a79f112a-a961-45ca-a857-6615a6fd5d5a": {
+            "profile_id": "a79f112a-a961-45ca-a857-6615a6fd5d5a",
+            "commune_slug": "la-houssaye-en-brie",
+            "bio_localized": "Eric Lemoine, électricien expert à La Houssaye-en-Brie, intervient sur l'installation et la mise aux normes de tableaux électriques. Spécialiste reconnu depuis 10 ans, il accompagne les habitants de Seine-et-Marne dans leurs projets résidentiels. Qualité de travail et satisfaction client garanties.",
+            "local_badge": "Électricien expert de La houssaye-en-Brie depuis années",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques à La houssaye-en-Brie, garantissant conformité et sécurité.",
+            "trust_signal": "10 ans d'expérience, électricien de confiance à La houssaye-en-brie",
+            "why_this_commune": "Eric Lemoine est le choix idéal pour La houssaye-en-Brie. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:33.995Z",
+            "used_fallback": false
+          },
+          "31d6496e-3370-49f5-99bd-d4b697489f61": {
+            "profile_id": "31d6496e-3370-49f5-99bd-d4b697489f61",
+            "commune_slug": "la-houssaye-en-brie",
+            "bio_localized": "Stéphane Martinez, électricien expert depuis 17 ans à La Houssaye-en-Brie, intervient sur tous vos projets de rénovation électrique. Spécialiste des installations résidentielles en Seine-et-Marne, il modernise pavillons et maisons anciennes avec professionnalisme et rigueur. Votre électricien de confiance pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert à La houssaye-en-Brie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à La houssaye-en-Brie, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "17 ans d'expérience électricien à La houssaye-en-Brie, intervention rapide garantie",
+            "why_this_commune": "Stéphane Martinez est le choix idéal pour La Houssaye-en-Brie. Électricien local expérimenté, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Vous bénéficiez d'un professionnel fiable, réactif et maîtrisant les particularités locales.",
+            "generated_at": "2025-11-16T08:57:46.860Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "la-madeleine-sur-loing": {
+        "commune_name": "LA MADELEINE-SUR-LOING",
+        "postal_code": "77570",
+        "department": "77",
+        "electricians": {
+          "9a2df1c6-83c2-43dc-a867-a60b141ace39": {
+            "profile_id": "9a2df1c6-83c2-43dc-a867-a60b141ace39",
+            "commune_slug": "la-madeleine-sur-loing",
+            "bio_localized": "Électricien spécialisé en éclairage LED professionnel à La Madeleine-sur-Loing, je mets mes 15 ans d'expérience au service des particuliers et entreprises de Seine-et-Marne. Du pavillon au bâtiment tertiaire, j'optimise vos installations lumineuses pour plus d'efficacité énergétique et de confort. Disponible pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de La madeleine-sur-Loing",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de La madeleine-sur-Loing",
+            "trust_signal": "15 ans d'expérience électricien confirmé à La madeleine-sur-Loing",
+            "why_this_commune": "Alexandre Mathieu est le choix idéal pour La madeleine-sur-Loing. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:00.276Z",
+            "used_fallback": false
+          },
+          "94d2b4e5-4809-4e78-8581-0daf3c57e9b4": {
+            "profile_id": "94d2b4e5-4809-4e78-8581-0daf3c57e9b4",
+            "commune_slug": "la-madeleine-sur-loing",
+            "bio_localized": "Dominique Robert, électricien expert à La Madeleine-sur-Loing, intervient depuis 18 ans sur l'installation et la rénovation de tableaux électriques. Spécialiste des pavillons et petits collectifs de Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et professionnel au cœur de votre commune.",
+            "local_badge": "Électricien expert de La madeleine-sur-Loing",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques résidentiels à La madeleine-sur-Loing.",
+            "trust_signal": "18 ans d'expérience confirmée à La madeleine-sur-Loing, électricien fiable et réactif",
+            "why_this_commune": "Dominique Robert est le choix idéal pour La Madeleine-sur-Loing. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:13.144Z",
+            "used_fallback": false
+          },
+          "de149193-5335-4ac1-895f-bb9b3d05f14c": {
+            "profile_id": "de149193-5335-4ac1-895f-bb9b3d05f14c",
+            "commune_slug": "la-madeleine-sur-loing",
+            "bio_localized": "Luc Vincent, électricien expert en domotique et automatisation à La Madeleine-sur-Loing, intervient depuis 11 ans auprès des habitants de Seine-et-Marne. Spécialiste des installations intelligentes pour pavillons et immeubles, il garantit des solutions modernes, fiables et adaptées à chaque projet résidentiel local.",
+            "local_badge": "Électricien expert de La madeleine-sur-Loing depuis années",
+            "service_highlight": "Automatisation et domotique pour votre maison à La madeleine-sur-Loing, solutions intelligentes et modernes.",
+            "trust_signal": "11 ans d'expérience confirmée à La madeleine-sur-Loing, électricien fiable et réactif",
+            "why_this_commune": "Luc Vincent est le choix idéal pour La madeleine-sur-Loing. Électricien local, il maîtrise parfaitement les spécificités architecturales et les caractéristiques des bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:26.405Z",
+            "used_fallback": false
+          },
+          "11231328-06ad-485a-b8a4-8ef266dd1c01": {
+            "profile_id": "11231328-06ad-485a-b8a4-8ef266dd1c01",
+            "commune_slug": "la-madeleine-sur-loing",
+            "bio_localized": "Électricien qualifié depuis 18 ans à La Madeleine-sur-Loing, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de La madeleine-sur-Loing",
+            "service_highlight": "Installateur expert en bornes de recharge électrique pour véhicules à La madeleine-sur-Loing et ses environs.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable à La madeleine-sur-Loing",
+            "why_this_commune": "Julien Leclerc est le choix idéal pour La Madeleine-sur-Loing. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:39.405Z",
+            "used_fallback": false
+          },
+          "b42f8605-a1c7-4af9-b0fa-c157fa283e10": {
+            "profile_id": "b42f8605-a1c7-4af9-b0fa-c157fa283e10",
+            "commune_slug": "la-madeleine-sur-loing",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à La Madeleine-sur-Loing, je propose des interventions d'urgence 24/7 pour tous vos besoins électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible jour et nuit pour votre sécurité.",
+            "local_badge": "Électricien expert de La madeleine-sur-Loing",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à La madeleine-sur-Loing",
+            "trust_signal": "8 ans d'expérience confirmée à La madeleine-sur-Loing, électricien fiable et réactif",
+            "why_this_commune": "Christian Lemaire est le choix idéal pour La madeleine-sur-Loing. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:52.467Z",
+            "used_fallback": false
+          },
+          "6345041d-8709-46f7-b3c0-4dd086edcaff": {
+            "profile_id": "6345041d-8709-46f7-b3c0-4dd086edcaff",
+            "commune_slug": "la-madeleine-sur-loing",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à La Madeleine-sur-Loing, je maîtrise l'électricité générale pour tous types de bâtiments. Pavillons, immeubles anciens ou modernes de Seine-et-Marne, je garantis des interventions rapides et un travail soigné. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de La madeleine-sur-Loing depuis années",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à La madeleine-sur-Loing pour tous vos besoins en installations et rénovations électriques.",
+            "trust_signal": "17 ans d'expérience confirmée à La madeleine-sur-Loing, électricien fiable et professionnel",
+            "why_this_commune": "Philippe Boyer est un excellent choix pour La Madeleine-sur-Loing. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:06.284Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "la-rochette": {
+        "commune_name": "LA ROCHETTE",
+        "postal_code": "77000",
+        "department": "77",
+        "electricians": {
+          "e7bac67e-08c9-4bd3-ab77-ec59a92d561c": {
+            "profile_id": "e7bac67e-08c9-4bd3-ab77-ec59a92d561c",
+            "commune_slug": "la-rochette",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à La Rochette, je maîtrise le dépannage express pour tous vos besoins. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible et réactif, je garantis une intervention professionnelle et sécurisée.",
+            "local_badge": "Électricien expert de La Rochette, intervention rapide",
+            "service_highlight": "Dépannage électrique express à La Rochette : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "Électricien certifié avec 11 ans d'expérience à La rochette, interventions garanties",
+            "why_this_commune": "Thomas André est le choix idéal pour La rochette. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et de confiance.",
+            "generated_at": "2025-11-16T08:59:20.746Z",
+            "used_fallback": false
+          },
+          "88ef0b65-9a43-4556-bd2f-3628081ec438": {
+            "profile_id": "88ef0b65-9a43-4556-bd2f-3628081ec438",
+            "commune_slug": "la-rochette",
+            "bio_localized": "Luc Pierre, électricien expert en domotique et automatisation à La Rochette, intervient sur les pavillons et immeubles de Seine-et-Marne. Fort de 14 ans d'expérience, il modernise vos installations électriques avec des solutions intelligentes et durables. Service fiable et satisfaction client garantie.",
+            "local_badge": "Électricien expert de La Rochette, intervention rapide",
+            "service_highlight": "Électricien domotique expert à La Rochette, je modernise vos installations avec des systèmes d'automatisation innovants et performants.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à La Rochette, interventions rapides garanties",
+            "why_this_commune": "Luc Pierre est le choix idéal pour La rochette. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide en cas d'urgence. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:35.674Z",
+            "used_fallback": false
+          },
+          "4b7c294a-cbaa-468b-8df9-5b0dbfae443e": {
+            "profile_id": "4b7c294a-cbaa-468b-8df9-5b0dbfae443e",
+            "commune_slug": "la-rochette",
+            "bio_localized": "Électricien qualifié depuis 12 ans à La Rochette, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et immeubles de Seine-et-Marne, j'offre des solutions adaptées à votre habitat. Devis gratuit et service fiable pour votre transition énergétique.",
+            "local_badge": "Électricien expert de La Rochette",
+            "service_highlight": "Électricien spécialisé en installation de bornes de recharge à La Rochette, intervenant sur tous types de véhicules électriques.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à La Rochette",
+            "why_this_commune": "Fabrice Vidal est un excellent choix pour La Rochette. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:47.833Z",
+            "used_fallback": false
+          },
+          "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f": {
+            "profile_id": "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f",
+            "commune_slug": "la-rochette",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à La Rochette, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Pavillons, immeubles modernes ou constructions anciennes de Seine-et-Marne, je garantis un diagnostic rapide et des solutions fiables. Disponible jour et nuit pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de La Rochette depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à La Rochette pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "17 ans d'expérience électricien à La rochette, interventions rapides et fiables",
+            "why_this_commune": "Bernard Lucas est le choix idéal pour La rochette. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et fiables. Son expérience confirmée dans cette zone seine-et-marnaise assure un service de qualité et une connaissance approfondie de vos besoins électriques locaux.",
+            "generated_at": "2025-11-16T09:00:02.387Z",
+            "used_fallback": false
+          },
+          "4cf56943-694d-4b94-95e8-a87678f0a91c": {
+            "profile_id": "4cf56943-694d-4b94-95e8-a87678f0a91c",
+            "commune_slug": "la-rochette",
+            "bio_localized": "Patrick Bernard, électricien agréé Consuel à La Rochette, met ses 19 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques, il intervient sur les pavillons et immeubles locaux avec professionnalisme et fiabilité, garantissant la conformité et la sécurité de vos installations.",
+            "local_badge": "Électricien expert de La Rochette, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à La Rochette, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "19 ans d'expérience, électricien de confiance à La Rochette",
+            "why_this_commune": "Patrick Bernard est le choix idéal pour La Rochette. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:16.023Z",
+            "used_fallback": false
+          },
+          "2373414f-7b90-4feb-8144-8230d7e7d8e8": {
+            "profile_id": "2373414f-7b90-4feb-8144-8230d7e7d8e8",
+            "commune_slug": "la-rochette",
+            "bio_localized": "Électricien expérimenté depuis 20 ans, Robert Rodriguez intervient à La Rochette pour rénover vos installations électriques. Spécialiste des pavillons et immeubles locaux, il garantit des travaux conformes et sécurisés. Faites confiance à son expertise reconnue en Seine-et-Marne pour moderniser votre habitat.",
+            "local_badge": "Électricien expert de La Rochette, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à La rochette, je modernise vos installations anciennes avec professionnalisme et fiabilité.",
+            "trust_signal": "20 ans d'expérience électricien à La rochette, interventions rapides et fiables",
+            "why_this_commune": "Robert Rodriguez est le choix idéal pour La Rochette. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:28.926Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "la-tombe": {
+        "commune_name": "LA TOMBE",
+        "postal_code": "77130",
+        "department": "77",
+        "electricians": {
+          "57f429e4-7c5e-4db1-b561-d02a5d218e99": {
+            "profile_id": "57f429e4-7c5e-4db1-b561-d02a5d218e99",
+            "commune_slug": "la-tombe",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à La Tombe, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une pose conforme et sécurisée. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert de La Tombe, intervention rapide",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à La tombe et ses alentours.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et professionnel à La tombe",
+            "why_this_commune": "Frédéric Dufour est le choix idéal pour La tombe. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Faites confiance à son expertise reconnue en Seine-et-Marne.",
+            "generated_at": "2025-11-16T09:00:59.902Z",
+            "used_fallback": false
+          },
+          "25ee41c4-13c1-4b4d-8139-75c1ef9aec26": {
+            "profile_id": "25ee41c4-13c1-4b4d-8139-75c1ef9aec26",
+            "commune_slug": "la-tombe",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à La Tombe, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de La tombe, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 intervenant régulièrement à La tombe pour sécuriser vos installations.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à La tombe, intervention rapide garantie",
+            "why_this_commune": "Antoine Rousseau est le choix idéal pour La tombe. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:12.786Z",
+            "used_fallback": false
+          },
+          "ecfda4f8-6f59-4e65-93e8-2bd415e03d93": {
+            "profile_id": "ecfda4f8-6f59-4e65-93e8-2bd415e03d93",
+            "commune_slug": "la-tombe",
+            "bio_localized": "Électricien qualifié à La Tombe depuis 20 ans, Philippe Mercier intervient sur tous vos besoins en électricité générale. Maisons individuelles, pavillons ou petits immeubles en Seine-et-Marne, il garantit des installations sécurisées et conformes. Diagnostic, dépannage, rénovation : service réactif et travail soigné.",
+            "local_badge": "Électricien expert de La Tombe, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant régulièrement sur les installations électriques résidentielles et tertiaires de La Tombe.",
+            "trust_signal": "20 ans d'expérience, électricien fiable et certifié à La tombe",
+            "why_this_commune": "Philippe Mercier est un excellent choix pour La tombe. Électricien local en Seine-et-Marne, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T09:01:25.718Z",
+            "used_fallback": false
+          },
+          "7076db8d-13da-4bc9-b65f-3c0273bc5232": {
+            "profile_id": "7076db8d-13da-4bc9-b65f-3c0273bc5232",
+            "commune_slug": "la-tombe",
+            "bio_localized": "Serge Robin, électricien à La Tombe depuis 19 ans, maîtrise la rénovation électrique de tous les types d'habitats. Du pavillon traditionnel aux constructions modernes de Seine-et-Marne, il sécurise et modernise vos installations avec expertise. Votre confiance, sa priorité.",
+            "local_badge": "Électricien expert de La Tombe, intervention rapide",
+            "service_highlight": "Rénovation électrique complète pour tous les logements anciens de La tombe, mise aux normes garantie.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à La tombe, interventions rapides et fiables",
+            "why_this_commune": "Serge Robin, électricien établi à La tombe en Seine-et-Marne, maîtrise parfaitement les spécificités des bâtiments locaux. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée dans la région, il offre un service fiable et adapté aux besoins spécifiques de La tombe.",
+            "generated_at": "2025-11-16T09:01:38.994Z",
+            "used_fallback": false
+          },
+          "6127c0eb-41bb-4b46-880d-13c84d805253": {
+            "profile_id": "6127c0eb-41bb-4b46-880d-13c84d805253",
+            "commune_slug": "la-tombe",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à La Tombe, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles de Seine-et-Marne. Interventions fiables et conformes aux standards actuels. Devis gratuit et service rapide pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert de La Tombe, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 intervenant régulièrement à La tombe pour sécuriser vos installations.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et certifié à La tombe",
+            "why_this_commune": "Denis Thomas est le choix idéal pour La tombe. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expertise locale assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:01:51.879Z",
+            "used_fallback": false
+          },
+          "b6465625-1fe7-4a6d-8d36-1d01e0660cf5": {
+            "profile_id": "b6465625-1fe7-4a6d-8d36-1d01e0660cf5",
+            "commune_slug": "la-tombe",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à La Tombe, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et immeubles de Seine-et-Marne, je garantis des installations conformes et durables. Devis gratuit et service rapide.",
+            "local_badge": "Électricien expert à La tombe depuis des années",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à La tombe et ses environs.",
+            "trust_signal": "15 ans d'expérience, électricien fiable et certifié à La tombe",
+            "why_this_commune": "Julien François est le choix idéal pour La tombe. Électricien local en Seine-et-Marne, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:02:05.118Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "favrieux",
+  "processedCommunes": [
+    "elancourt",
+    "emance",
+    "epone",
+    "evecquemont",
+    "favrieux"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 31889,
+    "outputTokens": 8087,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.611Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "elancourt": {
+        "commune_name": "ELANCOURT",
+        "postal_code": "78990",
+        "department": "78",
+        "electricians": {
+          "05541618-9232-40d3-afd5-5220a1507221": {
+            "profile_id": "05541618-9232-40d3-afd5-5220a1507221",
+            "commune_slug": "elancourt",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Elancourt, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments. Des pavillons aux immeubles modernes des Yvelines, je garantis des solutions électriques rapides et fiables. Disponible immédiatement pour vos dépannages critiques.",
+            "local_badge": "Électricien expert à Elancourt, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Elancourt pour tous vos dépannages et interventions électriques immédiates.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et reconnu à Elancourt",
+            "why_this_commune": "Daniel Muller est le choix idéal pour Elancourt. Électricien local, il maîtrise parfaitement les spécificités architecturales des quartiers d'Elancourt et les normes yvelinoises. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:23.989Z",
+            "used_fallback": false
+          },
+          "c25ec669-ce96-4c19-8421-aac39e66c852": {
+            "profile_id": "c25ec669-ce96-4c19-8421-aac39e66c852",
+            "commune_slug": "elancourt",
+            "bio_localized": "Patrick Petit, électricien agréé Consuel à Elancourt, met ses 14 ans d'expertise au service des habitants des Yvelines. Intervenant sur les pavillons et immeubles modernes de la région, il garantit des installations électriques conformes et sécurisées, du diagnostic à la mise aux normes.",
+            "local_badge": "Électricien expert à Elancourt, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Elancourt, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Elancourt, interventions rapides garanties",
+            "why_this_commune": "Patrick Petit est le choix idéal pour Elancourt. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:55:36.867Z",
+            "used_fallback": false
+          },
+          "8bd1a371-4066-4c38-8582-026fda19c8cd": {
+            "profile_id": "8bd1a371-4066-4c38-8582-026fda19c8cd",
+            "commune_slug": "elancourt",
+            "bio_localized": "Électricien professionnel basé à Elancourt, je maîtrise l'éclairage LED depuis 8 ans. Spécialisé dans les installations modernes, j'interviens dans les pavillons et immeubles des Yvelines. Expertise technique, qualité garantie et disponibilité pour tous vos projets électriques locaux.",
+            "local_badge": "Électricien expert d'Elancourt, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Elancourt, optimisant consommation énergétique et ambiance lumineuse pour entreprises et collectivités.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Elancourt",
+            "why_this_commune": "Alexandre Marchand est un excellent choix pour Elancourt. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers d'Elancourt. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:49.555Z",
+            "used_fallback": false
+          },
+          "114bfda2-e810-4893-aec0-6857ff3eee75": {
+            "profile_id": "114bfda2-e810-4893-aec0-6857ff3eee75",
+            "commune_slug": "elancourt",
+            "bio_localized": "Électricien qualifié à Elancourt depuis 9 ans, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Interventions rapides et fiables sur votre installation électrique. Devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert à Elancourt - Intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Elancourt, sécurisant vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "9 ans d'expérience, électricien certifié à Elancourt, interventions rapides et fiables",
+            "why_this_commune": "Charles Michel est le choix idéal pour Elancourt. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers d'Elancourt. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:02.789Z",
+            "used_fallback": false
+          },
+          "62cd5e1e-f178-417b-bcab-824ab5f85eb9": {
+            "profile_id": "62cd5e1e-f178-417b-bcab-824ab5f85eb9",
+            "commune_slug": "elancourt",
+            "bio_localized": "Électricien qualifié depuis 17 ans à Elancourt, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles des Yvelines. Interventions rapides et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Elancourt, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Elancourt.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Elancourt",
+            "why_this_commune": "Yves Roche, électricien basé à Élancourt, connaît parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone des Yvelines offre une expertise adaptée aux besoins d'Élancourt.",
+            "generated_at": "2025-11-16T08:56:16.052Z",
+            "used_fallback": false
+          },
+          "ba734372-e01c-4fdd-84f4-088d77a47024": {
+            "profile_id": "ba734372-e01c-4fdd-84f4-088d77a47024",
+            "commune_slug": "elancourt",
+            "bio_localized": "Électricien à Elancourt depuis 5 ans, je maîtrise le dépannage express pour tous les types d'habitations : pavillons, immeubles modernes et constructions anciennes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans les Yvelines.",
+            "local_badge": "Électricien expert à Elancourt, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Elancourt : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Elancourt",
+            "why_this_commune": "Maxime Robert est un excellent choix pour Elancourt. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments yvelinois et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:56:29.521Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "emance": {
+        "commune_name": "ÉMANCÉ",
+        "postal_code": "78125",
+        "department": "78",
+        "electricians": {
+          "299d0949-662c-4350-baf1-849a7305fef4": {
+            "profile_id": "299d0949-662c-4350-baf1-849a7305fef4",
+            "commune_slug": "emance",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, Philippe Picard intervient à Émancé et ses alentours. Spécialiste de l'électricité générale, il maîtrise les installations des pavillons et immeubles locaux. Interventions rapides, travail soigné et devis transparents. Votre électricien de confiance en Yvelines.",
+            "local_badge": "Électricien expert de Émancé depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Émancé pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Émancé",
+            "why_this_commune": "Philippe Picard, électricien local à Émancé, connaît parfaitement les spécificités des bâtiments et quartiers yvelinois. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la région assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:56:41.929Z",
+            "used_fallback": false
+          },
+          "6dc4611f-694e-4e77-a92f-ea3e64b84379": {
+            "profile_id": "6dc4611f-694e-4e77-a92f-ea3e64b84379",
+            "commune_slug": "emance",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, j'interviens à Émancé et ses alentours pour tous vos besoins en électricité générale. Spécialisé dans la rénovation des pavillons et maisons anciennes des Yvelines, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert à Émancé, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Émancé pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Émancé",
+            "why_this_commune": "Michel Nguyen est le choix idéal pour Émancé. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience confirmée dans la zone garantit des interventions rapides et adaptées à vos besoins. Proximité et réactivité assurées.",
+            "generated_at": "2025-11-16T08:56:54.898Z",
+            "used_fallback": false
+          },
+          "9cfc460f-ed1b-4aef-a959-32f382339d74": {
+            "profile_id": "9cfc460f-ed1b-4aef-a959-32f382339d74",
+            "commune_slug": "emance",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Émancé, je maîtrise l'ensemble des installations électriques, des pavillons aux immeubles modernes. Disponible 24/7 pour vos urgences, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité dans les Yvelines.",
+            "local_badge": "Électricien expert de Émancé, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Émancé pour tous vos dépannages électriques imprévus et interventions rapides.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Émancé",
+            "why_this_commune": "Daniel Renaud est un excellent choix pour Émancé. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:07.464Z",
+            "used_fallback": false
+          },
+          "776b98df-4196-4812-b127-6a33cea0ef52": {
+            "profile_id": "776b98df-4196-4812-b127-6a33cea0ef52",
+            "commune_slug": "emance",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Émancé, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Yvelines, je garantis une pose conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Émancé, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Émancé pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience électricien à Émancé, interventions rapides et fiables",
+            "why_this_commune": "Julien Clement est le choix idéal pour Émancé. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:20.754Z",
+            "used_fallback": false
+          },
+          "48325c72-ab62-4be3-b948-53cf61e8ab5c": {
+            "profile_id": "48325c72-ab62-4be3-b948-53cf61e8ab5c",
+            "commune_slug": "emance",
+            "bio_localized": "Nicolas Roche, électricien agréé Consuel à Émancé, met ses 12 années d'expertise au service des habitants des Yvelines. Spécialisé dans l'installation et la conformité électrique, il intervient sur tous types de bâtiments, des pavillons aux immeubles modernes. Professionnel de confiance pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Émancé, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Émancé, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Émancé",
+            "why_this_commune": "Nicolas Roche, électricien local à Émancé, maîtrise parfaitement les spécificités des bâtiments yveliniens. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans la région, il offre un service fiable et adapté aux besoins d'Émancé.",
+            "generated_at": "2025-11-16T08:57:34.881Z",
+            "used_fallback": false
+          },
+          "26380c3a-511a-4ea0-a7a0-f2cf4a8f0f79": {
+            "profile_id": "26380c3a-511a-4ea0-a7a0-f2cf4a8f0f79",
+            "commune_slug": "emance",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Émancé, je maîtrise tous les types d'installations électriques, des pavillons aux immeubles modernes. Disponible 24/7 pour vos urgences, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité dans les Yvelines.",
+            "local_badge": "Électricien expert d'Émancé, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos problèmes électriques à Émancé, intervention rapide garantie.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Émancé",
+            "why_this_commune": "Alain Gerard est le choix idéal pour Émancé. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments émancéens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:53.120Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "epone": {
+        "commune_name": "EPONE",
+        "postal_code": "78680",
+        "department": "78",
+        "electricians": {
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "epone",
+            "bio_localized": "Didier Renaud, électricien expert à Épone, intervient depuis 11 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles des Yvelines, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses préoccupations.",
+            "local_badge": "Électricien expert d'Epone, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Epone pour tous types de bâtiments.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Epone, interventions rapides et fiables",
+            "why_this_commune": "Didier Renaud est le choix idéal pour Epone grâce à sa connaissance approfondie des spécificités locales et de l'architecture yvelinoise. Basé sur la commune, il garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:06.391Z",
+            "used_fallback": false
+          },
+          "fdf33c99-b1fe-404f-b1af-32505f58f28b": {
+            "profile_id": "fdf33c99-b1fe-404f-b1af-32505f58f28b",
+            "commune_slug": "epone",
+            "bio_localized": "Électricien expérimenté à Épone depuis 18 ans, je maîtrise les installations des pavillons yveliniens comme les systèmes des immeubles modernes. Disponible 24/7 pour vos urgences électriques, je garantis interventions rapides et travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Epone, interventions rapides garanties",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 et 7j/7 à Epone pour tous vos dépannages électriques immédiats.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Epone, interventions rapides et fiables",
+            "why_this_commune": "Claude Lacroix est le choix idéal pour Epone. Électricien expérimenté dans les Yvelines, il maîtrise les spécificités des bâtiments locaux. Sa proximité garantit des interventions rapides et réactives. Connaissant parfaitement la commune, il offre un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:22.016Z",
+            "used_fallback": false
+          },
+          "78bfc441-e8a4-45ad-8a46-b70cbefe8958": {
+            "profile_id": "78bfc441-e8a4-45ad-8a46-b70cbefe8958",
+            "commune_slug": "epone",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Épone, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Intervenant rapidement sur le secteur, je garantis des installations sécurisées et conformes. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert d'Epone, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Epone pour sécuriser vos installations électriques.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et certifié à Epone",
+            "why_this_commune": "Denis Fabre est le choix idéal pour Epone. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:34.954Z",
+            "used_fallback": false
+          },
+          "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8": {
+            "profile_id": "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8",
+            "commune_slug": "epone",
+            "bio_localized": "François Dumas, électricien expert à Épone, intervient sur l'installation de tableaux électriques dans les pavillons et immeubles des Yvelines. Fort de 6 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert à Epone, intervention rapide",
+            "service_highlight": "Spécialiste de l'installation et la mise aux normes de tableaux électriques résidentiels et professionnels à Epone.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Epone",
+            "why_this_commune": "François Dumas est le choix idéal pour Épone. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone yvelinoise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:58:47.627Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "epone",
+            "bio_localized": "Électricien professionnel à Épone depuis 8 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles des Yvelines. Maîtrisant les installations modernes et les rénovations, je propose des solutions d'éclairage performantes et économes. Disponible pour tous vos besoins électriques en région parisienne.",
+            "local_badge": "Électricien expert à Epone, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Épone, optimisant consommation énergétique et ambiance lumineuse pour entreprises.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Epone",
+            "why_this_commune": "Emmanuel Mathieu est le choix idéal pour Épone. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone yvelinoise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:00.475Z",
+            "used_fallback": false
+          },
+          "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f": {
+            "profile_id": "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f",
+            "commune_slug": "epone",
+            "bio_localized": "Électricien expérimenté à Épone depuis 7 ans, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments. Des pavillons aux immeubles modernes de Yvelines, je garantis un diagnostic rapide et des solutions fiables. Disponible jour et nuit pour vos problèmes électriques.",
+            "local_badge": "Électricien expert d'Epone, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Epone pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Epone",
+            "why_this_commune": "Christian Nguyen est un excellent choix pour Epone. Implanté localement dans les Yvelines, il connaît parfaitement les spécificités des bâtiments et quartiers d'Epone. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:14.555Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "evecquemont": {
+        "commune_name": "ÉVECQUEMONT",
+        "postal_code": "78740",
+        "department": "78",
+        "electricians": {
+          "a7fe3123-c20f-4b49-9acf-bf83fd0b8628": {
+            "profile_id": "a7fe3123-c20f-4b49-9acf-bf83fd0b8628",
+            "commune_slug": "evecquemont",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Évecquemont, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles des Yvelines. Interventions rapides et fiables, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Évecquemont, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Évecquemont.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Évecquemont",
+            "why_this_commune": "Thierry Schmitt est le choix idéal pour Évecquemont grâce à sa connaissance approfondie des spécificités locales et de l'architecture régionale. Basé sur place, il garantit une intervention rapide et réactive. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:27.827Z",
+            "used_fallback": false
+          },
+          "a2dbe41e-167f-4230-879a-d7f2724235fc": {
+            "profile_id": "a2dbe41e-167f-4230-879a-d7f2724235fc",
+            "commune_slug": "evecquemont",
+            "bio_localized": "Fort de 9 années d'expérience, René François intervient à Évecquemont pour tous vos besoins en rénovation électrique. Spécialiste des installations résidentielles, il modernise pavillons et immeubles avec professionnalisme. Travaux conformes aux normes, devis transparent et service fiable pour les habitants des Yvelines.",
+            "local_badge": "Électricien expert d'Évecquemont, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Évecquemont, je modernise les installations anciennes de votre habitation en toute sécurité.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et certifié à Évecquemont",
+            "why_this_commune": "René François est le choix idéal pour Évecquemont. Électricien local, il maîtrise parfaitement les spécificités architecturales et infrastructures de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience approfondie dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:40.830Z",
+            "used_fallback": false
+          },
+          "53045362-4462-4f5b-aafb-27fabbab1022": {
+            "profile_id": "53045362-4462-4f5b-aafb-27fabbab1022",
+            "commune_slug": "evecquemont",
+            "bio_localized": "Stéphane Fabre, électricien depuis 18 ans, intervient à Évecquemont et ses environs des Yvelines. Spécialiste en rénovation électrique, il modernise pavillons et petits collectifs avec expertise. Diagnostics fiables, normes respectées, interventions rapides et discrètes pour votre sécurité électrique.",
+            "local_badge": "Électricien expert à Évecquemont, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en rénovation électrique, intervenant régulièrement sur les habitations anciennes d'Évecquemont pour moderniser vos installations.",
+            "trust_signal": "18 ans d'expérience électrique à Évecquemont, interventions rapides et fiables",
+            "why_this_commune": "Stéphane Fabre est le choix idéal pour Évecquemont. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:53.839Z",
+            "used_fallback": false
+          },
+          "6e2969a6-e86c-48a6-9fbb-516047ec1a7c": {
+            "profile_id": "6e2969a6-e86c-48a6-9fbb-516047ec1a7c",
+            "commune_slug": "evecquemont",
+            "bio_localized": "Électricien expérimenté depuis 7 ans, je propose des installations de bornes de recharge adaptées aux pavillons et résidences d'Évecquemont. Spécialiste des solutions électriques modernes, je garantis des travaux conformes et sécurisés. Devis gratuit, interventions rapides dans les Yvelines.",
+            "local_badge": "Électricien expert d'Évecquemont, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Évecquemont pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable à Évecquemont",
+            "why_this_commune": "Guillaume Picard est le choix idéal pour Évecquemont. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T09:00:06.988Z",
+            "used_fallback": false
+          },
+          "405a78cd-5e8e-408c-af68-216a1bfb8b5a": {
+            "profile_id": "405a78cd-5e8e-408c-af68-216a1bfb8b5a",
+            "commune_slug": "evecquemont",
+            "bio_localized": "Christian Meyer, électricien professionnel à Évecquemont, intervient 24h/24 pour tous vos urgences électriques. Fort de 10 ans d'expérience, il maîtrise les installations des pavillons et immeubles des Yvelines. Diagnostic rapide, intervention efficace et travail soigné garantis. Votre électricien de confiance en Yvelines.",
+            "local_badge": "Électricien expert d'Évecquemont, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Évecquemont pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "10 ans d'expérience, électricien qualifié et fiable à Évecquemont",
+            "why_this_commune": "Christian Meyer est le choix idéal pour Évecquemont. Électricien local, il maîtrise parfaitement les spécificités architecturales et les particularités des bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:21.856Z",
+            "used_fallback": false
+          },
+          "2fa0a902-5308-4583-8908-253e1d105521": {
+            "profile_id": "2fa0a902-5308-4583-8908-253e1d105521",
+            "commune_slug": "evecquemont",
+            "bio_localized": "Patrick Schmitt, électricien agréé Consuel à Évecquemont, intervient depuis 7 ans sur les pavillons et immeubles des Yvelines. Spécialiste en électricité professionnelle, il garantit la conformité de vos installations et votre sécurité électrique. Expertise reconnue et service fiable pour tous vos besoins.",
+            "local_badge": "Électricien expert d'Évecquemont, interventions rapides garanties",
+            "service_highlight": "Électricien agréé Consuel à Évecquemont, je garantis la conformité de vos installations électriques résidentielles et tertiaires.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et qualifié à Évecquemont",
+            "why_this_commune": "Patrick Schmitt est un excellent choix pour Évecquemont. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:34.735Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "favrieux": {
+        "commune_name": "FAVRIEUX",
+        "postal_code": "78200",
+        "department": "78",
+        "electricians": {
+          "3c4f5665-cba0-45ea-b699-5854e3761764": {
+            "profile_id": "3c4f5665-cba0-45ea-b699-5854e3761764",
+            "commune_slug": "favrieux",
+            "bio_localized": "Paul Marie, électricien expert à Favrieux, intervient depuis 10 ans sur la rénovation électrique des pavillons et immeubles yvelines. Spécialiste de la mise aux normes et de la modernisation d'installations, il garantit des travaux sécurisés et durables pour votre habitat.",
+            "local_badge": "Électricien expert de Favrieux, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, j'interviens régulièrement à Favrieux pour moderniser vos installations anciennes.",
+            "trust_signal": "10 ans d'expérience électricien à Favrieux, interventions rapides et fiables garanties",
+            "why_this_commune": "Paul Marie est le choix idéal pour Favrieux. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:47.595Z",
+            "used_fallback": false
+          },
+          "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f": {
+            "profile_id": "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f",
+            "commune_slug": "favrieux",
+            "bio_localized": "Christian Nguyen, électricien expérimenté à Favrieux, intervient 24h/24 sur tous vos urgences électriques. Depuis 7 ans, il maîtrise les installations des pavillons yveliniens et immeubles locaux. Intervention rapide, travail soigné et sécurisé garanti dans les Yvelines.",
+            "local_badge": "Électricien expert de Favrieux, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Favrieux pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Favrieux",
+            "why_this_commune": "Christian Nguyen est le choix idéal pour Favrieux. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience confirmée dans la zone garantit des interventions rapides et efficaces. Proximité et réactivité pour vos besoins électriques.",
+            "generated_at": "2025-11-16T09:01:00.761Z",
+            "used_fallback": false
+          },
+          "a7c60ba7-2652-485f-b94e-d2ed202a75d7": {
+            "profile_id": "a7c60ba7-2652-485f-b94e-d2ed202a75d7",
+            "commune_slug": "favrieux",
+            "bio_localized": "François Dufour, électricien expert à Favrieux, intervient depuis 11 ans sur l'installation de tableaux électriques. Spécialisé dans les pavillons et immeubles des Yvelines, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert de Favrieux, intervention rapide garantie",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques à Favrieux pour tous types de bâtiments.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable et professionnel à Favrieux",
+            "why_this_commune": "François Dufour est un excellent choix pour Favrieux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:14.030Z",
+            "used_fallback": false
+          },
+          "e4a7bf69-b6c5-493b-9bfc-74962a88c383": {
+            "profile_id": "e4a7bf69-b6c5-493b-9bfc-74962a88c383",
+            "commune_slug": "favrieux",
+            "bio_localized": "Olivier Morel, électricien agréé Consuel à Favrieux, intervient depuis 10 ans sur les pavillons et immeubles des Yvelines. Spécialiste des installations électriques neuves et rénovations, il garantit la conformité de vos installations résidentielles et professionnelles avec expertise et sérieux.",
+            "local_badge": "Électricien expert de Favrieux, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Favrieux, spécialiste des installations et conformités électriques résidentielles et commerciales.",
+            "trust_signal": "10 ans d'expérience électricien à Favrieux, interventions rapides et fiables",
+            "why_this_commune": "Olivier Morel est le choix idéal pour Favrieux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:01:26.737Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "favrieux",
+            "bio_localized": "Électricien professionnel basé à Favrieux, je maîtrise l'éclairage LED depuis 8 ans. Spécialisé dans les solutions d'éclairage moderne pour pavillons et immeubles des Yvelines, j'interviens avec expertise et fiabilité. Votre satisfaction énergétique et votre confort lumineux sont mes priorités.",
+            "local_badge": "Électricien expert de Favrieux, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Favrieux, je transforme vos espaces avec des solutions lumineuses modernes et économes.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Favrieux",
+            "why_this_commune": "Emmanuel Mathieu est le choix idéal pour Favrieux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:39.628Z",
+            "used_fallback": false
+          },
+          "b8b5057e-8eae-4a08-96cb-2faa71501d9e": {
+            "profile_id": "b8b5057e-8eae-4a08-96cb-2faa71501d9e",
+            "commune_slug": "favrieux",
+            "bio_localized": "Patrick Pierre, électricien agréé Consuel à Favrieux, intervient depuis 7 ans sur tous les types de bâtiments des Yvelines. Spécialiste des installations électriques résidentielles et professionnelles, il garantit la conformité de vos installations. Expertise reconnue pour les pavillons et immeubles de la région.",
+            "local_badge": "Électricien expert de Favrieux, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Favrieux, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Favrieux",
+            "why_this_commune": "Patrick Pierre est le choix idéal pour Favrieux. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone des Yvelines assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T09:01:52.618Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

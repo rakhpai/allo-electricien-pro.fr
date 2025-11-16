@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "maulette",
+  "processedCommunes": [
+    "mareil-marly",
+    "mareil-sur-mauldre",
+    "marly-le-roi",
+    "maule",
+    "maulette"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 33290,
+    "outputTokens": 8353,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.613Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "mareil-marly": {
+        "commune_name": "MAREIL-MARLY",
+        "postal_code": "78750",
+        "department": "78",
+        "electricians": {
+          "96446663-775c-48d1-9986-743990a3933b": {
+            "profile_id": "96446663-775c-48d1-9986-743990a3933b",
+            "commune_slug": "mareil-marly",
+            "bio_localized": "Électricien professionnel à Mareil-Marly depuis 12 ans, je maîtrise le dépannage express sur tous types de installations. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis une intervention rapide et fiable pour résoudre vos problèmes électriques. Disponible pour urgences et entretien.",
+            "local_badge": "Électricien expert de Mareil-Marly, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Mareil-Marly : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à Mareil-Marly",
+            "why_this_commune": "Rémi Mathieu est le choix idéal pour Mareil-Marly. Électricien local, il maîtrise les spécificités architecturales des habitations yvelinoises. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la commune assure un diagnostic précis et des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:55:24.354Z",
+            "used_fallback": false
+          },
+          "ac261c03-e8ab-4ec8-98ef-379011d65d71": {
+            "profile_id": "ac261c03-e8ab-4ec8-98ef-379011d65d71",
+            "commune_slug": "mareil-marly",
+            "bio_localized": "Électricien expert à Mareil-Marly depuis 8 ans, je maîtrise l'installation de tableaux électriques pour les pavillons et résidences des Yvelines. Certifié et rigoureux, j'adapte mes solutions aux normes actuelles. Votre sécurité électrique est ma priorité. Intervention rapide et conseil professionnel garantis.",
+            "local_badge": "Électricien expert de Mareil-Marly depuis longtemps",
+            "service_highlight": "Spécialiste de l'installation et la mise aux normes des tableaux électriques pour les résidences de Mareil-Marly.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et qualifié à Mareil-Marly",
+            "why_this_commune": "Eric Arnaud, électricien basé à Mareil-Marly, offre une expertise reconnue des installations locales et de l'architecture yvelinoise. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans la commune, il connaît parfaitement les spécificités des quartiers et des bâtiments, assurant un service fiable et adapté.",
+            "generated_at": "2025-11-16T08:55:38.014Z",
+            "used_fallback": false
+          },
+          "44ee9cad-d202-45a7-be30-c6c2be91082f": {
+            "profile_id": "44ee9cad-d202-45a7-be30-c6c2be91082f",
+            "commune_slug": "mareil-marly",
+            "bio_localized": "Maxime Joly, électricien expert à Mareil-Marly, intervient depuis 16 ans sur tous vos dépannages électriques en urgence. Spécialiste du dépannage express, je maîtrise les installations des pavillons et résidences des Yvelines. Disponible rapidement pour sécuriser votre électricité et résoudre vos pannes.",
+            "local_badge": "Électricien expert de Mareil-Marly, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Mareil-Marly : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Mareil-Marly, interventions rapides garanties",
+            "why_this_commune": "Maxime Joly est le choix idéal pour Mareil-Marly. Électricien local, il connaît parfaitement les caractéristiques des habitations yvelinoises et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins spécifiques.",
+            "generated_at": "2025-11-16T08:55:52.241Z",
+            "used_fallback": false
+          },
+          "f3fbce48-15eb-4100-b27d-9ada551d5694": {
+            "profile_id": "f3fbce48-15eb-4100-b27d-9ada551d5694",
+            "commune_slug": "mareil-marly",
+            "bio_localized": "Électricien qualifié depuis 15 ans, j'interviens à Mareil-Marly pour l'installation de bornes de recharge. Spécialiste de l'équipement électrique des pavillons et résidences des Yvelines, je garantis des interventions conformes et rapides. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Mareil-Marly, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Mareil-Marly pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience électricien à Mareil-Marly, interventions rapides et fiables garanties",
+            "why_this_commune": "Jérôme Bourgeois est le choix idéal pour Mareil-Marly. Électricien local, il connaît parfaitement les spécificités des habitations et quartiers de la commune. Sa proximité garantit une intervention rapide et réactive. Son expérience confirmée dans les Yvelines assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:05.136Z",
+            "used_fallback": false
+          },
+          "afc82a2f-afd3-4d08-a7a4-6b53ccd4fd7d": {
+            "profile_id": "afc82a2f-afd3-4d08-a7a4-6b53ccd4fd7d",
+            "commune_slug": "mareil-marly",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Mareil-Marly, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles et propriétés anciennes des Yvelines. Disponible immédiatement pour vos pannes électriques, je garantis un diagnostic rapide et un travail soigné.",
+            "local_badge": "Électricien expert de Mareil-Marly, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Mareil-Marly pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Mareil-Marly",
+            "why_this_commune": "Christian Lacroix est un excellent choix pour Mareil-Marly. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:56:19.548Z",
+            "used_fallback": false
+          },
+          "c84f6b7a-4316-417a-a0d7-0114dcb74c8b": {
+            "profile_id": "c84f6b7a-4316-417a-a0d7-0114dcb74c8b",
+            "commune_slug": "mareil-marly",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Mareil-Marly, je maîtrise l'électricité générale pour tous types de bâtiments, des pavillons aux immeubles. Interventions rapides et soignées dans les Yvelines. Diagnostic précis, travail fiable et devis transparent pour votre tranquillité.",
+            "local_badge": "Électricien expert de Mareil-Marly depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Mareil-Marly pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et tertiaire.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Mareil-Marly",
+            "why_this_commune": "Philippe Noel est le choix idéal pour Mareil-Marly. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T08:56:31.992Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "mareil-sur-mauldre": {
+        "commune_name": "MAREIL-SUR-MAULDRE",
+        "postal_code": "78124",
+        "department": "78",
+        "electricians": {
+          "be598d59-42f6-4bb2-8dde-3c3e1172d5cb": {
+            "profile_id": "be598d59-42f6-4bb2-8dde-3c3e1172d5cb",
+            "commune_slug": "mareil-sur-mauldre",
+            "bio_localized": "Électricien expert à Mareil-sur-Mauldre, je maîtrise le dépannage express sur tous types d'installations. Que vous habitiez un pavillon ou un immeuble, je garantis une intervention rapide et fiable. Forte de 10 années d'expérience, mon équipe résout vos problèmes électriques en urgence. Disponible pour vous servir.",
+            "local_badge": "Électricien expert de Mareil-sur-Mauldre depuis des années",
+            "service_highlight": "Dépannage électrique express à Mareil-sur-Mauldre : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Mareil-sur-Mauldre, interventions rapides garanties",
+            "why_this_commune": "Thomas Petit, électricien local à Mareil-sur-Mauldre, connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette zone des Yvelines, il offre un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:44.606Z",
+            "used_fallback": false
+          },
+          "78bfc441-e8a4-45ad-8a46-b70cbefe8958": {
+            "profile_id": "78bfc441-e8a4-45ad-8a46-b70cbefe8958",
+            "commune_slug": "mareil-sur-mauldre",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Mareil-sur-Mauldre, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles des Yvelines. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Mareil-sur-Mauldre, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Mareil-sur-Mauldre.",
+            "trust_signal": "14 ans d'expérience électricien à Mareil-sur-Mauldre, interventions rapides et fiables",
+            "why_this_commune": "Denis Fabre, électricien local à Mareil-sur-Mauldre, connaît parfaitement les spécificités des bâtiments et quartiers yvelinois. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience confirmée dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:56:57.556Z",
+            "used_fallback": false
+          },
+          "4b8df981-4df5-47be-b50c-89661ac17dad": {
+            "profile_id": "4b8df981-4df5-47be-b50c-89661ac17dad",
+            "commune_slug": "mareil-sur-mauldre",
+            "bio_localized": "Luc Olivier, électricien expert en domotique et automatisation à Mareil-sur-Mauldre, intervient sur les pavillons et maisons modernes des Yvelines. Fort de 17 ans d'expérience, il modernise vos installations électriques avec des solutions domotiques fiables et performantes. Qualité et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Mareil-sur-Mauldre, intervention rapide",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les résidences de Mareil-sur-Mauldre et ses environs.",
+            "trust_signal": "17 ans d'expérience électricien à Mareil-sur-Mauldre, interventions rapides garanties",
+            "why_this_commune": "Luc Olivier est le choix idéal pour Mareil-sur-Mauldre. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et les caractéristiques de ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:11.918Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "mareil-sur-mauldre",
+            "bio_localized": "Électricien spécialisé en éclairage LED professionnel à Mareil-sur-Mauldre, je mets mon expertise de 8 ans au service des pavillons et résidences des Yvelines. Solutions d'éclairage innovantes et durables pour particuliers et professionnels. Disponible pour vos installations électriques complètes.",
+            "local_badge": "Électricien expert de Mareil-sur-Mauldre, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel à Mareil-sur-Mauldre, optimisant consommation énergétique et ambiances lumineuses.",
+            "trust_signal": "8 ans d'expérience confirmée à Mareil-sur-Mauldre, électricien fiable et réactif",
+            "why_this_commune": "Emmanuel Mathieu, électricien local à Mareil-sur-Mauldre, connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:57:25.103Z",
+            "used_fallback": false
+          },
+          "b4a5b724-b4d6-4adb-a20b-48a50a6de446": {
+            "profile_id": "b4a5b724-b4d6-4adb-a20b-48a50a6de446",
+            "commune_slug": "mareil-sur-mauldre",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Mareil-sur-Mauldre, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et résidences des Yvelines. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Mareil-sur-Mauldre, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Mareil-sur-Mauldre pour sécuriser vos installations électriques",
+            "trust_signal": "13 ans d'expérience électricien confirmé à Mareil-sur-Mauldre, interventions fiables",
+            "why_this_commune": "Charles Brun, électricien local à Mareil-sur-Mauldre, connaît parfaitement les spécificités des bâtiments yvelinois. Sa proximité garantit des interventions rapides et réactives. Fort d'une expérience confirmée dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:57:37.670Z",
+            "used_fallback": false
+          },
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "mareil-sur-mauldre",
+            "bio_localized": "Didier Renaud, électricien expert à Mareil-sur-Mauldre, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 11 ans d'expérience, il accompagne résidents et professionnels des Yvelines pour sécuriser leurs installations. Service fiable et client prioritaire.",
+            "local_badge": "Électricien expert de Mareil-sur-Mauldre, intervention rapide",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Mareil-sur-Mauldre",
+            "trust_signal": "11 ans d'expérience, électricien fiable à Mareil-sur-Mauldre, interventions rapides et professionnelles",
+            "why_this_commune": "Didier Renaud est le choix idéal pour Mareil-sur-Mauldre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:57:50.339Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "marly-le-roi": {
+        "commune_name": "MARLY-LE-ROI",
+        "postal_code": "78160",
+        "department": "78",
+        "electricians": {
+          "ac261c03-e8ab-4ec8-98ef-379011d65d71": {
+            "profile_id": "ac261c03-e8ab-4ec8-98ef-379011d65d71",
+            "commune_slug": "marly-le-roi",
+            "bio_localized": "Électricien expert à Marly-le-Roi depuis 8 ans, Eric Arnaud maîtrise l'installation de tableaux électriques pour tous types de bâtiments : pavillons, immeubles haussmanniens et constructions modernes. Certifié et rigoureux, il garantit des installations conformes aux normes, adaptées aux spécificités du patrimoine local des Yvelines. Votre satisfaction est sa priorité.",
+            "local_badge": "Électricien expert de Marly-le-Roi, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes de tableaux électriques à Marly-le-Roi.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Marly-le-Roi",
+            "why_this_commune": "Eric Arnaud est le choix idéal pour Marly-le-Roi. Installé localement, il connaît parfaitement les spécificités architecturales des quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans les Yvelines assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:03.577Z",
+            "used_fallback": false
+          },
+          "96446663-775c-48d1-9986-743990a3933b": {
+            "profile_id": "96446663-775c-48d1-9986-743990a3933b",
+            "commune_slug": "marly-le-roi",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Marly-le-Roi, je maîtrise le dépannage express pour vos installations électriques. Que vous habitiez dans les pavillons résidentiels ou les immeubles du centre-ville, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible et fiable pour tous vos besoins.",
+            "local_badge": "Électricien expert de Marly-le-Roi depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Marly-le-Roi : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et reconnu à Marly-le-Roi",
+            "why_this_commune": "Rémi Mathieu est le choix idéal pour Marly-le-Roi. Électricien local, il connaît parfaitement les spécificités architecturales des quartiers yvelinois. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:17.658Z",
+            "used_fallback": false
+          },
+          "f3fbce48-15eb-4100-b27d-9ada551d5694": {
+            "profile_id": "f3fbce48-15eb-4100-b27d-9ada551d5694",
+            "commune_slug": "marly-le-roi",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Marly-le-Roi, je spécialise dans l'installation de bornes de recharge pour vos véhicules électriques. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis une intervention professionnelle et rapide. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Marly-le-Roi, intervention rapide",
+            "service_highlight": "Spécialiste installation bornes de recharge électrique pour véhicules à Marly-le-Roi et ses environs",
+            "trust_signal": "15 ans d'expertise électrique reconnue à Marly-le-Roi, interventions fiables et rapides",
+            "why_this_commune": "Jérôme Bourgeois est le choix idéal pour Marly-le-Roi. Électricien local, il connaît parfaitement les spécificités architecturales des quartiers et bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:30.440Z",
+            "used_fallback": false
+          },
+          "afc82a2f-afd3-4d08-a7a4-6b53ccd4fd7d": {
+            "profile_id": "afc82a2f-afd3-4d08-a7a4-6b53ccd4fd7d",
+            "commune_slug": "marly-le-roi",
+            "bio_localized": "Christian Lacroix, électricien à Marly-le-Roi depuis 13 ans, intervient 24/7 sur tous vos problèmes électriques. Spécialiste des urgences, il maîtrise les installations des pavillons et immeubles des Yvelines. Intervention rapide, travail soigné et fiable garantis.",
+            "local_badge": "Électricien expert de Marly-le-Roi depuis années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Marly-le-Roi, intervention rapide garantie.",
+            "trust_signal": "13 ans d'expérience électricité à Marly-le-Roi, interventions rapides et fiables",
+            "why_this_commune": "Christian Lacroix est le choix idéal pour Marly-le-Roi. Électricien local, il maîtrise parfaitement les caractéristiques architecturales des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité adapté à vos besoins spécifiques.",
+            "generated_at": "2025-11-16T08:58:43.341Z",
+            "used_fallback": false
+          },
+          "c84f6b7a-4316-417a-a0d7-0114dcb74c8b": {
+            "profile_id": "c84f6b7a-4316-417a-a0d7-0114dcb74c8b",
+            "commune_slug": "marly-le-roi",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Marly-le-Roi, je maîtrise l'électricité générale pour tous types de bâtiments : haussmanniens, pavillons et immeubles modernes des Yvelines. Interventions rapides et soignées, je suis votre partenaire de confiance pour tous vos besoins électriques en Île-de-France.",
+            "local_badge": "Électricien expert de Marly-le-Roi, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Marly-le-Roi.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et reconnu à Marly-le-Roi",
+            "why_this_commune": "Philippe Noel est le choix idéal pour Marly-le-Roi. Électricien local, il maîtrise parfaitement les spécificités architecturales des quartiers et bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans les Yvelines assure un service de qualité, fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:56.473Z",
+            "used_fallback": false
+          },
+          "697cd59b-3af8-4808-a104-482e8de59d97": {
+            "profile_id": "697cd59b-3af8-4808-a104-482e8de59d97",
+            "commune_slug": "marly-le-roi",
+            "bio_localized": "Henri Fontaine, électricien expert en domotique et automatisation à Marly-le-Roi, intervient depuis 19 ans auprès des résidents des Yvelines. Spécialisé dans l'équipement des pavillons et immeubles modernes, il modernise vos installations avec professionnalisme et garantit votre satisfaction.",
+            "local_badge": "Électricien expert de Marly-le-Roi, intervention rapide",
+            "service_highlight": "Automatisation et domotique intelligente pour vos installations électriques à Marly-le-Roi et ses environs.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Marly-le-Roi, interventions garanties",
+            "why_this_commune": "Henri Fontaine, électricien local à Marly-le-Roi, maîtrise parfaitement les spécificités architecturales des bâtiments yvelinois. Sa proximité garantit une intervention rapide et efficace. Fort de son expérience dans la région, il connaît les quartiers et adapte ses solutions aux besoins spécifiques de Marly-le-Roi.",
+            "generated_at": "2025-11-16T08:59:09.481Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "maule": {
+        "commune_name": "MAULE",
+        "postal_code": "78580",
+        "department": "78",
+        "electricians": {
+          "1cd0ff16-5edf-4759-a492-de47fb83f2cf": {
+            "profile_id": "1cd0ff16-5edf-4759-a492-de47fb83f2cf",
+            "commune_slug": "maule",
+            "bio_localized": "Luc Mathieu, électricien spécialisé en domotique et automatisation à Maule, intervient depuis 18 ans auprès des résidents des Yvelines. Expert certifié, il modernise pavillons et immeubles avec des solutions intelligentes adaptées à chaque habitat. Service fiable et satisfaction client garantie.",
+            "local_badge": "Électricien expert de Maule, intervention rapide garantie",
+            "service_highlight": "Électricien expert en domotique et automatisation pour les résidences modernes de Maule, optimisant votre confort quotidien.",
+            "trust_signal": "18 ans d'expérience électricien à Maule, interventions rapides et fiables",
+            "why_this_commune": "Luc Mathieu est le choix idéal pour Maule. Électricien local, il maîtrise parfaitement les spécificités des bâtiments yvelinois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et de qualité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:59:22.408Z",
+            "used_fallback": false
+          },
+          "536bd41e-1116-41ba-9b0f-085b64fdc1b4": {
+            "profile_id": "536bd41e-1116-41ba-9b0f-085b64fdc1b4",
+            "commune_slug": "maule",
+            "bio_localized": "Électricien professionnel à Maule depuis 12 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles des Yvelines. Expertise reconnue en installations modernes et rénovations. Je garantis des solutions d'éclairage durables et économes, adaptées à chaque projet. Disponible pour tous vos besoins électriques en Île-de-France.",
+            "local_badge": "Électricien expert de Maule, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Maule, je conçois et installe des solutions lumineuses modernes et économes.",
+            "trust_signal": "12 ans d'expérience électricien à Maule, intervention rapide garantie",
+            "why_this_commune": "David Rodriguez est un excellent choix pour Maule. Implanté localement aux Yvelines, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:35.444Z",
+            "used_fallback": false
+          },
+          "6c4fdbed-a0ed-40fa-a77d-ae5e1dcd4642": {
+            "profile_id": "6c4fdbed-a0ed-40fa-a77d-ae5e1dcd4642",
+            "commune_slug": "maule",
+            "bio_localized": "Électricien expérimenté à Maule depuis 5 ans, je maîtrise l'électricité générale sur tous types de bâtiments. Des pavillons aux immeubles modernes de la région yvelinoise, j'interviens rapidement avec professionnalisme. Diagnostic, installation et dépannage : votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Maule, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Maule pour tous vos besoins en installations et dépannages électriques résidentiels et commerciaux.",
+            "trust_signal": "5 ans d'expérience confirmée à Maule, interventions rapides et fiables garanties",
+            "why_this_commune": "André Girard est le choix idéal pour Maule. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments yveliniens et les quartiers maulois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:48.518Z",
+            "used_fallback": false
+          },
+          "a9a358f1-6de8-4d35-acd2-e4b472093648": {
+            "profile_id": "a9a358f1-6de8-4d35-acd2-e4b472093648",
+            "commune_slug": "maule",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je propose l'installation de bornes de recharge aux résidents de Maule et ses alentours. Spécialisé dans l'adaptation de vos pavillons et immeubles modernes, je garantis des solutions fiables et conformes. Devis gratuit et intervention rapide pour tous vos besoins en électromobilité.",
+            "local_badge": "Électricien expert de Maule, interventions rapides",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Maule et ses environs.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Maule, interventions rapides garanties",
+            "why_this_commune": "Fabrice Meyer est le choix idéal pour Maule. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:00:01.708Z",
+            "used_fallback": false
+          },
+          "62cd5e1e-f178-417b-bcab-824ab5f85eb9": {
+            "profile_id": "62cd5e1e-f178-417b-bcab-824ab5f85eb9",
+            "commune_slug": "maule",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Maule, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Intervenant rapidement dans la région, je garantis des installations sécurisées et conformes. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Maule, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Maule pour sécuriser vos installations électriques.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Maule, interventions rapides et fiables",
+            "why_this_commune": "Yves Roche est le choix idéal pour Maule. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers maulois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T09:00:16.401Z",
+            "used_fallback": false
+          },
+          "f3fbce48-15eb-4100-b27d-9ada551d5694": {
+            "profile_id": "f3fbce48-15eb-4100-b27d-9ada551d5694",
+            "commune_slug": "maule",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Maule, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Yvelines, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert à Maule, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Maule et ses environs.",
+            "trust_signal": "15 ans d'expérience électricien à Maule, interventions rapides et fiables garanties",
+            "why_this_commune": "Jérôme Bourgeois est le choix idéal pour Maule grâce à sa connaissance approfondie des spécificités locales et de l'architecture yvelinoise. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la région assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:29.705Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "maulette": {
+        "commune_name": "MAULETTE",
+        "postal_code": "78550",
+        "department": "78",
+        "electricians": {
+          "ba734372-e01c-4fdd-84f4-088d77a47024": {
+            "profile_id": "ba734372-e01c-4fdd-84f4-088d77a47024",
+            "commune_slug": "maulette",
+            "bio_localized": "Électricien expérimenté à Maulette, je propose un dépannage express pour tous vos besoins électriques. Spécialisé dans l'intervention rapide sur pavillons et petits immeubles des Yvelines, je garantis une expertise fiable et une disponibilité optimale pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert de Maulette, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Maulette : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Maulette",
+            "why_this_commune": "Maxime Robert est le choix idéal pour Maulette. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure un service de qualité et fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T09:00:42.906Z",
+            "used_fallback": false
+          },
+          "b4a5b724-b4d6-4adb-a20b-48a50a6de446": {
+            "profile_id": "b4a5b724-b4d6-4adb-a20b-48a50a6de446",
+            "commune_slug": "maulette",
+            "bio_localized": "Électricien expérimenté à Maulette depuis 13 ans, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences des Yvelines. Je garantis des installations sécurisées et conformes, adaptées à votre habitat. Devis gratuit et interventions rapides dans le secteur.",
+            "local_badge": "Électricien expert de Maulette, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Maulette pour sécuriser vos installations électriques.",
+            "trust_signal": "13 ans d'expérience, électricien fiable et réactif à Maulette",
+            "why_this_commune": "Charles Brun est un excellent choix pour Maulette. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure des solutions adaptées et de qualité.",
+            "generated_at": "2025-11-16T09:00:56.121Z",
+            "used_fallback": false
+          },
+          "be598d59-42f6-4bb2-8dde-3c3e1172d5cb": {
+            "profile_id": "be598d59-42f6-4bb2-8dde-3c3e1172d5cb",
+            "commune_slug": "maulette",
+            "bio_localized": "Électricien expérimenté à Maulette depuis 10 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles et constructions anciennes des Yvelines. Intervention rapide et fiable pour vos urgences électriques. Disponible pour diagnostiquer et résoudre vos problèmes sans délai.",
+            "local_badge": "Électricien expert de Maulette, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Maulette : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et reconnu à Maulette",
+            "why_this_commune": "Thomas Petit est le choix idéal pour Maulette. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:08.820Z",
+            "used_fallback": false
+          },
+          "114bfda2-e810-4893-aec0-6857ff3eee75": {
+            "profile_id": "114bfda2-e810-4893-aec0-6857ff3eee75",
+            "commune_slug": "maulette",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Maulette, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences des Yvelines. Intervenant rapidement sur votre commune, je garantis des installations sécurisées et conformes. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert de Maulette, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Maulette pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience électricien confirmé à Maulette, intervention rapide garantie",
+            "why_this_commune": "Charles Michel est le choix idéal pour Maulette. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et des quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Yvelinoise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:22.322Z",
+            "used_fallback": false
+          },
+          "62cd5e1e-f178-417b-bcab-824ab5f85eb9": {
+            "profile_id": "62cd5e1e-f178-417b-bcab-824ab5f85eb9",
+            "commune_slug": "maulette",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Maulette, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences des Yvelines. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Maulette, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Maulette.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Maulette, interventions rapides garanties",
+            "why_this_commune": "Yves Roche est le choix idéal pour Maulette. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:34.763Z",
+            "used_fallback": false
+          },
+          "6c4fdbed-a0ed-40fa-a77d-ae5e1dcd4642": {
+            "profile_id": "6c4fdbed-a0ed-40fa-a77d-ae5e1dcd4642",
+            "commune_slug": "maulette",
+            "bio_localized": "Électricien expérimenté intervenant à Maulette et ses environs, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles et constructions modernes. Depuis 5 ans, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Maulette, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Maulette pour installations, rénovations et dépannages électriques résidentiels et tertiaires.",
+            "trust_signal": "Électricien confirmé à Maulette avec 5 ans d'expérience et interventions fiables",
+            "why_this_commune": "André Girard est un excellent choix pour Maulette. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:01:47.484Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

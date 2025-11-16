@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "carnetin",
+  "processedCommunes": [
+    "bussy-saint-georges",
+    "bussy-saint-martin",
+    "buthiers",
+    "cannes-ecluse",
+    "carnetin"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 33084,
+    "outputTokens": 8419,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.497Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "bussy-saint-georges": {
+        "commune_name": "BUSSY-SAINT-GEORGES",
+        "postal_code": "77600",
+        "department": "77",
+        "electricians": {
+          "d8b0df04-e436-456a-aed2-d2e55556b4cf": {
+            "profile_id": "d8b0df04-e436-456a-aed2-d2e55556b4cf",
+            "commune_slug": "bussy-saint-georges",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Jean Renard intervient à Bussy-Saint-Georges pour tous vos besoins en électricité générale. Spécialisé dans la rénovation des pavillons et immeubles modernes de Seine-et-Marne, il garantit des interventions rapides et un travail soigné. Professionnel de confiance pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Bussy-Saint-Georges, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant régulièrement sur les installations électriques résidentielles et commerciales de Bussy-Saint-Georges.",
+            "trust_signal": "8 ans d'expérience confirmée à Bussy-Saint-Georges, électricien fiable et professionnel",
+            "why_this_commune": "Jean Renard est un excellent choix pour Bussy-Saint-Georges. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:55:23.893Z",
+            "used_fallback": false
+          },
+          "1459e2fe-809a-4b26-860c-252ee3f82e42": {
+            "profile_id": "1459e2fe-809a-4b26-860c-252ee3f82e42",
+            "commune_slug": "bussy-saint-georges",
+            "bio_localized": "Électricien qualifié depuis 17 ans à Bussy-Saint-Georges, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Bussy-Saint-Georges, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Bussy-Saint-Georges et alentours.",
+            "trust_signal": "17 ans d'expérience électricien à Bussy-Saint-Georges, interventions rapides et fiables",
+            "why_this_commune": "Jérôme Caron est le choix idéal pour Bussy-Saint-Georges. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:36.672Z",
+            "used_fallback": false
+          },
+          "30b99a67-fbee-442d-bc02-6c83b9e20adb": {
+            "profile_id": "30b99a67-fbee-442d-bc02-6c83b9e20adb",
+            "commune_slug": "bussy-saint-georges",
+            "bio_localized": "Électricien expert à Bussy-Saint-Georges depuis 14 ans, je spécialise dans l'éclairage LED professionnel pour pavillons et immeubles modernes. Intervenant dans toute la Seine-et-Marne, je propose des solutions d'éclairage innovantes, économes et durables. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Bussy-Saint-Georges, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Bussy-Saint-Georges, je transforme vos espaces avec des solutions lumineuses modernes et économes.",
+            "trust_signal": "14 ans d'expérience confirmée, électricien fiable à Bussy-Saint-Georges",
+            "why_this_commune": "Alexandre Henry est un excellent choix pour Bussy-Saint-Georges. Installé localement en Seine-et-Marne, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:49.283Z",
+            "used_fallback": false
+          },
+          "5c54036c-90a3-44a5-8315-072aabd6ba40": {
+            "profile_id": "5c54036c-90a3-44a5-8315-072aabd6ba40",
+            "commune_slug": "bussy-saint-georges",
+            "bio_localized": "Électricien depuis 16 ans à Bussy-Saint-Georges, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et anciennes constructions. Intervenant rapidement dans la région Seine-et-Marne, je garantis des solutions fiables et durables pour vos urgences électriques. Votre confiance, ma priorité.",
+            "local_badge": "Électricien expert de Bussy-Saint-Georges, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Bussy-Saint-Georges : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience confirmée à Bussy-Saint-Georges, électricien professionnel et fiable",
+            "why_this_commune": "Thomas Rolland est le choix idéal pour Bussy-Saint-Georges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:02.306Z",
+            "used_fallback": false
+          },
+          "3aceeaf7-a3d4-4d50-baaa-020234764934": {
+            "profile_id": "3aceeaf7-a3d4-4d50-baaa-020234764934",
+            "commune_slug": "bussy-saint-georges",
+            "bio_localized": "Électricien expert à Bussy-Saint-Georges depuis 19 ans, je spécialise dans l'éclairage LED professionnel. Intervenant sur les pavillons et immeubles modernes de Seine-et-Marne, je garantis des installations fiables et économes. Votre partenaire de confiance pour tous vos projets électriques locaux.",
+            "local_badge": "Électricien expert de Bussy-Saint-Georges, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Bussy-Saint-Georges, je conçois des solutions lumineuses innovantes et économes pour vos espaces commerciaux et résidentiels.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable à Bussy-Saint-Georges",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Bussy-Saint-Georges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:18.879Z",
+            "used_fallback": false
+          },
+          "bce53314-75cc-46c6-917c-67297007a942": {
+            "profile_id": "bce53314-75cc-46c6-917c-67297007a942",
+            "commune_slug": "bussy-saint-georges",
+            "bio_localized": "Didier Blanc, électricien expert à Bussy-Saint-Georges, intervient depuis 9 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles modernes de Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et client satisfait.",
+            "local_badge": "Électricien expert de Bussy-Saint-Georges depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Bussy-Saint-Georges, garantissant conformité et sécurité pour vos habitations.",
+            "trust_signal": "9 ans d'expérience confirmée à Bussy-Saint-Georges, électricien fiable et professionnel",
+            "why_this_commune": "Didier Blanc est le choix idéal pour Bussy-Saint-Georges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:31.129Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bussy-saint-martin": {
+        "commune_name": "BUSSY-SAINT-MARTIN",
+        "postal_code": "77600",
+        "department": "77",
+        "electricians": {
+          "d8b0df04-e436-456a-aed2-d2e55556b4cf": {
+            "profile_id": "d8b0df04-e436-456a-aed2-d2e55556b4cf",
+            "commune_slug": "bussy-saint-martin",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Jean Renard intervient à Bussy-Saint-Martin pour tous vos besoins en électricité générale. Spécialisé dans la maintenance et l'installation électrique des pavillons et immeubles locaux, il garantit des interventions rapides et un travail de qualité. Disponible pour diagnostics et dépannages urgents en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Bussy-Saint-Martin, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Bussy-Saint-Martin pour tous vos besoins en installations et dépannages électriques.",
+            "trust_signal": "8 ans d'expérience confirmée à Bussy-Saint-Martin, électricien fiable et professionnel",
+            "why_this_commune": "Jean Renard est le choix idéal pour Bussy-Saint-Martin. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:44.025Z",
+            "used_fallback": false
+          },
+          "5c54036c-90a3-44a5-8315-072aabd6ba40": {
+            "profile_id": "5c54036c-90a3-44a5-8315-072aabd6ba40",
+            "commune_slug": "bussy-saint-martin",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Bussy-Saint-Martin, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et anciennes constructions. Disponible rapidement pour vos urgences électriques en Seine-et-Marne, je garantis des interventions fiables et professionnelles.",
+            "local_badge": "Électricien expert de Bussy-Saint-Martin depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Bussy-Saint-Martin : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Bussy-Saint-Martin",
+            "why_this_commune": "Thomas Rolland est le choix idéal pour Bussy-Saint-Martin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:57.095Z",
+            "used_fallback": false
+          },
+          "3aceeaf7-a3d4-4d50-baaa-020234764934": {
+            "profile_id": "3aceeaf7-a3d4-4d50-baaa-020234764934",
+            "commune_slug": "bussy-saint-martin",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Bussy-Saint-Martin, je spécialise dans l'éclairage LED professionnel pour pavillons et immeubles modernes. Interventions rapides et fiables en Seine-et-Marne. Votre partenaire de confiance pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Bussy-Saint-Martin depuis années",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Bussy-Saint-Martin pour vos installations et rénovations lumineuses.",
+            "trust_signal": "19 ans d'expérience électricien à Bussy-Saint-Martin, interventions rapides et fiables",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Bussy-Saint-Martin. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée en Seine-et-Marne assure un travail fiable et professionnel.",
+            "generated_at": "2025-11-16T08:57:09.929Z",
+            "used_fallback": false
+          },
+          "1459e2fe-809a-4b26-860c-252ee3f82e42": {
+            "profile_id": "1459e2fe-809a-4b26-860c-252ee3f82e42",
+            "commune_slug": "bussy-saint-martin",
+            "bio_localized": "Électricien qualifié depuis 17 ans à Bussy-Saint-Martin, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et résidences de Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et service rapide.",
+            "local_badge": "Électricien expert de Bussy-Saint-Martin, intervention rapide",
+            "service_highlight": "Installateur de bornes de recharge électrique spécialisé à Bussy-Saint-Martin pour particuliers et professionnels.",
+            "trust_signal": "17 ans d'expérience confirmée à Bussy-Saint-Martin, électricien fiable et professionnel",
+            "why_this_commune": "Jérôme Caron, électricien local à Bussy-Saint-Martin, maîtrise parfaitement les spécificités architecturales de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience en Seine-et-Marne, il connaît les particularités des installations locales, offrant un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:22.854Z",
+            "used_fallback": false
+          },
+          "30b99a67-fbee-442d-bc02-6c83b9e20adb": {
+            "profile_id": "30b99a67-fbee-442d-bc02-6c83b9e20adb",
+            "commune_slug": "bussy-saint-martin",
+            "bio_localized": "Électricien expert à Bussy-Saint-Martin depuis 14 ans, je spécialise dans l'éclairage LED professionnel pour les pavillons et immeubles de Seine-et-Marne. Interventions rapides et fiables pour tous vos besoins électriques. Qualité et sérieux garantis.",
+            "local_badge": "Électricien expert de Bussy-Saint-Martin depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Bussy-Saint-Martin",
+            "trust_signal": "14 ans d'expérience confirmée, électricien fiable et réactif à Bussy-Saint-Martin",
+            "why_this_commune": "Alexandre Henry est le choix idéal pour Bussy-Saint-Martin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:57:35.055Z",
+            "used_fallback": false
+          },
+          "609d6ccf-18ca-43fb-810a-88cd38cde161": {
+            "profile_id": "609d6ccf-18ca-43fb-810a-88cd38cde161",
+            "commune_slug": "bussy-saint-martin",
+            "bio_localized": "Électricien expert à Bussy-Saint-Martin depuis 14 ans, je maîtrise le dépannage express pour tous les types de bâtiments : pavillons, immeubles modernes et anciennes constructions. Disponible rapidement pour vos urgences électriques en Seine-et-Marne, je garantis des interventions fiables et professionnelles.",
+            "local_badge": "Électricien expert de Bussy-Saint-Martin depuis années",
+            "service_highlight": "Dépannage électrique express à Bussy-Saint-Martin : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "14 ans d'expérience confirmée, électricien de confiance à Bussy-Saint-Martin",
+            "why_this_commune": "Maxime Mathieu, électricien local à Bussy-Saint-Martin, maîtrise parfaitement les caractéristiques du bâti seine-et-marnais. Sa proximité garantit des interventions rapides et réactives. Fort d'une expérience confirmée dans la commune, il connaît les spécificités de chaque quartier, assurant un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:57:47.792Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "buthiers": {
+        "commune_name": "BUTHIERS",
+        "postal_code": "77760",
+        "department": "77",
+        "electricians": {
+          "b42f8605-a1c7-4af9-b0fa-c157fa283e10": {
+            "profile_id": "b42f8605-a1c7-4af9-b0fa-c157fa283e10",
+            "commune_slug": "buthiers",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Buthiers, je maîtrise les installations électriques de tous types de bâtiments, des pavillons aux immeubles. Disponible 24h/24, 7j/7 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné. Votre sécurité est ma priorité.",
+            "local_badge": "Électricien expert de Buthiers, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Buthiers, intervention rapide garantie.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Buthiers",
+            "why_this_commune": "Christian Lemaire est le choix idéal pour Buthiers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:00.661Z",
+            "used_fallback": false
+          },
+          "6345041d-8709-46f7-b3c0-4dd086edcaff": {
+            "profile_id": "6345041d-8709-46f7-b3c0-4dd086edcaff",
+            "commune_slug": "buthiers",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Buthiers, je maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Buthiers, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste à Buthiers, intervenant sur tous types d'installations et dépannages électriques résidentiels et commerciaux.",
+            "trust_signal": "17 ans d'expérience électricien à Buthiers, interventions rapides et fiables garanties",
+            "why_this_commune": "Philippe Boyer est le choix idéal pour Buthiers. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:16.875Z",
+            "used_fallback": false
+          },
+          "94d2b4e5-4809-4e78-8581-0daf3c57e9b4": {
+            "profile_id": "94d2b4e5-4809-4e78-8581-0daf3c57e9b4",
+            "commune_slug": "buthiers",
+            "bio_localized": "Dominique Robert, électricien expert à Buthiers, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 18 ans d'expérience, il accompagne les habitants de Seine-et-Marne dans leurs projets résidentiels. Professionnel certifié, il garantit des installations sécurisées et durables, adaptées à chaque habitation.",
+            "local_badge": "Électricien expert de Buthiers, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes des tableaux électriques à Buthiers pour tous vos besoins résidentiels.",
+            "trust_signal": "18 ans d'expérience électricien à Buthiers, interventions rapides et fiables garanties",
+            "why_this_commune": "Dominique Robert est le choix idéal pour Buthiers. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité adapté aux besoins spécifiques des habitants de Buthiers.",
+            "generated_at": "2025-11-16T08:58:30.369Z",
+            "used_fallback": false
+          },
+          "de149193-5335-4ac1-895f-bb9b3d05f14c": {
+            "profile_id": "de149193-5335-4ac1-895f-bb9b3d05f14c",
+            "commune_slug": "buthiers",
+            "bio_localized": "Électricien domotique à Buthiers depuis 11 ans, je spécialise dans l'automatisation des pavillons et résidences de Seine-et-Marne. Expert certifié, j'accompagne les habitants dans leurs projets d'installation intelligente et de confort électrique. Qualité de service et satisfaction client constituent mes priorités absolues.",
+            "local_badge": "Électricien expert de Buthiers, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique pour résidences de Buthiers : installations intelligentes et sécurisées adaptées à votre habitat.",
+            "trust_signal": "11 ans d'expérience confirmée à Buthiers, électricien professionnel et fiable",
+            "why_this_commune": "Luc Vincent est le choix idéal pour Buthiers. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments buthériens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:43.445Z",
+            "used_fallback": false
+          },
+          "11231328-06ad-485a-b8a4-8ef266dd1c01": {
+            "profile_id": "11231328-06ad-485a-b8a4-8ef266dd1c01",
+            "commune_slug": "buthiers",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Buthiers, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et résidences de Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et service rapide.",
+            "local_badge": "Électricien expert de Buthiers, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Buthiers et ses environs.",
+            "trust_signal": "18 ans d'expérience électricien à Buthiers, intervention rapide garantie",
+            "why_this_commune": "Julien Leclerc est le choix idéal pour Buthiers. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:56.070Z",
+            "used_fallback": false
+          },
+          "205178ec-517d-406d-b79f-e71f578c096a": {
+            "profile_id": "205178ec-517d-406d-b79f-e71f578c096a",
+            "commune_slug": "buthiers",
+            "bio_localized": "Didier Fabre, électricien expert à Buthiers depuis 18 ans, spécialiste de l'installation de tableaux électriques. Intervient sur les pavillons et maisons individuelles de Seine-et-Marne avec professionnalisme et rigueur. Garantit des installations conformes et durables pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Buthiers, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes de tableaux électriques à Buthiers pour tous types d'habitations.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Buthiers, interventions rapides garanties",
+            "why_this_commune": "Didier Fabre est le choix idéal pour Buthiers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:59:09.678Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "cannes-ecluse": {
+        "commune_name": "CANNES-ECLUSE",
+        "postal_code": "77130",
+        "department": "77",
+        "electricians": {
+          "57f429e4-7c5e-4db1-b561-d02a5d218e99": {
+            "profile_id": "57f429e4-7c5e-4db1-b561-d02a5d218e99",
+            "commune_slug": "cannes-ecluse",
+            "bio_localized": "Électricien qualifié depuis 9 ans à Cannes-Ecluse, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je propose des solutions adaptées à votre infrastructure. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert de Cannes-Ecluse depuis années",
+            "service_highlight": "Spécialiste de l'installation de bornes de recharge électrique pour véhicules à Cannes-Ecluse et ses alentours.",
+            "trust_signal": "9 ans d'expérience confirmée à Cannes-Ecluse, électricien fiable et professionnel",
+            "why_this_commune": "Frédéric Dufour est le choix idéal pour Cannes-Ecluse. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:22.516Z",
+            "used_fallback": false
+          },
+          "6127c0eb-41bb-4b46-880d-13c84d805253": {
+            "profile_id": "6127c0eb-41bb-4b46-880d-13c84d805253",
+            "commune_slug": "cannes-ecluse",
+            "bio_localized": "Électricien qualifié depuis 8 ans à Cannes-Ecluse, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Cannes-Ecluse depuis longtemps",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les habitations et commerces de Cannes-Ecluse.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Cannes-Ecluse",
+            "why_this_commune": "Denis Thomas est un excellent choix pour Cannes-Ecluse. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:35.303Z",
+            "used_fallback": false
+          },
+          "205178ec-517d-406d-b79f-e71f578c096a": {
+            "profile_id": "205178ec-517d-406d-b79f-e71f578c096a",
+            "commune_slug": "cannes-ecluse",
+            "bio_localized": "Didier Fabre, électricien expert à Cannes-Ecluse, intervient depuis 18 ans sur l'installation de tableaux électriques. Spécialiste reconnu en Seine-et-Marne, il sécurise les installations des pavillons et immeubles locaux. Service fiable, professionnel et à votre écoute pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Cannes-Ecluse, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Cannes-Ecluse, intervenant sur tous types d'habitations et bâtiments professionnels.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable à Cannes-Ecluse",
+            "why_this_commune": "Didier Fabre est le choix idéal pour Cannes-Ecluse. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:59:49.066Z",
+            "used_fallback": false
+          },
+          "b6465625-1fe7-4a6d-8d36-1d01e0660cf5": {
+            "profile_id": "b6465625-1fe7-4a6d-8d36-1d01e0660cf5",
+            "commune_slug": "cannes-ecluse",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Cannes-Ecluse, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide dans la région.",
+            "local_badge": "Électricien expert de Cannes-Ecluse depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Cannes-Ecluse pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience confirmée à Cannes-Ecluse, électricien fiable et professionnel",
+            "why_this_commune": "Julien François est le choix idéal pour Cannes-Ecluse. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:02.500Z",
+            "used_fallback": false
+          },
+          "62e5b045-4033-461f-a751-780630d65211": {
+            "profile_id": "62e5b045-4033-461f-a751-780630d65211",
+            "commune_slug": "cannes-ecluse",
+            "bio_localized": "Nicolas Durand, électricien agréé Consuel depuis 18 ans, intervient à Cannes-Ecluse et en Seine-et-Marne. Spécialiste des installations électriques neuves et rénovations, il sécurise vos pavillons et immeubles avec expertise. Certifications et conformité garanties pour vos projets résidentiels.",
+            "local_badge": "Électricien expert de Cannes-Ecluse, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Cannes-Ecluse, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable à Cannes-Ecluse",
+            "why_this_commune": "Nicolas Durand est un excellent choix pour Cannes-Ecluse. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:19.098Z",
+            "used_fallback": false
+          },
+          "0495774a-f014-49e1-8f1a-31907756044b": {
+            "profile_id": "0495774a-f014-49e1-8f1a-31907756044b",
+            "commune_slug": "cannes-ecluse",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Cannes-Ecluse, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous résidiez en pavillon ou immeuble en Seine-et-Marne, je garantis des installations conformes et durables. Devis gratuit et interventions rapides pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Cannes-Ecluse, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge pour véhicules électriques à Cannes-Ecluse et environs.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Cannes-Ecluse, interventions fiables",
+            "why_this_commune": "Guillaume Arnaud est le choix idéal pour Cannes-Ecluse. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:32.021Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "carnetin": {
+        "commune_name": "CARNETIN",
+        "postal_code": "77400",
+        "department": "77",
+        "electricians": {
+          "3aceeaf7-a3d4-4d50-baaa-020234764934": {
+            "profile_id": "3aceeaf7-a3d4-4d50-baaa-020234764934",
+            "commune_slug": "carnetin",
+            "bio_localized": "Électricien professionnel à Carnetin depuis 19 ans, je spécialise dans l'éclairage LED haute performance. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, j'optimise votre consommation énergétique avec des solutions d'éclairage innovantes et durables. Intervention rapide et travail de qualité garantis.",
+            "local_badge": "Électricien expert de Carnetin depuis des années",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Carnetin pour optimiser vos installations lumineuses.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Carnetin, interventions rapides garanties",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Carnetin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:45.238Z",
+            "used_fallback": false
+          },
+          "db6a482a-d497-409c-90ed-5c79d582713d": {
+            "profile_id": "db6a482a-d497-409c-90ed-5c79d582713d",
+            "commune_slug": "carnetin",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Carnetin, je maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Carnetin, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Carnetin pour particuliers et professionnels.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Carnetin",
+            "why_this_commune": "Michel Meyer est le choix idéal pour Carnetin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers carnétinois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:58.319Z",
+            "used_fallback": false
+          },
+          "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86": {
+            "profile_id": "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86",
+            "commune_slug": "carnetin",
+            "bio_localized": "Électricien qualifié depuis 12 ans à Carnetin, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je propose des solutions adaptées à votre logement. Intervention rapide et devis gratuit.",
+            "local_badge": "Électricien expert de Carnetin, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Carnetin pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "12 ans d'expertise électrique à Carnetin, interventions rapides et fiables garanties",
+            "why_this_commune": "Julien Garcia est le choix idéal pour Carnetin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers carnetinois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:01:11.590Z",
+            "used_fallback": false
+          },
+          "5c54036c-90a3-44a5-8315-072aabd6ba40": {
+            "profile_id": "5c54036c-90a3-44a5-8315-072aabd6ba40",
+            "commune_slug": "carnetin",
+            "bio_localized": "Électricien professionnel à Carnetin depuis 16 ans, je maîtrise le dépannage express pour tous types d'habitations : pavillons, immeubles et bâtiments anciens. Intervenant rapidement en Seine-et-Marne, je garantis des solutions fiables et durables pour vos problèmes électriques. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Carnetin depuis des années",
+            "service_highlight": "Dépannage électrique express à Carnetin : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience confirmée, électricien de confiance à Carnetin",
+            "why_this_commune": "Thomas Rolland est le choix idéal pour Carnetin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:24.611Z",
+            "used_fallback": false
+          },
+          "a50bb1cc-ba81-47e1-82d9-db17878d955e": {
+            "profile_id": "a50bb1cc-ba81-47e1-82d9-db17878d955e",
+            "commune_slug": "carnetin",
+            "bio_localized": "Électricien professionnel basé à Carnetin depuis 11 ans, je spécialise dans l'éclairage LED pour les pavillons et bâtiments de Seine-et-Marne. Artisan expérimenté, j'optimise votre consommation énergétique avec des solutions d'éclairage modernes et durables. Disponible pour tous vos travaux électriques en région parisienne.",
+            "local_badge": "Électricien expert de Carnetin depuis années",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Carnetin pour optimiser vos installations lumineuses.",
+            "trust_signal": "11 ans d'expérience confirmée à Carnetin, électricien fiable et professionnel",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Carnetin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:01:37.258Z",
+            "used_fallback": false
+          },
+          "d8b0df04-e436-456a-aed2-d2e55556b4cf": {
+            "profile_id": "d8b0df04-e436-456a-aed2-d2e55556b4cf",
+            "commune_slug": "carnetin",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Jean Renard intervient à Carnetin et ses alentours en Seine-et-Marne. Spécialisé en électricité générale, il assure l'installation, la maintenance et la rénovation électrique de vos pavillons et habitations. Travail soigné et interventions rapides garantis pour votre sécurité.",
+            "local_badge": "Électricien expert de Carnetin depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Carnetin pour particuliers et professionnels.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Carnetin",
+            "why_this_commune": "Jean Renard est le choix idéal pour Carnetin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:50.040Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

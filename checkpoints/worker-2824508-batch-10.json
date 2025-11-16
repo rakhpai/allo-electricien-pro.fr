@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "triel-sur-seine",
+  "processedCommunes": [
+    "thoiry",
+    "tilly",
+    "toussus-le-noble",
+    "trappes",
+    "triel-sur-seine"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 32395,
+    "outputTokens": 8136,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.783Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "thoiry": {
+        "commune_name": "THOIRY",
+        "postal_code": "78770",
+        "department": "78",
+        "electricians": {
+          "be598d59-42f6-4bb2-8dde-3c3e1172d5cb": {
+            "profile_id": "be598d59-42f6-4bb2-8dde-3c3e1172d5cb",
+            "commune_slug": "thoiry",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Thoiry, je maîtrise le dépannage express pour tous les types de bâtiments : pavillons, immeubles et constructions modernes des Yvelines. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans votre commune.",
+            "local_badge": "Électricien expert de Thoiry, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Thoiry : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable et réactif à Thoiry",
+            "why_this_commune": "Thomas Petit, électricien local à Thoiry, connaît parfaitement les spécificités des bâtiments yvelinois. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans la commune, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:55:24.511Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "thoiry",
+            "bio_localized": "Électricien professionnel basé à Thoiry, je maîtrise l'éclairage LED depuis 8 ans. Spécialisé dans les solutions d'éclairage modernes, j'interviens sur les pavillons et immeubles des Yvelines. Expertise reconnue, travail soigné et devis transparent pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Thoiry, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Thoiry, je transforme vos espaces avec des solutions lumineuses modernes et économes.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et disponible à Thoiry",
+            "why_this_commune": "Emmanuel Mathieu est un excellent choix pour Thoiry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone yvelinoise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:55:38.110Z",
+            "used_fallback": false
+          },
+          "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8": {
+            "profile_id": "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8",
+            "commune_slug": "thoiry",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Thoiry, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Yvelines, je garantis une pose conforme et sécurisée. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert de Thoiry, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge électrique à Thoiry, pour véhicules écologiques.",
+            "trust_signal": "6 ans d'expérience électricien à Thoiry, interventions rapides et fiables garanties",
+            "why_this_commune": "Fabrice Lemoine est le choix idéal pour Thoiry. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité adapté aux besoins des habitants.",
+            "generated_at": "2025-11-16T08:55:52.016Z",
+            "used_fallback": false
+          },
+          "2db9a453-6990-4b0a-be29-afcd187048e0": {
+            "profile_id": "2db9a453-6990-4b0a-be29-afcd187048e0",
+            "commune_slug": "thoiry",
+            "bio_localized": "Électricien qualifié à Thoiry depuis 16 ans, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences des Yvelines. Expert en installations électriques sécurisées, je garantis des interventions rapides et conformes. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Thoiry, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Thoiry",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Thoiry, interventions rapides et fiables",
+            "why_this_commune": "Denis François est le choix idéal pour Thoiry. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et les caractéristiques de ses quartiers. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:05.705Z",
+            "used_fallback": false
+          },
+          "86acd082-48f3-4a40-80d6-b45f2a5086dc": {
+            "profile_id": "86acd082-48f3-4a40-80d6-b45f2a5086dc",
+            "commune_slug": "thoiry",
+            "bio_localized": "Jacques Lucas, électricien expert en domotique et automatisation à Thoiry, intervient depuis 9 ans auprès des résidents des Yvelines. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions domotiques fiables et innovantes. Service de qualité et satisfaction client garantis.",
+            "local_badge": "Électricien expert de Thoiry, intervention rapide garantie",
+            "service_highlight": "Électricien domotique à Thoiry : automatisation et installations intelligentes pour votre maison moderne et connectée.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et réactif à Thoiry, interventions garanties",
+            "why_this_commune": "Jacques Lucas est le choix idéal pour Thoiry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:19.016Z",
+            "used_fallback": false
+          },
+          "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e": {
+            "profile_id": "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e",
+            "commune_slug": "thoiry",
+            "bio_localized": "Électricien qualifié depuis 18 ans, j'interviens à Thoiry pour l'installation de bornes de recharge. Spécialiste reconnu en électromobilité, j'équipe vos pavillons et résidences des solutions de charge les plus fiables. Devis gratuit et intervention rapide dans les Yvelines.",
+            "local_badge": "Électricien expert de Thoiry, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Thoiry, intervenant sur tous types de véhicules électriques.",
+            "trust_signal": "18 ans d'expérience électricien à Thoiry, interventions rapides et fiables garanties",
+            "why_this_commune": "Fabrice Vincent est le choix idéal pour Thoiry grâce à sa connaissance approfondie des spécificités locales et de l'architecture yvelinoise. Basé à proximité, il intervient rapidement sur tous les sinistres électriques. Son expérience confirmée dans la zone garantit un service fiable et adapté aux besoins des habitants.",
+            "generated_at": "2025-11-16T08:56:31.974Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "tilly": {
+        "commune_name": "TILLY",
+        "postal_code": "78790",
+        "department": "78",
+        "electricians": {
+          "a7c60ba7-2652-485f-b94e-d2ed202a75d7": {
+            "profile_id": "a7c60ba7-2652-485f-b94e-d2ed202a75d7",
+            "commune_slug": "tilly",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Tilly, je maîtrise les spécificités des pavillons yvelinois et des constructions locales. Fort de 11 ans d'expérience, j'assure des installations conformes et durables. Votre confiance est ma priorité dans les Yvelines.",
+            "local_badge": "Électricien expert de Tilly, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé dans l'installation et la mise aux normes de tableaux électriques à Tilly et ses alentours.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Tilly, interventions rapides et fiables",
+            "why_this_commune": "François Dufour est le choix idéal pour Tilly. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:45.112Z",
+            "used_fallback": false
+          },
+          "b8b5057e-8eae-4a08-96cb-2faa71501d9e": {
+            "profile_id": "b8b5057e-8eae-4a08-96cb-2faa71501d9e",
+            "commune_slug": "tilly",
+            "bio_localized": "Patrick Pierre, électricien agréé Consuel à Tilly, met ses 7 années d'expertise au service des habitants des Yvelines. Spécialiste des installations électriques aux normes, il intervient sur les pavillons et immeubles de la région. Professionnel reconnu pour la sécurité et la qualité de ses travaux.",
+            "local_badge": "Électricien expert de Tilly, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Tilly, je garantis la conformité et la sécurité de toutes vos installations électriques.",
+            "trust_signal": "7 ans d'expérience confirmée à Tilly, électricien fiable et professionnel",
+            "why_this_commune": "Patrick Pierre, électricien basé à Tilly dans les Yvelines, connaît parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en région, il offre un service fiable et adapté aux besoins des habitants de Tilly.",
+            "generated_at": "2025-11-16T08:56:58.071Z",
+            "used_fallback": false
+          },
+          "3c4f5665-cba0-45ea-b699-5854e3761764": {
+            "profile_id": "3c4f5665-cba0-45ea-b699-5854e3761764",
+            "commune_slug": "tilly",
+            "bio_localized": "Paul Marie, électricien expert à Tilly, intervient depuis 10 ans sur la rénovation électrique des pavillons et immeubles yvelinois. Spécialiste reconnu des installations aux normes, il modernise les systèmes électriques anciens avec professionnalisme et fiabilité, garantissant la sécurité de votre habitat en Yvelines.",
+            "local_badge": "Électricien expert de Tilly, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Tilly, je modernise vos installations anciennes avec professionnalisme et sécurité.",
+            "trust_signal": "10 ans d'expérience confirmée à Tilly, électricien fiable et professionnel",
+            "why_this_commune": "Paul Marie est le choix idéal pour Tilly. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:12.342Z",
+            "used_fallback": false
+          },
+          "e4a7bf69-b6c5-493b-9bfc-74962a88c383": {
+            "profile_id": "e4a7bf69-b6c5-493b-9bfc-74962a88c383",
+            "commune_slug": "tilly",
+            "bio_localized": "Olivier Morel, électricien agréé Consuel à Tilly, met à profit ses 10 années d'expérience pour sécuriser vos installations électriques. Spécialiste des pavillons et immeubles yvelinois, il garantit conformité et fiabilité pour tous vos travaux résidentiels et professionnels en Yvelines.",
+            "local_badge": "Électricien expert de Tilly, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Tilly, expert en conformité et sécurité des installations électriques résidentielles et professionnelles.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et reconnu à Tilly",
+            "why_this_commune": "Olivier Morel est le choix idéal pour Tilly. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:25.266Z",
+            "used_fallback": false
+          },
+          "3cdb337b-05a3-4cb7-81e9-ef251003734f": {
+            "profile_id": "3cdb337b-05a3-4cb7-81e9-ef251003734f",
+            "commune_slug": "tilly",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Tilly, je maîtrise le dépannage express pour tous vos besoins. Spécialisé dans l'intervention rapide sur pavillons et immeubles des Yvelines, je garantis une prise en charge immédiate de vos problèmes électriques. Disponible pour diagnostics et réparations urgentes.",
+            "local_badge": "Électricien expert de Tilly, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Tilly : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Tilly, interventions rapides et fiables",
+            "why_this_commune": "Thomas Dufour est le choix idéal pour Tilly. Électricien local, il maîtrise parfaitement les spécificités des bâtiments yvelinois et les quartiers tillyens. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service de qualité et une compréhension précise de vos besoins locaux.",
+            "generated_at": "2025-11-16T08:57:38.425Z",
+            "used_fallback": false
+          },
+          "00439aca-5656-4ed5-aa33-7f05b45211da": {
+            "profile_id": "00439aca-5656-4ed5-aa33-7f05b45211da",
+            "commune_slug": "tilly",
+            "bio_localized": "Électricien expert à Tilly depuis 6 ans, je maîtrise le dépannage express pour tous types d'habitations : pavillons, immeubles et constructions modernes des Yvelines. Interventions rapides et fiables, disponible pour vos urgences électriques. Votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert de Tilly, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Tilly : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "6 ans d'expérience confirmée à Tilly, électricien fiable et professionnel",
+            "why_this_commune": "Vincent Roche est un excellent choix pour Tilly. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:51.547Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "toussus-le-noble": {
+        "commune_name": "TOUSSUS-LE-NOBLE",
+        "postal_code": "78117",
+        "department": "78",
+        "electricians": {
+          "4b6dd5b7-8602-4796-a3bb-ff5c390691c7": {
+            "profile_id": "4b6dd5b7-8602-4796-a3bb-ff5c390691c7",
+            "commune_slug": "toussus-le-noble",
+            "bio_localized": "Électricien expert à Toussus-le-Noble, je maîtrise l'éclairage LED professionnel depuis 8 ans. Spécialisé dans l'optimisation énergétique des pavillons et bâtiments locaux, je propose des solutions lumineuses modernes et durables. Disponible pour tous vos projets électriques en Yvelines, je garantis un travail de qualité et des conseils avisés.",
+            "local_badge": "Électricien expert de Toussus-le-Noble depuis des années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Toussus-le-Noble, garantissant efficacité énergétique.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et certifié à Toussus-le-Noble",
+            "why_this_commune": "Benjamin André est un excellent choix pour Toussus-le-Noble. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:58:04.735Z",
+            "used_fallback": false
+          },
+          "be10ba36-2202-430f-ba47-230858a65168": {
+            "profile_id": "be10ba36-2202-430f-ba47-230858a65168",
+            "commune_slug": "toussus-le-noble",
+            "bio_localized": "Emmanuel Jean, électricien expert en éclairage LED professionnel à Toussus-le-Noble. Fort de 7 ans d'expérience, j'interviens sur les pavillons et bâtiments des Yvelines. Spécialiste en solutions d'éclairage modernes et économes, je garantis des installations fiables et durables pour vos besoins résidentiels et professionnels.",
+            "local_badge": "Électricien expert de Toussus-le-Noble depuis des années",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Toussus-le-Noble, optimisant consommation énergétique et ambiance lumineuse.",
+            "trust_signal": "7 ans d'expérience confirmée à Toussus-le-Noble, électricien fiable et professionnel",
+            "why_this_commune": "Emmanuel Jean, électricien basé à Toussus-le-Noble, connaît parfaitement les spécificités des installations locales et les particularités architecturales de la commune. Sa proximité garantit une intervention rapide et réactive. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:18.539Z",
+            "used_fallback": false
+          },
+          "c295d876-c785-4914-ac42-97dc0b5bc026": {
+            "profile_id": "c295d876-c785-4914-ac42-97dc0b5bc026",
+            "commune_slug": "toussus-le-noble",
+            "bio_localized": "Luc Leclercq, électricien spécialisé en domotique et automatisation à Toussus-le-Noble. Fort de 7 ans d'expérience, j'équipe pavillons et résidences modernes en solutions intelligentes et sécurisées. Expertise reconnue, service fiable et satisfaction client garantie dans les Yvelines.",
+            "local_badge": "Électricien expert de Toussus-le-Noble depuis des années",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour résidences de Toussus-le-Noble, modernisant vos installations intelligentes.",
+            "trust_signal": "7 ans d'expérience confirmée à Toussus-le-Noble, électricien fiable et réactif",
+            "why_this_commune": "Luc Leclercq est le choix idéal pour Toussus-le-Noble. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans les Yvelines assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:31.174Z",
+            "used_fallback": false
+          },
+          "c5abf0f8-003b-49ab-9785-4f87cb5aaf45": {
+            "profile_id": "c5abf0f8-003b-49ab-9785-4f87cb5aaf45",
+            "commune_slug": "toussus-le-noble",
+            "bio_localized": "Eric Barbier, électricien expert à Toussus-le-Noble, maîtrise l'installation de tableaux électriques depuis 16 ans. Spécialisé dans les pavillons et constructions modernes des Yvelines, il garantit des installations conformes et sécurisées. Votre satisfaction et la qualité sont ses priorités absolues.",
+            "local_badge": "Électricien expert de Toussus-le-Noble depuis des années",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques pour les résidences de Toussus-le-Noble.",
+            "trust_signal": "16 ans d'expérience électricien à Toussus-le-Noble, interventions rapides et fiables",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Toussus-le-Noble. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans les Yvelines assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:43.885Z",
+            "used_fallback": false
+          },
+          "a9a358f1-6de8-4d35-acd2-e4b472093648": {
+            "profile_id": "a9a358f1-6de8-4d35-acd2-e4b472093648",
+            "commune_slug": "toussus-le-noble",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Toussus-le-Noble, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et résidences des Yvelines, je garantis des installations conformes et sécurisées. Devis gratuit et service rapide pour votre transition énergétique.",
+            "local_badge": "Électricien expert de Toussus-le-Noble depuis des années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Toussus-le-Noble pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Toussus-le-Noble, interventions rapides garanties",
+            "why_this_commune": "Fabrice Meyer est le choix idéal pour Toussus-le-Noble. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et une parfaite connaissance du terrain.",
+            "generated_at": "2025-11-16T08:58:56.271Z",
+            "used_fallback": false
+          },
+          "ec0d03aa-2b4e-453d-88ee-979253510094": {
+            "profile_id": "ec0d03aa-2b4e-453d-88ee-979253510094",
+            "commune_slug": "toussus-le-noble",
+            "bio_localized": "Électricien qualifié depuis 12 ans à Toussus-le-Noble, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne des Yvelines, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert de Toussus-le-Noble depuis des années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Toussus-le-Noble",
+            "trust_signal": "12 ans d'expérience électricien à Toussus-le-Noble, interventions rapides et fiables",
+            "why_this_commune": "Jérôme Clement est le choix idéal pour Toussus-le-Noble. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:59:08.539Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "trappes": {
+        "commune_name": "TRAPPES",
+        "postal_code": "78190",
+        "department": "78",
+        "electricians": {
+          "62cd5e1e-f178-417b-bcab-824ab5f85eb9": {
+            "profile_id": "62cd5e1e-f178-417b-bcab-824ab5f85eb9",
+            "commune_slug": "trappes",
+            "bio_localized": "Électricien expérimenté à Trappes depuis 17 ans, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Trappes, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Trappes.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et reconnu à Trappes",
+            "why_this_commune": "Yves Roche est votre électricien idéal à Trappes. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers trappistes. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:20.680Z",
+            "used_fallback": false
+          },
+          "1cd0ff16-5edf-4759-a492-de47fb83f2cf": {
+            "profile_id": "1cd0ff16-5edf-4759-a492-de47fb83f2cf",
+            "commune_slug": "trappes",
+            "bio_localized": "Luc Mathieu, électricien spécialiste en domotique et automatisation à Trappes, intervient dans les pavillons et immeubles des Yvelines. Fort de 18 ans d'expérience, il modernise vos installations électriques et automatise votre habitat pour plus de confort et de sécurité. Service fiable et satisfaction garantie.",
+            "local_badge": "Électricien expert à Trappes, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique pour votre maison à Trappes : confort et sécurité connectés au service de votre quotidien.",
+            "trust_signal": "18 ans d'expérience, électricien fiable et reconnu à Trappes",
+            "why_this_commune": "Luc Mathieu est un excellent choix pour Trappes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers trapéens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:33.694Z",
+            "used_fallback": false
+          },
+          "536bd41e-1116-41ba-9b0f-085b64fdc1b4": {
+            "profile_id": "536bd41e-1116-41ba-9b0f-085b64fdc1b4",
+            "commune_slug": "trappes",
+            "bio_localized": "Électricien professionnel à Trappes depuis 12 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles des Yvelines. De la rénovation résidentielle aux installations tertiaires, je transforme vos espaces avec des solutions d'éclairage modernes et économes. Disponible pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Trappes, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises de Trappes, solutions modernes et économes.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à Trappes",
+            "why_this_commune": "David Rodriguez est un excellent choix pour Trappes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers trappistes. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:46.291Z",
+            "used_fallback": false
+          },
+          "05541618-9232-40d3-afd5-5220a1507221": {
+            "profile_id": "05541618-9232-40d3-afd5-5220a1507221",
+            "commune_slug": "trappes",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Trappes, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et résidences anciennes. Disponible rapidement aux Yvelines, je garantis un diagnostic précis et des solutions fiables pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Trappes, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Trappes pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et réactif à Trappes",
+            "why_this_commune": "Daniel Muller est un excellent choix pour Trappes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers trapéens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:59.326Z",
+            "used_fallback": false
+          },
+          "c25ec669-ce96-4c19-8421-aac39e66c852": {
+            "profile_id": "c25ec669-ce96-4c19-8421-aac39e66c852",
+            "commune_slug": "trappes",
+            "bio_localized": "Patrick Petit, électricien agréé Consuel à Trappes, intervient depuis 14 ans sur les pavillons et immeubles des Yvelines. Spécialiste en électricité professionnelle, il sécurise vos installations avec expertise et conformité. Votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert de Trappes, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Trappes, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Trappes, interventions rapides et fiables",
+            "why_this_commune": "Patrick Petit est un excellent choix pour Trappes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers trapéens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:12.678Z",
+            "used_fallback": false
+          },
+          "8bd1a371-4066-4c38-8582-026fda19c8cd": {
+            "profile_id": "8bd1a371-4066-4c38-8582-026fda19c8cd",
+            "commune_slug": "trappes",
+            "bio_localized": "Électricien professionnel à Trappes depuis 8 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles des Yvelines. Efficacité énergétique et modernisation garanties pour votre habitat. Interventions rapides et fiables dans toute la région.",
+            "local_badge": "Électricien expert de Trappes, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Trappes pour optimiser vos installations lumineuses.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et reconnu à Trappes",
+            "why_this_commune": "Alexandre Marchand est un excellent choix pour Trappes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers trapéens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T09:00:27.910Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "triel-sur-seine": {
+        "commune_name": "TRIEL-SUR-SEINE",
+        "postal_code": "78510",
+        "department": "78",
+        "electricians": {
+          "0cee1312-f85d-4deb-8ed4-acf9d78f5033": {
+            "profile_id": "0cee1312-f85d-4deb-8ed4-acf9d78f5033",
+            "commune_slug": "triel-sur-seine",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Triel-sur-Seine, je maîtrise l'électricité générale pour tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Intervention rapide et soignée dans les Yvelines, je garantis des installations fiables et conformes aux normes.",
+            "local_badge": "Électricien expert de Triel-sur-Seine, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Triel-sur-Seine pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "12 ans d'expérience confirmée à Triel-sur-Seine, électricien fiable et professionnel",
+            "why_this_commune": "Jean Roux est le choix idéal pour Triel-sur-Seine. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:41.005Z",
+            "used_fallback": false
+          },
+          "53045362-4462-4f5b-aafb-27fabbab1022": {
+            "profile_id": "53045362-4462-4f5b-aafb-27fabbab1022",
+            "commune_slug": "triel-sur-seine",
+            "bio_localized": "Stéphane Fabre, électricien expert à Triel-sur-Seine, intervient depuis 18 ans sur la rénovation électrique des pavillons et immeubles locaux. Spécialiste des installations anciennes, il modernise vos systèmes électriques en toute sécurité, respectant les normes actuelles pour un habitat fiable et durable.",
+            "local_badge": "Électricien expert de Triel-sur-Seine, intervention rapide",
+            "service_highlight": "Spécialiste en rénovation électrique pour les maisons et appartements anciens de Triel-sur-Seine et ses environs.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable à Triel-sur-Seine",
+            "why_this_commune": "Stéphane Fabre est le choix idéal pour Triel-sur-Seine. Électricien local expérimenté, il connaît parfaitement les spécificités architecturales des quartiers triellois et les particularités du patrimoine bâti. Sa proximité garantit des interventions rapides et réactives, essentielles pour vos urgences électriques.",
+            "generated_at": "2025-11-16T09:00:54.262Z",
+            "used_fallback": false
+          },
+          "6e2969a6-e86c-48a6-9fbb-516047ec1a7c": {
+            "profile_id": "6e2969a6-e86c-48a6-9fbb-516047ec1a7c",
+            "commune_slug": "triel-sur-seine",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Triel-sur-Seine, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne des Yvelines, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide sur votre commune.",
+            "local_badge": "Électricien expert de Triel-sur-Seine, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge pour véhicules électriques à Triel-sur-Seine.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Triel-sur-Seine",
+            "why_this_commune": "Guillaume Picard est le choix idéal pour Triel-sur-Seine. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:07.820Z",
+            "used_fallback": false
+          },
+          "17c4b321-678e-4c19-8d0e-b298fbf8f10f": {
+            "profile_id": "17c4b321-678e-4c19-8d0e-b298fbf8f10f",
+            "commune_slug": "triel-sur-seine",
+            "bio_localized": "Électricien expert à Triel-sur-Seine depuis 11 ans, je maîtrise le dépannage express sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans les Yvelines.",
+            "local_badge": "Électricien expert de Triel-sur-Seine, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Triel-sur-Seine : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable et réactif à Triel-sur-Seine",
+            "why_this_commune": "Vincent Dufour est un excellent choix pour Triel-sur-Seine. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:20.845Z",
+            "used_fallback": false
+          },
+          "8893afed-e537-4904-a11d-c02e9af53583": {
+            "profile_id": "8893afed-e537-4904-a11d-c02e9af53583",
+            "commune_slug": "triel-sur-seine",
+            "bio_localized": "Olivier Roy, électricien agréé Consuel à Triel-sur-Seine, intervient depuis 7 ans sur les pavillons et immeubles des Yvelines. Spécialiste en électricité professionnelle, il sécurise vos installations résidentielles et tertiaires avec expertise reconnue. Interventions fiables et conformes aux normes.",
+            "local_badge": "Électricien expert de Triel-sur-Seine, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Triel-sur-Seine, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Triel-sur-Seine",
+            "why_this_commune": "Olivier Roy est un excellent choix pour Triel-sur-Seine. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:33.592Z",
+            "used_fallback": false
+          },
+          "405a78cd-5e8e-408c-af68-216a1bfb8b5a": {
+            "profile_id": "405a78cd-5e8e-408c-af68-216a1bfb8b5a",
+            "commune_slug": "triel-sur-seine",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Triel-sur-Seine, Christian Meyer intervient 24h/24 sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Spécialiste des urgences électriques, il garantit des interventions rapides et un travail soigné pour sécuriser votre installation aux Yvelines.",
+            "local_badge": "Électricien expert de Triel-sur-Seine, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Triel-sur-Seine pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "10 ans d'expérience confirmée à Triel-sur-Seine, électricien fiable et réactif",
+            "why_this_commune": "Christian Meyer est un excellent choix pour Triel-sur-Seine. Implanté localement dans les Yvelines, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T09:01:46.688Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

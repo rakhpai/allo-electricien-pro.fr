@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "saint-maur-des-fosses",
+  "processedCommunes": [
+    "ormesson-sur-marne",
+    "perigny",
+    "rungis",
+    "saint-mande",
+    "saint-maur-des-fosses"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 38
+  },
+  "stats": {
+    "inputTokens": 33625,
+    "outputTokens": 8471,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:11.186Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "ormesson-sur-marne": {
+        "commune_name": "ORMESSON-SUR-MARNE",
+        "postal_code": "94490",
+        "department": "94",
+        "electricians": {
+          "588706ba-9967-45e8-b7da-d9737e25dba1": {
+            "profile_id": "588706ba-9967-45e8-b7da-d9737e25dba1",
+            "commune_slug": "ormesson-sur-marne",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Ormesson-sur-Marne, Daniel Nicolas intervient 24h/24 pour tous vos urgences électriques. Spécialiste des pavillons et immeubles du Val-de-Marne, il garantit des solutions rapides et fiables. Disponible immédiatement pour diagnostics, dépannages et installations en toute sécurité.",
+            "local_badge": "Électricien expert d'Ormesson-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Ormesson-sur-Marne pour tous vos dépannages et installations électriques.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable à Ormesson-sur-Marne",
+            "why_this_commune": "Daniel Nicolas est un excellent choix pour Ormesson-sur-Marne. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:55:24.854Z",
+            "used_fallback": false
+          },
+          "5ec50cb6-889f-4fa6-b3ed-bd11f9cfd85c": {
+            "profile_id": "5ec50cb6-889f-4fa6-b3ed-bd11f9cfd85c",
+            "commune_slug": "ormesson-sur-marne",
+            "bio_localized": "Électricien professionnel depuis 6 ans à Ormesson-sur-Marne, je maîtrise l'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles et résidences. Disponible jour et nuit, je garantis une intervention rapide et un travail soigné pour sécuriser votre installation électrique en Val-de-Marne.",
+            "local_badge": "Électricien expert d'Ormesson-sur-Marne depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Ormesson-sur-Marne pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Ormesson-sur-Marne",
+            "why_this_commune": "Daniel Lefebvre est le choix idéal pour Ormesson-sur-Marne. Électricien local, il connaît parfaitement les spécificités architecturales des quartiers et bâtiments de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:39.020Z",
+            "used_fallback": false
+          },
+          "7ddd4956-58bd-4f20-b118-911e86fdf664": {
+            "profile_id": "7ddd4956-58bd-4f20-b118-911e86fdf664",
+            "commune_slug": "ormesson-sur-marne",
+            "bio_localized": "Dominique Henry, électricien expert à Ormesson-sur-Marne, intervient depuis 18 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles du Val-de-Marne, il garantit des installations conformes et sécurisées. Service fiable et client prioritaire.",
+            "local_badge": "Électricien expert à Ormesson-sur-Marne depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Ormesson-sur-Marne pour résidences et petits collectifs.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Ormesson-sur-Marne, interventions rapides",
+            "why_this_commune": "Dominique Henry est le choix idéal pour Ormesson-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:51.551Z",
+            "used_fallback": false
+          },
+          "5d181437-c433-463a-9611-e75dd2278fd7": {
+            "profile_id": "5d181437-c433-463a-9611-e75dd2278fd7",
+            "commune_slug": "ormesson-sur-marne",
+            "bio_localized": "Électricien professionnel à Ormesson-sur-Marne depuis 10 ans, je spécialise dans l'éclairage LED pour vos pavillons et immeubles. Maîtrisant les installations modernes et les rénovations, je garantis efficacité énergétique et qualité. Disponible pour tous vos besoins électriques en Val-de-Marne.",
+            "local_badge": "Électricien expert d'Ormesson-sur-Marne, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises d'Ormesson-sur-Marne",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable à Ormesson-sur-Marne",
+            "why_this_commune": "Emmanuel Vidal est le choix idéal pour Ormesson-sur-Marne. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience reconnue dans la zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:56:04.074Z",
+            "used_fallback": false
+          },
+          "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708": {
+            "profile_id": "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708",
+            "commune_slug": "ormesson-sur-marne",
+            "bio_localized": "Christian Vidal, électricien professionnel depuis 12 ans à Ormesson-sur-Marne, intervient 24h/24 sur tous vos urgences électriques. Spécialiste des installations résidentielles, des pavillons aux immeubles modernes, je garantis une intervention rapide et un travail soigné. Disponible immédiatement pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert à Ormesson-sur-Marne depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Ormesson-sur-Marne pour tous vos dépannages et installations électriques.",
+            "trust_signal": "12 ans d'expérience électricien confirmé à Ormesson-sur-Marne, interventions rapides garanties",
+            "why_this_commune": "Christian Vidal, électricien établi à Ormesson-sur-Marne, maîtrise parfaitement les caractéristiques des bâtiments locaux. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette commune du Val-de-Marne, il offre un service fiable et adapté aux besoins spécifiques du territoire.",
+            "generated_at": "2025-11-16T08:56:19.490Z",
+            "used_fallback": false
+          },
+          "f38d2f86-e59a-4b64-acbb-30b7f7a3e003": {
+            "profile_id": "f38d2f86-e59a-4b64-acbb-30b7f7a3e003",
+            "commune_slug": "ormesson-sur-marne",
+            "bio_localized": "Électricien depuis 10 ans à Ormesson-sur-Marne, Robert Laurent maîtrise la rénovation électrique des pavillons et immeubles du Val-de-Marne. Spécialiste des mises aux normes, il intervient sur les installations anciennes comme modernes. Professionnel fiable et expérimenté pour tous vos travaux électriques.",
+            "local_badge": "Électricien expert d'Ormesson-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique pour les maisons anciennes et modernes d'Ormesson-sur-Marne.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable à Ormesson-sur-Marne",
+            "why_this_commune": "Robert Laurent est un excellent choix pour Ormesson-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:32.153Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "perigny": {
+        "commune_name": "PÉRIGNY",
+        "postal_code": "94520",
+        "department": "94",
+        "electricians": {
+          "a1e16894-5dcb-46e2-bd69-9691d665c17e": {
+            "profile_id": "a1e16894-5dcb-46e2-bd69-9691d665c17e",
+            "commune_slug": "perigny",
+            "bio_localized": "François André, électricien expert à Périgny, intervient sur l'installation de tableaux électriques dans les pavillons et immeubles du Val-de-Marne. Fort de 5 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client prioritaire pour tous vos besoins électriques à Périgny.",
+            "local_badge": "Électricien expert de Périgny depuis années",
+            "service_highlight": "Spécialiste en installation et maintenance de tableaux électriques pour les résidences de Périgny.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Périgny",
+            "why_this_commune": "François André est un excellent choix pour Périgny. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:56:44.959Z",
+            "used_fallback": false
+          },
+          "54bf890c-f08b-4397-b175-894ab296aa1a": {
+            "profile_id": "54bf890c-f08b-4397-b175-894ab296aa1a",
+            "commune_slug": "perigny",
+            "bio_localized": "Robert Martinez, électricien expert à Périgny, intervient depuis 12 ans sur la rénovation électrique des pavillons et immeubles du Val-de-Marne. Spécialiste des installations modernes et mises aux normes, il garantit des travaux sécurisés et durables pour votre habitat, du diagnostic au chantier complet.",
+            "local_badge": "Électricien expert de Périgny, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Périgny, je modernise vos installations anciennes avec professionnalisme et efficacité.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Périgny, interventions rapides garanties",
+            "why_this_commune": "Robert Martinez est un excellent choix pour Périgny. Électricien expérimenté dans le Val-de-Marne, il connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Son expertise confirmée en zone périgordienne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:56:58.323Z",
+            "used_fallback": false
+          },
+          "26449fb2-ae2f-4a2c-aa54-9e9a7f0e27ad": {
+            "profile_id": "26449fb2-ae2f-4a2c-aa54-9e9a7f0e27ad",
+            "commune_slug": "perigny",
+            "bio_localized": "Fort de 8 ans d'expérience, Stéphane Faure intervient à Périgny pour rénover les installations électriques de vos pavillons et immeubles. Électricien spécialisé en rénovation, il modernise les systèmes vieillissants du Val-de-Marne avec professionnalisme et fiabilité. Votre sécurité électrique est sa priorité.",
+            "local_badge": "Électricien expert de Périgny, intervention rapide",
+            "service_highlight": "Spécialiste en rénovation électrique à Périgny, je modernise les installations anciennes de votre habitation avec expertise et professionnalisme.",
+            "trust_signal": "8 ans d'expérience confirmée à Périgny, électricien fiable et réactif",
+            "why_this_commune": "Stéphane Faure est le choix idéal pour Périgny. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:11.835Z",
+            "used_fallback": false
+          },
+          "fd407388-c944-40e3-a908-a50ca16fa6cc": {
+            "profile_id": "fd407388-c944-40e3-a908-a50ca16fa6cc",
+            "commune_slug": "perigny",
+            "bio_localized": "Électricien expérimenté à Périgny depuis 8 ans, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-de-Marne. Interventions rapides et devis gratuits pour sécuriser votre installation électrique selon les standards actuels.",
+            "local_badge": "Électricien expert de Périgny, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Périgny, garantissant la sécurité de votre installation électrique.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et reconnu à Périgny",
+            "why_this_commune": "Antoine Bernard est un excellent choix pour Périgny. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers périgniens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:26.255Z",
+            "used_fallback": false
+          },
+          "e9897e44-8534-4032-bd4f-2ecfbc886101": {
+            "profile_id": "e9897e44-8534-4032-bd4f-2ecfbc886101",
+            "commune_slug": "perigny",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Périgny, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Intervention rapide, travail soigné et devis transparent. Votre électricien de confiance en Val-de-Marne.",
+            "local_badge": "Électricien expert de Périgny, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Périgny pour particuliers et professionnels.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et réactif à Périgny",
+            "why_this_commune": "André Gaillard est un excellent choix pour Périgny. Installé localement en Val-de-Marne, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et fiables. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:39.821Z",
+            "used_fallback": false
+          },
+          "d051b405-14ae-4a70-a49e-1ffa358a9d1e": {
+            "profile_id": "d051b405-14ae-4a70-a49e-1ffa358a9d1e",
+            "commune_slug": "perigny",
+            "bio_localized": "Électricien expérimenté à Périgny, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-de-Marne. Fort de 10 ans d'expertise, j'assure la sécurité électrique de votre habitation avec professionnalisme. Devis gratuit et interventions rapides garanties.",
+            "local_badge": "Électricien expert à Périgny - Intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Périgny.",
+            "trust_signal": "10 ans d'expérience confirmée à Périgny, interventions rapides et fiables",
+            "why_this_commune": "Yves Lambert est le choix idéal pour Périgny. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans le Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:52.456Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "rungis": {
+        "commune_name": "RUNGIS",
+        "postal_code": "94150",
+        "department": "94",
+        "electricians": {
+          "4c817b69-9683-4d66-9bfe-a3638de1a9d5": {
+            "profile_id": "4c817b69-9683-4d66-9bfe-a3638de1a9d5",
+            "commune_slug": "rungis",
+            "bio_localized": "Électricien expérimenté à Rungis depuis 9 ans, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles modernes et résidences du Val-de-Marne. Interventions rapides et travail soigné garantis. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Rungis, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Rungis pour tous vos besoins en installations et dépannages électriques résidentiels et commerciaux.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et professionnel à Rungis",
+            "why_this_commune": "Pierre Sanchez est un excellent choix pour Rungis. Électricien local au Val-de-Marne, il connaît parfaitement les spécificités des bâtiments rungeois et les quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:58:05.303Z",
+            "used_fallback": false
+          },
+          "7e955213-7b69-4d64-87ea-4f5fcf003893": {
+            "profile_id": "7e955213-7b69-4d64-87ea-4f5fcf003893",
+            "commune_slug": "rungis",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Rungis, je maîtrise l'électricité générale pour tous types de bâtiments. Du pavillon au collectif moderne, j'interviens rapidement sur le Val-de-Marne avec professionnalisme et sérieux. Travail soigné et devis transparent garantis.",
+            "local_badge": "Électricien expert de Rungis, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Rungis pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et commercial.",
+            "trust_signal": "Électricien expérimenté depuis 6 ans à Rungis, interventions rapides et fiables garanties",
+            "why_this_commune": "Pierre Thomas est un excellent choix pour Rungis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:58:19.392Z",
+            "used_fallback": false
+          },
+          "97524ca6-7b6e-46a9-9ddb-5f52ca40c045": {
+            "profile_id": "97524ca6-7b6e-46a9-9ddb-5f52ca40c045",
+            "commune_slug": "rungis",
+            "bio_localized": "Patrick Brunet, électricien agréé Consuel à Rungis, intervient depuis 11 ans sur les pavillons et immeubles du Val-de-Marne. Spécialiste en électricité professionnelle, il garantit la conformité de vos installations et la sécurité de votre patrimoine immobilier en région parisienne.",
+            "local_badge": "Électricien expert de Rungis, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Rungis, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "Électricien confirmé avec 11 ans d'expérience à Rungis, interventions rapides garanties",
+            "why_this_commune": "Patrick Brunet est un excellent choix pour Rungis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:31.637Z",
+            "used_fallback": false
+          },
+          "79f724dd-15dc-40a1-b688-09f196c8a3c1": {
+            "profile_id": "79f724dd-15dc-40a1-b688-09f196c8a3c1",
+            "commune_slug": "rungis",
+            "bio_localized": "Olivier Giraud, électricien agréé Consuel à Rungis, intervient depuis 8 ans sur les installations électriques résidentielles et tertiaires. Spécialiste des diagnostics et conformités, il sécurise vos installations dans les pavillons et immeubles du Val-de-Marne avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Rungis, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Rungis, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et réactif à Rungis pour tous vos besoins",
+            "why_this_commune": "Olivier Giraud est le choix idéal pour Rungis. Électricien local, il connaît parfaitement les spécificités des bâtiments rungeois et intervient rapidement grâce à sa proximité. Son expérience confirmée dans la zone garantit des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:44.561Z",
+            "used_fallback": false
+          },
+          "02ca8452-6153-4c3e-8134-5299ecac1818": {
+            "profile_id": "02ca8452-6153-4c3e-8134-5299ecac1818",
+            "commune_slug": "rungis",
+            "bio_localized": "Dominique Gauthier, électricien expert à Rungis, intervient depuis 18 ans sur l'installation de tableaux électriques. Spécialisé dans les pavillons et immeubles du Val-de-Marne, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert de Rungis, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation et rénovation de tableaux électriques à Rungis pour résidences et commerces.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Rungis, interventions rapides et fiables",
+            "why_this_commune": "Dominique Gauthier est le choix idéal pour Rungis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers rungeois. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:57.113Z",
+            "used_fallback": false
+          },
+          "3894f8bc-456a-4619-abe3-3085a30ce9e3": {
+            "profile_id": "3894f8bc-456a-4619-abe3-3085a30ce9e3",
+            "commune_slug": "rungis",
+            "bio_localized": "Électricien expérimenté à Rungis, je maîtrise l'éclairage LED professionnel depuis 5 ans. Intervenant auprès des commerces et bâtiments du Val-de-Marne, je propose des solutions d'éclairage modernes et économes. Disponible pour vos installations, rénovations et dépannages électriques.",
+            "local_badge": "Électricien expert de Rungis, interventions rapides garanties",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Rungis, je transforme vos installations avec des solutions modernes et économes.",
+            "trust_signal": "5 ans d'expérience confirmée à Rungis, interventions rapides et fiables garanties",
+            "why_this_commune": "David Henry est un excellent choix pour Rungis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans le Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:10.832Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-mande": {
+        "commune_name": "SAINT-MANDE",
+        "postal_code": "94160",
+        "department": "94",
+        "electricians": {
+          "d66e5848-4a0f-4229-925f-1a510949d04b": {
+            "profile_id": "d66e5848-4a0f-4229-925f-1a510949d04b",
+            "commune_slug": "saint-mande",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Saint-Mandé, je maîtrise l'électricité générale sur tous types de bâtiments : haussmanniens historiques, pavillons et immeubles contemporains du Val-de-Marne. Interventions rapides et soignées, garantissant votre sécurité électrique et votre tranquillité.",
+            "local_badge": "Électricien expert de Saint-Mandé depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Mandé pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Saint-Mandé, interventions rapides garanties",
+            "why_this_commune": "Michel Rolland est un excellent choix pour Saint-Mande. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:59:24.163Z",
+            "used_fallback": false
+          },
+          "d78b286a-decf-49f0-9723-b6bfb23d8376": {
+            "profile_id": "d78b286a-decf-49f0-9723-b6bfb23d8376",
+            "commune_slug": "saint-mande",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Mandé, je spécialise dans la mise aux normes NF C 15-100 pour les haussmanniens et pavillons du Val-de-Marne. Intervention rapide et devis gratuit pour sécuriser votre installation électrique aux normes actuelles.",
+            "local_badge": "Électricien expert de Saint-Mande depuis des années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Saint-Mandé, je sécurise vos installations électriques résidentielles et tertiaires.",
+            "trust_signal": "17 ans d'expérience électricien à Saint-Mandé, intervention rapide garantie",
+            "why_this_commune": "Charles Renaud est un excellent choix pour Saint-Mande. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:59:37.576Z",
+            "used_fallback": false
+          },
+          "dd60b36b-5246-4c0d-97ae-06b3339a2669": {
+            "profile_id": "dd60b36b-5246-4c0d-97ae-06b3339a2669",
+            "commune_slug": "saint-mande",
+            "bio_localized": "Électricien expert à Saint-Mandé depuis 12 ans, je maîtrise le dépannage express sur tous les types de bâtiments : haussmanniens, pavillons et immeubles modernes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans le Val-de-Marne.",
+            "local_badge": "Électricien expert de Saint-Mandé depuis des années",
+            "service_highlight": "Dépannage électrique express à Saint-Mandé : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Mandé, électricien fiable et réactif",
+            "why_this_commune": "Rémi Bertrand est le choix idéal pour Saint-Mandé. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:50.346Z",
+            "used_fallback": false
+          },
+          "858b9fed-2c69-4ffd-a2d1-9af1340b97af": {
+            "profile_id": "858b9fed-2c69-4ffd-a2d1-9af1340b97af",
+            "commune_slug": "saint-mande",
+            "bio_localized": "Électricien professionnel à Saint-Mandé depuis 5 ans, je spécialise dans l'éclairage LED pour les haussmanniens et pavillons du Val-de-Marne. Expertise en installations modernes et rénovations. Interventions rapides et fiables pour particuliers et professionnels. Disponible pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Mandé depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Saint-Mandé, transformant vos espaces avec des solutions modernes et économes en énergie.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Mande, interventions rapides et fiables garanties",
+            "why_this_commune": "Alexandre Lucas, électricien basé à Saint-Mandé, connaît parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la commune assure un service fiable et adapté aux besoins résidentiels de Saint-Mandé.",
+            "generated_at": "2025-11-16T09:00:06.245Z",
+            "used_fallback": false
+          },
+          "2f0b2e03-2851-489f-8b24-9f907a7c24ee": {
+            "profile_id": "2f0b2e03-2851-489f-8b24-9f907a7c24ee",
+            "commune_slug": "saint-mande",
+            "bio_localized": "Électricien depuis 11 ans à Saint-Mandé, je spécialise dans l'éclairage LED professionnel. Intervenant sur les élégants haussmanniens et pavillons du Val-de-Marne, j'optimise votre consommation énergétique avec des solutions modernes et durables. Expertise reconnue pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Mandé depuis années",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Saint-Mandé pour optimiser vos installations lumineuses modernes et économes.",
+            "trust_signal": "11 ans d'expérience électricien à Saint-Mandé, intervention rapide garantie",
+            "why_this_commune": "Alexandre Philippe est le choix idéal pour Saint-Mandé. Électricien local, il maîtrise parfaitement les spécificités architecturales des quartiers mandéens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette commune assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T09:00:20.071Z",
+            "used_fallback": false
+          },
+          "bff37b9d-287c-439c-bbd3-1a6ebceb6354": {
+            "profile_id": "bff37b9d-287c-439c-bbd3-1a6ebceb6354",
+            "commune_slug": "saint-mande",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Saint-Mandé, je maîtrise l'électricité générale pour tous les types de bâtiments : haussmanniens, pavillons et immeubles modernes. Intervenant dans le Val-de-Marne, je garantis des installations fiables, conformes aux normes et un service réactif pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Mande depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Mandé pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et tertiaire.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Mandé, électricien fiable et réactif",
+            "why_this_commune": "Jean Schmitt est le choix idéal pour Saint-Mandé. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T09:00:32.854Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-maur-des-fosses": {
+        "commune_name": "SAINT-MAUR-DES-FOSSES",
+        "postal_code": "94100-94210",
+        "department": "94",
+        "electricians": {
+          "71e96412-fb82-4c74-a1a5-2b8b35dcab09": {
+            "profile_id": "71e96412-fb82-4c74-a1a5-2b8b35dcab09",
+            "commune_slug": "saint-maur-des-fosses",
+            "bio_localized": "Électricien qualifié depuis 14 ans à Saint-Maur-des-Fosses, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble haussmannien du Val-de-Marne, je garantis une installation conforme et rapide. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Saint-Maur-des-Fosses depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Saint-Maur-des-Fosses et ses environs.",
+            "trust_signal": "14 ans d'expérience confirmée à Saint-Maur-des-Fosses, électricien fiable et réactif",
+            "why_this_commune": "Jérôme Rolland est le choix idéal pour Saint-Maur-des-Fosses. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:45.973Z",
+            "used_fallback": false
+          },
+          "3282c50f-4662-4014-8692-fe8c369c5141": {
+            "profile_id": "3282c50f-4662-4014-8692-fe8c369c5141",
+            "commune_slug": "saint-maur-des-fosses",
+            "bio_localized": "Eric Fernandez, électricien expert à Saint-Maur-des-Fosses, intervient sur l'installation de tableaux électriques depuis 9 ans. Spécialisé dans les rénovations des haussmanniens et pavillons du Val-de-Marne, il garantit des installations conformes et sécurisées. Votre satisfaction et votre tranquillité sont ses priorités.",
+            "local_badge": "Électricien expert de Saint-Maur-des-Fosses depuis 10 ans",
+            "service_highlight": "Installation et rénovation de tableaux électriques pour les résidences et immeubles de Saint-Maur-des-Fosses.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Maur-des-Fosses, interventions rapides et fiables",
+            "why_this_commune": "Eric Fernandez est le choix idéal pour Saint-Maur-des-Fosses. Électricien local, il connaît parfaitement les spécificités architecturales des quartiers et bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service professionnel et fiable.",
+            "generated_at": "2025-11-16T09:00:58.956Z",
+            "used_fallback": false
+          },
+          "a8503f22-bc1f-49e4-a802-2e78a6c166e4": {
+            "profile_id": "a8503f22-bc1f-49e4-a802-2e78a6c166e4",
+            "commune_slug": "saint-maur-des-fosses",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Saint-Maur-des-Fosses, je maîtrise les installations des haussmanniens comme des pavillons modernes du Val-de-Marne. Disponible 24/7 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Maur-des-Fosses",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Maur-des-Fosses pour tous vos dépannages électriques immédiats.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Maur-des-Fosses, électricien fiable et réactif",
+            "why_this_commune": "Christian Roy est un excellent choix pour Saint-Maur-des-Fosses. Installé localement, il connaît parfaitement les spécificités architecturales des quartiers et bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:01:12.617Z",
+            "used_fallback": false
+          },
+          "2f0b2e03-2851-489f-8b24-9f907a7c24ee": {
+            "profile_id": "2f0b2e03-2851-489f-8b24-9f907a7c24ee",
+            "commune_slug": "saint-maur-des-fosses",
+            "bio_localized": "Électricien expert à Saint-Maur-des-Fosses depuis 11 ans, je spécialise dans l'éclairage LED professionnel. Du haussmannien au pavillon, je modernise l'éclairage de vos espaces avec solutions innovantes et durables. Interventions rapides et fiables dans le Val-de-Marne.",
+            "local_badge": "Électricien expert de Saint-Maur-des-Fosses",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour entreprises et collectivités de Saint-Maur-des-Fosses",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Saint-Maur-des-Fosses",
+            "why_this_commune": "Alexandre Philippe est un excellent choix pour Saint-Maur-des-Fosses. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:01:25.827Z",
+            "used_fallback": false
+          },
+          "e76da3b3-cc10-4502-96a1-33c99ec0ccfc": {
+            "profile_id": "e76da3b3-cc10-4502-96a1-33c99ec0ccfc",
+            "commune_slug": "saint-maur-des-fosses",
+            "bio_localized": "Luc Gaillard, électricien expert en domotique et automatisation à Saint-Maur-des-Fosses. Depuis 14 ans, j'équipe haussmanniens, pavillons et immeubles modernes de solutions intelligentes fiables. Spécialiste certifié, je garantis des installations performantes adaptées à votre habitat du Val-de-Marne.",
+            "local_badge": "Électricien expert de Saint-Maur-des-Fosses",
+            "service_highlight": "Électricien domotique à Saint-Maur-des-Fosses : automatisation et installations intelligentes pour votre confort résidentiel.",
+            "trust_signal": "14 ans d'expérience confirmée à Saint-Maur-des-Fosses, électricien fiable et réactif",
+            "why_this_commune": "Luc Gaillard est le partenaire idéal pour Saint-Maur-des-Fosses. Électricien local expérimenté, il connaît parfaitement les spécificités architecturales des quartiers et bâtiments communaux. Sa proximité garantit des interventions rapides et efficaces. Vous bénéficiez d'une expertise reconnue et d'un service fiable adapté à votre territoire.",
+            "generated_at": "2025-11-16T09:01:39.605Z",
+            "used_fallback": false
+          },
+          "0e80944b-b892-408e-a1bf-b4f3d901824e": {
+            "profile_id": "0e80944b-b892-408e-a1bf-b4f3d901824e",
+            "commune_slug": "saint-maur-des-fosses",
+            "bio_localized": "Expert en installation de tableaux électriques à Saint-Maur-des-Fosses depuis 6 ans. Je maîtrise les spécificités des haussmanniens du centre-ville comme des pavillons et immeubles modernes. Interventions fiables et conformes aux normes. Votre satisfaction et votre sécurité électrique sont mes priorités.",
+            "local_badge": "Électricien expert de Saint-Maur-des-Fosses",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Saint-Maur-des-Fosses, intervenant sur tous types de bâtiments.",
+            "trust_signal": "6 ans d'expérience confirmée à Saint-Maur-des-Fosses, électricien fiable et réactif",
+            "why_this_commune": "Eric Mathieu, électricien local à Saint-Maur-des-fosses, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T09:01:52.341Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

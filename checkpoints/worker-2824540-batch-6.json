@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "saint-mesmes",
+  "processedCommunes": [
+    "saint-mars-vieux-maisons",
+    "saint-martin-du-boschet",
+    "saint-martin-en-biere",
+    "saint-mery",
+    "saint-mesmes"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 87
+  },
+  "stats": {
+    "inputTokens": 34224,
+    "outputTokens": 8564,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T08:55:10.591Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "saint-mars-vieux-maisons": {
+        "commune_name": "SAINT-MARS-VIEUX-MAISONS",
+        "postal_code": "77320",
+        "department": "77",
+        "electricians": {
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "saint-mars-vieux-maisons",
+            "bio_localized": "Électricien expérimenté intervenant à Saint-Mars-Vieux-Maisons et ses environs, Michel Bertrand maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble, bénéficiez d'interventions rapides et soignées. Professionnel fiable depuis 5 ans en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Mars-Vieux-Maisons",
+            "service_highlight": "Électricien généraliste intervenant sur tous les types d'installations électriques à Saint-Mars-Vieux-Maisons pour particuliers et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Mars-Vieux-Maisons, électricien fiable et professionnel",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Saint-Mars-Vieux-Maisons. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments de la commune et les quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:55:23.579Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "saint-mars-vieux-maisons",
+            "bio_localized": "Électricien qualifié depuis 9 ans à Saint-Mars-Vieux-Maisons, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Expert en sécurité électrique, j'interviens rapidement en Seine-et-Marne. Devis gratuit et transparent pour vos installations résidentielles.",
+            "local_badge": "Électricien expert de Saint-Mars-Vieux-Maisons",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Mars-Vieux-Maisons pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Mars-Vieux-Maisons, électricien fiable et professionnel",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Saint-Mars-Vieux-Maisons. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:55:36.891Z",
+            "used_fallback": false
+          },
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "saint-mars-vieux-maisons",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Mars-Vieux-Maisons, je maîtrise l'installation et la rénovation électrique pour tous types de bâtiments, des pavillons aux immeubles modernes. Disponible 24h/24, 7j/7, je garantis une intervention rapide et un travail soigné pour vos urgences électriques en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Mars-Vieux-Maisons",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Saint-Mars-Vieux-Maisons",
+            "trust_signal": "16 ans d'expertise électrique à Saint-Mars-Vieux-Maisons, intervention rapide garantie",
+            "why_this_commune": "Daniel Fabre est le choix idéal pour Saint-Mars-Vieux-Maisons. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:55:50.187Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "saint-mars-vieux-maisons",
+            "bio_localized": "Électricien expert à Saint-Mars-Vieux-Maisons, Eric Barbier intervient sur l'installation et la mise aux normes de tableaux électriques. Avec 5 ans d'expérience, il accompagne résidents de pavillons et immeubles de la région Seine-et-Marne. Service fiable et professionnel pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Saint-Mars-Vieux-Maisons",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques à Saint-Mars-Vieux-Maisons pour vos besoins résidentiels et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Mars-Vieux-Maisons, électricien fiable et réactif",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Saint-Mars-Vieux-Maisons. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:02.904Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "saint-mars-vieux-maisons",
+            "bio_localized": "Électricien expérimenté depuis 5 ans à Saint-Mars-Vieux-Maisons, je maîtrise l'installation et la réparation électrique sur tous types de bâtiments : pavillons, immeubles et anciennes demeures. Disponible 24/7 pour vos urgences en Seine-et-Marne, je garantis interventions rapides et travail soigné.",
+            "local_badge": "Électricien expert de Saint-Mars-Vieux-Maisons",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Saint-Mars-Vieux-Maisons",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Mars-Vieux-Maisons, électricien fiable et réactif",
+            "why_this_commune": "Alain Renard est le choix idéal pour Saint-Mars-Vieux-Maisons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:56:16.420Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "saint-mars-vieux-maisons",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Saint-Mars-Vieux-Maisons, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis des installations sécurisées et conformes. Devis gratuit et service rapide pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Mars-Vieux-Maisons",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Mars-Vieux-Maisons pour sécuriser vos installations électriques.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Mars-Vieux-Maisons, électricien fiable et réactif",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Saint-Mars-Vieux-Maisons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:28.923Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-martin-du-boschet": {
+        "commune_name": "SAINT-MARTIN-DU-BOSCHET",
+        "postal_code": "77320",
+        "department": "77",
+        "electricians": {
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "saint-martin-du-boschet",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, Michel Bertrand intervient à Saint-Martin-Du-Boschet et ses alentours en Seine-et-Marne. Spécialisé en électricité générale, il assure l'installation, la maintenance et la rénovation électrique de vos pavillons et habitations. Intervention rapide, travail soigné et devis transparent.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Boschet",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Martin-Du-Boschet pour tous vos travaux d'installation et maintenance électrique.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Martin-Du-Boschet, électricien fiable et réactif",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Saint-Martin-Du-Boschet. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:56:41.961Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "saint-martin-du-boschet",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Saint-Martin-Du-Boschet, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et maisons de la région Seine-et-Marne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Boschet depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous les logements de Saint-Martin-Du-Boschet, garantissant votre sécurité électrique.",
+            "trust_signal": "9 ans d'expertise électrique à Saint-Martin-Du-Boschet, interventions rapides et fiables",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Saint-Martin-Du-Boschet. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:56:55.640Z",
+            "used_fallback": false
+          },
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "saint-martin-du-boschet",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Martin-Du-Boschet, je maîtrise l'installation et la rénovation électrique pour pavillons et immeubles modernes de Seine-et-Marne. Disponible 24h/24 pour vos urgences, je garantis des interventions rapides et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Boschet",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Martin-Du-Boschet pour tous vos dépannages électriques immédiats",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Saint-Martin-Du-Boschet",
+            "why_this_commune": "Daniel Fabre est un excellent choix pour Saint-Martin-Du-Boschet. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:08.546Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "saint-martin-du-boschet",
+            "bio_localized": "Eric Barbier, électricien expert à Saint-Martin-Du-Boschet, intervient sur l'installation et la mise aux normes de tableaux électriques. Spécialisé depuis 5 ans, il accompagne résidents et entreprises de Seine-et-Marne pour sécuriser leurs installations électriques avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Boschet",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques pour les habitations de Saint-Martin-Du-Boschet.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Martin-Du-Boschet, électricien fiable et réactif",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Saint-Martin-Du-Boschet. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:21.522Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "saint-martin-du-boschet",
+            "bio_localized": "Électricien qualifié depuis 10 ans à Saint-Martin-Du-Boschet, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de Seine-et-Marne. Intervention rapide, devis gratuit et travail soigné garantis. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Boschet",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Saint-Martin-Du-Boschet.",
+            "trust_signal": "10 ans d'expérience électricien à Saint-Martin-Du-Boschet, interventions rapides et fiables",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Saint-Martin-Du-Boschet. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:57:34.114Z",
+            "used_fallback": false
+          },
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "saint-martin-du-boschet",
+            "bio_localized": "Électricien expert à Saint-Martin-Du-Boschet, Eric Vincent maîtrise l'installation de tableaux électriques pour tous types de bâtiments. Fort de 10 ans d'expérience en Seine-et-Marne, il intervient sur les pavillons et immeubles locaux avec professionnalisme. Certifié et rigoureux, il garantit des installations conformes et durables, mettant votre satisfaction au cœur de son engagement.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Boschet",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques pour les résidences de Saint-Martin-Du-Boschet.",
+            "trust_signal": "10 ans d'expertise électrique à Saint-Martin-Du-Boschet, interventions rapides et fiables",
+            "why_this_commune": "Eric Vincent est le choix idéal pour Saint-Martin-Du-Boschet. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:57:47.074Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-martin-en-biere": {
+        "commune_name": "SAINT-MARTIN-EN-BIÈRE",
+        "postal_code": "77630",
+        "department": "77",
+        "electricians": {
+          "5f598468-db3b-480c-ace3-5d85b769c50e": {
+            "profile_id": "5f598468-db3b-480c-ace3-5d85b769c50e",
+            "commune_slug": "saint-martin-en-biere",
+            "bio_localized": "Électricien expérimenté depuis 13 ans, Pierre Brunet intervient à Saint-Martin-en-Bière et ses environs en Seine-et-Marne. Spécialiste en électricité générale, il assure l'installation et la maintenance électrique de vos pavillons et habitations avec professionnalisme. Travail soigné et interventions rapides garantis.",
+            "local_badge": "Électricien expert de Saint-Martin-en-Bière",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Martin-en-Bière pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "13 ans d'expérience confirmée à Saint-Martin-en-Bière, électricien fiable et réactif",
+            "why_this_commune": "Pierre Brunet est le choix idéal pour Saint-Martin-en-Bière. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:58:00.079Z",
+            "used_fallback": false
+          },
+          "b9ff647c-50e0-4d09-9253-bcc2a0c5e2b4": {
+            "profile_id": "b9ff647c-50e0-4d09-9253-bcc2a0c5e2b4",
+            "commune_slug": "saint-martin-en-biere",
+            "bio_localized": "Georges Lemaire, électricien expert à Saint-Martin-en-Bière, intervient depuis 14 ans sur l'installation de tableaux électriques. Spécialiste reconnu en Seine-et-Marne, il sécurise les installations des pavillons et résidences locales avec professionnalisme. Qualité de service et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Saint-Martin-en-Bière depuis années",
+            "service_highlight": "Électricien spécialiste en installation et mise aux normes de tableaux électriques à Saint-Martin-en-Bière et ses alentours.",
+            "trust_signal": "14 ans d'expertise électrique confirmée à Saint-Martin-en-Bière, interventions fiables",
+            "why_this_commune": "Georges Lemaire, électricien local à Saint-Martin-en-Bière, maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et adapté aux besoins spécifiques de votre région.",
+            "generated_at": "2025-11-16T08:58:15.529Z",
+            "used_fallback": false
+          },
+          "de17a87b-a95a-4a19-a51e-cdcf8185162f": {
+            "profile_id": "de17a87b-a95a-4a19-a51e-cdcf8185162f",
+            "commune_slug": "saint-martin-en-biere",
+            "bio_localized": "Expert en domotique et automatisation à Saint-Martin-en-Bière, je modernise vos installations électriques avec 7 ans d'expérience. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je propose des solutions domotiques adaptées, fiables et performantes. Votre satisfaction et votre confort sont ma priorité.",
+            "local_badge": "Électricien expert de Saint-Martin-en-Bière",
+            "service_highlight": "Domotique et automatisation électrique pour résidences de Saint-Martin-en-Bière, solutions intelligentes et modernes adaptées à votre habitat.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Martin-en-Bière, électricien fiable et réactif",
+            "why_this_commune": "Jacques Picard est le choix idéal pour Saint-Martin-en-Bière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:28.832Z",
+            "used_fallback": false
+          },
+          "205a540b-35ab-436b-bd43-340fabcd7f87": {
+            "profile_id": "205a540b-35ab-436b-bd43-340fabcd7f87",
+            "commune_slug": "saint-martin-en-biere",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Martin-en-Bière, je maîtrise le dépannage express pour tous types d'habitations : pavillons, immeubles et constructions anciennes. Intervention rapide et fiable en Seine-et-Marne. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert de Saint-Martin-en-Bière depuis années",
+            "service_highlight": "Dépannage électrique express à Saint-Martin-en-Bière : interventions rapides et efficaces pour tous vos problèmes électriques.",
+            "trust_signal": "16 ans d'expertise électrique confirmée à Saint-Martin-en-Bière, intervention rapide garantie",
+            "why_this_commune": "Sébastien Simon est le choix idéal pour Saint-Martin-en-Bière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:58:41.892Z",
+            "used_fallback": false
+          },
+          "4cf56943-694d-4b94-95e8-a87678f0a91c": {
+            "profile_id": "4cf56943-694d-4b94-95e8-a87678f0a91c",
+            "commune_slug": "saint-martin-en-biere",
+            "bio_localized": "Patrick Bernard, électricien agréé Consuel à Saint-Martin-en-Bière, met ses 19 années d'expérience au service des résidents de Seine-et-Marne. Spécialiste en installations électriques professionnelles, il intervient sur les pavillons et immeubles locaux avec expertise et conformité garantie. Votre sécurité électrique est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Martin-en-Bière depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Martin-en-Bière pour vos installations et conformités électriques résidentielles.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable à Saint-Martin-en-Bière",
+            "why_this_commune": "Patrick Bernard, électricien local à Saint-Martin-en-Bière, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:58:54.495Z",
+            "used_fallback": false
+          },
+          "9733a77d-3998-4d45-b214-3967a448b96e": {
+            "profile_id": "9733a77d-3998-4d45-b214-3967a448b96e",
+            "commune_slug": "saint-martin-en-biere",
+            "bio_localized": "Michel Lambert, électricien expérimenté depuis 10 ans, intervient à Saint-Martin-en-Bière et ses environs en Seine-et-Marne. Spécialisé en électricité générale, il maîtrise l'installation et la maintenance pour pavillons et immeubles. Travail soigné, interventions rapides et fiables garantis pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Martin-en-Bière depuis années",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Martin-en-Bière pour tous vos besoins en installations et dépannages électriques résidentiels.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Martin-en-Bière, électricien fiable et réactif",
+            "why_this_commune": "Michel Lambert est le choix idéal pour Saint-Martin-en-Bière. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:07.755Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-mery": {
+        "commune_name": "SAINT-MÉRY",
+        "postal_code": "77720",
+        "department": "77",
+        "electricians": {
+          "a90c4c2c-d687-438e-aebb-6e9d1b14ef1f": {
+            "profile_id": "a90c4c2c-d687-438e-aebb-6e9d1b14ef1f",
+            "commune_slug": "saint-mery",
+            "bio_localized": "Électricien professionnel basé à Saint-Méry, je maîtrise l'éclairage LED depuis 9 ans. Spécialiste des installations modernes, j'interviens sur les pavillons et immeubles de Seine-et-Marne. Efficacité énergétique et durabilité sont mes priorités pour vos projets électriques.",
+            "local_badge": "Électricien expert de Saint-Méry depuis longtemps",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Saint-Méry pour optimiser vos installations lumineuses.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Méry, électricien fiable et professionnel",
+            "why_this_commune": "Alexandre Blanc est le choix idéal pour Saint-Méry. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:59:21.259Z",
+            "used_fallback": false
+          },
+          "2373414f-7b90-4feb-8144-8230d7e7d8e8": {
+            "profile_id": "2373414f-7b90-4feb-8144-8230d7e7d8e8",
+            "commune_slug": "saint-mery",
+            "bio_localized": "Fort de 20 ans d'expérience, Robert Rodriguez intervient à Saint-Méry pour rénover entièrement vos installations électriques. Spécialiste des pavillons et immeubles de Seine-et-Marne, il modernise votre habitat avec professionnalisme et sécurité. Diagnostics complets et travaux de qualité garantis.",
+            "local_badge": "Électricien expert de Saint-Méry depuis années",
+            "service_highlight": "Électricien expert en rénovation électrique à Saint-Méry, je modernise vos installations anciennes avec professionnalisme et fiabilité.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Méry",
+            "why_this_commune": "Robert Rodriguez, électricien basé à Saint-Méry, maîtrise parfaitement les spécificités architecturales locales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et adapté aux besoins des résidents mériens.",
+            "generated_at": "2025-11-16T08:59:34.478Z",
+            "used_fallback": false
+          },
+          "e24e82f2-c2f9-409c-a507-1c5b91ef6333": {
+            "profile_id": "e24e82f2-c2f9-409c-a507-1c5b91ef6333",
+            "commune_slug": "saint-mery",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, je suis spécialisé dans l'installation de bornes de recharge à Saint-Méry. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide sur votre secteur.",
+            "local_badge": "Électricien expert de Saint-Méry depuis longtemps",
+            "service_highlight": "Électricien spécialiste des installations de bornes de recharge pour véhicules électriques à Saint-Méry et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et disponible à Saint-Méry",
+            "why_this_commune": "Julien Philippe est le choix idéal pour Saint-Méry. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:59:46.822Z",
+            "used_fallback": false
+          },
+          "d08f6d48-be1d-4078-a49a-31f49574678d": {
+            "profile_id": "d08f6d48-be1d-4078-a49a-31f49574678d",
+            "commune_slug": "saint-mery",
+            "bio_localized": "Électricien qualifié depuis 14 ans à Saint-Méry, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. En Seine-et-Marne, j'interviens rapidement pour sécuriser vos installations électriques. Devis gratuit et travail garanti.",
+            "local_badge": "Électricien expert de Saint-Méry depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Saint-Méry, garantissant la sécurité de vos installations électriques.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Saint-Méry pour tous vos travaux",
+            "why_this_commune": "Antoine Chevalier est le choix idéal pour Saint-Méry. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:59:59.955Z",
+            "used_fallback": false
+          },
+          "4b7c294a-cbaa-468b-8df9-5b0dbfae443e": {
+            "profile_id": "4b7c294a-cbaa-468b-8df9-5b0dbfae443e",
+            "commune_slug": "saint-mery",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Saint-Méry, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Saint-Méry depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Saint-Méry, intervenant sur résidences et commerces.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et réactif à Saint-Méry",
+            "why_this_commune": "Fabrice Vidal est le choix idéal pour Saint-Méry. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T09:00:13.330Z",
+            "used_fallback": false
+          },
+          "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f": {
+            "profile_id": "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f",
+            "commune_slug": "saint-mery",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Méry, je maîtrise l'installation et la réparation électrique sur tous types de bâtiments, du pavillon à l'immeuble moderne. Disponible 24h/24, 7j/7 pour vos urgences en Seine-et-Marne. Intervention rapide et travail soigné garantis.",
+            "local_badge": "Électricien expert de Saint-Méry depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Saint-Méry pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable à Saint-Méry",
+            "why_this_commune": "Bernard Lucas est le choix idéal pour Saint-Méry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T09:00:26.420Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-mesmes": {
+        "commune_name": "SAINT-MESMES",
+        "postal_code": "77410",
+        "department": "77",
+        "electricians": {
+          "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86": {
+            "profile_id": "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86",
+            "commune_slug": "saint-mesmes",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Saint-Mesmes, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis un travail conforme aux normes. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Saint-Mesmes, intervention rapide",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Saint-Mesmes et ses environs.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Mesmes, électricien fiable et professionnel",
+            "why_this_commune": "Julien Garcia est le choix idéal pour Saint-Mesmes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:38.735Z",
+            "used_fallback": false
+          },
+          "c6819ff8-040a-4097-9a2f-8e77289959f1": {
+            "profile_id": "c6819ff8-040a-4097-9a2f-8e77289959f1",
+            "commune_slug": "saint-mesmes",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Saint-Mesmes, je mets mon expertise de 8 ans au service des pavillons et résidences de Seine-et-Marne. Interventions fiables et conformes aux normes, garantissant votre sécurité électrique. Disponible pour diagnostics et installations complètes.",
+            "local_badge": "Électricien expert de Saint-Mesmes, intervention rapide",
+            "service_highlight": "Électricien expert en installation et rénovation de tableaux électriques à Saint-Mesmes pour tous vos besoins résidentiels et professionnels.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et reconnu à Saint-Mesmes",
+            "why_this_commune": "Georges Leclercq est le choix idéal pour Saint-Mesmes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:00:51.741Z",
+            "used_fallback": false
+          },
+          "445ee13c-2473-43fa-9667-3182e9d9e1ee": {
+            "profile_id": "445ee13c-2473-43fa-9667-3182e9d9e1ee",
+            "commune_slug": "saint-mesmes",
+            "bio_localized": "Fort de 18 ans d'expérience, Robert Leroy intervient à Saint-Mesmes pour la rénovation électrique de vos pavillons et immeubles. Électricien qualifié, il modernise les installations vieillissantes, garantissant sécurité et conformité. Votre expert en électricité en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Mesmes, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Saint-Mesmes, je modernise vos installations anciennes en toute sécurité et conformité.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien de confiance à Saint-Mesmes",
+            "why_this_commune": "Robert Leroy est un excellent choix pour Saint-Mesmes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T09:01:05.033Z",
+            "used_fallback": false
+          },
+          "db6a482a-d497-409c-90ed-5c79d582713d": {
+            "profile_id": "db6a482a-d497-409c-90ed-5c79d582713d",
+            "commune_slug": "saint-mesmes",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Saint-Mesmes, Michel Meyer intervient sur tous types de installations électriques générales. Spécialisé dans la rénovation de pavillons et immeubles en Seine-et-Marne, il garantit des interventions rapides et soignées. Disponible pour diagnostics, dépannages et mises aux normes.",
+            "local_badge": "Électricien expert de Saint-Mesmes, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Mesmes pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "6 ans d'expérience confirmée à Saint-Mesmes, électricien fiable et professionnel",
+            "why_this_commune": "Michel Meyer est un excellent choix pour Saint-Mesmes. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:21.601Z",
+            "used_fallback": false
+          },
+          "37930c85-1e07-4a6a-bec5-6b9ea13dcee7": {
+            "profile_id": "37930c85-1e07-4a6a-bec5-6b9ea13dcee7",
+            "commune_slug": "saint-mesmes",
+            "bio_localized": "Fort de 15 ans d'expérience, Robert Morel intervient à Saint-Mesmes pour la rénovation électrique de vos pavillons et immeubles. Spécialiste des installations modernes et aux normes, il assure sécurité et fiabilité pour tous vos projets résidentiels en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Mesmes, intervention rapide",
+            "service_highlight": "Électricien spécialisé en rénovation électrique à Saint-Mesmes, je modernise les installations anciennes de votre habitation.",
+            "trust_signal": "15 ans d'expérience confirmée à Saint-Mesmes, électricien fiable et réactif",
+            "why_this_commune": "Robert Morel est un excellent choix pour Saint-Mesmes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:34.061Z",
+            "used_fallback": false
+          },
+          "066b3c21-f8c9-44e9-8639-7c7a547de869": {
+            "profile_id": "066b3c21-f8c9-44e9-8639-7c7a547de869",
+            "commune_slug": "saint-mesmes",
+            "bio_localized": "Didier Jean, électricien expert à Saint-Mesmes, intervient depuis 13 ans sur l'installation et la rénovation de tableaux électriques. Spécialiste reconnu en Seine-et-Marne, il sécurise les installations des pavillons et immeubles locaux avec professionnalisme et rigueur. Devis gratuit et service de confiance.",
+            "local_badge": "Électricien expert de Saint-Mesmes depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Saint-Mesmes, garantissant conformité et sécurité pour tous vos projets.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable et reconnu à Saint-Mesmes",
+            "why_this_commune": "Didier Jean est le choix idéal pour Saint-Mesmes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T09:01:46.874Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "lastProcessedCommune": "roissy-en-france",
+  "lastProcessedCommune": "sarcelles",
   "processedCommunes": [
     "argenteuil",
     "cergy",
@@ -145,17 +145,32 @@
     "presles",
     "puiseux-en-france",
     "puiseux-pontoise",
-    "roissy-en-france"
+    "roissy-en-france",
+    "ronquerolles",
+    "sagy",
+    "saint-brice-sous-foret",
+    "saint-clair-sur-epte",
+    "saint-cyr-en-arthies",
+    "saint-gervais",
+    "saint-gratien",
+    "saint-leu-la-foret",
+    "saint-martin-du-tertre",
+    "saint-ouen-l-aumone",
+    "saint-prix",
+    "saint-witz",
+    "sannois",
+    "santeuil",
+    "sarcelles"
   ],
   "processed": {
-    "successful": 870,
+    "successful": 960,
     "errors": 0,
     "total": 184
   },
   "stats": {
-    "inputTokens": 957075,
-    "outputTokens": 243147,
-    "apiCalls": 4350
+    "inputTokens": 1057735,
+    "outputTokens": 268442,
+    "apiCalls": 4800
   },
   "output": {
     "generated_at": "2025-11-16T05:03:23.023Z",
@@ -10742,6 +10757,1101 @@
             "trust_signal": "20 ans d'expérience électricien à Roissy-en-France, interventions garanties",
             "why_this_commune": "Philippe Leclercq est le choix idéal pour Roissy-en-France. Électricien local du Val-d'Oise, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et professionnel.",
             "generated_at": "2025-11-16T08:16:35.324Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ronquerolles": {
+        "commune_name": "RONQUEROLLES",
+        "postal_code": "95340",
+        "department": "95",
+        "electricians": {
+          "17acd3a4-020a-4497-9407-8f7e58c3ce6f": {
+            "profile_id": "17acd3a4-020a-4497-9407-8f7e58c3ce6f",
+            "commune_slug": "ronquerolles",
+            "bio_localized": "Électricien expert à Ronquerolles depuis 20 ans, Eric Arnaud maîtrise l'installation et la mise aux normes de tableaux électriques. Spécialisé dans les pavillons et immeubles du Val-d'Oise, il garantit des installations sécurisées et conformes. Votre confiance, sa priorité.",
+            "local_badge": "Électricien expert de Ronquerolles, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques pour les habitations et commerces de Ronquerolles.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Ronquerolles, interventions rapides garanties",
+            "why_this_commune": "Eric Arnaud est un excellent choix pour Ronquerolles. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:16:48.029Z",
+            "used_fallback": false
+          },
+          "f6f63dfa-7293-4e8d-8a5d-a7c4fe83d79d": {
+            "profile_id": "f6f63dfa-7293-4e8d-8a5d-a7c4fe83d79d",
+            "commune_slug": "ronquerolles",
+            "bio_localized": "Luc Joly, électricien expert en domotique et automatisation à Ronquerolles, intervient sur les pavillons et résidences du Val-d'Oise. Fort de 9 ans d'expérience, il modernise vos installations électriques avec des solutions intelligentes et fiables. Qualité de service et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Ronquerolles, intervention rapide",
+            "service_highlight": "Automatisation et domotique pour maisons intelligentes à Ronquerolles, installations modernes et fiables.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et disponible à Ronquerolles",
+            "why_this_commune": "Luc Joly est le choix idéal pour Ronquerolles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:17:00.837Z",
+            "used_fallback": false
+          },
+          "a7be459e-0693-41fb-9528-b4d1d0c40874": {
+            "profile_id": "a7be459e-0693-41fb-9528-b4d1d0c40874",
+            "commune_slug": "ronquerolles",
+            "bio_localized": "Électricien expérimenté depuis 6 ans, Philippe Joly intervient à Ronquerolles et ses alentours du Val-d'Oise. Spécialisé en électricité générale, il maîtrise les installations des pavillons comme des immeubles modernes. Intervention rapide, travail soigné et devis transparent garantis pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Ronquerolles, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Ronquerolles pour tous vos besoins en installations et dépannages électriques résidentiels et tertiaires.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et reconnu à Ronquerolles",
+            "why_this_commune": "Philippe Joly est le choix idéal pour Ronquerolles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:17:15.190Z",
+            "used_fallback": false
+          },
+          "3b2594e7-d352-4e9c-926c-ed3e3085068a": {
+            "profile_id": "3b2594e7-d352-4e9c-926c-ed3e3085068a",
+            "commune_slug": "ronquerolles",
+            "bio_localized": "Didier Petit, électricien expert à Ronquerolles, intervient depuis 17 ans sur l'installation et la maintenance de tableaux électriques. Spécialiste reconnu en Val-d'Oise, il sécurise les installations des pavillons et immeubles locaux avec professionnalisme et fiabilité. Votre confiance, sa priorité.",
+            "local_badge": "Électricien expert de Ronquerolles, intervention rapide",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les habitations de Ronquerolles.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et professionnel à Ronquerolles",
+            "why_this_commune": "Didier Petit est le choix idéal pour Ronquerolles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:17:28.331Z",
+            "used_fallback": false
+          },
+          "e307c245-e25a-4d21-9886-8b4e6ea3c2f0": {
+            "profile_id": "e307c245-e25a-4d21-9886-8b4e6ea3c2f0",
+            "commune_slug": "ronquerolles",
+            "bio_localized": "Eric Sanchez, électricien expert à Ronquerolles, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 10 ans d'expérience, il sécurise les installations des pavillons et immeubles du Val-d'Oise. Service fiable et client prioritaire.",
+            "local_badge": "Électricien expert de Ronquerolles, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Ronquerolles pour résidences et petits commerces.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et certifié à Ronquerolles",
+            "why_this_commune": "Eric Sanchez est un excellent choix pour Ronquerolles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:17:40.751Z",
+            "used_fallback": false
+          },
+          "ea79b818-7988-4218-ba1e-08924624076d": {
+            "profile_id": "ea79b818-7988-4218-ba1e-08924624076d",
+            "commune_slug": "ronquerolles",
+            "bio_localized": "Fort de 15 ans d'expérience, René Lucas est votre électricien de confiance à Ronquerolles. Spécialiste en rénovation électrique, il intervient sur les pavillons et immeubles du Val-d'Oise avec professionnalisme. Diagnostics complets, mises aux normes et installations fiables pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert de Ronquerolles, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Ronquerolles, je modernise les installations de vos habitations avec professionnalisme et sérieux.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Ronquerolles, interventions rapides garanties",
+            "why_this_commune": "René Lucas est le choix idéal pour Ronquerolles. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service de qualité, fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:17:54.606Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "sagy": {
+        "commune_name": "SAGY",
+        "postal_code": "95450",
+        "department": "95",
+        "electricians": {
+          "2fa0a902-5308-4583-8908-253e1d105521": {
+            "profile_id": "2fa0a902-5308-4583-8908-253e1d105521",
+            "commune_slug": "sagy",
+            "bio_localized": "Patrick Schmitt, électricien agréé Consuel à Sagy, intervient depuis 7 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste des installations électriques professionnelles, il garantit la conformité de vos équipements et la sécurité de votre habitation avec expertise et rigueur.",
+            "local_badge": "Électricien expert de Sagy, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Sagy, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Sagy",
+            "why_this_commune": "Patrick Schmitt est le choix idéal pour Sagy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:18:08.690Z",
+            "used_fallback": false
+          },
+          "405a78cd-5e8e-408c-af68-216a1bfb8b5a": {
+            "profile_id": "405a78cd-5e8e-408c-af68-216a1bfb8b5a",
+            "commune_slug": "sagy",
+            "bio_localized": "Électricien expérimenté intervenant à Sagy et ses environs, je maîtrise les installations électriques des pavillons et immeubles du Val-d'Oise. Disponible 24/7 pour vos urgences, je garantis des interventions rapides et un travail soigné. Dépannage fiable et professionnel.",
+            "local_badge": "Électricien expert de Sagy, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Sagy pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "10 ans d'expérience électricien à Sagy, interventions rapides et fiables",
+            "why_this_commune": "Christian Meyer est un excellent choix pour Sagy. Électricien établi localement en Val-d'Oise, il connaît parfaitement les spécificités des bâtiments sagiens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:18:22.150Z",
+            "used_fallback": false
+          },
+          "a7fe3123-c20f-4b49-9acf-bf83fd0b8628": {
+            "profile_id": "a7fe3123-c20f-4b49-9acf-bf83fd0b8628",
+            "commune_slug": "sagy",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Sagy, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Sagy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Sagy pour sécuriser vos installations électriques",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable et professionnel à Sagy",
+            "why_this_commune": "Thierry Schmitt est le choix idéal pour Sagy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:18:34.443Z",
+            "used_fallback": false
+          },
+          "a2dbe41e-167f-4230-879a-d7f2724235fc": {
+            "profile_id": "a2dbe41e-167f-4230-879a-d7f2724235fc",
+            "commune_slug": "sagy",
+            "bio_localized": "Électricien expérimenté à Sagy depuis 9 ans, René François maîtrise la rénovation électrique des pavillons et immeubles du Val-d'Oise. Spécialiste des mises aux normes et modernisations, il intervient sur tous types de bâtiments. Professionnel fiable et qualifié pour vos projets électriques.",
+            "local_badge": "Électricien expert de Sagy, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Sagy, je modernise les installations anciennes de votre habitation avec professionnalisme et efficacité.",
+            "trust_signal": "9 ans d'expérience électricien confirmé à Sagy, interventions rapides et fiables",
+            "why_this_commune": "René François est le choix idéal pour Sagy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:18:47.667Z",
+            "used_fallback": false
+          },
+          "53045362-4462-4f5b-aafb-27fabbab1022": {
+            "profile_id": "53045362-4462-4f5b-aafb-27fabbab1022",
+            "commune_slug": "sagy",
+            "bio_localized": "Électricien expérimenté depuis 18 ans, Stéphane Fabre intervient à Sagy pour la rénovation électrique de vos pavillons et immeubles. Spécialiste des installations aux normes actuelles, il garantit sécurité et conformité pour tous vos projets résidentiels en Val-d'Oise.",
+            "local_badge": "Électricien expert de Sagy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en rénovation électrique à Sagy, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "18 ans d'expérience, électricien fiable et qualifié à Sagy",
+            "why_this_commune": "Stéphane Fabre est le choix idéal pour Sagy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:19:00.931Z",
+            "used_fallback": false
+          },
+          "6e2969a6-e86c-48a6-9fbb-516047ec1a7c": {
+            "profile_id": "6e2969a6-e86c-48a6-9fbb-516047ec1a7c",
+            "commune_slug": "sagy",
+            "bio_localized": "Électricien qualifié depuis 7 ans, je propose une expertise complète en installation de bornes de recharge à Sagy et ses alentours. Spécialisé dans l'adaptation aux pavillons et résidences du Val-d'Oise, je garantis des interventions fiables et rapides. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Sagy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Sagy et ses environs.",
+            "trust_signal": "7 ans d'expérience, électricien fiable et réactif à Sagy pour tous vos besoins",
+            "why_this_commune": "Guillaume Picard est un excellent choix pour Sagy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:19:14.772Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-brice-sous-foret": {
+        "commune_name": "SAINT-BRICE-SOUS-FORET",
+        "postal_code": "95350",
+        "department": "95",
+        "electricians": {
+          "ef75a734-67de-45f0-9588-f916f1f99f63": {
+            "profile_id": "ef75a734-67de-45f0-9588-f916f1f99f63",
+            "commune_slug": "saint-brice-sous-foret",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Saint-Brice-sous-Forêt, Bernard Girard intervient 24h/24 sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible en urgence, il garantit des interventions rapides et un travail de qualité pour tous vos problèmes électriques.",
+            "local_badge": "Électricien expert de Saint-Brice-sous-Foret depuis années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Brice-sous-Foret pour tous vos dépannages électriques immédiats.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien de confiance à Saint-Brice-sous-Foret",
+            "why_this_commune": "Bernard Girard est un excellent choix pour Saint-Brice-sous-Forêt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:19:28.408Z",
+            "used_fallback": false
+          },
+          "500c98ea-d65d-44dd-97ea-750dfe20cea2": {
+            "profile_id": "500c98ea-d65d-44dd-97ea-750dfe20cea2",
+            "commune_slug": "saint-brice-sous-foret",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Saint-Brice-sous-Forêt, je maîtrise les spécificités des pavillons et immeubles du Val-d'Oise. Avec 16 ans d'expérience, je garantis des installations conformes et sécurisées. Votre satisfaction et la qualité de mon travail sont mes priorités absolues.",
+            "local_badge": "Électricien expert de Saint-Brice-sous-Foret depuis années",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Saint-Brice-sous-Foret pour vos besoins résidentiels et professionnels.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Saint-Brice-sous-Foret",
+            "why_this_commune": "Dominique Fernandez est le choix idéal pour Saint-Brice-sous-Foret. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:19:41.364Z",
+            "used_fallback": false
+          },
+          "fe221fe1-3f5e-4dc2-bfbb-0fa0f4c2a5a8": {
+            "profile_id": "fe221fe1-3f5e-4dc2-bfbb-0fa0f4c2a5a8",
+            "commune_slug": "saint-brice-sous-foret",
+            "bio_localized": "Électricien expérimenté à Saint-Brice-sous-Forêt, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-d'Oise. Fort de 7 ans d'expertise, j'assure la sécurité électrique de votre habitation avec professionnalisme. Devis gratuit et interventions rapides garantis.",
+            "local_badge": "Électricien expert de Saint-Brice-sous-Forêt depuis années",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Brice-sous-Foret pour sécuriser vos installations électriques.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Brice-sous-Foret, électricien fiable et réactif",
+            "why_this_commune": "Denis Vincent, électricien local à Saint-Brice-sous-Foret, connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T08:19:54.637Z",
+            "used_fallback": false
+          },
+          "5a0eeba3-418a-48de-99b8-aaf9df3bd89c": {
+            "profile_id": "5a0eeba3-418a-48de-99b8-aaf9df3bd89c",
+            "commune_slug": "saint-brice-sous-foret",
+            "bio_localized": "Électricien qualifié depuis 8 ans, je suis spécialisé dans l'installation de bornes de recharge à Saint-Brice-sous-Forêt. Que vous habitiez un pavillon ou un immeuble moderne en Val-d'Oise, je vous propose des solutions adaptées et sécurisées. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert de Saint-Brice-sous-Foret",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Saint-Brice-sous-Foret.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable à Saint-Brice-sous-Foret",
+            "why_this_commune": "Jérôme Bonnet est le choix idéal pour Saint-Brice-sous-Foret. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:20:07.756Z",
+            "used_fallback": false
+          },
+          "5838c855-d329-47ae-8b1f-8cfefbcdf8ef": {
+            "profile_id": "5838c855-d329-47ae-8b1f-8cfefbcdf8ef",
+            "commune_slug": "saint-brice-sous-foret",
+            "bio_localized": "Électricien expérimenté depuis 7 ans, Robert Garnier intervient à Saint-Brice-sous-Forêt pour la rénovation électrique de vos pavillons et immeubles. Spécialiste des installations modernes et aux normes, il garantit sécurité et fiabilité pour votre habitat du Val-d'Oise.",
+            "local_badge": "Électricien expert de Saint-Brice-sous-Foret",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Saint-Brice-sous-Foret pour moderniser vos installations anciennes en toute sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Brice-sous-Foret, électricien fiable et réactif",
+            "why_this_commune": "Robert Garnier est un excellent choix pour Saint-Brice-sous-Forêt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:20:20.994Z",
+            "used_fallback": false
+          },
+          "ca792f2e-5e90-4ea9-95d0-34401a3ae2e2": {
+            "profile_id": "ca792f2e-5e90-4ea9-95d0-34401a3ae2e2",
+            "commune_slug": "saint-brice-sous-foret",
+            "bio_localized": "Dominique Legrand, électricien expert à Saint-Brice-sous-Forêt, intervient sur l'installation et la rénovation de tableaux électriques. Avec 13 ans d'expérience, il maîtrise les spécificités des pavillons et immeubles du Val-d'Oise. Professionnel certifié, il garantit des installations sécurisées et conformes aux normes en vigueur.",
+            "local_badge": "Électricien expert de Saint-Brice-sous-Foret depuis années",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour maisons et immeubles à Saint-Brice-sous-Foret.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Saint-Brice-sous-Foret",
+            "why_this_commune": "Dominique Legrand est le choix idéal pour Saint-Brice-sous-Forêt. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service professionnel et fiable.",
+            "generated_at": "2025-11-16T08:20:33.354Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-clair-sur-epte": {
+        "commune_name": "SAINT-CLAIR-SUR-EPTE",
+        "postal_code": "95770",
+        "department": "95",
+        "electricians": {
+          "46f75190-b1e6-435e-a34e-26f959cdfb89": {
+            "profile_id": "46f75190-b1e6-435e-a34e-26f959cdfb89",
+            "commune_slug": "saint-clair-sur-epte",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Saint-Clair-sur-Epte, je maîtrise le dépannage express pour tous les types d'habitations : pavillons, immeubles et bâtiments anciens. Mon intervention rapide et fiable sécurise votre installation électrique. Disponible en urgence dans le Val-d'Oise.",
+            "local_badge": "Électricien expert de Saint-Clair-sur-Epte depuis années",
+            "service_highlight": "Dépannage électrique express 24h/24 pour tous les habitants de Saint-Clair-sur-Epte et ses environs",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable à Saint-Clair-sur-Epte",
+            "why_this_commune": "Rémi Duval est le choix idéal pour Saint-Clair-sur-Epte. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T08:20:46.139Z",
+            "used_fallback": false
+          },
+          "713f0ed4-731a-42e3-b53a-87ae2ed6d728": {
+            "profile_id": "713f0ed4-731a-42e3-b53a-87ae2ed6d728",
+            "commune_slug": "saint-clair-sur-epte",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Clair-sur-Epte, André Renaud intervient sur tous types d'installations électriques. Du pavillon à l'immeuble collectif, il assure maintenance, rénovation et dépannage avec professionnalisme. Expertise reconnue en électricité générale pour résidents du Val-d'Oise.",
+            "local_badge": "Électricien expert de Saint-Clair-sur-Epte",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Clair-sur-Epte pour tous vos besoins en installations et dépannages électriques résidentiels.",
+            "trust_signal": "17 ans d'expérience électricien à Saint-Clair-sur-Epte, interventions rapides et fiables",
+            "why_this_commune": "André Renaud est le choix idéal pour Saint-Clair-sur-Epte. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:21:00.681Z",
+            "used_fallback": false
+          },
+          "74ae36ef-6386-4890-a1c4-496482d229a9": {
+            "profile_id": "74ae36ef-6386-4890-a1c4-496482d229a9",
+            "commune_slug": "saint-clair-sur-epte",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Saint-Clair-sur-Epte, je maîtrise l'installation et la réparation électrique pour tous types d'habitations, des pavillons aux immeubles modernes. Disponible 24h/24 pour vos urgences, je garantis une intervention rapide et un travail soigné dans le Val-d'Oise.",
+            "local_badge": "Électricien expert de Saint-Clair-sur-Epte",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Clair-sur-Epte pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Clair-sur-Epte, électricien fiable et réactif",
+            "why_this_commune": "Alain Giraud est le choix idéal pour Saint-Clair-sur-Epte. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:21:14.050Z",
+            "used_fallback": false
+          },
+          "7eb220a5-1901-4848-9238-c4c17adce932": {
+            "profile_id": "7eb220a5-1901-4848-9238-c4c17adce932",
+            "commune_slug": "saint-clair-sur-epte",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Saint-Clair-sur-Epte, Bernard Boyer intervient 24/7 sur tous types de bâtiments : pavillons, immeubles et constructions modernes du Val-d'Oise. Spécialiste des urgences électriques, il garantit des interventions rapides et un travail soigné pour sécuriser votre installation.",
+            "local_badge": "Électricien expert de Saint-Clair-sur-Epte",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Clair-sur-Epte pour tous vos dépannages électriques rapides et fiables.",
+            "trust_signal": "15 ans d'expérience confirmée à Saint-Clair-sur-Epte, électricien fiable et réactif",
+            "why_this_commune": "Bernard Boyer est un excellent choix pour Saint-Clair-sur-Epte. Électricien local du Val-d'Oise, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:21:26.764Z",
+            "used_fallback": false
+          },
+          "9c8b265a-9a7e-44f0-918b-90438256179b": {
+            "profile_id": "9c8b265a-9a7e-44f0-918b-90438256179b",
+            "commune_slug": "saint-clair-sur-epte",
+            "bio_localized": "Nicolas Dupont intervient à Saint-Clair-sur-Epte et ses environs du Val-d'Oise. Fort de 6 ans d'expérience, cet électricien agréé Consuel sécurise les installations des pavillons et bâtiments locaux. Spécialiste en conformité électrique, il garantit vos travaux aux normes actuelles avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Saint-Clair-sur-Epte",
+            "service_highlight": "Électricien agréé Consuel à Saint-Clair-sur-Epte, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "6 ans d'expérience confirmée à Saint-Clair-sur-Epte, électricien fiable et réactif",
+            "why_this_commune": "Nicolas Dupont est le choix idéal pour Saint-Clair-sur-Epte. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:21:39.399Z",
+            "used_fallback": false
+          },
+          "472838c5-b71f-4183-9be0-41173ca45657": {
+            "profile_id": "472838c5-b71f-4183-9be0-41173ca45657",
+            "commune_slug": "saint-clair-sur-epte",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, je propose un dépannage express à Saint-Clair-sur-Epte et ses environs. Spécialisé dans l'intervention rapide sur pavillons et petits immeubles, je garantis des solutions fiables pour tous vos problèmes électriques. Disponible et réactif, votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Clair-sur-Epte",
+            "service_highlight": "Dépannage électrique rapide et fiable à Saint-Clair-sur-Epte, intervention d'urgence 24h/24 pour tous vos problèmes électriques.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Saint-Clair-sur-Epte",
+            "why_this_commune": "Thomas Jean est un excellent choix pour Saint-Clair-sur-Epte. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:21:52.487Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-cyr-en-arthies": {
+        "commune_name": "SAINT-CYR-EN-ARTHIES",
+        "postal_code": "95510",
+        "department": "95",
+        "electricians": {
+          "509b75bc-43f7-4dd5-9a3a-3329100dfe87": {
+            "profile_id": "509b75bc-43f7-4dd5-9a3a-3329100dfe87",
+            "commune_slug": "saint-cyr-en-arthies",
+            "bio_localized": "Électricien expérimenté depuis 18 ans, Pierre Leroy intervient à Saint-Cyr-en-Arthies pour tous vos besoins en électricité générale. Spécialisé dans la maintenance et l'installation sur pavillons et immeubles du Val-d'Oise, il garantit des interventions rapides et un travail soigné. Votre électricien de confiance local.",
+            "local_badge": "Électricien expert de Saint-Cyr-en-Arthies depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Saint-Cyr-en-Arthies pour particuliers et professionnels.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Saint-Cyr-en-Arthies, interventions rapides garanties",
+            "why_this_commune": "Pierre Leroy est un excellent choix pour Saint-Cyr-en-Arthies. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:22:05.528Z",
+            "used_fallback": false
+          },
+          "6c4a1f87-c434-4ca8-8e05-3a6a821f2703": {
+            "profile_id": "6c4a1f87-c434-4ca8-8e05-3a6a821f2703",
+            "commune_slug": "saint-cyr-en-arthies",
+            "bio_localized": "Dominique Meyer, électricien expert à Saint-Cyr-en-Arthies, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 8 ans d'expérience, il sécurise les installations des pavillons et immeubles du Val-d'Oise. Service fiable et satisfaction client garantis.",
+            "local_badge": "Électricien expert de Saint-Cyr-en-Arthies depuis longtemps",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Saint-Cyr-en-Arthies.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable à Saint-Cyr-en-Arthies",
+            "why_this_commune": "Dominique Meyer est le choix idéal pour Saint-Cyr-en-Arthies. Électricien local, il connaît parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:22:19.690Z",
+            "used_fallback": false
+          },
+          "e52bfe79-8d3e-4312-8328-70bc08a07d44": {
+            "profile_id": "e52bfe79-8d3e-4312-8328-70bc08a07d44",
+            "commune_slug": "saint-cyr-en-arthies",
+            "bio_localized": "Électricien qualifié depuis 11 ans à Saint-Cyr-en-Arthies, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Intervention rapide et devis gratuit. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert de Saint-Cyr-en-Arthies",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Cyr-en-Arthies pour sécuriser vos installations électriques.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Saint-Cyr-en-Arthies",
+            "why_this_commune": "Denis Dubois est le choix idéal pour Saint-Cyr-en-Arthies. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:22:32.204Z",
+            "used_fallback": false
+          },
+          "3b8affeb-3f31-438a-b4f2-092cd02236b2": {
+            "profile_id": "3b8affeb-3f31-438a-b4f2-092cd02236b2",
+            "commune_slug": "saint-cyr-en-arthies",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Saint-Cyr-en-Arthies, je spécialise dans l'éclairage LED professionnel pour pavillons et immeubles du Val-d'Oise. Interventions rapides et fiables pour vos besoins électriques. Qualité garantie et devis gratuit.",
+            "local_badge": "Électricien expert de Saint-Cyr-en-Arthies depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises de Saint-Cyr-en-Arthies",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Saint-Cyr-en-Arthies",
+            "why_this_commune": "Emmanuel Noel est le choix idéal pour Saint-Cyr-en-Arthies. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:22:44.445Z",
+            "used_fallback": false
+          },
+          "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f": {
+            "profile_id": "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f",
+            "commune_slug": "saint-cyr-en-arthies",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Saint-Cyr-en-Arthies, je maîtrise l'installation et la maintenance électrique pour pavillons et immeubles du Val-d'Oise. Disponible 24/7 pour vos urgences, je garantis des interventions rapides et soignées. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Cyr-en-Arthies depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Cyr-en-Arthies pour tous vos dépannages électriques immédiats.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Cyr-en-Arthies, électricien fiable et réactif",
+            "why_this_commune": "Christian Nguyen est le choix idéal pour Saint-Cyr-en-Arthies. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:22:57.174Z",
+            "used_fallback": false
+          },
+          "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8": {
+            "profile_id": "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8",
+            "commune_slug": "saint-cyr-en-arthies",
+            "bio_localized": "François Dumas, électricien expert à Saint-Cyr-en-Arthies, intervient sur l'installation de tableaux électriques depuis 6 ans. Spécialiste reconnu en Val-d'Oise, il sécurise les installations des pavillons et immeubles locaux avec professionnalisme. Qualité de service et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Saint-Cyr-en-Arthies, intervention rapide",
+            "service_highlight": "Spécialiste de l'installation et de la rénovation de tableaux électriques à Saint-Cyr-en-Arthies pour tous types de bâtiments.",
+            "trust_signal": "6 ans d'expérience confirmée à Saint-Cyr-en-Arthies, électricien fiable et réactif",
+            "why_this_commune": "François Dumas, électricien local à Saint-Cyr-en-Arthies, maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:23:10.445Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-gervais": {
+        "commune_name": "SAINT-GERVAIS",
+        "postal_code": "95420",
+        "department": "95",
+        "electricians": {
+          "713f0ed4-731a-42e3-b53a-87ae2ed6d728": {
+            "profile_id": "713f0ed4-731a-42e3-b53a-87ae2ed6d728",
+            "commune_slug": "saint-gervais",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, André Renaud intervient à Saint-Gervais pour tous vos besoins en électricité générale. Spécialiste des installations résidentielles, il maîtrise les pavillons comme les immeubles modernes du Val-d'Oise. Intervention rapide et travail soigné garantis pour votre sécurité.",
+            "local_badge": "Électricien expert de Saint-Gervais, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Gervais pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et commercial.",
+            "trust_signal": "17 ans d'expérience confirmée à Saint-Gervais, électricien fiable et professionnel",
+            "why_this_commune": "André Renaud est le choix idéal pour Saint-Gervais. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-d'Oise en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:23:23.911Z",
+            "used_fallback": false
+          },
+          "74ae36ef-6386-4890-a1c4-496482d229a9": {
+            "profile_id": "74ae36ef-6386-4890-a1c4-496482d229a9",
+            "commune_slug": "saint-gervais",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Saint-Gervais, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments, des pavillons aux immeubles modernes du Val-d'Oise. Réactivité garantie, travail soigné et sécurisé pour vos installations électriques.",
+            "local_badge": "Électricien expert de Saint-Gervais, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Gervais pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Gervais, électricien fiable et professionnel",
+            "why_this_commune": "Alain Giraud est le choix idéal pour Saint-Gervais. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:23:36.357Z",
+            "used_fallback": false
+          },
+          "7eb220a5-1901-4848-9238-c4c17adce932": {
+            "profile_id": "7eb220a5-1901-4848-9238-c4c17adce932",
+            "commune_slug": "saint-gervais",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Saint-Gervais, Bernard Boyer intervient en urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Diagnostic rapide, travail soigné et solutions durables garantis pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Saint-Gervais, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Gervais pour tous vos dépannages et interventions électriques immédiates.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Saint-Gervais, interventions rapides garanties",
+            "why_this_commune": "Bernard Boyer, électricien basé à Saint-Gervais, connaît parfaitement les spécificités locales et l'architecture du Val-d'Oise. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:23:49.283Z",
+            "used_fallback": false
+          },
+          "9c8b265a-9a7e-44f0-918b-90438256179b": {
+            "profile_id": "9c8b265a-9a7e-44f0-918b-90438256179b",
+            "commune_slug": "saint-gervais",
+            "bio_localized": "Nicolas Dupont, électricien agréé Consuel à Saint-Gervais, intervient sur les pavillons et immeubles du Val-d'Oise. Fort de 6 ans d'expérience, il garantit la conformité électrique de vos installations résidentielles. Diagnostic, mise aux normes et dépannage : votre sécurité est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Gervais, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Saint-Gervais, garantissant la conformité de vos installations électriques avec expertise et professionnalisme.",
+            "trust_signal": "6 ans d'expérience confirmée à Saint-Gervais, électricien fiable et réactif",
+            "why_this_commune": "Nicolas Dupont est le choix idéal pour Saint-Gervais. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:24:02.245Z",
+            "used_fallback": false
+          },
+          "472838c5-b71f-4183-9be0-41173ca45657": {
+            "profile_id": "472838c5-b71f-4183-9be0-41173ca45657",
+            "commune_slug": "saint-gervais",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Gervais, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles et constructions modernes du Val-d'Oise. Interventions rapides et fiables pour résoudre vos problèmes électriques. Votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert de Saint-Gervais depuis années",
+            "service_highlight": "Dépannage électrique express à Saint-Gervais : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Gervais, électricien fiable et professionnel",
+            "why_this_commune": "Thomas Jean, électricien local à Saint-Gervais, maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans le Val-d'Oise, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T08:24:16.236Z",
+            "used_fallback": false
+          },
+          "46f75190-b1e6-435e-a34e-26f959cdfb89": {
+            "profile_id": "46f75190-b1e6-435e-a34e-26f959cdfb89",
+            "commune_slug": "saint-gervais",
+            "bio_localized": "Électricien depuis 18 ans à Saint-Gervais, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Disponible rapidement pour vos urgences électriques en Val-d'Oise, je garantis des interventions fiables et professionnelles.",
+            "local_badge": "Électricien expert de Saint-Gervais, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Saint-Gervais : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "18 ans d'expérience confirmée à Saint-Gervais, électricien fiable et professionnel",
+            "why_this_commune": "Rémi Duval est le choix idéal pour Saint-Gervais. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:24:29.266Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-gratien": {
+        "commune_name": "SAINT-GRATIEN",
+        "postal_code": "95210",
+        "department": "95",
+        "electricians": {
+          "ba09c410-389d-48d4-be1f-b9ef6f50fe4b": {
+            "profile_id": "ba09c410-389d-48d4-be1f-b9ef6f50fe4b",
+            "commune_slug": "saint-gratien",
+            "bio_localized": "Électricien professionnel basé à Saint-Gratien, je maîtrise l'éclairage LED depuis 10 ans. Spécialiste des installations modernes, j'interviens sur les pavillons et immeubles du Val-d'Oise. Mes solutions d'éclairage professionnel allient efficacité énergétique et esthétique. Disponible pour tous vos projets électriques en région parisienne.",
+            "local_badge": "Électricien expert de Saint-Gratien depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Saint-Gratien, optimisant votre consommation énergétique.",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Saint-Gratien, interventions rapides et fiables",
+            "why_this_commune": "Florian Dupuis est le choix idéal pour Saint-Gratien. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:24:42.011Z",
+            "used_fallback": false
+          },
+          "c11a3ffe-933b-4483-aabc-a8e529bd863b": {
+            "profile_id": "c11a3ffe-933b-4483-aabc-a8e529bd863b",
+            "commune_slug": "saint-gratien",
+            "bio_localized": "Fort de 16 années d'expérience, René Denis intervient à Saint-Gratien pour rénover l'électricité de vos haussmanniens, pavillons et immeubles modernes. Spécialiste reconnu de la rénovation électrique, il garantit des installations sécurisées et conformes aux normes actuelles pour tous vos projets résidentiels.",
+            "local_badge": "Électricien expert de Saint-Gratien depuis longtemps",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Saint-Gratien, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Saint-Gratien",
+            "why_this_commune": "René Denis est le choix idéal pour Saint-Gratien. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:24:54.425Z",
+            "used_fallback": false
+          },
+          "3ea32408-15bd-40e6-9589-d1aa1d996775": {
+            "profile_id": "3ea32408-15bd-40e6-9589-d1aa1d996775",
+            "commune_slug": "saint-gratien",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Saint-Gratien, je maîtrise l'électricité générale pour tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Interventions rapides et soignées dans le Val-d'Oise. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Gratien, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Gratien pour tous vos besoins en installations et rénovations électriques résidentielles et professionnelles.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable à Saint-Gratien",
+            "why_this_commune": "Philippe Bonnet est le choix idéal pour Saint-Gratien. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:25:08.491Z",
+            "used_fallback": false
+          },
+          "500c98ea-d65d-44dd-97ea-750dfe20cea2": {
+            "profile_id": "500c98ea-d65d-44dd-97ea-750dfe20cea2",
+            "commune_slug": "saint-gratien",
+            "bio_localized": "Dominique Fernandez, électricien expert à Saint-Gratien, intervient sur l'installation de tableaux électriques dans les pavillons et immeubles du Val-d'Oise. Fort de 16 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert de Saint-Gratien depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Saint-Gratien pour résidences et petits collectifs.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Gratien, électricien de confiance",
+            "why_this_commune": "Dominique Fernandez est le choix idéal pour Saint-Gratien. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:25:21.281Z",
+            "used_fallback": false
+          },
+          "b8ce52cb-c72e-4009-91df-a2eca7858b77": {
+            "profile_id": "b8ce52cb-c72e-4009-91df-a2eca7858b77",
+            "commune_slug": "saint-gratien",
+            "bio_localized": "Électricien professionnel depuis 19 ans à Saint-Gratien, je maîtrise le dépannage express pour tous types de bâtiments : pavillons, immeubles haussmanniens et constructions modernes du Val-d'Oise. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et sécurisées.",
+            "local_badge": "Électricien expert de Saint-Gratien depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saint-Gratien : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "19 ans d'expérience, électricien de confiance à Saint-Gratien",
+            "why_this_commune": "Sébastien Fournier est le choix idéal pour Saint-Gratien. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:25:33.722Z",
+            "used_fallback": false
+          },
+          "5caaf95f-241a-435d-af2e-4676ce70ef5e": {
+            "profile_id": "5caaf95f-241a-435d-af2e-4676ce70ef5e",
+            "commune_slug": "saint-gratien",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Saint-Gratien, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Disponible immédiatement pour vos problèmes électriques, je garantis un diagnostic rapide et un travail soigné en Val-d'Oise.",
+            "local_badge": "Électricien expert de Saint-Gratien depuis années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Gratien pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et reconnu à Saint-Gratien",
+            "why_this_commune": "Daniel Brunet est le choix idéal pour Saint-Gratien. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:25:47.196Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-leu-la-foret": {
+        "commune_name": "SAINT-LEU-LA-FORET",
+        "postal_code": "95320",
+        "department": "95",
+        "electricians": {
+          "1a44d294-081e-4c4b-8b23-96b3345d88f7": {
+            "profile_id": "1a44d294-081e-4c4b-8b23-96b3345d88f7",
+            "commune_slug": "saint-leu-la-foret",
+            "bio_localized": "Benjamin Meunier, électricien expert en éclairage LED professionnel à Saint-Leu-la-Forêt. Fort de 6 ans d'expérience, j'interviens sur les pavillons et immeubles du Val-d'Oise. Spécialiste en solutions d'éclairage innovantes, je garantis des installations fiables et économes pour vos besoins résidentiels et commerciaux.",
+            "local_badge": "Électricien expert de Saint-Leu-la-Foret depuis années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Saint-Leu-la-Forêt.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Saint-Leu-la-Forêt",
+            "why_this_commune": "Benjamin Meunier est un excellent choix pour Saint-Leu-la-Foret. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:26:00.391Z",
+            "used_fallback": false
+          },
+          "62a0d5ca-d997-431e-b62b-003493092786": {
+            "profile_id": "62a0d5ca-d997-431e-b62b-003493092786",
+            "commune_slug": "saint-leu-la-foret",
+            "bio_localized": "Patrick Renard, électricien agréé Consuel à Saint-Leu-la-Forêt, intervient depuis 5 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste des installations électriques professionnelles, il garantit la conformité et la sécurité de vos équipements. Expertise reconnue pour tous vos travaux d'électricité.",
+            "local_badge": "Électricien expert de Saint-Leu-la-Forêt depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Leu-la-Forêt, je garantis vos installations conformes aux normes électriques en vigueur.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Leu-la-Forêt, électricien fiable et réactif",
+            "why_this_commune": "Patrick Renard est le choix idéal pour Saint-Leu-la-Foret. Basé localement, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Son expérience confirmée dans le Val-d'Oise garantit des interventions rapides et efficaces, adaptées aux besoins résidentiels locaux.",
+            "generated_at": "2025-11-16T08:26:13.719Z",
+            "used_fallback": false
+          },
+          "35927eaf-999f-40db-bf73-e23ae8a103d5": {
+            "profile_id": "35927eaf-999f-40db-bf73-e23ae8a103d5",
+            "commune_slug": "saint-leu-la-foret",
+            "bio_localized": "Jacques Brunet, électricien expert en domotique et automatisation à Saint-Leu-la-Forêt. Depuis 7 ans, il modernise les installations des pavillons et immeubles du Val-d'Oise. Spécialisé en systèmes intelligents, il garantit confort, sécurité et efficacité énergétique pour chaque projet.",
+            "local_badge": "Électricien expert de Saint-Leu-la-Forêt depuis années",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les habitations de Saint-Leu-la-Forêt.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Leu-la-Forêt, électricien fiable et réactif",
+            "why_this_commune": "Jacques Brunet est le choix idéal pour Saint-Leu-la-Foret. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:26:27.058Z",
+            "used_fallback": false
+          },
+          "3ea32408-15bd-40e6-9589-d1aa1d996775": {
+            "profile_id": "3ea32408-15bd-40e6-9589-d1aa1d996775",
+            "commune_slug": "saint-leu-la-foret",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Saint-Leu-la-Forêt, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles et constructions modernes du Val-d'Oise. Interventions rapides et travail soigné, je garantis votre sécurité électrique avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Saint-Leu-la-Forêt depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Saint-Leu-la-Foret pour particuliers et professionnels.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien de confiance à Saint-Leu-la-Forêt",
+            "why_this_commune": "Philippe Bonnet est un excellent choix pour Saint-Leu-la-Foret. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:26:40.164Z",
+            "used_fallback": false
+          },
+          "c0d79947-ae97-4f41-ae59-793288491681": {
+            "profile_id": "c0d79947-ae97-4f41-ae59-793288491681",
+            "commune_slug": "saint-leu-la-foret",
+            "bio_localized": "Patrick Moreau, électricien agréé Consuel à Saint-Leu-la-Forêt, met à profit 11 années d'expertise pour sécuriser vos installations. Spécialiste des pavillons et immeubles du Val-d'Oise, il garantit la conformité électrique de votre habitat avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert à Saint-Leu-la-Forêt depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Leu-la-Forêt, garantissant conformité et sécurité de vos installations électriques résidentielles et tertiaires.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Saint-Leu-la-Forêt",
+            "why_this_commune": "Patrick Moreau est le choix idéal pour Saint-Leu-la-Foret. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:26:53.241Z",
+            "used_fallback": false
+          },
+          "b624fb33-5230-4001-a135-e9d92af12e6b": {
+            "profile_id": "b624fb33-5230-4001-a135-e9d92af12e6b",
+            "commune_slug": "saint-leu-la-foret",
+            "bio_localized": "Pascal François, électricien agréé Consuel à Saint-Leu-la-Forêt, intervient sur l'ensemble du Val-d'Oise. Fort de 5 années d'expérience, il maîtrise l'électricité des pavillons comme des immeubles collectifs. Ses interventions garantissent conformité et sécurité électrique pour tous vos travaux.",
+            "local_badge": "Électricien expert de Saint-Leu-la-Forêt depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Leu-la-Forêt, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Saint-Leu-la-Forêt",
+            "why_this_commune": "Pascal François est un excellent choix pour Saint-Leu-la-Foret. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:27:07.663Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-martin-du-tertre": {
+        "commune_name": "SAINT-MARTIN-DU-TERTRE",
+        "postal_code": "95270",
+        "department": "95",
+        "electricians": {
+          "4777ca18-000b-4dc8-a6f6-c67f106c2d7f": {
+            "profile_id": "4777ca18-000b-4dc8-a6f6-c67f106c2d7f",
+            "commune_slug": "saint-martin-du-tertre",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Saint-Martin-Du-Tertre, je maîtrise les spécificités des pavillons et constructions du Val-d'Oise. Fort de 7 ans d'expérience, j'interviens avec professionnalisme et rigueur pour garantir votre sécurité électrique et votre tranquillité d'esprit.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Tertre depuis longtemps",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques pour les résidences de Saint-Martin-Du-Tertre, garantissant conformité et sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable à Saint-Martin-Du-Tertre",
+            "why_this_commune": "Eric Duval est le choix idéal pour Saint-Martin-Du-Tertre. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:27:21.569Z",
+            "used_fallback": false
+          },
+          "1563cbc9-e1a1-400b-8e46-2824d0bfcfc8": {
+            "profile_id": "1563cbc9-e1a1-400b-8e46-2824d0bfcfc8",
+            "commune_slug": "saint-martin-du-tertre",
+            "bio_localized": "Jacques Lemoine, électricien expert en domotique et automatisation à Saint-Martin-Du-Tertre. Avec 9 ans d'expérience, j'équipe les pavillons et résidences du Val-d'Oise de solutions intelligentes modernes. Installation, maintenance et conseil personnalisé pour votre confort et sécurité électrique.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Tertre depuis longtemps",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les résidences de Saint-Martin-Du-Tertre et ses environs.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable à Saint-Martin-Du-Tertre",
+            "why_this_commune": "Jacques Lemoine est le choix idéal pour Saint-Martin-Du-Tertre. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:27:34.336Z",
+            "used_fallback": false
+          },
+          "3b2594e7-d352-4e9c-926c-ed3e3085068a": {
+            "profile_id": "3b2594e7-d352-4e9c-926c-ed3e3085068a",
+            "commune_slug": "saint-martin-du-tertre",
+            "bio_localized": "Didier Petit, électricien expert à Saint-Martin-Du-Tertre, intervient depuis 17 ans sur l'installation et la mise aux normes de tableaux électriques. Spécialiste des pavillons et petits immeubles du Val-d'Oise, il garantit des installations sécurisées et conformes. Service fiable et professionnel pour votre tranquillité.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Tertre depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Saint-Martin-Du-Tertre pour vos rénovations et constructions neuves.",
+            "trust_signal": "17 ans d'expertise électrique confirmée à Saint-Martin-Du-Tertre, interventions fiables garanties",
+            "why_this_commune": "Didier Petit est le choix idéal pour Saint-Martin-Du-Tertre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et de confiance.",
+            "generated_at": "2025-11-16T08:27:49.448Z",
+            "used_fallback": false
+          },
+          "f6f63dfa-7293-4e8d-8a5d-a7c4fe83d79d": {
+            "profile_id": "f6f63dfa-7293-4e8d-8a5d-a7c4fe83d79d",
+            "commune_slug": "saint-martin-du-tertre",
+            "bio_localized": "Luc Joly, électricien expert en domotique et automatisation à Saint-Martin-Du-Tertre, intervient sur les pavillons et résidences du Val-d'Oise. Fort de 9 ans d'expérience, il modernise vos installations électriques avec des solutions domotiques fiables et performantes. Qualité garantie et satisfaction client assurée.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Tertre depuis années",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les maisons de Saint-Martin-Du-Tertre, modernisant vos installations intelligentes.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Martin-Du-Tertre, électricien fiable et réactif",
+            "why_this_commune": "Luc Joly est le choix idéal pour Saint-Martin-Du-Tertre. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:28:02.009Z",
+            "used_fallback": false
+          },
+          "b8346a8f-1060-41a9-b98f-52b04d08d64a": {
+            "profile_id": "b8346a8f-1060-41a9-b98f-52b04d08d64a",
+            "commune_slug": "saint-martin-du-tertre",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Saint-Martin-Du-Tertre, je maîtrise le dépannage express pour tous types de bâtiments : pavillons, immeubles et constructions modernes du Val-d'Oise. Interventions rapides et fiables pour vos urgences électriques. Disponible pour diagnostiquer et résoudre vos problèmes sans délai.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Tertre depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saint-Martin-Du-Tertre : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "14 ans d'expérience électricien à Saint-Martin-Du-Tertre, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Lucas est un excellent choix pour Saint-Martin-Du-Tertre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:28:15.400Z",
+            "used_fallback": false
+          },
+          "f1f34ef9-c4e2-493c-87d9-b91808cf0007": {
+            "profile_id": "f1f34ef9-c4e2-493c-87d9-b91808cf0007",
+            "commune_slug": "saint-martin-du-tertre",
+            "bio_localized": "Électricien expert à Saint-Martin-Du-Tertre, je propose un dépannage express pour tous vos besoins électriques. Avec 8 ans d'expérience, j'interviens rapidement dans les pavillons et immeubles de la région du Val-d'Oise. Disponible pour diagnostiquer et résoudre vos problèmes électriques en toute confiance.",
+            "local_badge": "Électricien expert de Saint-Martin-Du-Tertre depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saint-Martin-Du-Tertre : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable à Saint-Martin-Du-Tertre",
+            "why_this_commune": "Vincent Duval est le choix idéal pour Saint-Martin-Du-Tertre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:28:28.758Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-ouen-l-aumone": {
+        "commune_name": "SAINT-OUEN-L'AUMONE",
+        "postal_code": "95310",
+        "department": "95",
+        "electricians": {
+          "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2": {
+            "profile_id": "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2",
+            "commune_slug": "saint-ouen-l-aumone",
+            "bio_localized": "Henri Joly, électricien expert en domotique et automatisation à Saint-Ouen-L'Aumône. Fort de 20 ans d'expérience, je modernise les installations électriques de vos pavillons et immeubles du Val-d'Oise. Systèmes domotiques innovants, sécurité et confort garantis. Professionnel certifié, à votre service.",
+            "local_badge": "Électricien expert à Saint-Ouen-L'aumone depuis longtemps",
+            "service_highlight": "Électricien domotique à Saint-Ouen-L'aumone : automatisation et installations intelligentes pour votre confort résidentiel et professionnel.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Ouen-L'aumone",
+            "why_this_commune": "Henri Joly, électricien local à Saint-Ouen-L'Aumône, connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:28:43.005Z",
+            "used_fallback": false
+          },
+          "e408a5f9-a45c-4d95-a406-d9cd273d0471": {
+            "profile_id": "e408a5f9-a45c-4d95-a406-d9cd273d0471",
+            "commune_slug": "saint-ouen-l-aumone",
+            "bio_localized": "Électricien expérimenté à Saint-Ouen-L'Aumône, René Fabre intervient sur la rénovation électrique de vos pavillons et immeubles. Fort de 5 ans d'expertise, il modernise les installations des habitations anciennes comme contemporaines du Val-d'Oise. Travail fiable et conforme aux normes.",
+            "local_badge": "Électricien expert de Saint-Ouen-L'aumone",
+            "service_highlight": "Électricien expert en rénovation électrique à Saint-Ouen-L'aumone pour moderniser vos installations anciennes en toute sécurité.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Ouen-L'aumone, électricien fiable et réactif",
+            "why_this_commune": "René Fabre est un excellent choix pour Saint-Ouen-L'Aumône. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:28:56.084Z",
+            "used_fallback": false
+          },
+          "c1a888d9-c6f5-479b-acb3-fe57d72f2d06": {
+            "profile_id": "c1a888d9-c6f5-479b-acb3-fe57d72f2d06",
+            "commune_slug": "saint-ouen-l-aumone",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Ouen-L'Aumône, je maîtrise le dépannage express pour tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Interventions rapides et fiables dans le Val-d'Oise. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert de Saint-Ouen-L'aumone depuis longtemps",
+            "service_highlight": "Dépannage électrique express 24h/24 pour tous vos urgences à Saint-Ouen-L'aumone et alentours",
+            "trust_signal": "17 ans d'expérience, électricien certifié à Saint-Ouen-L'aumone, intervention rapide garantie",
+            "why_this_commune": "Thomas Leroy, électricien local à Saint-Ouen-L'Aumône, maîtrise parfaitement les spécificités des bâtiments et quartiers du Val-d'Oise. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:29:09.604Z",
+            "used_fallback": false
+          },
+          "076dd31d-53b8-4144-86c4-76569e7d742a": {
+            "profile_id": "076dd31d-53b8-4144-86c4-76569e7d742a",
+            "commune_slug": "saint-ouen-l-aumone",
+            "bio_localized": "Électricien agréé Consuel à Saint-Ouen-L'Aumône, Pascal Gautier met 11 ans d'expertise au service des habitants du Val-d'Oise. Spécialisé dans la conformité électrique, il intervient sur pavillons et immeubles avec professionnalisme. Vos installations résidentielles sont entre de bonnes mains.",
+            "local_badge": "Électricien expert de Saint-Ouen-L'aumone depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Ouen-L'aumone, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "11 ans d'expérience confirmée à Saint-Ouen-L'Aumône, électricien fiable et qualifié",
+            "why_this_commune": "Pascal Gautier est le choix idéal pour Saint-Ouen-L'Aumône. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et de confiance.",
+            "generated_at": "2025-11-16T08:29:27.912Z",
+            "used_fallback": false
+          },
+          "8ee67f6b-1114-456a-bb52-9f65e60230f9": {
+            "profile_id": "8ee67f6b-1114-456a-bb52-9f65e60230f9",
+            "commune_slug": "saint-ouen-l-aumone",
+            "bio_localized": "Électricien expert à Saint-Ouen-L'Aumône depuis 17 ans, je maîtrise le dépannage express pour tous vos besoins. Spécialisé dans les installations des pavillons et immeubles du Val-d'Oise, j'interviens rapidement pour sécuriser votre électricité. Disponible et fiable, je garantis des solutions durables.",
+            "local_badge": "Électricien expert de Saint-Ouen-L'aumone depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saint-Ouen-L'aumone : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "17 ans d'expérience confirmée à Saint-Ouen-L'Aumône, électricien fiable et professionnel",
+            "why_this_commune": "Vincent Sanchez est un excellent choix pour Saint-Ouen-L'Aumône. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:29:41.197Z",
+            "used_fallback": false
+          },
+          "e307c245-e25a-4d21-9886-8b4e6ea3c2f0": {
+            "profile_id": "e307c245-e25a-4d21-9886-8b4e6ea3c2f0",
+            "commune_slug": "saint-ouen-l-aumone",
+            "bio_localized": "Expert en installation de tableaux électriques à Saint-Ouen-L'Aumône depuis 10 ans. Je maîtrise les spécificités des pavillons et immeubles du Val-d'Oise. Interventions fiables et conformes aux normes. Votre satisfaction et la sécurité électrique de votre habitation sont mes priorités absolues.",
+            "local_badge": "Électricien expert de Saint-Ouen-L'aumone depuis années",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques pour les résidences et commerces de Saint-Ouen-L'aumone.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Ouen-L'Aumône, électricien fiable et réactif",
+            "why_this_commune": "Eric Sanchez est un excellent choix pour Saint-Ouen-L'Aumône. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:29:55.287Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-prix": {
+        "commune_name": "SAINT-PRIX",
+        "postal_code": "95390",
+        "department": "95",
+        "electricians": {
+          "1a44d294-081e-4c4b-8b23-96b3345d88f7": {
+            "profile_id": "1a44d294-081e-4c4b-8b23-96b3345d88f7",
+            "commune_slug": "saint-prix",
+            "bio_localized": "Électricien professionnel à Saint-Prix depuis 6 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles du Val-d'Oise. Maîtrisant les installations modernes et respectueuses de l'environnement, je propose des solutions d'éclairage innovantes adaptées à chaque projet. Disponible pour vos besoins électriques complets.",
+            "local_badge": "Électricien expert de Saint-Prix, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Saint-Prix pour optimiser vos installations lumineuses modernes.",
+            "trust_signal": "6 ans d'expérience confirmée à Saint-Prix, électricien fiable et réactif",
+            "why_this_commune": "Benjamin Meunier est un excellent choix pour Saint-Prix. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:30:08.355Z",
+            "used_fallback": false
+          },
+          "62a0d5ca-d997-431e-b62b-003493092786": {
+            "profile_id": "62a0d5ca-d997-431e-b62b-003493092786",
+            "commune_slug": "saint-prix",
+            "bio_localized": "Patrick Renard, électricien agréé Consuel à Saint-Prix, intervient sur les pavillons et immeubles du Val-d'Oise. Fort de 5 ans d'expérience, il garantit la conformité électrique de vos installations. Diagnostics, rénovations et mises aux normes : votre sécurité est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Prix depuis des années",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Prix pour vos installations et conformités électriques résidentielles et professionnelles.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Prix, électricien fiable et réactif",
+            "why_this_commune": "Patrick Renard est le choix idéal pour Saint-Prix. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:30:21.824Z",
+            "used_fallback": false
+          },
+          "3ea32408-15bd-40e6-9589-d1aa1d996775": {
+            "profile_id": "3ea32408-15bd-40e6-9589-d1aa1d996775",
+            "commune_slug": "saint-prix",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Saint-Prix, je maîtrise l'électricité générale pour tous les types d'habitations : pavillons, immeubles et maisons anciennes du Val-d'Oise. Interventions rapides et soignées, diagnostics fiables, dépannages efficaces. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Prix depuis des années",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Saint-Prix pour tous vos travaux d'installation et de maintenance électrique.",
+            "trust_signal": "13 ans d'expérience confirmée à Saint-Prix, électricien fiable et professionnel",
+            "why_this_commune": "Philippe Bonnet est un excellent choix pour Saint-Prix. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:30:35.388Z",
+            "used_fallback": false
+          },
+          "35927eaf-999f-40db-bf73-e23ae8a103d5": {
+            "profile_id": "35927eaf-999f-40db-bf73-e23ae8a103d5",
+            "commune_slug": "saint-prix",
+            "bio_localized": "Jacques Brunet, électricien expert en domotique et automatisation à Saint-Prix, intervient dans les pavillons et immeubles du Val-d'Oise. Fort de 7 ans d'expérience, il modernise vos installations électriques avec des solutions intelligentes et fiables. Qualité et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Saint-Prix, intervention rapide",
+            "service_highlight": "Automatisation et domotique intelligente pour les résidences de Saint-Prix : confort et sécurité connectés.",
+            "trust_signal": "7 ans d'expérience, électricien fiable et réactif à Saint-Prix",
+            "why_this_commune": "Jacques Brunet est le choix idéal pour Saint-Prix. Basé localement, il connaît parfaitement les caractéristiques des bâtiments et quartiers de la commune. Son expérience confirmée en Val-d'Oise garantit interventions rapides et solutions adaptées aux spécificités locales. Proximité et réactivité assurées.",
+            "generated_at": "2025-11-16T08:30:49.116Z",
+            "used_fallback": false
+          },
+          "500c98ea-d65d-44dd-97ea-750dfe20cea2": {
+            "profile_id": "500c98ea-d65d-44dd-97ea-750dfe20cea2",
+            "commune_slug": "saint-prix",
+            "bio_localized": "Dominique Fernandez, électricien expert à Saint-Prix, intervient sur l'installation et la rénovation de tableaux électriques pour les pavillons et immeubles du Val-d'Oise. Fort de 16 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et professionnel pour votre tranquillité.",
+            "local_badge": "Électricien expert de Saint-Prix depuis années",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques résidentiels à Saint-Prix.",
+            "trust_signal": "16 ans d'expérience confirmée, électricien fiable à Saint-Prix",
+            "why_this_commune": "Dominique Fernandez est le choix idéal pour Saint-Prix. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:31:02.757Z",
+            "used_fallback": false
+          },
+          "c0d79947-ae97-4f41-ae59-793288491681": {
+            "profile_id": "c0d79947-ae97-4f41-ae59-793288491681",
+            "commune_slug": "saint-prix",
+            "bio_localized": "Patrick Moreau, électricien agréé Consuel à Saint-Prix, intervient depuis 11 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste des installations électriques résidentielles et professionnelles, il garantit la conformité de vos équipements et la sécurité de votre habitat.",
+            "local_badge": "Électricien expert de Saint-Prix, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Prix pour vos installations et conformités électriques résidentielles et professionnelles.",
+            "trust_signal": "11 ans d'expérience confirmée à Saint-Prix, électricien fiable et professionnel",
+            "why_this_commune": "Patrick Moreau est le choix idéal pour Saint-Prix. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:31:16.160Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-witz": {
+        "commune_name": "SAINT-WITZ",
+        "postal_code": "95470",
+        "department": "95",
+        "electricians": {
+          "ce98024b-3a81-4e86-bac2-7ce59fc3d721": {
+            "profile_id": "ce98024b-3a81-4e86-bac2-7ce59fc3d721",
+            "commune_slug": "saint-witz",
+            "bio_localized": "Fort de 19 années d'expérience, René Brunet intervient à Saint-Witz pour la rénovation électrique de vos pavillons et immeubles. Spécialiste des installations anciennes et modernes, il garantit des travaux conformes et sécurisés. Votre électricien de confiance en Val-d'Oise.",
+            "local_badge": "Électricien expert de Saint-Witz, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Saint-Witz, je modernise et sécurise vos installations électriques anciennes avec professionnalisme.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Saint-Witz, interventions rapides garanties",
+            "why_this_commune": "René Brunet est un excellent choix pour Saint-Witz. Implantée localement, son expertise des bâtiments et quartiers de la commune garantit des interventions adaptées. Sa proximité assure une réactivité optimale et des délais courts. Son expérience confirmée dans la zone inspire confiance.",
+            "generated_at": "2025-11-16T08:31:29.193Z",
+            "used_fallback": false
+          },
+          "98e368df-bab0-47dd-8ce9-6323c067f9ae": {
+            "profile_id": "98e368df-bab0-47dd-8ce9-6323c067f9ae",
+            "commune_slug": "saint-witz",
+            "bio_localized": "Électricien expérimenté à Saint-Witz, je suis spécialisé dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-d'Oise. Avec 8 ans de savoir-faire, j'assure la sécurité électrique de votre habitat. Devis gratuit et intervention réactive.",
+            "local_badge": "Électricien expert de Saint-Witz depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous les types d'installations à Saint-Witz",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Saint-Witz",
+            "why_this_commune": "Yves Leclercq est le choix idéal pour Saint-Witz. Électricien local, il maîtrise les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T08:31:43.079Z",
+            "used_fallback": false
+          },
+          "050f379c-91a1-4507-aa34-9ce876467c2a": {
+            "profile_id": "050f379c-91a1-4507-aa34-9ce876467c2a",
+            "commune_slug": "saint-witz",
+            "bio_localized": "Électricien qualifié depuis 20 ans, je suis spécialisé dans l'installation de bornes de recharge à Saint-Witz et ses environs. Je maîtrise les spécificités des pavillons et immeubles du Val-d'Oise. Intervention rapide, devis gratuit et conseils adaptés à votre situation.",
+            "local_badge": "Électricien expert de Saint-Witz depuis années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Saint-Witz pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Witz, interventions rapides garanties",
+            "why_this_commune": "Frédéric Boyer est le choix idéal pour Saint-Witz. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:31:55.812Z",
+            "used_fallback": false
+          },
+          "48ca6c30-1db3-43eb-963e-980bfc6ad457": {
+            "profile_id": "48ca6c30-1db3-43eb-963e-980bfc6ad457",
+            "commune_slug": "saint-witz",
+            "bio_localized": "Électricien qualifié intervenant à Saint-Witz depuis 10 ans, je maîtrise l'électricité générale pour tous types de bâtiments, du pavillon aux immeubles modernes du Val-d'Oise. Diagnostics, installations et rénovations électriques réalisés avec sérieux et réactivité. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Witz depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Witz pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Saint-Witz, interventions rapides et fiables",
+            "why_this_commune": "Pierre Robert est le choix idéal pour Saint-Witz grâce à sa connaissance approfondie des bâtiments et quartiers locaux. Basé sur place, il intervient rapidement en cas d'urgence. Son expérience confirmée dans la zone garantit des solutions adaptées aux spécificités de votre commune.",
+            "generated_at": "2025-11-16T08:32:08.922Z",
+            "used_fallback": false
+          },
+          "066b3c21-f8c9-44e9-8639-7c7a547de869": {
+            "profile_id": "066b3c21-f8c9-44e9-8639-7c7a547de869",
+            "commune_slug": "saint-witz",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Saint-Witz, je maîtrise les défis électriques des pavillons et immeubles du Val-d'Oise. Avec 13 ans d'expérience, je garantis des installations conformes et sécurisées. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Witz depuis années",
+            "service_highlight": "Spécialiste de l'installation et la rénovation de tableaux électriques pour les résidences de Saint-Witz.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable et réactif à Saint-Witz",
+            "why_this_commune": "Didier Jean est le choix idéal pour Saint-Witz. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et une totale fiabilité.",
+            "generated_at": "2025-11-16T08:32:21.499Z",
+            "used_fallback": false
+          },
+          "0c9cf864-78fb-46c0-81ab-f5a394be1454": {
+            "profile_id": "0c9cf864-78fb-46c0-81ab-f5a394be1454",
+            "commune_slug": "saint-witz",
+            "bio_localized": "Luc Moreau, électricien expert en domotique et automatisation à Saint-Witz, intervient sur les pavillons et immeubles du Val-d'Oise. Fort de 19 ans d'expérience, il modernise vos installations électriques et automatise votre habitat. Service fiable et satisfaction client garantis.",
+            "local_badge": "Électricien expert de Saint-Witz depuis longtemps",
+            "service_highlight": "Électricien expert en domotique et automatisation pour les habitations modernes de Saint-Witz, optimisant confort et sécurité.",
+            "trust_signal": "19 ans d'expérience confirmée à Saint-Witz, électricien fiable et professionnel",
+            "why_this_commune": "Luc Moreau est le choix idéal pour Saint-Witz. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:32:34.160Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "sannois": {
+        "commune_name": "SANNOIS",
+        "postal_code": "95110",
+        "department": "95",
+        "electricians": {
+          "ba09c410-389d-48d4-be1f-b9ef6f50fe4b": {
+            "profile_id": "ba09c410-389d-48d4-be1f-b9ef6f50fe4b",
+            "commune_slug": "sannois",
+            "bio_localized": "Électricien expert à Sannois depuis 10 ans, je spécialise dans l'éclairage LED professionnel. Du pavillon au collectif moderne, j'optimise l'éclairage de vos espaces avec solutions innovantes et économes. Intervention rapide et fiable en Val-d'Oise. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Sannois, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Sannois, optimisant votre consommation énergétique.",
+            "trust_signal": "10 ans d'expérience confirmée à Sannois, électricien fiable et professionnel",
+            "why_this_commune": "Florian Dupuis est un excellent choix pour Sannois. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:32:46.737Z",
+            "used_fallback": false
+          },
+          "3ea32408-15bd-40e6-9589-d1aa1d996775": {
+            "profile_id": "3ea32408-15bd-40e6-9589-d1aa1d996775",
+            "commune_slug": "sannois",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Sannois, je maîtrise l'électricité générale pour tous types de bâtiments : haussmanniens, pavillons et immeubles modernes du Val-d'Oise. Interventions rapides et travail soigné garantis. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Sannois, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Sannois pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "13 ans d'expertise électrique à Sannois, interventions rapides et fiables",
+            "why_this_commune": "Philippe Bonnet est le choix idéal pour Sannois. Électricien local, il maîtrise parfaitement les spécificités architecturales des quartiers sannoissiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:32:59.905Z",
+            "used_fallback": false
+          },
+          "35927eaf-999f-40db-bf73-e23ae8a103d5": {
+            "profile_id": "35927eaf-999f-40db-bf73-e23ae8a103d5",
+            "commune_slug": "sannois",
+            "bio_localized": "Expert en domotique et automatisation à Sannois depuis 7 ans, Jacques Brunet accompagne résidents de pavillons et immeubles du Val-d'Oise. Spécialiste des installations intelligentes et systèmes automatisés, il garantit confort, sécurité et efficacité énergétique. Service fiable et clientèle satisfaite.",
+            "local_badge": "Électricien expert de Sannois, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique pour les habitations de Sannois, installations modernes et sécurisées.",
+            "trust_signal": "7 ans d'expérience, électricien fiable et réactif à Sannois",
+            "why_this_commune": "Jacques Brunet est le choix idéal pour Sannois. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:33:13.381Z",
+            "used_fallback": false
+          },
+          "c11a3ffe-933b-4483-aabc-a8e529bd863b": {
+            "profile_id": "c11a3ffe-933b-4483-aabc-a8e529bd863b",
+            "commune_slug": "sannois",
+            "bio_localized": "Électricien expert à Sannois depuis 16 ans, René Denis maîtrise la rénovation électrique des pavillons et immeubles du Val-d'Oise. Spécialiste des installations anciennes et modernisations, il garantit sécurité et conformité pour tous vos projets électriques résidentiels.",
+            "local_badge": "Électricien expert de Sannois, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Sannois, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et réactif à Sannois",
+            "why_this_commune": "René Denis est un excellent choix pour Sannois. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:33:26.020Z",
+            "used_fallback": false
+          },
+          "1a44d294-081e-4c4b-8b23-96b3345d88f7": {
+            "profile_id": "1a44d294-081e-4c4b-8b23-96b3345d88f7",
+            "commune_slug": "sannois",
+            "bio_localized": "Électricien professionnel à Sannois depuis 6 ans, je maîtrise l'éclairage LED pour tous les bâtiments du Val-d'Oise. Des haussmanniens aux pavillons modernes, j'optimise votre consommation énergétique avec des solutions innovantes. Disponible pour vos installations et rénovations électriques.",
+            "local_badge": "Électricien expert de Sannois, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Sannois, je transforme vos espaces avec des solutions modernes et économes en énergie.",
+            "trust_signal": "6 ans d'expérience confirmée à Sannois, électricien fiable et réactif",
+            "why_this_commune": "Benjamin Meunier est un excellent choix pour Sannois. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans le Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T08:33:40.043Z",
+            "used_fallback": false
+          },
+          "62a0d5ca-d997-431e-b62b-003493092786": {
+            "profile_id": "62a0d5ca-d997-431e-b62b-003493092786",
+            "commune_slug": "sannois",
+            "bio_localized": "Patrick Renard, électricien agréé Consuel à Sannois, intervient sur les pavillons et immeubles du Val-d'Oise. Avec 5 ans d'expérience, il garantit vos installations électriques aux normes. Diagnostics, mises aux normes et dépannages : votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert de Sannois, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Sannois, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "Électricien confirmé avec 5 ans d'expérience à Sannois, interventions rapides garanties",
+            "why_this_commune": "Patrick Renard est un excellent choix pour Sannois. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service professionnel et fiable.",
+            "generated_at": "2025-11-16T08:33:53.121Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "santeuil": {
+        "commune_name": "SANTEUIL",
+        "postal_code": "95640",
+        "department": "95",
+        "electricians": {
+          "3e60c59f-1ed0-4384-82ff-0cb68650ad1a": {
+            "profile_id": "3e60c59f-1ed0-4384-82ff-0cb68650ad1a",
+            "commune_slug": "santeuil",
+            "bio_localized": "Électricien qualifié depuis 20 ans à Santeuil, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-d'Oise. Intervention rapide, devis gratuit et travail sécurisé garantis. Votre conformité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Santeuil, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les installations résidentielles et commerciales de Santeuil.",
+            "trust_signal": "20 ans d'expérience électricien à Santeuil, intervention rapide garantie",
+            "why_this_commune": "Thierry Vincent est un excellent choix pour Santeuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:34:07.193Z",
+            "used_fallback": false
+          },
+          "b12465df-1532-4ce8-8ba2-33112587ee00": {
+            "profile_id": "b12465df-1532-4ce8-8ba2-33112587ee00",
+            "commune_slug": "santeuil",
+            "bio_localized": "Électricien expérimenté depuis 14 ans, Jean Laurent intervient à Santeuil pour tous vos besoins en électricité générale. Spécialisé dans la rénovation des pavillons et petits immeubles du Val-d'Oise, il garantit des interventions rapides et un travail soigné. Disponible pour diagnostics, installations et dépannages d'urgence.",
+            "local_badge": "Électricien expert de Santeuil, interventions rapides",
+            "service_highlight": "Électricien généraliste intervenant à Santeuil pour tous vos besoins en installations et dépannages électriques résidentiels.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et certifié à Santeuil",
+            "why_this_commune": "Jean Laurent, électricien à Santeuil, maîtrise parfaitement les spécificités architecturales locales et les quartiers du Val-d'Oise. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée dans la région, il offre un service fiable et rassurant.",
+            "generated_at": "2025-11-16T08:34:21.317Z",
+            "used_fallback": false
+          },
+          "cb8920eb-b1e4-44f8-a90d-306760c861c3": {
+            "profile_id": "cb8920eb-b1e4-44f8-a90d-306760c861c3",
+            "commune_slug": "santeuil",
+            "bio_localized": "Électricien qualifié depuis 6 ans à Santeuil, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Santeuil, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Santeuil, je sécurise vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "6 ans d'expérience, électricien fiable et réactif à Santeuil pour tous vos besoins",
+            "why_this_commune": "Thierry Roche est un excellent choix pour Santeuil. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:34:33.811Z",
+            "used_fallback": false
+          },
+          "cda56423-7501-483a-9bf3-f568f72b150a": {
+            "profile_id": "cda56423-7501-483a-9bf3-f568f72b150a",
+            "commune_slug": "santeuil",
+            "bio_localized": "Électricien expert à Santeuil, je maîtrise l'installation de tableaux électriques dans les pavillons et immeubles du Val-d'Oise. Avec 9 ans d'expérience, je garantis des installations conformes et sécurisées. Votre satisfaction et votre sécurité électrique sont mes priorités absolues.",
+            "local_badge": "Électricien expert de Santeuil, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation et rénovation de tableaux électriques à Santeuil pour résidences et petits commerces.",
+            "trust_signal": "9 ans d'expérience confirmée à Santeuil, électricien fiable et réactif",
+            "why_this_commune": "François Aubert est le choix idéal pour Santeuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T08:34:47.150Z",
+            "used_fallback": false
+          },
+          "ea79b818-7988-4218-ba1e-08924624076d": {
+            "profile_id": "ea79b818-7988-4218-ba1e-08924624076d",
+            "commune_slug": "santeuil",
+            "bio_localized": "Électricien expérimenté à Santeuil, René Lucas maîtrise la rénovation électrique depuis 15 ans. Spécialiste des installations anciennes et modernes, il intervient sur les pavillons et immeubles du Val-d'Oise. Expertise reconnue, travail soigné et sécurisé pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Santeuil, intervention rapide garantie",
+            "service_highlight": "Rénovation électrique complète pour les habitations anciennes de Santeuil, modernisation aux normes actuelles garantie.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Santeuil, interventions rapides garanties",
+            "why_this_commune": "René Lucas est le choix idéal pour Santeuil. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:35:00.006Z",
+            "used_fallback": false
+          },
+          "2fa0a902-5308-4583-8908-253e1d105521": {
+            "profile_id": "2fa0a902-5308-4583-8908-253e1d105521",
+            "commune_slug": "santeuil",
+            "bio_localized": "Patrick Schmitt, électricien agréé Consuel à Santeuil, met ses 7 années d'expertise au service des habitants du Val-d'Oise. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur pavillons, immeubles et bâtiments anciens avec rigueur et conformité aux normes en vigueur.",
+            "local_badge": "Électricien expert de Santeuil, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Santeuil, spécialiste des installations et conformités électriques résidentielles et tertiaires.",
+            "trust_signal": "7 ans d'expérience confirmée à Santeuil, électricien fiable et professionnel",
+            "why_this_commune": "Patrick Schmitt est le choix idéal pour Santeuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:35:15.777Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "sarcelles": {
+        "commune_name": "SARCELLES",
+        "postal_code": "95200",
+        "department": "95",
+        "electricians": {
+          "405a78cd-5e8e-408c-af68-216a1bfb8b5a": {
+            "profile_id": "405a78cd-5e8e-408c-af68-216a1bfb8b5a",
+            "commune_slug": "sarcelles",
+            "bio_localized": "Électricien expérimenté à Sarcelles, Christian Meyer intervient 24/7 pour tous vos urgences électriques. Spécialiste des installations dans les pavillons et immeubles du Val-d'Oise, il garantit des interventions rapides et un travail soigné. Disponible jour et nuit pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert à Sarcelles, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Sarcelles pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "10 ans d'expérience confirmée à Sarcelles, interventions rapides et fiables garanties",
+            "why_this_commune": "Christian Meyer est un excellent choix pour Sarcelles. Électricien expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Val-d'Oise assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:35:32.500Z",
+            "used_fallback": false
+          },
+          "2fa0a902-5308-4583-8908-253e1d105521": {
+            "profile_id": "2fa0a902-5308-4583-8908-253e1d105521",
+            "commune_slug": "sarcelles",
+            "bio_localized": "Patrick Schmitt, électricien agréé Consuel à Sarcelles, intervient sur l'ensemble du Val-d'Oise. Fort de 7 années d'expérience, il maîtrise les installations électriques des pavillons et immeubles collectifs. Spécialiste en conformité électrique, il garantit vos diagnostics et mises aux normes avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Sarcelles, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Sarcelles, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée à Sarcelles, électricien fiable et professionnel",
+            "why_this_commune": "Patrick Schmitt est un excellent choix pour Sarcelles. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T08:35:45.953Z",
+            "used_fallback": false
+          },
+          "53045362-4462-4f5b-aafb-27fabbab1022": {
+            "profile_id": "53045362-4462-4f5b-aafb-27fabbab1022",
+            "commune_slug": "sarcelles",
+            "bio_localized": "Fort de 18 ans d'expérience, je suis électricien spécialiste en rénovation électrique à Sarcelles. Je maîtrise la modernisation des installations dans les pavillons et immeubles du Val-d'Oise. Interventions fiables et conformes aux normes, pour votre sécurité et votre tranquillité.",
+            "local_badge": "Électricien expert à Sarcelles - Intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Sarcelles, je modernise vos installations anciennes avec professionnalisme et fiabilité.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Sarcelles, interventions rapides garanties",
+            "why_this_commune": "Stéphane Fabre est un excellent choix pour Sarcelles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T08:35:58.560Z",
+            "used_fallback": false
+          },
+          "6e2969a6-e86c-48a6-9fbb-516047ec1a7c": {
+            "profile_id": "6e2969a6-e86c-48a6-9fbb-516047ec1a7c",
+            "commune_slug": "sarcelles",
+            "bio_localized": "Électricien qualifié depuis 7 ans à Sarcelles, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et immeubles du Val-d'Oise, j'offre des solutions adaptées à votre habitat. Devis gratuit et service rapide garantis.",
+            "local_badge": "Électricien expert à Sarcelles, intervention rapide",
+            "service_highlight": "Électricien expert en installation de bornes de recharge à Sarcelles, je propose des solutions de mobilité électrique adaptées à votre domicile.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Sarcelles",
+            "why_this_commune": "Guillaume Picard est un excellent choix pour Sarcelles. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers sarceliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T08:36:12.085Z",
+            "used_fallback": false
+          },
+          "a7fe3123-c20f-4b49-9acf-bf83fd0b8628": {
+            "profile_id": "a7fe3123-c20f-4b49-9acf-bf83fd0b8628",
+            "commune_slug": "sarcelles",
+            "bio_localized": "Électricien expérimenté à Sarcelles depuis 13 ans, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Interventions rapides et fiables sur installations anciennes ou modernes. Devis gratuit. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert de Sarcelles depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Sarcelles.",
+            "trust_signal": "13 ans d'expérience électricien confirmé à Sarcelles, interventions rapides garanties",
+            "why_this_commune": "Thierry Schmitt est le choix idéal pour Sarcelles. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments sarcellois. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T08:36:25.205Z",
+            "used_fallback": false
+          },
+          "a2dbe41e-167f-4230-879a-d7f2724235fc": {
+            "profile_id": "a2dbe41e-167f-4230-879a-d7f2724235fc",
+            "commune_slug": "sarcelles",
+            "bio_localized": "Électricien expert à Sarcelles depuis 9 ans, René François maîtrise la rénovation électrique des pavillons et immeubles du Val-d'Oise. Spécialiste des installations modernes et mises aux normes, il intervient sur tous types de bâtiments sarcellois. Professionnalisme et sécurité garantis pour vos projets électriques.",
+            "local_badge": "Électricien expert de Sarcelles, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, intervient régulièrement dans les logements anciens de Sarcelles pour moderniser vos installations.",
+            "trust_signal": "9 ans d'expérience confirmée à Sarcelles, électricien fiable et réactif",
+            "why_this_commune": "René François est un excellent choix pour Sarcelles. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-d'Oise en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T08:36:37.996Z",
             "used_fallback": false
           }
         }
