@@ -31,8 +31,25 @@
 {{/* Build profile URL and page context */}}
 {{/* Generate slug matching profile page URL pattern: firstname-lastname-shortid */}}
 {{ $shortId := substr $profile.id 0 8 }}
-{{ $firstNameSlug := $profile.first_name | lower | replaceRE "[^a-z0-9]+" "-" }}
-{{ $lastNameSlug := $profile.last_name | lower | replaceRE "[^a-z0-9]+" "-" }}
+{{/* Transliterate French accented characters to match backend slugify logic */}}
+{{ $firstNameSlug := $profile.first_name | lower }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "[éèêë]" "e" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "[àâäæ]" "a" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "[ùûü]" "u" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "[ôö]" "o" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "[îï]" "i" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "ç" "c" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "[^a-z0-9]+" "-" }}
+{{ $firstNameSlug = $firstNameSlug | replaceRE "^-+|-+$" "" }}
+{{ $lastNameSlug := $profile.last_name | lower }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "[éèêë]" "e" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "[àâäæ]" "a" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "[ùûü]" "u" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "[ôö]" "o" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "[îï]" "i" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "ç" "c" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "[^a-z0-9]+" "-" }}
+{{ $lastNameSlug = $lastNameSlug | replaceRE "^-+|-+$" "" }}
 {{ $slug := printf "%s-%s-%s" $firstNameSlug $lastNameSlug $shortId }}
 {{ $profileUrl := printf "/profiles/%s/" $slug }}
 {{ $page := .Page }}
