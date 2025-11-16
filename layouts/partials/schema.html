@@ -207,6 +207,18 @@
 {{ if $videoData }}
 {{ $cityName := .Params.city | default .Title }}
 {{ $videoTitle := printf "Électricien d'urgence à %s" $cityName }}
+{{/* Load electrician data for this city */}}
+{{ $profilesData := .Site.Data.electricien_profiles }}
+{{ $citySlug := .Params.slug }}
+{{ $cityProfiles := slice }}
+{{ if isset $profilesData.by_city $citySlug }}
+  {{ $cityProfiles = index $profilesData.by_city $citySlug }}
+{{ end }}
+{{/* Select primary electrician (first profile) */}}
+{{ $primaryElectrician := dict }}
+{{ if gt (len $cityProfiles) 0 }}
+  {{ $primaryElectrician = index $cityProfiles 0 }}
+{{ end }}
 {{ $thumbnailPath := "" }}
 {{ if $videoData.thumbnail_path }}
   {{ $thumbnailPath = printf "%s%s" .Site.BaseURL $videoData.thumbnail_path }}
@@ -236,14 +248,35 @@
   "duration": "{{ if $videoData.duration_iso }}{{ $videoData.duration_iso }}{{ else }}PT45S{{ end }}",
   "width": "1920",
   "height": "1080",
-  "inLanguage": "fr",
+  "inLanguage": "fr-FR",
   "publisher": {
-    "@type": "Organization",
-    "name": "Allo Électricien",
+    "@type": "LocalBusiness",
+    "@id": "{{ .Site.BaseURL }}#organization",
+    "name": "{{ if $primaryElectrician.first_name }}{{ $primaryElectrician.first_name }} {{ $primaryElectrician.last_name }}{{ else }}ECLAT RAPIDE ELECTRICITE{{ end }}",
+    "alternateName": "Allo Électricien",
+    "url": "{{ .Site.BaseURL }}",
+    "telephone": "{{ if $primaryElectrician.phone_href }}{{ $primaryElectrician.phone_href }}{{ else }}+33-1-44-90-11-31{{ end }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "55-69 Avenue de Fontainebleau",
+      "addressLocality": "Le Kremlin-Bicêtre",
+      "postalCode": "94270",
+      "addressCountry": "FR"
+    },
+    "priceRange": "€€",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ .Site.BaseURL }}eleclogos/logo.png"
-    }
+      "url": "{{ .Site.BaseURL }}eleclogos/logo.png",
+      "width": "250",
+      "height": "60"
+    },
+    "sameAs": [
+      "https://g.page/allo-electricien-paris"
+    ]
+  },
+  "potentialAction": {
+    "@type": "WatchAction",
+    "target": "{{ .Permalink }}"
   }{{ if $videoData.voiceover_script }},
   "transcript": "{{ $videoData.voiceover_script | plainify }}"{{ end }}
 }

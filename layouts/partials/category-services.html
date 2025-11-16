@@ -1,0 +1,76 @@
+{{/* Category Related Services Partial - Card Grid */}}
+{{/* Usage: {{ partial "category-services.html" (dict "services" .Params.relatedServices "context" .) }} */}}
+
+{{ with .services }}
+<section class="py-12 md:py-16 bg-white border-t border-gray-200">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          🔧 Services Liés
+        </h2>
+        <p class="text-lg text-gray-600">
+          Découvrez nos services d'électricité professionnels
+        </p>
+      </div>
+
+      <!-- Services Cards Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+        {{ range . }}
+        <a href="{{ .url }}"
+           class="group relative bg-gradient-to-br from-white to-gray-50 rounded-xl shadow-md hover:shadow-2xl transition-all duration-300 p-6 border-2 border-transparent hover:border-primary overflow-hidden">
+
+          <!-- Background decoration -->
+          <div class="absolute inset-0 bg-gradient-to-br from-primary/5 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+
+          <!-- Icon / Emoji -->
+          <div class="relative mb-4">
+            <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center group-hover:bg-primary/20 group-hover:scale-110 transition-all duration-300">
+              {{ if .icon }}
+              <span class="text-3xl">{{ .icon }}</span>
+              {{ else }}
+              <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+              </svg>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Service Title -->
+          <h3 class="relative text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors">
+            {{ .title }}
+          </h3>
+
+          <!-- Service Description -->
+          {{ with .description }}
+          <p class="relative text-sm text-gray-600 mb-4">
+            {{ . }}
+          </p>
+          {{ end }}
+
+          <!-- Arrow Icon -->
+          <div class="relative flex items-center text-primary font-semibold group-hover:gap-2 transition-all">
+            En savoir plus
+            <svg class="w-4 h-4 ml-1 group-hover:ml-2 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+      <!-- View All Services Link -->
+      <div class="mt-10 text-center">
+        <a href="/services/"
+           class="inline-flex items-center gap-2 bg-primary hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 13.255A23.931 23.931.0 0112 15c-3.183.0-6.22-.62-9-1.745M16 6V4a2 2 0 00-2-2h-4A2 2 0 008 4v2m4 6h.01M5 20h14a2 2 0 002-2V8a2 2 0 00-2-2H5A2 2 0 003 8v10a2 2 0 002 2z"/>
+          </svg>
+          Voir Tous nos Services
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

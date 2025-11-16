@@ -1,0 +1,118 @@
+{{/* Category Featured Locations Partial - Geographical Quick Links */}}
+{{/* Usage: {{ partial "category-locations.html" (dict "locations" .Params.featuredLocations "context" .) }} */}}
+
+{{ with .locations }}
+<section class="py-12 md:py-16 bg-gradient-to-br from-gray-50 to-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          📍 Zones d'Intervention
+        </h2>
+        <p class="text-lg text-gray-600 mb-2">
+          Nos électriciens interviennent dans toute l'Île-de-France
+        </p>
+        <p class="text-sm text-primary font-semibold">
+          Intervention en moins de 30 minutes à Paris
+        </p>
+      </div>
+
+      <!-- Locations Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-10">
+        {{ range . }}
+        <a href="{{ .url }}"
+           class="group relative bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-6 border-l-4 border-transparent hover:border-primary">
+
+          <!-- Location Name -->
+          <div class="flex items-start justify-between mb-3">
+            <div>
+              <h3 class="text-lg font-bold text-gray-900 group-hover:text-primary transition-colors mb-1">
+                {{ .name }}
+              </h3>
+              {{ with .arrondissement }}
+              <span class="text-xs text-gray-500 font-medium">
+                Arrondissements {{ . }}
+              </span>
+              {{ end }}
+              {{ with .department }}
+              <span class="text-xs text-gray-500 font-medium">
+                Département {{ . }}
+              </span>
+              {{ end }}
+            </div>
+
+            <!-- Arrow Icon -->
+            <svg class="w-5 h-5 text-primary transform group-hover:translate-x-1 transition-transform flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </div>
+
+          <!-- Note / Description -->
+          {{ with .note }}
+          <p class="text-sm text-gray-600">
+            {{ . }}
+          </p>
+          {{ end }}
+
+          <!-- Intervention Badge -->
+          <div class="mt-4 inline-flex items-center gap-2 text-xs font-semibold text-green-600 bg-green-50 px-3 py-1 rounded-full">
+            <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd"/>
+            </svg>
+            Intervention 24/7
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+      <!-- All Departments Link -->
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
+        <a href="/electricien/"
+           class="flex items-center justify-between bg-gradient-to-r from-primary to-blue-700 text-white rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 p-6">
+          <div>
+            <div class="font-bold text-lg mb-1">Tous nos Électriciens en IDF</div>
+            <div class="text-sm text-blue-100">8 départements • 410 professionnels</div>
+          </div>
+          <svg class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657 13.414 20.9a1.998 1.998.0 01-2.827.0l-4.244-4.243a8 8 0 1111.314.0z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+          </svg>
+        </a>
+
+        <a href="/annuaire/"
+           class="flex items-center justify-between bg-gradient-to-r from-gray-700 to-gray-900 text-white rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 p-6">
+          <div>
+            <div class="font-bold text-lg mb-1">Annuaire Complet</div>
+            <div class="text-sm text-gray-300">1 300+ communes couvertes</div>
+          </div>
+          <svg class="w-6 h-6 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+        </a>
+      </div>
+
+      <!-- Coverage Map Info -->
+      <div class="bg-blue-50 border-l-4 border-primary rounded-lg p-6">
+        <div class="flex items-start gap-4">
+          <div class="flex-shrink-0">
+            <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/>
+            </svg>
+          </div>
+          <div>
+            <h4 class="font-bold text-gray-900 mb-2">Couverture Complète Île-de-France</h4>
+            <p class="text-sm text-gray-700 leading-relaxed">
+              Notre réseau de <strong>410 électriciens certifiés</strong> couvre l'intégralité de l'Île-de-France :
+              <strong>Paris (75)</strong>, <strong>Seine-et-Marne (77)</strong>, <strong>Yvelines (78)</strong>,
+              <strong>Essonne (91)</strong>, <strong>Hauts-de-Seine (92)</strong>, <strong>Seine-Saint-Denis (93)</strong>,
+              <strong>Val-de-Marne (94)</strong> et <strong>Val-d'Oise (95)</strong>.
+              Intervention garantie en <strong class="text-primary">moins de 30 minutes</strong> à Paris intra-muros et sous 1h en grande couronne.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
