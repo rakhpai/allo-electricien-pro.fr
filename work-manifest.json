@@ -95,10 +95,10 @@
         "bussieres"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824494,
       "started_at": "2025-11-16T08:55:10.274Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:52:50.743Z"
     },
     {
       "id": 2,
@@ -192,10 +192,10 @@
         "diant"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824523,
       "started_at": "2025-11-16T08:55:10.283Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:51:15.485Z"
     },
     {
       "id": 3,
@@ -289,10 +289,10 @@
         "la-grande-paroisse"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824518,
       "started_at": "2025-11-16T08:55:10.290Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:55:09.118Z"
     },
     {
       "id": 4,
@@ -386,10 +386,10 @@
         "mormant"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824582,
       "started_at": "2025-11-16T08:55:10.295Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:51:16.018Z"
     },
     {
       "id": 5,
@@ -483,10 +483,10 @@
         "saint-mard"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824568,
       "started_at": "2025-11-16T08:55:10.301Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:53:16.325Z"
     },
     {
       "id": 6,
@@ -580,10 +580,10 @@
         "villeroy"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824540,
       "started_at": "2025-11-16T08:55:10.384Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:50:40.779Z"
     },
     {
       "id": 7,
@@ -677,10 +677,10 @@
         "ecquevilly"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824549,
       "started_at": "2025-11-16T08:55:10.389Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:52:25.804Z"
     },
     {
       "id": 8,
@@ -774,10 +774,10 @@
         "mareil-le-guyon"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824564,
       "started_at": "2025-11-16T08:55:10.398Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:53:12.534Z"
     },
     {
       "id": 9,
@@ -871,10 +871,10 @@
         "thiverval-grignon"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824575,
       "started_at": "2025-11-16T08:55:10.403Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:52:45.416Z"
     },
     {
       "id": 10,
@@ -968,10 +968,10 @@
         "orly"
       ],
       "communeCount": 87,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824508,
       "started_at": "2025-11-16T08:55:10.587Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T10:51:29.738Z"
     },
     {
       "id": 11,
@@ -1016,10 +1016,10 @@
         "wy-dit-joli-village"
       ],
       "communeCount": 38,
-      "status": "in_progress",
+      "status": "completed",
       "worker_pid": 2824504,
       "started_at": "2025-11-16T08:55:10.990Z",
-      "completed_at": null
+      "completed_at": "2025-11-16T09:46:36.902Z"
     }
   ]
 }
