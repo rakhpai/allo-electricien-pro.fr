@@ -1,0 +1,391 @@
+{
+  "lastProcessedCommune": "lissy",
+  "processedCommunes": [
+    "lesigny",
+    "leudon-en-brie",
+    "lieusaint",
+    "limoges-fourches",
+    "lissy"
+  ],
+  "processed": {
+    "successful": 30,
+    "errors": 0,
+    "total": 128
+  },
+  "stats": {
+    "inputTokens": 32955,
+    "outputTokens": 8351,
+    "apiCalls": 150
+  },
+  "output": {
+    "generated_at": "2025-11-16T05:03:13.189Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "lesigny": {
+        "commune_name": "LESIGNY",
+        "postal_code": "77150",
+        "department": "77",
+        "electricians": {
+          "3e8cd2be-e693-4215-8176-cdc716f3905a": {
+            "profile_id": "3e8cd2be-e693-4215-8176-cdc716f3905a",
+            "commune_slug": "lesigny",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Lesigny, je maîtrise l'électricité résidentielle et commerciale. Spécialisé en interventions d'urgence 24/7, j'interviens rapidement dans les pavillons et immeubles de Seine-et-Marne. Diagnostic précis et travail soigné garantis pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Lesigny, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Lesigny pour tous vos dépannages électriques rapides et fiables.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Lesigny, interventions rapides et fiables",
+            "why_this_commune": "Claude Renard, électricien basé à Lesigny, connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et adapté aux besoins de la commune.",
+            "generated_at": "2025-11-16T05:03:28.393Z",
+            "used_fallback": false
+          },
+          "b43d3dc7-67bd-47b2-86d3-686842a5afcc": {
+            "profile_id": "b43d3dc7-67bd-47b2-86d3-686842a5afcc",
+            "commune_slug": "lesigny",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Lesigny, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments. Des pavillons aux immeubles modernes de Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible jour et nuit pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Lesigny, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Lesigny pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Lesigny",
+            "why_this_commune": "Alain David, électricien local à Lesigny, maîtrise parfaitement les spécificités architecturales et infrastructures de votre commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:03:41.314Z",
+            "used_fallback": false
+          },
+          "b735b762-de4b-4c05-b8d9-cd107513ba26": {
+            "profile_id": "b735b762-de4b-4c05-b8d9-cd107513ba26",
+            "commune_slug": "lesigny",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Lesigny, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible jour et nuit pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Lesigny, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Lesigny pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "13 ans d'expérience, électricien fiable et reconnu à Lesigny",
+            "why_this_commune": "Christian Colin est un excellent choix pour Lesigny. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marnaise assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:03:54.493Z",
+            "used_fallback": false
+          },
+          "8e4bb98b-4926-478f-b391-c154b913a36d": {
+            "profile_id": "8e4bb98b-4926-478f-b391-c154b913a36d",
+            "commune_slug": "lesigny",
+            "bio_localized": "Laurent Arnaud, électricien expert en domotique et automatisation à Lesigny, intervient depuis 15 ans auprès des résidents de Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions intelligentes et fiables pour votre confort et sécurité électrique.",
+            "local_badge": "Électricien expert de Lesigny, intervention rapide",
+            "service_highlight": "Électricien domotique spécialisé dans l'automatisation résidentielle et tertiaire à Lesigny, pour votre confort moderne.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Lesigny, interventions rapides garanties",
+            "why_this_commune": "Laurent Arnaud est le choix idéal pour Lesigny. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:07.778Z",
+            "used_fallback": false
+          },
+          "bce53314-75cc-46c6-917c-67297007a942": {
+            "profile_id": "bce53314-75cc-46c6-917c-67297007a942",
+            "commune_slug": "lesigny",
+            "bio_localized": "Didier Blanc, électricien expert à Lesigny, intervient sur l'installation et la maintenance de tableaux électriques pour les pavillons et immeubles de Seine-et-Marne. Fort de 9 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et satisfaction client assurée.",
+            "local_badge": "Électricien expert de Lesigny, intervention rapide",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques résidentiels et professionnels à Lesigny.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Lesigny",
+            "why_this_commune": "Didier Blanc est le choix idéal pour Lesigny. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience en Seine-et-Marne, il offre un service fiable et rassurant adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:04:20.956Z",
+            "used_fallback": false
+          },
+          "1459e2fe-809a-4b26-860c-252ee3f82e42": {
+            "profile_id": "1459e2fe-809a-4b26-860c-252ee3f82e42",
+            "commune_slug": "lesigny",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Lesigny, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert de Lesigny, intervention rapide",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Lesigny et ses environs.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et reconnu à Lesigny",
+            "why_this_commune": "Jérôme Caron est un excellent choix pour Lesigny. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:33.280Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "leudon-en-brie": {
+        "commune_name": "LEUDON-EN-BRIE",
+        "postal_code": "77320",
+        "department": "77",
+        "electricians": {
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "leudon-en-brie",
+            "bio_localized": "Électricien expérimenté à Leudon-en-Brie, Michel Bertrand intervient sur tous types d'installations électriques. Du pavillon briard à l'immeuble moderne, il assure maintenance, dépannage et rénovation avec professionnalisme. Intervention rapide, travail soigné et devis transparent pour vos besoins en électricité générale.",
+            "local_badge": "Électricien expert de Leudon-en-Brie, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Leudon-en-Brie pour particuliers et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Leudon-en-Brie",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Leudon-en-Brie. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise en Seine-et-Marne assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:46.098Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "leudon-en-brie",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Leudon-en-Brie, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et résidences de Seine-et-Marne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Leudon-en-Brie depuis longtemps",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Leudon-en-Brie pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et qualifié à Leudon-en-Brie",
+            "why_this_commune": "Thierry Thomas, électricien local à Leudon-en-Brie, maîtrise parfaitement les spécificités architecturales de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et professionnel adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:04:59.990Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "leudon-en-brie",
+            "bio_localized": "Électricien expérimenté à Leudon-en-Brie, Alain Renard intervient 24h/24 sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Avec 5 ans d'expertise, il garantit des interventions d'urgence rapides et un travail soigné. Disponible immédiatement pour vos problèmes électriques en Seine-et-Marne.",
+            "local_badge": "Électricien expert à Leudon-en-Brie depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Leudon-en-Brie pour toutes vos pannes et interventions électriques rapides.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Leudon-en-Brie",
+            "why_this_commune": "Alain Renard est le choix idéal pour Leudon-en-Brie. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:13.611Z",
+            "used_fallback": false
+          },
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "leudon-en-brie",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Leudon-en-Brie, Daniel Fabre intervient 24h/24 pour tous vos besoins électriques. Spécialiste des urgences, il maîtrise les installations des pavillons briards comme les rénovations modernes. Intervention rapide, travail soigné et devis transparent garantis en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Leudon-en-Brie depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Leudon-en-Brie pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et reconnu à Leudon-en-Brie",
+            "why_this_commune": "Daniel Fabre est le choix idéal pour Leudon-en-Brie. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:27.758Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "leudon-en-brie",
+            "bio_localized": "Électricien spécialisé en installation tableau électrique à Leudon-en-Brie, Eric Barbier intervient sur les pavillons et maisons individuelles de Seine-et-Marne. Fort de 5 ans d'expérience, il garantit des installations sécurisées et conformes aux normes. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert de Leudon-en-Brie depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Leudon-en-Brie pour tous vos besoins résidentiels et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Leudon-en-Brie",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Leudon-en-Brie. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:05:40.545Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "leudon-en-brie",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Leudon-en-Brie, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de Seine-et-Marne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Leudon-en-Brie depuis des années",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Leudon-en-Brie pour sécuriser vos installations électriques.",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Leudon-en-Brie, interventions rapides et fiables",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Leudon-en-Brie. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:53.078Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "lieusaint": {
+        "commune_name": "LIEUSAINT",
+        "postal_code": "77127",
+        "department": "77",
+        "electricians": {
+          "8148c340-510b-4348-a9fe-d7aae0ad9c09": {
+            "profile_id": "8148c340-510b-4348-a9fe-d7aae0ad9c09",
+            "commune_slug": "lieusaint",
+            "bio_localized": "Henri Duval, électricien expert en domotique et automatisation à Lieusaint, intervient depuis 18 ans auprès des résidents de Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions intelligentes et durables. Qualifié et certifié, il garantit un service de qualité et votre entière satisfaction.",
+            "local_badge": "Électricien expert de Lieusaint, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les résidences modernes de Lieusaint, installations intelligentes et sécurisées.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Lieusaint",
+            "why_this_commune": "Henri Duval est un excellent choix pour Lieusaint. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:06:06.503Z",
+            "used_fallback": false
+          },
+          "b6b4f22c-bb57-46cb-9af8-15c00255a9fc": {
+            "profile_id": "b6b4f22c-bb57-46cb-9af8-15c00255a9fc",
+            "commune_slug": "lieusaint",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Lieusaint, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Lieusaint, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Lieusaint, intervention rapide garantie.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Lieusaint",
+            "why_this_commune": "Daniel Barbier est un excellent choix pour Lieusaint. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:06:20.421Z",
+            "used_fallback": false
+          },
+          "e9897e44-8534-4032-bd4f-2ecfbc886101": {
+            "profile_id": "e9897e44-8534-4032-bd4f-2ecfbc886101",
+            "commune_slug": "lieusaint",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Lieusaint, je maîtrise l'électricité générale pour tous types d'habitations. Des pavillons aux immeubles modernes de Seine-et-Marne, j'interviens rapidement avec professionnalisme. Diagnostic, installation, dépannage : votre satisfaction est ma priorité.",
+            "local_badge": "Électricien de confiance à Lieusaint depuis années",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Lieusaint pour particuliers et professionnels.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et certifié à Lieusaint",
+            "why_this_commune": "André Gaillard est le choix idéal pour Lieusaint. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone en Seine-et-Marne assure un service de qualité et une fiabilité reconnue.",
+            "generated_at": "2025-11-16T05:06:33.261Z",
+            "used_fallback": false
+          },
+          "d051b405-14ae-4a70-a49e-1ffa358a9d1e": {
+            "profile_id": "d051b405-14ae-4a70-a49e-1ffa358a9d1e",
+            "commune_slug": "lieusaint",
+            "bio_localized": "Électricien qualifié depuis 10 ans à Lieusaint, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Lieusaint, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Lieusaint, garantissant la sécurité de votre installation électrique.",
+            "trust_signal": "10 ans d'expérience confirmée à Lieusaint, électricien fiable et réactif",
+            "why_this_commune": "Yves Lambert est le choix idéal pour Lieusaint. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:46.048Z",
+            "used_fallback": false
+          },
+          "36b67415-6ae1-4ce5-aaea-07cfaabeb93b": {
+            "profile_id": "36b67415-6ae1-4ce5-aaea-07cfaabeb93b",
+            "commune_slug": "lieusaint",
+            "bio_localized": "Expert en domotique et automatisation à Lieusaint depuis 16 ans, Henri Petit accompagne les habitants de Seine-et-Marne dans la modernisation de leurs pavillons et immeubles. Spécialiste certifié, il propose des solutions intelligentes et durables pour optimiser votre confort et vos économies d'énergie.",
+            "local_badge": "Électricien expert de Lieusaint, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation, j'interviens régulièrement à Lieusaint pour moderniser vos installations électriques.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Lieusaint, intervention rapide garantie",
+            "why_this_commune": "Henri Petit est le choix idéal pour Lieusaint. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:58.554Z",
+            "used_fallback": false
+          },
+          "a1e16894-5dcb-46e2-bd69-9691d665c17e": {
+            "profile_id": "a1e16894-5dcb-46e2-bd69-9691d665c17e",
+            "commune_slug": "lieusaint",
+            "bio_localized": "François André, électricien expert à Lieusaint, maîtrise l'installation de tableaux électriques pour tous types d'habitats : pavillons, immeubles modernes et anciennes demeures. Fort de 5 ans d'expérience en Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et satisfaction client assurée.",
+            "local_badge": "Électricien expert de Lieusaint depuis des années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Lieusaint et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée à Lieusaint, interventions rapides et fiables garanties",
+            "why_this_commune": "François André est le choix idéal pour Lieusaint. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:12.860Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "limoges-fourches": {
+        "commune_name": "LIMOGES-FOURCHES",
+        "postal_code": "77550",
+        "department": "77",
+        "electricians": {
+          "9771c199-24d4-4047-99c0-caabd56a3803": {
+            "profile_id": "9771c199-24d4-4047-99c0-caabd56a3803",
+            "commune_slug": "limoges-fourches",
+            "bio_localized": "Patrick Brun, électricien agréé Consuel à Limoges-Fourches, met ses 14 ans d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur pavillons, immeubles et bâtiments anciens avec rigueur et conformité aux normes en vigueur.",
+            "local_badge": "Électricien expert de Limoges-Fourches, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Limoges-Fourches, je certifie vos installations électriques en toute conformité réglementaire.",
+            "trust_signal": "14 ans d'expérience confirmée à Limoges-Fourches, électricien fiable et professionnel",
+            "why_this_commune": "Patrick Brun est le choix idéal pour Limoges-Fourches. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:25.851Z",
+            "used_fallback": false
+          },
+          "d08f6d48-be1d-4078-a49a-31f49574678d": {
+            "profile_id": "d08f6d48-be1d-4078-a49a-31f49574678d",
+            "commune_slug": "limoges-fourches",
+            "bio_localized": "Électricien qualifié depuis 14 ans à Limoges-Fourches, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis installations sécurisées et conformes. Devis gratuit, service réactif et professionnel.",
+            "local_badge": "Électricien expert de Limoges-Fourches, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Limoges-Fourches.",
+            "trust_signal": "14 ans d'expérience confirmée à Limoges-Fourches, électricien fiable et professionnel",
+            "why_this_commune": "Antoine Chevalier est le choix idéal pour Limoges-Fourches. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:38.289Z",
+            "used_fallback": false
+          },
+          "f4a1693b-69a2-42f4-9094-f09084ce8da8": {
+            "profile_id": "f4a1693b-69a2-42f4-9094-f09084ce8da8",
+            "commune_slug": "limoges-fourches",
+            "bio_localized": "Dominique Garnier, électricien expérimenté à Limoges-Fourches, intervient depuis 20 ans sur l'installation et la rénovation de tableaux électriques. Spécialiste reconnu en Seine-et-Marne, il sécurise les installations des pavillons et immeubles locaux avec professionnalisme et fiabilité. Votre confiance est sa priorité.",
+            "local_badge": "Électricien expert de Limoges-Fourches, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes de tableaux électriques à Limoges-Fourches et alentours.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Limoges-Fourches",
+            "why_this_commune": "Dominique Garnier est le choix idéal pour Limoges-Fourches. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:51.523Z",
+            "used_fallback": false
+          },
+          "b6b4f22c-bb57-46cb-9af8-15c00255a9fc": {
+            "profile_id": "b6b4f22c-bb57-46cb-9af8-15c00255a9fc",
+            "commune_slug": "limoges-fourches",
+            "bio_localized": "Électricien expérimenté depuis 14 ans, je maîtrise les interventions d'urgence 24/7 à Limoges-Fourches et ses environs. Spécialisé dans la rénovation électrique des pavillons et immeubles modernes de Seine-et-Marne, je garantis des solutions rapides et fiables pour tous vos besoins électriques, jour et nuit.",
+            "local_badge": "Électricien expert de Limoges-Fourches, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos problèmes électriques à Limoges-Fourches, intervention rapide garantie.",
+            "trust_signal": "14 ans d'expérience confirmée à Limoges-Fourches, électricien fiable et professionnel",
+            "why_this_commune": "Daniel Barbier est un excellent choix pour Limoges-Fourches. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:08:04.964Z",
+            "used_fallback": false
+          },
+          "e24e82f2-c2f9-409c-a507-1c5b91ef6333": {
+            "profile_id": "e24e82f2-c2f9-409c-a507-1c5b91ef6333",
+            "commune_slug": "limoges-fourches",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, je spécialise dans l'installation de bornes de recharge à Limoges-Fourches et ses environs. Intervenant sur les pavillons et résidences de Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et service réactif pour tous vos projets électriques.",
+            "local_badge": "Électricien expert de Limoges-Fourches, intervention rapide",
+            "service_highlight": "Installateur de bornes de recharge électrique spécialisé à Limoges-Fourches pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Limoges-Fourches, interventions rapides garanties",
+            "why_this_commune": "Julien Philippe est le choix idéal pour Limoges-Fourches. Électricien local, il maîtrise parfaitement les spécificités architecturales et les caractéristiques du réseau électrique de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:18.972Z",
+            "used_fallback": false
+          },
+          "8148c340-510b-4348-a9fe-d7aae0ad9c09": {
+            "profile_id": "8148c340-510b-4348-a9fe-d7aae0ad9c09",
+            "commune_slug": "limoges-fourches",
+            "bio_localized": "Électricien expert en domotique et automatisation à Limoges-Fourches, Henri Duval met ses 18 ans d'expérience au service des habitants de Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il garantit des installations intelligentes fiables et sécurisées. Votre satisfaction est sa priorité.",
+            "local_badge": "Électricien expert de Limoges-Fourches, intervention rapide",
+            "service_highlight": "Automatisation et domotique intelligente pour vos installations électriques à Limoges-Fourches",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable à Limoges-Fourches",
+            "why_this_commune": "Henri Duval est le choix idéal pour Limoges-Fourches. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette zone de Seine-et-Marne, il offre un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:08:31.858Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "lissy": {
+        "commune_name": "LISSY",
+        "postal_code": "77550",
+        "department": "77",
+        "electricians": {
+          "9771c199-24d4-4047-99c0-caabd56a3803": {
+            "profile_id": "9771c199-24d4-4047-99c0-caabd56a3803",
+            "commune_slug": "lissy",
+            "bio_localized": "Patrick Brun, électricien agréé Consuel à Lissy, met ses 14 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques pour pavillons et immeubles, il garantit la conformité et la sécurité de vos installations. Intervient sur Lissy et ses environs avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Lissy, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Lissy, je garantis la conformité de vos installations électriques résidentielles et commerciales.",
+            "trust_signal": "14 ans d'expérience confirmée, électricien fiable et reconnu à Lissy",
+            "why_this_commune": "Patrick Brun est un excellent choix pour Lissy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:45.005Z",
+            "used_fallback": false
+          },
+          "d08f6d48-be1d-4078-a49a-31f49574678d": {
+            "profile_id": "d08f6d48-be1d-4078-a49a-31f49574678d",
+            "commune_slug": "lissy",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Lissy, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Lissy, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations et commerces de Lissy.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et réactif à Lissy",
+            "why_this_commune": "Antoine Chevalier est le choix idéal pour Lissy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:57.701Z",
+            "used_fallback": false
+          },
+          "e24e82f2-c2f9-409c-a507-1c5b91ef6333": {
+            "profile_id": "e24e82f2-c2f9-409c-a507-1c5b91ef6333",
+            "commune_slug": "lissy",
+            "bio_localized": "Électricien qualifié depuis 5 ans à Lissy, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et intervention rapide sur votre commune.",
+            "local_badge": "Électricien expert de Lissy, intervention rapide garantie",
+            "service_highlight": "Spécialiste de l'installation de bornes de recharge électrique pour véhicules à Lissy et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Lissy",
+            "why_this_commune": "Julien Philippe est le choix idéal pour Lissy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:10.791Z",
+            "used_fallback": false
+          },
+          "f4a1693b-69a2-42f4-9094-f09084ce8da8": {
+            "profile_id": "f4a1693b-69a2-42f4-9094-f09084ce8da8",
+            "commune_slug": "lissy",
+            "bio_localized": "Électricien expérimenté depuis 20 ans, Dominique Garnier intervient à Lissy pour l'installation et la rénovation de tableaux électriques. Spécialiste reconnu en électricité résidentielle, il accompagne les habitants de Seine-et-Marne dans leurs projets, des pavillons aux immeubles, avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Lissy, intervention rapide",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques résidentiels à Lissy.",
+            "trust_signal": "20 ans d'expérience électricien à Lissy, interventions rapides et fiables",
+            "why_this_commune": "Dominique Garnier est le choix idéal pour Lissy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:23.313Z",
+            "used_fallback": false
+          },
+          "2373414f-7b90-4feb-8144-8230d7e7d8e8": {
+            "profile_id": "2373414f-7b90-4feb-8144-8230d7e7d8e8",
+            "commune_slug": "lissy",
+            "bio_localized": "Électricien expérimenté à Lissy depuis 20 ans, Robert Rodriguez maîtrise la rénovation électrique de tous types de bâtiments. Des pavillons aux immeubles modernes de Seine-et-Marne, il garantit des installations sécurisées et conformes. Votre expert local pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Lissy, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Lissy, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Lissy, interventions rapides garanties",
+            "why_this_commune": "Robert Rodriguez est un excellent choix pour Lissy. Électricien expérimenté dans la Seine-et-Marne, il connaît parfaitement les caractéristiques des bâtiments locaux et les spécificités de vos quartiers. Sa proximité garantit des interventions rapides et efficaces, adaptées aux besoins de la commune.",
+            "generated_at": "2025-11-16T05:09:37.344Z",
+            "used_fallback": false
+          },
+          "a4dfba53-7c22-40c3-9e26-7c108a6b41fc": {
+            "profile_id": "a4dfba53-7c22-40c3-9e26-7c108a6b41fc",
+            "commune_slug": "lissy",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Lissy, je maîtrise les installations électriques des pavillons et immeubles de Seine-et-Marne. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme et rigueur. Diagnostic précis et travail soigné garantis pour sécuriser votre habitation.",
+            "local_badge": "Électricien expert de Lissy, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Lissy pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "9 ans d'expérience électricien confirmé à Lissy, interventions rapides garanties",
+            "why_this_commune": "Alain Brunet, électricien local à Lissy, maîtrise parfaitement les spécificités des bâtiments et quartiers de Seine-et-Marne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et de qualité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:09:49.972Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

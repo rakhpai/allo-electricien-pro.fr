@@ -1,0 +1,761 @@
+{
+  "lastProcessedCommune": "dammarie-les-lys",
+  "processedCommunes": [
+    "crecy-la-chapelle",
+    "cregy-les-meaux",
+    "crevec-ur-en-brie",
+    "crisenoy",
+    "croissy-beaubourg",
+    "crouy-sur-ourcq",
+    "cucharmoy",
+    "cuisy",
+    "dagny",
+    "dammarie-les-lys"
+  ],
+  "processed": {
+    "successful": 60,
+    "errors": 0,
+    "total": 128
+  },
+  "stats": {
+    "inputTokens": 67806,
+    "outputTokens": 17086,
+    "apiCalls": 300
+  },
+  "output": {
+    "generated_at": "2025-11-16T05:03:11.003Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "crecy-la-chapelle": {
+        "commune_name": "CRECY-LA-CHAPELLE",
+        "postal_code": "77580",
+        "department": "77",
+        "electricians": {
+          "f3ff68cb-f252-41bb-b9ba-1f0b1f237558": {
+            "profile_id": "f3ff68cb-f252-41bb-b9ba-1f0b1f237558",
+            "commune_slug": "crecy-la-chapelle",
+            "bio_localized": "Didier David, électricien expert à Crècy-la-Chapelle, intervient sur l'installation et la mise aux normes de tableaux électriques. Avec 14 ans d'expérience, il accompagne les habitants de Seine-et-Marne dans leurs projets résidentiels. Professionnel certifié, il garantit des installations sécurisées et conformes aux standards actuels.",
+            "local_badge": "Électricien expert de Crecy-la-Chapelle depuis années",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques à Crecy-la-Chapelle pour résidences et commerces.",
+            "trust_signal": "14 ans d'expertise électrique reconnue à Crecy-la-Chapelle, interventions fiables garanties",
+            "why_this_commune": "Didier David est le choix idéal pour Crecy-la-Chapelle. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:03:24.339Z",
+            "used_fallback": false
+          },
+          "c4e25591-90e8-4f2d-9be0-de8e3a9e634d": {
+            "profile_id": "c4e25591-90e8-4f2d-9be0-de8e3a9e634d",
+            "commune_slug": "crecy-la-chapelle",
+            "bio_localized": "Électricien professionnel à Crècy-la-Chapelle depuis 5 ans, je spécialise dans l'éclairage LED haute performance. Je modernise les installations électriques des pavillons et bâtiments locaux avec expertise et fiabilité. Solutions d'éclairage innovantes et économes pour résidences et professionnels en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Crecy-la-Chapelle depuis longtemps",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Crecy-la-Chapelle",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Crecy-la-Chapelle",
+            "why_this_commune": "Emmanuel Morel est un excellent choix pour Crecy-la-Chapelle. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:03:37.420Z",
+            "used_fallback": false
+          },
+          "a79f112a-a961-45ca-a857-6615a6fd5d5a": {
+            "profile_id": "a79f112a-a961-45ca-a857-6615a6fd5d5a",
+            "commune_slug": "crecy-la-chapelle",
+            "bio_localized": "Eric Lemoine, électricien expert à Crècy-la-Chapelle, maîtrise l'installation de tableaux électriques pour tous types d'habitats. Que vous occupiez un pavillon ou un immeuble en Seine-et-Marne, il garantit des installations conformes et durables. Avec 10 ans d'expérience, Eric assure votre sécurité électrique et votre satisfaction.",
+            "local_badge": "Électricien expert de Crecy-la-Chapelle depuis des années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les habitations de Crecy-la-Chapelle et ses environs.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Crecy-la-Chapelle, interventions rapides garanties",
+            "why_this_commune": "Eric Lemoine est le choix idéal pour Crecy-la-Chapelle. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:03:50.800Z",
+            "used_fallback": false
+          },
+          "31d6496e-3370-49f5-99bd-d4b697489f61": {
+            "profile_id": "31d6496e-3370-49f5-99bd-d4b697489f61",
+            "commune_slug": "crecy-la-chapelle",
+            "bio_localized": "Stéphane Martinez, électricien expert à Crècy-la-Chapelle, fort de 17 ans d'expérience en rénovation électrique. Spécialiste des installations aux normes dans les pavillons et bâtiments anciens de Seine-et-Marne. Interventions fiables et sécurisées pour moderniser votre habitat.",
+            "local_badge": "Électricien expert de Crecy-la-Chapelle depuis années",
+            "service_highlight": "Spécialiste en rénovation électrique pour les maisons anciennes et modernes de Crecy-la-Chapelle et ses environs.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et réactif à Crecy-la-Chapelle",
+            "why_this_commune": "Stéphane Martinez est le choix idéal pour Crecy-la-Chapelle. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:04.042Z",
+            "used_fallback": false
+          },
+          "b491facd-2f4f-4933-8a88-4fb8eff3cece": {
+            "profile_id": "b491facd-2f4f-4933-8a88-4fb8eff3cece",
+            "commune_slug": "crecy-la-chapelle",
+            "bio_localized": "Georges Meunier, électricien expert à Crècy-la-Chapelle, intervient depuis 16 ans sur l'installation et la rénovation de tableaux électriques. Spécialiste des pavillons et maisons anciennes de Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et professionnel pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Crecy-la-Chapelle, intervention rapide",
+            "service_highlight": "Spécialiste de l'installation et la mise aux normes de tableaux électriques résidentiels à Crecy-la-Chapelle",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Crecy-la-Chapelle",
+            "why_this_commune": "Georges Meunier est un excellent choix pour Crecy-la-Chapelle. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:17.953Z",
+            "used_fallback": false
+          },
+          "7048e3bf-acbd-4b34-838d-32016e352cbd": {
+            "profile_id": "7048e3bf-acbd-4b34-838d-32016e352cbd",
+            "commune_slug": "crecy-la-chapelle",
+            "bio_localized": "Électricien professionnel à Crècy-la-Chapelle depuis 11 ans, je spécialise dans l'éclairage LED professionnel pour les pavillons et bâtiments du secteur. Expertise complète en installations électriques modernes et économes en énergie. Interventions rapides et fiables en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Crecy-la-Chapelle depuis longtemps",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Crecy-la-Chapelle",
+            "trust_signal": "11 ans d'expérience électricien confirmé à Crecy-la-Chapelle, interventions fiables",
+            "why_this_commune": "Benjamin Roger est le choix idéal pour Crecy-la-Chapelle. Électricien local, il maîtrise parfaitement les spécificités architecturales et techniques de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:30.826Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "cregy-les-meaux": {
+        "commune_name": "CREGY-LES-MEAUX",
+        "postal_code": "77124",
+        "department": "77",
+        "electricians": {
+          "200121e4-cdaa-4e95-834b-4f960c795a8c": {
+            "profile_id": "200121e4-cdaa-4e95-834b-4f960c795a8c",
+            "commune_slug": "cregy-les-meaux",
+            "bio_localized": "Électricien depuis 18 ans à Cregy-les-Meaux, je maîtrise le dépannage express pour tous vos besoins. Spécialisé dans l'intervention rapide sur pavillons et immeubles de Seine-et-Marne, je garantis des solutions fiables et durables. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Cregy-les-Meaux depuis années",
+            "service_highlight": "Dépannage électrique express à Cregy-les-Meaux : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Cregy-les-Meaux, interventions rapides garanties",
+            "why_this_commune": "Vincent Chevalier est le choix idéal pour Cregy-les-Meaux. Électricien local, il maîtrise parfaitement les spécificités architecturales et les caractéristiques des bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une expertise adaptée à vos besoins.",
+            "generated_at": "2025-11-16T05:04:46.336Z",
+            "used_fallback": false
+          },
+          "c6819ff8-040a-4097-9a2f-8e77289959f1": {
+            "profile_id": "c6819ff8-040a-4097-9a2f-8e77289959f1",
+            "commune_slug": "cregy-les-meaux",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Georges Leclercq intervient à Cregy-les-Meaux pour l'installation de tableaux électriques. Spécialisé dans les pavillons et immeubles de Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert de Cregy-les-Meaux depuis des années",
+            "service_highlight": "Spécialiste de l'installation et la mise aux normes des tableaux électriques à Cregy-les-Meaux et ses environs.",
+            "trust_signal": "8 ans d'expérience confirmée à Cregy-les-Meaux, électricien fiable et réactif",
+            "why_this_commune": "Georges Leclercq est le choix idéal pour Cregy-les-Meaux. Électricien local, il maîtrise parfaitement les spécificités architecturales et les réseaux de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:59.275Z",
+            "used_fallback": false
+          },
+          "8280bc9f-5963-49d6-8745-489eaa8dda35": {
+            "profile_id": "8280bc9f-5963-49d6-8745-489eaa8dda35",
+            "commune_slug": "cregy-les-meaux",
+            "bio_localized": "Électricien qualifié depuis 13 ans à Cregy-les-Meaux, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis des installations conformes et durables. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Cregy-les-Meaux depuis des années",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Cregy-les-Meaux et ses alentours.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable à Cregy-les-Meaux",
+            "why_this_commune": "Jérôme Renard est un excellent choix pour Cregy-les-Meaux. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:05:14.027Z",
+            "used_fallback": false
+          },
+          "e0004f52-f09a-459d-8ab4-60afecca077e": {
+            "profile_id": "e0004f52-f09a-459d-8ab4-60afecca077e",
+            "commune_slug": "cregy-les-meaux",
+            "bio_localized": "René Girard, électricien expert à Cregy-les-Meaux, met ses 20 années d'expérience au service de votre rénovation électrique. Spécialisé dans la modernisation des installations, il intervient sur les pavillons et immeubles de Seine-et-Marne avec professionnalisme et fiabilité. Votre sécurité électrique est sa priorité.",
+            "local_badge": "Électricien expert de Cregy-les-Meaux depuis des années",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Cregy-les-Meaux, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "20 ans d'expérience électricien à Cregy-les-Meaux, intervention rapide garantie",
+            "why_this_commune": "René Girard, électricien local à Cregy-les-Meaux, connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:05:27.379Z",
+            "used_fallback": false
+          },
+          "7048e3bf-acbd-4b34-838d-32016e352cbd": {
+            "profile_id": "7048e3bf-acbd-4b34-838d-32016e352cbd",
+            "commune_slug": "cregy-les-meaux",
+            "bio_localized": "Électricien professionnel à Cregy-les-Meaux depuis 11 ans, je maîtrise l'installation d'éclairage LED pour tous types de bâtiments. Du pavillon à l'immeuble collectif, j'optimise votre consommation énergétique avec des solutions modernes et durables. Expertise complète en électricité générale et conseil personnalisé.",
+            "local_badge": "Électricien expert de Cregy-les-Meaux depuis années",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Cregy-les-Meaux pour optimiser vos installations lumineuses.",
+            "trust_signal": "11 ans d'expérience électricien à Cregy-les-Meaux, interventions rapides et fiables",
+            "why_this_commune": "Benjamin Roger, électricien local à Cregy-les-Meaux, maîtrise parfaitement les spécificités architecturales de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans cette zone de Seine-et-Marne, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:05:40.625Z",
+            "used_fallback": false
+          },
+          "b491facd-2f4f-4933-8a88-4fb8eff3cece": {
+            "profile_id": "b491facd-2f4f-4933-8a88-4fb8eff3cece",
+            "commune_slug": "cregy-les-meaux",
+            "bio_localized": "Georges Meunier, électricien expert à Cregy-les-Meaux, intervient depuis 16 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles de Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses préoccupations.",
+            "local_badge": "Électricien expert de Cregy-les-Meaux depuis des années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les habitations de Cregy-les-Meaux et ses alentours.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Cregy-les-Meaux, intervention rapide garantie",
+            "why_this_commune": "Georges Meunier est le choix idéal pour Cregy-les-Meaux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:05:53.368Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "crevec-ur-en-brie": {
+        "commune_name": "CRÈVECŒUR-EN-BRIE",
+        "postal_code": "77610",
+        "department": "77",
+        "electricians": {
+          "11f41c9a-316f-4389-a7d1-638da2dbfd02": {
+            "profile_id": "11f41c9a-316f-4389-a7d1-638da2dbfd02",
+            "commune_slug": "crevec-ur-en-brie",
+            "bio_localized": "Gérard Sanchez, électricien expert en domotique et automatisation à Crèvecœur-en-Brie. Fort de 9 ans d'expérience, je modernise les installations électriques des pavillons et maisons de Seine-et-Marne. Spécialisé dans l'automatisation résidentielle, je garantis des solutions innovantes, fiables et adaptées à votre habitat. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Crèvecœur-en-Brie depuis longtemps",
+            "service_highlight": "Électricien domotique à Crèvecœur-en-Brie, je conçois et installe des systèmes d'automatisation pour votre maison intelligente.",
+            "trust_signal": "9 ans d'expérience électricien confirmé à Crèvecœur-en-Brie, interventions rapides garanties",
+            "why_this_commune": "Gérard Sanchez est le choix idéal pour Crèvecœur-en-Brie. Électricien local expérimenté, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Seine-et-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:06:06.748Z",
+            "used_fallback": false
+          },
+          "7a087381-8b88-45cb-ac39-e9813a90a436": {
+            "profile_id": "7a087381-8b88-45cb-ac39-e9813a90a436",
+            "commune_slug": "crevec-ur-en-brie",
+            "bio_localized": "Expert en installation de tableaux électriques à Crèvecœur-en-Brie depuis 16 ans. Je sécurise les installations électriques de vos pavillons et maisons avec professionnalisme et rigueur. Certifié et expérimenté, je garantis des travaux conformes aux normes en vigueur pour votre tranquillité.",
+            "local_badge": "Électricien expert de Crèvecœur-en-Brie depuis années",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Crèvecœur-en-Brie pour résidences et petits commerces.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Crèvecœur-en-Brie, interventions rapides garanties",
+            "why_this_commune": "Eric Nicolas est le choix idéal pour Crèvecœur-en-Brie. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:20.689Z",
+            "used_fallback": false
+          },
+          "c4e25591-90e8-4f2d-9be0-de8e3a9e634d": {
+            "profile_id": "c4e25591-90e8-4f2d-9be0-de8e3a9e634d",
+            "commune_slug": "crevec-ur-en-brie",
+            "bio_localized": "Électricien professionnel basé à Crèvecœur-en-Brie, je maîtrise l'éclairage LED depuis 5 ans. Spécialisé dans les installations modernes et efficaces énergétiques, j'interviens sur les pavillons et résidences de Seine-et-Marne. Qualité, fiabilité et disponibilité garanties pour vos projets électriques.",
+            "local_badge": "Électricien expert de Crèvecœur-en-Brie depuis longtemps",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités de Crèvecœur-en-Brie.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Crèvecœur-en-Brie",
+            "why_this_commune": "Emmanuel Morel est le choix idéal pour Crèvecœur-en-Brie. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments briards et les spécificités de chaque quartier. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la région assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:06:33.792Z",
+            "used_fallback": false
+          },
+          "a79f112a-a961-45ca-a857-6615a6fd5d5a": {
+            "profile_id": "a79f112a-a961-45ca-a857-6615a6fd5d5a",
+            "commune_slug": "crevec-ur-en-brie",
+            "bio_localized": "Expert en installation de tableaux électriques à Crèvecœur-en-Brie depuis 10 ans, je maîtrise les spécificités des pavillons briards et constructions modernes. Intervention rapide et fiable pour vos besoins électriques. Certification professionnelle et satisfaction client garanties en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Crèvecœur-en-Brie depuis années",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques à Crèvecœur-en-Brie pour vos besoins résidentiels et professionnels.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et réactif à Crèvecœur-en-Brie",
+            "why_this_commune": "Eric Lemoine est le choix idéal pour Crèvecœur-en-Brie. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:47.542Z",
+            "used_fallback": false
+          },
+          "31d6496e-3370-49f5-99bd-d4b697489f61": {
+            "profile_id": "31d6496e-3370-49f5-99bd-d4b697489f61",
+            "commune_slug": "crevec-ur-en-brie",
+            "bio_localized": "Électricien spécialisé en rénovation électrique à Crèvecœur-en-Brie, Stéphane Martinez met ses 17 années d'expertise au service des pavillons et maisons briards. Interventions fiables et conformes aux normes, du diagnostic à la mise aux normes complète. Votre électricien de confiance en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Crèvecœur-en-Brie depuis années",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Crèvecœur-en-Brie, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et réactif à Crèvecœur-en-Brie",
+            "why_this_commune": "Stéphane Martinez est le choix idéal pour Crèvecœur-en-Brie. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:00.946Z",
+            "used_fallback": false
+          },
+          "54e9f06b-240a-458a-8e20-da157bf9207b": {
+            "profile_id": "54e9f06b-240a-458a-8e20-da157bf9207b",
+            "commune_slug": "crevec-ur-en-brie",
+            "bio_localized": "Électricien expérimenté à Crèvecœur-en-Brie, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de Seine-et-Marne. Avec 5 ans d'expertise, je garantis des installations sécurisées et conformes. Devis gratuit et interventions rapides dans votre commune.",
+            "local_badge": "Électricien expert de Crèvecœur-en-Brie depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Crèvecœur-en-Brie.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Crèvecœur-en-Brie",
+            "why_this_commune": "Charles Perrin est le choix idéal pour Crèvecœur-en-Brie. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:07:13.716Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "crisenoy": {
+        "commune_name": "CRISENOY",
+        "postal_code": "77390",
+        "department": "77",
+        "electricians": {
+          "2373414f-7b90-4feb-8144-8230d7e7d8e8": {
+            "profile_id": "2373414f-7b90-4feb-8144-8230d7e7d8e8",
+            "commune_slug": "crisenoy",
+            "bio_localized": "Fort de 20 ans d'expérience, Robert Rodriguez est votre électricien de confiance à Crisenoy. Spécialiste en rénovation électrique, il intervient sur les pavillons et maisons individuelles de Seine-et-Marne. Travaux de mise aux normes, installations modernes : Rodriguez garantit des solutions électriques durables et sécurisées pour votre habitat.",
+            "local_badge": "Électricien expert de Crisenoy depuis longtemps",
+            "service_highlight": "Électricien expert en rénovation électrique à Crisenoy, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Crisenoy, interventions rapides garanties",
+            "why_this_commune": "Robert Rodriguez est le choix idéal pour Crisenoy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:27.297Z",
+            "used_fallback": false
+          },
+          "e24e82f2-c2f9-409c-a507-1c5b91ef6333": {
+            "profile_id": "e24e82f2-c2f9-409c-a507-1c5b91ef6333",
+            "commune_slug": "crisenoy",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, je vous propose l'installation de bornes de recharge adaptées aux pavillons et maisons de Crisenoy. Spécialiste en équipements électriques modernes, je garantis des interventions rapides et sécurisées. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Crisenoy depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Crisenoy pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée, interventions rapides et fiables à Crisenoy",
+            "why_this_commune": "Julien Philippe est le choix idéal pour Crisenoy. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:39.882Z",
+            "used_fallback": false
+          },
+          "4b7c294a-cbaa-468b-8df9-5b0dbfae443e": {
+            "profile_id": "4b7c294a-cbaa-468b-8df9-5b0dbfae443e",
+            "commune_slug": "crisenoy",
+            "bio_localized": "Électricien qualifié depuis 12 ans, je suis spécialisé dans l'installation de bornes de recharge à Crisenoy et ses environs. Je propose des solutions adaptées aux pavillons et résidences de Seine-et-Marne. Devis gratuit et intervention rapide pour tous vos besoins en électricité.",
+            "local_badge": "Électricien expert de Crisenoy depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Crisenoy pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à Crisenoy",
+            "why_this_commune": "Fabrice Vidal est le choix idéal pour Crisenoy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:52.376Z",
+            "used_fallback": false
+          },
+          "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f": {
+            "profile_id": "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f",
+            "commune_slug": "crisenoy",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Crisenoy, je maîtrise tous les types d'installations, des pavillons aux immeubles modernes de Seine-et-Marne. Disponible 24/7 pour vos urgences électriques, je garantis des interventions rapides et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Crisenoy depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Crisenoy pour tous vos dépannages et installations électriques.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Crisenoy et région",
+            "why_this_commune": "Bernard Lucas est le choix idéal pour Crisenoy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:06.377Z",
+            "used_fallback": false
+          },
+          "f4a1693b-69a2-42f4-9094-f09084ce8da8": {
+            "profile_id": "f4a1693b-69a2-42f4-9094-f09084ce8da8",
+            "commune_slug": "crisenoy",
+            "bio_localized": "Dominique Garnier, électricien expert à Crisenoy, intervient sur l'installation et la rénovation de tableaux électriques pour les pavillons et résidences de Seine-et-Marne. Fort de 20 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert de Crisenoy, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Crisenoy, garantissant conformité et sécurité pour votre habitation.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Crisenoy, interventions rapides et fiables",
+            "why_this_commune": "Dominique Garnier est le choix idéal pour Crisenoy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:20.138Z",
+            "used_fallback": false
+          },
+          "e7bac67e-08c9-4bd3-ab77-ec59a92d561c": {
+            "profile_id": "e7bac67e-08c9-4bd3-ab77-ec59a92d561c",
+            "commune_slug": "crisenoy",
+            "bio_localized": "Électricien expérimenté depuis 11 ans, je suis votre spécialiste du dépannage express à Crisenoy. Intervenant auprès des pavillons et résidences de Seine-et-Marne, je garantis une réactivité maximale pour tous vos problèmes électriques. Disponible rapidement, je vous offre un service fiable et professionnel.",
+            "local_badge": "Électricien expert de Crisenoy, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Crisenoy : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "11 ans d'expérience confirmée à Crisenoy, électricien fiable et professionnel",
+            "why_this_commune": "Thomas André est le choix idéal pour Crisenoy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:33.138Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "croissy-beaubourg": {
+        "commune_name": "CROISSY-BEAUBOURG",
+        "postal_code": "77183",
+        "department": "77",
+        "electricians": {
+          "d8b0df04-e436-456a-aed2-d2e55556b4cf": {
+            "profile_id": "d8b0df04-e436-456a-aed2-d2e55556b4cf",
+            "commune_slug": "croissy-beaubourg",
+            "bio_localized": "Électricien professionnel à Croissy-Beaubourg depuis 8 ans, je maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis des interventions rapides et un travail soigné. Votre satisfaction et votre sécurité sont mes priorités.",
+            "local_badge": "Électricien expert de Croissy-Beaubourg depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Croissy-Beaubourg pour tous vos besoins en installations et dépannages électriques résidentiels.",
+            "trust_signal": "8 ans d'expérience confirmée à Croissy-Beaubourg, électricien fiable et réactif",
+            "why_this_commune": "Jean Renard est le choix idéal pour Croissy-Beaubourg. Électricien local, il maîtrise les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:08:46.426Z",
+            "used_fallback": false
+          },
+          "609d6ccf-18ca-43fb-810a-88cd38cde161": {
+            "profile_id": "609d6ccf-18ca-43fb-810a-88cd38cde161",
+            "commune_slug": "croissy-beaubourg",
+            "bio_localized": "Électricien expert à Croissy-Beaubourg, je maîtrise le dépannage express pour tous types d'habitations : pavillons, immeubles modernes et constructions anciennes. Fort de 14 ans d'expérience en Seine-et-Marne, je garantis interventions rapides et solutions fiables pour vos urgences électriques.",
+            "local_badge": "Électricien expert de Croissy-Beaubourg depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Croissy-Beaubourg : interventions rapides et efficaces pour tous vos problèmes électriques.",
+            "trust_signal": "14 ans d'expérience confirmée à Croissy-Beaubourg, électricien fiable et professionnel",
+            "why_this_commune": "Maxime Mathieu, électricien local à Croissy-Beaubourg, maîtrise parfaitement les spécificités des bâtiments et quartiers de Seine-et-Marne. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience confirmée dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:08:59.227Z",
+            "used_fallback": false
+          },
+          "bfa4934e-23ae-4a38-aa76-de7b1751a7a2": {
+            "profile_id": "bfa4934e-23ae-4a38-aa76-de7b1751a7a2",
+            "commune_slug": "croissy-beaubourg",
+            "bio_localized": "Nicolas Vidal, électricien agréé Consuel à Croissy-Beaubourg, intervient depuis 9 ans sur les pavillons et immeubles de Seine-et-Marne. Spécialiste des installations électriques neuves et rénovations, il garantit la conformité de vos installations selon les normes en vigueur. Expertise reconnue pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert de Croissy-Beaubourg depuis des années",
+            "service_highlight": "Électricien agréé Consuel intervenant à Croissy-Beaubourg pour vos installations et conformités électriques résidentielles et professionnelles.",
+            "trust_signal": "9 ans d'expertise électrique à Croissy-Beaubourg, interventions rapides et fiables",
+            "why_this_commune": "Nicolas Vidal est un excellent choix pour Croissy-Beaubourg. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:09:13.556Z",
+            "used_fallback": false
+          },
+          "1459e2fe-809a-4b26-860c-252ee3f82e42": {
+            "profile_id": "1459e2fe-809a-4b26-860c-252ee3f82e42",
+            "commune_slug": "croissy-beaubourg",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Croissy-Beaubourg, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je vous propose des solutions adaptées et conformes. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert de Croissy-Beaubourg depuis des années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Croissy-Beaubourg et ses environs.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien de confiance à Croissy-Beaubourg",
+            "why_this_commune": "Jérôme Caron est le choix idéal pour Croissy-Beaubourg. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:25.756Z",
+            "used_fallback": false
+          },
+          "8e4bb98b-4926-478f-b391-c154b913a36d": {
+            "profile_id": "8e4bb98b-4926-478f-b391-c154b913a36d",
+            "commune_slug": "croissy-beaubourg",
+            "bio_localized": "Laurent Arnaud, électricien expert en domotique et automatisation à Croissy-Beaubourg, intervient depuis 15 ans sur les pavillons et immeubles de Seine-et-Marne. Spécialisé dans l'installation de systèmes intelligents, il garantit des solutions modernes et fiables adaptées à chaque habitat. Service professionnel et satisfaction client assurée.",
+            "local_badge": "Électricien expert de Croissy-Beaubourg depuis longtemps",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les résidences de Croissy-Beaubourg et ses environs.",
+            "trust_signal": "15 ans d'expérience confirmée à Croissy-Beaubourg, électricien fiable et réactif",
+            "why_this_commune": "Laurent Arnaud est le choix idéal pour Croissy-Beaubourg. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:39.033Z",
+            "used_fallback": false
+          },
+          "5c54036c-90a3-44a5-8315-072aabd6ba40": {
+            "profile_id": "5c54036c-90a3-44a5-8315-072aabd6ba40",
+            "commune_slug": "croissy-beaubourg",
+            "bio_localized": "Électricien expert à Croissy-Beaubourg depuis 16 ans, je maîtrise le dépannage express pour tous les types d'habitations : pavillons, immeubles modernes et constructions anciennes. Disponible rapidement en Seine-et-Marne, je garantis des interventions fiables et professionnelles pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert de Croissy-Beaubourg depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Croissy-Beaubourg : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et qualifié à Croissy-Beaubourg",
+            "why_this_commune": "Thomas Rolland est le choix idéal pour Croissy-Beaubourg. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:51.929Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "crouy-sur-ourcq": {
+        "commune_name": "CROUY-SUR-OURCQ",
+        "postal_code": "77840",
+        "department": "77",
+        "electricians": {
+          "39c22db2-109b-4202-ba66-a26c088263c3": {
+            "profile_id": "39c22db2-109b-4202-ba66-a26c088263c3",
+            "commune_slug": "crouy-sur-ourcq",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Crouy-sur-Ourcq, Michel Gaillard intervient sur tous types de bâtiments : pavillons, immeubles et constructions modernes. Spécialisé en électricité générale, il garantit des installations conformes et un service fiable. Intervention rapide et travail soigné pour tous vos besoins électriques en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Crouy-sur-Ourcq, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Crouy-sur-Ourcq pour particuliers et professionnels.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Crouy-sur-Ourcq, interventions rapides garanties",
+            "why_this_commune": "Michel Gaillard est le choix idéal pour Crouy-sur-Ourcq. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:06.990Z",
+            "used_fallback": false
+          },
+          "fa9dd253-da86-45b7-ac2a-44ef28c8189d": {
+            "profile_id": "fa9dd253-da86-45b7-ac2a-44ef28c8189d",
+            "commune_slug": "crouy-sur-ourcq",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Crouy-sur-Ourcq, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de Seine-et-Marne. Intervention rapide, devis gratuit et travail conforme aux standards actuels. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert de Crouy-sur-Ourcq, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité à Crouy-sur-Ourcq.",
+            "trust_signal": "10 ans d'expérience confirmée à Crouy-sur-Ourcq, électricien fiable et professionnel",
+            "why_this_commune": "Charles Durand est le choix idéal pour Crouy-sur-Ourcq. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:10:20.003Z",
+            "used_fallback": false
+          },
+          "e16d86fc-8b2b-4b01-9563-be07ed550288": {
+            "profile_id": "e16d86fc-8b2b-4b01-9563-be07ed550288",
+            "commune_slug": "crouy-sur-ourcq",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je propose l'installation de bornes de recharge sur Crouy-sur-Ourcq et ses environs. Spécialisé dans les solutions de mobilité électrique, j'interviens sur pavillons et immeubles. Devis gratuit, travail soigné et conforme aux normes. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Crouy-sur-Ourcq, intervention rapide",
+            "service_highlight": "Expert en installation de bornes de recharge électrique à Crouy-sur-Ourcq pour particuliers et professionnels.",
+            "trust_signal": "15 ans d'expertise électrique à Crouy-sur-Ourcq, intervention rapide garantie",
+            "why_this_commune": "Frédéric Vincent est le choix idéal pour Crouy-sur-Ourcq. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:33.205Z",
+            "used_fallback": false
+          },
+          "8280bc9f-5963-49d6-8745-489eaa8dda35": {
+            "profile_id": "8280bc9f-5963-49d6-8745-489eaa8dda35",
+            "commune_slug": "crouy-sur-ourcq",
+            "bio_localized": "Électricien qualifié depuis 13 ans à Crouy-sur-Ourcq, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis des interventions rapides et fiables. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert de Crouy-sur-Ourcq, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Crouy-sur-Ourcq pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "13 ans d'expérience électricien confirmé à Crouy-sur-Ourcq",
+            "why_this_commune": "Jérôme Renard est le choix idéal pour Crouy-sur-Ourcq. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et une expertise adaptée à vos besoins.",
+            "generated_at": "2025-11-16T05:10:46.739Z",
+            "used_fallback": false
+          },
+          "853ee8e6-c215-46e7-9712-c4595018b162": {
+            "profile_id": "853ee8e6-c215-46e7-9712-c4595018b162",
+            "commune_slug": "crouy-sur-ourcq",
+            "bio_localized": "Électricien qualifié depuis 19 ans à Crouy-sur-Ourcq, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Crouy-sur-Ourcq, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Crouy-sur-Ourcq pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Crouy-sur-Ourcq",
+            "why_this_commune": "Julien Sanchez est le choix idéal pour Crouy-sur-Ourcq. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:10:59.598Z",
+            "used_fallback": false
+          },
+          "7e0c85f4-54cb-45d5-b7dc-ffc0e17a5470": {
+            "profile_id": "7e0c85f4-54cb-45d5-b7dc-ffc0e17a5470",
+            "commune_slug": "crouy-sur-ourcq",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Robert Nicolas intervient à Crouy-sur-Ourcq et ses environs. Spécialiste en rénovation électrique, il modernise pavillons et immeubles avec professionnalisme. Ses interventions garantissent sécurité et conformité aux normes actuelles pour tous types d'habitations.",
+            "local_badge": "Électricien expert de Crouy-sur-Ourcq, intervention rapide",
+            "service_highlight": "Rénovation électrique complète pour maisons anciennes et modernes à Crouy-sur-Ourcq, mise aux normes garantie.",
+            "trust_signal": "8 ans d'expérience confirmée à Crouy-sur-Ourcq, électricien fiable et réactif",
+            "why_this_commune": "Robert Nicolas est le choix idéal pour Crouy-sur-Ourcq. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et une expertise adaptée à vos besoins.",
+            "generated_at": "2025-11-16T05:11:13.105Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "cucharmoy": {
+        "commune_name": "CUCHARMOY",
+        "postal_code": "77160",
+        "department": "77",
+        "electricians": {
+          "95a68b59-a0ac-4250-8658-7be5d58f3f29": {
+            "profile_id": "95a68b59-a0ac-4250-8658-7be5d58f3f29",
+            "commune_slug": "cucharmoy",
+            "bio_localized": "Électricien spécialisé en domotique et automatisation à Cucharmoy depuis 20 ans, je modernise les installations électriques de vos pavillons et maisons de Seine-et-Marne. Expert certifié, je vous propose des solutions intelligentes et fiables pour optimiser votre confort et votre sécurité au quotidien.",
+            "local_badge": "Électricien expert de Cucharmoy, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation à Cucharmoy pour moderniser votre habitat intelligent.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Cucharmoy, interventions rapides garanties",
+            "why_this_commune": "Luc Gautier est le choix idéal pour Cucharmoy. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:26.184Z",
+            "used_fallback": false
+          },
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "cucharmoy",
+            "bio_localized": "Expert certifié en installation tableau électrique à Cucharmoy depuis 10 ans. Je maîtrise les normes électriques pour les pavillons et immeubles de Seine-et-Marne. Intervention rapide, travail soigné et garantie client. Votre électricien de confiance en Île-de-France pour tous vos projets d'électricité.",
+            "local_badge": "Électricien expert de Cucharmoy, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Cucharmoy, garantissant conformité et sécurité pour tous vos projets.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Cucharmoy, interventions fiables et rapides",
+            "why_this_commune": "Eric Vincent, électricien établi à Cucharmoy en Seine-et-Marne, maîtrise parfaitement les spécificités des bâtiments locaux. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:11:39.266Z",
+            "used_fallback": false
+          },
+          "9cf3a72e-3ad2-4184-8bae-d61fea31fd92": {
+            "profile_id": "9cf3a72e-3ad2-4184-8bae-d61fea31fd92",
+            "commune_slug": "cucharmoy",
+            "bio_localized": "Électricien depuis 13 ans à Cucharmoy, je spécialise dans l'éclairage LED professionnel. Intervenant sur les pavillons et bâtiments de Seine-et-Marne, je propose des solutions d'éclairage modernes, économes et durables. Expertise, fiabilité et disponibilité pour tous vos projets électriques.",
+            "local_badge": "Électricien expert de Cucharmoy, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel à Cucharmoy, je transforme vos installations lumineuses modernes.",
+            "trust_signal": "13 ans d'expérience et de fiabilité au service des habitants de Cucharmoy",
+            "why_this_commune": "Florian Marchand est le choix idéal pour Cucharmoy. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:11:51.891Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "cucharmoy",
+            "bio_localized": "Électricien qualifié depuis 10 ans à Cucharmoy, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et petits immeubles de Seine-et-Marne. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Cucharmoy, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Cucharmoy, garantissant la sécurité de vos installations électriques.",
+            "trust_signal": "10 ans d'expérience électricien à Cucharmoy, interventions rapides et fiables",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Cucharmoy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:04.710Z",
+            "used_fallback": false
+          },
+          "ecfda4f8-6f59-4e65-93e8-2bd415e03d93": {
+            "profile_id": "ecfda4f8-6f59-4e65-93e8-2bd415e03d93",
+            "commune_slug": "cucharmoy",
+            "bio_localized": "Électricien expérimenté depuis 20 ans, Philippe Mercier intervient à Cucharmoy et ses environs en Seine-et-Marne. Spécialisé en électricité générale, il assure la maintenance et l'installation électrique de vos pavillons et habitations. Travail soigné, interventions rapides et fiables pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Cucharmoy, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Cucharmoy pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Cucharmoy, interventions rapides garanties",
+            "why_this_commune": "Philippe Mercier, électricien local à Cucharmoy, connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience en Seine-et-Marne, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:12:47.890Z",
+            "used_fallback": false
+          },
+          "769dde2e-2bd3-4fdc-a765-bbb4d388ac56": {
+            "profile_id": "769dde2e-2bd3-4fdc-a765-bbb4d388ac56",
+            "commune_slug": "cucharmoy",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, je maîtrise le dépannage express sur Cucharmoy et ses environs. Spécialisé dans l'intervention rapide sur pavillons et petits immeubles, je garantis une prise en charge immédiate de vos problèmes électriques. Disponible et réactif pour sécuriser votre installation.",
+            "local_badge": "Électricien expert de Cucharmoy, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Cucharmoy : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et professionnel à Cucharmoy",
+            "why_this_commune": "Maxime Morin est le choix idéal pour Cucharmoy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:01.070Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "cuisy": {
+        "commune_name": "CUISY",
+        "postal_code": "77165",
+        "department": "77",
+        "electricians": {
+          "e0004f52-f09a-459d-8ab4-60afecca077e": {
+            "profile_id": "e0004f52-f09a-459d-8ab4-60afecca077e",
+            "commune_slug": "cuisy",
+            "bio_localized": "Fort de 20 ans d'expérience, René Girard intervient à Cuisy et ses environs en Seine-et-Marne pour la rénovation électrique de vos habitats. Qu'il s'agisse de pavillons ou d'immeubles, il modernise vos installations avec professionnalisme et sérieux, garantissant sécurité et conformité aux normes actuelles.",
+            "local_badge": "Électricien expert de Cuisy, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique intervenant régulièrement à Cuisy pour moderniser vos installations anciennes.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Cuisy, interventions rapides garanties",
+            "why_this_commune": "René Girard est le choix idéal pour Cuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:14.725Z",
+            "used_fallback": false
+          },
+          "c6819ff8-040a-4097-9a2f-8e77289959f1": {
+            "profile_id": "c6819ff8-040a-4097-9a2f-8e77289959f1",
+            "commune_slug": "cuisy",
+            "bio_localized": "Électricien expert à Cuisy, je maîtrise l'installation de tableaux électriques pour tous types de bâtiments. Avec 8 ans d'expérience, j'interviens sur les pavillons et immeubles de Seine-et-Marne. Certifié et rigoureux, je garantis des installations sécurisées et conformes aux normes. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Cuisy, intervention rapide",
+            "service_highlight": "Électricien spécialisé en installation et mise aux normes de tableaux électriques à Cuisy pour tous types de bâtiments.",
+            "trust_signal": "8 ans d'expérience électricien confirmé à Cuisy, interventions rapides et fiables",
+            "why_this_commune": "Georges Leclercq est le choix idéal pour Cuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:27.627Z",
+            "used_fallback": false
+          },
+          "445ee13c-2473-43fa-9667-3182e9d9e1ee": {
+            "profile_id": "445ee13c-2473-43fa-9667-3182e9d9e1ee",
+            "commune_slug": "cuisy",
+            "bio_localized": "Fort de 18 ans d'expérience, Robert Leroy intervient à Cuisy et ses alentours pour tous vos besoins en rénovation électrique. Spécialiste des installations résidentielles, il modernise pavillons et petits immeubles avec professionnalisme et sérieux. Diagnostics complets et conformité aux normes garantis.",
+            "local_badge": "Électricien expert de Cuisy, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Cuisy, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Cuisy",
+            "why_this_commune": "Robert Leroy est le choix idéal pour Cuisy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:40.990Z",
+            "used_fallback": false
+          },
+          "37930c85-1e07-4a6a-bec5-6b9ea13dcee7": {
+            "profile_id": "37930c85-1e07-4a6a-bec5-6b9ea13dcee7",
+            "commune_slug": "cuisy",
+            "bio_localized": "Robert Morel, électricien expert à Cuisy, met ses 15 années d'expérience au service de vos rénovations électriques. Spécialiste des installations résidentielles en Seine-et-Marne, il intervient sur pavillons et immeubles avec professionnalisme et fiabilité. Votre électricité sécurisée, c'est sa priorité.",
+            "local_badge": "Électricien expert de Cuisy, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Cuisy, je modernise vos installations anciennes avec professionnalisme et fiabilité.",
+            "trust_signal": "15 ans d'expérience électricien à Cuisy, interventions rapides et fiables",
+            "why_this_commune": "Robert Morel est le choix idéal pour Cuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:54.302Z",
+            "used_fallback": false
+          },
+          "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86": {
+            "profile_id": "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86",
+            "commune_slug": "cuisy",
+            "bio_localized": "Électricien qualifié depuis 12 ans à Cuisy, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis des installations conformes et durables. Devis gratuit et interventions rapides dans votre commune.",
+            "local_badge": "Électricien expert de Cuisy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation de bornes de recharge pour véhicules électriques à Cuisy et alentours.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Cuisy",
+            "why_this_commune": "Julien Garcia est le choix idéal pour Cuisy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:26.346Z",
+            "used_fallback": false
+          },
+          "d820c27d-817a-4c5b-a19a-5b1af57c8914": {
+            "profile_id": "d820c27d-817a-4c5b-a19a-5b1af57c8914",
+            "commune_slug": "cuisy",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Cuisy, je maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon en Seine-et-Marne ou un immeuble local, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Cuisy, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Cuisy pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Cuisy",
+            "why_this_commune": "Philippe Bourgeois est le choix idéal pour Cuisy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:39.309Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "dagny": {
+        "commune_name": "DAGNY",
+        "postal_code": "77320",
+        "department": "77",
+        "electricians": {
+          "3b96883f-208b-40c1-96a1-11511e2cd078": {
+            "profile_id": "3b96883f-208b-40c1-96a1-11511e2cd078",
+            "commune_slug": "dagny",
+            "bio_localized": "Pascal Rolland, électricien agréé Consuel à Dagny, met ses 6 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur pavillons et immeubles avec rigueur. Diagnostics, mises aux normes et conformité électrique : votre sécurité est sa priorité.",
+            "local_badge": "Électricien expert de Dagny, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel intervenant à Dagny pour vos installations et conformités électriques en toute sécurité.",
+            "trust_signal": "6 ans d'expérience, électricien fiable et reconnu à Dagny",
+            "why_this_commune": "Pascal Rolland est le choix idéal pour Dagny. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:14:52.641Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "dagny",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, Alain Renard intervient en urgence 24/7 à Dagny et ses environs. Spécialisé dans la maintenance des pavillons et immeubles locaux, il garantit des interventions rapides et un travail soigné. Votre électricité en toute confiance, jour et nuit.",
+            "local_badge": "Électricien expert de Dagny, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Dagny, intervention rapide garantie.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Dagny",
+            "why_this_commune": "Alain Renard est le choix idéal pour Dagny. Électricien local, il maîtrise parfaitement les spécificités des bâtiments dagnyens et des quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:06.237Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "dagny",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Dagny, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences de Seine-et-Marne. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Dagny, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Dagny pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Dagny",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Dagny. Électricien local, il connaît parfaitement les spécificités des bâtiments dagnyens et leurs particularités. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone en Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:15:19.374Z",
+            "used_fallback": false
+          },
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "dagny",
+            "bio_localized": "Électricien qualifié intervenant à Dagny et ses alentours en Seine-et-Marne, je maîtrise l'électricité générale pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble, je garantis des interventions rapides, soignées et fiables. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Dagny, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Dagny.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Dagny",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Dagny. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers dagnyens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:15:32.269Z",
+            "used_fallback": false
+          },
+          "cff50c0f-a646-4eb5-b920-6b8df3f24a57": {
+            "profile_id": "cff50c0f-a646-4eb5-b920-6b8df3f24a57",
+            "commune_slug": "dagny",
+            "bio_localized": "Électricien qualifié depuis 10 ans à Dagny, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une pose conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Dagny, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge pour véhicules électriques à Dagny et ses environs.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et reconnu à Dagny",
+            "why_this_commune": "Guillaume Schmitt est le choix idéal pour Dagny. Électricien local, il maîtrise parfaitement les spécificités des bâtiments dagnyens et leurs quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:44.968Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "dagny",
+            "bio_localized": "Eric Barbier, électricien expert à Dagny en Seine-et-Marne, intervient sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et petits collectifs locaux, il garantit des installations conformes aux normes actuelles. Service fiable et client satisfait, depuis 5 ans au service de votre région.",
+            "local_badge": "Électricien expert de Dagny, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la mise aux normes des tableaux électriques à Dagny pour tous vos besoins résidentiels et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Dagny",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Dagny grâce à sa connaissance approfondie des bâtiments et quartiers locaux. Installé à proximité, il garantit des interventions rapides. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et adapté aux besoins spécifiques de la commune.",
+            "generated_at": "2025-11-16T05:15:58.181Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "dammarie-les-lys": {
+        "commune_name": "DAMMARIE-LES-LYS",
+        "postal_code": "77190",
+        "department": "77",
+        "electricians": {
+          "4cf56943-694d-4b94-95e8-a87678f0a91c": {
+            "profile_id": "4cf56943-694d-4b94-95e8-a87678f0a91c",
+            "commune_slug": "dammarie-les-lys",
+            "bio_localized": "Patrick Bernard, électricien agréé Consuel à Dammarie-les-Lys, intervient depuis 19 ans sur les pavillons et immeubles de Seine-et-Marne. Spécialiste en installations électriques professionnelles, il garantit la conformité et la sécurité de vos équipements. Expertise reconnue pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Dammarie-les-Lys depuis 10 ans",
+            "service_highlight": "Électricien agréé Consuel à Dammarie-les-Lys, garantissant la conformité et la sécurité de vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "19 ans d'expertise électrique reconnue à Dammarie-les-Lys",
+            "why_this_commune": "Patrick Bernard est un excellent choix pour Dammarie-les-Lys. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:11.592Z",
+            "used_fallback": false
+          },
+          "e7bac67e-08c9-4bd3-ab77-ec59a92d561c": {
+            "profile_id": "e7bac67e-08c9-4bd3-ab77-ec59a92d561c",
+            "commune_slug": "dammarie-les-lys",
+            "bio_localized": "Électricien expérimenté à Dammarie-les-Lys, je propose un dépannage express adapté aux pavillons et immeubles de Seine-et-Marne. Avec 11 ans de métier, j'interviens rapidement pour tous vos problèmes électriques. Disponible et fiable, je garantis des solutions durables pour votre tranquillité.",
+            "local_badge": "Électricien expert de Dammarie-les-Lys depuis des années",
+            "service_highlight": "Dépannage électrique express à Dammarie-les-Lys : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Dammarie-les-Lys",
+            "why_this_commune": "Thomas André est le choix idéal pour Dammarie-les-Lys. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:16:24.748Z",
+            "used_fallback": false
+          },
+          "88ef0b65-9a43-4556-bd2f-3628081ec438": {
+            "profile_id": "88ef0b65-9a43-4556-bd2f-3628081ec438",
+            "commune_slug": "dammarie-les-lys",
+            "bio_localized": "Luc Pierre, électricien expert en domotique et automatisation à Dammarie-les-Lys, intervient depuis 14 ans auprès des résidents de Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions domotiques innovantes et fiables. Service de qualité et satisfaction client garantis.",
+            "local_badge": "Électricien expert de Dammarie-les-Lys depuis années",
+            "service_highlight": "Électricien domotique spécialisé en automatisation d'habitations modernes à Dammarie-les-Lys et région.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Dammarie-les-Lys",
+            "why_this_commune": "Luc Pierre est le choix idéal pour Dammarie-les-Lys. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:16:37.554Z",
+            "used_fallback": false
+          },
+          "9e2426ec-18fb-4a54-b5e5-da3bb2e12233": {
+            "profile_id": "9e2426ec-18fb-4a54-b5e5-da3bb2e12233",
+            "commune_slug": "dammarie-les-lys",
+            "bio_localized": "Serge Barbier, électricien expert à Dammarie-les-Lys, maîtrise la rénovation électrique depuis 7 ans. Spécialiste des installations anciennes et modernes, il intervient sur pavillons et immeubles de Seine-et-Marne. Travaux fiables et conformes aux normes, pour un habitat sécurisé et fonctionnel.",
+            "local_badge": "Électricien expert de Dammarie-les-Lys depuis longtemps",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Dammarie-les-Lys, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée à Dammarie-les-Lys, électricien fiable et réactif",
+            "why_this_commune": "Serge Barbier est le choix idéal pour Dammarie-les-Lys. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:50.446Z",
+            "used_fallback": false
+          },
+          "4b7c294a-cbaa-468b-8df9-5b0dbfae443e": {
+            "profile_id": "4b7c294a-cbaa-468b-8df9-5b0dbfae443e",
+            "commune_slug": "dammarie-les-lys",
+            "bio_localized": "Électricien expert depuis 12 ans, je spécialise dans l'installation de bornes de recharge à Dammarie-les-Lys. Je maîtrise les installations résidentielles dans les pavillons et immeubles de Seine-et-Marne. Devis gratuit, intervention rapide et professionnelle. Votre mobilité électrique, ma priorité.",
+            "local_badge": "Électricien expert de Dammarie-les-Lys depuis des années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge électrique à Dammarie-les-Lys pour véhicules écologiques.",
+            "trust_signal": "12 ans d'expérience électricien à Dammarie-les-Lys, interventions rapides et fiables",
+            "why_this_commune": "Fabrice Vidal est le choix idéal pour Dammarie-les-Lys. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:03.603Z",
+            "used_fallback": false
+          },
+          "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f": {
+            "profile_id": "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f",
+            "commune_slug": "dammarie-les-lys",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Dammarie-les-Lys, je maîtrise l'électricité résidentielle et commerciale. Disponible 24/7 pour vos urgences, j'interviens rapidement dans les pavillons et immeubles de Seine-et-Marne. Travail soigné et solutions durables garanties.",
+            "local_badge": "Électricien expert de Dammarie-les-Lys depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Dammarie-les-Lys pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Dammarie-les-Lys",
+            "why_this_commune": "Bernard Lucas, électricien local à Dammarie-les-Lys, connaît parfaitement les spécificités des bâtiments et quartiers de Seine-et-Marne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:17:16.979Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

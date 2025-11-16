@@ -1,0 +1,761 @@
+{
+  "lastProcessedCommune": "auvers-saint-georges",
+  "processedCommunes": [
+    "evry",
+    "abbeville-la-riviere",
+    "angerville",
+    "angervilliers",
+    "arpajon",
+    "arrancourt",
+    "athis-mons",
+    "authon-la-plaine",
+    "auvernaux",
+    "auvers-saint-georges"
+  ],
+  "processed": {
+    "successful": 60,
+    "errors": 0,
+    "total": 197
+  },
+  "stats": {
+    "inputTokens": 65446,
+    "outputTokens": 16416,
+    "apiCalls": 300
+  },
+  "output": {
+    "generated_at": "2025-11-16T05:03:20.992Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "evry": {
+        "commune_name": "EVRY",
+        "postal_code": "91090",
+        "department": "91",
+        "electricians": {
+          "1f474ed1-9439-4e09-b1a0-416f5769aa66": {
+            "profile_id": "1f474ed1-9439-4e09-b1a0-416f5769aa66",
+            "commune_slug": "evry",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Évry, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles modernes. Intervenant rapidement en Essonne, je garantis devis gratuit et installations sécurisées conformes aux dernières réglementations électriques.",
+            "local_badge": "Électricien expert d'Évry, interventions rapides garanties",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Évry, je sécurise vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "13 ans d'expérience électricien à Évry, interventions rapides et fiables garanties",
+            "why_this_commune": "Thierry Fournier, électricien basé à Évry, connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone essonnienne en fait un professionnel fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:03:33.871Z",
+            "used_fallback": false
+          },
+          "708dd742-caa2-43cb-bb47-7df7bae361bf": {
+            "profile_id": "708dd742-caa2-43cb-bb47-7df7bae361bf",
+            "commune_slug": "evry",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Évry, je maîtrise l'électricité générale sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes de l'Essonne. Interventions rapides et soignées garanties. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert à Évry, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Évry.",
+            "trust_signal": "16 ans d'expérience, électricien fiable et reconnu à Évry",
+            "why_this_commune": "André Marie est un excellent choix pour Évry. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers essonniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:03:47.705Z",
+            "used_fallback": false
+          },
+          "2f797855-b577-4c1f-bc1a-1ee76e2d6840": {
+            "profile_id": "2f797855-b577-4c1f-bc1a-1ee76e2d6840",
+            "commune_slug": "evry",
+            "bio_localized": "Dominique Olivier, électricien expert à Évry, intervient sur l'installation et la rénovation de tableaux électriques dans les pavillons et immeubles modernes de l'Essonne. Avec 19 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert à Évry, intervention rapide garantie",
+            "service_highlight": "Électricien expert en installation et rénovation de tableaux électriques pour les résidences d'Évry et ses environs.",
+            "trust_signal": "19 ans d'expérience, électricien fiable et reconnu à Évry",
+            "why_this_commune": "Dominique Olivier est le choix idéal pour Évry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers essonniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:04:00.589Z",
+            "used_fallback": false
+          },
+          "039bc952-d120-4162-b344-138c3f7e93f2": {
+            "profile_id": "039bc952-d120-4162-b344-138c3f7e93f2",
+            "commune_slug": "evry",
+            "bio_localized": "Électricien expérimenté à Évry, Robert Rodriguez intervient depuis 15 ans sur la rénovation électrique des pavillons et immeubles modernes de l'Essonne. Spécialiste des mises aux normes et installations sécurisées, il garantit des travaux fiables et durables pour votre habitat.",
+            "local_badge": "Électricien expert d'Évry, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, j'interviens sur tous les logements anciens d'Évry pour moderniser vos installations en toute sécurité.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Évry, interventions rapides garanties",
+            "why_this_commune": "Robert Rodriguez est un excellent choix pour Évry. Basé localement en Essonne, il maîtrise parfaitement les spécificités des bâtiments et quartiers d'Évry. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:04:14.369Z",
+            "used_fallback": false
+          },
+          "c806016f-079e-4882-a1cd-184ba7dc7206": {
+            "profile_id": "c806016f-079e-4882-a1cd-184ba7dc7206",
+            "commune_slug": "evry",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je spécialise dans l'installation de bornes de recharge à Évry. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je garantis des installations conformes et sécurisées. Devis gratuit et intervention rapide sur toute la commune.",
+            "local_badge": "Électricien expert d'Évry, interventions rapides garanties",
+            "service_highlight": "Électricien spécialisé en installation de bornes de recharge pour véhicules électriques à Évry et ses alentours.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Évry, interventions rapides et fiables",
+            "why_this_commune": "Julien Aubert est le choix idéal pour Évry. Électricien local, il maîtrise les spécificités des bâtiments essonniens et des quartiers évryens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:26.871Z",
+            "used_fallback": false
+          },
+          "69bafd70-29ff-40b8-8f86-33c420c29960": {
+            "profile_id": "69bafd70-29ff-40b8-8f86-33c420c29960",
+            "commune_slug": "evry",
+            "bio_localized": "Stéphane Philippe, électricien expérimenté depuis 20 ans à Évry, intervient sur tous types de bâtiments : pavillons, immeubles modernes et résidences anciennes. Spécialiste en rénovation électrique, il garantit des installations conformes et sécurisées. Votre électricien de confiance en Essonne pour moderniser votre habitat.",
+            "local_badge": "Électricien expert d'Évry, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Évry, je modernise les installations anciennes de votre habitation avec expertise et professionnalisme.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Évry, interventions rapides garanties",
+            "why_this_commune": "Stéphane Philippe est le choix idéal pour Évry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers essonniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:40.176Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "abbeville-la-riviere": {
+        "commune_name": "ABBÉVILLE-LA-RIVIÈRE",
+        "postal_code": "91150",
+        "department": "91",
+        "electricians": {
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "abbeville-la-riviere",
+            "bio_localized": "Électricien expérimenté à Abbéville-la-Rivière, je maîtrise le dépannage express pour tous vos besoins. Spécialisé dans l'intervention rapide sur pavillons et immeubles du secteur essonnien, je garantis des solutions fiables et durables. Disponible 24h/24 pour vos urgences électriques.",
+            "local_badge": "Électricien expert d'Abbéville-la-Rivière, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Abbéville-la-Rivière, interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "5 ans d'expérience confirmée à Abbéville-la-Rivière, électricien fiable et réactif",
+            "why_this_commune": "Thomas Lemaire est le choix idéal pour Abbéville-la-Rivière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:53.613Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "abbeville-la-riviere",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Abbéville-la-Rivière, je maîtrise le dépannage express pour tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Interventions rapides et fiables en Essonne. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert d'Abbéville-la-Rivière depuis des années",
+            "service_highlight": "Dépannage électrique express à Abbéville-la-Rivière : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience confirmée à Abbéville-la-Rivière, électricien fiable et réactif",
+            "why_this_commune": "Maxime Dupont est le choix idéal pour Abbéville-la-Rivière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:06.890Z",
+            "used_fallback": false
+          },
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "abbeville-la-riviere",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Abbéville-la-Rivière, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant sur l'Essonne, je garantis installations sécurisées et conformes. Devis gratuit et interventions rapides pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Abbéville-la-Rivière depuis années",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les installations d'Abbéville-la-Rivière.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Abbéville-la-Rivière, interventions fiables",
+            "why_this_commune": "Denis Rodriguez est un excellent choix pour Abbéville-la-Rivière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone de l'Essonne assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:05:20.086Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "abbeville-la-riviere",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Abbéville-la-Rivière, met ses 15 années d'expertise au service des habitants de l'Essonne. Spécialisé dans les installations électriques résidentielles et professionnelles, il intervient sur pavillons, immeubles et bâtiments anciens avec rigueur et conformité aux normes actuelles.",
+            "local_badge": "Électricien expert d'Abbéville-la-Rivière depuis années",
+            "service_highlight": "Électricien agréé Consuel à Abbéville-la-Rivière, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience, électricien fiable à Abbéville-la-Rivière, interventions rapides garanties",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Abbéville-la-Rivière. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune essonnienne. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:30.294Z",
+            "used_fallback": false
+          },
+          "6c0bd034-fc42-4c85-922b-0ab14c096eda": {
+            "profile_id": "6c0bd034-fc42-4c85-922b-0ab14c096eda",
+            "commune_slug": "abbeville-la-riviere",
+            "bio_localized": "Électricien intervenant 24h/24 à Abbéville-la-Rivière, Bernard Renaud maîtrise les installations des pavillons comme des immeubles modernes de l'Essonne. Fort de 6 ans d'expérience, il garantit des interventions d'urgence rapides et soignées. Dépannages électriques fiables et professionnels, disponible jour et nuit pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert d'Abbéville-la-Rivière depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Abbéville-la-Rivière pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Abbéville-la-Rivière",
+            "why_this_commune": "Bernard Renaud est le choix idéal pour Abbéville-la-Rivière. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:44.962Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "abbeville-la-riviere",
+            "bio_localized": "Électricien expert à Abbéville-la-Rivière depuis 13 ans, je maîtrise le dépannage express pour tous les types d'habitats : pavillons, immeubles modernes et anciennes demeures. Intervention rapide et fiable en Essonne. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert d'Abbéville-la-Rivière depuis longtemps",
+            "service_highlight": "Dépannage électrique express 24h/24 pour tous les habitants d'Abbéville-la-Rivière et ses environs",
+            "trust_signal": "13 ans d'expérience, électricien fiable et qualifié à Abbéville-la-Rivière",
+            "why_this_commune": "Sébastien Morel est le choix idéal pour Abbéville-la-Rivière. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:06:58.037Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "angerville": {
+        "commune_name": "ANGERVILLE",
+        "postal_code": "91670",
+        "department": "91",
+        "electricians": {
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "angerville",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Angerville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Intervention rapide et devis gratuit. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert d'Angerville, interventions rapides garanties",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Angerville.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien de confiance à Angerville",
+            "why_this_commune": "Denis Rodriguez, électricien basé à Angerville, connaît parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone d'Essonne en fait un partenaire fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:07:11.991Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "angerville",
+            "bio_localized": "Électricien expérimenté à Angerville depuis 12 ans, je maîtrise le dépannage express pour tous types de bâtiments : pavillons, immeubles et résidences locales. Intervention rapide et fiable en Essonne. Disponible pour vos urgences électriques et travaux courants.",
+            "local_badge": "Électricien expert d'Angerville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique rapide et fiable à Angerville, intervention d'urgence 24h/24 pour tous vos problèmes électriques.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et certifié à Angerville",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Angerville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:25.007Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "angerville",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je propose une installation de bornes de recharge adaptée aux pavillons et maisons d'Angerville. Spécialiste en électricité, je garantis un travail conforme aux normes. Devis gratuit et intervention rapide dans l'Essonne.",
+            "local_badge": "Électricien expert d'Angerville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Angerville et ses alentours.",
+            "trust_signal": "15 ans d'expérience électricien à Angerville, interventions rapides et fiables",
+            "why_this_commune": "Guillaume Nguyen est le choix idéal pour Angerville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:07:37.812Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "angerville",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Angerville, met ses 15 années d'expertise au service des habitants de l'Essonne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur les pavillons et immeubles locaux avec rigueur et conformité aux normes en vigueur.",
+            "local_badge": "Électricien expert d'Angerville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Angerville, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Angerville, interventions rapides et fiables",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Angerville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone d'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:50.756Z",
+            "used_fallback": false
+          },
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "angerville",
+            "bio_localized": "Électricien professionnel à Angerville, je propose un dépannage express pour tous vos besoins électriques. Avec 5 ans d'expérience, j'interviens rapidement dans les pavillons et immeubles de l'Essonne. Disponible pour diagnostics, réparations et installations. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Angerville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Angerville : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "5 ans d'expérience confirmée à Angerville, interventions rapides et garanties",
+            "why_this_commune": "Thomas Lemaire est le choix idéal pour Angerville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:08:04.010Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "angerville",
+            "bio_localized": "Électricien expert à Angerville depuis 7 ans, je maîtrise le dépannage express pour tous vos besoins. Que vous habitiez un pavillon ou un immeuble en Essonne, j'interviens rapidement pour résoudre vos problèmes électriques. Disponible et fiable, je garantis des solutions durables et sécurisées pour votre tranquillité.",
+            "local_badge": "Électricien expert d'Angerville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Angerville : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "7 ans d'expérience confirmée à Angerville, électricien fiable et réactif",
+            "why_this_commune": "Maxime Dupont est un excellent choix pour Angerville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:08:17.451Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "angervilliers": {
+        "commune_name": "ANGERVILLIERS",
+        "postal_code": "91470",
+        "department": "91",
+        "electricians": {
+          "32429625-95d5-47f8-9a53-773b4ff6be05": {
+            "profile_id": "32429625-95d5-47f8-9a53-773b4ff6be05",
+            "commune_slug": "angervilliers",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, je maîtrise tous les travaux d'électricité générale à Angervilliers. Intervenant sur les pavillons et immeubles de l'Essonne, je garantis des installations conformes et durables. Réactivité et professionnalisme sont mes engagements auprès de chaque client.",
+            "local_badge": "Électricien expert d'Angervilliers, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Angervilliers pour tous vos besoins en installations et dépannages électriques résidentiels et commerciaux.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Angervilliers, interventions rapides garanties",
+            "why_this_commune": "Philippe Giraud, électricien local à Angervilliers, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:08:30.989Z",
+            "used_fallback": false
+          },
+          "47b4f399-54f7-4a00-8c6d-9bc00606621a": {
+            "profile_id": "47b4f399-54f7-4a00-8c6d-9bc00606621a",
+            "commune_slug": "angervilliers",
+            "bio_localized": "Électricien expérimenté depuis 11 ans, je maîtrise tous les types d'installations à Angervilliers, des pavillons aux immeubles modernes. Disponible 24h/24, 7j/7, j'interviens rapidement pour vos urgences électriques. Travail soigné et fiable garanti dans l'Essonne.",
+            "local_badge": "Électricien expert d'Angervilliers, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Angervilliers pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "11 ans d'expertise électrique à Angervilliers, interventions rapides et fiables garanties",
+            "why_this_commune": "Alain Moreau est le choix idéal pour Angervilliers. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service de qualité et une parfaite connaissance des installations locales.",
+            "generated_at": "2025-11-16T05:08:44.201Z",
+            "used_fallback": false
+          },
+          "1c25c530-be89-4845-b2db-2a6359c4366a": {
+            "profile_id": "1c25c530-be89-4845-b2db-2a6359c4366a",
+            "commune_slug": "angervilliers",
+            "bio_localized": "Électricien expérimenté depuis 13 ans, je maîtrise l'électricité générale sur Angervilliers et ses alentours. Intervenant sur pavillons et immeubles, je garantis des installations conformes et durables. Réactivité et qualité de travail sont mes engagements auprès des résidents de l'Essonne.",
+            "local_badge": "Électricien expert d'Angervilliers, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Angervilliers.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable et professionnel à Angervilliers",
+            "why_this_commune": "Philippe Picard est le choix idéal pour Angervilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:57.282Z",
+            "used_fallback": false
+          },
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "angervilliers",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Angervilliers, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Intervenant rapidement en Île-de-France, je garantis des installations sécurisées et conformes. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert d'Angervilliers, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Angervilliers pour sécuriser vos installations électriques.",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Angervilliers, interventions rapides et fiables",
+            "why_this_commune": "Antoine Vidal, électricien basé à Angervilliers, maîtrise parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la commune assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:09:10.530Z",
+            "used_fallback": false
+          },
+          "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683": {
+            "profile_id": "0ae3e0e4-3caa-42c8-8049-1f8e3d1f5683",
+            "commune_slug": "angervilliers",
+            "bio_localized": "Paul Gautier, électricien expert à Angervilliers, maîtrise la rénovation électrique depuis 19 ans. Spécialisé dans la mise aux normes des pavillons et immeubles essonniens, il garantit des installations sécurisées et durables. Intervenant régulièrement en Essonne, Paul offre un service fiable et professionnel adapté à chaque type de bâtiment.",
+            "local_badge": "Électricien expert à Angervilliers, intervention rapide",
+            "service_highlight": "Rénovation électrique complète pour les maisons anciennes d'Angervilliers, mise aux normes et modernisation garanties.",
+            "trust_signal": "19 ans d'expérience, électricien fiable et qualifié à Angervilliers",
+            "why_this_commune": "Paul Gautier est le choix idéal pour Angervilliers. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:24.532Z",
+            "used_fallback": false
+          },
+          "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9": {
+            "profile_id": "0d7623fc-aeca-48c1-b69b-be8c3bb23fc9",
+            "commune_slug": "angervilliers",
+            "bio_localized": "Pascal Nicolas, électricien agréé Consuel à Angervilliers, met 15 ans d'expertise au service des habitants de l'Essonne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur les pavillons et immeubles locaux avec rigueur et sécurité. Votre confiance, sa priorité.",
+            "local_badge": "Électricien expert d'Angervilliers, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Angervilliers, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience, électricien fiable et certifié à Angervilliers",
+            "why_this_commune": "Pascal Nicolas est un excellent choix pour Angervilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:09:37.674Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arpajon": {
+        "commune_name": "ARPAJON",
+        "postal_code": "91290",
+        "department": "91",
+        "electricians": {
+          "e22f2985-047d-4e18-b753-077ad507980c": {
+            "profile_id": "e22f2985-047d-4e18-b753-077ad507980c",
+            "commune_slug": "arpajon",
+            "bio_localized": "Électricien depuis 16 ans à Arpajon, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles haussmanniens et constructions modernes. Intervenant rapidement dans l'Essonne, je garantis des solutions électriques fiables et durables pour vos urgences et projets.",
+            "local_badge": "Électricien expert à Arpajon, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arpajon : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Arpajon, interventions rapides et fiables",
+            "why_this_commune": "Maxime Garnier, électricien basé à Arpajon, maîtrise parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit une intervention rapide et réactive. Fort de son expérience confirmée en Essonne, il offre un service fiable et de qualité adapté aux besoins résidentiels d'Arpajon.",
+            "generated_at": "2025-11-16T05:09:51.165Z",
+            "used_fallback": false
+          },
+          "e8d8bc2c-61b0-4ec3-b44a-384b28d4a856": {
+            "profile_id": "e8d8bc2c-61b0-4ec3-b44a-384b28d4a856",
+            "commune_slug": "arpajon",
+            "bio_localized": "Stéphane Morel, électricien expert à Arpajon depuis 11 ans, intervient sur tous types de bâtiments : pavillons, immeubles haussmanniens et constructions modernes. Spécialiste en rénovation électrique, il garantit des installations sécurisées et conformes aux normes actuelles. Votre confiance, sa priorité.",
+            "local_badge": "Électricien expert d'Arpajon, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Arpajon, je modernise les installations des maisons anciennes avec expertise et professionnalisme.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et reconnu à Arpajon",
+            "why_this_commune": "Stéphane Morel est un excellent choix pour Arpajon. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers arpajonnais. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:10:04.310Z",
+            "used_fallback": false
+          },
+          "16ee5035-4c43-41db-8eec-a180852faf63": {
+            "profile_id": "16ee5035-4c43-41db-8eec-a180852faf63",
+            "commune_slug": "arpajon",
+            "bio_localized": "Électricien spécialiste en domotique et automatisation à Arpajon, je modernise les installations électriques des pavillons et immeubles de l'Essonne. Fort de 20 ans d'expérience, j'accompagne les habitants dans leurs projets de maison intelligente. Service fiable et satisfaction garantie.",
+            "local_badge": "Électricien expert d'Arpajon, intervention rapide garantie",
+            "service_highlight": "Électricien domotique à Arpajon : automatisation et installations intelligentes pour votre maison moderne et sécurisée.",
+            "trust_signal": "20 ans d'expertise électrique à Arpajon, interventions rapides et fiables garanties",
+            "why_this_commune": "Henri Simon est le choix idéal pour Arpajon. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:10:18.433Z",
+            "used_fallback": false
+          },
+          "8ecb2bc0-c027-49c4-8e7e-9b910304c82b": {
+            "profile_id": "8ecb2bc0-c027-49c4-8e7e-9b910304c82b",
+            "commune_slug": "arpajon",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Arpajon, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles modernes ou bâtisses anciennes. Intervention rapide, travail soigné et devis transparent. Votre électricien de confiance en Essonne.",
+            "local_badge": "Électricien expert d'Arpajon, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Arpajon.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Arpajon, interventions rapides garanties",
+            "why_this_commune": "Jean Leroy est un excellent choix pour Arpajon. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone essonnienne assure un travail de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:31.531Z",
+            "used_fallback": false
+          },
+          "1561c707-7cad-4079-9110-bbbe62192244": {
+            "profile_id": "1561c707-7cad-4079-9110-bbbe62192244",
+            "commune_slug": "arpajon",
+            "bio_localized": "Expert en domotique et automatisation à Arpajon, je spécialise dans l'équipement intelligent des pavillons et immeubles de l'Essonne. Fort de 8 ans d'expérience, j'optimise votre confort résidentiel par des solutions modernes et fiables. Service de qualité et satisfaction client garantis.",
+            "local_badge": "Électricien expert d'Arpajon depuis des années",
+            "service_highlight": "Électricien domotique à Arpajon : automatisation et installation de systèmes intelligents pour votre maison moderne.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et reconnu à Arpajon",
+            "why_this_commune": "Henri Bourgeois est le choix idéal pour Arpajon grâce à sa connaissance approfondie des bâtiments et quartiers locaux. Basé à proximité, il intervient rapidement en cas de problème électrique. Son expérience confirmée dans la zone garantit un service fiable et adapté aux spécificités d'Arpajon.",
+            "generated_at": "2025-11-16T05:10:44.406Z",
+            "used_fallback": false
+          },
+          "3fa68a7f-79f9-4892-87cf-0972862522af": {
+            "profile_id": "3fa68a7f-79f9-4892-87cf-0972862522af",
+            "commune_slug": "arpajon",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Arpajon, je spécialise dans l'éclairage LED professionnel pour les pavillons et immeubles de l'Essonne. Interventions rapides et fiables sur tous vos besoins électriques. Votre expert local en solutions d'éclairage modernes et économes.",
+            "local_badge": "Électricien expert d'Arpajon, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises d'Arpajon, installations modernes et économes.",
+            "trust_signal": "11 ans d'expérience électricien confirmé à Arpajon, interventions rapides et fiables",
+            "why_this_commune": "Alexandre Lefevre est le choix idéal pour Arpajon. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:10:57.114Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arrancourt": {
+        "commune_name": "ARRANCOURT",
+        "postal_code": "91690",
+        "department": "91",
+        "electricians": {
+          "2393758e-d3b7-4b00-a5a4-2c68000fde47": {
+            "profile_id": "2393758e-d3b7-4b00-a5a4-2c68000fde47",
+            "commune_slug": "arrancourt",
+            "bio_localized": "Électricien expérimenté à Arrancourt, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles et constructions modernes de l'Essonne. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles. Votre électricien de confiance en Essonne depuis 5 ans.",
+            "local_badge": "Électricien expert d'Arrancourt, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arrancourt : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "5 ans d'expérience confirmée à Arrancourt, électricien fiable et réactif",
+            "why_this_commune": "Thomas Lemaire est le choix idéal pour Arrancourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:10.556Z",
+            "used_fallback": false
+          },
+          "339c8542-632c-4a04-a7ef-d251d8204af7": {
+            "profile_id": "339c8542-632c-4a04-a7ef-d251d8204af7",
+            "commune_slug": "arrancourt",
+            "bio_localized": "Électricien expérimenté depuis 7 ans, je propose un dépannage express adapté aux besoins d'Arrancourt. Que vous habitiez un pavillon ou un immeuble, je maîtrise tous les types d'installations électriques. Disponible rapidement pour vos urgences électriques en Essonne, je garantis des interventions fiables et professionnelles.",
+            "local_badge": "Électricien expert d'Arrancourt, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arrancourt : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience confirmée à Arrancourt, interventions rapides et fiables garanties",
+            "why_this_commune": "Maxime Dupont est un excellent choix pour Arrancourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:11:24.070Z",
+            "used_fallback": false
+          },
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "arrancourt",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Arrancourt, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert à Arrancourt depuis des années",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Arrancourt pour sécuriser vos installations électriques.",
+            "trust_signal": "19 ans d'expérience électricien à Arrancourt, interventions rapides et fiables",
+            "why_this_commune": "Denis Rodriguez est un excellent choix pour Arrancourt. Basé localement en Essonne, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience confirmée dans cette zone garantit des interventions rapides et adaptées aux besoins locaux. Proximité et réactivité assurées.",
+            "generated_at": "2025-11-16T05:11:36.410Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "arrancourt",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Arrancourt, intervient depuis 15 ans sur l'Essonne. Spécialiste des installations électriques, il sécurise pavillons et immeubles modernes de la région. Certifications et normes respectées, diagnostic fiable et travaux conformes garantis.",
+            "local_badge": "Électricien expert d'Arrancourt, interventions rapides garanties",
+            "service_highlight": "Électricien agréé Consuel à Arrancourt, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "15 ans d'expérience électricien à Arrancourt, interventions rapides et fiables garanties",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Arrancourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:11:49.664Z",
+            "used_fallback": false
+          },
+          "6c0bd034-fc42-4c85-922b-0ab14c096eda": {
+            "profile_id": "6c0bd034-fc42-4c85-922b-0ab14c096eda",
+            "commune_slug": "arrancourt",
+            "bio_localized": "Électricien expérimenté depuis 6 ans, Bernard Renaud intervient 24/7 à Arrancourt et ses alentours. Spécialisé en dépannage d'urgence, il maîtrise l'électricité des pavillons comme des immeubles modernes. Intervention rapide, travail soigné et tarifs transparents. Votre électricien de confiance en Essonne.",
+            "local_badge": "Électricien expert d'Arrancourt, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Arrancourt pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "6 ans d'expérience, électricien fiable et disponible à Arrancourt",
+            "why_this_commune": "Bernard Renaud est un excellent choix pour Arrancourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone d'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:02.292Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "arrancourt",
+            "bio_localized": "Électricien professionnel à Arrancourt depuis 12 ans, je maîtrise le dépannage express sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Essonne, je garantis une intervention rapide et fiable pour vos urgences électriques. Disponible 24h/24 pour sécuriser votre installation.",
+            "local_badge": "Électricien expert d'Arrancourt, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arrancourt : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Arrancourt",
+            "why_this_commune": "Vincent Dumont est un excellent choix pour Arrancourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:15.395Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "athis-mons": {
+        "commune_name": "ATHIS-MONS",
+        "postal_code": "91200",
+        "department": "91",
+        "electricians": {
+          "3166c504-7c1c-4e3b-bee9-22bd251f5d27": {
+            "profile_id": "3166c504-7c1c-4e3b-bee9-22bd251f5d27",
+            "commune_slug": "athis-mons",
+            "bio_localized": "Fort de 13 ans d'expérience, René Lemaire intervient à Athis-Mons pour tous vos travaux de rénovation électrique. Spécialiste des installations résidentielles, il rénove aussi bien les pavillons que les immeubles collectifs de la région. Électricien reconnu pour son professionnalisme et sa fiabilité, il garantit des installations conformes et sécurisées.",
+            "local_badge": "Électricien expert d'Athis-Mons, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Athis-Mons, je modernise les installations électriques de vos habitations et commerces.",
+            "trust_signal": "13 ans d'expérience, électricien fiable et reconnu à Athis-Mons",
+            "why_this_commune": "René Lemaire est un excellent choix pour Athis-Mons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:12:28.693Z",
+            "used_fallback": false
+          },
+          "dd7a3e66-6e3f-4f3c-970c-96f67c9ce09a": {
+            "profile_id": "dd7a3e66-6e3f-4f3c-970c-96f67c9ce09a",
+            "commune_slug": "athis-mons",
+            "bio_localized": "Électricien professionnel basé à Athis-Mons, je vous propose 17 ans d'expertise en éclairage LED. Spécialisé dans les installations modernes et performantes, j'interviens sur les pavillons et immeubles de l'Essonne. Efficacité énergétique et qualité garanties pour vos projets résidentiels et professionnels.",
+            "local_badge": "Électricien expert à Athis-Mons, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Athis-Mons pour optimiser vos installations lumineuses.",
+            "trust_signal": "17 ans d'expérience électricien à Athis-Mons, interventions rapides et fiables",
+            "why_this_commune": "Florian Duval est le choix idéal pour Athis-Mons. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:12:42.406Z",
+            "used_fallback": false
+          },
+          "4587aa66-5dde-464a-a33e-4dd789652a9d": {
+            "profile_id": "4587aa66-5dde-464a-a33e-4dd789652a9d",
+            "commune_slug": "athis-mons",
+            "bio_localized": "Électricien depuis 19 ans à Athis-Mons, je maîtrise l'éclairage LED professionnel pour vos pavillons et immeubles. Expert en installations modernes et efficaces, j'interviens sur l'Essonne pour transformer votre éclairage. Qualité, fiabilité et conseils avisés garantis.",
+            "local_badge": "Électricien expert à Athis-Mons, intervention rapide",
+            "service_highlight": "Électricien spécialisé en éclairage LED professionnel à Athis-Mons pour optimiser votre consommation énergétique",
+            "trust_signal": "19 ans d'expérience, électricien fiable et reconnu à Athis-Mons",
+            "why_this_commune": "Florian Dubois est le choix idéal pour Athis-Mons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et une entière confiance.",
+            "generated_at": "2025-11-16T05:12:55.389Z",
+            "used_fallback": false
+          },
+          "c3f87772-4c53-417d-9203-9ad72fecad07": {
+            "profile_id": "c3f87772-4c53-417d-9203-9ad72fecad07",
+            "commune_slug": "athis-mons",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Athis-Mons, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Je sécurise vos installations électriques avec professionnalisme. Devis gratuit et interventions rapides en Essonne.",
+            "local_badge": "Électricien expert d'Athis-Mons, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les habitations et commerces d'Athis-Mons.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Athis-Mons, interventions rapides garanties",
+            "why_this_commune": "Yves Rolland est le choix idéal pour Athis-Mons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:13:08.728Z",
+            "used_fallback": false
+          },
+          "21433296-dd6b-4f51-84cc-7495754e7cb9": {
+            "profile_id": "21433296-dd6b-4f51-84cc-7495754e7cb9",
+            "commune_slug": "athis-mons",
+            "bio_localized": "Électricien intervenant 24/7 à Athis-Mons, je maîtrise les installations des pavillons comme des immeubles modernes de l'Essonne. Fort de 11 ans d'expérience, j'assure dépannages d'urgence et travaux électriques avec professionnalisme. Disponible jour et nuit pour vos besoins.",
+            "local_badge": "Électricien expert à Athis-Mons, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Athis-Mons pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "11 ans d'expérience électricien à Athis-Mons, interventions rapides et fiables",
+            "why_this_commune": "Daniel Meyer est le choix idéal pour Athis-Mons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une entière satisfaction.",
+            "generated_at": "2025-11-16T05:13:22.204Z",
+            "used_fallback": false
+          },
+          "06252d13-5bbb-42b6-a26e-46de16348950": {
+            "profile_id": "06252d13-5bbb-42b6-a26e-46de16348950",
+            "commune_slug": "athis-mons",
+            "bio_localized": "Olivier Blanchard, électricien agréé Consuel à Athis-Mons, intervient sur les pavillons et immeubles de l'Essonne. Fort de 5 ans d'expérience, il garantit la conformité électrique de vos installations résidentielles et professionnelles. Expertise reconnue pour vos diagnostics et mises aux normes en Île-de-France.",
+            "local_badge": "Électricien expert d'Athis-Mons, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Athis-Mons, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Athis-Mons",
+            "why_this_commune": "Olivier Blanchard est le choix idéal pour Athis-Mons. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone d'Essonne vous assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:13:35.889Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "authon-la-plaine": {
+        "commune_name": "AUTHON-LA-PLAINE",
+        "postal_code": "91410",
+        "department": "91",
+        "electricians": {
+          "776b98df-4196-4812-b127-6a33cea0ef52": {
+            "profile_id": "776b98df-4196-4812-b127-6a33cea0ef52",
+            "commune_slug": "authon-la-plaine",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Authon-la-Plaine, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et résidences de l'Essonne, je garantis des installations conformes et sécurisées. Devis gratuit et service réactif pour tous vos projets électriques.",
+            "local_badge": "Électricien expert d'Authon-la-Plaine depuis des années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Authon-la-Plaine et ses alentours.",
+            "trust_signal": "15 ans d'expérience électrique à Authon-la-Plaine, interventions rapides et fiables",
+            "why_this_commune": "Julien Clement est le choix idéal pour Authon-la-Plaine. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:49.707Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "authon-la-plaine",
+            "bio_localized": "Vincent Dumont, électricien expert à Authon-la-Plaine, intervient rapidement sur tous vos dépannages électriques. Avec 12 ans d'expérience, je maîtrise les installations des pavillons locaux et immeubles de l'Essonne. Disponible en urgence pour sécuriser votre habitat. Dépannage express et fiable.",
+            "local_badge": "Électricien expert d'Authon-la-Plaine depuis des années",
+            "service_highlight": "Dépannage électrique express à Authon-la-Plaine : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable à Authon-la-Plaine",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Authon-la-Plaine. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:14:02.785Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "authon-la-plaine",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je spécialise dans l'installation de bornes de recharge à Authon-la-Plaine et ses environs. Que vous habitiez un pavillon ou un immeuble, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide pour accompagner votre transition énergétique.",
+            "local_badge": "Électricien expert d'Authon-la-Plaine depuis années",
+            "service_highlight": "Installateur expert en bornes de recharge électrique pour véhicules à Authon-la-Plaine et alentours",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Authon-la-Plaine, interventions rapides et fiables",
+            "why_this_commune": "Guillaume Nguyen est le choix idéal pour Authon-la-Plaine. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:14:16.568Z",
+            "used_fallback": false
+          },
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "authon-la-plaine",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Authon-la-Plaine, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Intervention rapide et devis gratuit pour sécuriser votre installation électrique selon les standards actuels.",
+            "local_badge": "Électricien expert d'Authon-la-Plaine depuis longtemps",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour les installations électriques à Authon-la-Plaine.",
+            "trust_signal": "19 ans d'expertise électrique confirmée à Authon-la-Plaine, interventions fiables",
+            "why_this_commune": "Denis Rodriguez est le choix idéal pour Authon-la-Plaine. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:30.521Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "authon-la-plaine",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Authon-la-Plaine, met à profit 15 années d'expertise pour sécuriser vos installations électriques. Intervenant sur les pavillons et immeubles de l'Essonne, il garantit la conformité de vos travaux avec professionnalisme et rigueur.",
+            "local_badge": "Électricien expert d'Authon-la-Plaine depuis des années",
+            "service_highlight": "Électricien agréé Consuel à Authon-la-Plaine, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "15 ans d'expérience électrique confirmée à Authon-la-Plaine, interventions fiables",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Authon-la-Plaine. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:44.873Z",
+            "used_fallback": false
+          },
+          "d0fbc844-2df4-4e02-b29c-f292ea7305c9": {
+            "profile_id": "d0fbc844-2df4-4e02-b29c-f292ea7305c9",
+            "commune_slug": "authon-la-plaine",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Authon-la-Plaine, je maîtrise le dépannage express pour tous les types d'habitations. Que vous résidiez en pavillon ou immeuble, je garantis une intervention rapide et fiable. Votre satisfaction électrique est ma priorité en Essonne.",
+            "local_badge": "Électricien expert d'Authon-la-Plaine depuis des années",
+            "service_highlight": "Dépannage électrique express à Authon-la-Plaine : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "13 ans d'expérience confirmée, électricien fiable à Authon-la-Plaine",
+            "why_this_commune": "Sébastien Morel est le choix idéal pour Authon-la-Plaine. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:14:58.179Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "auvernaux": {
+        "commune_name": "AUVERNAUX",
+        "postal_code": "91830",
+        "department": "91",
+        "electricians": {
+          "ab5a45f6-1359-4508-9eb0-ad167ae735a5": {
+            "profile_id": "ab5a45f6-1359-4508-9eb0-ad167ae735a5",
+            "commune_slug": "auvernaux",
+            "bio_localized": "François Michel, électricien expert à Auvernaux, intervient sur l'installation et la maintenance de tableaux électriques. Fort de 5 ans d'expérience en Essonne, il sécurise les installations des pavillons et immeubles locaux. Service fiable et professionnel, garantissant votre satisfaction et votre sécurité électrique.",
+            "local_badge": "Électricien expert d'Auvernaux, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation et rénovation de tableaux électriques à Auvernaux pour tous types d'habitations.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien de confiance à Auvernaux",
+            "why_this_commune": "François Michel est un excellent choix pour Auvernaux. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers auvernelliens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:12.031Z",
+            "used_fallback": false
+          },
+          "31f99c0b-e43e-4964-96da-7d067472371c": {
+            "profile_id": "31f99c0b-e43e-4964-96da-7d067472371c",
+            "commune_slug": "auvernaux",
+            "bio_localized": "Électricien spécialisé en éclairage LED professionnel à Auvernaux depuis 15 ans. Je modernise les installations électriques des pavillons et immeubles de l'Essonne avec expertise et fiabilité. Solutions d'éclairage innovantes et économes adaptées à vos besoins. Interventions rapides et professionnelles garanties.",
+            "local_badge": "Électricien expert d'Auvernaux, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités d'Auvernaux, optimisant votre consommation énergétique.",
+            "trust_signal": "15 ans d'expérience électricien à Auvernaux, interventions rapides et fiables garanties",
+            "why_this_commune": "Emmanuel Fournier est un excellent choix pour Auvernaux. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:25.241Z",
+            "used_fallback": false
+          },
+          "f1c4a960-2d01-4c62-861f-1369de89793a": {
+            "profile_id": "f1c4a960-2d01-4c62-861f-1369de89793a",
+            "commune_slug": "auvernaux",
+            "bio_localized": "Laurent Lemaire, électricien expert en domotique et automatisation à Auvernaux, intervient sur les pavillons et résidences de l'Essonne. Avec 5 ans d'expérience, il modernise vos installations électriques et automatise votre habitat pour plus de confort et de sécurité. Service fiable et professionnel.",
+            "local_badge": "Électricien expert d'Auvernaux depuis des années",
+            "service_highlight": "Électricien domotique à Auvernaux, je spécialise dans l'automatisation et les systèmes intelligents pour votre habitat.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Auvernaux",
+            "why_this_commune": "Laurent Lemaire est le choix idéal pour Auvernaux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une entière satisfaction.",
+            "generated_at": "2025-11-16T05:15:38.278Z",
+            "used_fallback": false
+          },
+          "ab458f09-2c64-4f54-a8e9-28c1f8cec51f": {
+            "profile_id": "ab458f09-2c64-4f54-a8e9-28c1f8cec51f",
+            "commune_slug": "auvernaux",
+            "bio_localized": "Électricien professionnel à Auvernaux depuis 11 ans, je maîtrise le dépannage express pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble, je garantis une intervention rapide et fiable. Disponible en urgence dans l'Essonne, je suis votre électricien de confiance pour tous vos problèmes électriques.",
+            "local_badge": "Électricien expert d'Auvernaux, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Auvernaux : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et reconnu à Auvernaux",
+            "why_this_commune": "Sébastien Durand est le choix idéal pour Auvernaux. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers auvernellois. Sa proximité garantit des interventions rapides et efficaces. Son expertise confirmée dans cette zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:15:51.426Z",
+            "used_fallback": false
+          },
+          "43c02d55-3b84-484f-8329-d062c20ad1a7": {
+            "profile_id": "43c02d55-3b84-484f-8329-d062c20ad1a7",
+            "commune_slug": "auvernaux",
+            "bio_localized": "Jean Lemoine, électricien expérimenté à Auvernaux, intervient depuis 10 ans sur tous vos besoins en électricité générale. Spécialiste des installations résidentielles, du dépannage et de la maintenance, il garantit des interventions rapides et soignées dans l'Essonne. Professionnel de confiance pour vos projets électriques.",
+            "local_badge": "Électricien expert d'Auvernaux depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Auvernaux pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "10 ans d'expérience électricien à Auvernaux, interventions rapides et fiables garanties",
+            "why_this_commune": "Jean Lemoine est un excellent choix pour Auvernaux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:05.247Z",
+            "used_fallback": false
+          },
+          "d2264c77-a5a8-4a52-be3f-61564164c4c1": {
+            "profile_id": "d2264c77-a5a8-4a52-be3f-61564164c4c1",
+            "commune_slug": "auvernaux",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Auvernaux, je maîtrise les installations des pavillons et immeubles de l'Essonne. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme et sérieux. Diagnostic fiable et travail soigné garantis pour votre sécurité.",
+            "local_badge": "Électricien expert d'Auvernaux depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Auvernaux",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Auvernaux, intervention rapide garantie",
+            "why_this_commune": "Daniel Dupont est le choix idéal pour Auvernaux. Électricien local, il maîtrise parfaitement les spécificités des habitations et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:19.111Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "auvers-saint-georges": {
+        "commune_name": "AUVERS-SAINT-GEORGES",
+        "postal_code": "91580",
+        "department": "91",
+        "electricians": {
+          "91e70702-0b59-4116-9a21-44e712c2e3d5": {
+            "profile_id": "91e70702-0b59-4116-9a21-44e712c2e3d5",
+            "commune_slug": "auvers-saint-georges",
+            "bio_localized": "Gérard Morel, électricien spécialiste en domotique et automatisation à Auvers-Saint-Georges. Fort de 20 ans d'expérience, j'équipe pavillons et immeubles modernes de solutions intelligentes et sécurisées. Expert certifié, je garantis des installations fiables adaptées à votre habitat. Service de qualité et satisfaction client assurés en Essonne.",
+            "local_badge": "Électricien expert d'Auvers-Saint-Georges, intervention rapide",
+            "service_highlight": "Électricien domotique à Auvers-Saint-Georges, je conçois des systèmes d'automatisation intelligents pour optimiser votre confort et sécurité.",
+            "trust_signal": "20 ans d'expérience électricien à Auvers-Saint-Georges, interventions rapides et fiables",
+            "why_this_commune": "Gérard Morel est un excellent choix pour Auvers-Saint-Georges. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:32.086Z",
+            "used_fallback": false
+          },
+          "e5ba1708-c852-4916-bc6e-37d5207a703d": {
+            "profile_id": "e5ba1708-c852-4916-bc6e-37d5207a703d",
+            "commune_slug": "auvers-saint-georges",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Auvers-Saint-Georges, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Interventions rapides et devis gratuits en Essonne. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Auvers-Saint-Georges, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations d'Auvers-Saint-Georges, garantissant votre sécurité électrique.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Auvers-Saint-Georges, interventions fiables",
+            "why_this_commune": "Charles Giraud est un excellent choix pour Auvers-Saint-Georges. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:44.846Z",
+            "used_fallback": false
+          },
+          "8ecb2bc0-c027-49c4-8e7e-9b910304c82b": {
+            "profile_id": "8ecb2bc0-c027-49c4-8e7e-9b910304c82b",
+            "commune_slug": "auvers-saint-georges",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Auvers-Saint-Georges, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Interventions rapides et travail soigné garantis en Essonne. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert d'Auvers-Saint-Georges, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Auvers-Saint-Georges.",
+            "trust_signal": "14 ans d'expérience et expertise confirmée à Auvers-Saint-Georges",
+            "why_this_commune": "Jean Leroy est le choix idéal pour Auvers-Saint-Georges. Basé localement, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Son expérience confirmée dans la zone garantit une intervention rapide et adaptée à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:16:57.611Z",
+            "used_fallback": false
+          },
+          "1561c707-7cad-4079-9110-bbbe62192244": {
+            "profile_id": "1561c707-7cad-4079-9110-bbbe62192244",
+            "commune_slug": "auvers-saint-georges",
+            "bio_localized": "Henri Bourgeois, électricien expert en domotique et automatisation à Auvers-Saint-Georges. Fort de 8 ans d'expérience, j'équipe pavillons et immeubles modernes de solutions intelligentes fiables. Spécialiste de l'automatisation résidentielle, je garantis des installations sécurisées et performantes adaptées à votre habitat essonnien.",
+            "local_badge": "Électricien expert d'Auvers-Saint-Georges, intervention rapide",
+            "service_highlight": "Automatisation et domotique pour maisons modernes à Auvers-Saint-Georges, installations électriques intelligentes et sécurisées.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable à Auvers-Saint-Georges",
+            "why_this_commune": "Henri Bourgeois est le choix idéal pour Auvers-Saint-Georges. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:17:10.801Z",
+            "used_fallback": false
+          },
+          "3fa68a7f-79f9-4892-87cf-0972862522af": {
+            "profile_id": "3fa68a7f-79f9-4892-87cf-0972862522af",
+            "commune_slug": "auvers-saint-georges",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Auvers-Saint-Georges, je spécialise dans l'éclairage LED professionnel. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je propose des solutions d'éclairage innovantes et durables. Disponible pour tous vos besoins électriques, je garantis un travail de qualité.",
+            "local_badge": "Électricien expert d'Auvers-Saint-Georges, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Auvers-Saint-Georges, je transforme vos espaces avec des solutions innovantes et économes en énergie.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Auvers-Saint-Georges",
+            "why_this_commune": "Alexandre Lefevre est un excellent choix pour Auvers-Saint-Georges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:34.197Z",
+            "used_fallback": false
+          },
+          "35ec869a-8fc1-40b8-80d6-b835fd9858ed": {
+            "profile_id": "35ec869a-8fc1-40b8-80d6-b835fd9858ed",
+            "commune_slug": "auvers-saint-georges",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Auvers-Saint-Georges, Claude Mathieu intervient en urgence 24/7 sur tous types d'installations. Spécialisé dans les pavillons et immeubles de l'Essonne, il garantit des interventions rapides et un travail soigné pour sécuriser votre électricité à tout moment.",
+            "local_badge": "Électricien expert d'Auvers-Saint-Georges depuis années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Auvers-Saint-Georges pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "13 ans d'expérience électricien à Auvers-Saint-Georges, interventions rapides et fiables",
+            "why_this_commune": "Claude Mathieu est un excellent choix pour Auvers-Saint-Georges. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:47.774Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

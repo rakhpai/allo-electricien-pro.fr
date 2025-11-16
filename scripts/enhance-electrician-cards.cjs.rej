@@ -1,0 +1,13 @@
+--- scripts/enhance-electrician-cards.cjs
++++ scripts/enhance-electrician-cards.cjs
+@@ -36,7 +36,9 @@ const args = {
+   USE_SONNET: process.argv.includes('--use-sonnet'),
+   RESUME: process.argv.includes('--resume'),
+   ALL: process.argv.includes('--all'),
+-  PARALLEL: process.argv.includes('--parallel')
++  PARALLEL: process.argv.includes('--parallel'),
++  CHECKPOINT: process.argv.find(arg => arg.startsWith('--checkpoint='))?.split('=')[1] || 'checkpoint-electrician-cards.json',
++  SLUGS_FILE: process.argv.find(arg => arg.startsWith('--slugs-file='))?.split('=')[1] || null
+ };
+ 
+ // Select model - use Haiku 4.5 by default

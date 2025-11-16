@@ -1,0 +1,1131 @@
+{
+  "lastProcessedCommune": "avernes",
+  "processedCommunes": [
+    "argenteuil",
+    "cergy",
+    "pontoise",
+    "ableiges",
+    "aincourt",
+    "ambleville",
+    "amenucourt",
+    "andilly",
+    "arnouville",
+    "arronville",
+    "arthies",
+    "asnieres-sur-oise",
+    "attainville",
+    "auvers-sur-oise",
+    "avernes"
+  ],
+  "processed": {
+    "successful": 90,
+    "errors": 0,
+    "total": 184
+  },
+  "stats": {
+    "inputTokens": 96748,
+    "outputTokens": 24933,
+    "apiCalls": 450
+  },
+  "output": {
+    "generated_at": "2025-11-16T05:03:23.023Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "argenteuil": {
+        "commune_name": "ARGENTEUIL",
+        "postal_code": "95100",
+        "department": "95",
+        "electricians": {
+          "588706ba-9967-45e8-b7da-d9737e25dba1": {
+            "profile_id": "588706ba-9967-45e8-b7da-d9737e25dba1",
+            "commune_slug": "argenteuil",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Argenteuil, je maîtrise les installations des haussmanniens comme des pavillons modernes du Val-d'Oise. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement dans toute la commune avec professionnalisme et sérieux. Diagnostics précis et travail garanti.",
+            "local_badge": "Électricien expert à Argenteuil, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Argenteuil, interventions rapides et fiables.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable et certifié à Argenteuil",
+            "why_this_commune": "Daniel Nicolas est un excellent choix pour Argenteuil. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers d'Argenteuil. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:03:36.909Z",
+            "used_fallback": false
+          },
+          "5ec50cb6-889f-4fa6-b3ed-bd11f9cfd85c": {
+            "profile_id": "5ec50cb6-889f-4fa6-b3ed-bd11f9cfd85c",
+            "commune_slug": "argenteuil",
+            "bio_localized": "Électricien expérimenté à Argenteuil depuis 6 ans, je maîtrise les installations des haussmanniens comme des pavillons modernes du Val-d'Oise. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme et rigueur. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert à Argenteuil depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Argenteuil pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "6 ans d'expérience confirmée à Argenteuil, électricien fiable et professionnel",
+            "why_this_commune": "Daniel Lefebvre est un excellent choix pour Argenteuil. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers argenteuilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:03:49.368Z",
+            "used_fallback": false
+          },
+          "7ddd4956-58bd-4f20-b118-911e86fdf664": {
+            "profile_id": "7ddd4956-58bd-4f20-b118-911e86fdf664",
+            "commune_slug": "argenteuil",
+            "bio_localized": "Dominique Henry, électricien expert à Argenteuil, intervient sur l'installation et la mise aux normes de tableaux électriques. Spécialisé dans les appartements haussmanniens et pavillons du Val-d'Oise, il garantit des installations sécurisées et conformes. 18 ans d'expérience au service de votre tranquillité électrique.",
+            "local_badge": "Électricien expert à Argenteuil depuis des années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences d'Argenteuil, garantissant conformité et sécurité.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Argenteuil, interventions rapides garanties",
+            "why_this_commune": "Dominique Henry est le choix idéal pour Argenteuil. Électricien expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue dans la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:04:02.322Z",
+            "used_fallback": false
+          },
+          "5d181437-c433-463a-9611-e75dd2278fd7": {
+            "profile_id": "5d181437-c433-463a-9611-e75dd2278fd7",
+            "commune_slug": "argenteuil",
+            "bio_localized": "Électricien professionnel à Argenteuil depuis 10 ans, je spécialise dans l'éclairage LED pour les haussmanniens, pavillons et immeubles modernes du Val-d'Oise. Expertise reconnue en solutions d'éclairage innovantes et durables. Interventions rapides et fiables pour tous vos besoins électriques en Île-de-France.",
+            "local_badge": "Électricien expert d'Argenteuil, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel à Argenteuil pour optimiser votre consommation énergétique.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Argenteuil, interventions rapides et fiables",
+            "why_this_commune": "Emmanuel Vidal est le choix idéal pour Argenteuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers argenteuilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:17.210Z",
+            "used_fallback": false
+          },
+          "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708": {
+            "profile_id": "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708",
+            "commune_slug": "argenteuil",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Argenteuil, je maîtrise les installations des appartements haussmanniens comme des pavillons modernes du Val-d'Oise. Disponible 24/7 pour vos urgences électriques, je garantis des interventions rapides et un travail soigné, adapté à chaque type de bâtiment argenteuillien.",
+            "local_badge": "Électricien expert d'Argenteuil, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Argenteuil pour tous vos problèmes électriques et interventions rapides.",
+            "trust_signal": "12 ans d'expérience électricien confirmé à Argenteuil, interventions rapides garanties",
+            "why_this_commune": "Christian Vidal est un excellent choix pour Argenteuil. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers argenteuilliens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:30.168Z",
+            "used_fallback": false
+          },
+          "f38d2f86-e59a-4b64-acbb-30b7f7a3e003": {
+            "profile_id": "f38d2f86-e59a-4b64-acbb-30b7f7a3e003",
+            "commune_slug": "argenteuil",
+            "bio_localized": "Fort de 10 ans d'expertise, Robert Laurent intervient à Argenteuil pour la rénovation électrique de vos bâtiments haussmanniens, pavillons et immeubles modernes. Électricien qualifié, il sécurise et modernise vos installations électriques avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert d'Argenteuil, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Argenteuil, intervenant sur tous types de bâtiments résidentiels et commerciaux.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Argenteuil, interventions rapides garanties",
+            "why_this_commune": "Robert Laurent est un excellent choix pour Argenteuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers argenteuilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:04:43.159Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "cergy": {
+        "commune_name": "CERGY",
+        "postal_code": "95000-95800",
+        "department": "95",
+        "electricians": {
+          "c1a888d9-c6f5-479b-acb3-fe57d72f2d06": {
+            "profile_id": "c1a888d9-c6f5-479b-acb3-fe57d72f2d06",
+            "commune_slug": "cergy",
+            "bio_localized": "Électricien professionnel à Cergy depuis 17 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et résidences anciennes. Disponible rapidement pour vos urgences électriques en Val-d'Oise, je garantis des interventions fiables et sécurisées.",
+            "local_badge": "Électricien expert à Cergy, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Cergy : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "17 ans d'expérience électricien à Cergy, interventions rapides et fiables",
+            "why_this_commune": "Thomas Leroy est un excellent choix pour Cergy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers cergysiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:56.387Z",
+            "used_fallback": false
+          },
+          "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2": {
+            "profile_id": "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2",
+            "commune_slug": "cergy",
+            "bio_localized": "Henri Joly, électricien expert en domotique et automatisation à Cergy, intervient sur les pavillons et immeubles modernes du Val-d'Oise. Fort de 20 ans d'expérience, il modernise vos installations électriques avec des solutions intelligentes et fiables. Service professionnel et satisfaction garantie.",
+            "local_badge": "Électricien expert de Cergy, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique intelligente : votre électricien expert à Cergy pour moderniser votre habitat.",
+            "trust_signal": "20 ans d'expérience électricien à Cergy, interventions rapides et fiables",
+            "why_this_commune": "Henri Joly est le choix idéal pour Cergy. Électricien local, il connaît parfaitement les spécificités architecturales des quartiers cergyiens et les installations anciennes. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:05:09.788Z",
+            "used_fallback": false
+          },
+          "e408a5f9-a45c-4d95-a406-d9cd273d0471": {
+            "profile_id": "e408a5f9-a45c-4d95-a406-d9cd273d0471",
+            "commune_slug": "cergy",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, René Fabre intervient à Cergy pour tous vos besoins en rénovation électrique. Spécialiste des installations dans les pavillons, immeubles modernes et résidences du Val-d'Oise, il garantit des travaux conformes et sécurisés. Professionnel fiable pour moderniser votre électricité.",
+            "local_badge": "Électricien expert à Cergy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Cergy, je modernise vos installations anciennes avec expertise et professionnalisme.",
+            "trust_signal": "5 ans d'expérience confirmée à Cergy, interventions rapides et fiables garanties",
+            "why_this_commune": "René Fabre est un excellent choix pour Cergy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:23.094Z",
+            "used_fallback": false
+          },
+          "076dd31d-53b8-4144-86c4-76569e7d742a": {
+            "profile_id": "076dd31d-53b8-4144-86c4-76569e7d742a",
+            "commune_slug": "cergy",
+            "bio_localized": "Électricien agréé Consuel à Cergy depuis 11 ans, Pascal Gautier intervient sur tous types de bâtiments : pavillons, immeubles modernes et résidences anciennes du Val-d'Oise. Spécialiste des installations électriques sécurisées, il garantit la conformité de vos installations avec expertise et professionnalisme.",
+            "local_badge": "Électricien expert de Cergy, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Cergy, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "11 ans d'expérience confirmée à Cergy, électricien qualifié et fiable",
+            "why_this_commune": "Pascal Gautier est un excellent choix pour Cergy. Électricien expérimenté dans le Val-d'Oise, il connaît parfaitement les spécificités des bâtiments et quartiers cergyiens. Sa proximité garantit des interventions rapides et efficaces. Faites confiance à son expertise locale.",
+            "generated_at": "2025-11-16T05:05:35.951Z",
+            "used_fallback": false
+          },
+          "405a78cd-5e8e-408c-af68-216a1bfb8b5a": {
+            "profile_id": "405a78cd-5e8e-408c-af68-216a1bfb8b5a",
+            "commune_slug": "cergy",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Cergy, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes du Val-d'Oise. Disponible immédiatement pour diagnostiquer et résoudre vos problèmes électriques avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert à Cergy, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Cergy pour tous vos dépannages et installations électriques rapides et fiables.",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Cergy, interventions rapides et fiables garanties",
+            "why_this_commune": "Christian Meyer est un excellent choix pour Cergy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers cergyiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:05:49.105Z",
+            "used_fallback": false
+          },
+          "8ee67f6b-1114-456a-bb52-9f65e60230f9": {
+            "profile_id": "8ee67f6b-1114-456a-bb52-9f65e60230f9",
+            "commune_slug": "cergy",
+            "bio_localized": "Électricien expert à Cergy depuis 17 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et résidences du Val-d'Oise. Intervention rapide et fiable pour vos urgences électriques. Disponible partout sur Cergy et communes limitrophes.",
+            "local_badge": "Électricien expert à Cergy, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Cergy : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et réactif à Cergy",
+            "why_this_commune": "Vincent Sanchez est un excellent choix pour Cergy. Basé localement, il connaît parfaitement les spécificités architecturales des quartiers cergyiens et intervient rapidement. Son expérience confirmée dans la commune garantit un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:06:02.302Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "pontoise": {
+        "commune_name": "PONTOISE",
+        "postal_code": "95300",
+        "department": "95",
+        "electricians": {
+          "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2": {
+            "profile_id": "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2",
+            "commune_slug": "pontoise",
+            "bio_localized": "Henri Joly, électricien expert en domotique et automatisation à Pontoise, intervient sur les bâtiments haussmanniens, pavillons et immeubles modernes du Val-d'Oise. Avec 20 ans d'expérience, il modernise vos installations électriques et systèmes domotiques. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert à Pontoise, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation, je modernise les installations électriques des maisons et immeubles de Pontoise.",
+            "trust_signal": "20 ans d'expérience, électricien certifié à Pontoise, interventions rapides garanties",
+            "why_this_commune": "Henri Joly est le choix idéal pour Pontoise. Électricien expérimenté dans le Val-d'Oise, il maîtrise les spécificités architecturales locales et les quartiers pontoisiens. Sa proximité garantit des interventions rapides et efficaces. Fiable et professionnel, il répond parfaitement à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:06:15.635Z",
+            "used_fallback": false
+          },
+          "e408a5f9-a45c-4d95-a406-d9cd273d0471": {
+            "profile_id": "e408a5f9-a45c-4d95-a406-d9cd273d0471",
+            "commune_slug": "pontoise",
+            "bio_localized": "Électricien expérimenté à Pontoise, René Fabre intervient sur la rénovation électrique de vos haussmanniens et pavillons. Avec 5 années d'expertise, il modernise les installations des immeubles du Val-d'Oise. Travail de qualité, sécurité garantie et devis transparent pour tous vos projets électriques.",
+            "local_badge": "Électricien expert à Pontoise, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Pontoise, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "5 ans d'expérience confirmée à Pontoise, interventions rapides et fiables garanties",
+            "why_this_commune": "René Fabre est un excellent choix pour Pontoise. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:31.316Z",
+            "used_fallback": false
+          },
+          "c1a888d9-c6f5-479b-acb3-fe57d72f2d06": {
+            "profile_id": "c1a888d9-c6f5-479b-acb3-fe57d72f2d06",
+            "commune_slug": "pontoise",
+            "bio_localized": "Électricien expert à Pontoise depuis 17 ans, je maîtrise le dépannage express sur tous types de bâtiments : haussmanniens historiques, pavillons résidentiels et immeubles modernes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans le Val-d'Oise.",
+            "local_badge": "Électricien expert de Pontoise, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Pontoise : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "17 ans d'expérience électricien à Pontoise, interventions rapides et fiables",
+            "why_this_commune": "Thomas Leroy, électricien à Pontoise, connaît parfaitement les spécificités architecturales et les quartiers locaux du Val-d'Oise. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:06:44.814Z",
+            "used_fallback": false
+          },
+          "076dd31d-53b8-4144-86c4-76569e7d742a": {
+            "profile_id": "076dd31d-53b8-4144-86c4-76569e7d742a",
+            "commune_slug": "pontoise",
+            "bio_localized": "Pascal Gautier, électricien agréé Consuel à Pontoise, intervient depuis 11 ans sur tous les types de bâtiments : haussmanniens, pavillons et immeubles modernes du Val-d'Oise. Spécialiste en électricité professionnelle, il garantit vos installations conformes et sécurisées avec expertise reconnue.",
+            "local_badge": "Électricien expert de Pontoise, interventions rapides",
+            "service_highlight": "Électricien agréé Consuel à Pontoise, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Pontoise, interventions rapides garanties",
+            "why_this_commune": "Pascal Gautier est un excellent choix pour Pontoise. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers pontoisiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:06:57.517Z",
+            "used_fallback": false
+          },
+          "8ee67f6b-1114-456a-bb52-9f65e60230f9": {
+            "profile_id": "8ee67f6b-1114-456a-bb52-9f65e60230f9",
+            "commune_slug": "pontoise",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Pontoise, je maîtrise le dépannage express sur tous types de bâtiments : haussmanniens du centre-ville, pavillons résidentiels et immeubles modernes. Intervention rapide et fiable pour vos urgences électriques en Val-d'Oise. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert à Pontoise, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Pontoise : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "17 ans d'expérience électricien à Pontoise, interventions rapides et fiables",
+            "why_this_commune": "Vincent Sanchez est un excellent choix pour Pontoise. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:07:10.333Z",
+            "used_fallback": false
+          },
+          "e307c245-e25a-4d21-9886-8b4e6ea3c2f0": {
+            "profile_id": "e307c245-e25a-4d21-9886-8b4e6ea3c2f0",
+            "commune_slug": "pontoise",
+            "bio_localized": "Eric Sanchez, électricien expert à Pontoise, intervient sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les bâtiments haussmanniens et pavillons du Val-d'Oise, il garantit des installations conformes et sécurisées. Dix ans d'expérience au service de votre tranquillité électrique.",
+            "local_badge": "Électricien expert à Pontoise, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques résidentiels et professionnels à Pontoise.",
+            "trust_signal": "10 ans d'expérience confirmée à Pontoise, électricien fiable et réactif",
+            "why_this_commune": "Eric Sanchez est un excellent choix pour Pontoise. Électricien expérimenté du Val-d'Oise, il connaît parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit des interventions rapides et efficaces. Vous bénéficiez d'un professionnel fiable, réactif et maîtrisant les enjeux électriques pontoisiens.",
+            "generated_at": "2025-11-16T05:07:23.663Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ableiges": {
+        "commune_name": "ABLEIGES",
+        "postal_code": "95450",
+        "department": "95",
+        "electricians": {
+          "2fa0a902-5308-4583-8908-253e1d105521": {
+            "profile_id": "2fa0a902-5308-4583-8908-253e1d105521",
+            "commune_slug": "ableiges",
+            "bio_localized": "Patrick Schmitt, électricien agréé Consuel à Ableiges, intervient depuis 7 ans auprès des résidents du Val-d'Oise. Spécialiste en installations électriques professionnelles, il sécurise pavillons et immeubles avec expertise. Diagnostics, mises aux normes et dépannages : votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert à Ableiges, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Ableiges, garantissant la conformité et la sécurité de vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "7 ans d'expérience confirmée à Ableiges, électricien fiable et professionnel",
+            "why_this_commune": "Patrick Schmitt est le choix idéal pour Ableiges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers d'Ableiges. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:37.055Z",
+            "used_fallback": false
+          },
+          "8ee67f6b-1114-456a-bb52-9f65e60230f9": {
+            "profile_id": "8ee67f6b-1114-456a-bb52-9f65e60230f9",
+            "commune_slug": "ableiges",
+            "bio_localized": "Électricien depuis 17 ans à Ableiges, je maîtrise le dépannage express pour tous vos besoins. Que vous habitiez un pavillon ou un immeuble du Val-d'Oise, je garantis une intervention rapide et fiable. Expert en électricité générale, je suis votre partenaire de confiance pour tous vos problèmes électriques.",
+            "local_badge": "Électricien expert d'Ableiges, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Ableiges : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Ableiges, interventions rapides et fiables",
+            "why_this_commune": "Vincent Sanchez est le choix idéal pour Ableiges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:49.873Z",
+            "used_fallback": false
+          },
+          "076dd31d-53b8-4144-86c4-76569e7d742a": {
+            "profile_id": "076dd31d-53b8-4144-86c4-76569e7d742a",
+            "commune_slug": "ableiges",
+            "bio_localized": "Électricien agréé Consuel à Ableiges depuis 11 ans, Pascal Gautier intervient sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures du Val-d'Oise. Spécialiste des installations électriques sécurisées et aux normes, il garantit votre conformité électrique avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert à Ableiges, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Ableiges, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et qualifié à Ableiges",
+            "why_this_commune": "Pascal Gautier est le choix idéal pour Ableiges. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:03.162Z",
+            "used_fallback": false
+          },
+          "405a78cd-5e8e-408c-af68-216a1bfb8b5a": {
+            "profile_id": "405a78cd-5e8e-408c-af68-216a1bfb8b5a",
+            "commune_slug": "ableiges",
+            "bio_localized": "Électricien depuis 10 ans à Ableiges, je maîtrise les installations des pavillons et immeubles du Val-d'Oise. Spécialisé en dépannage d'urgence 24/7, j'interviens rapidement pour vos problèmes électriques. Travail soigné et fiable garanti, quelle que soit l'heure.",
+            "local_badge": "Électricien expert à Ableiges, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Ableiges pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable et réactif à Ableiges",
+            "why_this_commune": "Christian Meyer est le choix idéal pour Ableiges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:16.380Z",
+            "used_fallback": false
+          },
+          "ea79b818-7988-4218-ba1e-08924624076d": {
+            "profile_id": "ea79b818-7988-4218-ba1e-08924624076d",
+            "commune_slug": "ableiges",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, René Lucas intervient à Ableiges pour la rénovation électrique de vos installations. Spécialiste des pavillons et immeubles du Val-d'Oise, il modernise vos systèmes électriques avec professionnalisme et fiabilité. Diagnostics précis et travaux conformes aux normes.",
+            "local_badge": "Électricien expert d'Ableiges, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Ableiges, je modernise les installations anciennes de votre habitation en toute sécurité.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Ableiges, interventions rapides garanties",
+            "why_this_commune": "René Lucas est le choix idéal pour Ableiges. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:29.374Z",
+            "used_fallback": false
+          },
+          "cb8920eb-b1e4-44f8-a90d-306760c861c3": {
+            "profile_id": "cb8920eb-b1e4-44f8-a90d-306760c861c3",
+            "commune_slug": "ableiges",
+            "bio_localized": "Électricien expérimenté à Ableiges, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Fort de 6 ans d'expertise, j'assure la sécurité électrique de votre habitation avec professionnalisme. Devis gratuit et interventions rapides garantis.",
+            "local_badge": "Électricien expert d'Ableiges, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 pour tous les logements d'Ableiges, garantissant votre sécurité électrique.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et professionnel à Ableiges",
+            "why_this_commune": "Thierry Roche est le choix idéal pour Ableiges. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:42.318Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "aincourt": {
+        "commune_name": "AINCOURT",
+        "postal_code": "95510",
+        "department": "95",
+        "electricians": {
+          "509b75bc-43f7-4dd5-9a3a-3329100dfe87": {
+            "profile_id": "509b75bc-43f7-4dd5-9a3a-3329100dfe87",
+            "commune_slug": "aincourt",
+            "bio_localized": "Électricien expérimenté depuis 18 ans, Pierre Leroy intervient à Aincourt pour tous vos besoins en électricité générale. Spécialiste des installations résidentielles et tertiaires, il garantit des interventions rapides et soignées sur les pavillons et immeubles du Val-d'Oise. Professionnel fiable et réactif.",
+            "local_badge": "Électricien expert d'Aincourt, interventions rapides garanties",
+            "service_highlight": "Électricien généraliste intervenant à Aincourt pour tous vos travaux d'installation, dépannage et maintenance électrique résidentielle et commerciale.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Aincourt, interventions rapides garanties",
+            "why_this_commune": "Pierre Leroy est un excellent choix pour Aincourt. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:54.852Z",
+            "used_fallback": false
+          },
+          "6c4a1f87-c434-4ca8-8e05-3a6a821f2703": {
+            "profile_id": "6c4a1f87-c434-4ca8-8e05-3a6a821f2703",
+            "commune_slug": "aincourt",
+            "bio_localized": "Électricien qualifié intervenant à Aincourt et ses environs, je spécialise dans l'installation de tableaux électriques pour pavillons et résidences du Val-d'Oise. Fort de 8 ans d'expérience, je garantis des installations conformes aux normes actuelles. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Aincourt, intervention rapide garantie",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences d'Aincourt, garantissant conformité et sécurité.",
+            "trust_signal": "8 ans d'expérience électricien confirmé à Aincourt, interventions rapides garanties",
+            "why_this_commune": "Dominique Meyer est le choix idéal pour Aincourt. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:08.095Z",
+            "used_fallback": false
+          },
+          "3b8affeb-3f31-438a-b4f2-092cd02236b2": {
+            "profile_id": "3b8affeb-3f31-438a-b4f2-092cd02236b2",
+            "commune_slug": "aincourt",
+            "bio_localized": "Électricien professionnel à Aincourt depuis 15 ans, je spécialise dans l'éclairage LED haute performance. Que vous habitiez un pavillon ou un immeuble du Val-d'Oise, je vous propose des solutions d'éclairage modernes, économes et durables. Expertise reconnue, travail soigné, disponibilité garantie.",
+            "local_badge": "Électricien expert d'Aincourt, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel, je réalise vos installations lumineuses modernes et économes à Aincourt.",
+            "trust_signal": "15 ans d'expérience électricien à Aincourt, interventions rapides et fiables",
+            "why_this_commune": "Emmanuel Noel est le choix idéal pour Aincourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service professionnel et fiable.",
+            "generated_at": "2025-11-16T05:09:21.515Z",
+            "used_fallback": false
+          },
+          "cdd0100d-b036-4d2d-9f66-659424007bc7": {
+            "profile_id": "cdd0100d-b036-4d2d-9f66-659424007bc7",
+            "commune_slug": "aincourt",
+            "bio_localized": "Électricien expert à Aincourt depuis 19 ans, Robert Roche maîtrise la rénovation électrique sur tous types de bâtiments. Du pavillon traditionnel aux constructions modernes du Val-d'Oise, il garantit des installations sécurisées et conformes. Intervention rapide et devis transparent pour vos projets électriques.",
+            "local_badge": "Électricien expert d'Aincourt, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Aincourt, je modernise les installations des maisons anciennes avec professionnalisme et fiabilité.",
+            "trust_signal": "19 ans d'expérience, électricien fiable et reconnu à Aincourt",
+            "why_this_commune": "Robert Roche est un excellent choix pour Aincourt. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T05:09:34.251Z",
+            "used_fallback": false
+          },
+          "e52bfe79-8d3e-4312-8328-70bc08a07d44": {
+            "profile_id": "e52bfe79-8d3e-4312-8328-70bc08a07d44",
+            "commune_slug": "aincourt",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Aincourt, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et maisons anciennes du Val-d'Oise. Intervention rapide, devis gratuit. Vos installations électriques sécurisées et conformes.",
+            "local_badge": "Électricien expert d'Aincourt, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Aincourt.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et qualifié à Aincourt",
+            "why_this_commune": "Denis Dubois est un excellent choix pour Aincourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:09:46.644Z",
+            "used_fallback": false
+          },
+          "74ae36ef-6386-4890-a1c4-496482d229a9": {
+            "profile_id": "74ae36ef-6386-4890-a1c4-496482d229a9",
+            "commune_slug": "aincourt",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Aincourt, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments, des pavillons aux immeubles modernes du Val-d'Oise. Disponible jour et nuit, je garantis une prise en charge rapide et un travail soigné pour sécuriser vos installations électriques.",
+            "local_badge": "Électricien expert d'Aincourt, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Aincourt pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée à Aincourt, électricien fiable et professionnel",
+            "why_this_commune": "Alain Giraud est le choix idéal pour Aincourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-d'Oise assure un service de qualité et fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:09:59.630Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ambleville": {
+        "commune_name": "AMBLEVILLE",
+        "postal_code": "95710",
+        "department": "95",
+        "electricians": {
+          "46f75190-b1e6-435e-a34e-26f959cdfb89": {
+            "profile_id": "46f75190-b1e6-435e-a34e-26f959cdfb89",
+            "commune_slug": "ambleville",
+            "bio_localized": "Électricien depuis 18 ans à Ambleville, je maîtrise le dépannage express sur tous types de bâtis : pavillons, immeubles modernes et anciennes constructions du Val-d'Oise. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles adaptées à votre habitat.",
+            "local_badge": "Électricien expert d'Ambleville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Ambleville : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Ambleville, interventions rapides garanties",
+            "why_this_commune": "Rémi Duval est le choix idéal pour Ambleville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:10:13.946Z",
+            "used_fallback": false
+          },
+          "713f0ed4-731a-42e3-b53a-87ae2ed6d728": {
+            "profile_id": "713f0ed4-731a-42e3-b53a-87ae2ed6d728",
+            "commune_slug": "ambleville",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, André Renaud intervient à Ambleville et ses alentours. Spécialiste en électricité générale, il maîtrise les installations des pavillons périurbains comme des immeubles. Intervention rapide, travail soigné et devis transparent pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Ambleville, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Ambleville pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et commercial.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Ambleville",
+            "why_this_commune": "André Renaud est le choix idéal pour Ambleville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et de confiance.",
+            "generated_at": "2025-11-16T05:10:26.609Z",
+            "used_fallback": false
+          },
+          "74ae36ef-6386-4890-a1c4-496482d229a9": {
+            "profile_id": "74ae36ef-6386-4890-a1c4-496482d229a9",
+            "commune_slug": "ambleville",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Ambleville, je maîtrise les installations des pavillons et immeubles du Val-d'Oise. Disponible 24/7 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Ambleville, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Ambleville pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée à Ambleville, interventions rapides et fiables",
+            "why_this_commune": "Alain Giraud est le choix idéal pour Ambleville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone du Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:10:39.619Z",
+            "used_fallback": false
+          },
+          "7eb220a5-1901-4848-9238-c4c17adce932": {
+            "profile_id": "7eb220a5-1901-4848-9238-c4c17adce932",
+            "commune_slug": "ambleville",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Ambleville, je maîtrise les installations des pavillons et immeubles du Val-d'Oise. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme et précision. Diagnostic fiable et travail soigné garantis pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert d'Ambleville, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Ambleville, interventions rapides et fiables.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Ambleville, interventions rapides et fiables",
+            "why_this_commune": "Bernard Boyer est le choix idéal pour Ambleville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:10:53.536Z",
+            "used_fallback": false
+          },
+          "9c8b265a-9a7e-44f0-918b-90438256179b": {
+            "profile_id": "9c8b265a-9a7e-44f0-918b-90438256179b",
+            "commune_slug": "ambleville",
+            "bio_localized": "Nicolas Dupont, électricien agréé Consuel à Ambleville, intervient depuis 6 ans sur les pavillons et immeubles du Val-d'Oise. Expert en conformité électrique, il sécurise vos installations résidentielles et professionnelles. Diagnostics, mises aux normes et dépannages : votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert d'Ambleville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Ambleville, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "6 ans d'expérience confirmée à Ambleville, électricien fiable et réactif",
+            "why_this_commune": "Nicolas Dupont est un excellent choix pour Ambleville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers amblevois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:11:08.630Z",
+            "used_fallback": false
+          },
+          "472838c5-b71f-4183-9be0-41173ca45657": {
+            "profile_id": "472838c5-b71f-4183-9be0-41173ca45657",
+            "commune_slug": "ambleville",
+            "bio_localized": "Électricien professionnel à Ambleville depuis 16 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles et constructions modernes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et sécurisées dans le Val-d'Oise. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert d'Ambleville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Ambleville : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Ambleville",
+            "why_this_commune": "Thomas Jean est un excellent choix pour Ambleville. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:21.898Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "amenucourt": {
+        "commune_name": "AMENUCOURT",
+        "postal_code": "95510",
+        "department": "95",
+        "electricians": {
+          "e52bfe79-8d3e-4312-8328-70bc08a07d44": {
+            "profile_id": "e52bfe79-8d3e-4312-8328-70bc08a07d44",
+            "commune_slug": "amenucourt",
+            "bio_localized": "Électricien expérimenté à Amenucourt depuis 11 ans, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences du Val-d'Oise. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Amenucourt, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les habitations d'Amenucourt, garantissant votre sécurité électrique.",
+            "trust_signal": "11 ans d'expérience électricien à Amenucourt, intervention rapide garantie",
+            "why_this_commune": "Denis Dubois est un excellent choix pour Amenucourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:34.676Z",
+            "used_fallback": false
+          },
+          "6c4a1f87-c434-4ca8-8e05-3a6a821f2703": {
+            "profile_id": "6c4a1f87-c434-4ca8-8e05-3a6a821f2703",
+            "commune_slug": "amenucourt",
+            "bio_localized": "Dominique Meyer, électricien expert à Amenucourt, intervient sur l'installation et la mise aux normes de tableaux électriques. Spécialiste reconnu en Val-d'Oise depuis 8 ans, il maîtrise les installations résidentielles modernes et anciennes. Qualité et sécurité garanties pour vos projets électriques.",
+            "local_badge": "Électricien expert d'Amenucourt, intervention rapide garantie",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques à Amenucourt pour résidences et petits collectifs.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et professionnel à Amenucourt",
+            "why_this_commune": "Dominique Meyer est le choix idéal pour Amenucourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:47.860Z",
+            "used_fallback": false
+          },
+          "509b75bc-43f7-4dd5-9a3a-3329100dfe87": {
+            "profile_id": "509b75bc-43f7-4dd5-9a3a-3329100dfe87",
+            "commune_slug": "amenucourt",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Amenucourt, je maîtrise l'électricité générale pour tous types d'habitations. Du pavillon traditionnel aux constructions modernes du Val-d'Oise, j'interviens avec professionnalisme et rigueur. Diagnostics, installations et dépannages : votre confiance est ma priorité.",
+            "local_badge": "Électricien expert d'Amenucourt, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Amenucourt pour particuliers et professionnels.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Amenucourt",
+            "why_this_commune": "Pierre Leroy est un excellent choix pour Amenucourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:12:00.750Z",
+            "used_fallback": false
+          },
+          "962934b5-07e7-4a5b-a216-773d4e2412ba": {
+            "profile_id": "962934b5-07e7-4a5b-a216-773d4e2412ba",
+            "commune_slug": "amenucourt",
+            "bio_localized": "Olivier Denis, électricien agréé Consuel à Amenucourt, intervient depuis 12 ans sur tous types de bâtiments du Val-d'Oise. Spécialiste des installations électriques neuves et rénovations, il sécurise pavillons et immeubles avec expertise reconnue. Professionnel fiable pour vos normes électriques.",
+            "local_badge": "Électricien expert d'Amenucourt, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Amenucourt, je garantis la conformité de vos installations électriques résidentielles et tertiaires.",
+            "trust_signal": "12 ans d'expérience électricien confirmé à Amenucourt, interventions rapides garanties",
+            "why_this_commune": "Olivier Denis est le choix idéal pour Amenucourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:13.882Z",
+            "used_fallback": false
+          },
+          "a03ac559-191a-412f-b7bd-eafa0f1c62eb": {
+            "profile_id": "a03ac559-191a-412f-b7bd-eafa0f1c62eb",
+            "commune_slug": "amenucourt",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Amenucourt, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Interventions rapides et fiables, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Amenucourt, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations d'Amenucourt, garantissant sécurité et conformité.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et réactif à Amenucourt",
+            "why_this_commune": "Antoine François, électricien local à Amenucourt, maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:27.031Z",
+            "used_fallback": false
+          },
+          "46f75190-b1e6-435e-a34e-26f959cdfb89": {
+            "profile_id": "46f75190-b1e6-435e-a34e-26f959cdfb89",
+            "commune_slug": "amenucourt",
+            "bio_localized": "Électricien expérimenté depuis 18 ans, je suis basé à Amenucourt (95) où j'interviens sur tous types de bâtiments : pavillons, immeubles et constructions modernes. Spécialiste du dépannage express, je garantis une intervention rapide et fiable pour résoudre vos problèmes électriques. Disponible pour vous servir.",
+            "local_badge": "Électricien expert d'Amenucourt, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Amenucourt : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Amenucourt",
+            "why_this_commune": "Rémi Duval est le choix idéal pour Amenucourt. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service de qualité adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T05:12:39.855Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "andilly": {
+        "commune_name": "ANDILLY",
+        "postal_code": "95580",
+        "department": "95",
+        "electricians": {
+          "500c98ea-d65d-44dd-97ea-750dfe20cea2": {
+            "profile_id": "500c98ea-d65d-44dd-97ea-750dfe20cea2",
+            "commune_slug": "andilly",
+            "bio_localized": "Dominique Fernandez, électricien expert à Andilly, maîtrise l'installation de tableaux électriques dans les pavillons et immeubles du Val-d'Oise. Fort de 16 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client prioritaire pour vos besoins électriques.",
+            "local_badge": "Électricien expert d'Andilly, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques pour les maisons et immeubles d'Andilly.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Andilly, interventions rapides et fiables",
+            "why_this_commune": "Dominique Fernandez est un excellent choix pour Andilly. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et fiables. Son expertise du Val-d'Oise assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:12:52.353Z",
+            "used_fallback": false
+          },
+          "1a44d294-081e-4c4b-8b23-96b3345d88f7": {
+            "profile_id": "1a44d294-081e-4c4b-8b23-96b3345d88f7",
+            "commune_slug": "andilly",
+            "bio_localized": "Électricien professionnel à Andilly depuis 6 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles du Val-d'Oise. Maîtrisant les installations modernes et efficaces énergétiques, j'interviens sur tous vos besoins électriques. Disponible pour transformer votre éclairage avec expertise et fiabilité.",
+            "local_badge": "Électricien expert d'Andilly, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en éclairage LED professionnel, intervenant à Andilly pour optimiser vos installations lumineuses.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Andilly",
+            "why_this_commune": "Benjamin Meunier est le choix idéal pour Andilly. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers d'Andilly. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:13:06.688Z",
+            "used_fallback": false
+          },
+          "62a0d5ca-d997-431e-b62b-003493092786": {
+            "profile_id": "62a0d5ca-d997-431e-b62b-003493092786",
+            "commune_slug": "andilly",
+            "bio_localized": "Patrick Renard, électricien agréé Consuel à Andilly, intervient depuis 5 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste des installations électriques conformes aux normes, il sécurise votre habitat avec expertise et professionnalisme. Diagnostics et mises aux normes garantis.",
+            "local_badge": "Électricien expert d'Andilly, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Andilly, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Andilly",
+            "why_this_commune": "Patrick Renard est le choix idéal pour Andilly. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers d'Andilly. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et une confiance établie auprès des habitants.",
+            "generated_at": "2025-11-16T05:13:20.045Z",
+            "used_fallback": false
+          },
+          "3ea32408-15bd-40e6-9589-d1aa1d996775": {
+            "profile_id": "3ea32408-15bd-40e6-9589-d1aa1d996775",
+            "commune_slug": "andilly",
+            "bio_localized": "Électricien expérimenté depuis 13 ans, Philippe Bonnet intervient à Andilly et ses alentours. Spécialisé en électricité générale, il maîtrise l'installation et la maintenance des pavillons et immeubles du Val-d'Oise. Travail soigné, interventions rapides et devis gratuits pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Andilly, interventions rapides garanties",
+            "service_highlight": "Électricien généraliste intervenant à Andilly pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et tertiaire.",
+            "trust_signal": "13 ans d'expérience électricien à Andilly, interventions rapides et fiables",
+            "why_this_commune": "Philippe Bonnet, électricien basé à Andilly, connaît parfaitement les spécificités architecturales et les quartiers locaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise en fait un professionnel fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:13:32.971Z",
+            "used_fallback": false
+          },
+          "ba09c410-389d-48d4-be1f-b9ef6f50fe4b": {
+            "profile_id": "ba09c410-389d-48d4-be1f-b9ef6f50fe4b",
+            "commune_slug": "andilly",
+            "bio_localized": "Électricien expérimenté à Andilly, je maîtrise l'éclairage LED professionnel depuis 10 ans. Spécialisé dans l'optimisation énergétique des pavillons et immeubles du Val-d'Oise, j'interviens sur tous vos besoins électriques avec professionnalisme et fiabilité pour transformer vos espaces.",
+            "local_badge": "Électricien expert d'Andilly, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Andilly pour optimiser vos installations lumineuses.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et reconnu à Andilly",
+            "why_this_commune": "Florian Dupuis est le choix idéal pour Andilly. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:13:46.502Z",
+            "used_fallback": false
+          },
+          "ef75a734-67de-45f0-9588-f916f1f99f63": {
+            "profile_id": "ef75a734-67de-45f0-9588-f916f1f99f63",
+            "commune_slug": "andilly",
+            "bio_localized": "Électricien professionnel depuis 9 ans à Andilly, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments, des pavillons aux immeubles modernes du Val-d'Oise. Réactivité garantie, diagnostic précis et travail soigné pour sécuriser votre installation électrique à tout moment.",
+            "local_badge": "Électricien expert d'Andilly, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Andilly pour tous vos dépannages et interventions électriques rapides et fiables.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien de confiance à Andilly",
+            "why_this_commune": "Bernard Girard est un excellent choix pour Andilly. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:14:00.890Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arnouville": {
+        "commune_name": "ARNOUVILLE",
+        "postal_code": "95400",
+        "department": "95",
+        "electricians": {
+          "5a89da89-edb9-4381-b440-0ed0f1ac4eda": {
+            "profile_id": "5a89da89-edb9-4381-b440-0ed0f1ac4eda",
+            "commune_slug": "arnouville",
+            "bio_localized": "Électricien expérimenté depuis 10 ans, Pierre Leclerc intervient à Arnouville pour tous vos besoins en électricité générale. Spécialiste des installations résidentielles, du diagnostic électrique aux rénovations, il maîtrise les spécificités des pavillons et immeubles locaux. Intervention rapide, travail soigné et devis transparent garantis.",
+            "local_badge": "Électricien expert d'Arnouville, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Arnouville pour tous vos travaux d'installation et de maintenance électrique résidentielle et commerciale.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et réactif à Arnouville",
+            "why_this_commune": "Pierre Leclerc est le choix idéal pour Arnouville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers arnouvillois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:14:15.393Z",
+            "used_fallback": false
+          },
+          "3eab0517-e339-419d-80a0-4499ebb554f5": {
+            "profile_id": "3eab0517-e339-419d-80a0-4499ebb554f5",
+            "commune_slug": "arnouville",
+            "bio_localized": "Électricien expérimenté depuis 7 ans, je propose un dépannage express à Arnouville et ses environs. Spécialisé dans l'intervention rapide, j'interviens sur tous types de logements : pavillons, immeubles et constructions modernes du Val-d'Oise. Votre satisfaction et votre sécurité électrique sont ma priorité.",
+            "local_badge": "Électricien expert d'Arnouville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arnouville : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience confirmée à Arnouville, électricien fiable et professionnel",
+            "why_this_commune": "Rémi Pierre est le choix idéal pour Arnouville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers arnouvilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:14:29.075Z",
+            "used_fallback": false
+          },
+          "36e0f4c9-7261-4746-939a-0b3ab3bd01be": {
+            "profile_id": "36e0f4c9-7261-4746-939a-0b3ab3bd01be",
+            "commune_slug": "arnouville",
+            "bio_localized": "Patrick Leclerc, électricien agréé Consuel à Arnouville, intervient depuis 8 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste en électricité professionnelle, il garantit la conformité de vos installations et la sécurité de votre habitation. Expertise reconnue et service fiable.",
+            "local_badge": "Électricien expert d'Arnouville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Arnouville, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "8 ans d'expérience confirmée à Arnouville, électricien fiable et réactif",
+            "why_this_commune": "Patrick Leclerc est le choix idéal pour Arnouville. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments arnouvilliens. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et une expertise adaptée à vos besoins.",
+            "generated_at": "2025-11-16T05:14:41.950Z",
+            "used_fallback": false
+          },
+          "295b869f-a661-48ee-b5d9-19c291f02c5d": {
+            "profile_id": "295b869f-a661-48ee-b5d9-19c291f02c5d",
+            "commune_slug": "arnouville",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, Serge Meyer intervient à Arnouville pour rénover les installations électriques de vos pavillons et immeubles. Spécialiste en rénovation électrique, il garantit des travaux conformes et sécurisés. Votre électricien de confiance en Val-d'Oise.",
+            "local_badge": "Électricien expert à Arnouville, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Arnouville, je modernise les installations anciennes de votre habitation en toute sécurité.",
+            "trust_signal": "5 ans d'expérience confirmée à Arnouville, interventions rapides et fiables garanties",
+            "why_this_commune": "Serge Meyer est le choix idéal pour Arnouville. Électricien expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Implanté dans la commune, il offre un service fiable et adapté aux besoins d'Arnouville.",
+            "generated_at": "2025-11-16T05:14:55.896Z",
+            "used_fallback": false
+          },
+          "40bdb051-74d9-42ed-ab10-3385885af24c": {
+            "profile_id": "40bdb051-74d9-42ed-ab10-3385885af24c",
+            "commune_slug": "arnouville",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Arnouville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Interventions rapides et fiables sur tous types d'installations. Devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Arnouville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Arnouville.",
+            "trust_signal": "6 ans d'expérience confirmée à Arnouville, interventions rapides et fiables garanties",
+            "why_this_commune": "Thierry Joly est un excellent choix pour Arnouville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:15:08.534Z",
+            "used_fallback": false
+          },
+          "ce632e2b-de20-4bcb-af9a-208479d22106": {
+            "profile_id": "ce632e2b-de20-4bcb-af9a-208479d22106",
+            "commune_slug": "arnouville",
+            "bio_localized": "François Leroy, électricien expert à Arnouville, intervient depuis 17 ans sur l'installation de tableaux électriques. Spécialiste des pavillons et immeubles du Val-d'Oise, il garantit des installations conformes et sécurisées. Professionnel certifié, il met votre satisfaction et la qualité de son travail au cœur de chaque intervention.",
+            "local_badge": "Électricien expert d'Arnouville, intervention rapide garantie",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences d'Arnouville et communes environnantes.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et réactif à Arnouville",
+            "why_this_commune": "François Leroy est le choix idéal pour Arnouville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers arnouvilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:21.773Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arronville": {
+        "commune_name": "ARRONVILLE",
+        "postal_code": "95810",
+        "department": "95",
+        "electricians": {
+          "ea79b818-7988-4218-ba1e-08924624076d": {
+            "profile_id": "ea79b818-7988-4218-ba1e-08924624076d",
+            "commune_slug": "arronville",
+            "bio_localized": "Fort de 15 ans d'expérience, René Lucas intervient à Arronville pour rénover complètement vos installations électriques. Spécialiste des pavillons et immeubles du Val-d'Oise, il modernise vos systèmes électriques en toute sécurité. Un professionnel de confiance pour vos projets de rénovation électrique.",
+            "local_badge": "Électricien expert d'Arronville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Arronville, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "15 ans d'expérience électricien à Arronville, interventions rapides et fiables",
+            "why_this_commune": "René Lucas est un excellent choix pour Arronville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:15:34.664Z",
+            "used_fallback": false
+          },
+          "cb8920eb-b1e4-44f8-a90d-306760c861c3": {
+            "profile_id": "cb8920eb-b1e4-44f8-a90d-306760c861c3",
+            "commune_slug": "arronville",
+            "bio_localized": "Électricien qualifié depuis 6 ans à Arronville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles du Val-d'Oise. Interventions rapides et fiables sur toute la commune. Devis gratuit. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert d'Arronville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous les types d'installations électriques à Arronville.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Arronville",
+            "why_this_commune": "Thierry Roche est le choix idéal pour Arronville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:47.329Z",
+            "used_fallback": false
+          },
+          "17acd3a4-020a-4497-9407-8f7e58c3ce6f": {
+            "profile_id": "17acd3a4-020a-4497-9407-8f7e58c3ce6f",
+            "commune_slug": "arronville",
+            "bio_localized": "Expert en installation de tableaux électriques à Arronville depuis 20 ans. Je maîtrise les spécificités des pavillons et immeubles du Val-d'Oise. Interventions fiables et conformes aux normes. Votre satisfaction et votre sécurité électrique sont ma priorité absolue.",
+            "local_badge": "Électricien expert d'Arronville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques pour les résidences d'Arronville.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Arronville, interventions rapides garanties",
+            "why_this_commune": "Eric Arnaud est le choix idéal pour Arronville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:02.982Z",
+            "used_fallback": false
+          },
+          "3e60c59f-1ed0-4384-82ff-0cb68650ad1a": {
+            "profile_id": "3e60c59f-1ed0-4384-82ff-0cb68650ad1a",
+            "commune_slug": "arronville",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Arronville, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-d'Oise. Interventions fiables et rapides, devis gratuit. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert d'Arronville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les installations résidentielles et tertiaires à Arronville.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Arronville, interventions rapides garanties",
+            "why_this_commune": "Thierry Vincent est le choix idéal pour Arronville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:16:16.626Z",
+            "used_fallback": false
+          },
+          "a7be459e-0693-41fb-9528-b4d1d0c40874": {
+            "profile_id": "a7be459e-0693-41fb-9528-b4d1d0c40874",
+            "commune_slug": "arronville",
+            "bio_localized": "Électricien expérimenté depuis 6 ans, Philippe Joly intervient à Arronville et ses environs du Val-d'Oise. Spécialisé en électricité générale, il assure l'installation et la maintenance électrique de vos pavillons et immeubles avec professionnalisme. Intervention rapide et travail soigné garantis pour votre sécurité.",
+            "local_badge": "Électricien expert d'Arronville, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Arronville pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "6 ans d'expérience confirmée à Arronville, électricien fiable et professionnel",
+            "why_this_commune": "Philippe Joly est un excellent choix pour Arronville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et fiables. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service de qualité et une grande disponibilité.",
+            "generated_at": "2025-11-16T05:16:30.133Z",
+            "used_fallback": false
+          },
+          "8ee67f6b-1114-456a-bb52-9f65e60230f9": {
+            "profile_id": "8ee67f6b-1114-456a-bb52-9f65e60230f9",
+            "commune_slug": "arronville",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, je suis spécialisé dans le dépannage express à Arronville et ses environs. Intervenant sur les pavillons et immeubles du Val-d'Oise, je garantis une prise en charge rapide de vos urgences électriques. Disponible pour diagnostiquer et résoudre tous vos problèmes électriques avec professionnalisme.",
+            "local_badge": "Électricien expert d'Arronville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arronville : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Arronville",
+            "why_this_commune": "Vincent Sanchez est le choix idéal pour Arronville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:16:43.475Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arthies": {
+        "commune_name": "ARTHIES",
+        "postal_code": "95420",
+        "department": "95",
+        "electricians": {
+          "cdd0100d-b036-4d2d-9f66-659424007bc7": {
+            "profile_id": "cdd0100d-b036-4d2d-9f66-659424007bc7",
+            "commune_slug": "arthies",
+            "bio_localized": "Fort de 19 ans d'expérience, Robert Roche intervient à Arthies pour rénover entièrement vos installations électriques. Spécialiste des pavillons et petits immeubles du Val-d'Oise, il sécurise et modernise votre habitat avec professionnalisme. Travaux conformes aux normes, devis transparent et service fiable.",
+            "local_badge": "Électricien expert d'Arthies, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique intervenant régulièrement à Arthies pour moderniser vos installations anciennes.",
+            "trust_signal": "19 ans d'expérience électricien à Arthies, intervention rapide garantie",
+            "why_this_commune": "Robert Roche, électricien basé à Arthies, connaît parfaitement les spécificités locales et l'architecture du Val-d'Oise. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins des habitants d'Arthies.",
+            "generated_at": "2025-11-16T05:16:56.745Z",
+            "used_fallback": false
+          },
+          "509b75bc-43f7-4dd5-9a3a-3329100dfe87": {
+            "profile_id": "509b75bc-43f7-4dd5-9a3a-3329100dfe87",
+            "commune_slug": "arthies",
+            "bio_localized": "Électricien expérimenté depuis 18 ans, je maîtrise l'électricité générale pour tous types de bâtiments à Arthies et ses environs. Que vous habitiez un pavillon ou un immeuble, je garantis des interventions rapides et un travail soigné. Votre satisfaction est ma priorité dans le Val-d'Oise.",
+            "local_badge": "Électricien expert d'Arthies, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Arthies pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Arthies et région",
+            "why_this_commune": "Pierre Leroy est un excellent choix pour Arthies. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:17:10.338Z",
+            "used_fallback": false
+          },
+          "6c4a1f87-c434-4ca8-8e05-3a6a821f2703": {
+            "profile_id": "6c4a1f87-c434-4ca8-8e05-3a6a821f2703",
+            "commune_slug": "arthies",
+            "bio_localized": "Dominique Meyer, électricien expert à Arthies, spécialiste de l'installation de tableaux électriques depuis 8 ans. Je maîtrise les normes actuelles pour vos pavillons et maisons du Val-d'Oise. Intervention rapide, sécurité garantie et service fiable pour votre tranquillité d'esprit.",
+            "local_badge": "Électricien expert d'Arthies, intervention rapide garantie",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques pour les habitations d'Arthies.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et reconnu à Arthies",
+            "why_this_commune": "Dominique Meyer est le choix idéal pour Arthies. Électricien établi localement, il maîtrise parfaitement les caractéristiques architecturales et les spécificités du Val-d'Oise. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:17:23.277Z",
+            "used_fallback": false
+          },
+          "3b8affeb-3f31-438a-b4f2-092cd02236b2": {
+            "profile_id": "3b8affeb-3f31-438a-b4f2-092cd02236b2",
+            "commune_slug": "arthies",
+            "bio_localized": "Électricien passionné à Arthies depuis 15 ans, je maîtrise l'éclairage LED professionnel pour tous vos projets. Du pavillon au bâtiment moderne, j'optimise votre consommation énergétique avec expertise et fiabilité. Votre satisfaction électrique, ma priorité en Val-d'Oise.",
+            "local_badge": "Électricien expert d'Arthies, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Arthies pour optimiser vos installations lumineuses.",
+            "trust_signal": "15 ans d'expérience électricien à Arthies, interventions rapides et fiables",
+            "why_this_commune": "Emmanuel Noel est votre électricien de confiance à Arthies. Basé localement en Val-d'Oise, il connaît parfaitement les caractéristiques des bâtiments arthésiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure des solutions adaptées à vos besoins.",
+            "generated_at": "2025-11-16T05:17:38.285Z",
+            "used_fallback": false
+          },
+          "74ae36ef-6386-4890-a1c4-496482d229a9": {
+            "profile_id": "74ae36ef-6386-4890-a1c4-496482d229a9",
+            "commune_slug": "arthies",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Arthies, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible rapidement en Val-d'Oise, je garantis un diagnostic précis et des réparations soignées pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert d'Arthies, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Arthies pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée à Arthies, électricien fiable et réactif",
+            "why_this_commune": "Alain Giraud, électricien local à Arthies, maîtrise parfaitement les spécificités architecturales et infrastructures de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans le Val-d'Oise, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:17:51.606Z",
+            "used_fallback": false
+          },
+          "7eb220a5-1901-4848-9238-c4c17adce932": {
+            "profile_id": "7eb220a5-1901-4848-9238-c4c17adce932",
+            "commune_slug": "arthies",
+            "bio_localized": "Électricien intervenant à Arthies et ses alentours, je maîtrise les installations électriques des pavillons et immeubles du Val-d'Oise. Disponible 24h/24, je garantis une intervention rapide pour vos urgences électriques. Avec 15 ans d'expérience, je vous assure un travail soigné et sécurisé.",
+            "local_badge": "Électricien expert d'Arthies, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Arthies pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "15 ans d'expérience, électricien fiable et reconnu à Arthies",
+            "why_this_commune": "Bernard Boyer est un excellent choix pour Arthies. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:04.856Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "asnieres-sur-oise": {
+        "commune_name": "ASNIERES-SUR-OISE",
+        "postal_code": "95270",
+        "department": "95",
+        "electricians": {
+          "3b2594e7-d352-4e9c-926c-ed3e3085068a": {
+            "profile_id": "3b2594e7-d352-4e9c-926c-ed3e3085068a",
+            "commune_slug": "asnieres-sur-oise",
+            "bio_localized": "Didier Petit, électricien expert à Asnières-sur-Oise, intervient depuis 17 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles du Val-d'Oise, il garantit des installations conformes et sécurisées. Votre satisfaction et la qualité de service sont ses priorités absolues.",
+            "local_badge": "Électricien expert d'Asnières-sur-Oise, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques à Asnières-sur-Oise pour résidences et petits collectifs.",
+            "trust_signal": "17 ans d'expérience, électricien fiable à Asnières-sur-Oise",
+            "why_this_commune": "Didier Petit est le choix idéal pour Asnières-sur-Oise. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:18:18.310Z",
+            "used_fallback": false
+          },
+          "f6f63dfa-7293-4e8d-8a5d-a7c4fe83d79d": {
+            "profile_id": "f6f63dfa-7293-4e8d-8a5d-a7c4fe83d79d",
+            "commune_slug": "asnieres-sur-oise",
+            "bio_localized": "Luc Joly, électricien expert en domotique et automatisation à Asnières-sur-Oise. Fort de 9 ans d'expérience, j'accompagne résidents des pavillons et immeubles du Val-d'Oise vers des solutions intelligentes et durables. Installations fiables, service de proximité et satisfaction client garantis.",
+            "local_badge": "Électricien expert d'Asnières-sur-Oise depuis des années",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour résidences d'Asnières-sur-Oise, modernisant vos installations intelligentes.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable à Asnières-sur-Oise",
+            "why_this_commune": "Luc Joly est le choix idéal pour Asnières-sur-Oise. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service de qualité et une expertise adaptée à vos besoins.",
+            "generated_at": "2025-11-16T05:18:31.464Z",
+            "used_fallback": false
+          },
+          "4777ca18-000b-4dc8-a6f6-c67f106c2d7f": {
+            "profile_id": "4777ca18-000b-4dc8-a6f6-c67f106c2d7f",
+            "commune_slug": "asnieres-sur-oise",
+            "bio_localized": "Eric Duval, électricien expert à Asnières-sur-Oise, intervient sur l'installation et la rénovation de tableaux électriques. Avec 7 ans d'expérience, il sécurise les installations des pavillons et immeubles du Val-d'Oise. Certifié et rigoureux, il garantit des travaux conformes aux normes pour votre tranquillité.",
+            "local_badge": "Électricien expert d'Asnières-sur-Oise depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation et mise aux normes de tableaux électriques à Asnières-sur-Oise",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable à Asnières-sur-Oise",
+            "why_this_commune": "Eric Duval est le choix idéal pour Asnières-sur-Oise. Électricien local, il maîtrise parfaitement les spécificités architecturales des quartiers asniérois. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:45.081Z",
+            "used_fallback": false
+          },
+          "1563cbc9-e1a1-400b-8e46-2824d0bfcfc8": {
+            "profile_id": "1563cbc9-e1a1-400b-8e46-2824d0bfcfc8",
+            "commune_slug": "asnieres-sur-oise",
+            "bio_localized": "Jacques Lemoine, électricien expert en domotique et automatisation à Asnières-sur-Oise. Fort de 9 ans d'expérience, j'équipe les pavillons et immeubles du Val-d'Oise de solutions intelligentes et modernes. Installations fiables, service de qualité et satisfaction client garantis.",
+            "local_badge": "Électricien expert à Asnières-sur-Oise depuis longtemps",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les résidences d'Asnières-sur-Oise, modernisant vos installations intelligentes.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable à Asnières-sur-Oise",
+            "why_this_commune": "Jacques Lemoine est le choix idéal pour Asnières-sur-Oise. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:18:59.726Z",
+            "used_fallback": false
+          },
+          "f1771b93-fd15-45d7-9102-08c4c818691b": {
+            "profile_id": "f1771b93-fd15-45d7-9102-08c4c818691b",
+            "commune_slug": "asnieres-sur-oise",
+            "bio_localized": "Emmanuel Bertrand, électricien depuis 16 ans à Asnières-sur-Oise, spécialiste en éclairage LED professionnel. Je modernise l'électricité de vos pavillons et immeubles du Val-d'Oise avec expertise et fiabilité. Solutions d'éclairage innovantes et durables pour tous vos projets résidentiels et commerciaux.",
+            "local_badge": "Électricien expert d'Asnières-sur-Oise, intervention rapide",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Asnières-sur-Oise, je transforme vos espaces avec des solutions d'éclairage modernes et économes.",
+            "trust_signal": "16 ans d'expérience électricien à Asnières-sur-Oise, intervention rapide garantie",
+            "why_this_commune": "Emmanuel Bertrand est le choix idéal pour Asnières-sur-Oise. Électricien local, il connaît parfaitement les spécificités architecturales des quartiers et bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service professionnel et fiable.",
+            "generated_at": "2025-11-16T05:19:15.239Z",
+            "used_fallback": false
+          },
+          "17acd3a4-020a-4497-9407-8f7e58c3ce6f": {
+            "profile_id": "17acd3a4-020a-4497-9407-8f7e58c3ce6f",
+            "commune_slug": "asnieres-sur-oise",
+            "bio_localized": "Électricien expert à Asnières-sur-Oise depuis 20 ans, Eric Arnaud maîtrise l'installation de tableaux électriques pour tous types d'habitats : pavillons, immeubles modernes et anciennes demeures. Certifié et rigoureux, il garantit des installations conformes et durables. Service de qualité et satisfaction client au cœur de son engagement professionnel.",
+            "local_badge": "Électricien expert d'Asnières-sur-Oise depuis années",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les résidences d'Asnières-sur-Oise",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Asnières-sur-Oise, interventions rapides garanties",
+            "why_this_commune": "Eric Arnaud est un excellent choix pour Asnières-sur-Oise. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:19:28.279Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "attainville": {
+        "commune_name": "ATTAINVILLE",
+        "postal_code": "95570",
+        "department": "95",
+        "electricians": {
+          "4777ca18-000b-4dc8-a6f6-c67f106c2d7f": {
+            "profile_id": "4777ca18-000b-4dc8-a6f6-c67f106c2d7f",
+            "commune_slug": "attainville",
+            "bio_localized": "Expert en installation de tableaux électriques à Attainville depuis 7 ans, je maîtrise les spécificités des pavillons et résidences du Val-d'Oise. Certifié et rigoureux, j'assure des installations conformes et durables. Votre satisfaction et sécurité électrique sont ma priorité absolue.",
+            "local_badge": "Électricien expert d'Attainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation et rénovation de tableaux électriques pour les habitations d'Attainville.",
+            "trust_signal": "7 ans d'expérience confirmée à Attainville, électricien fiable et réactif",
+            "why_this_commune": "Eric Duval est le choix idéal pour Attainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité et de confiance.",
+            "generated_at": "2025-11-16T05:19:41.419Z",
+            "used_fallback": false
+          },
+          "1563cbc9-e1a1-400b-8e46-2824d0bfcfc8": {
+            "profile_id": "1563cbc9-e1a1-400b-8e46-2824d0bfcfc8",
+            "commune_slug": "attainville",
+            "bio_localized": "Jacques Lemoine, électricien expert en domotique et automatisation à Attainville, intervient depuis 9 ans auprès des résidents du Val-d'Oise. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions intelligentes adaptées à chaque habitat. Qualité de service et satisfaction client garanties.",
+            "local_badge": "Électricien expert d'Attainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les maisons modernes d'Attainville, optimisant votre confort et sécurité.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et réactif à Attainville",
+            "why_this_commune": "Jacques Lemoine est le choix idéal pour Attainville. Électricien local, il maîtrise les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:54.268Z",
+            "used_fallback": false
+          },
+          "fe221fe1-3f5e-4dc2-bfbb-0fa0f4c2a5a8": {
+            "profile_id": "fe221fe1-3f5e-4dc2-bfbb-0fa0f4c2a5a8",
+            "commune_slug": "attainville",
+            "bio_localized": "Électricien qualifié depuis 7 ans à Attainville, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles du Val-d'Oise. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Attainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Attainville pour sécuriser vos installations électriques.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Attainville",
+            "why_this_commune": "Denis Vincent est électricien basé à Attainville, connaissant parfaitement les spécificités locales et l'architecture des bâtiments de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:20:07.344Z",
+            "used_fallback": false
+          },
+          "b8346a8f-1060-41a9-b98f-52b04d08d64a": {
+            "profile_id": "b8346a8f-1060-41a9-b98f-52b04d08d64a",
+            "commune_slug": "attainville",
+            "bio_localized": "Électricien expérimenté depuis 14 ans, je propose un dépannage express à Attainville et ses alentours. Spécialisé dans l'intervention rapide, j'interviens sur tous types de logements, des pavillons aux immeubles. Disponible pour vos urgences électriques, je garantis un service fiable et professionnel en Val-d'Oise.",
+            "local_badge": "Électricien expert d'Attainville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Attainville : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Attainville",
+            "why_this_commune": "Sébastien Lucas est un excellent choix pour Attainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:20:20.645Z",
+            "used_fallback": false
+          },
+          "f1f34ef9-c4e2-493c-87d9-b91808cf0007": {
+            "profile_id": "f1f34ef9-c4e2-493c-87d9-b91808cf0007",
+            "commune_slug": "attainville",
+            "bio_localized": "Électricien expérimenté basé à Attainville, je propose un dépannage express adapté aux pavillons et immeubles de Val-d'Oise. Avec 8 ans d'expertise, j'interviens rapidement sur tous vos problèmes électriques. Disponible pour diagnostiquer et résoudre vos pannes en toute confiance.",
+            "local_badge": "Électricien expert d'Attainville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Attainville : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et réactif à Attainville",
+            "why_this_commune": "Vincent Duval est le choix idéal pour Attainville. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Val-d'Oise assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:20:33.961Z",
+            "used_fallback": false
+          },
+          "5b2a9250-b87d-4e47-9e48-c14e8bf84c93": {
+            "profile_id": "5b2a9250-b87d-4e47-9e48-c14e8bf84c93",
+            "commune_slug": "attainville",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Attainville, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Du pavillon au collectif, je garantis un diagnostic rapide et une réparation soignée. Disponible immédiatement pour vos problèmes électriques, je sécurise votre installation avec professionnalisme.",
+            "local_badge": "Électricien expert d'Attainville, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Attainville pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "20 ans d'expérience électricien à Attainville, interventions rapides et fiables garanties",
+            "why_this_commune": "Alain André, électricien local à Attainville, connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans cette zone du Val-d'Oise, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:20:50.959Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "auvers-sur-oise": {
+        "commune_name": "AUVERS-SUR-OISE",
+        "postal_code": "95760",
+        "department": "95",
+        "electricians": {
+          "e307c245-e25a-4d21-9886-8b4e6ea3c2f0": {
+            "profile_id": "e307c245-e25a-4d21-9886-8b4e6ea3c2f0",
+            "commune_slug": "auvers-sur-oise",
+            "bio_localized": "Expert certifié en installation tableau électrique à Auvers-sur-Oise, je maîtrise les spécificités des pavillons et immeubles du Val-d'Oise. Avec 10 ans d'expérience, j'assure des installations conformes et sécurisées. Service fiable et client au cœur de mon engagement professionnel.",
+            "local_badge": "Électricien expert d'Auvers-sur-Oise, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques à Auvers-sur-Oise, intervenant sur tous types de bâtiments.",
+            "trust_signal": "10 ans d'expérience confirmée à Auvers-sur-Oise, électricien fiable et réactif",
+            "why_this_commune": "Eric Sanchez est un excellent choix pour Auvers-sur-Oise. Basé localement, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:04.133Z",
+            "used_fallback": false
+          },
+          "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2": {
+            "profile_id": "2b0c67f1-2f6d-4b9c-997b-a85c6d1492d2",
+            "commune_slug": "auvers-sur-oise",
+            "bio_localized": "Henri Joly, électricien expert en domotique et automatisation à Auvers-sur-Oise. Fort de 20 ans d'expérience, j'équipe les pavillons et immeubles du Val-d'Oise de solutions intelligentes et durables. Modernisation, sécurité et confort de votre habitat : ma priorité.",
+            "local_badge": "Électricien expert à Auvers-sur-Oise depuis années",
+            "service_highlight": "Domotique et automatisation électrique pour les maisons d'Auvers-sur-Oise : confort et sécurité modernes garantis.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Auvers-sur-Oise, interventions rapides garanties",
+            "why_this_commune": "Henri Joly est le choix idéal pour Auvers-sur-Oise. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience approfondie de la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:18.576Z",
+            "used_fallback": false
+          },
+          "e408a5f9-a45c-4d95-a406-d9cd273d0471": {
+            "profile_id": "e408a5f9-a45c-4d95-a406-d9cd273d0471",
+            "commune_slug": "auvers-sur-oise",
+            "bio_localized": "Électricien expérimenté à Auvers-sur-Oise, René Fabre intervient sur la rénovation électrique de vos pavillons et immeubles. Avec 5 ans d'expertise, il modernise les installations des habitations anciennes et contemporaines du Val-d'Oise. Travail soigné et conforme aux normes en vigueur.",
+            "local_badge": "Électricien expert d'Auvers-sur-Oise, intervention rapide",
+            "service_highlight": "Électricien expert en rénovation électrique à Auvers-sur-Oise, je modernise les installations des maisons anciennes avec professionnalisme.",
+            "trust_signal": "5 ans d'expérience confirmée à Auvers-sur-Oise, électricien fiable et réactif",
+            "why_this_commune": "René Fabre est le choix idéal pour Auvers-sur-Oise. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:31.756Z",
+            "used_fallback": false
+          },
+          "a7be459e-0693-41fb-9528-b4d1d0c40874": {
+            "profile_id": "a7be459e-0693-41fb-9528-b4d1d0c40874",
+            "commune_slug": "auvers-sur-oise",
+            "bio_localized": "Électricien expérimenté depuis 6 ans, Philippe Joly intervient à Auvers-sur-Oise pour tous vos besoins en électricité générale. Spécialisé dans la rénovation des maisons anciennes et l'installation dans les pavillons modernes, il garantit des interventions rapides et un travail soigné. Votre électricien de confiance en Val-d'Oise.",
+            "local_badge": "Électricien expert à Auvers-sur-Oise depuis longtemps",
+            "service_highlight": "Électricien généraliste à Auvers-sur-Oise, intervenant sur tous types d'installations et rénovations électriques pour particuliers et professionnels.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Auvers-sur-Oise",
+            "why_this_commune": "Philippe Joly est le choix idéal pour Auvers-sur-Oise. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments anciens de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:44.953Z",
+            "used_fallback": false
+          },
+          "c0d79947-ae97-4f41-ae59-793288491681": {
+            "profile_id": "c0d79947-ae97-4f41-ae59-793288491681",
+            "commune_slug": "auvers-sur-oise",
+            "bio_localized": "Patrick Moreau, électricien agréé Consuel à Auvers-sur-Oise, met 11 ans d'expertise au service des résidents du Val-d'Oise. Spécialiste des installations électriques, il intervient sur les pavillons et immeubles locaux avec professionnalisme et sécurité, garantissant la conformité de vos installations électriques.",
+            "local_badge": "Électricien expert d'Auvers-sur-Oise, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Auvers-sur-Oise, je garantis vos installations électriques conformes aux normes actuelles.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Auvers-sur-Oise",
+            "why_this_commune": "Patrick Moreau, électricien local à Auvers-sur-Oise, maîtrise parfaitement les spécificités des bâtiments et quartiers du Val-d'Oise. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:57.911Z",
+            "used_fallback": false
+          },
+          "076dd31d-53b8-4144-86c4-76569e7d742a": {
+            "profile_id": "076dd31d-53b8-4144-86c4-76569e7d742a",
+            "commune_slug": "auvers-sur-oise",
+            "bio_localized": "Pascal Gautier, électricien agréé Consuel à Auvers-sur-Oise, intervient depuis 11 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste des installations électriques résidentielles et professionnelles, il garantit la conformité de vos installations avec expertise et fiabilité.",
+            "local_badge": "Électricien expert à Auvers-sur-Oise depuis années",
+            "service_highlight": "Électricien agréé Consuel à Auvers-sur-Oise, je garantis la conformité de vos installations électriques avec expertise et professionnalisme.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Auvers-sur-Oise",
+            "why_this_commune": "Pascal Gautier est un excellent choix pour Auvers-sur-Oise. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments anciens du village et ses différents quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure des solutions adaptées à vos besoins.",
+            "generated_at": "2025-11-16T05:22:11.744Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "avernes": {
+        "commune_name": "AVERNES",
+        "postal_code": "95450",
+        "department": "95",
+        "electricians": {
+          "b12465df-1532-4ce8-8ba2-33112587ee00": {
+            "profile_id": "b12465df-1532-4ce8-8ba2-33112587ee00",
+            "commune_slug": "avernes",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Avernes, je maîtrise l'électricité générale sur tous types de bâtiments : pavillons, immeubles et constructions modernes du Val-d'Oise. Interventions rapides et soignées garanties. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert à Avernes, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Avernes pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et reconnu à Avernes",
+            "why_this_commune": "Jean Laurent est le choix idéal pour Avernes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:22:25.039Z",
+            "used_fallback": false
+          },
+          "3b8affeb-3f31-438a-b4f2-092cd02236b2": {
+            "profile_id": "3b8affeb-3f31-438a-b4f2-092cd02236b2",
+            "commune_slug": "avernes",
+            "bio_localized": "Électricien expert à Avernes depuis 15 ans, je spécialise dans l'éclairage LED professionnel pour les pavillons et immeubles du Val-d'Oise. Maîtrisant les installations modernes et les rénovations, je garantis des solutions d'éclairage performantes et durables. Votre partenaire de confiance en électricité générale.",
+            "local_badge": "Électricien expert d'Avernes, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités d'Avernes, optimisant votre consommation énergétique.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Avernes, interventions rapides et fiables",
+            "why_this_commune": "Emmanuel Noel est votre électricien de confiance à Avernes. Basé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience éprouvée garantit des interventions rapides et efficaces. Proximité et réactivité pour vos besoins électriques.",
+            "generated_at": "2025-11-16T05:22:38.574Z",
+            "used_fallback": false
+          },
+          "cdd0100d-b036-4d2d-9f66-659424007bc7": {
+            "profile_id": "cdd0100d-b036-4d2d-9f66-659424007bc7",
+            "commune_slug": "avernes",
+            "bio_localized": "Électricien depuis 19 ans, Robert Roche intervient à Avernes pour rénover les installations électriques de vos pavillons et immeubles. Spécialiste de la rénovation électrique en Val-d'Oise, il garantit des travaux conformes et sécurisés, adaptés à chaque type de bâtiment.",
+            "local_badge": "Électricien expert d'Avernes, interventions rapides garanties",
+            "service_highlight": "Électricien expert en rénovation électrique à Avernes, je modernise les installations des maisons anciennes avec professionnalisme.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Avernes, interventions rapides et fiables",
+            "why_this_commune": "Robert Roche est un excellent choix pour Avernes. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:52.063Z",
+            "used_fallback": false
+          },
+          "cda56423-7501-483a-9bf3-f568f72b150a": {
+            "profile_id": "cda56423-7501-483a-9bf3-f568f72b150a",
+            "commune_slug": "avernes",
+            "bio_localized": "François Aubert, électricien expert à Avernes, intervient depuis 9 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles du Val-d'Oise, il garantit des installations conformes et sécurisées. Professionnel certifié, François privilégie la qualité et votre satisfaction.",
+            "local_badge": "Électricien expert d'Avernes, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Avernes pour tous vos besoins résidentiels et professionnels.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et réactif à Avernes pour tous vos besoins",
+            "why_this_commune": "François Aubert est le choix idéal pour Avernes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-d'Oise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:05.094Z",
+            "used_fallback": false
+          },
+          "a7fe3123-c20f-4b49-9acf-bf83fd0b8628": {
+            "profile_id": "a7fe3123-c20f-4b49-9acf-bf83fd0b8628",
+            "commune_slug": "avernes",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Avernes, je spécialise dans la mise aux normes NF C 15-100 pour vos pavillons et résidences du Val-d'Oise. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Avernes, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour sécuriser vos installations à Avernes.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Avernes",
+            "why_this_commune": "Thierry Schmitt est un excellent choix pour Avernes. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et les particularités de ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-d'Oise assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:21.041Z",
+            "used_fallback": false
+          },
+          "2fa0a902-5308-4583-8908-253e1d105521": {
+            "profile_id": "2fa0a902-5308-4583-8908-253e1d105521",
+            "commune_slug": "avernes",
+            "bio_localized": "Patrick Schmitt, électricien agréé Consuel à Avernes, intervient depuis 7 ans sur les pavillons et immeubles du Val-d'Oise. Spécialiste des installations électriques neuves et rénovations, il garantit la conformité de vos installations selon les normes en vigueur. Professionnel de confiance pour vos besoins électriques.",
+            "local_badge": "Électricien expert d'Avernes, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Avernes, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Avernes",
+            "why_this_commune": "Patrick Schmitt est le choix idéal pour Avernes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-d'Oise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:34.256Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

@@ -36,15 +36,12 @@ const args = {
   OFFSET: parseInt(process.argv.find(arg => arg.startsWith('--offset='))?.split('=')[1]) || 0,
   USE_SONNET: process.argv.includes('--use-sonnet'),
   RESUME: process.argv.includes('--resume'),
-  ALL: process.argv.includes('--all'),
-  PARALLEL: process.argv.includes('--parallel'),
-  CHECKPOINT: process.argv.find(arg => arg.startsWith('--checkpoint='))?.split('=')[1] || 'checkpoint-electrician-cards.json',
-  SLUGS_FILE: process.argv.find(arg => arg.startsWith('--slugs-file='))?.split('=')[1] || null
+  ALL: process.argv.includes('--all')
 };
 
 // Select model - use Haiku 4.5 by default
 const MODEL = args.USE_SONNET ? CONFIG.MODEL_SONNET : 'claude-haiku-4-5-20251001';
-const CHECKPOINT_FILE = args.CHECKPOINT;
+const CHECKPOINT_FILE = 'checkpoint-electrician-cards.json';
 const OUTPUT_FILE = path.join(__dirname, '../data/electrician_commune_context.json');
 const DELAY_MS = CONFIG.DELAY_MS;
 
@@ -415,15 +412,6 @@ async function main() {
       slug: c.url_path.replace(/^\//, '').replace(/\/$/, '')
     }));
 
-  // Handle slugs file (for batch processing)
-  if (args.SLUGS_FILE) {
-    const slugsToProcess = fs.readFileSync(args.SLUGS_FILE, 'utf-8')
-      .split('\n')
-      .map(s => s.trim())
-      .filter(s => s.length > 0);
-    communes = communes.filter(c => slugsToProcess.includes(c.slug));
-    console.log(`📌 Slugs file: ${args.SLUGS_FILE} (${communes.length} communes)`);
-  } else
   if (args.TEST_ONLY) {
     // Test on 5 specific communes
     const testSlugs = ['paris-1er', 'sevres', 'versailles', 'chailly-en-biere', 'cessoy-en-montois'];

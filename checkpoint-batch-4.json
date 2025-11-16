@@ -1,0 +1,1131 @@
+{
+  "lastProcessedCommune": "saint-hilliers",
+  "processedCommunes": [
+    "sablonnieres",
+    "saint-ange-le-viel",
+    "saint-augustin",
+    "saint-barthelemy",
+    "saint-brice",
+    "saint-cyr-sur-morin",
+    "saint-denis-les-rebais",
+    "saint-fargeau-ponthierry",
+    "saint-fiacre",
+    "saint-germain-laval",
+    "saint-germain-laxis",
+    "saint-germain-sous-doue",
+    "saint-germain-sur-ecole",
+    "saint-germain-sur-morin",
+    "saint-hilliers"
+  ],
+  "processed": {
+    "successful": 90,
+    "errors": 0,
+    "total": 126
+  },
+  "stats": {
+    "inputTokens": 103263,
+    "outputTokens": 25895,
+    "apiCalls": 450
+  },
+  "output": {
+    "generated_at": "2025-11-16T05:03:14.988Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "sablonnieres": {
+        "commune_name": "SABLONNIÈRES",
+        "postal_code": "77510",
+        "department": "77",
+        "electricians": {
+          "9834f331-7fa0-4682-a8f6-29968d01505e": {
+            "profile_id": "9834f331-7fa0-4682-a8f6-29968d01505e",
+            "commune_slug": "sablonnieres",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Sablonnières, je maîtrise le dépannage express pour tous types d'habitations : pavillons, maisons anciennes et constructions modernes. Intervention rapide et fiable en Seine-et-Marne. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert de Sablonnières, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Sablonnières : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Sablonnières, interventions rapides garanties",
+            "why_this_commune": "Vincent Gauthier est un excellent choix pour Sablonnières. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:03:27.585Z",
+            "used_fallback": false
+          },
+          "06611958-2c09-4107-8716-0bebe5b4ae69": {
+            "profile_id": "06611958-2c09-4107-8716-0bebe5b4ae69",
+            "commune_slug": "sablonnieres",
+            "bio_localized": "Marc Philippe, électricien agréé Consuel à Sablonnières, met ses 11 ans d'expérience au service des habitants de Seine-et-Marne. Spécialiste des installations électriques professionnelles, il intervient sur pavillons et immeubles avec rigueur et conformité aux normes. Votre sécurité électrique est sa priorité.",
+            "local_badge": "Électricien expert de Sablonnières, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Sablonnières, je certifie vos installations électriques aux normes en vigueur.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien de confiance à Sablonnières",
+            "why_this_commune": "Marc Philippe est le choix idéal pour Sablonnières. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:03:40.606Z",
+            "used_fallback": false
+          },
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "sablonnieres",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Sablonnionnières, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis un diagnostic rapide et un travail soigné. Disponible immédiatement pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Sablonnières, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Sablonnières pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "16 ans d'expérience électricien à Sablonnières, interventions rapides et fiables",
+            "why_this_commune": "Daniel Fabre est un excellent choix pour Sablonnières. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:03:53.381Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "sablonnieres",
+            "bio_localized": "Électricien expérimenté depuis 5 ans à Sablonnières, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible jour et nuit pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Sablonnières, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Sablonnières pour vos dépannages et interventions électriques rapides.",
+            "trust_signal": "5 ans d'expérience confirmée à Sablonnières, interventions rapides et fiables garanties",
+            "why_this_commune": "Alain Renard est le choix idéal pour Sablonnières. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:06.562Z",
+            "used_fallback": false
+          },
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "sablonnieres",
+            "bio_localized": "Électricien qualifié intervenant à Sablonnières et ses environs en Seine-et-Marne, je propose des solutions d'électricité générale adaptées aux pavillons et résidences locales. Avec 5 ans d'expérience, je garantis des interventions rapides, soignées et fiables pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Sablonnières, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Sablonnières pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et commercial.",
+            "trust_signal": "5 ans d'expérience confirmée à Sablonnières, interventions rapides et fiables garanties",
+            "why_this_commune": "Michel Bertrand est un excellent choix pour Sablonnières. Électricien local, il connaît parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:23.251Z",
+            "used_fallback": false
+          },
+          "0f8310c2-4fa6-413f-9131-795b02b85985": {
+            "profile_id": "0f8310c2-4fa6-413f-9131-795b02b85985",
+            "commune_slug": "sablonnieres",
+            "bio_localized": "Jacques Vidal, électricien expert en domotique et automatisation à Sablonnières, intervient sur les pavillons et résidences de Seine-et-Marne. Avec 8 ans d'expérience, il modernise vos installations électriques et systèmes domotiques. Service fiable et client satisfait garantis.",
+            "local_badge": "Électricien expert de Sablonnières depuis longtemps",
+            "service_highlight": "Électricien domotique et automatisation à Sablonnières, je conçois des installations intelligentes pour votre confort et sécurité.",
+            "trust_signal": "8 ans d'expérience confirmée à Sablonnières, électricien fiable et reconnu localement",
+            "why_this_commune": "Jacques Vidal est le choix idéal pour Sablonnières. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:36.092Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-ange-le-viel": {
+        "commune_name": "SAINT-ANGE-LE-VIEL",
+        "postal_code": "77710",
+        "department": "77",
+        "electricians": {
+          "b6465625-1fe7-4a6d-8d36-1d01e0660cf5": {
+            "profile_id": "b6465625-1fe7-4a6d-8d36-1d01e0660cf5",
+            "commune_slug": "saint-ange-le-viel",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Saint-Ange-le-Viel, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et résidences de Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et service réactif.",
+            "local_badge": "Électricien expert de Saint-Ange-le-Viel depuis années",
+            "service_highlight": "Spécialiste installation borne recharge électrique à Saint-Ange-le-Viel, expert en solutions de recharge pour véhicules électriques.",
+            "trust_signal": "15 ans d'expérience électricien à Saint-Ange-le-Viel, interventions rapides et fiables",
+            "why_this_commune": "Julien François est le choix idéal pour Saint-Ange-le-Viel. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:49.060Z",
+            "used_fallback": false
+          },
+          "0495774a-f014-49e1-8f1a-31907756044b": {
+            "profile_id": "0495774a-f014-49e1-8f1a-31907756044b",
+            "commune_slug": "saint-ange-le-viel",
+            "bio_localized": "Électricien qualifié depuis 16 ans à Saint-Ange-le-Viel, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je propose des solutions adaptées et sécurisées. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert de Saint-Ange-le-Viel, intervention rapide",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Saint-Ange-le-Viel et ses environs.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Saint-Ange-le-Viel, interventions rapides garanties",
+            "why_this_commune": "Guillaume Arnaud est le choix idéal pour Saint-Ange-le-Viel. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:02.404Z",
+            "used_fallback": false
+          },
+          "205178ec-517d-406d-b79f-e71f578c096a": {
+            "profile_id": "205178ec-517d-406d-b79f-e71f578c096a",
+            "commune_slug": "saint-ange-le-viel",
+            "bio_localized": "Didier Fabre, électricien expert à Saint-Ange-le-Viel, maîtrise l'installation de tableaux électriques depuis 18 ans. Spécialisé dans la mise aux normes des pavillons et immeubles seine-et-marnais, il garantit des installations sécurisées et durables. Service fiable et client satisfait, votre confiance est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Ange-le-Viel depuis longtemps",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Saint-Ange-le-Viel.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien professionnel à Saint-Ange-le-Viel",
+            "why_this_commune": "Didier Fabre est le choix idéal pour Saint-Ange-le-Viel. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers communaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:05:15.463Z",
+            "used_fallback": false
+          },
+          "57f429e4-7c5e-4db1-b561-d02a5d218e99": {
+            "profile_id": "57f429e4-7c5e-4db1-b561-d02a5d218e99",
+            "commune_slug": "saint-ange-le-viel",
+            "bio_localized": "Électricien qualifié depuis 9 ans, j'interviens à Saint-Ange-le-Viel pour installer vos bornes de recharge. Spécialiste des pavillons et petits immeubles de Seine-et-Marne, je garantis des installations conformes et durables. Devis gratuit, intervention rapide et professionnelle.",
+            "local_badge": "Électricien expert de Saint-Ange-le-Viel depuis longtemps",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Saint-Ange-le-Viel et ses environs.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien de confiance à Saint-Ange-le-Viel",
+            "why_this_commune": "Frédéric Dufour est le choix idéal pour Saint-Ange-le-Viel. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:05:29.558Z",
+            "used_fallback": false
+          },
+          "6127c0eb-41bb-4b46-880d-13c84d805253": {
+            "profile_id": "6127c0eb-41bb-4b46-880d-13c84d805253",
+            "commune_slug": "saint-ange-le-viel",
+            "bio_localized": "Électricien qualifié à Saint-Ange-le-Viel depuis 8 ans, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Ange-le-Viel depuis longtemps",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Ange-le-Viel pour sécuriser vos installations électriques.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable à Saint-Ange-le-Viel",
+            "why_this_commune": "Denis Thomas est un excellent choix pour Saint-Ange-le-Viel. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:05:42.402Z",
+            "used_fallback": false
+          },
+          "b42f8605-a1c7-4af9-b0fa-c157fa283e10": {
+            "profile_id": "b42f8605-a1c7-4af9-b0fa-c157fa283e10",
+            "commune_slug": "saint-ange-le-viel",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Saint-Ange-le-Viel, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible immédiatement en Seine-et-Marne, je garantis un diagnostic rapide et des solutions fiables pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Saint-Ange-le-Viel depuis années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Ange-le-Viel pour tous vos dépannages électriques rapides et fiables.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Ange-le-Viel, électricien fiable et réactif",
+            "why_this_commune": "Christian Lemaire est le choix idéal pour Saint-Ange-le-Viel. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:05:55.330Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-augustin": {
+        "commune_name": "SAINT-AUGUSTIN",
+        "postal_code": "77515",
+        "department": "77",
+        "electricians": {
+          "955ab870-cf48-427e-b0ae-9b5cbf58c83f": {
+            "profile_id": "955ab870-cf48-427e-b0ae-9b5cbf58c83f",
+            "commune_slug": "saint-augustin",
+            "bio_localized": "Pascal Gauthier, électricien agréé Consuel à Saint-Augustin, met 16 ans d'expérience au service de vos installations électriques. Intervenant sur les pavillons et immeubles de Seine-et-Marne, il garantit conformité et sécurité pour tous vos travaux, du diagnostic à la mise aux normes.",
+            "local_badge": "Électricien expert de Saint-Augustin depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel à Saint-Augustin, garantissant la conformité et la sécurité de vos installations électriques résidentielles et commerciales.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Saint-Augustin",
+            "why_this_commune": "Pascal Gauthier est le choix idéal pour Saint-Augustin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:08.062Z",
+            "used_fallback": false
+          },
+          "7a2d107f-a4b3-4e9d-acd4-dc3f59746765": {
+            "profile_id": "7a2d107f-a4b3-4e9d-acd4-dc3f59746765",
+            "commune_slug": "saint-augustin",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, Paul Blanchard intervient à Saint-Augustin pour tous vos projets de rénovation électrique. Spécialiste des installations modernes et des mises aux normes, il accompagne les habitants du 77 dans la sécurisation de leurs habitations, du pavillon à l'immeuble collectif.",
+            "local_badge": "Électricien expert de Saint-Augustin depuis longtemps",
+            "service_highlight": "Électricien spécialisé en rénovation électrique à Saint-Augustin, intervenant sur tous types de bâtiments anciens et modernes.",
+            "trust_signal": "15 ans d'expérience électricien à Saint-Augustin, interventions rapides et fiables garanties",
+            "why_this_commune": "Paul Blanchard est le choix idéal pour Saint-Augustin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:21.151Z",
+            "used_fallback": false
+          },
+          "853822a0-d5a9-4d50-9c6b-7fd131b8211e": {
+            "profile_id": "853822a0-d5a9-4d50-9c6b-7fd131b8211e",
+            "commune_slug": "saint-augustin",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Augustin, je spécialise dans l'éclairage LED professionnel. Je maîtrise l'installation sur tous types de bâtiments, des pavillons aux structures modernes de Seine-et-Marne. Rénovations, créations lumineuses, efficacité énergétique : votre partenaire électrique de confiance.",
+            "local_badge": "Électricien expert de Saint-Augustin, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments de Saint-Augustin, solutions d'efficacité énergétique.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Saint-Augustin",
+            "why_this_commune": "David André est le choix idéal pour Saint-Augustin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité et une grande réactivité face à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:06:34.577Z",
+            "used_fallback": false
+          },
+          "375dd510-f2d3-4516-8a74-0a218926b518": {
+            "profile_id": "375dd510-f2d3-4516-8a74-0a218926b518",
+            "commune_slug": "saint-augustin",
+            "bio_localized": "Électricien expérimenté à Saint-Augustin, je propose un dépannage express adapté aux pavillons et immeubles de Seine-et-Marne. Avec 9 ans de métier, je maîtrise tous les types d'installations électriques. Disponible rapidement pour résoudre vos pannes et garantir votre sécurité électrique.",
+            "local_badge": "Électricien expert de Saint-Augustin depuis années",
+            "service_highlight": "Dépannage électrique express à Saint-Augustin : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Augustin, électricien de confiance et réactif",
+            "why_this_commune": "Rémi Perez est le choix idéal pour Saint-Augustin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:47.586Z",
+            "used_fallback": false
+          },
+          "f595ccc8-4bf3-47bf-89dc-7b4f30e098a1": {
+            "profile_id": "f595ccc8-4bf3-47bf-89dc-7b4f30e098a1",
+            "commune_slug": "saint-augustin",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Saint-Augustin, je maîtrise le dépannage express pour tous types d'installations. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une intervention rapide et fiable. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Augustin depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Saint-Augustin : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Saint-Augustin pour tous vos travaux",
+            "why_this_commune": "Thomas Noel est le choix idéal pour Saint-Augustin. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:07:00.856Z",
+            "used_fallback": false
+          },
+          "95e772df-2768-4282-9e3f-a74a47c2457d": {
+            "profile_id": "95e772df-2768-4282-9e3f-a74a47c2457d",
+            "commune_slug": "saint-augustin",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Saint-Augustin, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles en Seine-et-Marne. Intervention rapide, devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Augustin depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Saint-Augustin",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Saint-Augustin, interventions fiables et rapides",
+            "why_this_commune": "Antoine Marie, électricien local à Saint-Augustin, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience confirmée dans la zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:07:13.649Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-barthelemy": {
+        "commune_name": "SAINT-BARTHELEMY",
+        "postal_code": "77320",
+        "department": "77",
+        "electricians": {
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "saint-barthelemy",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Barthélemy, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Des pavillons aux immeubles modernes de Seine-et-Marne, je garantis un diagnostic rapide et des solutions fiables. Disponible immédiatement pour vos pannes électriques.",
+            "local_badge": "Électricien expert de Saint-Barthelemy, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Barthelemy pour toutes vos interventions électriques rapides et fiables.",
+            "trust_signal": "16 ans d'expertise électrique à Saint-Barthelemy, interventions rapides et fiables",
+            "why_this_commune": "Daniel Fabre est un excellent choix pour Saint-Barthelemy. Électricien local en Seine-et-Marne, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:26.383Z",
+            "used_fallback": false
+          },
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "saint-barthelemy",
+            "bio_localized": "Michel Bertrand, électricien professionnel depuis 5 ans à Saint-Barthélemy, maîtrise l'électricité générale dans tous les types d'habitations. Que vous résidiez en pavillon ou immeuble en Seine-et-Marne, il assure interventions rapides et travail soigné. Votre satisfaction électrique est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Barthelemy",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Barthelemy pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Barthélemy, électricien fiable et professionnel",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Saint-Barthelemy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:07:42.562Z",
+            "used_fallback": false
+          },
+          "9834f331-7fa0-4682-a8f6-29968d01505e": {
+            "profile_id": "9834f331-7fa0-4682-a8f6-29968d01505e",
+            "commune_slug": "saint-barthelemy",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Barthélemy, je propose un dépannage express pour tous vos besoins électriques. Spécialisé dans l'intervention rapide sur pavillons et immeubles du secteur Seine-et-Marne, je garantis une prise en charge réactive et professionnelle de vos urgences électriques.",
+            "local_badge": "Électricien expert de Saint-Barthelemy, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Saint-Barthelemy : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Barthelemy, électricien fiable et professionnel",
+            "why_this_commune": "Vincent Gauthier est le choix idéal pour Saint-Barthelemy. Électricien local, il maîtrise les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:07:55.358Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "saint-barthelemy",
+            "bio_localized": "Électricien expérimenté depuis 5 ans à Saint-Barthélemy, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible jour et nuit pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Saint-Barthelemy, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Saint-Barthelemy pour tous vos dépannages électriques immédiats et interventions rapides.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et professionnel à Saint-Barthelemy",
+            "why_this_commune": "Alain Renard est le choix idéal pour Saint-Barthelemy. Électricien local en Seine-et-Marne, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:08.524Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "saint-barthelemy",
+            "bio_localized": "Électricien qualifié depuis 9 ans à Saint-Barthélemy, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. En Seine-et-Marne, j'interviens rapidement sur vos installations électriques. Devis gratuit et travail sécurisé garantis.",
+            "local_badge": "Électricien expert de Saint-Barthelemy, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Barthelemy pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Barthelemy, électricien fiable et professionnel",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Saint-Barthelemy. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:08:21.777Z",
+            "used_fallback": false
+          },
+          "06611958-2c09-4107-8716-0bebe5b4ae69": {
+            "profile_id": "06611958-2c09-4107-8716-0bebe5b4ae69",
+            "commune_slug": "saint-barthelemy",
+            "bio_localized": "Marc Philippe, électricien agréé Consuel à Saint-Barthélemy, intervient depuis 11 ans sur les pavillons et immeubles de Seine-et-Marne. Spécialiste des installations électriques professionnelles, il garantit la conformité et la sécurité de vos équipements. Votre électricien de confiance pour tous vos projets.",
+            "local_badge": "Électricien expert de Saint-Barthelemy depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel à Saint-Barthelemy, je garantis la conformité et la sécurité de vos installations électriques.",
+            "trust_signal": "11 ans d'expertise électrique à Saint-Barthelemy, interventions rapides et fiables garanties",
+            "why_this_commune": "Marc Philippe est le choix idéal pour Saint-Barthelemy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:34.868Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-brice": {
+        "commune_name": "SAINT-BRICE",
+        "postal_code": "77160",
+        "department": "77",
+        "electricians": {
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "saint-brice",
+            "bio_localized": "Électricien expérimenté depuis 10 ans, je maîtrise l'installation de tableaux électriques pour tous types d'habitations à Saint-Brice. Des pavillons aux immeubles modernes de Seine-et-Marne, je garantis des installations conformes et sécurisées. Expert certifié, je privilégie votre satisfaction et la qualité de chaque intervention.",
+            "local_badge": "Électricien expert de Saint-Brice depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Saint-Brice, garantissant conformité et sécurité optimales.",
+            "trust_signal": "10 ans d'expérience, électricien certifié à Saint-Brice, intervention rapide garantie",
+            "why_this_commune": "Eric Vincent, électricien local à Saint-Brice, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:08:47.981Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "saint-brice",
+            "bio_localized": "Électricien expérimenté à Saint-Brice, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Avec 10 ans d'expertise, je garantis des installations sécurisées et conformes. Devis gratuit et interventions rapides pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Brice depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Saint-Brice.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Brice, électricien fiable et réactif",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Saint-Brice. Électricien local, il maîtrise les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:09:00.551Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "saint-brice",
+            "bio_localized": "Expert en installation de tableaux électriques à Saint-Brice, je maîtrise les spécificités des pavillons et constructions modernes de Seine-et-Marne. Avec 5 ans d'expérience, je garantis des installations conformes et durables. Service fiable et client au cœur de mon engagement professionnel.",
+            "local_badge": "Électricien expert de Saint-Brice depuis longtemps",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Saint-Brice, garantissant conformité et sécurité.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable et réactif à Saint-Brice",
+            "why_this_commune": "Eric Barbier est un excellent choix pour Saint-Brice. Implanté localement en Seine-et-Marne, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:09:13.981Z",
+            "used_fallback": false
+          },
+          "95a68b59-a0ac-4250-8658-7be5d58f3f29": {
+            "profile_id": "95a68b59-a0ac-4250-8658-7be5d58f3f29",
+            "commune_slug": "saint-brice",
+            "bio_localized": "Luc Gautier, électricien expert en domotique et automatisation à Saint-Brice, intervient depuis 20 ans dans toute la Seine-et-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il propose des solutions intelligentes et durables. Professionnel certifié, il garantit un service de qualité et votre entière satisfaction.",
+            "local_badge": "Électricien expert de Saint-Brice, intervention rapide",
+            "service_highlight": "Électricien expert en domotique et automatisation pour les habitations modernes de Saint-Brice et ses environs.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Brice depuis deux décennies",
+            "why_this_commune": "Luc Gautier est le choix idéal pour Saint-Brice. Électricien local en Seine-et-Marne, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une totale fiabilité.",
+            "generated_at": "2025-11-16T05:09:26.739Z",
+            "used_fallback": false
+          },
+          "ecfda4f8-6f59-4e65-93e8-2bd415e03d93": {
+            "profile_id": "ecfda4f8-6f59-4e65-93e8-2bd415e03d93",
+            "commune_slug": "saint-brice",
+            "bio_localized": "Électricien expérimenté depuis 20 ans à Saint-Brice, je maîtrise l'électricité générale pour tous types de bâtiments, des pavillons aux immeubles modernes de Seine-et-Marne. Interventions rapides et soignées, diagnostic précis et solutions fiables pour votre sécurité électrique.",
+            "local_badge": "Électricien expert de Saint-Brice depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Brice pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Brice, interventions rapides garanties",
+            "why_this_commune": "Philippe Mercier est le choix idéal pour Saint-Brice. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:39.580Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "saint-brice",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Saint-Brice, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles de Seine-et-Marne. Intervenant rapidement sur votre commune, je garantis des installations sécurisées et conformes. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert de Saint-Brice, intervention rapide",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Saint-Brice pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Brice, électricien fiable et professionnel",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Saint-Brice. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:09:52.093Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-cyr-sur-morin": {
+        "commune_name": "SAINT-CYR-SUR-MORIN",
+        "postal_code": "77750",
+        "department": "77",
+        "electricians": {
+          "06611958-2c09-4107-8716-0bebe5b4ae69": {
+            "profile_id": "06611958-2c09-4107-8716-0bebe5b4ae69",
+            "commune_slug": "saint-cyr-sur-morin",
+            "bio_localized": "Marc Philippe, électricien agréé Consuel à Saint-Cyr-sur-Morin, met ses 11 années d'expertise au service de vos installations électriques. Intervenant sur les pavillons et immeubles de Seine-et-Marne, il garantit la conformité et la sécurité de vos équipements avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Saint-Cyr-sur-Morin depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel à Saint-Cyr-sur-Morin, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Saint-Cyr-sur-Morin",
+            "why_this_commune": "Marc Philippe, électricien local à Saint-Cyr-sur-Morin, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:10:04.653Z",
+            "used_fallback": false
+          },
+          "9834f331-7fa0-4682-a8f6-29968d01505e": {
+            "profile_id": "9834f331-7fa0-4682-a8f6-29968d01505e",
+            "commune_slug": "saint-cyr-sur-morin",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Cyr-sur-Morin, je propose un dépannage express pour tous vos besoins électriques. Spécialisé dans l'intervention rapide sur pavillons et maisons individuelles de Seine-et-Marne, je garantis un service fiable et professionnel. Disponible pour urgences et maintenance.",
+            "local_badge": "Électricien expert de Saint-Cyr-sur-Morin depuis longtemps",
+            "service_highlight": "Dépannage électrique express 24h/24 pour tous les habitants de Saint-Cyr-sur-Morin et ses environs immédiats.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Saint-Cyr-sur-Morin",
+            "why_this_commune": "Vincent Gauthier est le choix idéal pour Saint-Cyr-sur-Morin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:19.491Z",
+            "used_fallback": false
+          },
+          "0f8310c2-4fa6-413f-9131-795b02b85985": {
+            "profile_id": "0f8310c2-4fa6-413f-9131-795b02b85985",
+            "commune_slug": "saint-cyr-sur-morin",
+            "bio_localized": "Jacques Vidal, électricien expert en domotique et automatisation à Saint-Cyr-sur-Morin. Depuis 8 ans, j'équipe les pavillons et résidences de la Seine-et-Marne de solutions intelligentes et sécurisées. Installations fiables, service attentif et expertise reconnue pour votre confort moderne.",
+            "local_badge": "Électricien expert de Saint-Cyr-sur-Morin depuis années",
+            "service_highlight": "Électricien domotique à Saint-Cyr-sur-Morin, je conçois et installe vos systèmes d'automatisation résidentiels et tertiaires.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Cyr-sur-Morin, électricien fiable et réactif",
+            "why_this_commune": "Jacques Vidal est le choix idéal pour Saint-Cyr-sur-Morin. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:32.694Z",
+            "used_fallback": false
+          },
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "saint-cyr-sur-morin",
+            "bio_localized": "Électricien expérimenté depuis 5 ans à Saint-Cyr-sur-Morin, je maîtrise l'installation et la réparation électrique pour tous types de bâtiments, des pavillons aux immeubles modernes. Disponible 24/7 pour vos urgences en Seine-et-Marne, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Cyr-sur-Morin",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Saint-Cyr-sur-Morin et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Saint-Cyr-sur-Morin",
+            "why_this_commune": "Alain Renard est le choix idéal pour Saint-Cyr-sur-Morin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:45.338Z",
+            "used_fallback": false
+          },
+          "4d52b1a4-e830-428d-9c2c-eb8b2a1fab00": {
+            "profile_id": "4d52b1a4-e830-428d-9c2c-eb8b2a1fab00",
+            "commune_slug": "saint-cyr-sur-morin",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Saint-Cyr-sur-Morin, je spécialise dans l'éclairage LED professionnel pour les pavillons et bâtiments du secteur. Mes solutions d'éclairage innovantes valorisent vos espaces tout en optimisant vos consommations énergétiques. Disponible pour tous vos travaux électriques en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Cyr-sur-Morin",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et commerces de Saint-Cyr-sur-Morin.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Cyr-sur-Morin, électricien fiable et réactif",
+            "why_this_commune": "David Lucas est un excellent choix pour Saint-Cyr-sur-Morin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:10:58.132Z",
+            "used_fallback": false
+          },
+          "7e0c85f4-54cb-45d5-b7dc-ffc0e17a5470": {
+            "profile_id": "7e0c85f4-54cb-45d5-b7dc-ffc0e17a5470",
+            "commune_slug": "saint-cyr-sur-morin",
+            "bio_localized": "Robert Nicolas, électricien expert à Saint-Cyr-sur-Morin, intervient depuis 8 ans sur la rénovation électrique. Spécialisé dans la mise aux normes des pavillons et immeubles de Seine-et-Marne, il garantit des installations sécurisées et durables. Professionnel reconnu pour son savoir-faire et sa fiabilité auprès des résidents locaux.",
+            "local_badge": "Électricien expert de Saint-Cyr-sur-Morin depuis longtemps",
+            "service_highlight": "Expert en rénovation électrique pour les maisons anciennes et modernes de Saint-Cyr-sur-Morin, garantissant sécurité et conformité.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Cyr-sur-Morin, électricien fiable et réactif",
+            "why_this_commune": "Robert Nicolas est le choix idéal pour Saint-Cyr-sur-Morin. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:12.021Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-denis-les-rebais": {
+        "commune_name": "SAINT-DENIS-LÈS-REBAIS",
+        "postal_code": "77510",
+        "department": "77",
+        "electricians": {
+          "ce9269b2-023a-40df-8280-e16b58e58c54": {
+            "profile_id": "ce9269b2-023a-40df-8280-e16b58e58c54",
+            "commune_slug": "saint-denis-les-rebais",
+            "bio_localized": "Électricien professionnel depuis 5 ans à Saint-Denis-Lès-Rebais, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Pavillons, immeubles ou installations anciennes, je garantis un diagnostic rapide et un travail soigné. Disponible jour et nuit pour sécuriser votre électricité en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Denis-Lès-Rebais",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Denis-Lès-Rebais pour tous vos dépannages électriques immédiats",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Denis-Lès-Rebais, électricien fiable et réactif",
+            "why_this_commune": "Alain Renard est le choix idéal pour Saint-Denis-Lès-Rebais. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:11:25.251Z",
+            "used_fallback": false
+          },
+          "9834f331-7fa0-4682-a8f6-29968d01505e": {
+            "profile_id": "9834f331-7fa0-4682-a8f6-29968d01505e",
+            "commune_slug": "saint-denis-les-rebais",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Denis-Lès-Rebais, je maîtrise le dépannage express pour tous types d'installations. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une intervention rapide et fiable. Votre satisfaction électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Denis-Lès-Rebais depuis années",
+            "service_highlight": "Dépannage électrique express 24/7 à Saint-Denis-Lès-Rebais pour interventions rapides et fiables.",
+            "trust_signal": "16 ans d'expérience électricien à Saint-Denis-Lès-Rebais, interventions rapides et fiables",
+            "why_this_commune": "Vincent Gauthier, électricien local à Saint-Denis-Lès-Rebais, connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:11:38.101Z",
+            "used_fallback": false
+          },
+          "06611958-2c09-4107-8716-0bebe5b4ae69": {
+            "profile_id": "06611958-2c09-4107-8716-0bebe5b4ae69",
+            "commune_slug": "saint-denis-les-rebais",
+            "bio_localized": "Marc Philippe, électricien agréé Consuel à Saint-Denis-Lès-Rebais, met ses 11 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste en installations électriques professionnelles, il intervient sur pavillons et immeubles avec rigueur et conformité. Votre sécurité électrique est sa priorité.",
+            "local_badge": "Électricien expert de Saint-Denis-Lès-Rebais depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Denis-Lès-Rebais, garantissant vos installations électriques aux normes de sécurité.",
+            "trust_signal": "11 ans d'expérience confirmée à Saint-Denis-Lès-Rebais, électricien fiable et réactif",
+            "why_this_commune": "Marc Philippe est un excellent choix pour Saint-Denis-Lès-Rebais. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:51.347Z",
+            "used_fallback": false
+          },
+          "819c19a8-633c-418a-92ed-532274483b8f": {
+            "profile_id": "819c19a8-633c-418a-92ed-532274483b8f",
+            "commune_slug": "saint-denis-les-rebais",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Denis-Lès-Rebais, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible jour et nuit pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Saint-Denis-Lès-Rebais depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Denis-Lès-Rebais pour vos dépannages et interventions électriques rapides.",
+            "trust_signal": "16 ans d'expérience électricien à Saint-Denis-Lès-Rebais, interventions rapides et fiables",
+            "why_this_commune": "Daniel Fabre est le choix idéal pour Saint-Denis-Lès-Rebais. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:04.608Z",
+            "used_fallback": false
+          },
+          "425f35ae-d2e2-4afb-a2de-a8b11b817b6a": {
+            "profile_id": "425f35ae-d2e2-4afb-a2de-a8b11b817b6a",
+            "commune_slug": "saint-denis-les-rebais",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, Michel Bertrand intervient à Saint-Denis-Lès-Rebais et ses environs en Seine-et-Marne. Spécialisé en électricité générale, il assure l'installation, la maintenance et la rénovation électrique de vos pavillons et habitations. Intervention rapide, travail soigné et devis transparent garantis.",
+            "local_badge": "Électricien expert de Saint-Denis-Lès-Rebais depuis longtemps",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Denis-Lès-Rebais pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Denis-Lès-Rebais, électricien fiable et réactif",
+            "why_this_commune": "Michel Bertrand est le choix idéal pour Saint-Denis-Lès-Rebais. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:19.279Z",
+            "used_fallback": false
+          },
+          "0f8310c2-4fa6-413f-9131-795b02b85985": {
+            "profile_id": "0f8310c2-4fa6-413f-9131-795b02b85985",
+            "commune_slug": "saint-denis-les-rebais",
+            "bio_localized": "Jacques Vidal, électricien expert en domotique et automatisation à Saint-Denis-Lès-Rebais, intervient sur les pavillons et résidences de Seine-et-Marne. Fort de 8 ans d'expérience, il modernise vos installations électriques et automatise votre habitat pour plus de confort et de sécurité. Service fiable et professionnel.",
+            "local_badge": "Électricien expert de Saint-Denis-Lès-Rebais depuis années",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les habitations de Saint-Denis-Lès-Rebais",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Denis-Lès-Rebais, électricien fiable et réactif",
+            "why_this_commune": "Jacques Vidal est le choix idéal pour Saint-Denis-Lès-Rebais. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:12:32.409Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-fargeau-ponthierry": {
+        "commune_name": "SAINT-FARGEAU-PONTHIERRY",
+        "postal_code": "77310",
+        "department": "77",
+        "electricians": {
+          "9733a77d-3998-4d45-b214-3967a448b96e": {
+            "profile_id": "9733a77d-3998-4d45-b214-3967a448b96e",
+            "commune_slug": "saint-fargeau-ponthierry",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Saint-Fargeau-Ponthierry, Michel Lambert intervient sur tous types d'installations électriques. Du pavillon individuel aux immeubles collectifs, il garantit des travaux soignés et une mise en conformité rigoureuse. Intervention rapide et devis gratuit en Seine-et-Marne.",
+            "local_badge": "Électricien expert Saint-Fargeau-Ponthierry, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Saint-Fargeau-Ponthierry pour particuliers et professionnels.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Fargeau-Ponthierry, électricien fiable et réactif",
+            "why_this_commune": "Michel Lambert, électricien local à Saint-Fargeau-Ponthierry, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:12:45.621Z",
+            "used_fallback": false
+          },
+          "9e2426ec-18fb-4a54-b5e5-da3bb2e12233": {
+            "profile_id": "9e2426ec-18fb-4a54-b5e5-da3bb2e12233",
+            "commune_slug": "saint-fargeau-ponthierry",
+            "bio_localized": "Fort de 7 années d'expertise, Serge Barbier intervient à Saint-Fargeau-Ponthierry pour la rénovation électrique de vos installations. Spécialiste des pavillons et immeubles locaux, il garantit des travaux conformes et sécurisés. Votre électricien de confiance en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Fargeau-Ponthierry",
+            "service_highlight": "Rénovation électrique complète pour maisons et appartements à Saint-Fargeau-Ponthierry, aux normes actuelles.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Fargeau-Ponthierry, électricien fiable et réactif",
+            "why_this_commune": "Serge Barbier est le choix idéal pour Saint-Fargeau-Ponthierry. Électricien local expérimenté, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expertise reconnue en Seine-et-Marne assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:13:00.524Z",
+            "used_fallback": false
+          },
+          "4cf56943-694d-4b94-95e8-a87678f0a91c": {
+            "profile_id": "4cf56943-694d-4b94-95e8-a87678f0a91c",
+            "commune_slug": "saint-fargeau-ponthierry",
+            "bio_localized": "Patrick Bernard, électricien agréé Consuel à Saint-Fargeau-Ponthierry, met son expertise de 19 ans au service de votre sécurité électrique. Spécialiste des installations résidentielles et professionnelles en Seine-et-Marne, il intervient sur pavillons, immeubles et bâtiments anciens avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Saint-Fargeau-Ponthierry",
+            "service_highlight": "Électricien agréé Consuel à Saint-Fargeau-Ponthierry, je certifie vos installations électriques aux normes de sécurité.",
+            "trust_signal": "19 ans d'expérience confirmée à Saint-Fargeau-Ponthierry, électricien de confiance",
+            "why_this_commune": "Patrick Bernard, électricien local à Saint-Fargeau-Ponthierry, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone en Seine-et-Marne en fait un partenaire de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:13:14.292Z",
+            "used_fallback": false
+          },
+          "a4dfba53-7c22-40c3-9e26-7c108a6b41fc": {
+            "profile_id": "a4dfba53-7c22-40c3-9e26-7c108a6b41fc",
+            "commune_slug": "saint-fargeau-ponthierry",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Saint-Fargeau-Ponthierry, je maîtrise les installations des pavillons et immeubles de Seine-et-Marne. Disponible 24/7 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Fargeau-Ponthierry",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Saint-Fargeau-Ponthierry",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Fargeau-Ponthierry, électricien fiable et réactif",
+            "why_this_commune": "Alain Brunet est le choix idéal pour Saint-Fargeau-Ponthierry. Implanté localement, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:27.413Z",
+            "used_fallback": false
+          },
+          "205a540b-35ab-436b-bd43-340fabcd7f87": {
+            "profile_id": "205a540b-35ab-436b-bd43-340fabcd7f87",
+            "commune_slug": "saint-fargeau-ponthierry",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Saint-Fargeau-Ponthierry, je maîtrise le dépannage express pour tous types d'habitats : pavillons, immeubles modernes et anciennes demeures. Intervention rapide et fiable en Seine-et-Marne. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert de Saint-Fargeau-Ponthierry depuis 15 ans",
+            "service_highlight": "Dépannage électrique express à Saint-Fargeau-Ponthierry : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Fargeau-Ponthierry, électricien fiable et réactif",
+            "why_this_commune": "Sébastien Simon est le choix idéal pour Saint-Fargeau-Ponthierry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:40.691Z",
+            "used_fallback": false
+          },
+          "38288344-c295-4968-bb04-a1ab2ba868ae": {
+            "profile_id": "38288344-c295-4968-bb04-a1ab2ba868ae",
+            "commune_slug": "saint-fargeau-ponthierry",
+            "bio_localized": "Électricien agréé Consuel à Saint-Fargeau-Ponthierry, Olivier Duval met à profit 9 années d'expertise pour sécuriser les installations électriques de vos pavillons et immeubles. Spécialiste des normes de conformité, il garantit vos diagnostics et mises aux normes avec professionnalisme et fiabilité en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Fargeau-Ponthierry",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Fargeau-Ponthierry pour vos installations et conformités électriques.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Fargeau-Ponthierry, électricien fiable et professionnel",
+            "why_this_commune": "Olivier Duval est le choix idéal pour Saint-Fargeau-Ponthierry. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:13:54.221Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-fiacre": {
+        "commune_name": "SAINT-FIACRE",
+        "postal_code": "77470",
+        "department": "77",
+        "electricians": {
+          "ac261c03-e8ab-4ec8-98ef-379011d65d71": {
+            "profile_id": "ac261c03-e8ab-4ec8-98ef-379011d65d71",
+            "commune_slug": "saint-fiacre",
+            "bio_localized": "Électricien expérimenté depuis 8 ans, Eric Arnaud intervient à Saint-Fiacre pour l'installation et la mise aux normes de vos tableaux électriques. Spécialisé dans les pavillons et petits collectifs de Seine-et-Marne, il garantit des installations sécurisées et conformes. Service fiable et professionnel.",
+            "local_badge": "Électricien expert de Saint-Fiacre, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de tableaux électriques pour les maisons et commerces de Saint-Fiacre.",
+            "trust_signal": "8 ans d'expérience, électricien de confiance à Saint-Fiacre, interventions rapides et fiables",
+            "why_this_commune": "Eric Arnaud est le choix idéal pour Saint-Fiacre. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:14:07.469Z",
+            "used_fallback": false
+          },
+          "96446663-775c-48d1-9986-743990a3933b": {
+            "profile_id": "96446663-775c-48d1-9986-743990a3933b",
+            "commune_slug": "saint-fiacre",
+            "bio_localized": "Électricien expérimenté depuis 12 ans, je suis basé à Saint-Fiacre en Seine-et-Marne. Spécialiste du dépannage express, j'interviens rapidement sur les pavillons et immeubles de la région. Votre électricité en panne ? Je vous propose une solution fiable et professionnelle, disponible pour tous vos besoins électriques urgents.",
+            "local_badge": "Électricien expert de Saint-Fiacre depuis des années",
+            "service_highlight": "Dépannage électrique express à Saint-Fiacre : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Fiacre, électricien fiable et professionnel",
+            "why_this_commune": "Rémi Mathieu est le choix idéal pour Saint-Fiacre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:14:22.020Z",
+            "used_fallback": false
+          },
+          "c84f6b7a-4316-417a-a0d7-0114dcb74c8b": {
+            "profile_id": "c84f6b7a-4316-417a-a0d7-0114dcb74c8b",
+            "commune_slug": "saint-fiacre",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Saint-Fiacre, Philippe Noël intervient sur tous vos besoins en électricité générale. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, il garantit des installations sécurisées et un travail soigné. Intervention rapide et professionnelle.",
+            "local_badge": "Électricien expert de Saint-Fiacre depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Fiacre pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "11 ans d'expérience confirmée à Saint-Fiacre, électricien fiable et reconnu localement",
+            "why_this_commune": "Philippe Noel est le choix idéal pour Saint-Fiacre. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:34.816Z",
+            "used_fallback": false
+          },
+          "697cd59b-3af8-4808-a104-482e8de59d97": {
+            "profile_id": "697cd59b-3af8-4808-a104-482e8de59d97",
+            "commune_slug": "saint-fiacre",
+            "bio_localized": "Henri Fontaine, électricien expert en domotique et automatisation à Saint-Fiacre, intervient depuis 19 ans auprès des résidents locaux. Spécialisé dans l'équipement des pavillons et immeubles de Seine-et-Marne, il propose des solutions intelligentes et fiables pour moderniser votre habitat. Service de qualité et satisfaction garantis.",
+            "local_badge": "Électricien expert de Saint-Fiacre, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les résidences modernes de Saint-Fiacre et ses environs.",
+            "trust_signal": "19 ans d'expérience, électricien de confiance à Saint-Fiacre",
+            "why_this_commune": "Henri Fontaine est le choix idéal pour Saint-Fiacre. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:48.680Z",
+            "used_fallback": false
+          },
+          "f3fbce48-15eb-4100-b27d-9ada551d5694": {
+            "profile_id": "f3fbce48-15eb-4100-b27d-9ada551d5694",
+            "commune_slug": "saint-fiacre",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Saint-Fiacre, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Saint-Fiacre, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Saint-Fiacre, pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience électricien à Saint-Fiacre, interventions rapides et fiables garanties",
+            "why_this_commune": "Jérôme Bourgeois est le choix idéal pour Saint-Fiacre. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:15:03.706Z",
+            "used_fallback": false
+          },
+          "afc82a2f-afd3-4d08-a7a4-6b53ccd4fd7d": {
+            "profile_id": "afc82a2f-afd3-4d08-a7a4-6b53ccd4fd7d",
+            "commune_slug": "saint-fiacre",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Saint-Fiacre, je maîtrise l'installation et la réparation électrique sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible 24/7 pour vos urgences en Seine-et-Marne, je garantis interventions rapides et travail soigné, avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Saint-Fiacre depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Saint-Fiacre pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "13 ans d'expérience confirmée à Saint-Fiacre, électricien fiable et reconnu",
+            "why_this_commune": "Christian Lacroix est le choix idéal pour Saint-Fiacre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:18.663Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-germain-laval": {
+        "commune_name": "SAINT-GERMAIN-LAVAL",
+        "postal_code": "77130",
+        "department": "77",
+        "electricians": {
+          "57f429e4-7c5e-4db1-b561-d02a5d218e99": {
+            "profile_id": "57f429e4-7c5e-4db1-b561-d02a5d218e99",
+            "commune_slug": "saint-germain-laval",
+            "bio_localized": "Électricien qualifié depuis 9 ans à Saint-Germain-Laval, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Saint-Germain-Laval depuis années",
+            "service_highlight": "Installateur de bornes de recharge spécialisé à Saint-Germain-Laval pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Germain-Laval, électricien fiable et réactif",
+            "why_this_commune": "Frédéric Dufour est le choix idéal pour Saint-Germain-Laval. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marnaise assure des solutions fiables et adaptées à vos besoins.",
+            "generated_at": "2025-11-16T05:15:31.226Z",
+            "used_fallback": false
+          },
+          "6127c0eb-41bb-4b46-880d-13c84d805253": {
+            "profile_id": "6127c0eb-41bb-4b46-880d-13c84d805253",
+            "commune_slug": "saint-germain-laval",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Saint-Germain-Laval, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Saint-Germain-Laval depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations à Saint-Germain-Laval.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Germain-Laval, électricien fiable et réactif",
+            "why_this_commune": "Denis Thomas est un excellent choix pour Saint-Germain-Laval. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:15:44.178Z",
+            "used_fallback": false
+          },
+          "a90c4c2c-d687-438e-aebb-6e9d1b14ef1f": {
+            "profile_id": "a90c4c2c-d687-438e-aebb-6e9d1b14ef1f",
+            "commune_slug": "saint-germain-laval",
+            "bio_localized": "Électricien professionnel à Saint-Germain-Laval depuis 9 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles de Seine-et-Marne. Expert en solutions d'éclairage innovantes et économes, j'accompagne particuliers et professionnels. Disponible pour tous vos besoins électriques dans le 77.",
+            "local_badge": "Électricien expert de Saint-Germain-Laval depuis longtemps",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel pour les entreprises et collectivités de Saint-Germain-Laval.",
+            "trust_signal": "9 ans d'expérience confirmée à Saint-Germain-Laval, électricien fiable et réactif",
+            "why_this_commune": "Alexandre Blanc est le choix idéal pour Saint-Germain-Laval. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:56.995Z",
+            "used_fallback": false
+          },
+          "205178ec-517d-406d-b79f-e71f578c096a": {
+            "profile_id": "205178ec-517d-406d-b79f-e71f578c096a",
+            "commune_slug": "saint-germain-laval",
+            "bio_localized": "Didier Fabre, électricien expert à Saint-Germain-Laval, intervient sur l'installation et la rénovation de tableaux électriques. Fort de 18 ans d'expérience en Seine-et-Marne, il maîtrise les spécificités des pavillons et immeubles locaux. Qualité de travail et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Saint-Germain-Laval depuis longtemps",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Saint-Germain-Laval",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Saint-Germain-Laval",
+            "why_this_commune": "Didier Fabre est le choix idéal pour Saint-Germain-Laval. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:16:10.189Z",
+            "used_fallback": false
+          },
+          "62e5b045-4033-461f-a751-780630d65211": {
+            "profile_id": "62e5b045-4033-461f-a751-780630d65211",
+            "commune_slug": "saint-germain-laval",
+            "bio_localized": "Électricien agréé Consuel depuis 18 ans, Nicolas Durand intervient à Saint-Germain-Laval et ses alentours. Spécialiste des installations électriques résidentielles et professionnelles, il garantit la conformité de vos installations. Expertise reconnue pour sécuriser pavillons et immeubles en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Germain-Laval depuis années",
+            "service_highlight": "Électricien agréé Consuel à Saint-Germain-Laval, certifié pour vos installations électriques conformes et sécurisées.",
+            "trust_signal": "18 ans d'expertise électrique à Saint-Germain-Laval, intervention rapide garantie",
+            "why_this_commune": "Nicolas Durand est le choix idéal pour Saint-Germain-Laval. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:16:24.342Z",
+            "used_fallback": false
+          },
+          "769dde2e-2bd3-4fdc-a765-bbb4d388ac56": {
+            "profile_id": "769dde2e-2bd3-4fdc-a765-bbb4d388ac56",
+            "commune_slug": "saint-germain-laval",
+            "bio_localized": "Électricien depuis 8 ans à Saint-Germain-Laval, je maîtrise le dépannage express pour vos urgences électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je vous propose des interventions rapides et fiables. Mon expertise garantit votre sécurité et votre tranquillité d'esprit.",
+            "local_badge": "Électricien expert de Saint-Germain-Laval depuis années",
+            "service_highlight": "Dépannage électrique express à Saint-Germain-Laval : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Germain-Laval, électricien fiable et réactif",
+            "why_this_commune": "Maxime Morin est le choix idéal pour Saint-Germain-Laval. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:16:38.591Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-germain-laxis": {
+        "commune_name": "SAINT-GERMAIN-LAXIS",
+        "postal_code": "77950",
+        "department": "77",
+        "electricians": {
+          "e24e82f2-c2f9-409c-a507-1c5b91ef6333": {
+            "profile_id": "e24e82f2-c2f9-409c-a507-1c5b91ef6333",
+            "commune_slug": "saint-germain-laxis",
+            "bio_localized": "Électricien qualifié depuis 5 ans, j'interviens à Saint-Germain-Laxis et ses environs en Seine-et-Marne pour l'installation de bornes de recharge. Spécialisé dans les pavillons et petits immeubles, je garantis des travaux conformes et rapides. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Saint-Germain-Laxis depuis années",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Saint-Germain-Laxis et ses environs.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Germain-Laxis, interventions rapides et fiables",
+            "why_this_commune": "Julien Philippe est le choix idéal pour Saint-Germain-Laxis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience confirmée en Seine-et-Marne, il offre un service fiable et rassurant.",
+            "generated_at": "2025-11-16T05:16:51.198Z",
+            "used_fallback": false
+          },
+          "2373414f-7b90-4feb-8144-8230d7e7d8e8": {
+            "profile_id": "2373414f-7b90-4feb-8144-8230d7e7d8e8",
+            "commune_slug": "saint-germain-laxis",
+            "bio_localized": "Fort de 20 ans d'expérience, Robert Rodriguez intervient à Saint-Germain-Laxis pour tous vos travaux de rénovation électrique. Spécialiste des installations résidentielles, il modernise pavillons et immeubles avec professionnalisme. Diagnostics complets, conformité aux normes et qualité garantie pour votre sécurité électrique en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Germain-Laxis",
+            "service_highlight": "Rénovation électrique complète pour les maisons anciennes de Saint-Germain-Laxis, aux normes actuelles et en toute sécurité.",
+            "trust_signal": "20 ans d'expérience électricien à Saint-Germain-Laxis, interventions rapides et fiables",
+            "why_this_commune": "Robert Rodriguez est le choix idéal pour Saint-Germain-Laxis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:04.692Z",
+            "used_fallback": false
+          },
+          "4b7c294a-cbaa-468b-8df9-5b0dbfae443e": {
+            "profile_id": "4b7c294a-cbaa-468b-8df9-5b0dbfae443e",
+            "commune_slug": "saint-germain-laxis",
+            "bio_localized": "Électricien qualifié depuis 12 ans à Saint-Germain-Laxis, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je vous propose des solutions adaptées avec devis gratuit et intervention rapide.",
+            "local_badge": "Électricien expert de Saint-Germain-Laxis depuis années",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Saint-Germain-Laxis pour véhicules électriques.",
+            "trust_signal": "12 ans d'expérience confirmée à Saint-Germain-Laxis, électricien fiable et réactif",
+            "why_this_commune": "Fabrice Vidal est le choix idéal pour Saint-Germain-Laxis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers communaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:18.272Z",
+            "used_fallback": false
+          },
+          "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f": {
+            "profile_id": "c77a18ae-17f7-40dc-a0b2-7f5926fdfc8f",
+            "commune_slug": "saint-germain-laxis",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Saint-Germain-Laxis, je maîtrise l'installation et la réparation électrique pour tous types de bâtiments, du pavillon à l'immeuble moderne. Disponible 24/7 pour vos urgences en Seine-et-Marne, je garantis une intervention rapide et un travail de qualité.",
+            "local_badge": "Électricien expert de Saint-Germain-Laxis depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Saint-Germain-Laxis pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et qualifié à Saint-Germain-Laxis",
+            "why_this_commune": "Bernard Lucas est le choix idéal pour Saint-Germain-Laxis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:31.687Z",
+            "used_fallback": false
+          },
+          "f4a1693b-69a2-42f4-9094-f09084ce8da8": {
+            "profile_id": "f4a1693b-69a2-42f4-9094-f09084ce8da8",
+            "commune_slug": "saint-germain-laxis",
+            "bio_localized": "Dominique Garnier, électricien expert à Saint-Germain-Laxis, intervient depuis 20 ans sur l'installation de tableaux électriques. Spécialisé dans les rénovations de pavillons et les mises aux normes d'immeubles, il garantit des installations sécurisées et conformes. Service fiable et client-centré en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Germain-Laxis depuis des années",
+            "service_highlight": "Spécialiste en installation et rénovation de tableaux électriques pour les résidences de Saint-Germain-Laxis",
+            "trust_signal": "Électricien confirmé avec 20 ans d'expérience à Saint-Germain-Laxis, interventions rapides garanties",
+            "why_this_commune": "Dominique Garnier est le choix idéal pour Saint-Germain-Laxis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:45.137Z",
+            "used_fallback": false
+          },
+          "9771c199-24d4-4047-99c0-caabd56a3803": {
+            "profile_id": "9771c199-24d4-4047-99c0-caabd56a3803",
+            "commune_slug": "saint-germain-laxis",
+            "bio_localized": "Patrick Brun, électricien agréé Consuel à Saint-Germain-Laxis, met ses 14 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques résidentielles et professionnelles, il garantit la conformité et la sécurité de vos installations. Interventions fiables et certifiées.",
+            "local_badge": "Électricien expert de Saint-Germain-Laxis depuis des années",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Germain-Laxis pour vos installations et conformités électriques résidentielles et professionnelles.",
+            "trust_signal": "14 ans d'expérience confirmée à Saint-Germain-Laxis, électricien fiable et réactif",
+            "why_this_commune": "Patrick Brun est le choix idéal pour Saint-Germain-Laxis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:17:57.919Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-germain-sous-doue": {
+        "commune_name": "SAINT-GERMAIN-SOUS-DOUE",
+        "postal_code": "77169",
+        "department": "77",
+        "electricians": {
+          "d8b0df04-e436-456a-aed2-d2e55556b4cf": {
+            "profile_id": "d8b0df04-e436-456a-aed2-d2e55556b4cf",
+            "commune_slug": "saint-germain-sous-doue",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Saint-Germain-sous-Doue, Jean Renard intervient sur tous types d'installations électriques. Spécialisé en électricité générale, il assure la maintenance et la rénovation des pavillons et immeubles de Seine-et-Marne. Intervention rapide, travail soigné et devis transparent garantis.",
+            "local_badge": "Électricien expert de Saint-Germain-sous-Doue",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Germain-sous-Doue pour tous vos travaux d'installation et de maintenance électrique résidentielle.",
+            "trust_signal": "8 ans d'expérience confirmée à Saint-Germain-sous-Doue, électricien de confiance",
+            "why_this_commune": "Jean Renard est un excellent choix pour Saint-Germain-sous-Doue. Implanté localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:10.779Z",
+            "used_fallback": false
+          },
+          "5c54036c-90a3-44a5-8315-072aabd6ba40": {
+            "profile_id": "5c54036c-90a3-44a5-8315-072aabd6ba40",
+            "commune_slug": "saint-germain-sous-doue",
+            "bio_localized": "Électricien à Saint-Germain-sous-Doue depuis 16 ans, je maîtrise le dépannage express sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une intervention rapide et fiable. Disponible pour vos urgences électriques, je sécurise votre installation avec professionnalisme.",
+            "local_badge": "Électricien expert de Saint-Germain-sous-Doue",
+            "service_highlight": "Dépannage électrique express à Saint-Germain-sous-Doue : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Germain-sous-Doue, électricien fiable et réactif",
+            "why_this_commune": "Thomas Rolland est un excellent choix pour Saint-Germain-sous-Doue. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:24.859Z",
+            "used_fallback": false
+          },
+          "609d6ccf-18ca-43fb-810a-88cd38cde161": {
+            "profile_id": "609d6ccf-18ca-43fb-810a-88cd38cde161",
+            "commune_slug": "saint-germain-sous-doue",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Saint-Germain-sous-Doue, je maîtrise le dépannage express pour tous vos installations. Que vous habitiez en pavillon ou immeuble, je garantis une intervention rapide et fiable en Seine-et-Marne. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Germain-sous-Doue",
+            "service_highlight": "Dépannage électrique express à Saint-Germain-sous-Doue : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Saint-Germain-sous-Doue, interventions rapides garanties",
+            "why_this_commune": "Maxime Mathieu est le choix idéal pour Saint-Germain-sous-Doue. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité, fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:37.962Z",
+            "used_fallback": false
+          },
+          "bfa4934e-23ae-4a38-aa76-de7b1751a7a2": {
+            "profile_id": "bfa4934e-23ae-4a38-aa76-de7b1751a7a2",
+            "commune_slug": "saint-germain-sous-doue",
+            "bio_localized": "Nicolas Vidal, électricien agréé Consuel à Saint-Germain-sous-Doue, met à profit ses 9 années d'expérience pour sécuriser vos installations électriques. Spécialiste des normes en vigueur, il intervient sur les pavillons et immeubles de Seine-et-Marne avec professionnalisme et fiabilité, garantissant votre conformité électrique.",
+            "local_badge": "Électricien expert de Saint-Germain-sous-Doue",
+            "service_highlight": "Électricien agréé Consuel à Saint-Germain-sous-Doue, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable à Saint-Germain-sous-Doue",
+            "why_this_commune": "Nicolas Vidal est un excellent choix pour Saint-Germain-sous-Doue. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:18:50.846Z",
+            "used_fallback": false
+          },
+          "8e4bb98b-4926-478f-b391-c154b913a36d": {
+            "profile_id": "8e4bb98b-4926-478f-b391-c154b913a36d",
+            "commune_slug": "saint-germain-sous-doue",
+            "bio_localized": "Laurent Arnaud, expert en domotique et automatisation à Saint-Germain-sous-Doue, intervient depuis 15 ans en Seine-et-Marne. Spécialiste des installations intelligentes pour pavillons et résidences modernes, il garantit des solutions sur mesure et un service client exemplaire dans toute la région.",
+            "local_badge": "Électricien expert de Saint-Germain-sous-Doue",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les résidences de Saint-Germain-sous-Doue",
+            "trust_signal": "15 ans d'expérience électricien à Saint-Germain-sous-Doue, intervention rapide garantie",
+            "why_this_commune": "Laurent Arnaud est le choix idéal pour Saint-Germain-sous-Doue. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:04.530Z",
+            "used_fallback": false
+          },
+          "ec1bb22e-46e8-49da-bdc7-057cc42eadd6": {
+            "profile_id": "ec1bb22e-46e8-49da-bdc7-057cc42eadd6",
+            "commune_slug": "saint-germain-sous-doue",
+            "bio_localized": "Nicolas Robert, électricien agréé Consuel à Saint-Germain-sous-Doue, met ses 18 années d'expertise au service des habitants de Seine-et-Marne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur pavillons, immeubles et bâtiments anciens avec rigueur et conformité aux normes. Votre sécurité électrique, sa priorité.",
+            "local_badge": "Électricien expert de Saint-Germain-sous-Doue",
+            "service_highlight": "Électricien agréé Consuel intervenant à Saint-Germain-sous-Doue pour vos installations et conformités électriques résidentielles et commerciales.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Saint-Germain-sous-Doue",
+            "why_this_commune": "Nicolas Robert est un excellent choix pour Saint-Germain-sous-Doue. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:19:17.888Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-germain-sur-ecole": {
+        "commune_name": "SAINT-GERMAIN-SUR-ÉCOLE",
+        "postal_code": "77930",
+        "department": "77",
+        "electricians": {
+          "205a540b-35ab-436b-bd43-340fabcd7f87": {
+            "profile_id": "205a540b-35ab-436b-bd43-340fabcd7f87",
+            "commune_slug": "saint-germain-sur-ecole",
+            "bio_localized": "Électricien professionnel à Saint-Germain-sur-École depuis 16 ans, je maîtrise le dépannage express pour tous les types d'habitations : pavillons, maisons anciennes et résidences modernes. Intervention rapide et fiable en Seine-et-Marne. Votre électricité, ma priorité.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-École",
+            "service_highlight": "Dépannage express électrique à Saint-Germain-sur-École : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "16 ans d'expérience confirmée, électricien fiable à Saint-Germain-sur-École",
+            "why_this_commune": "Sébastien Simon est le choix idéal pour Saint-Germain-sur-École. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:31.972Z",
+            "used_fallback": false
+          },
+          "de17a87b-a95a-4a19-a51e-cdcf8185162f": {
+            "profile_id": "de17a87b-a95a-4a19-a51e-cdcf8185162f",
+            "commune_slug": "saint-germain-sur-ecole",
+            "bio_localized": "Jacques Picard, électricien expert en domotique et automatisation à Saint-Germain-sur-École. Fort de 7 ans d'expérience, il modernise pavillons et résidences de Seine-et-Marne avec des solutions intelligentes et fiables. Interventions rapides, travail soigné, satisfaction garantie pour tous vos projets d'automatisation.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-École",
+            "service_highlight": "Électricien domotique à Saint-Germain-sur-École, je conçois des systèmes d'automatisation intelligents pour vos maisons et bâtiments.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Germain-sur-École, électricien fiable et réactif",
+            "why_this_commune": "Jacques Picard est le choix idéal pour Saint-Germain-sur-École. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:19:45.355Z",
+            "used_fallback": false
+          },
+          "b9ff647c-50e0-4d09-9253-bcc2a0c5e2b4": {
+            "profile_id": "b9ff647c-50e0-4d09-9253-bcc2a0c5e2b4",
+            "commune_slug": "saint-germain-sur-ecole",
+            "bio_localized": "Georges Lemaire, électricien expert à Saint-Germain-sur-École, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 14 ans d'expérience, il sécurise les installations des pavillons et résidences de Seine-et-Marne. Professionnel certifié, il garantit des travaux conformes et durables pour votre tranquillité.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-École",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Saint-Germain-sur-École pour résidences et petits commerces.",
+            "trust_signal": "14 ans d'expérience confirmée à Saint-Germain-sur-École, électricien fiable et réactif",
+            "why_this_commune": "Georges Lemaire est le choix idéal pour Saint-Germain-sur-École. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:10.422Z",
+            "used_fallback": false
+          },
+          "9733a77d-3998-4d45-b214-3967a448b96e": {
+            "profile_id": "9733a77d-3998-4d45-b214-3967a448b96e",
+            "commune_slug": "saint-germain-sur-ecole",
+            "bio_localized": "Électricien expérimenté depuis 10 ans, je maîtrise l'électricité générale pour les pavillons et immeubles de Saint-Germain-sur-École. Interventions rapides et soignées dans toute la Seine-et-Marne. Installation, rénovation, dépannage : faites confiance à mon expertise locale et mon professionnalisme.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-École depuis années",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Saint-Germain-sur-École pour particuliers et professionnels.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Germain-sur-École, électricien fiable et réactif",
+            "why_this_commune": "Michel Lambert est le choix idéal pour Saint-Germain-sur-École. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T05:20:23.213Z",
+            "used_fallback": false
+          },
+          "5f598468-db3b-480c-ace3-5d85b769c50e": {
+            "profile_id": "5f598468-db3b-480c-ace3-5d85b769c50e",
+            "commune_slug": "saint-germain-sur-ecole",
+            "bio_localized": "Électricien expérimenté depuis 13 ans, Pierre Brunet intervient à Saint-Germain-sur-École pour tous vos besoins en électricité générale. Spécialisé dans la rénovation des pavillons et maisons anciennes de la région, il garantit des installations sécurisées et un travail soigné. Disponible rapidement en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-École",
+            "service_highlight": "Électricien généraliste intervenant à Saint-Germain-sur-École pour tous vos besoins en installations et rénovations électriques résidentielles.",
+            "trust_signal": "13 ans d'expérience confirmée à Saint-Germain-sur-École, électricien fiable et professionnel",
+            "why_this_commune": "Pierre Brunet, électricien local à Saint-Germain-sur-École, maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience en Seine-et-Marne, il offre un service fiable et adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T05:20:36.184Z",
+            "used_fallback": false
+          },
+          "9e2426ec-18fb-4a54-b5e5-da3bb2e12233": {
+            "profile_id": "9e2426ec-18fb-4a54-b5e5-da3bb2e12233",
+            "commune_slug": "saint-germain-sur-ecole",
+            "bio_localized": "Serge Barbier, électricien expert à Saint-Germain-sur-École, intervient depuis 7 ans sur la rénovation électrique des pavillons et maisons anciennes de Seine-et-Marne. Spécialiste reconnu en mise aux normes et modernisation d'installations, il garantit sécurité et conformité pour tous vos projets résidentiels.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-École",
+            "service_highlight": "Électricien expert en rénovation électrique à Saint-Germain-sur-École, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée à Saint-Germain-sur-École, électricien fiable et réactif",
+            "why_this_commune": "Serge Barbier est le choix idéal pour Saint-Germain-sur-École. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:20:49.248Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-germain-sur-morin": {
+        "commune_name": "SAINT-GERMAIN-SUR-MORIN",
+        "postal_code": "77860",
+        "department": "77",
+        "electricians": {
+          "7048e3bf-acbd-4b34-838d-32016e352cbd": {
+            "profile_id": "7048e3bf-acbd-4b34-838d-32016e352cbd",
+            "commune_slug": "saint-germain-sur-morin",
+            "bio_localized": "Électricien qualifié basé à Saint-Germain-sur-Morin, je maîtrise l'installation d'éclairage LED professionnel pour pavillons et bâtiments tertiaires. Avec 11 ans d'expérience en Seine-et-Marne, j'interviens sur tous vos projets électriques. Conseil, pose et maintenance : votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-Morin",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités de Saint-Germain-sur-Morin",
+            "trust_signal": "11 ans d'expérience confirmée, électricien fiable à Saint-Germain-sur-Morin",
+            "why_this_commune": "Benjamin Roger est le choix idéal pour Saint-Germain-sur-Morin. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:21:02.506Z",
+            "used_fallback": false
+          },
+          "f3ff68cb-f252-41bb-b9ba-1f0b1f237558": {
+            "profile_id": "f3ff68cb-f252-41bb-b9ba-1f0b1f237558",
+            "commune_slug": "saint-germain-sur-morin",
+            "bio_localized": "Didier David, électricien expert à Saint-Germain-sur-Morin, intervient sur l'installation de tableaux électriques dans les pavillons et immeubles de Seine-et-Marne. Fort de 14 ans d'expérience, il garantit des installations conformes et durables. Service fiable et client satisfait.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-Morin",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les habitations de Saint-Germain-sur-Morin",
+            "trust_signal": "14 ans d'expérience électricien à Saint-Germain-sur-Morin, intervention rapide garantie",
+            "why_this_commune": "Didier David est un excellent choix pour Saint-Germain-sur-Morin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:21:17.535Z",
+            "used_fallback": false
+          },
+          "a50bb1cc-ba81-47e1-82d9-db17878d955e": {
+            "profile_id": "a50bb1cc-ba81-47e1-82d9-db17878d955e",
+            "commune_slug": "saint-germain-sur-morin",
+            "bio_localized": "Électricien professionnel depuis 11 ans à Saint-Germain-sur-Morin, je spécialise dans l'éclairage LED pour pavillons et bâtiments. Maîtrisant les installations modernes et les rénovations, j'apporte des solutions d'éclairage performantes et durables. Disponible pour tous vos projets électriques en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-Morin",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises de Saint-Germain-sur-Morin",
+            "trust_signal": "11 ans d'expérience confirmée à Saint-Germain-sur-Morin, électricien fiable et réactif",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Saint-Germain-sur-Morin. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:30.882Z",
+            "used_fallback": false
+          },
+          "30b99a67-fbee-442d-bc02-6c83b9e20adb": {
+            "profile_id": "30b99a67-fbee-442d-bc02-6c83b9e20adb",
+            "commune_slug": "saint-germain-sur-morin",
+            "bio_localized": "Électricien professionnel depuis 14 ans à Saint-Germain-sur-Morin, je spécialise dans l'éclairage LED haut de gamme. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, j'optimise votre consommation énergétique avec des solutions d'éclairage innovantes et durables. Expertise, fiabilité et disponibilité.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-Morin",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel à Saint-Germain-sur-Morin pour vos installations modernes et économes.",
+            "trust_signal": "14 ans d'expertise électrique à Saint-Germain-sur-Morin, interventions fiables et rapides",
+            "why_this_commune": "Alexandre Henry, électricien local à Saint-Germain-sur-Morin, maîtrise parfaitement les spécificités architecturales de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience territoriale, il offre un service fiable et adapté aux besoins spécifiques de vos installations électriques.",
+            "generated_at": "2025-11-16T05:21:46.852Z",
+            "used_fallback": false
+          },
+          "200121e4-cdaa-4e95-834b-4f960c795a8c": {
+            "profile_id": "200121e4-cdaa-4e95-834b-4f960c795a8c",
+            "commune_slug": "saint-germain-sur-morin",
+            "bio_localized": "Électricien depuis 18 ans à Saint-Germain-sur-Morin, je maîtrise le dépannage express pour tous les types d'habitations. Que vous résidiez en pavillon ou en immeuble, je garantis une intervention rapide et fiable. Mon expertise : résoudre vos problèmes électriques en urgence, avec professionnalisme et tranquillité d'esprit.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-Morin",
+            "service_highlight": "Dépannage électrique express 24h/24 pour les habitants de Saint-Germain-sur-Morin, interventions rapides et fiables.",
+            "trust_signal": "18 ans d'expérience électrique à Saint-Germain-sur-Morin, professionnel fiable et réactif",
+            "why_this_commune": "Vincent Chevalier est le choix idéal pour Saint-Germain-sur-Morin. Basé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience confirmée dans la région garantit des interventions rapides et efficaces. Proximité et expertise locale pour vos besoins électriques.",
+            "generated_at": "2025-11-16T05:21:59.977Z",
+            "used_fallback": false
+          },
+          "b491facd-2f4f-4933-8a88-4fb8eff3cece": {
+            "profile_id": "b491facd-2f4f-4933-8a88-4fb8eff3cece",
+            "commune_slug": "saint-germain-sur-morin",
+            "bio_localized": "Georges Meunier, électricien expert à Saint-Germain-sur-Morin, intervient depuis 16 ans sur l'installation de tableaux électriques. Spécialiste reconnu des pavillons et maisons individuelles de Seine-et-Marne, il garantit des installations conformes et durables. Service fiable et client prioritaire.",
+            "local_badge": "Électricien expert de Saint-Germain-sur-Morin",
+            "service_highlight": "Spécialiste de l'installation et la rénovation de tableaux électriques pour les résidences de Saint-Germain-sur-Morin",
+            "trust_signal": "16 ans d'expérience confirmée à Saint-Germain-sur-Morin, électricien fiable et réactif",
+            "why_this_commune": "Georges Meunier est le choix idéal pour Saint-Germain-sur-Morin. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:22:13.379Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "saint-hilliers": {
+        "commune_name": "SAINT-HILLIERS",
+        "postal_code": "77160",
+        "department": "77",
+        "electricians": {
+          "2db4bd23-c98b-4375-a533-b5a906435bd2": {
+            "profile_id": "2db4bd23-c98b-4375-a533-b5a906435bd2",
+            "commune_slug": "saint-hilliers",
+            "bio_localized": "Expert en installation de tableaux électriques à Saint-Hilliers depuis 10 ans. Je maîtrise les spécificités des pavillons et immeubles de Seine-et-Marne. Interventions fiables et conformes aux normes. Votre satisfaction et la sécurité électrique de votre logement sont mes priorités absolues.",
+            "local_badge": "Électricien expert de Saint-Hilliers depuis longtemps",
+            "service_highlight": "Spécialiste en installation et maintenance de tableaux électriques pour les résidences de Saint-Hilliers.",
+            "trust_signal": "10 ans d'expérience confirmée à Saint-Hilliers, électricien fiable et réactif",
+            "why_this_commune": "Eric Vincent est le choix idéal pour Saint-Hilliers. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone de Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:26.172Z",
+            "used_fallback": false
+          },
+          "0368ca39-86a8-4805-a14b-4c204f2a8e2f": {
+            "profile_id": "0368ca39-86a8-4805-a14b-4c204f2a8e2f",
+            "commune_slug": "saint-hilliers",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Saint-Hilliers, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de Seine-et-Marne. Intervention rapide, devis gratuit. Votre installation électrique sécurisée et conforme, c'est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Hilliers depuis années",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 à Saint-Hilliers pour sécuriser vos installations électriques.",
+            "trust_signal": "10 ans d'expérience confirmée, électricien fiable et réactif à Saint-Hilliers",
+            "why_this_commune": "Thierry Gaillard est le choix idéal pour Saint-Hilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:40.427Z",
+            "used_fallback": false
+          },
+          "1a29869f-0793-4842-81e4-c4e30739a09a": {
+            "profile_id": "1a29869f-0793-4842-81e4-c4e30739a09a",
+            "commune_slug": "saint-hilliers",
+            "bio_localized": "Électricien spécialisé en installation tableau électrique à Saint-Hilliers, je maîtrise les défis électriques des pavillons et maisons anciennes de Seine-et-Marne. Fort de 5 ans d'expérience, je garantis des installations sécurisées et conformes. Service fiable et transparent pour votre tranquillité.",
+            "local_badge": "Électricien expert de Saint-Hilliers depuis des années",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques à Saint-Hilliers pour tous vos besoins résidentiels.",
+            "trust_signal": "5 ans d'expérience confirmée à Saint-Hilliers, électricien fiable et professionnel",
+            "why_this_commune": "Eric Barbier est le choix idéal pour Saint-Hilliers. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:52.949Z",
+            "used_fallback": false
+          },
+          "62b8fb66-cb8c-4948-a44d-0ab1c2748e78": {
+            "profile_id": "62b8fb66-cb8c-4948-a44d-0ab1c2748e78",
+            "commune_slug": "saint-hilliers",
+            "bio_localized": "Électricien expérimenté à Saint-Hilliers depuis 9 ans, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et résidences de Seine-et-Marne. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Saint-Hilliers depuis longtemps",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux d'installation et de rénovation électrique à Saint-Hilliers.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et qualifié à Saint-Hilliers",
+            "why_this_commune": "Thierry Thomas est le choix idéal pour Saint-Hilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:06.182Z",
+            "used_fallback": false
+          },
+          "95a68b59-a0ac-4250-8658-7be5d58f3f29": {
+            "profile_id": "95a68b59-a0ac-4250-8658-7be5d58f3f29",
+            "commune_slug": "saint-hilliers",
+            "bio_localized": "Luc Gautier, électricien expert en domotique et automatisation à Saint-Hilliers, intervient depuis 20 ans en Seine-et-Marne. Spécialisé dans l'équipement des pavillons et résidences modernes, il propose des solutions intelligentes adaptées à votre habitat. Professionnel certifié, il garantit un service de qualité et votre entière satisfaction.",
+            "local_badge": "Électricien expert de Saint-Hilliers depuis longtemps",
+            "service_highlight": "Expert en domotique et automatisation électrique pour les résidences de Saint-Hilliers, modernisant votre habitat avec des solutions intelligentes.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Saint-Hilliers, interventions rapides et fiables",
+            "why_this_commune": "Luc Gautier est le choix idéal pour Saint-Hilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:19.542Z",
+            "used_fallback": false
+          },
+          "9cf3a72e-3ad2-4184-8bae-d61fea31fd92": {
+            "profile_id": "9cf3a72e-3ad2-4184-8bae-d61fea31fd92",
+            "commune_slug": "saint-hilliers",
+            "bio_localized": "Électricien professionnel à Saint-Hilliers depuis 13 ans, je spécialise dans l'éclairage LED haute performance. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, j'optimise votre consommation énergétique avec des solutions d'éclairage innovantes et durables, adaptées à tous les besoins résidentiels et commerciaux.",
+            "local_badge": "Électricien expert de Saint-Hilliers depuis longtemps",
+            "service_highlight": "Spécialiste de l'éclairage LED professionnel à Saint-Hilliers, optimisant consommation énergétique et ambiance lumineuse.",
+            "trust_signal": "13 ans d'expertise électrique au service des habitants de Saint-Hilliers",
+            "why_this_commune": "Florian Marchand, électricien local à Saint-Hilliers, maîtrise parfaitement les caractéristiques des bâtiments de la commune. Sa proximité garantit une intervention rapide et efficace. Fort de son expérience en Seine-et-Marne, il offre un service fiable et adapté aux besoins spécifiques du territoire.",
+            "generated_at": "2025-11-16T05:23:32.504Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}

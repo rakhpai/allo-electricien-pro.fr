@@ -1,0 +1,1131 @@
+{
+  "lastProcessedCommune": "autouillet",
+  "processedCommunes": [
+    "versailles",
+    "ablis",
+    "acheres",
+    "adainville",
+    "aigremont",
+    "allainville",
+    "andelu",
+    "andresy",
+    "arnouville-les-mantes",
+    "aubergenville",
+    "auffargis",
+    "auffreville-brasseuil",
+    "aulnay-sur-mauldre",
+    "auteuil",
+    "autouillet"
+  ],
+  "processed": {
+    "successful": 90,
+    "errors": 0,
+    "total": 132
+  },
+  "stats": {
+    "inputTokens": 97691,
+    "outputTokens": 24594,
+    "apiCalls": 450
+  },
+  "output": {
+    "generated_at": "2025-11-16T05:03:16.986Z",
+    "model": "claude-haiku-4-5-20251001",
+    "by_commune": {
+      "versailles": {
+        "commune_name": "VERSAILLES",
+        "postal_code": "78000",
+        "department": "78",
+        "electricians": {
+          "3397fcca-79fc-493e-a453-066721c8e105": {
+            "profile_id": "3397fcca-79fc-493e-a453-066721c8e105",
+            "commune_slug": "versailles",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Versailles, je maîtrise l'électricité générale sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Intervention rapide et travail soigné garantis dans les Yvelines. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Versailles, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Versailles pour tous vos besoins en installations et dépannages électriques résidentiels et tertiaires.",
+            "trust_signal": "16 ans d'expérience confirmée à Versailles, interventions rapides et fiables garanties",
+            "why_this_commune": "André Fabre est un excellent choix pour Versailles. Électricien local expérimenté, il maîtrise parfaitement les spécificités des bâtiments versaillais, des demeures anciennes aux résidences modernes. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue dans les Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:03:30.384Z",
+            "used_fallback": false
+          },
+          "fd4340cb-e5e3-4bda-8694-4b2b6a50d122": {
+            "profile_id": "fd4340cb-e5e3-4bda-8694-4b2b6a50d122",
+            "commune_slug": "versailles",
+            "bio_localized": "Paul Lefèvre, électricien à Versailles, intervient depuis 18 ans sur la rénovation électrique des bâtiments haussmanniens et pavillons des Yvelines. Spécialiste reconnu, il modernise les installations électriques anciennes avec expertise et sérieux, garantissant la sécurité de votre habitat versaillais.",
+            "local_badge": "Électricien expert de Versailles, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique pour les demeures anciennes et modernes de Versailles.",
+            "trust_signal": "18 ans d'expérience électricien à Versailles, interventions rapides et fiables garanties",
+            "why_this_commune": "Paul Lefevre est un excellent choix pour Versailles. Implanté localement, il connaît parfaitement les spécificités architecturales des quartiers versaillais, notamment les anciennes demeures. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service fiable et adapté.",
+            "generated_at": "2025-11-16T05:03:43.099Z",
+            "used_fallback": false
+          },
+          "2f0fd6ed-b3fe-4912-b1e3-a004c27e3505": {
+            "profile_id": "2f0fd6ed-b3fe-4912-b1e3-a004c27e3505",
+            "commune_slug": "versailles",
+            "bio_localized": "Électricien expérimenté à Versailles, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : haussmanniens historiques, pavillons et immeubles modernes. Avec 7 ans d'expérience dans les Yvelines, je garantis une prise en charge rapide et un travail soigné pour vos problèmes électriques, jour et nuit.",
+            "local_badge": "Électricien expert à Versailles, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Versailles pour tous vos dépannages et installations électriques rapides et fiables.",
+            "trust_signal": "7 ans d'expérience confirmée à Versailles, électricien fiable et réactif",
+            "why_this_commune": "Bernard Meyer est un excellent choix pour Versailles. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers distincts. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:03:56.051Z",
+            "used_fallback": false
+          },
+          "38f7ea7e-6de5-40ae-ade8-9f9412dcb273": {
+            "profile_id": "38f7ea7e-6de5-40ae-ade8-9f9412dcb273",
+            "commune_slug": "versailles",
+            "bio_localized": "Électricien expérimenté à Versailles depuis 11 ans, je maîtrise l'électricité générale sur tous types de bâtiments : haussmanniens historiques, pavillons et immeubles modernes. Interventions rapides et travail soigné garantis dans les Yvelines. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert à Versailles depuis années",
+            "service_highlight": "Électricien généraliste à Versailles, intervenant sur tous types d'installations électriques résidentielles et tertiaires avec professionnalisme.",
+            "trust_signal": "11 ans d'expérience confirmée à Versailles, électricien professionnel et fiable",
+            "why_this_commune": "Philippe Sanchez est un excellent choix pour Versailles. Électricien local maîtrisant parfaitement les spécificités architecturales de la commune, il intervient rapidement grâce à sa proximité. Son expérience confirmée dans les quartiers versaillais garantit un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:04:09.072Z",
+            "used_fallback": false
+          },
+          "f81aef13-41a0-4afd-bff8-d7fa1f59800f": {
+            "profile_id": "f81aef13-41a0-4afd-bff8-d7fa1f59800f",
+            "commune_slug": "versailles",
+            "bio_localized": "Fort de 8 années d'expérience, René Lefèvre intervient à Versailles pour la rénovation électrique de vos bâtiments haussmanniens, pavillons et immeubles modernes. Électricien spécialisé, il garantit des installations conformes et sécurisées, adaptées aux spécificités du patrimoine versaillais.",
+            "local_badge": "Électricien expert de Versailles, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en rénovation électrique à Versailles, expert des installations anciennes et modernes.",
+            "trust_signal": "8 ans d'expérience confirmée à Versailles, électricien fiable et professionnel",
+            "why_this_commune": "René Lefevre est le choix idéal pour Versailles. Installé localement, il maîtrise parfaitement les spécificités des bâtiments historiques et quartiers versaillais. Son expérience confirmée dans la zone garantit interventions rapides et solutions adaptées à votre patrimoine.",
+            "generated_at": "2025-11-16T05:04:23.307Z",
+            "used_fallback": false
+          },
+          "a9a358f1-6de8-4d35-acd2-e4b472093648": {
+            "profile_id": "a9a358f1-6de8-4d35-acd2-e4b472093648",
+            "commune_slug": "versailles",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Versailles, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble haussmannien, j'adapte mes solutions à votre habitat versaillais. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert de Versailles, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Versailles, intervenant sur résidences et immeubles.",
+            "trust_signal": "15 ans d'expérience, électricien certifié à Versailles, interventions rapides et fiables",
+            "why_this_commune": "Fabrice Meyer est le choix idéal pour Versailles. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments versaillais et des différents quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:04:35.932Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ablis": {
+        "commune_name": "ABLIS",
+        "postal_code": "78660",
+        "department": "78",
+        "electricians": {
+          "776b98df-4196-4812-b127-6a33cea0ef52": {
+            "profile_id": "776b98df-4196-4812-b127-6a33cea0ef52",
+            "commune_slug": "ablis",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Ablis, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis des installations conformes et durables. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert d'Ablis, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Ablis et alentours.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Ablis pour tous vos besoins",
+            "why_this_commune": "Julien Clement est le choix idéal pour Ablis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers ablisiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:04:48.608Z",
+            "used_fallback": false
+          },
+          "32429625-95d5-47f8-9a53-773b4ff6be05": {
+            "profile_id": "32429625-95d5-47f8-9a53-773b4ff6be05",
+            "commune_slug": "ablis",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Ablis, je maîtrise l'électricité générale pour tous types d'habitations. Des pavillons aux immeubles modernes des Yvelines, j'interviens rapidement avec professionnalisme. Diagnostic, installation et dépannage : votre confiance est ma priorité.",
+            "local_badge": "Électricien expert d'Ablis, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Ablis pour tous vos besoins en installation, dépannage et maintenance électrique résidentielle et commerciale.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Ablis et région",
+            "why_this_commune": "Philippe Giraud est le choix idéal pour Ablis grâce à sa connaissance approfondie des spécificités locales et de l'architecture yvelinoise. Basé dans la commune, il garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté aux besoins des habitants.",
+            "generated_at": "2025-11-16T05:05:01.381Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "ablis",
+            "bio_localized": "Électricien expérimenté depuis 12 ans, je propose un dépannage express adapté aux besoins d'Ablis et ses environs. Spécialisé dans l'intervention rapide sur pavillons et immeubles, je garantis des solutions fiables et durables. Disponible pour vos urgences électriques, je vous offre un service professionnel et rassurant.",
+            "local_badge": "Électricien expert à Ablis, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Ablis : interventions rapides et efficaces pour tous vos problèmes d'électricité domestique.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Ablis, intervention rapide garantie",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Ablis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers ablisiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:05:15.176Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "ablis",
+            "bio_localized": "Électricien expérimenté depuis 15 ans, je propose l'installation de bornes de recharge à Ablis et ses environs. Spécialisé dans les solutions adaptées aux pavillons et immeubles des Yvelines, je garantis des interventions rapides et professionnelles. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert à Ablis, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Ablis et ses alentours.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Ablis, interventions rapides et fiables",
+            "why_this_commune": "Guillaume Nguyen est un excellent choix pour Ablis. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers ablisiens. Sa proximité garantit des interventions rapides et fiables. Son expertise reconnue dans la zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:05:28.131Z",
+            "used_fallback": false
+          },
+          "48325c72-ab62-4be3-b948-53cf61e8ab5c": {
+            "profile_id": "48325c72-ab62-4be3-b948-53cf61e8ab5c",
+            "commune_slug": "ablis",
+            "bio_localized": "Nicolas Roche, électricien agréé Consuel à Ablis, met ses 12 années d'expertise au service des habitants des Yvelines. Spécialisé dans les installations électriques sécurisées, il intervient sur les pavillons et immeubles de la région. Professionnel fiable et certifié, il garantit la conformité de vos installations électriques.",
+            "local_badge": "Électricien expert à Ablis, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Ablis, je garantis la conformité et la sécurité de vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et réactif à Ablis",
+            "why_this_commune": "Nicolas Roche, électricien basé à Ablis, connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans la zone, il offre un service fiable et adapté aux besoins des habitants ablisiens.",
+            "generated_at": "2025-11-16T05:05:41.327Z",
+            "used_fallback": false
+          },
+          "299d0949-662c-4350-baf1-849a7305fef4": {
+            "profile_id": "299d0949-662c-4350-baf1-849a7305fef4",
+            "commune_slug": "ablis",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Ablis, je maîtrise tous les travaux d'électricité générale. Que vous habitiez un pavillon ou un immeuble des Yvelines, j'interviens rapidement pour vos installations, rénovations et dépannages. Professionnel fiable et rigoureux, je garantis un travail soigné et sécurisé.",
+            "local_badge": "Électricien expert à Ablis, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Ablis pour tous vos besoins en installations et dépannages électriques résidentiels et commerciaux.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Ablis et région",
+            "why_this_commune": "Philippe Picard est le choix idéal pour Ablis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers ablisiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:05:54.068Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "acheres": {
+        "commune_name": "ACHERES",
+        "postal_code": "78260",
+        "department": "78",
+        "electricians": {
+          "17c4b321-678e-4c19-8d0e-b298fbf8f10f": {
+            "profile_id": "17c4b321-678e-4c19-8d0e-b298fbf8f10f",
+            "commune_slug": "acheres",
+            "bio_localized": "Électricien expert à Achères depuis 11 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et professionnelles dans les Yvelines.",
+            "local_badge": "Électricien expert à Acheres, intervention rapide garantie",
+            "service_highlight": "Dépannage express d'électricité à Acheres : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "11 ans d'expérience électricien à Acheres, intervention rapide garantie",
+            "why_this_commune": "Vincent Dufour est le choix idéal pour Acheres. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:07.153Z",
+            "used_fallback": false
+          },
+          "8893afed-e537-4904-a11d-c02e9af53583": {
+            "profile_id": "8893afed-e537-4904-a11d-c02e9af53583",
+            "commune_slug": "acheres",
+            "bio_localized": "Olivier Roy, électricien agréé Consuel à Achères, intervient depuis 7 ans sur les pavillons et immeubles des Yvelines. Expert en conformité électrique, il sécurise les installations de votre maison avec professionnalisme et rigueur. Votre satisfaction et votre sécurité sont ses priorités.",
+            "local_badge": "Électricien expert d'Acheres, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Acheres, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "7 ans d'expérience confirmée à Acheres, interventions rapides et fiables garanties",
+            "why_this_commune": "Olivier Roy est le choix idéal pour Acheres. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments yvelinois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:20.382Z",
+            "used_fallback": false
+          },
+          "0cee1312-f85d-4deb-8ed4-acf9d78f5033": {
+            "profile_id": "0cee1312-f85d-4deb-8ed4-acf9d78f5033",
+            "commune_slug": "acheres",
+            "bio_localized": "Électricien expérimenté à Achères depuis 12 ans, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Intervention rapide, travail soigné et devis gratuit. Votre électricien de confiance dans les Yvelines.",
+            "local_badge": "Électricien expert d'Acheres, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant régulièrement sur les installations électriques résidentielles et commerciales d'Achères.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et reconnu à Acheres",
+            "why_this_commune": "Jean Roux est le choix idéal pour Acheres. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:06:33.258Z",
+            "used_fallback": false
+          },
+          "84410816-7e8b-4f89-b0ed-834cd8ad6e0d": {
+            "profile_id": "84410816-7e8b-4f89-b0ed-834cd8ad6e0d",
+            "commune_slug": "acheres",
+            "bio_localized": "Serge Lefebvre, électricien expert à Achères, intervient depuis 15 ans sur la rénovation électrique des pavillons et immeubles yvelinois. Spécialiste des installations anciennes et modernes, il sécurise vos installations avec professionnalisme et fiabilité, adaptant son expertise aux spécificités du patrimoine local.",
+            "local_badge": "Électricien expert à Acheres, intervention rapide",
+            "service_highlight": "Électricien spécialiste en rénovation électrique à Achères, je modernise vos installations anciennes avec expertise et professionnalisme.",
+            "trust_signal": "15 ans d'expérience électricien à Acheres, interventions rapides et fiables",
+            "why_this_commune": "Serge Lefebvre est le choix idéal pour Acheres. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone yvelinoise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:46.482Z",
+            "used_fallback": false
+          },
+          "c4019478-3336-4559-b4c5-87f5a791ea83": {
+            "profile_id": "c4019478-3336-4559-b4c5-87f5a791ea83",
+            "commune_slug": "acheres",
+            "bio_localized": "Électricien qualifié depuis 18 ans à Achères, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et immeubles des Yvelines, je garantis des installations conformes et sécurisées. Devis gratuit et service réactif pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Acheres, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Achères et ses environs.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Acheres, interventions rapides garanties",
+            "why_this_commune": "Fabrice Laurent est le choix idéal pour Acheres. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone yvelinoise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:06:59.442Z",
+            "used_fallback": false
+          },
+          "ee5ea699-62f0-4f17-81a9-446f16b3181f": {
+            "profile_id": "ee5ea699-62f0-4f17-81a9-446f16b3181f",
+            "commune_slug": "acheres",
+            "bio_localized": "Électricien expérimenté à Achères depuis 13 ans, je maîtrise l'électricité générale pour tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Interventions rapides et soignées garanties. Votre électricien de confiance dans les Yvelines.",
+            "local_badge": "Électricien expert d'Acheres, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Achères.",
+            "trust_signal": "13 ans d'expérience confirmée à Acheres, électricien fiable et professionnel",
+            "why_this_commune": "Pierre Girard est le choix idéal pour Acheres. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:07:12.694Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "adainville": {
+        "commune_name": "ADAINVILLE",
+        "postal_code": "78113",
+        "department": "78",
+        "electricians": {
+          "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f": {
+            "profile_id": "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f",
+            "commune_slug": "adainville",
+            "bio_localized": "Électricien expérimenté depuis 7 ans à Adainville, je maîtrise l'installation et la réparation électrique sur tous types de bâtiments, des pavillons aux immeubles modernes. Disponible 24/7 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné dans les Yvelines.",
+            "local_badge": "Électricien expert d'Adainville, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Adainville pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et réactif à Adainville",
+            "why_this_commune": "Christian Nguyen est un excellent choix pour Adainville. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Confiance et réactivité assurées.",
+            "generated_at": "2025-11-16T05:07:25.675Z",
+            "used_fallback": false
+          },
+          "e4a7bf69-b6c5-493b-9bfc-74962a88c383": {
+            "profile_id": "e4a7bf69-b6c5-493b-9bfc-74962a88c383",
+            "commune_slug": "adainville",
+            "bio_localized": "Olivier Morel, électricien agréé Consuel à Adainville, intervient depuis 10 ans auprès des résidents des Yvelines. Spécialiste des installations électriques pour pavillons et immeubles, il garantit la conformité de vos installations avec expertise et professionnalisme reconnu.",
+            "local_badge": "Électricien expert d'Adainville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Adainville, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "10 ans d'expérience, électricien certifié intervenant à Adainville",
+            "why_this_commune": "Olivier Morel est le choix idéal pour Adainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:07:38.801Z",
+            "used_fallback": false
+          },
+          "3c4f5665-cba0-45ea-b699-5854e3761764": {
+            "profile_id": "3c4f5665-cba0-45ea-b699-5854e3761764",
+            "commune_slug": "adainville",
+            "bio_localized": "Paul Marie, électricien expert à Adainville depuis 10 ans, spécialiste en rénovation électrique. Intervient sur pavillons et immeubles des Yvelines pour moderniser installations vieillissantes. Travail soigné, normes respectées, devis gratuit. Votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert d'Adainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, intervenant régulièrement à Adainville pour moderniser les installations des habitations anciennes.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et reconnu à Adainville",
+            "why_this_commune": "Paul Marie est un excellent choix pour Adainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:07:52.287Z",
+            "used_fallback": false
+          },
+          "962934b5-07e7-4a5b-a216-773d4e2412ba": {
+            "profile_id": "962934b5-07e7-4a5b-a216-773d4e2412ba",
+            "commune_slug": "adainville",
+            "bio_localized": "Olivier Denis, électricien agréé Consuel à Adainville, intervient depuis 12 ans sur les pavillons et petits immeubles des Yvelines. Spécialiste des installations électriques neuves et rénovations, il garantit la conformité de vos installations résidentielles avec expertise et professionnalisme reconnu.",
+            "local_badge": "Électricien expert d'Adainville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Adainville, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et réactif à Adainville",
+            "why_this_commune": "Olivier Denis est un excellent choix pour Adainville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:05.040Z",
+            "used_fallback": false
+          },
+          "a03ac559-191a-412f-b7bd-eafa0f1c62eb": {
+            "profile_id": "a03ac559-191a-412f-b7bd-eafa0f1c62eb",
+            "commune_slug": "adainville",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Adainville, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et résidences des Yvelines. Intervenant sur le 78, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Adainville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour sécuriser vos installations électriques à Adainville",
+            "trust_signal": "8 ans d'expérience confirmée, électricien de confiance à Adainville",
+            "why_this_commune": "Antoine François est un excellent choix pour Adainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:08:18.008Z",
+            "used_fallback": false
+          },
+          "e52bfe79-8d3e-4312-8328-70bc08a07d44": {
+            "profile_id": "e52bfe79-8d3e-4312-8328-70bc08a07d44",
+            "commune_slug": "adainville",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Adainville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles des Yvelines. Interventions rapides et fiables sur tous types d'installations. Devis gratuit. Votre sécurité électrique, ma priorité.",
+            "local_badge": "Électricien expert d'Adainville, interventions rapides garanties",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations et commerces d'Adainville, garantissant votre sécurité électrique.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Adainville, interventions rapides et fiables.",
+            "why_this_commune": "Denis Dubois est un excellent choix pour Adainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:08:32.112Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "aigremont": {
+        "commune_name": "AIGREMONT",
+        "postal_code": "78240",
+        "department": "78",
+        "electricians": {
+          "44ee9cad-d202-45a7-be30-c6c2be91082f": {
+            "profile_id": "44ee9cad-d202-45a7-be30-c6c2be91082f",
+            "commune_slug": "aigremont",
+            "bio_localized": "Électricien expérimenté depuis 16 ans, je propose un dépannage express à Aigremont et ses alentours. Spécialisé dans l'intervention rapide, j'interviens sur les pavillons et immeubles de la région des Yvelines. Votre satisfaction et votre sécurité électrique sont mes priorités.",
+            "local_badge": "Électricien expert d'Aigremont, interventions rapides garanties",
+            "service_highlight": "Dépannage électrique express à Aigremont : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Aigremont",
+            "why_this_commune": "Maxime Joly est le choix idéal pour Aigremont. Installé localement, il connaît parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure un service de qualité adapté à vos besoins spécifiques.",
+            "generated_at": "2025-11-16T05:08:45.632Z",
+            "used_fallback": false
+          },
+          "17c4b321-678e-4c19-8d0e-b298fbf8f10f": {
+            "profile_id": "17c4b321-678e-4c19-8d0e-b298fbf8f10f",
+            "commune_slug": "aigremont",
+            "bio_localized": "Électricien expérimenté depuis 11 ans, je propose un dépannage express à Aigremont et ses environs. Spécialisé dans l'intervention rapide sur pavillons et petits immeubles, je garantis une prise en charge immédiate de vos problèmes électriques. Disponible pour diagnostiquer et résoudre tous vos besoins en électricité.",
+            "local_badge": "Électricien expert d'Aigremont, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Aigremont : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Aigremont, interventions rapides et fiables",
+            "why_this_commune": "Vincent Dufour est le choix idéal pour Aigremont. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:08:59.649Z",
+            "used_fallback": false
+          },
+          "8893afed-e537-4904-a11d-c02e9af53583": {
+            "profile_id": "8893afed-e537-4904-a11d-c02e9af53583",
+            "commune_slug": "aigremont",
+            "bio_localized": "Olivier Roy, électricien agréé Consuel à Aigremont, intervient depuis 7 ans sur les pavillons et résidences des Yvelines. Spécialiste en conformité électrique, il sécurise vos installations avec expertise et professionnalisme. Diagnostics, mises aux normes et dépannages : votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert d'Aigremont, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Aigremont, expert en installations et conformité électrique pour tous vos travaux.",
+            "trust_signal": "7 ans d'expérience confirmée à Aigremont, électricien fiable et professionnel",
+            "why_this_commune": "Olivier Roy est le choix idéal pour Aigremont. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:09:13.530Z",
+            "used_fallback": false
+          },
+          "b4a5b724-b4d6-4adb-a20b-48a50a6de446": {
+            "profile_id": "b4a5b724-b4d6-4adb-a20b-48a50a6de446",
+            "commune_slug": "aigremont",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Aigremont, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles des Yvelines. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Aigremont, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Aigremont pour sécuriser vos installations électriques.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Aigremont, interventions rapides et fiables.",
+            "why_this_commune": "Charles Brun est le choix idéal pour Aigremont. Électricien local expérimenté, il maîtrise parfaitement les caractéristiques des bâtiments aigremontais. Sa proximité garantit des interventions rapides et efficaces. Connaissant intimement cette zone, il offre un service fiable et adapté.",
+            "generated_at": "2025-11-16T05:09:27.352Z",
+            "used_fallback": false
+          },
+          "96446663-775c-48d1-9986-743990a3933b": {
+            "profile_id": "96446663-775c-48d1-9986-743990a3933b",
+            "commune_slug": "aigremont",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Aigremont, je maîtrise le dépannage express pour tous les types d'habitations : pavillons, immeubles et résidences locales. Interventions rapides et fiables dans les Yvelines. Votre électricien de confiance pour tous vos problèmes électriques, disponible sans délai.",
+            "local_badge": "Électricien expert d'Aigremont, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Aigremont : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et réactif à Aigremont",
+            "why_this_commune": "Rémi Mathieu est le choix idéal pour Aigremont. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:40.465Z",
+            "used_fallback": false
+          },
+          "f3fbce48-15eb-4100-b27d-9ada551d5694": {
+            "profile_id": "f3fbce48-15eb-4100-b27d-9ada551d5694",
+            "commune_slug": "aigremont",
+            "bio_localized": "Électricien qualifié depuis 15 ans à Aigremont, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis une intervention professionnelle et rapide. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert d'Aigremont, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge pour véhicules électriques à Aigremont et ses alentours.",
+            "trust_signal": "15 ans d'expérience électricien confirmé à Aigremont, interventions rapides garanties",
+            "why_this_commune": "Jérôme Bourgeois est le choix idéal pour Aigremont. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide en cas d'urgence. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:09:53.321Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "allainville": {
+        "commune_name": "ALLAINVILLE",
+        "postal_code": "78660",
+        "department": "78",
+        "electricians": {
+          "776b98df-4196-4812-b127-6a33cea0ef52": {
+            "profile_id": "776b98df-4196-4812-b127-6a33cea0ef52",
+            "commune_slug": "allainville",
+            "bio_localized": "Électricien qualifié depuis 15 ans, je suis spécialisé dans l'installation de bornes de recharge à Allainville et ses environs. Je travaille sur tous types d'habitations, des pavillons aux immeubles modernes des Yvelines. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert d'Allainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Allainville pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "15 ans d'expérience confirmée à Allainville, électricien fiable et professionnel",
+            "why_this_commune": "Julien Clement est le choix idéal pour Allainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:10:08.196Z",
+            "used_fallback": false
+          },
+          "07438316-7166-4196-bf07-7265488d2459": {
+            "profile_id": "07438316-7166-4196-bf07-7265488d2459",
+            "commune_slug": "allainville",
+            "bio_localized": "Électricien expérimenté depuis 12 ans, je propose un dépannage express à Allainville et ses environs. Spécialisé dans l'intervention rapide sur pavillons et petits collectifs des Yvelines, je garantis des solutions fiables et durables. Disponible pour tous vos urgences électriques, je mets mon expertise au service de votre sécurité.",
+            "local_badge": "Électricien expert d'Allainville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Allainville : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Allainville, interventions rapides et fiables",
+            "why_this_commune": "Vincent Dumont est le choix idéal pour Allainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:10:21.929Z",
+            "used_fallback": false
+          },
+          "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4": {
+            "profile_id": "99bc3dfe-1d64-4c68-a9f7-7c3ab62a1eb4",
+            "commune_slug": "allainville",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Allainville, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis une mise en place conforme et sécurisée. Devis gratuit et intervention rapide dans votre commune.",
+            "local_badge": "Électricien expert d'Allainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Allainville pour véhicules électriques.",
+            "trust_signal": "15 ans d'expérience confirmée à Allainville, électricien fiable et professionnel",
+            "why_this_commune": "Guillaume Nguyen est un excellent choix pour Allainville. Implanté localement dans les Yvelines, il maîtrise parfaitement les spécificités architecturales et les quartiers d'Allainville. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:10:34.967Z",
+            "used_fallback": false
+          },
+          "c350c866-ecdd-441e-8b8a-072d21b643fb": {
+            "profile_id": "c350c866-ecdd-441e-8b8a-072d21b643fb",
+            "commune_slug": "allainville",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Allainville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles des Yvelines. Intervention rapide et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Allainville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour les habitations d'Allainville, garantissant votre sécurité électrique.",
+            "trust_signal": "19 ans d'expérience confirmée, électricien fiable et qualifié à Allainville",
+            "why_this_commune": "Denis Rodriguez est le choix idéal pour Allainville. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue dans la zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:10:47.792Z",
+            "used_fallback": false
+          },
+          "7f884274-63f8-44d2-8d8e-0e03a63f6270": {
+            "profile_id": "7f884274-63f8-44d2-8d8e-0e03a63f6270",
+            "commune_slug": "allainville",
+            "bio_localized": "Olivier Perez, électricien agréé Consuel à Allainville, intervient depuis 15 ans sur les pavillons et maisons individuelles des Yvelines. Fort de son expertise en installations électriques professionnelles, il garantit la conformité de vos installations et votre sécurité électrique avec rigueur et fiabilité.",
+            "local_badge": "Électricien expert d'Allainville, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Allainville, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Allainville, interventions rapides et fiables",
+            "why_this_commune": "Olivier Perez est le choix idéal pour Allainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:00.766Z",
+            "used_fallback": false
+          },
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "allainville",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Allainville, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Intervenant rapidement dans le 78660, je garantis une installation sécurisée et conforme. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert d'Allainville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations d'Allainville, garantissant sécurité et conformité électrique.",
+            "trust_signal": "10 ans d'expérience confirmée à Allainville, électricien fiable et professionnel",
+            "why_this_commune": "Antoine Vidal est le choix idéal pour Allainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:14.404Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "andelu": {
+        "commune_name": "ANDELU",
+        "postal_code": "78770",
+        "department": "78",
+        "electricians": {
+          "be598d59-42f6-4bb2-8dde-3c3e1172d5cb": {
+            "profile_id": "be598d59-42f6-4bb2-8dde-3c3e1172d5cb",
+            "commune_slug": "andelu",
+            "bio_localized": "Électricien expérimenté depuis 10 ans, je propose un dépannage express sur Andelu et ses environs. Spécialisé dans l'intervention rapide sur tous types de bâtiments, des pavillons aux immeubles modernes, je garantis une prise en charge réactive de vos problèmes électriques. Disponible pour vous servir.",
+            "local_badge": "Électricien expert d'Andelu, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Andelu : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "10 ans d'expérience électricien à Andelu, interventions rapides et fiables garanties",
+            "why_this_commune": "Thomas Petit est un excellent choix pour Andelu. Électricien local, il maîtrise parfaitement les spécificités architecturales et techniques des bâtiments yvelinois. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:11:27.606Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "andelu",
+            "bio_localized": "Électricien professionnel à Andelu depuis 8 ans, je spécialise dans l'éclairage LED haute performance pour les pavillons et bâtiments des Yvelines. Expertise reconnue en installations modernes et économes. Interventions rapides et fiables dans toute la région. Votre partenaire de confiance pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Andelu, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Andelu pour optimiser vos installations lumineuses.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et réactif à Andelu",
+            "why_this_commune": "Emmanuel Mathieu est le choix idéal pour Andelu. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et fiables. Son expérience confirmée dans la zone assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:11:40.346Z",
+            "used_fallback": false
+          },
+          "78bfc441-e8a4-45ad-8a46-b70cbefe8958": {
+            "profile_id": "78bfc441-e8a4-45ad-8a46-b70cbefe8958",
+            "commune_slug": "andelu",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Andelu, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et maisons anciennes des Yvelines. Interventions rapides et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Andelu, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Andelu pour sécuriser vos installations électriques.",
+            "trust_signal": "14 ans d'expérience électricien à Andelu, interventions rapides et fiables",
+            "why_this_commune": "Denis Fabre, électricien basé à Andelu, connaît parfaitement les spécificités du bâti local et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins des Andelliens.",
+            "generated_at": "2025-11-16T05:11:53.202Z",
+            "used_fallback": false
+          },
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "andelu",
+            "bio_localized": "Didier Renaud, électricien expert à Andelu, intervient depuis 11 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et résidences des Yvelines, il garantit des installations conformes et sécurisées. Service fiable et client au cœur de ses priorités.",
+            "local_badge": "Électricien expert d'Andelu, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques à Andelu pour tous vos besoins résidentiels et professionnels.",
+            "trust_signal": "11 ans d'expérience électricien confirmé à Andelu, interventions rapides et fiables",
+            "why_this_commune": "Didier Renaud, électricien établi à Andelu, maîtrise parfaitement les spécificités des bâtiments et quartiers yvelinois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T05:12:06.352Z",
+            "used_fallback": false
+          },
+          "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8": {
+            "profile_id": "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8",
+            "commune_slug": "andelu",
+            "bio_localized": "Électricien qualifié depuis 6 ans à Andelu, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble dans les Yvelines, je vous propose des solutions adaptées et fiables. Devis gratuit et intervention rapide garantis.",
+            "local_badge": "Électricien expert d'Andelu, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste des installations de bornes de recharge pour véhicules électriques à Andelu et ses environs.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et reconnu à Andelu",
+            "why_this_commune": "Fabrice Lemoine est le choix idéal pour Andelu. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:20.517Z",
+            "used_fallback": false
+          },
+          "2db9a453-6990-4b0a-be29-afcd187048e0": {
+            "profile_id": "2db9a453-6990-4b0a-be29-afcd187048e0",
+            "commune_slug": "andelu",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Andelu, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et maisons anciennes des Yvelines. Interventions rapides et devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert d'Andelu, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 intervenant régulièrement à Andelu pour sécuriser vos installations électriques.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Andelu, interventions rapides garanties",
+            "why_this_commune": "Denis François est le choix idéal pour Andelu. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers ydreliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:12:33.029Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "andresy": {
+        "commune_name": "ANDRESY",
+        "postal_code": "78570",
+        "department": "78",
+        "electricians": {
+          "6127c0eb-41bb-4b46-880d-13c84d805253": {
+            "profile_id": "6127c0eb-41bb-4b46-880d-13c84d805253",
+            "commune_slug": "andresy",
+            "bio_localized": "Électricien qualifié depuis 8 ans à Andresy, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Interventions rapides et fiables sur la commune. Devis gratuit. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert à Andresy, intervention rapide",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour sécuriser vos installations à Andresy.",
+            "trust_signal": "8 ans d'expérience confirmée à Andresy, électricien fiable et professionnel",
+            "why_this_commune": "Denis Thomas est un excellent choix pour Andresy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone yvelinoise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:12:45.623Z",
+            "used_fallback": false
+          },
+          "205178ec-517d-406d-b79f-e71f578c096a": {
+            "profile_id": "205178ec-517d-406d-b79f-e71f578c096a",
+            "commune_slug": "andresy",
+            "bio_localized": "Didier Fabre, électricien expert à Andresy, intervient depuis 18 ans sur l'installation et la rénovation de tableaux électriques. Spécialiste des pavillons et immeubles yvelinois, il garantit des installations conformes et sécurisées. Votre confiance est sa priorité.",
+            "local_badge": "Électricien expert d'Andresy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en installation de tableaux électriques à Andresy, intervenant sur tous types de bâtiments résidentiels et professionnels.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Andresy, interventions rapides et fiables",
+            "why_this_commune": "Didier Fabre, électricien basé à Andresy, maîtrise parfaitement les spécificités des bâtiments yveliniens. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience locale, il connaît les particularités du réseau électrique andrésien, assurant un service fiable et adapté.",
+            "generated_at": "2025-11-16T05:12:58.625Z",
+            "used_fallback": false
+          },
+          "57f429e4-7c5e-4db1-b561-d02a5d218e99": {
+            "profile_id": "57f429e4-7c5e-4db1-b561-d02a5d218e99",
+            "commune_slug": "andresy",
+            "bio_localized": "Électricien expérimenté depuis 9 ans, je suis spécialisé en installation de bornes de recharge à Andresy. Je travaille sur tous types d'habitations, des pavillons aux immeubles modernes des Yvelines. Intervention rapide, devis gratuit et conseils avisés pour vos projets de mobilité électrique.",
+            "local_badge": "Électricien expert d'Andresy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge à Andresy pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "9 ans d'expérience confirmée à Andresy, électricien fiable et réactif",
+            "why_this_commune": "Frédéric Dufour est le choix idéal pour Andresy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers d'Andresy. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:13:14.054Z",
+            "used_fallback": false
+          },
+          "62e5b045-4033-461f-a751-780630d65211": {
+            "profile_id": "62e5b045-4033-461f-a751-780630d65211",
+            "commune_slug": "andresy",
+            "bio_localized": "Nicolas Durand, électricien agréé Consuel à Andresy, met ses 18 ans d'expérience au service des résidents des Yvelines. Spécialiste des installations électriques, il intervient sur les pavillons et immeubles d'Andresy avec professionnalisme et sécurité. Conformité garantie pour vos travaux électriques.",
+            "local_badge": "Électricien expert à Andresy, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Andresy, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Andresy depuis des années",
+            "why_this_commune": "Nicolas Durand, électricien à Andresy, connaît parfaitement les spécificités des bâtiments et quartiers yvelinois. Sa proximité garantit une intervention rapide et efficace. Fort de son expérience locale, il offre un service fiable et adapté aux besoins des habitants d'Andresy.",
+            "generated_at": "2025-11-16T05:13:26.789Z",
+            "used_fallback": false
+          },
+          "6345041d-8709-46f7-b3c0-4dd086edcaff": {
+            "profile_id": "6345041d-8709-46f7-b3c0-4dd086edcaff",
+            "commune_slug": "andresy",
+            "bio_localized": "Électricien expérimenté à Andresy, je maîtrise l'électricité générale pour tous types de bâtiments. Des pavillons aux immeubles modernes des Yvelines, j'interviens rapidement avec professionnalisme. Diagnostic fiable, travail soigné et devis transparent garantis pour vos installations et rénovations électriques.",
+            "local_badge": "Électricien expert à Andresy, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant à Andresy pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "17 ans d'expérience électricien confirmé à Andresy, interventions rapides et fiables",
+            "why_this_commune": "Philippe Boyer est le choix idéal pour Andresy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone yvelinoise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:13:40.463Z",
+            "used_fallback": false
+          },
+          "a90c4c2c-d687-438e-aebb-6e9d1b14ef1f": {
+            "profile_id": "a90c4c2c-d687-438e-aebb-6e9d1b14ef1f",
+            "commune_slug": "andresy",
+            "bio_localized": "Électricien expert à Andresy, je maîtrise l'éclairage LED professionnel depuis 9 ans. Spécialisé dans la modernisation des pavillons et immeubles des Yvelines, j'optimise votre consommation énergétique avec des solutions durables et performantes. Disponible pour tous vos projets électriques.",
+            "local_badge": "Électricien expert d'Andresy, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en éclairage LED professionnel à Andresy, je transforme vos espaces avec des solutions lumineuses modernes et économes.",
+            "trust_signal": "9 ans d'expérience confirmée à Andresy, électricien fiable et professionnel",
+            "why_this_commune": "Alexandre Blanc est un excellent choix pour Andresy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers andrésiens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:13:53.976Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arnouville-les-mantes": {
+        "commune_name": "ARNOUVILLE-LÈS-MANTES",
+        "postal_code": "78790",
+        "department": "78",
+        "electricians": {
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "arnouville-les-mantes",
+            "bio_localized": "Électricien professionnel basé à Arnouville-Lès-Mantes, je maîtrise l'éclairage LED pour valoriser vos espaces. Que vous habitiez un pavillon ou un immeuble des Yvelines, je propose des solutions d'éclairage modernes, économes et durables. Fort de 8 ans d'expérience, je garantis un travail de qualité et des installations fiables.",
+            "local_badge": "Électricien expert d'Arnouville-Lès-Mantes, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises d'Arnouville-Lès-Mantes",
+            "trust_signal": "8 ans d'expérience électricien confirmé à Arnouville-Lès-Mantes, interventions rapides et fiables",
+            "why_this_commune": "Emmanuel Mathieu est le choix idéal pour Arnouville-Lès-Mantes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:14:07.140Z",
+            "used_fallback": false
+          },
+          "3c4f5665-cba0-45ea-b699-5854e3761764": {
+            "profile_id": "3c4f5665-cba0-45ea-b699-5854e3761764",
+            "commune_slug": "arnouville-les-mantes",
+            "bio_localized": "Paul Marie, électricien expert à Arnouville-Lès-Mantes, intervient depuis 10 ans sur la rénovation électrique. Spécialiste des installations anciennes et modernes, il sécurise pavillons et immeubles des Yvelines avec professionnalisme. Diagnostics complets et conformité aux normes garantis pour votre tranquillité.",
+            "local_badge": "Électricien expert à Arnouville-Lès-Mantes depuis années",
+            "service_highlight": "Rénovation électrique complète pour les maisons anciennes d'Arnouville-Lès-Mantes, mise aux normes garantie.",
+            "trust_signal": "10 ans d'expérience confirmée à Arnouville-Lès-Mantes, électricien fiable et réactif",
+            "why_this_commune": "Paul Marie est le choix idéal pour Arnouville-Lès-Mantes. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région des Yvelines assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:14:21.523Z",
+            "used_fallback": false
+          },
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "arnouville-les-mantes",
+            "bio_localized": "Didier Renaud, électricien expert à Arnouville-Lès-Mantes, intervient depuis 11 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles des Yvelines, il garantit des installations conformes et sécurisées. Service fiable et clientèle satisfaite.",
+            "local_badge": "Électricien expert d'Arnouville-Lès-Mantes depuis années",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques pour les résidences d'Arnouville-Lès-Mantes.",
+            "trust_signal": "11 ans d'expérience, électricien de confiance à Arnouville-Lès-Mantes, interventions rapides garanties",
+            "why_this_commune": "Didier Renaud est le choix idéal pour Arnouville-Lès-Mantes. Implanté localement, il maîtrise les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:14:35.148Z",
+            "used_fallback": false
+          },
+          "fdf33c99-b1fe-404f-b1af-32505f58f28b": {
+            "profile_id": "fdf33c99-b1fe-404f-b1af-32505f58f28b",
+            "commune_slug": "arnouville-les-mantes",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Arnouville-Lès-Mantes, Claude Lacroix intervient 24h/24 sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Dépannages d'urgence, diagnostics électriques et installations neuves. Professionnel fiable et réactif pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert d'Arnouville-Lès-Mantes depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Arnouville-Lès-Mantes pour vos dépannages et interventions rapides.",
+            "trust_signal": "18 ans d'expérience, électricien fiable à Arnouville-Lès-Mantes, intervention rapide garantie",
+            "why_this_commune": "Claude Lacroix est le choix idéal pour Arnouville-Lès-Mantes. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:14:48.389Z",
+            "used_fallback": false
+          },
+          "86acd082-48f3-4a40-80d6-b45f2a5086dc": {
+            "profile_id": "86acd082-48f3-4a40-80d6-b45f2a5086dc",
+            "commune_slug": "arnouville-les-mantes",
+            "bio_localized": "Expert en domotique et automatisation, Jacques Lucas intervient à Arnouville-Lès-Mantes et ses environs. Fort de 9 ans d'expérience, il modernise pavillons et immeubles avec des solutions intelligentes adaptées. Qualifié et à l'écoute, il garantit des installations fiables pour votre confort et sécurité.",
+            "local_badge": "Électricien expert d'Arnouville-Lès-Mantes depuis années",
+            "service_highlight": "Électricien domotique à Arnouville-Lès-Mantes, je conçois des systèmes d'automatisation innovants pour moderniser votre habitat.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et reconnu à Arnouville-Lès-Mantes",
+            "why_this_commune": "Jacques Lucas est le choix idéal pour Arnouville-Lès-Mantes. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone des Yvelines assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:15:02.610Z",
+            "used_fallback": false
+          },
+          "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e": {
+            "profile_id": "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e",
+            "commune_slug": "arnouville-les-mantes",
+            "bio_localized": "Électricien expérimenté depuis 18 ans, je spécialise dans l'installation de bornes de recharge à Arnouville-Lès-Mantes. Que vous habitiez un pavillon ou un immeuble, je garantis une intervention rapide et professionnelle. Devis gratuit et travail conforme aux normes. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert à Arnouville-Lès-Mantes depuis années",
+            "service_highlight": "Spécialiste en installation de bornes de recharge électrique pour véhicules à Arnouville-Lès-Mantes et ses alentours.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Arnouville-Lès-Mantes, interventions rapides garanties",
+            "why_this_commune": "Fabrice Vincent est le partenaire idéal pour Arnouville-Lès-Mantes. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Faites confiance à son expertise yvelinoise.",
+            "generated_at": "2025-11-16T05:15:17.112Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "aubergenville": {
+        "commune_name": "AUBERGENVILLE",
+        "postal_code": "78410",
+        "department": "78",
+        "electricians": {
+          "78bfc441-e8a4-45ad-8a46-b70cbefe8958": {
+            "profile_id": "78bfc441-e8a4-45ad-8a46-b70cbefe8958",
+            "commune_slug": "aubergenville",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Aubergenville, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles des Yvelines. Intervenant sur le patrimoine résidentiel local, j'assure la conformité électrique de vos installations. Devis gratuit et service fiable.",
+            "local_badge": "Électricien expert d'Aubergenville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous les logements d'Aubergenville, garantissant votre sécurité électrique.",
+            "trust_signal": "14 ans d'expérience confirmée à Aubergenville, électricien fiable et professionnel",
+            "why_this_commune": "Denis Fabre est le choix idéal pour Aubergenville. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:30.288Z",
+            "used_fallback": false
+          },
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "aubergenville",
+            "bio_localized": "Didier Renaud, électricien expert à Aubergenville, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 11 ans d'expérience, il accompagne les propriétaires de pavillons et d'immeubles des Yvelines. Sécurité et conformité garanties pour votre tranquillité.",
+            "local_badge": "Électricien expert d'Aubergenville depuis longtemps",
+            "service_highlight": "Électricien spécialiste de l'installation et la rénovation de tableaux électriques à Aubergenville pour tous types de bâtiments.",
+            "trust_signal": "11 ans d'expérience confirmée à Aubergenville, électricien de confiance",
+            "why_this_commune": "Didier Renaud est le choix idéal pour Aubergenville. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses différents quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:43.441Z",
+            "used_fallback": false
+          },
+          "4b8df981-4df5-47be-b50c-89661ac17dad": {
+            "profile_id": "4b8df981-4df5-47be-b50c-89661ac17dad",
+            "commune_slug": "aubergenville",
+            "bio_localized": "Électricien spécialisé en domotique et automatisation à Aubergenville, j'interviens sur les pavillons et immeubles des Yvelines. Fort de 17 ans d'expérience, je modernise vos installations électriques avec des solutions intelligentes et durables. Service fiable et client au cœur de mes priorités.",
+            "local_badge": "Électricien expert d'Aubergenville, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique résidentielle à Aubergenville : installations intelligentes et sécurisées pour votre confort.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Aubergenville",
+            "why_this_commune": "Luc Olivier est le choix idéal pour Aubergenville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:15:56.184Z",
+            "used_fallback": false
+          },
+          "a2dbe41e-167f-4230-879a-d7f2724235fc": {
+            "profile_id": "a2dbe41e-167f-4230-879a-d7f2724235fc",
+            "commune_slug": "aubergenville",
+            "bio_localized": "Fort de 9 années d'expérience, René François intervient à Aubergenville pour rénover l'électricité de vos pavillons et immeubles. Spécialiste des installations anciennes et modernes, il sécurise et modernise les systèmes électriques des habitations yvelinoises avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert d'Aubergenville, intervention rapide garantie",
+            "service_highlight": "Électricien expert en rénovation électrique à Aubergenville, je modernise les installations des maisons anciennes avec professionnalisme et fiabilité.",
+            "trust_signal": "9 ans d'expérience confirmée à Aubergenville, électricien fiable et professionnel",
+            "why_this_commune": "René François, électricien local à Aubergenville, connaît parfaitement les spécificités des bâtiments et quartiers yvelinois. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins résidentiels locaux.",
+            "generated_at": "2025-11-16T05:16:09.264Z",
+            "used_fallback": false
+          },
+          "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8": {
+            "profile_id": "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8",
+            "commune_slug": "aubergenville",
+            "bio_localized": "François Dumas, électricien expert à Aubergenville, intervient sur l'installation et la mise aux normes de tableaux électriques. Spécialisé dans les pavillons et immeubles des Yvelines, il garantit des installations sécurisées et conformes. Service fiable et professionnel pour vos besoins électriques.",
+            "local_badge": "Électricien expert d'Aubergenville, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Aubergenville pour tous types de bâtiments.",
+            "trust_signal": "6 ans d'expérience confirmée, interventions rapides et fiables à Aubergenville",
+            "why_this_commune": "François Dumas est le choix idéal pour Aubergenville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:16:22.216Z",
+            "used_fallback": false
+          },
+          "fdf33c99-b1fe-404f-b1af-32505f58f28b": {
+            "profile_id": "fdf33c99-b1fe-404f-b1af-32505f58f28b",
+            "commune_slug": "aubergenville",
+            "bio_localized": "Claude Lacroix, électricien professionnel à Aubergenville depuis 18 ans, intervient 24h/24 sur tous types de bâtiments : pavillons, immeubles et résidences. Spécialiste des urgences électriques, il garantit une intervention rapide et un travail soigné. Disponible immédiatement pour vos dépannages aux alentours des Yvelines.",
+            "local_badge": "Électricien expert d'Aubergenville depuis des années",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Aubergenville pour tous vos dépannages électriques et interventions rapides.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Aubergenville, interventions rapides garanties",
+            "why_this_commune": "Claude Lacroix est un excellent choix pour Aubergenville. Électricien expérimenté dans la commune, il maîtrise les spécificités des bâtiments locaux et quartiers. Sa proximité garantit des interventions rapides et fiables. Faites confiance à son expertise reconnue localement.",
+            "generated_at": "2025-11-16T05:16:35.091Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "auffargis": {
+        "commune_name": "AUFFARGIS",
+        "postal_code": "78610",
+        "department": "78",
+        "electricians": {
+          "299d0949-662c-4350-baf1-849a7305fef4": {
+            "profile_id": "299d0949-662c-4350-baf1-849a7305fef4",
+            "commune_slug": "auffargis",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Auffargis, je maîtrise l'électricité générale pour tous types de bâtiments. Des pavillons aux immeubles modernes des Yvelines, j'interviens rapidement avec professionnalisme. Diagnostic, installation et dépannage : votre confiance est ma priorité.",
+            "local_badge": "Électricien expert d'Auffargis, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Auffargis pour l'installation, la maintenance et la rénovation de vos installations électriques.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Auffargis, interventions rapides garanties",
+            "why_this_commune": "Philippe Picard est un excellent choix pour Auffargis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:16:48.410Z",
+            "used_fallback": false
+          },
+          "6dc4611f-694e-4e77-a92f-ea3e64b84379": {
+            "profile_id": "6dc4611f-694e-4e77-a92f-ea3e64b84379",
+            "commune_slug": "auffargis",
+            "bio_localized": "Électricien expérimenté depuis 5 ans, j'interviens à Auffargis et ses environs des Yvelines. Spécialisé en électricité générale, je maîtrise l'installation et la rénovation électrique pour pavillons et immeubles. Intervention rapide, travail soigné et devis transparent garantis pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert d'Auffargis, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques à Auffargis pour particuliers et professionnels.",
+            "trust_signal": "5 ans d'expérience confirmée à Auffargis, électricien fiable et réactif",
+            "why_this_commune": "Michel Nguyen est un excellent choix pour Auffargis. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:01.532Z",
+            "used_fallback": false
+          },
+          "48325c72-ab62-4be3-b948-53cf61e8ab5c": {
+            "profile_id": "48325c72-ab62-4be3-b948-53cf61e8ab5c",
+            "commune_slug": "auffargis",
+            "bio_localized": "Nicolas Roche, électricien agréé Consuel à Auffargis, met ses 12 années d'expertise au service des habitants des Yvelines. Spécialisé dans la conformité électrique, il intervient sur les pavillons et constructions modernes de la région. Professionnel reconnu pour ses diagnostics fiables et ses installations sécurisées.",
+            "local_badge": "Électricien expert d'Auffargis, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Auffargis, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Auffargis, interventions rapides et fiables",
+            "why_this_commune": "Nicolas Roche est un excellent choix pour Auffargis. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T05:17:14.835Z",
+            "used_fallback": false
+          },
+          "26380c3a-511a-4ea0-a7a0-f2cf4a8f0f79": {
+            "profile_id": "26380c3a-511a-4ea0-a7a0-f2cf4a8f0f79",
+            "commune_slug": "auffargis",
+            "bio_localized": "Électricien expérimenté depuis 6 ans à Auffargis, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments, des pavillons aux immeubles modernes. Disponible immédiatement pour vos problèmes électriques, je garantis un diagnostic rapide et un travail soigné. Votre sécurité est ma priorité.",
+            "local_badge": "Électricien expert d'Auffargis, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Auffargis pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Auffargis",
+            "why_this_commune": "Alain Gerard est le choix idéal pour Auffargis. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et les quartiers environnants. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:29.218Z",
+            "used_fallback": false
+          },
+          "1c5b6474-7345-4ed4-b2b8-2394c7e3c347": {
+            "profile_id": "1c5b6474-7345-4ed4-b2b8-2394c7e3c347",
+            "commune_slug": "auffargis",
+            "bio_localized": "Patrick Lucas, électricien agréé Consuel à Auffargis, met son expertise de 12 ans au service des habitants des Yvelines. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur les pavillons et immeubles de la région. Certifications et conformité garanties pour vos travaux.",
+            "local_badge": "Électricien expert d'Auffargis, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Auffargis, garantissant la conformité et la sécurité de vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et réactif à Auffargis",
+            "why_this_commune": "Patrick Lucas est un excellent choix pour Auffargis. Implanté localement, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone des Yvelines vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:42.793Z",
+            "used_fallback": false
+          },
+          "da993d21-e414-4e89-b434-db6da6de5870": {
+            "profile_id": "da993d21-e414-4e89-b434-db6da6de5870",
+            "commune_slug": "auffargis",
+            "bio_localized": "Serge Perez, électricien expert à Auffargis, intervient depuis 7 ans sur tous types de bâtiments. Spécialiste en rénovation électrique, il modernise pavillons et maisons anciennes des Yvelines avec professionnalisme. Diagnostics fiables, installations conformes et sécurisées pour votre tranquillité.",
+            "local_badge": "Électricien expert d'Auffargis, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en rénovation électrique, j'interviens régulièrement sur les installations anciennes d'Auffargis pour les moderniser.",
+            "trust_signal": "7 ans d'expérience confirmée à Auffargis, interventions rapides et fiables garanties",
+            "why_this_commune": "Serge Perez est le choix idéal pour Auffargis. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:55.812Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "auffreville-brasseuil": {
+        "commune_name": "AUFFREVILLE-BRASSEUIL",
+        "postal_code": "78930",
+        "department": "78",
+        "electricians": {
+          "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f": {
+            "profile_id": "be4dcf18-f5c7-4f5f-a6ad-e36d34626e7f",
+            "commune_slug": "auffreville-brasseuil",
+            "bio_localized": "Christian Nguyen, électricien professionnel depuis 7 ans à Auffreville-Brasseuil, intervient 24h/24 pour tous vos besoins électriques. Spécialisé en urgences, il maîtrise l'installation et la rénovation des pavillons et immeubles des Yvelines. Intervention rapide et travail soigné garantis.",
+            "local_badge": "Électricien expert d'Auffreville-Brasseuil depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Auffreville-Brasseuil pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "7 ans d'expérience confirmée à Auffreville-Brasseuil, électricien fiable et professionnel",
+            "why_this_commune": "Christian Nguyen est le choix idéal pour Auffreville-Brasseuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:18:09.362Z",
+            "used_fallback": false
+          },
+          "fdf33c99-b1fe-404f-b1af-32505f58f28b": {
+            "profile_id": "fdf33c99-b1fe-404f-b1af-32505f58f28b",
+            "commune_slug": "auffreville-brasseuil",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Auffreville-Brasseuil, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et anciennes demeures. Disponible immédiatement pour diagnostiquer et résoudre vos problèmes électriques. Travail soigné et fiable garanti.",
+            "local_badge": "Électricien expert d'Auffreville-Brasseuil depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 pour tous vos dépannages électriques à Auffreville-Brasseuil et ses environs.",
+            "trust_signal": "18 ans d'expérience, électricien fiable à Auffreville-Brasseuil, interventions rapides garanties",
+            "why_this_commune": "Claude Lacroix est le choix idéal pour Auffreville-Brasseuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:18:22.956Z",
+            "used_fallback": false
+          },
+          "3c4f5665-cba0-45ea-b699-5854e3761764": {
+            "profile_id": "3c4f5665-cba0-45ea-b699-5854e3761764",
+            "commune_slug": "auffreville-brasseuil",
+            "bio_localized": "Paul Marie, électricien expérimenté à Auffreville-Brasseuil, intervient depuis 10 ans sur la rénovation électrique. Spécialiste des installations anciennes et modernes, il rénove pavillons et immeubles des Yvelines avec professionnalisme. Travaux conformes aux normes, diagnostic complet et conseils adaptés à votre habitat.",
+            "local_badge": "Électricien expert d'Auffreville-Brasseuil, intervention rapide",
+            "service_highlight": "Spécialiste en rénovation électrique pour les maisons anciennes d'Auffreville-Brasseuil, modernisation complète de vos installations.",
+            "trust_signal": "10 ans d'expérience, électricien fiable à Auffreville-Brasseuil, interventions rapides garanties",
+            "why_this_commune": "Paul Marie, électricien local à Auffreville-Brasseuil, maîtrise parfaitement les spécificités architecturales et infrastructures électriques de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans les Yvelines assure un service fiable et de qualité adapté à vos besoins locaux.",
+            "generated_at": "2025-11-16T05:18:36.565Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "auffreville-brasseuil",
+            "bio_localized": "Électricien professionnel à Auffreville-Brasseuil depuis 8 ans, je spécialise dans l'éclairage LED pour les pavillons et immeubles des Yvelines. Maîtrisant les installations modernes et économes, j'interviens sur tous vos besoins électriques avec expertise et sérieux.",
+            "local_badge": "Électricien expert d'Auffreville-Brasseuil depuis des années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises d'Auffreville-Brasseuil",
+            "trust_signal": "8 ans d'expérience confirmée à Auffreville-Brasseuil, électricien fiable et professionnel",
+            "why_this_commune": "Emmanuel Mathieu est le choix idéal pour Auffreville-Brasseuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:18:49.552Z",
+            "used_fallback": false
+          },
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "auffreville-brasseuil",
+            "bio_localized": "Didier Renaud, électricien expert à Auffreville-Brasseuil, intervient sur l'installation et la rénovation de tableaux électriques. Avec 11 ans d'expérience, il sécurise les installations des pavillons et petits immeubles des Yvelines. Professionnel certifié, il garantit conformité et fiabilité pour votre tranquillité.",
+            "local_badge": "Électricien expert d'Auffreville-Brasseuil depuis des années",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques à Auffreville-Brasseuil pour résidences et petits collectifs.",
+            "trust_signal": "11 ans d'expérience confirmée à Auffreville-Brasseuil, électricien fiable et professionnel",
+            "why_this_commune": "Didier Renaud est le choix idéal pour Auffreville-Brasseuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers communaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:19:02.718Z",
+            "used_fallback": false
+          },
+          "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8": {
+            "profile_id": "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8",
+            "commune_slug": "auffreville-brasseuil",
+            "bio_localized": "François Dumas, électricien expert à Auffreville-Brasseuil, intervient sur l'installation de tableaux électriques depuis 6 ans. Spécialisé dans les pavillons et résidences des Yvelines, il garantit des installations conformes et sécurisées. Professionnel certifié, il privilégie la qualité et votre satisfaction.",
+            "local_badge": "Électricien expert d'Auffreville-Brasseuil depuis longtemps",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Auffreville-Brasseuil pour tous vos besoins résidentiels.",
+            "trust_signal": "6 ans d'expérience confirmée à Auffreville-Brasseuil, électricien fiable et réactif",
+            "why_this_commune": "François Dumas est le choix idéal pour Auffreville-Brasseuil. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers communaux. Sa proximité garantit des interventions rapides et fiables. Son expérience confirmée dans la zone assure des solutions adaptées à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:19:16.297Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "aulnay-sur-mauldre": {
+        "commune_name": "AULNAY-SUR-MAULDRE",
+        "postal_code": "78126",
+        "department": "78",
+        "electricians": {
+          "78bfc441-e8a4-45ad-8a46-b70cbefe8958": {
+            "profile_id": "78bfc441-e8a4-45ad-8a46-b70cbefe8958",
+            "commune_slug": "aulnay-sur-mauldre",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Aulnay-sur-Mauldre, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Interventions rapides et devis gratuits. Votre sécurité électrique est ma priorité en Yvelines.",
+            "local_badge": "Électricien expert à Aulnay-sur-Mauldre depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour les habitations d'Aulnay-sur-Mauldre, garantissant votre sécurité électrique.",
+            "trust_signal": "14 ans d'expérience confirmée à Aulnay-sur-Mauldre, électricien fiable et réactif",
+            "why_this_commune": "Denis Fabre, électricien local à Aulnay-sur-Mauldre, maîtrise parfaitement les spécificités des bâtiments et quartiers yveliniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:19:29.828Z",
+            "used_fallback": false
+          },
+          "7f012144-8bcb-4a4b-9b2b-401a4979dab1": {
+            "profile_id": "7f012144-8bcb-4a4b-9b2b-401a4979dab1",
+            "commune_slug": "aulnay-sur-mauldre",
+            "bio_localized": "Didier Renaud, électricien expert à Aulnay-sur-Mauldre, intervient sur l'installation et la mise aux normes de tableaux électriques. Fort de 11 ans d'expérience, il accompagne résidents des pavillons et immeubles locaux pour des installations sécurisées et conformes. Qualité et satisfaction client garanties.",
+            "local_badge": "Électricien expert d'Aulnay-sur-Mauldre, intervention rapide",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les résidences d'Aulnay-sur-Mauldre",
+            "trust_signal": "11 ans d'expérience, électricien fiable et reconnu à Aulnay-sur-Mauldre",
+            "why_this_commune": "Didier Renaud est le choix idéal pour Aulnay-sur-Mauldre. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Vous bénéficiez d'une expertise reconnue dans votre zone.",
+            "generated_at": "2025-11-16T05:19:42.745Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "aulnay-sur-mauldre",
+            "bio_localized": "Électricien expérimenté à Aulnay-sur-Mauldre, je maîtrise l'éclairage LED professionnel depuis 8 ans. Spécialisé dans l'optimisation énergétique des pavillons et bâtiments tertiaires des Yvelines, je propose des solutions d'éclairage modernes et durables. Disponible pour tous vos projets électriques en Île-de-France.",
+            "local_badge": "Électricien expert d'Aulnay-sur-Mauldre, intervention rapide",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Aulnay-sur-Mauldre pour optimiser vos consommations énergétiques.",
+            "trust_signal": "8 ans d'expérience, électricien qualifié à Aulnay-sur-Mauldre, interventions rapides et fiables",
+            "why_this_commune": "Emmanuel Mathieu, électricien local à Aulnay-sur-Mauldre, maîtrise parfaitement les spécificités architecturales de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans les Yvelines, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:19:55.908Z",
+            "used_fallback": false
+          },
+          "4b8df981-4df5-47be-b50c-89661ac17dad": {
+            "profile_id": "4b8df981-4df5-47be-b50c-89661ac17dad",
+            "commune_slug": "aulnay-sur-mauldre",
+            "bio_localized": "Électricien domotique à Aulnay-sur-Mauldre depuis 17 ans, je spécialise dans l'automatisation résidentielle pour pavillons et immeubles. Expert certifié, j'équipe vos installations des dernières technologies pour confort et sécurité. Intervention rapide en Yvelines, garantie satisfaction client assurée.",
+            "local_badge": "Électricien expert à Aulnay-sur-Mauldre, intervention rapide",
+            "service_highlight": "Automatisation et domotique pour maisons modernes à Aulnay-sur-Mauldre, solutions intelligentes et sur mesure.",
+            "trust_signal": "17 ans d'expérience confirmée, électricien fiable à Aulnay-sur-Mauldre",
+            "why_this_commune": "Luc Olivier est le choix idéal pour Aulnay-sur-Mauldre. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:11.546Z",
+            "used_fallback": false
+          },
+          "fdf33c99-b1fe-404f-b1af-32505f58f28b": {
+            "profile_id": "fdf33c99-b1fe-404f-b1af-32505f58f28b",
+            "commune_slug": "aulnay-sur-mauldre",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Aulnay-sur-Mauldre, Claude Lacroix intervient 24h/24 sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Diagnostic rapide, réparations fiables et dépannages d'urgence garantis. Votre électricité en toute sécurité.",
+            "local_badge": "Électricien expert d'Aulnay-sur-Mauldre, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 pour tous vos dépannages électriques à Aulnay-sur-Mauldre",
+            "trust_signal": "18 ans d'expérience électrique à Aulnay-sur-Mauldre, interventions rapides garanties",
+            "why_this_commune": "Claude Lacroix est le choix idéal pour Aulnay-sur-Mauldre. Basé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience confirmée dans cette zone garantit des interventions rapides et efficaces. Proximité et réactivité pour vos besoins électriques.",
+            "generated_at": "2025-11-16T05:20:24.979Z",
+            "used_fallback": false
+          },
+          "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8": {
+            "profile_id": "afcebfa7-fdf0-4770-9ee4-5e6f34382ee8",
+            "commune_slug": "aulnay-sur-mauldre",
+            "bio_localized": "Électricien expert à Aulnay-sur-Mauldre, François Dumas intervient sur l'installation de tableaux électriques pour les pavillons et résidences des Yvelines. Fort de 6 ans d'expérience, il garantit des installations conformes et sécurisées. Service fiable et client satisfait, c'est son engagement auprès des habitants du 78.",
+            "local_badge": "Électricien expert à Aulnay-sur-Mauldre",
+            "service_highlight": "Installation et mise aux normes de tableaux électriques pour les habitations d'Aulnay-sur-Mauldre",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable à Aulnay-sur-Mauldre, interventions rapides et garanties",
+            "why_this_commune": "François Dumas est le choix idéal pour Aulnay-sur-Mauldre. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:38.667Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "auteuil": {
+        "commune_name": "AUTEUIL",
+        "postal_code": "78770",
+        "department": "78",
+        "electricians": {
+          "be598d59-42f6-4bb2-8dde-3c3e1172d5cb": {
+            "profile_id": "be598d59-42f6-4bb2-8dde-3c3e1172d5cb",
+            "commune_slug": "auteuil",
+            "bio_localized": "Électricien expérimenté depuis 10 ans, je maîtrise le dépannage express sur Auteuil. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis une intervention rapide et fiable. Spécialiste des installations électriques, je suis votre partenaire de confiance pour tous vos besoins.",
+            "local_badge": "Électricien expert d'Auteuil, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Auteuil : interventions rapides et fiables pour tous vos problèmes électriques urgents.",
+            "trust_signal": "10 ans d'expérience confirmée à Auteuil, électricien fiable et réactif",
+            "why_this_commune": "Thomas Petit est le choix idéal pour Auteuil. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments auteuriens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:20:51.468Z",
+            "used_fallback": false
+          },
+          "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8": {
+            "profile_id": "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8",
+            "commune_slug": "auteuil",
+            "bio_localized": "Électricien qualifié depuis 6 ans, j'interviens à Auteuil pour l'installation de bornes de recharge. Spécialisé dans les solutions adaptées aux pavillons et immeubles des Yvelines, je garantis des travaux conformes et durables. Devis gratuit et interventions rapides dans votre commune.",
+            "local_badge": "Électricien expert d'Auteuil, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Auteuil, intervenant sur tous types d'habitations du quartier.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Auteuil",
+            "why_this_commune": "Fabrice Lemoine est le choix idéal pour Auteuil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers yvelinois. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:21:04.561Z",
+            "used_fallback": false
+          },
+          "2db9a453-6990-4b0a-be29-afcd187048e0": {
+            "profile_id": "2db9a453-6990-4b0a-be29-afcd187048e0",
+            "commune_slug": "auteuil",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Auteuil, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et immeubles des Yvelines. Intervenant sur le secteur de Maurepas et alentours, je garantis des installations sécurisées et conformes. Devis gratuit et service réactif.",
+            "local_badge": "Électricien expert d'Auteuil, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 pour tous les logements d'Auteuil, garantissant votre sécurité électrique.",
+            "trust_signal": "16 ans d'expérience confirmée à Auteuil, électricien de confiance",
+            "why_this_commune": "Denis François est un excellent choix pour Auteuil. Installé localement, il maîtrise parfaitement les spécificités des bâtiments et quartiers auteuilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:21:20.856Z",
+            "used_fallback": false
+          },
+          "114bfda2-e810-4893-aec0-6857ff3eee75": {
+            "profile_id": "114bfda2-e810-4893-aec0-6857ff3eee75",
+            "commune_slug": "auteuil",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Auteuil, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles des Yvelines. Intervenant sur les constructions anciennes comme modernes, je garantis votre sécurité électrique avec devis gratuit et service rapide en Île-de-France.",
+            "local_badge": "Électricien expert d'Auteuil, interventions rapides garanties",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Auteuil pour sécuriser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience confirmée à Auteuil, électricien fiable et professionnel",
+            "why_this_commune": "Charles Michel est le choix idéal pour Auteuil. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments yvelinois. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la région assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:35.002Z",
+            "used_fallback": false
+          },
+          "86acd082-48f3-4a40-80d6-b45f2a5086dc": {
+            "profile_id": "86acd082-48f3-4a40-80d6-b45f2a5086dc",
+            "commune_slug": "auteuil",
+            "bio_localized": "Jacques Lucas, électricien expert en domotique et automatisation à Auteuil, intervient depuis 9 ans dans les Yvelines. Spécialiste des installations intelligentes pour pavillons et immeubles, il modernise vos systèmes électriques avec professionnalisme. Certification reconnue et satisfaction client garantie.",
+            "local_badge": "Électricien expert d'Auteuil, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique pour les résidences d'Auteuil : installations intelligentes et sécurisées adaptées à votre habitat.",
+            "trust_signal": "9 ans d'expérience, électricien fiable et réactif à Auteuil",
+            "why_this_commune": "Jacques Lucas est un excellent choix pour Auteuil. Électricien établi localement, il maîtrise parfaitement les spécificités des bâtiments et quartiers d'Auteuil. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:48.102Z",
+            "used_fallback": false
+          },
+          "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e": {
+            "profile_id": "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e",
+            "commune_slug": "auteuil",
+            "bio_localized": "Électricien qualifié depuis 18 ans à Auteuil, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et immeubles des Yvelines, je garantis des installations conformes et sécurisées. Devis gratuit et intervention rapide pour tous vos besoins en électricité.",
+            "local_badge": "Électricien expert d'Auteuil, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Auteuil, expert en solutions de mobilité électrique pour particuliers et professionnels.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable et réactif à Auteuil",
+            "why_this_commune": "Fabrice Vincent est le choix idéal pour Auteuil. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments auteuilliens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:01.246Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "autouillet": {
+        "commune_name": "AUTOUILLET",
+        "postal_code": "78770",
+        "department": "78",
+        "electricians": {
+          "be598d59-42f6-4bb2-8dde-3c3e1172d5cb": {
+            "profile_id": "be598d59-42f6-4bb2-8dde-3c3e1172d5cb",
+            "commune_slug": "autouillet",
+            "bio_localized": "Électricien expérimenté à Autouillet depuis 10 ans, je maîtrise le dépannage express pour tous les types d'habitations. Que vous résidiez dans un pavillon ou un immeuble, je garantis une intervention rapide et fiable. Disponible pour vos urgences électriques dans les Yvelines.",
+            "local_badge": "Électricien expert à Autouillet depuis des années",
+            "service_highlight": "Dépannage électrique express à Autouillet : interventions rapides et efficaces pour tous vos problèmes électriques urgents.",
+            "trust_signal": "10 ans d'expérience confirmée à Autouillet, électricien fiable et réactif",
+            "why_this_commune": "Thomas Petit est le choix idéal pour Autouillet. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone des Yvelines assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:22:14.231Z",
+            "used_fallback": false
+          },
+          "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8": {
+            "profile_id": "b8cd5a94-f8b4-4f04-baea-a09c4403f3d8",
+            "commune_slug": "autouillet",
+            "bio_localized": "Électricien qualifié depuis 6 ans à Autouillet, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous résidiez en pavillon ou immeuble dans les Yvelines, je propose des solutions adaptées à votre habitat. Devis gratuit et interventions rapides garantis.",
+            "local_badge": "Électricien expert d'Autouillet, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge à Autouillet pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et disponible à Autouillet",
+            "why_this_commune": "Fabrice Lemoine, électricien local à Autouillet, maîtrise parfaitement les spécificités des bâtiments yveliniens. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans la région, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:22:27.381Z",
+            "used_fallback": false
+          },
+          "2db9a453-6990-4b0a-be29-afcd187048e0": {
+            "profile_id": "2db9a453-6990-4b0a-be29-afcd187048e0",
+            "commune_slug": "autouillet",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Autouillet, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et maisons de la région. Intervenant rapidement dans les Yvelines, je garantis des installations sécurisées et conformes. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert d'Autouillet, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous les logements d'Autouillet, garantissant votre sécurité électrique.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Autouillet, intervention rapide garantie",
+            "why_this_commune": "Denis François, électricien établi à Autouillet, connaît parfaitement les spécificités des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure un service de qualité adapté aux besoins des habitants d'Autouillet.",
+            "generated_at": "2025-11-16T05:22:40.516Z",
+            "used_fallback": false
+          },
+          "86acd082-48f3-4a40-80d6-b45f2a5086dc": {
+            "profile_id": "86acd082-48f3-4a40-80d6-b45f2a5086dc",
+            "commune_slug": "autouillet",
+            "bio_localized": "Jacques Lucas, électricien expert en domotique et automatisation à Autouillet, intervient sur les pavillons et maisons modernes des Yvelines depuis 9 ans. Spécialiste certifié, il modernise vos installations électriques avec solutions domotiques innovantes. Qualité, fiabilité et satisfaction client garanties en Île-de-France.",
+            "local_badge": "Électricien expert d'Autouillet, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation à Autouillet pour moderniser vos installations électriques.",
+            "trust_signal": "9 ans d'expérience électricien à Autouillet, interventions rapides et fiables garanties",
+            "why_this_commune": "Jacques Lucas est le choix idéal pour Autouillet. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone des Yvelines assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:22:53.620Z",
+            "used_fallback": false
+          },
+          "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e": {
+            "profile_id": "1dd6da75-ca3e-4a88-a6f1-f0a74a6f8d1e",
+            "commune_slug": "autouillet",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Autouillet, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble des Yvelines, je garantis des travaux conformes et rapides. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert d'Autouillet, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge pour véhicules électriques à Autouillet et ses alentours.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Autouillet",
+            "why_this_commune": "Fabrice Vincent, électricien basé à Autouillet, connaît parfaitement les spécificités des bâtiments yvelinois. Sa proximité garantit une intervention rapide et réactive. Son expérience confirmée dans cette zone assure un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:23:06.567Z",
+            "used_fallback": false
+          },
+          "655ad162-5cc2-46e1-a0f7-b562f523b00a": {
+            "profile_id": "655ad162-5cc2-46e1-a0f7-b562f523b00a",
+            "commune_slug": "autouillet",
+            "bio_localized": "Électricien professionnel basé à Autouillet, je maîtrise l'éclairage LED depuis 8 ans. Spécialisé dans les solutions d'éclairage innovantes, j'interviens sur les pavillons et résidences des Yvelines. Qualifié et fiable, je garantis des installations durables et économes. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert d'Autouillet, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et bâtiments d'Autouillet, optimisant votre consommation énergétique.",
+            "trust_signal": "8 ans d'expérience électricien confirmé à Autouillet, intervention rapide garantie",
+            "why_this_commune": "Emmanuel Mathieu est un excellent choix pour Autouillet. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:20.167Z",
+            "used_fallback": false
+          }
+        }
+      }
+    }
+  }
+}
