@@ -1,0 +1,30 @@
+# Cloudflare Worker Configuration for allo-electricien.pro API
+name = "allo-electricien-api"
+main = "index.js"
+compatibility_date = "2024-11-13"
+
+# Account configuration
+account_id = "7dc41b0885c9c46256b04334123e972e"
+
+# Development settings
+workers_dev = false
+preview_urls = false
+
+# Routes for allo-electricien.pro domain
+# Zone ID: e7e30fa320c445d7113aef404655ca7a
+[[routes]]
+pattern = "allo-electricien.pro/api/*"
+zone_id = "e7e30fa320c445d7113aef404655ca7a"
+
+[[routes]]
+pattern = "www.allo-electricien.pro/api/*"
+zone_id = "e7e30fa320c445d7113aef404655ca7a"
+
+# Environment variables (non-sensitive)
+[vars]
+API_VERSION = "1.0.0"
+ENVIRONMENT = "production"
+
+# Observability
+[observability]
+enabled = true

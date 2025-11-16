@@ -1,0 +1,35 @@
+# Cloudflare Worker Configuration for allo-electricien.pro Router
+name = "allo-electricien-router"
+main = "index.js"
+compatibility_date = "2024-11-13"
+
+# Account configuration
+account_id = "7dc41b0885c9c46256b04334123e972e"
+
+# Security: Disable public workers.dev access
+workers_dev = false
+preview_urls = false
+
+# Routes for allo-electricien.pro domain
+# This worker handles ALL traffic for allo-electricien.pro and routes it appropriately
+# Zone ID: e7e30fa320c445d7113aef404655ca7a
+[[routes]]
+pattern = "allo-electricien.pro/*"
+zone_id = "e7e30fa320c445d7113aef404655ca7a"
+
+[[routes]]
+pattern = "www.allo-electricien.pro/*"
+zone_id = "e7e30fa320c445d7113aef404655ca7a"
+
+# Also handle root domain without trailing slash
+[[routes]]
+pattern = "allo-electricien.pro"
+zone_id = "e7e30fa320c445d7113aef404655ca7a"
+
+[[routes]]
+pattern = "www.allo-electricien.pro"
+zone_id = "e7e30fa320c445d7113aef404655ca7a"
+
+# Observability
+[observability]
+enabled = true

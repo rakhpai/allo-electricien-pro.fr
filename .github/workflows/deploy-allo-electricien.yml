@@ -1,0 +1,95 @@
+name: Deploy allo-electricien.pro to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - 'content/**'
+      - 'layouts/**'
+      - 'static/**'
+      - 'data/**'
+      - 'hugo.toml'
+      - 'scripts/cloudflare/**'
+      - '.github/workflows/deploy-allo-electricien.yml'
+  workflow_dispatch:
+    inputs:
+      skip_build:
+        description: 'Skip Hugo build (use existing public/)'
+        required: false
+        type: boolean
+        default: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    name: Deploy to Cloudflare Pages
+    environment: production
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Install dependencies
+        run: |
+          npm ci
+
+      - name: Build Hugo site
+        if: ${{ !inputs.skip_build }}
+        run: |
+          hugo --gc --minify --environment production --verbose
+
+      - name: Verify build output
+        run: |
+          if [ ! -f public/index.html ]; then
+            echo "Error: Build output missing!"
+            exit 1
+          fi
+          echo "✅ Build successful!"
+          echo "Files: $(find public -type f | wc -l)"
+          echo "Size: $(du -sh public | cut -f1)"
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=allo-electricien-main --branch=production
+
+      - name: Deployment summary
+        run: |
+          echo "✅ Deployment completed successfully!"
+          echo ""
+          echo "📊 Deployment Info:"
+          echo "   Project: allo-electricien-main"
+          echo "   Branch: ${{ github.ref_name }}"
+          echo "   Environment: Production"
+          echo "   Commit: ${{ github.sha }}"
+          echo ""
+          echo "🌐 URLs:"
+          echo "   Staging: https://allo-electricien-main.pages.dev"
+          echo "   Production: https://allo-electricien.pro"
+          echo ""
+          echo "🔀 Routing:"
+          echo "   allo-electricien.pro/*    → allo-electricien-router Worker"
+          echo "   ├─ /api/*                 → allo-electricien-api Worker"
+          echo "   └─ /* (all else)          → allo-electricien-main Pages"
+          echo ""
+          echo "⚠️ Note: If this is the first deployment:"
+          echo "   1. Configure custom domain at: https://dash.cloudflare.com → Workers & Pages → allo-electricien-main"
+          echo "   2. Deploy workers: node scripts/cloudflare/deploy-all.cjs --workers-only"

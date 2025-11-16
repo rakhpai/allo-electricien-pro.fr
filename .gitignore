@@ -51,3 +51,9 @@ debug/
 # Node modules
 node_modules/
 package-lock.json
+
+# Cloudflare Workers
+.wrangler/
+workers/*/node_modules/
+workers/*/.wrangler/
+workers/*/.dev.vars
