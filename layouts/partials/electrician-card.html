@@ -29,7 +29,12 @@
 {{ $phoneHref := default $profile.phone $profile.phone_href }}
 
 {{/* Build profile URL and page context */}}
-{{ $profileUrl := printf "/profiles/%s/" $profile.id }}
+{{/* Generate slug matching profile page URL pattern: firstname-lastname-shortid */}}
+{{ $shortId := substr $profile.id 0 8 }}
+{{ $firstNameSlug := $profile.first_name | lower | replaceRE "[^a-z0-9]+" "-" }}
+{{ $lastNameSlug := $profile.last_name | lower | replaceRE "[^a-z0-9]+" "-" }}
+{{ $slug := printf "%s-%s-%s" $firstNameSlug $lastNameSlug $shortId }}
+{{ $profileUrl := printf "/profiles/%s/" $slug }}
 {{ $page := .Page }}
 {{ $cityName := "" }}
 {{ if $page }}
