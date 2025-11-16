@@ -1,5 +1,5 @@
 {
-  "lastProcessedCommune": "dammarie-les-lys",
+  "lastProcessedCommune": "dhuisy",
   "processedCommunes": [
     "crecy-la-chapelle",
     "cregy-les-meaux",
@@ -10,17 +10,22 @@
     "cucharmoy",
     "cuisy",
     "dagny",
-    "dammarie-les-lys"
+    "dammarie-les-lys",
+    "dammartin-en-goele",
+    "dammartin-sur-tigeaux",
+    "dampmart",
+    "darvault",
+    "dhuisy"
   ],
   "processed": {
-    "successful": 60,
+    "successful": 90,
     "errors": 0,
     "total": 128
   },
   "stats": {
-    "inputTokens": 67806,
-    "outputTokens": 17086,
-    "apiCalls": 300
+    "inputTokens": 101158,
+    "outputTokens": 25444,
+    "apiCalls": 450
   },
   "output": {
     "generated_at": "2025-11-16T05:03:11.003Z",
@@ -752,6 +757,371 @@
             "trust_signal": "17 ans d'expérience électricien confirmé à Dammarie-les-Lys",
             "why_this_commune": "Bernard Lucas, électricien local à Dammarie-les-Lys, connaît parfaitement les spécificités des bâtiments et quartiers de Seine-et-Marne. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la région assure un service fiable et adapté à vos besoins.",
             "generated_at": "2025-11-16T05:17:16.979Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "dammartin-en-goele": {
+        "commune_name": "DAMMARTIN-EN-GOELE",
+        "postal_code": "77230",
+        "department": "77",
+        "electricians": {
+          "37930c85-1e07-4a6a-bec5-6b9ea13dcee7": {
+            "profile_id": "37930c85-1e07-4a6a-bec5-6b9ea13dcee7",
+            "commune_slug": "dammartin-en-goele",
+            "bio_localized": "Robert Morel, électricien à Dammartin-en-Goele, fort de 15 ans d'expérience, intervient sur la rénovation électrique des pavillons et immeubles de Seine-et-Marne. Spécialiste reconnu, il modernise les installations anciennes avec professionnalisme et sécurité, adaptant ses solutions aux besoins spécifiques de chaque habitation locale.",
+            "local_badge": "Électricien expert de Dammartin-en-Goele depuis des années",
+            "service_highlight": "Expert en rénovation électrique pour les maisons et immeubles anciens de Dammartin-en-Goele, je modernise vos installations en toute sécurité.",
+            "trust_signal": "15 ans d'expertise électrique à Dammartin-en-Goele, intervention rapide garantie",
+            "why_this_commune": "Robert Morel est le choix idéal pour Dammartin-en-Goele. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:30.213Z",
+            "used_fallback": false
+          },
+          "445ee13c-2473-43fa-9667-3182e9d9e1ee": {
+            "profile_id": "445ee13c-2473-43fa-9667-3182e9d9e1ee",
+            "commune_slug": "dammartin-en-goele",
+            "bio_localized": "Robert Leroy, électricien expert à Dammartin-en-Goele, intervient depuis 18 ans sur la rénovation électrique des pavillons et immeubles de Seine-et-Marne. Spécialiste reconnu, il modernise les installations vieillissantes avec professionnalisme et fiabilité, garantissant la sécurité de votre habitat.",
+            "local_badge": "Électricien expert de Dammartin-en-Goele depuis longtemps",
+            "service_highlight": "Expert en rénovation électrique pour les maisons et immeubles anciens de Dammartin-en-Goele, intervention rapide et professionnelle.",
+            "trust_signal": "18 ans d'expérience électricien à Dammartin-en-Goele, interventions rapides et fiables",
+            "why_this_commune": "Robert Leroy est un excellent choix pour Dammartin-en-Goele. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:43.239Z",
+            "used_fallback": false
+          },
+          "d820c27d-817a-4c5b-a19a-5b1af57c8914": {
+            "profile_id": "d820c27d-817a-4c5b-a19a-5b1af57c8914",
+            "commune_slug": "dammartin-en-goele",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Dammartin-en-Goele, Philippe Bourgeois intervient sur tous vos besoins en électricité générale. Spécialisé dans l'entretien et la rénovation des pavillons et immeubles locaux, il garantit des interventions rapides et un travail soigné. Votre électricien de confiance en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Dammartin-en-Goele depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Dammartin-en-Goele pour tous vos besoins en installations et dépannages électriques résidentiels.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Dammartin-en-Goele",
+            "why_this_commune": "Philippe Bourgeois est le choix idéal pour Dammartin-en-Goele. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:17:56.070Z",
+            "used_fallback": false
+          },
+          "c27a67dd-7b00-4bf4-a2a6-a7ce0dca0bb7": {
+            "profile_id": "c27a67dd-7b00-4bf4-a2a6-a7ce0dca0bb7",
+            "commune_slug": "dammartin-en-goele",
+            "bio_localized": "Électricien expérimenté depuis 19 ans, Eric Boyer intervient à Dammartin-en-Goele pour l'installation et la mise aux normes de tableaux électriques. Spécialiste des pavillons et immeubles locaux, il garantit des installations sécurisées et conformes, avec un engagement envers la satisfaction client et la qualité du travail.",
+            "local_badge": "Électricien expert de Dammartin-en-Goele depuis des années",
+            "service_highlight": "Spécialiste en installation et maintenance de tableaux électriques pour les résidences de Dammartin-en-Goele.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Dammartin-en-Goele, interventions rapides garanties",
+            "why_this_commune": "Eric Boyer est le choix idéal pour Dammartin-en-Goele. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et une grande réactivité.",
+            "generated_at": "2025-11-16T05:18:10.175Z",
+            "used_fallback": false
+          },
+          "066b3c21-f8c9-44e9-8639-7c7a547de869": {
+            "profile_id": "066b3c21-f8c9-44e9-8639-7c7a547de869",
+            "commune_slug": "dammartin-en-goele",
+            "bio_localized": "Didier Jean, électricien expert à Dammartin-en-Goele, intervient depuis 13 ans sur l'installation et la rénovation de tableaux électriques. Spécialisé dans les pavillons et immeubles de Seine-et-Marne, il garantit des installations conformes et sécurisées. Service fiable et client satisfait, votre confiance est sa priorité.",
+            "local_badge": "Électricien expert de Dammartin-en-Goele depuis des années",
+            "service_highlight": "Spécialiste en installation et mise aux normes de tableaux électriques pour les résidences de Dammartin-en-Goele.",
+            "trust_signal": "13 ans d'expérience électrique à Dammartin-en-Goele, interventions fiables et rapides",
+            "why_this_commune": "Didier Jean est le choix idéal pour Dammartin-en-Goele. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:18:24.322Z",
+            "used_fallback": false
+          },
+          "e0004f52-f09a-459d-8ab4-60afecca077e": {
+            "profile_id": "e0004f52-f09a-459d-8ab4-60afecca077e",
+            "commune_slug": "dammartin-en-goele",
+            "bio_localized": "René Girard, électricien expert à Dammartin-en-Goele, intervient depuis 20 ans sur la rénovation électrique des pavillons et immeubles de Seine-et-Marne. Spécialiste reconnu des installations aux normes, il sécurise et modernise votre habitat avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Dammartin-en-Goele depuis des années",
+            "service_highlight": "Expert en rénovation électrique pour les maisons et immeubles anciens de Dammartin-en-Goele, je modernise vos installations en toute sécurité.",
+            "trust_signal": "20 ans d'expertise électrique à Dammartin-en-Goele, interventions rapides et fiables",
+            "why_this_commune": "René Girard, électricien local à Dammartin-en-Goele, maîtrise parfaitement les spécificités architecturales de la commune. Sa proximité garantit des interventions rapides et réactives. Fort d'une expérience confirmée dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:18:37.639Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "dammartin-sur-tigeaux": {
+        "commune_name": "DAMMARTIN-SUR-TIGEAUX",
+        "postal_code": "77163",
+        "department": "77",
+        "electricians": {
+          "c4e25591-90e8-4f2d-9be0-de8e3a9e634d": {
+            "profile_id": "c4e25591-90e8-4f2d-9be0-de8e3a9e634d",
+            "commune_slug": "dammartin-sur-tigeaux",
+            "bio_localized": "Électricien professionnel à Dammartin-sur-Tigeaux, je maîtrise l'éclairage LED pour les pavillons et bâtiments de Seine-et-Marne. Avec 5 ans d'expérience, je propose des solutions d'éclairage modernes, économes et durables. Disponible pour vos installations électriques complètes, je garantis un travail soigné et fiable.",
+            "local_badge": "Électricien expert de Dammartin-sur-Tigeaux",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les entreprises et collectivités de Dammartin-sur-Tigeaux",
+            "trust_signal": "5 ans d'expérience confirmée à Dammartin-sur-Tigeaux, électricien fiable et réactif",
+            "why_this_commune": "Emmanuel Morel, électricien local à Dammartin-sur-Tigeaux, maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne en fait un partenaire fiable pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:18:50.383Z",
+            "used_fallback": false
+          },
+          "a79f112a-a961-45ca-a857-6615a6fd5d5a": {
+            "profile_id": "a79f112a-a961-45ca-a857-6615a6fd5d5a",
+            "commune_slug": "dammartin-sur-tigeaux",
+            "bio_localized": "Électricien expert à Dammartin-sur-Tigeaux depuis 10 ans, je maîtrise l'installation et la mise aux normes de tableaux électriques pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble, je garantis des installations sécurisées et conformes. Service fiable et professionnel en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Dammartin-sur-Tigeaux",
+            "service_highlight": "Installation et rénovation de tableaux électriques pour les résidences de Dammartin-sur-Tigeaux, sécurité garantie.",
+            "trust_signal": "10 ans d'expérience électricien confirmé à Dammartin-sur-Tigeaux, interventions rapides et fiables",
+            "why_this_commune": "Eric Lemoine est le choix idéal pour Dammartin-sur-Tigeaux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:19:03.209Z",
+            "used_fallback": false
+          },
+          "31d6496e-3370-49f5-99bd-d4b697489f61": {
+            "profile_id": "31d6496e-3370-49f5-99bd-d4b697489f61",
+            "commune_slug": "dammartin-sur-tigeaux",
+            "bio_localized": "Stéphane Martinez, électricien expert à Dammartin-sur-Tigeaux, intervient depuis 17 ans sur la rénovation électrique. Spécialisé dans la mise aux normes des pavillons et immeubles locaux, il garantit des installations sécurisées et durables. Votre confiance est sa priorité.",
+            "local_badge": "Électricien expert de Dammartin-sur-Tigeaux",
+            "service_highlight": "Rénovation électrique complète pour maisons anciennes et modernes à Dammartin-sur-Tigeaux et alentours",
+            "trust_signal": "17 ans d'expérience électricien à Dammartin-sur-Tigeaux, interventions rapides garanties",
+            "why_this_commune": "Stéphane Martinez est le choix idéal pour Dammartin-sur-Tigeaux. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:16.851Z",
+            "used_fallback": false
+          },
+          "f3ff68cb-f252-41bb-b9ba-1f0b1f237558": {
+            "profile_id": "f3ff68cb-f252-41bb-b9ba-1f0b1f237558",
+            "commune_slug": "dammartin-sur-tigeaux",
+            "bio_localized": "Didier David, électricien expert à Dammartin-sur-Tigeaux, intervient depuis 14 ans sur l'installation de tableaux électriques. Spécialiste reconnu des pavillons et petits immeubles de Seine-et-Marne, il garantit des installations conformes et durables. Service fiable et professionnel pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Dammartin-sur-Tigeaux",
+            "service_highlight": "Installation et maintenance de tableaux électriques pour résidences et commerces à Dammartin-sur-Tigeaux, garantissant sécurité et conformité.",
+            "trust_signal": "14 ans d'expérience électricien à Dammartin-sur-Tigeaux, intervention rapide garantie",
+            "why_this_commune": "Didier David, électricien local à Dammartin-sur-Tigeaux, maîtrise parfaitement les spécificités des bâtiments et quartiers communaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:19:29.996Z",
+            "used_fallback": false
+          },
+          "54e9f06b-240a-458a-8e20-da157bf9207b": {
+            "profile_id": "54e9f06b-240a-458a-8e20-da157bf9207b",
+            "commune_slug": "dammartin-sur-tigeaux",
+            "bio_localized": "Électricien qualifié depuis 5 ans à Dammartin-sur-Tigeaux, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Seine-et-Marne, je garantis des installations sécurisées et conformes. Devis gratuit et service rapide pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Dammartin-sur-Tigeaux depuis années",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Dammartin-sur-Tigeaux pour sécuriser vos installations électriques.",
+            "trust_signal": "5 ans d'expérience confirmée, électricien fiable à Dammartin-sur-Tigeaux",
+            "why_this_commune": "Charles Perrin est le choix idéal pour Dammartin-sur-Tigeaux. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:19:42.617Z",
+            "used_fallback": false
+          },
+          "7528d30f-88c4-4a75-bf3a-6daa64188d25": {
+            "profile_id": "7528d30f-88c4-4a75-bf3a-6daa64188d25",
+            "commune_slug": "dammartin-sur-tigeaux",
+            "bio_localized": "Électricien professionnel à Dammartin-sur-Tigeaux depuis 19 ans, je maîtrise le dépannage express sur tous types de bâtiments : pavillons, immeubles et constructions modernes. Disponible rapidement pour vos urgences électriques, je garantis des interventions fiables et sécurisées en Seine-et-Marne.",
+            "local_badge": "Électricien expert de Dammartin-sur-Tigeaux",
+            "service_highlight": "Dépannage électrique express à Dammartin-sur-Tigeaux : interventions rapides et fiables pour tous vos problèmes électriques.",
+            "trust_signal": "19 ans d'expérience électricien à Dammartin-sur-Tigeaux, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Garnier est le choix idéal pour Dammartin-sur-Tigeaux. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:20:21.399Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "dampmart": {
+        "commune_name": "DAMPMART",
+        "postal_code": "77400",
+        "department": "77",
+        "electricians": {
+          "3aceeaf7-a3d4-4d50-baaa-020234764934": {
+            "profile_id": "3aceeaf7-a3d4-4d50-baaa-020234764934",
+            "commune_slug": "dampmart",
+            "bio_localized": "Électricien depuis 19 ans à Dampmart, je spécialise dans l'éclairage LED professionnel pour les pavillons et immeubles de Seine-et-Marne. Artisan reconnu, j'interviens sur tous vos besoins électriques avec expertise et fiabilité. Solutions d'éclairage modernes et économes pour votre confort.",
+            "local_badge": "Électricien expert de Dampmart, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Dampmart, je conçois des solutions lumineuses innovantes et économes pour vos projets.",
+            "trust_signal": "19 ans d'expérience, électricien fiable et réactif à Dampmart",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Dampmart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:34.460Z",
+            "used_fallback": false
+          },
+          "a50bb1cc-ba81-47e1-82d9-db17878d955e": {
+            "profile_id": "a50bb1cc-ba81-47e1-82d9-db17878d955e",
+            "commune_slug": "dampmart",
+            "bio_localized": "Électricien professionnel à Dampmart depuis 11 ans, je spécialise dans l'éclairage LED haute performance. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, je garantis des installations fiables et économes. Disponible pour tous vos projets électriques, du diagnostic au dépannage.",
+            "local_badge": "Électricien expert de Dampmart, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Dampmart, je conçois des solutions lumineuses innovantes et économes pour vos locaux.",
+            "trust_signal": "11 ans d'expérience électricien à Dampmart, intervention rapide garantie",
+            "why_this_commune": "Florian Dufour est le choix idéal pour Dampmart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers dampmariens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:47.062Z",
+            "used_fallback": false
+          },
+          "db6a482a-d497-409c-90ed-5c79d582713d": {
+            "profile_id": "db6a482a-d497-409c-90ed-5c79d582713d",
+            "commune_slug": "dampmart",
+            "bio_localized": "Électricien expérimenté à Dampmart depuis 6 ans, je maîtrise l'électricité générale pour tous types de bâtiments. Que ce soit les pavillons typiques de Seine-et-Marne ou les installations modernes, j'interviens rapidement avec professionnalisme. Travail soigné et fiable garanti pour vos besoins électriques.",
+            "local_badge": "Électricien expert de Dampmart, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Dampmart pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "6 ans d'expérience, électricien fiable et réactif à Dampmart, interventions garanties",
+            "why_this_commune": "Michel Meyer est votre électricien idéal à Dampmart. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Son expérience confirmée dans la zone garantit des interventions rapides et efficaces. Proximité et réactivité pour vos besoins électriques.",
+            "generated_at": "2025-11-16T05:20:59.987Z",
+            "used_fallback": false
+          },
+          "30b99a67-fbee-442d-bc02-6c83b9e20adb": {
+            "profile_id": "30b99a67-fbee-442d-bc02-6c83b9e20adb",
+            "commune_slug": "dampmart",
+            "bio_localized": "Électricien professionnel à Dampmart depuis 14 ans, je spécialise dans l'éclairage LED haute performance. Que vous habitiez un pavillon ou un immeuble moderne en Seine-et-Marne, j'optimise votre consommation énergétique avec expertise. Solutions durables et fiables pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Dampmart, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Dampmart pour optimiser vos installations lumineuses.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Dampmart et région",
+            "why_this_commune": "Alexandre Henry est un excellent choix pour Dampmart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:13.720Z",
+            "used_fallback": false
+          },
+          "7048e3bf-acbd-4b34-838d-32016e352cbd": {
+            "profile_id": "7048e3bf-acbd-4b34-838d-32016e352cbd",
+            "commune_slug": "dampmart",
+            "bio_localized": "Électricien expérimenté depuis 11 ans à Dampmart, je spécialise dans l'éclairage LED professionnel pour pavillons et immeubles modernes de Seine-et-Marne. Expertise reconnue en installations électriques complètes. Disponible pour vos projets résidentiels et commerciaux. Qualité et fiabilité garanties.",
+            "local_badge": "Électricien expert de Dampmart, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Dampmart pour optimiser vos installations lumineuses.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et réactif à Dampmart",
+            "why_this_commune": "Benjamin Roger est un excellent choix pour Dampmart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:26.715Z",
+            "used_fallback": false
+          },
+          "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86": {
+            "profile_id": "7f9ebeb4-be57-4e3c-9ee4-714dad82ee86",
+            "commune_slug": "dampmart",
+            "bio_localized": "Électricien qualifié depuis 12 ans à Dampmart, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je vous propose des solutions adaptées et fiables. Devis gratuit et interventions rapides pour équiper votre domicile.",
+            "local_badge": "Électricien expert de Dampmart, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Dampmart pour véhicules électriques résidentiels et professionnels.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et réactif à Dampmart",
+            "why_this_commune": "Julien Garcia est le choix idéal pour Dampmart. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone Seine-et-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:46.690Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "darvault": {
+        "commune_name": "DARVAULT",
+        "postal_code": "77140",
+        "department": "77",
+        "electricians": {
+          "94d2b4e5-4809-4e78-8581-0daf3c57e9b4": {
+            "profile_id": "94d2b4e5-4809-4e78-8581-0daf3c57e9b4",
+            "commune_slug": "darvault",
+            "bio_localized": "Dominique Robert, électricien expert à Darvault, intervient depuis 18 ans sur l'installation de tableaux électriques. Spécialisé dans les pavillons et résidences de Seine-et-Marne, il garantit des installations conformes et durables. Votre satisfaction et votre sécurité électrique sont sa priorité absolue.",
+            "local_badge": "Électricien expert de Darvault, intervention rapide garantie",
+            "service_highlight": "Électricien spécialisé dans l'installation et la rénovation de tableaux électriques à Darvault pour particuliers et professionnels.",
+            "trust_signal": "18 ans d'expérience confirmée, électricien fiable et professionnel à Darvault",
+            "why_this_commune": "Dominique Robert est le choix idéal pour Darvault. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:59.625Z",
+            "used_fallback": false
+          },
+          "de149193-5335-4ac1-895f-bb9b3d05f14c": {
+            "profile_id": "de149193-5335-4ac1-895f-bb9b3d05f14c",
+            "commune_slug": "darvault",
+            "bio_localized": "Expert en domotique et automatisation à Darvault, Luc Vincent maîtrise l'intégration intelligente dans les pavillons et résidences de Seine-et-Marne. Avec 11 ans d'expérience, il propose des solutions sur mesure pour moderniser votre habitat. Qualifié et fiable, il garantit une installation professionnelle et un service client attentif.",
+            "local_badge": "Électricien expert de Darvault depuis des années",
+            "service_highlight": "Électricien domotique à Darvault : automatisation et confort intelligent pour votre habitat moderne et connecté.",
+            "trust_signal": "11 ans d'expérience électricien confirmé à Darvault, interventions rapides garanties",
+            "why_this_commune": "Luc Vincent est le choix idéal pour Darvault. Électricien local, il maîtrise parfaitement les caractéristiques des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:13.112Z",
+            "used_fallback": false
+          },
+          "11231328-06ad-485a-b8a4-8ef266dd1c01": {
+            "profile_id": "11231328-06ad-485a-b8a4-8ef266dd1c01",
+            "commune_slug": "darvault",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Darvault, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous résidiez en pavillon ou immeuble en Seine-et-Marne, je garantis des installations conformes et durables. Devis gratuit et interventions rapides pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert de Darvault, intervention rapide garantie",
+            "service_highlight": "Expert en installation de bornes de recharge électrique pour véhicules à Darvault et ses environs",
+            "trust_signal": "18 ans d'expérience confirmée, électricien de confiance à Darvault",
+            "why_this_commune": "Julien Leclerc est le choix idéal pour Darvault. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Seine-et-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:25.814Z",
+            "used_fallback": false
+          },
+          "b42f8605-a1c7-4af9-b0fa-c157fa283e10": {
+            "profile_id": "b42f8605-a1c7-4af9-b0fa-c157fa283e10",
+            "commune_slug": "darvault",
+            "bio_localized": "Électricien expérimenté depuis 8 ans à Darvault, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je garantis une prise en charge rapide et un travail soigné. Disponible immédiatement pour vos problèmes électriques.",
+            "local_badge": "Électricien expert de Darvault, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Darvault pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et professionnel à Darvault",
+            "why_this_commune": "Christian Lemaire est le choix idéal pour Darvault. Électricien local, il maîtrise parfaitement les spécificités architecturales et techniques de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:38.692Z",
+            "used_fallback": false
+          },
+          "6345041d-8709-46f7-b3c0-4dd086edcaff": {
+            "profile_id": "6345041d-8709-46f7-b3c0-4dd086edcaff",
+            "commune_slug": "darvault",
+            "bio_localized": "Électricien expérimenté depuis 17 ans, Philippe Boyer intervient à Darvault et ses environs en Seine-et-Marne. Spécialiste en électricité générale, il assure la maintenance et l'installation électrique de vos pavillons et résidences. Interventions rapides, travail soigné et devis gratuit garantis.",
+            "local_badge": "Électricien expert de Darvault depuis des années",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Darvault pour l'installation et la maintenance de vos équipements électriques.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Darvault",
+            "why_this_commune": "Philippe Boyer est le choix idéal pour Darvault. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:51.013Z",
+            "used_fallback": false
+          },
+          "205178ec-517d-406d-b79f-e71f578c096a": {
+            "profile_id": "205178ec-517d-406d-b79f-e71f578c096a",
+            "commune_slug": "darvault",
+            "bio_localized": "Électricien professionnel à Darvault depuis 18 ans, je maîtrise l'installation de tableaux électriques pour tous types d'habitations. Que vous résidiez en pavillon ou immeuble en Seine-et-Marne, je garantis des installations conformes et sécurisées. Expert certifié, votre satisfaction est ma priorité absolue.",
+            "local_badge": "Électricien expert de Darvault, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Darvault, intervenant sur tous types de bâtiments.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Darvault",
+            "why_this_commune": "Didier Fabre est le choix idéal pour Darvault. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:23:03.930Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "dhuisy": {
+        "commune_name": "DHUISY",
+        "postal_code": "77440",
+        "department": "77",
+        "electricians": {
+          "e16d86fc-8b2b-4b01-9563-be07ed550288": {
+            "profile_id": "e16d86fc-8b2b-4b01-9563-be07ed550288",
+            "commune_slug": "dhuisy",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Dhuisy, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble en Seine-et-Marne, je vous propose des solutions adaptées et sécurisées. Devis gratuit et interventions rapides garanties.",
+            "local_badge": "Électricien expert de Dhuisy, intervention rapide garantie",
+            "service_highlight": "Électricien expert en installation de bornes de recharge pour véhicules électriques à Dhuisy et ses alentours.",
+            "trust_signal": "15 ans d'expérience, électricien fiable et réactif à Dhuisy",
+            "why_this_commune": "Frédéric Vincent est le choix idéal pour Dhuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone seine-et-marnaise assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:18.073Z",
+            "used_fallback": false
+          },
+          "39c22db2-109b-4202-ba66-a26c088263c3": {
+            "profile_id": "39c22db2-109b-4202-ba66-a26c088263c3",
+            "commune_slug": "dhuisy",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Dhuisy, Michel Gaillard maîtrise l'électricité générale pour tous types d'habitations. Des pavillons aux immeubles modernes de Seine-et-Marne, il garantit des interventions rapides et un travail soigné. Votre confiance est sa priorité.",
+            "local_badge": "Électricien expert de Dhuisy depuis des années",
+            "service_highlight": "Électricien généraliste intervenant à Dhuisy pour tous vos besoins en installations et dépannages électriques résidentiels et professionnels.",
+            "trust_signal": "17 ans d'expérience, électricien professionnel à Dhuisy, interventions garanties",
+            "why_this_commune": "Michel Gaillard est un excellent choix pour Dhuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:31.016Z",
+            "used_fallback": false
+          },
+          "fa9dd253-da86-45b7-ac2a-44ef28c8189d": {
+            "profile_id": "fa9dd253-da86-45b7-ac2a-44ef28c8189d",
+            "commune_slug": "dhuisy",
+            "bio_localized": "Électricien expérimenté depuis 10 ans à Dhuisy, je spécialise dans la mise aux normes NF C 15-100 pour les pavillons et maisons de Seine-et-Marne. Intervention rapide, devis gratuit et travail sécurisé. Votre électricité aux normes, c'est ma priorité.",
+            "local_badge": "Électricien expert de Dhuisy, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Dhuisy.",
+            "trust_signal": "10 ans d'expérience électricien à Dhuisy, interventions rapides et fiables garanties",
+            "why_this_commune": "Charles Durand est le choix idéal pour Dhuisy. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone Seine-et-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:43.764Z",
+            "used_fallback": false
+          },
+          "0f8310c2-4fa6-413f-9131-795b02b85985": {
+            "profile_id": "0f8310c2-4fa6-413f-9131-795b02b85985",
+            "commune_slug": "dhuisy",
+            "bio_localized": "Électricien spécialiste en domotique et automatisation à Dhuisy, Jacques Vidal met son expertise de 8 ans au service des pavillons et maisons modernes de Seine-et-Marne. Installateur certifié, il conçoit des solutions intelligentes adaptées à chaque habitation. Qualité, fiabilité et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Dhuisy depuis des années",
+            "service_highlight": "Électricien expert en domotique et automatisation pour les maisons modernes de Dhuisy, installations intelligentes et sécurisées.",
+            "trust_signal": "8 ans d'expérience, électricien fiable et qualifié à Dhuisy",
+            "why_this_commune": "Jacques Vidal est le choix idéal pour Dhuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une compréhension des besoins particuliers de Dhuisy.",
+            "generated_at": "2025-11-16T05:23:56.732Z",
+            "used_fallback": false
+          },
+          "4d52b1a4-e830-428d-9c2c-eb8b2a1fab00": {
+            "profile_id": "4d52b1a4-e830-428d-9c2c-eb8b2a1fab00",
+            "commune_slug": "dhuisy",
+            "bio_localized": "Électricien professionnel à Dhuisy depuis 12 ans, je spécialise dans l'éclairage LED pour les pavillons et bâtiments de Seine-et-Marne. Artisan expérimenté, je garantis des installations modernes, économes et durables. Disponible pour tous vos besoins électriques, du diagnostic à la rénovation complète.",
+            "local_badge": "Électricien expert de Dhuisy, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'éclairage LED professionnel intervenant à Dhuisy pour optimiser votre consommation énergétique.",
+            "trust_signal": "12 ans d'expérience confirmée, électricien fiable et professionnel à Dhuisy",
+            "why_this_commune": "David Lucas, électricien basé à Dhuisy, connaît parfaitement les spécificités des bâtiments locaux et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins des habitants de Dhuisy.",
+            "generated_at": "2025-11-16T05:24:10.134Z",
+            "used_fallback": false
+          },
+          "853ee8e6-c215-46e7-9712-c4595018b162": {
+            "profile_id": "853ee8e6-c215-46e7-9712-c4595018b162",
+            "commune_slug": "dhuisy",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Dhuisy, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Intervenant sur les pavillons et résidences de Seine-et-Marne, je garantis des installations conformes et sécurisées. Devis gratuit et service réactif pour tous vos projets électriques.",
+            "local_badge": "Électricien expert de Dhuisy, intervention rapide",
+            "service_highlight": "Électricien spécialiste de l'installation de bornes de recharge électrique à Dhuisy pour véhicules électriques.",
+            "trust_signal": "19 ans d'expérience électricien à Dhuisy, interventions rapides et fiables garanties",
+            "why_this_commune": "Julien Sanchez est le choix idéal pour Dhuisy. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:24:23.405Z",
             "used_fallback": false
           }
         }

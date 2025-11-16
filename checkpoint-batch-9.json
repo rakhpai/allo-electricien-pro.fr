@@ -1,5 +1,5 @@
 {
-  "lastProcessedCommune": "alfortville",
+  "lastProcessedCommune": "cachan",
   "processedCommunes": [
     "champigny-sur-marne",
     "creteil",
@@ -10,17 +10,22 @@
     "vincennes",
     "vitry-sur-seine",
     "ablon-sur-seine",
-    "alfortville"
+    "alfortville",
+    "arcueil",
+    "boissy-saint-leger",
+    "bonneuil-sur-marne",
+    "bry-sur-marne",
+    "cachan"
   ],
   "processed": {
-    "successful": 60,
+    "successful": 90,
     "errors": 0,
     "total": 46
   },
   "stats": {
-    "inputTokens": 66514,
-    "outputTokens": 17043,
-    "apiCalls": 300
+    "inputTokens": 100186,
+    "outputTokens": 25635,
+    "apiCalls": 450
   },
   "output": {
     "generated_at": "2025-11-16T05:03:25.022Z",
@@ -752,6 +757,371 @@
             "trust_signal": "13 ans d'expérience confirmée à Alfortville, électricien fiable et professionnel",
             "why_this_commune": "Stéphane Roy est un excellent choix pour Alfortville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers alfortvillais. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone du Val-de-Marne vous assure un service fiable et de qualité.",
             "generated_at": "2025-11-16T05:17:34.831Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "arcueil": {
+        "commune_name": "ARCUEIL",
+        "postal_code": "94110",
+        "department": "94",
+        "electricians": {
+          "bc94a10d-4344-4c55-94c7-e6f87ca40989": {
+            "profile_id": "bc94a10d-4344-4c55-94c7-e6f87ca40989",
+            "commune_slug": "arcueil",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Arcueil, je maîtrise le dépannage express sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes. Intervenant rapidement dans le Val-de-Marne, je sécurise vos installations électriques avec professionnalisme et fiabilité pour un confort sans interruption.",
+            "local_badge": "Électricien expert d'Arcueil, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Arcueil : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Arcueil, interventions rapides et fiables",
+            "why_this_commune": "Vincent Vidal est un excellent choix pour Arcueil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:17:47.918Z",
+            "used_fallback": false
+          },
+          "75e8ee7b-612b-40ad-9757-d3349d6f6a46": {
+            "profile_id": "75e8ee7b-612b-40ad-9757-d3349d6f6a46",
+            "commune_slug": "arcueil",
+            "bio_localized": "Électricien expérimenté depuis 14 ans, je maîtrise l'électricité générale pour tous les types de bâtiments à Arcueil. Des haussmanniens aux pavillons modernes du Val-de-Marne, j'interviens rapidement avec professionnalisme. Dépannages, installations et mises aux normes : votre électricité en toute confiance.",
+            "local_badge": "Électricien expert d'Arcueil, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Arcueil pour tous vos besoins en installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Arcueil, interventions rapides et fiables",
+            "why_this_commune": "Pierre Bourgeois est un excellent choix pour Arcueil. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:18:00.580Z",
+            "used_fallback": false
+          },
+          "e3f65cb2-6ed8-4682-810c-f7fa969803eb": {
+            "profile_id": "e3f65cb2-6ed8-4682-810c-f7fa969803eb",
+            "commune_slug": "arcueil",
+            "bio_localized": "Électricien depuis 9 ans à Arcueil, je maîtrise les installations des haussmanniens comme des pavillons modernes du Val-de-Marne. Disponible 24/7 pour vos urgences électriques, j'interviens rapidement avec professionnalisme et précision. Diagnostics fiables et travail soigné garantis.",
+            "local_badge": "Électricien expert d'Arcueil, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 à Arcueil pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "9 ans d'expérience électricien à Arcueil, interventions rapides et fiables garanties",
+            "why_this_commune": "Christian Bonnet est un excellent choix pour Arcueil. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments arcueilliens et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:13.707Z",
+            "used_fallback": false
+          },
+          "3894f8bc-456a-4619-abe3-3085a30ce9e3": {
+            "profile_id": "3894f8bc-456a-4619-abe3-3085a30ce9e3",
+            "commune_slug": "arcueil",
+            "bio_localized": "Électricien spécialisé en éclairage LED professionnel à Arcueil depuis 5 ans. Je maîtrise l'installation et la rénovation électrique pour les bâtiments haussmanniens et pavillons du Val-de-Marne. Solutions d'éclairage modernes, économes et durables. Interventions rapides et fiables près de vous.",
+            "local_badge": "Électricien expert d'Arcueil, intervention rapide garantie",
+            "service_highlight": "Spécialiste en éclairage LED professionnel à Arcueil, je transforme vos espaces avec des solutions d'éclairage modernes et performantes.",
+            "trust_signal": "Électricien confirmé avec 5 ans d'expérience à Arcueil, interventions rapides garanties",
+            "why_this_commune": "David Henry est un excellent choix pour Arcueil. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne en fait un professionnel de confiance pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:18:26.631Z",
+            "used_fallback": false
+          },
+          "d1786911-15f5-478d-a140-5fbd0bccca76": {
+            "profile_id": "d1786911-15f5-478d-a140-5fbd0bccca76",
+            "commune_slug": "arcueil",
+            "bio_localized": "Électricien expérimenté à Arcueil depuis 20 ans, je spécialise dans l'éclairage LED professionnel pour vos haussmanniens et pavillons du Val-de-Marne. Modernisez votre éclairage avec solutions durables et performantes. Intervention rapide et fiable sur Arcueil et alentours.",
+            "local_badge": "Électricien expert d'Arcueil, intervention rapide garantie",
+            "service_highlight": "Transformez votre éclairage à Arcueil avec nos solutions LED professionnelles innovantes et économes en énergie.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Arcueil",
+            "why_this_commune": "Alexandre Philippe est un excellent choix pour Arcueil. Électricien local, il maîtrise parfaitement les spécificités des bâtiments arcueilliens et leurs quartiers caractéristiques. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T05:18:39.467Z",
+            "used_fallback": false
+          },
+          "97f8d762-fd4c-401e-844a-33ef48bd944c": {
+            "profile_id": "97f8d762-fd4c-401e-844a-33ef48bd944c",
+            "commune_slug": "arcueil",
+            "bio_localized": "Électricien expérimenté depuis 18 ans à Arcueil, je spécialise dans la mise aux normes NF C 15-100 pour les haussmanniens et pavillons du Val-de-Marne. Interventions rapides et fiables sur vos installations anciennes ou modernes. Devis gratuit et sans engagement.",
+            "local_badge": "Électricien expert d'Arcueil, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de la mise aux normes NF C 15-100 à Arcueil pour sécuriser vos installations électriques résidentielles et professionnelles.",
+            "trust_signal": "18 ans d'expérience, électricien de confiance à Arcueil",
+            "why_this_commune": "Charles Clement est un excellent choix pour Arcueil. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers arcueilliens. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:18:52.408Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "boissy-saint-leger": {
+        "commune_name": "BOISSY-SAINT-LEGER",
+        "postal_code": "94470",
+        "department": "94",
+        "electricians": {
+          "7b6d971b-9afc-4ed2-8636-4d30946deced": {
+            "profile_id": "7b6d971b-9afc-4ed2-8636-4d30946deced",
+            "commune_slug": "boissy-saint-leger",
+            "bio_localized": "Électricien expérimenté depuis 7 ans, je propose un dépannage express adapté aux besoins spécifiques de Boissy-Saint-Léger. Que vous habitiez un pavillon ou un immeuble, je maîtrise tous les types d'installations électriques. Intervenant rapidement sur le 94, je garantis des solutions fiables et durables pour vos urgences électriques.",
+            "local_badge": "Électricien expert de Boissy-Saint-Leger depuis longtemps",
+            "service_highlight": "Dépannage électrique express à Boissy-Saint-Leger : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "7 ans d'expérience confirmée, électricien fiable et reconnu à Boissy-Saint-Leger",
+            "why_this_commune": "Vincent Morin, électricien local à Boissy-Saint-Leger, maîtrise parfaitement les spécificités des bâtiments et quartiers du Val-de-Marne. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:19:06.257Z",
+            "used_fallback": false
+          },
+          "003f0f8f-dc87-4682-8b24-ab05777ba377": {
+            "profile_id": "003f0f8f-dc87-4682-8b24-ab05777ba377",
+            "commune_slug": "boissy-saint-leger",
+            "bio_localized": "Olivier Leclerc, électricien agréé Consuel à Boissy-Saint-Léger, met 17 ans d'expertise au service des habitants du Val-de-Marne. Spécialiste des installations électriques résidentielles et professionnelles, il intervient sur les pavillons et immeubles de la commune avec professionnalisme et sécurité garantie.",
+            "local_badge": "Électricien expert de Boissy-Saint-Leger depuis des années",
+            "service_highlight": "Électricien agréé Consuel à Boissy-Saint-Leger, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "17 ans d'expérience, électricien de confiance à Boissy-Saint-Leger depuis longtemps",
+            "why_this_commune": "Olivier Leclerc est le choix idéal pour Boissy-Saint-Leger. Électricien local, il maîtrise parfaitement les spécificités architecturales et les réseaux électriques de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience reconnue en Val-de-Marne assure des solutions adaptées à vos besoins.",
+            "generated_at": "2025-11-16T05:19:20.103Z",
+            "used_fallback": false
+          },
+          "b735b762-de4b-4c05-b8d9-cd107513ba26": {
+            "profile_id": "b735b762-de4b-4c05-b8d9-cd107513ba26",
+            "commune_slug": "boissy-saint-leger",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Boissy-Saint-Léger, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments, des pavillons aux immeubles modernes. Disponible immédiatement pour vos pannes électriques, je garantis un diagnostic rapide et un travail soigné dans le Val-de-Marne.",
+            "local_badge": "Électricien expert de Boissy-Saint-Leger depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Boissy-Saint-Leger pour toutes vos interventions électriques rapides et fiables.",
+            "trust_signal": "13 ans d'expertise électrique confirmée à Boissy-Saint-Leger, interventions fiables et rapides",
+            "why_this_commune": "Christian Colin est un excellent choix pour Boissy-Saint-Leger. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:19:33.591Z",
+            "used_fallback": false
+          },
+          "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708": {
+            "profile_id": "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708",
+            "commune_slug": "boissy-saint-leger",
+            "bio_localized": "Électricien expérimenté à Boissy-Saint-Leger depuis 12 ans, Christian Vidal intervient 24/7 sur tous vos problèmes électriques. Du pavillon aux immeubles modernes du Val-de-Marne, il garantit des interventions rapides et un travail soigné. Disponible en urgence pour sécuriser votre installation électrique.",
+            "local_badge": "Électricien expert de Boissy-Saint-Leger depuis longtemps",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Boissy-Saint-Leger pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "12 ans d'expérience, électricien fiable et réactif à Boissy-Saint-Leger",
+            "why_this_commune": "Christian Vidal est le choix idéal pour Boissy-Saint-Leger. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:56.385Z",
+            "used_fallback": false
+          },
+          "f38d2f86-e59a-4b64-acbb-30b7f7a3e003": {
+            "profile_id": "f38d2f86-e59a-4b64-acbb-30b7f7a3e003",
+            "commune_slug": "boissy-saint-leger",
+            "bio_localized": "Robert Laurent, électricien expert à Boissy-Saint-Léger, intervient depuis 10 ans sur la rénovation électrique des pavillons et immeubles du Val-de-Marne. Spécialiste des installations modernes et aux normes, il sécurise votre habitat avec professionnalisme et fiabilité. Votre confiance, sa priorité.",
+            "local_badge": "Électricien expert de Boissy-Saint-Leger depuis longtemps",
+            "service_highlight": "Électricien expert en rénovation électrique à Boissy-Saint-Leger, intervenant sur tous types d'installations anciennes et modernes.",
+            "trust_signal": "10 ans d'expérience confirmée à Boissy-Saint-Leger, électricien fiable et réactif",
+            "why_this_commune": "Robert Laurent est le choix idéal pour Boissy-Saint-Leger. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:20:09.766Z",
+            "used_fallback": false
+          },
+          "e76da3b3-cc10-4502-96a1-33c99ec0ccfc": {
+            "profile_id": "e76da3b3-cc10-4502-96a1-33c99ec0ccfc",
+            "commune_slug": "boissy-saint-leger",
+            "bio_localized": "Luc Gaillard, électricien expert en domotique et automatisation à Boissy-Saint-Léger, intervient sur les pavillons et immeubles du Val-de-Marne. Avec 14 ans d'expérience, il modernise vos installations électriques et automatise votre habitat pour plus de confort et de sécurité. Service fiable et satisfaction garantie.",
+            "local_badge": "Électricien expert de Boissy-Saint-Leger depuis 10 ans",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les résidences modernes de Boissy-Saint-Leger et ses alentours.",
+            "trust_signal": "14 ans d'expérience confirmée, électricien fiable à Boissy-Saint-Leger",
+            "why_this_commune": "Luc Gaillard est le choix idéal pour Boissy-Saint-Leger. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:20:22.968Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bonneuil-sur-marne": {
+        "commune_name": "BONNEUIL-SUR-MARNE",
+        "postal_code": "94380",
+        "department": "94",
+        "electricians": {
+          "e76da3b3-cc10-4502-96a1-33c99ec0ccfc": {
+            "profile_id": "e76da3b3-cc10-4502-96a1-33c99ec0ccfc",
+            "commune_slug": "bonneuil-sur-marne",
+            "bio_localized": "Luc Gaillard, électricien expert en domotique et automatisation à Bonneuil-sur-Marne. Fort de 14 ans d'expérience, j'équipe pavillons et immeubles modernes de solutions intelligentes et sécurisées. Spécialiste de l'automatisation résidentielle, je garantis des installations fiables et une satisfaction client durable dans le Val-de-Marne.",
+            "local_badge": "Électricien expert de Bonneuil-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien domotique à Bonneuil-sur-Marne : automatisation intelligente et installations électriques modernes pour votre maison.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Bonneuil-sur-Marne, interventions rapides garanties",
+            "why_this_commune": "Luc Gaillard est le choix idéal pour Bonneuil-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:20:36.455Z",
+            "used_fallback": false
+          },
+          "0e80944b-b892-408e-a1bf-b4f3d901824e": {
+            "profile_id": "0e80944b-b892-408e-a1bf-b4f3d901824e",
+            "commune_slug": "bonneuil-sur-marne",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Bonneuil-sur-Marne, je maîtrise les spécificités des pavillons et immeubles de la région. Fort de 6 ans d'expérience, je garantis des installations conformes et sécurisées. Votre satisfaction et la qualité de mon travail sont mes priorités absolues.",
+            "local_badge": "Électricien expert de Bonneuil-sur-Marne depuis années",
+            "service_highlight": "Électricien spécialiste en installation et rénovation de tableaux électriques à Bonneuil-sur-Marne pour tous types d'habitations.",
+            "trust_signal": "6 ans d'expérience confirmée, électricien fiable et réactif à Bonneuil-sur-Marne",
+            "why_this_commune": "Eric Mathieu est le choix idéal pour Bonneuil-sur-Marne grâce à sa connaissance approfondie des bâtiments et quartiers locaux. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:20:49.204Z",
+            "used_fallback": false
+          },
+          "9ca48271-3c1c-4952-a502-21888e3fc95d": {
+            "profile_id": "9ca48271-3c1c-4952-a502-21888e3fc95d",
+            "commune_slug": "bonneuil-sur-marne",
+            "bio_localized": "Luc Dupuis, électricien spécialiste en domotique et automatisation à Bonneuil-sur-Marne. Fort de 16 ans d'expérience, j'équipe pavillons et immeubles modernes de solutions intelligentes et sécurisées. Expert certifié, je garantis des installations fiables adaptées à chaque habitat du Val-de-Marne. Votre satisfaction est ma priorité.",
+            "local_badge": "Électricien expert de Bonneuil-sur-Marne depuis années",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour les résidences de Bonneuil-sur-Marne, modernisant vos installations.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Bonneuil-sur-Marne",
+            "why_this_commune": "Luc Dupuis est le choix idéal pour Bonneuil-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:01.893Z",
+            "used_fallback": false
+          },
+          "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708": {
+            "profile_id": "21f2aeeb-d6e1-4c97-846d-ffd6fd8d3708",
+            "commune_slug": "bonneuil-sur-marne",
+            "bio_localized": "Électricien expérimenté depuis 12 ans à Bonneuil-sur-Marne, je maîtrise l'installation et la réparation électrique sur tous types de bâtiments : pavillons, immeubles et constructions modernes. Disponible 24/7 pour vos urgences, je garantis une intervention rapide et un travail soigné dans le Val-de-Marne.",
+            "local_badge": "Électricien expert de Bonneuil-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Bonneuil-sur-Marne pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "12 ans d'expérience, électricien de confiance à Bonneuil-sur-Marne",
+            "why_this_commune": "Christian Vidal est un excellent choix pour Bonneuil-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:15.468Z",
+            "used_fallback": false
+          },
+          "f38d2f86-e59a-4b64-acbb-30b7f7a3e003": {
+            "profile_id": "f38d2f86-e59a-4b64-acbb-30b7f7a3e003",
+            "commune_slug": "bonneuil-sur-marne",
+            "bio_localized": "Robert Laurent, électricien expert à Bonneuil-sur-Marne, intervient depuis 10 ans sur la rénovation électrique des pavillons et immeubles du Val-de-Marne. Spécialiste des installations anciennes et modernes, il sécurise et modernise votre habitat avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Bonneuil-sur-Marne depuis années",
+            "service_highlight": "Électricien spécialisé en rénovation électrique à Bonneuil-sur-Marne, je modernise vos installations anciennes en toute sécurité.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et qualifié à Bonneuil-sur-Marne",
+            "why_this_commune": "Robert Laurent est un excellent choix pour Bonneuil-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans le Val-de-Marne vous assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:29.847Z",
+            "used_fallback": false
+          },
+          "3282c50f-4662-4014-8692-fe8c369c5141": {
+            "profile_id": "3282c50f-4662-4014-8692-fe8c369c5141",
+            "commune_slug": "bonneuil-sur-marne",
+            "bio_localized": "Électricien spécialisé en installation de tableaux électriques à Bonneuil-sur-Marne, je maîtrise les spécificités des pavillons et immeubles du Val-de-Marne. Fort de 9 ans d'expérience, j'interviens avec professionnalisme pour sécuriser votre installation électrique. Qualité et satisfaction client garanties.",
+            "local_badge": "Électricien expert de Bonneuil-sur-Marne depuis années",
+            "service_highlight": "Électricien spécialisé dans l'installation et la mise aux normes de tableaux électriques à Bonneuil-sur-Marne",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et reconnu à Bonneuil-sur-Marne",
+            "why_this_commune": "Eric Fernandez est le choix idéal pour Bonneuil-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:43.988Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bry-sur-marne": {
+        "commune_name": "BRY-SUR-MARNE",
+        "postal_code": "94360",
+        "department": "94",
+        "electricians": {
+          "6745d4cd-9bd0-434e-b116-5b0bb378b286": {
+            "profile_id": "6745d4cd-9bd0-434e-b116-5b0bb378b286",
+            "commune_slug": "bry-sur-marne",
+            "bio_localized": "Jacques Leroy, électricien expert en domotique et automatisation à Bry-sur-Marne, intervient depuis 11 ans auprès des habitants du Val-de-Marne. Spécialisé dans l'équipement des pavillons et immeubles modernes, il modernise vos installations avec professionnalisme et rigueur. Satisfaction client garantie.",
+            "local_badge": "Électricien expert de Bry-sur-Marne, intervention rapide",
+            "service_highlight": "Spécialiste en domotique et automatisation électrique pour résidences et immeubles de Bry-sur-Marne.",
+            "trust_signal": "11 ans d'expérience, électricien qualifié à Bry-sur-Marne, interventions rapides et fiables",
+            "why_this_commune": "Jacques Leroy est le choix idéal pour Bry-sur-Marne. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne vous assure un service fiable et professionnel.",
+            "generated_at": "2025-11-16T05:21:56.975Z",
+            "used_fallback": false
+          },
+          "1b085cad-6442-4332-84e3-a42b943662e6": {
+            "profile_id": "1b085cad-6442-4332-84e3-a42b943662e6",
+            "commune_slug": "bry-sur-marne",
+            "bio_localized": "Électricien professionnel à Bry-sur-Marne depuis 9 ans, je maîtrise le dépannage express pour tous les types de bâtiments : pavillons, immeubles haussmanniens et résidences modernes. Interventions rapides et fiables en Val-de-Marne. Votre électricien de confiance pour résoudre vos urgences électriques.",
+            "local_badge": "Électricien expert de Bry-sur-Marne, intervention rapide",
+            "service_highlight": "Dépannage électrique express à Bry-sur-Marne : interventions rapides et fiables pour tous vos problèmes d'électricité.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Bry-sur-Marne",
+            "why_this_commune": "Vincent Morel est le choix idéal pour Bry-sur-Marne. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:11.585Z",
+            "used_fallback": false
+          },
+          "1bd5de06-3eb8-4ef9-9a99-50a634bf6d5d": {
+            "profile_id": "1bd5de06-3eb8-4ef9-9a99-50a634bf6d5d",
+            "commune_slug": "bry-sur-marne",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Bry-sur-Marne, je spécialise dans l'installation de bornes de recharge pour véhicules électriques. Que vous habitiez un pavillon ou un immeuble moderne, je garantis une installation conforme et sécurisée. Devis gratuit et intervention rapide dans le Val-de-Marne.",
+            "local_badge": "Électricien expert de Bry-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien spécialiste en installation de bornes de recharge à Bry-sur-Marne pour véhicules électriques.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Bry-sur-Marne, intervention rapide garantie",
+            "why_this_commune": "Frédéric Lefebvre est le choix idéal pour Bry-sur-Marne. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:26.322Z",
+            "used_fallback": false
+          },
+          "91003737-87a5-488e-9c41-48b0b5b34750": {
+            "profile_id": "91003737-87a5-488e-9c41-48b0b5b34750",
+            "commune_slug": "bry-sur-marne",
+            "bio_localized": "Électricien intervenant 24/7 à Bry-sur-Marne, je maîtrise l'installation et la dépannage électrique sur tous types de bâtiments : pavillons, immeubles modernes et résidences anciennes. Fort de 15 ans d'expérience en Val-de-Marne, je garantis des interventions rapides et un travail soigné pour sécuriser votre habitat.",
+            "local_badge": "Électricien expert à Bry-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Bry-sur-Marne pour tous vos dépannages électriques immédiats et interventions rapides.",
+            "trust_signal": "15 ans d'expérience, électricien certifié à Bry-sur-Marne, interventions rapides et fiables",
+            "why_this_commune": "Daniel Caron est le choix idéal pour Bry-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service professionnel et fiable.",
+            "generated_at": "2025-11-16T05:22:39.280Z",
+            "used_fallback": false
+          },
+          "2bffcc0f-4947-41ae-8502-29e81b792eb1": {
+            "profile_id": "2bffcc0f-4947-41ae-8502-29e81b792eb1",
+            "commune_slug": "bry-sur-marne",
+            "bio_localized": "Électricien agréé Consuel à Bry-sur-Marne, Pascal Leclercq intervient depuis 9 ans sur les pavillons et immeubles du Val-de-Marne. Spécialiste des installations électriques neuves et rénovations, il garantit la conformité de vos installations avec expertise et professionnalisme reconnu.",
+            "local_badge": "Électricien expert de Bry-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Bry-sur-Marne, je garantis vos installations électriques conformes aux normes de sécurité en vigueur.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Bry-sur-Marne",
+            "why_this_commune": "Pascal Leclercq est le choix idéal pour Bry-sur-Marne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans le Val-de-Marne assure un service de qualité et une expertise adaptée à vos besoins.",
+            "generated_at": "2025-11-16T05:22:51.736Z",
+            "used_fallback": false
+          },
+          "ec1bb22e-46e8-49da-bdc7-057cc42eadd6": {
+            "profile_id": "ec1bb22e-46e8-49da-bdc7-057cc42eadd6",
+            "commune_slug": "bry-sur-marne",
+            "bio_localized": "Nicolas Robert, électricien agréé Consuel à Bry-sur-Marne, intervient depuis 18 ans sur tous les types de bâtiments du Val-de-Marne. Du pavillon à l'immeuble moderne, il garantit des installations électriques conformes et sécurisées. Expert en normes, il assure vos diagnostics et mises aux normes avec professionnalisme et fiabilité.",
+            "local_badge": "Électricien expert de Bry-sur-Marne, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Bry-sur-Marne, je certifie vos installations électriques en toute conformité et sécurité.",
+            "trust_signal": "18 ans d'expérience électricien confirmé à Bry-sur-Marne, interventions rapides garanties",
+            "why_this_commune": "Nicolas Robert est un excellent choix pour Bry-sur-Marne. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et ses différents quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:05.331Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "cachan": {
+        "commune_name": "CACHAN",
+        "postal_code": "94230",
+        "department": "94",
+        "electricians": {
+          "3894f8bc-456a-4619-abe3-3085a30ce9e3": {
+            "profile_id": "3894f8bc-456a-4619-abe3-3085a30ce9e3",
+            "commune_slug": "cachan",
+            "bio_localized": "Électricien professionnel à Cachan, je maîtrise l'éclairage LED pour les pavillons et immeubles du Val-de-Marne. Avec 5 ans d'expérience, je modernise vos installations électriques en optimisant consommation et confort lumineux. Disponible pour diagnostics et rénovations dans toute la commune.",
+            "local_badge": "Électricien expert de Cachan, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant sur tous les projets d'illumination à Cachan.",
+            "trust_signal": "5 ans d'expérience confirmée à Cachan, interventions rapides et fiables garanties",
+            "why_this_commune": "David Henry est le choix idéal pour Cachan. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers cachanais. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone du Val-de-Marne vous assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:18.666Z",
+            "used_fallback": false
+          },
+          "bc94a10d-4344-4c55-94c7-e6f87ca40989": {
+            "profile_id": "bc94a10d-4344-4c55-94c7-e6f87ca40989",
+            "commune_slug": "cachan",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Cachan, je maîtrise le dépannage express sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes du Val-de-Marne. Interventions rapides et fiables pour vos urgences électriques. Disponible pour diagnostiquer et résoudre vos problèmes en toute sérénité.",
+            "local_badge": "Électricien expert à Cachan, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Cachan : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "19 ans d'expertise électrique à Cachan, interventions rapides et fiables",
+            "why_this_commune": "Vincent Vidal, électricien à Cachan, maîtrise parfaitement les spécificités architecturales locales et les quartiers du Val-de-Marne. Sa proximité garantit des interventions rapides et fiables. Fort de son expérience reconnue dans cette zone, il offre un service de qualité adapté aux besoins cachanais.",
+            "generated_at": "2025-11-16T05:23:32.018Z",
+            "used_fallback": false
+          },
+          "97f8d762-fd4c-401e-844a-33ef48bd944c": {
+            "profile_id": "97f8d762-fd4c-401e-844a-33ef48bd944c",
+            "commune_slug": "cachan",
+            "bio_localized": "Électricien expérimenté à Cachan depuis 18 ans, je spécialise dans la mise aux normes NF C 15-100 pour les haussmanniens du centre-ville comme pour les pavillons et immeubles modernes de Val-de-Marne. Intervention rapide, devis gratuit et travail garanti.",
+            "local_badge": "Électricien expert de Cachan, intervention rapide",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Cachan, garantissant la sécurité de vos installations électriques.",
+            "trust_signal": "18 ans d'expérience électricien à Cachan, intervention rapide garantie",
+            "why_this_commune": "Charles Clement est le choix idéal pour Cachan. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers cachanais. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:44.655Z",
+            "used_fallback": false
+          },
+          "75e8ee7b-612b-40ad-9757-d3349d6f6a46": {
+            "profile_id": "75e8ee7b-612b-40ad-9757-d3349d6f6a46",
+            "commune_slug": "cachan",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Cachan, je maîtrise l'électricité générale pour tous types de bâtiments : haussmanniens, pavillons et immeubles modernes du Val-de-Marne. Interventions rapides et travail soigné garantis. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Cachan, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant sur tous types d'installations électriques résidentielles et commerciales à Cachan.",
+            "trust_signal": "14 ans d'expérience électricien à Cachan, interventions rapides et fiables",
+            "why_this_commune": "Pierre Bourgeois est un excellent choix pour Cachan. Électricien expérimenté dans le Val-de-Marne, il connaît parfaitement les spécificités architecturales de la commune et ses différents quartiers. Sa proximité garantit des interventions rapides et efficaces. Faites confiance à son expertise locale.",
+            "generated_at": "2025-11-16T05:23:57.322Z",
+            "used_fallback": false
+          },
+          "e3f65cb2-6ed8-4682-810c-f7fa969803eb": {
+            "profile_id": "e3f65cb2-6ed8-4682-810c-f7fa969803eb",
+            "commune_slug": "cachan",
+            "bio_localized": "Électricien expérimenté depuis 9 ans à Cachan, je maîtrise les interventions d'urgence 24/7 sur tous types de bâtiments : haussmanniens, pavillons et immeubles modernes du Val-de-Marne. Disponible rapidement pour vos problèmes électriques, je garantis un travail soigné et une solution durable.",
+            "local_badge": "Électricien expert de Cachan, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Cachan pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "9 ans d'expérience confirmée, électricien fiable et réactif à Cachan",
+            "why_this_commune": "Christian Bonnet est un excellent choix pour Cachan. Électricien établi localement, il maîtrise parfaitement les spécificités des bâtiments cachanais et connaît chaque quartier. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:24:10.294Z",
+            "used_fallback": false
+          },
+          "d1786911-15f5-478d-a140-5fbd0bccca76": {
+            "profile_id": "d1786911-15f5-478d-a140-5fbd0bccca76",
+            "commune_slug": "cachan",
+            "bio_localized": "Électricien professionnel à Cachan depuis 20 ans, je spécialise dans l'éclairage LED pour les haussmanniens, pavillons et immeubles modernes du Val-de-Marne. Expert en solutions d'éclairage performantes et économes, j'interviens rapidement pour tous vos besoins électriques. Qualité et fiabilité garanties.",
+            "local_badge": "Électricien expert de Cachan, intervention rapide",
+            "service_highlight": "Électricien spécialiste en éclairage LED professionnel intervenant à Cachan pour optimiser vos installations lumineuses.",
+            "trust_signal": "20 ans d'expérience électricien à Cachan, interventions rapides et fiables",
+            "why_this_commune": "Alexandre Philippe est un excellent choix pour Cachan. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers cachanais. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:24:23.881Z",
             "used_fallback": false
           }
         }

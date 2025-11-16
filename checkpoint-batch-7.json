@@ -1,5 +1,5 @@
 {
-  "lastProcessedCommune": "auvers-saint-georges",
+  "lastProcessedCommune": "bievres",
   "processedCommunes": [
     "evry",
     "abbeville-la-riviere",
@@ -10,17 +10,22 @@
     "athis-mons",
     "authon-la-plaine",
     "auvernaux",
-    "auvers-saint-georges"
+    "auvers-saint-georges",
+    "avrainville",
+    "ballainvilliers",
+    "ballancourt-sur-essonne",
+    "baulne",
+    "bievres"
   ],
   "processed": {
-    "successful": 60,
+    "successful": 90,
     "errors": 0,
     "total": 197
   },
   "stats": {
-    "inputTokens": 65446,
-    "outputTokens": 16416,
-    "apiCalls": 300
+    "inputTokens": 98167,
+    "outputTokens": 24661,
+    "apiCalls": 450
   },
   "output": {
     "generated_at": "2025-11-16T05:03:20.992Z",
@@ -752,6 +757,371 @@
             "trust_signal": "13 ans d'expérience électricien à Auvers-Saint-Georges, interventions rapides et fiables",
             "why_this_commune": "Claude Mathieu est un excellent choix pour Auvers-Saint-Georges. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service fiable et de qualité.",
             "generated_at": "2025-11-16T05:17:47.774Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "avrainville": {
+        "commune_name": "AVRAINVILLE",
+        "postal_code": "91630",
+        "department": "91",
+        "electricians": {
+          "35ec869a-8fc1-40b8-80d6-b835fd9858ed": {
+            "profile_id": "35ec869a-8fc1-40b8-80d6-b835fd9858ed",
+            "commune_slug": "avrainville",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Avrainville, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble, je garantis une prise en charge rapide et un travail soigné. Disponible immédiatement pour vos problèmes électriques.",
+            "local_badge": "Électricien expert d'Avrainville, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24h/24 pour tous vos dépannages électriques à Avrainville, intervention rapide garantie.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Avrainville, interventions rapides et fiables",
+            "why_this_commune": "Claude Mathieu est un excellent choix pour Avrainville. Électricien local expérimenté, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expertise reconnue en Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:18:00.917Z",
+            "used_fallback": false
+          },
+          "677b5a93-4775-4148-99b6-7f33385301ba": {
+            "profile_id": "677b5a93-4775-4148-99b6-7f33385301ba",
+            "commune_slug": "avrainville",
+            "bio_localized": "Laurent Brun, électricien expert en domotique et automatisation à Avrainville, intervient depuis 15 ans sur les pavillons et immeubles de l'Essonne. Spécialiste des installations intelligentes, il modernise votre habitat avec professionnalisme et garantit votre satisfaction.",
+            "local_badge": "Électricien expert d'Avrainville, intervention rapide garantie",
+            "service_highlight": "Électricien domotique à Avrainville : automatisation et installations intelligentes pour votre maison moderne et connectée.",
+            "trust_signal": "15 ans d'expérience confirmée à Avrainville, électricien fiable et professionnel",
+            "why_this_commune": "Laurent Brun est le choix idéal pour Avrainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone essonnienne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:18:13.887Z",
+            "used_fallback": false
+          },
+          "3296d40c-79db-478f-9fa7-3dd1ac037166": {
+            "profile_id": "3296d40c-79db-478f-9fa7-3dd1ac037166",
+            "commune_slug": "avrainville",
+            "bio_localized": "Électricien expérimenté depuis 14 ans, Michel Gaillard intervient à Avrainville et ses environs. Spécialisé en électricité générale, il maîtrise les installations des pavillons locaux comme les rénovations d'immeubles modernes. Travail soigné, interventions rapides et fiables, pour votre sécurité électrique.",
+            "local_badge": "Électricien expert d'Avrainville, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Avrainville pour tous vos travaux d'installation, maintenance et dépannage électrique résidentiel et tertiaire.",
+            "trust_signal": "14 ans d'expérience confirmée à Avrainville, électricien fiable et professionnel",
+            "why_this_commune": "Michel Gaillard est le choix idéal pour Avrainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone essonnienne assure un service de qualité adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:26.861Z",
+            "used_fallback": false
+          },
+          "83e0dbc8-78d6-4651-8526-126fcf7ca9ee": {
+            "profile_id": "83e0dbc8-78d6-4651-8526-126fcf7ca9ee",
+            "commune_slug": "avrainville",
+            "bio_localized": "Olivier Bonnet, électricien agréé Consuel à Avrainville, intervient depuis 5 ans sur l'ensemble de l'Essonne. Spécialiste des installations électriques résidentielles et professionnelles, il sécurise vos pavillons et immeubles avec expertise. Conformité garantie et service fiable.",
+            "local_badge": "Électricien professionnel d'Avrainville, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Avrainville, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "5 ans d'expérience confirmée à Avrainville, électricien fiable et réactif",
+            "why_this_commune": "Olivier Bonnet est le choix idéal pour Avrainville. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:18:39.571Z",
+            "used_fallback": false
+          },
+          "16ee5035-4c43-41db-8eec-a180852faf63": {
+            "profile_id": "16ee5035-4c43-41db-8eec-a180852faf63",
+            "commune_slug": "avrainville",
+            "bio_localized": "Henri Simon, électricien expert en domotique et automatisation à Avrainville, intervient depuis 20 ans auprès des résidents locaux. Spécialisé dans l'équipement intelligent des pavillons et immeubles essonniens, il garantit des installations fiables et modernes. Votre satisfaction et la qualité de service sont ses priorités absolues en Essonne.",
+            "local_badge": "Électricien expert d'Avrainville, intervention rapide garantie",
+            "service_highlight": "Électricien domotique à Avrainville : automatisation complète de votre habitat pour plus de confort et de sécurité.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Avrainville, interventions rapides et fiables",
+            "why_this_commune": "Henri Simon est le choix idéal pour Avrainville. Installé localement, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et une grande fiabilité.",
+            "generated_at": "2025-11-16T05:18:52.461Z",
+            "used_fallback": false
+          },
+          "e22f2985-047d-4e18-b753-077ad507980c": {
+            "profile_id": "e22f2985-047d-4e18-b753-077ad507980c",
+            "commune_slug": "avrainville",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Avrainville, je maîtrise le dépannage express pour tous les types de bâtiments : pavillons, immeubles et résidences de l'Essonne. Réparations rapides, diagnostic fiable et intervention sur mesure. Votre électricien de confiance en Île-de-France.",
+            "local_badge": "Électricien expert d'Avrainville, intervention rapide garantie",
+            "service_highlight": "Dépannage électrique express à Avrainville : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience, électricien de confiance à Avrainville, interventions rapides et fiables",
+            "why_this_commune": "Maxime Garnier est le choix idéal pour Avrainville. Électricien local, il maîtrise parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée en Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:04.932Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ballainvilliers": {
+        "commune_name": "BALLAINVILLIERS",
+        "postal_code": "91160",
+        "department": "91",
+        "electricians": {
+          "e5e47472-396f-41e6-911d-601e266846f5": {
+            "profile_id": "e5e47472-396f-41e6-911d-601e266846f5",
+            "commune_slug": "ballainvilliers",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Ballainvilliers, je maîtrise l'ensemble des installations électriques, des pavillons aux immeubles modernes de l'Essonne. Disponible 24h/24 pour vos urgences, je garantis une intervention rapide et un travail soigné. Votre sécurité électrique est ma priorité.",
+            "local_badge": "Électricien expert de Ballainvilliers, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Ballainvilliers pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "14 ans d'expérience, électricien fiable et reconnu à Ballainvilliers",
+            "why_this_commune": "Christian Lemoine est un excellent choix pour Ballainvilliers. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service de qualité adapté aux besoins essonniens.",
+            "generated_at": "2025-11-16T05:19:17.847Z",
+            "used_fallback": false
+          },
+          "005862ad-9990-40a6-833d-dc97dd4e45d5": {
+            "profile_id": "005862ad-9990-40a6-833d-dc97dd4e45d5",
+            "commune_slug": "ballainvilliers",
+            "bio_localized": "Michel Colin, électricien expérimenté depuis 9 ans, intervient à Ballainvilliers et ses alentours. Spécialisé en électricité générale, il maîtrise les installations des pavillons locaux comme des immeubles modernes. Travail soigné, interventions rapides et fiables pour tous vos besoins électriques en Essonne.",
+            "local_badge": "Électricien expert de Ballainvilliers, intervention rapide",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Ballainvilliers pour vos installations et rénovations électriques résidentielles et commerciales.",
+            "trust_signal": "9 ans d'expérience, électricien certifié à Ballainvilliers, interventions rapides garanties",
+            "why_this_commune": "Michel Colin est un excellent choix pour Ballainvilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:19:30.553Z",
+            "used_fallback": false
+          },
+          "7febae0c-0190-46d4-af6e-e1d92fe03a99": {
+            "profile_id": "7febae0c-0190-46d4-af6e-e1d92fe03a99",
+            "commune_slug": "ballainvilliers",
+            "bio_localized": "Jacques Morel, électricien expert en domotique et automatisation à Ballainvilliers, intervient sur les pavillons et résidences de l'Essonne. Avec 12 ans d'expérience, il modernise vos installations électriques et automatise votre habitat. Service fiable et client satisfait, garantis.",
+            "local_badge": "Électricien expert de Ballainvilliers, intervention rapide",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour vos installations intelligentes à Ballainvilliers",
+            "trust_signal": "12 ans d'expérience confirmée à Ballainvilliers, électricien fiable et professionnel",
+            "why_this_commune": "Jacques Morel est le choix idéal pour Ballainvilliers. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et ses quartiers. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:19:43.099Z",
+            "used_fallback": false
+          },
+          "463c2272-b348-43a9-91da-2e49eedf0b9d": {
+            "profile_id": "463c2272-b348-43a9-91da-2e49eedf0b9d",
+            "commune_slug": "ballainvilliers",
+            "bio_localized": "Électricien expérimenté depuis 15 ans à Ballainvilliers, je maîtrise les installations électriques de tous les types de bâtiments, des pavillons aux immeubles modernes. Disponible 24/7 pour vos urgences électriques, je garantis une intervention rapide et un travail soigné dans l'Essonne.",
+            "local_badge": "Électricien expert de Ballainvilliers, intervention rapide",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Ballainvilliers pour tous vos dépannages et interventions électriques rapides.",
+            "trust_signal": "15 ans d'expérience, électricien fiable et reconnu à Ballainvilliers",
+            "why_this_commune": "Daniel Masson est le choix idéal pour Ballainvilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:19:55.902Z",
+            "used_fallback": false
+          },
+          "323c1922-2edf-4b4f-acb7-5355d6ca3c58": {
+            "profile_id": "323c1922-2edf-4b4f-acb7-5355d6ca3c58",
+            "commune_slug": "ballainvilliers",
+            "bio_localized": "Électricien expérimenté depuis 17 ans à Ballainvilliers, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles. Intervenant en Essonne, je garantis des installations sécurisées et conformes. Devis gratuit et service rapide pour tous vos besoins électriques.",
+            "local_badge": "Électricien expert à Ballainvilliers depuis années",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous vos travaux de conformité électrique à Ballainvilliers.",
+            "trust_signal": "17 ans d'expérience, électricien fiable et certifié à Ballainvilliers",
+            "why_this_commune": "Yves Roger est le choix idéal pour Ballainvilliers. Électricien local, il maîtrise parfaitement les spécificités architecturales de la commune et les particularités de ses quartiers. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:11.709Z",
+            "used_fallback": false
+          },
+          "933702dc-0012-4e9b-bffa-deef4da20cf3": {
+            "profile_id": "933702dc-0012-4e9b-bffa-deef4da20cf3",
+            "commune_slug": "ballainvilliers",
+            "bio_localized": "Patrick Martin, électricien agréé Consuel à Ballainvilliers, met ses 13 années d'expertise au service des résidents de l'Essonne. Spécialiste des installations électriques sur pavillons et immeubles, il garantit conformité et sécurité pour tous vos travaux. Interventions fiables et professionnelles en région parisienne.",
+            "local_badge": "Électricien expert de Ballainvilliers, intervention rapide",
+            "service_highlight": "Électricien agréé Consuel à Ballainvilliers, je certifie vos installations électriques aux normes de sécurité en vigueur.",
+            "trust_signal": "13 ans d'expérience, électricien de confiance à Ballainvilliers, interventions rapides et fiables",
+            "why_this_commune": "Patrick Martin est un excellent choix pour Ballainvilliers. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:20:24.642Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "ballancourt-sur-essonne": {
+        "commune_name": "BALLANCOURT-SUR-ESSONNE",
+        "postal_code": "91610",
+        "department": "91",
+        "electricians": {
+          "e5ba1708-c852-4916-bc6e-37d5207a703d": {
+            "profile_id": "e5ba1708-c852-4916-bc6e-37d5207a703d",
+            "commune_slug": "ballancourt-sur-essonne",
+            "bio_localized": "Électricien expérimenté depuis 19 ans à Ballancourt-sur-Essonne, je spécialise dans la mise aux normes NF C 15-100 pour vos pavillons et immeubles. Intervenant rapidement en Essonne, je garantis une installation sécurisée et conforme. Devis gratuit sur demande.",
+            "local_badge": "Électricien expert de Ballancourt-sur-Essonne depuis des années",
+            "service_highlight": "Électricien spécialisé en mise aux normes NF C 15-100 à Ballancourt-sur-Essonne pour sécuriser vos installations électriques.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Ballancourt-sur-Essonne, interventions rapides garanties",
+            "why_this_commune": "Charles Giraud est un excellent choix pour Ballancourt-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure des solutions adaptées et fiables.",
+            "generated_at": "2025-11-16T05:20:37.563Z",
+            "used_fallback": false
+          },
+          "91e70702-0b59-4116-9a21-44e712c2e3d5": {
+            "profile_id": "91e70702-0b59-4116-9a21-44e712c2e3d5",
+            "commune_slug": "ballancourt-sur-essonne",
+            "bio_localized": "Gérard Morel, électricien expert en domotique et automatisation à Ballancourt-sur-Essonne, intervient sur les pavillons et résidences de l'Essonne. Avec 20 ans d'expérience, il modernise vos installations électriques et automatise votre habitat pour plus de confort et de sécurité. Professionnel certifié, qualité garantie.",
+            "local_badge": "Électricien expert de Ballancourt-sur-Essonne",
+            "service_highlight": "Électricien domotique à Ballancourt-sur-Essonne : automatisation et installations intelligentes pour votre maison moderne.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Ballancourt-sur-Essonne, interventions rapides garanties",
+            "why_this_commune": "Gérard Morel est le choix idéal pour Ballancourt-sur-Essonne. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:20:50.635Z",
+            "used_fallback": false
+          },
+          "4406e040-2c51-46d7-a73a-3a321c70bbf3": {
+            "profile_id": "4406e040-2c51-46d7-a73a-3a321c70bbf3",
+            "commune_slug": "ballancourt-sur-essonne",
+            "bio_localized": "Pascal Lucas, électricien agréé Consuel à Ballancourt-sur-Essonne, met 20 ans d'expérience au service de vos installations. Spécialiste des normes électriques, il intervient sur les pavillons et immeubles de l'Essonne avec professionnalisme et fiabilité. Certifications et garanties vous assurent une électricité sécurisée.",
+            "local_badge": "Électricien expert à Ballancourt-sur-Essonne depuis longtemps",
+            "service_highlight": "Électricien agréé Consuel intervenant à Ballancourt-sur-Essonne pour vos installations et conformités électriques résidentielles et commerciales.",
+            "trust_signal": "20 ans d'expérience électricien à Ballancourt-sur-Essonne, interventions rapides garanties",
+            "why_this_commune": "Pascal Lucas est le choix idéal pour Ballancourt-sur-Essonne. Électricien local, il maîtrise parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone de l'Essonne assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:21:05.097Z",
+            "used_fallback": false
+          },
+          "1561c707-7cad-4079-9110-bbbe62192244": {
+            "profile_id": "1561c707-7cad-4079-9110-bbbe62192244",
+            "commune_slug": "ballancourt-sur-essonne",
+            "bio_localized": "Henri Bourgeois, électricien expert en domotique et automatisation à Ballancourt-sur-Essonne. Fort de 8 ans d'expérience, je modernise les installations de vos pavillons et maisons avec des solutions intelligentes et fiables. Spécialiste des systèmes domotiques, je garantis votre confort et votre sécurité. Service professionnel et satisfaction client assurée.",
+            "local_badge": "Électricien expert de Ballancourt-sur-Essonne depuis longtemps",
+            "service_highlight": "Électricien domotique à Ballancourt-sur-Essonne : automatisation et installations électriques intelligentes pour votre maison moderne et sécurisée.",
+            "trust_signal": "8 ans d'expérience confirmée à Ballancourt-sur-Essonne, électricien fiable et professionnel",
+            "why_this_commune": "Henri Bourgeois est le choix idéal pour Ballancourt-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:19.116Z",
+            "used_fallback": false
+          },
+          "3fa68a7f-79f9-4892-87cf-0972862522af": {
+            "profile_id": "3fa68a7f-79f9-4892-87cf-0972862522af",
+            "commune_slug": "ballancourt-sur-essonne",
+            "bio_localized": "Électricien professionnel depuis 11 ans à Ballancourt-sur-Essonne, je spécialise dans l'éclairage LED haut de gamme. Que vous habitiez un pavillon ou un immeuble moderne en Essonne, je transforme vos espaces avec des solutions d'éclairage innovantes, durables et économes. Interventions rapides et fiables.",
+            "local_badge": "Électricien expert de Ballancourt-sur-Essonne depuis des années",
+            "service_highlight": "Spécialiste en éclairage LED professionnel pour les commerces et entreprises de Ballancourt-sur-Essonne.",
+            "trust_signal": "11 ans d'expérience électricien à Ballancourt-sur-Essonne, interventions rapides et fiables",
+            "why_this_commune": "Alexandre Lefevre est le choix idéal pour Ballancourt-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:21:32.166Z",
+            "used_fallback": false
+          },
+          "8ecb2bc0-c027-49c4-8e7e-9b910304c82b": {
+            "profile_id": "8ecb2bc0-c027-49c4-8e7e-9b910304c82b",
+            "commune_slug": "ballancourt-sur-essonne",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Ballancourt-sur-Essonne, je maîtrise l'électricité générale pour tous les types de constructions : pavillons, immeubles et bâtiments anciens. Intervention rapide et travail soigné garantis en Essonne. Votre confiance est ma priorité.",
+            "local_badge": "Électricien expert de Ballancourt-sur-Essonne depuis années",
+            "service_highlight": "Électricien généraliste intervenant à Ballancourt-sur-Essonne pour tous vos travaux d'installation et de maintenance électrique.",
+            "trust_signal": "14 ans d'expérience électricien confirmé à Ballancourt-sur-Essonne, interventions rapides garanties",
+            "why_this_commune": "Jean Leroy est le choix idéal pour Ballancourt-sur-Essonne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:21:46.341Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "baulne": {
+        "commune_name": "BAULNE",
+        "postal_code": "91590",
+        "department": "91",
+        "electricians": {
+          "91e70702-0b59-4116-9a21-44e712c2e3d5": {
+            "profile_id": "91e70702-0b59-4116-9a21-44e712c2e3d5",
+            "commune_slug": "baulne",
+            "bio_localized": "Gérard Morel, électricien expert en domotique et automatisation à Baulne, intervient depuis 20 ans auprès des résidents de l'Essonne. Spécialiste des installations intelligentes pour pavillons et immeubles, il modernise votre habitat avec professionnalisme et rigueur. Service fiable et satisfaction client garantis.",
+            "local_badge": "Électricien expert de Baulne, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste en domotique et automatisation pour les résidences de Baulne, modernisant vos installations intelligentes.",
+            "trust_signal": "20 ans d'expérience électricien confirmé à Baulne, interventions rapides garanties",
+            "why_this_commune": "Gérard Morel est le choix idéal pour Baulne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:00.280Z",
+            "used_fallback": false
+          },
+          "e5ba1708-c852-4916-bc6e-37d5207a703d": {
+            "profile_id": "e5ba1708-c852-4916-bc6e-37d5207a703d",
+            "commune_slug": "baulne",
+            "bio_localized": "Électricien expérimenté à Baulne depuis 19 ans, je spécialise dans la mise aux normes NF C 15-100 pour tous types de bâtiments. Que vous habitiez un pavillon ou un immeuble essonnien, je garantis une installation électrique sécurisée et conforme. Devis gratuit et intervention rapide en Essonne.",
+            "local_badge": "Électricien expert de Baulne, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 pour tous les types d'installations électriques à Baulne.",
+            "trust_signal": "19 ans d'expérience électricien confirmé à Baulne, interventions rapides et fiables",
+            "why_this_commune": "Charles Giraud est un excellent choix pour Baulne. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:22:14.138Z",
+            "used_fallback": false
+          },
+          "8ecb2bc0-c027-49c4-8e7e-9b910304c82b": {
+            "profile_id": "8ecb2bc0-c027-49c4-8e7e-9b910304c82b",
+            "commune_slug": "baulne",
+            "bio_localized": "Électricien expérimenté depuis 14 ans à Baulne, je maîtrise l'électricité générale pour tous types d'habitations. Des pavillons aux immeubles modernes de l'Essonne, j'interviens rapidement avec professionnalisme. Diagnostics fiables, installations sécurisées et dépannages efficaces pour votre tranquillité.",
+            "local_badge": "Électricien expert de Baulne, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant régulièrement à Baulne pour tous vos besoins en installations et dépannages électriques.",
+            "trust_signal": "14 ans d'expérience confirmée, électricien fiable et professionnel à Baulne",
+            "why_this_commune": "Jean Leroy est un excellent choix pour Baulne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Fort de son expérience dans cette zone, il offre un service fiable et adapté aux besoins locaux.",
+            "generated_at": "2025-11-16T05:22:27.096Z",
+            "used_fallback": false
+          },
+          "1561c707-7cad-4079-9110-bbbe62192244": {
+            "profile_id": "1561c707-7cad-4079-9110-bbbe62192244",
+            "commune_slug": "baulne",
+            "bio_localized": "Électricien domotique à Baulne, Henri Bourgeois intervient sur les pavillons et maisons de l'Essonne. Avec 8 ans d'expertise en automatisation, il modernise vos installations électriques et systèmes domotiques. Service fiable et professionnel pour votre confort et sécurité.",
+            "local_badge": "Électricien expert de Baulne, intervention rapide",
+            "service_highlight": "Automatisation et domotique pour votre maison à Baulne : confort, sécurité et économies d'énergie garantis.",
+            "trust_signal": "8 ans d'expérience confirmée, électricien fiable et professionnel à Baulne",
+            "why_this_commune": "Henri Bourgeois est le choix idéal pour Baulne. Électricien local, il maîtrise parfaitement les spécificités architecturales des bâtiments baudiens. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans la zone assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:22:40.101Z",
+            "used_fallback": false
+          },
+          "3fa68a7f-79f9-4892-87cf-0972862522af": {
+            "profile_id": "3fa68a7f-79f9-4892-87cf-0972862522af",
+            "commune_slug": "baulne",
+            "bio_localized": "Électricien expérimenté à Baulne depuis 11 ans, je spécialise dans l'éclairage LED professionnel. Que vous occupiez un pavillon, un immeuble moderne ou un bâtiment commercial en Essonne, je conçois des solutions d'éclairage performantes et durables adaptées à vos besoins spécifiques.",
+            "local_badge": "Électricien expert de Baulne, intervention rapide garantie",
+            "service_highlight": "Électricien spécialiste de l'éclairage LED professionnel intervenant à Baulne pour optimiser vos installations lumineuses.",
+            "trust_signal": "11 ans d'expérience, électricien fiable et qualifié à Baulne",
+            "why_this_commune": "Alexandre Lefevre est le choix idéal pour Baulne. Électricien local, il connaît parfaitement les spécificités architecturales des bâtiments baulnois et les quartiers de la commune. Sa proximité garantit une intervention rapide et efficace. Son expérience confirmée dans cette zone de l'Essonne assure un service de qualité et fiable.",
+            "generated_at": "2025-11-16T05:22:53.012Z",
+            "used_fallback": false
+          },
+          "205a540b-35ab-436b-bd43-340fabcd7f87": {
+            "profile_id": "205a540b-35ab-436b-bd43-340fabcd7f87",
+            "commune_slug": "baulne",
+            "bio_localized": "Électricien expérimenté depuis 16 ans à Baulne, je maîtrise le dépannage express sur tous types d'habitations : pavillons, immeubles résidentiels et bâtiments anciens. Disponible rapidement pour vos urgences électriques en Essonne, je garantis des interventions fiables et professionnelles.",
+            "local_badge": "Électricien expert de Baulne depuis des années",
+            "service_highlight": "Dépannage électrique express à Baulne : interventions rapides et efficaces pour tous vos problèmes d'électricité.",
+            "trust_signal": "16 ans d'expérience électricien confirmé à Baulne, interventions rapides et fiables",
+            "why_this_commune": "Sébastien Simon est le choix idéal pour Baulne. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans la zone assure un service fiable et de qualité.",
+            "generated_at": "2025-11-16T05:23:05.921Z",
+            "used_fallback": false
+          }
+        }
+      },
+      "bievres": {
+        "commune_name": "BIEVRES",
+        "postal_code": "91570",
+        "department": "91",
+        "electricians": {
+          "35ec869a-8fc1-40b8-80d6-b835fd9858ed": {
+            "profile_id": "35ec869a-8fc1-40b8-80d6-b835fd9858ed",
+            "commune_slug": "bievres",
+            "bio_localized": "Électricien expérimenté depuis 13 ans à Bièvres, je maîtrise l'intervention d'urgence 24/7 sur tous types de bâtiments : pavillons, immeubles modernes et constructions anciennes. Disponible immédiatement pour vos problèmes électriques, je garantis un diagnostic rapide et un travail soigné en Essonne.",
+            "local_badge": "Électricien expert de Bievres, intervention rapide garantie",
+            "service_highlight": "Électricien d'urgence disponible 24/7 à Bievres pour tous vos dépannages et installations électriques rapides.",
+            "trust_signal": "13 ans d'expérience électricien confirmé à Bievres, interventions rapides et fiables",
+            "why_this_commune": "Claude Mathieu est le choix idéal pour Bievres. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée en Essonne assure un service fiable et professionnel adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:23:19.829Z",
+            "used_fallback": false
+          },
+          "677b5a93-4775-4148-99b6-7f33385301ba": {
+            "profile_id": "677b5a93-4775-4148-99b6-7f33385301ba",
+            "commune_slug": "bievres",
+            "bio_localized": "Laurent Brun, électricien expert en domotique et automatisation à Bievres, intervient sur les pavillons et immeubles de l'Essonne. Avec 15 ans d'expérience, il modernise vos installations électriques et automatise votre habitat pour plus de confort et de sécurité. Service fiable et satisfaction garantie.",
+            "local_badge": "Électricien expert de Bievres, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique pour maisons intelligentes à Bievres, pilotage complet de vos installations électriques.",
+            "trust_signal": "15 ans d'expérience, électricien de confiance à Bievres, interventions rapides et fiables",
+            "why_this_commune": "Laurent Brun est un excellent choix pour Bievres. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit une intervention rapide en cas de besoin. Son expérience confirmée dans cette zone de l'Essonne vous assure un service fiable et adapté à vos installations.",
+            "generated_at": "2025-11-16T05:23:32.960Z",
+            "used_fallback": false
+          },
+          "3296d40c-79db-478f-9fa7-3dd1ac037166": {
+            "profile_id": "3296d40c-79db-478f-9fa7-3dd1ac037166",
+            "commune_slug": "bievres",
+            "bio_localized": "Électricien expérimenté à Bievres depuis 14 ans, je maîtrise l'électricité générale pour tous types d'habitats : pavillons, immeubles et bâtiments anciens de l'Essonne. Interventions rapides et travail soigné, je garantis votre sécurité électrique et votre tranquillité d'esprit.",
+            "local_badge": "Électricien expert de Bievres, intervention rapide garantie",
+            "service_highlight": "Électricien généraliste intervenant à Bievres pour tous vos besoins en installations et dépannages électriques résidentiels et commerciaux.",
+            "trust_signal": "14 ans d'expérience, électricien de confiance à Bievres, interventions rapides garanties",
+            "why_this_commune": "Michel Gaillard est le choix idéal pour Bievres. Électricien local, il connaît parfaitement les spécificités architecturales de la commune et les quartiers essonniens. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:23:46.853Z",
+            "used_fallback": false
+          },
+          "83e0dbc8-78d6-4651-8526-126fcf7ca9ee": {
+            "profile_id": "83e0dbc8-78d6-4651-8526-126fcf7ca9ee",
+            "commune_slug": "bievres",
+            "bio_localized": "Olivier Bonnet, électricien agréé Consuel à Bievres, intervient depuis 5 ans sur les pavillons et immeubles de l'Essonne. Spécialiste en installations électriques professionnelles, il garantit la conformité de vos installations et la sécurité de votre habitation avec expertise et rigueur.",
+            "local_badge": "Électricien expert de Bievres, intervention rapide garantie",
+            "service_highlight": "Électricien agréé Consuel à Bievres, je garantis la conformité de vos installations électriques résidentielles et tertiaires.",
+            "trust_signal": "5 ans d'expérience, électricien fiable et réactif à Bievres",
+            "why_this_commune": "Olivier Bonnet est le choix idéal pour Bievres. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone de l'Essonne assure des solutions adaptées et fiables pour tous vos besoins électriques.",
+            "generated_at": "2025-11-16T05:23:59.634Z",
+            "used_fallback": false
+          },
+          "16ee5035-4c43-41db-8eec-a180852faf63": {
+            "profile_id": "16ee5035-4c43-41db-8eec-a180852faf63",
+            "commune_slug": "bievres",
+            "bio_localized": "Expert en domotique et automatisation à Bievres, je modernise les installations électriques de vos pavillons et immeubles depuis 20 ans. Spécialisé dans les systèmes intelligents et l'efficacité énergétique, je garantis des solutions fiables et adaptées à votre habitat. Service de qualité et satisfaction client assurés en Essonne.",
+            "local_badge": "Électricien expert de Bievres, intervention rapide garantie",
+            "service_highlight": "Automatisation et domotique pour les maisons de Bievres : pilotage intelligent de vos installations électriques.",
+            "trust_signal": "20 ans d'expérience, électricien de confiance à Bievres, interventions rapides et fiables",
+            "why_this_commune": "Henri Simon est un excellent choix pour Bievres. Électricien local, il connaît parfaitement les spécificités architecturales et les quartiers de la commune. Sa proximité garantit des interventions rapides et réactives. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins électriques.",
+            "generated_at": "2025-11-16T05:24:13.203Z",
+            "used_fallback": false
+          },
+          "f3805daf-f210-4514-a587-c724f2bbbde3": {
+            "profile_id": "f3805daf-f210-4514-a587-c724f2bbbde3",
+            "commune_slug": "bievres",
+            "bio_localized": "Électricien expérimenté à Bievres, je spécialise dans la mise aux normes NF C 15-100 pour pavillons et immeubles de l'Essonne. Depuis 10 ans, je sécurise les installations électriques de vos habitations avec professionnalisme. Devis gratuit et interventions rapides garanties.",
+            "local_badge": "Électricien expert de Bievres, intervention rapide garantie",
+            "service_highlight": "Électricien expert en mise aux normes NF C 15-100 à Bievres, garantissant la sécurité de vos installations électriques.",
+            "trust_signal": "10 ans d'expérience, électricien fiable et reconnu à Bievres",
+            "why_this_commune": "Antoine Vidal est un excellent choix pour Bievres. Électricien local, il connaît parfaitement les spécificités des bâtiments et quartiers de la commune. Sa proximité garantit des interventions rapides et efficaces. Son expérience confirmée dans cette zone assure un service fiable et adapté à vos besoins.",
+            "generated_at": "2025-11-16T05:24:26.225Z",
             "used_fallback": false
           }
         }
