@@ -569,11 +569,13 @@ async function main() {
   console.log(`Estimated cost: $${totalCost.toFixed(2)}`);
   console.log('='.repeat(60));
 
-  // Clean up checkpoint on success
-  if (!args.DRY_RUN && fs.existsSync(CHECKPOINT_FILE)) {
-    fs.unlinkSync(CHECKPOINT_FILE);
-    console.log('🧹 Checkpoint file removed');
-  }
+  // Keep checkpoint for merging (don't delete)
+  // Commented out to preserve data for merge script
+  // if (!args.DRY_RUN && fs.existsSync(CHECKPOINT_FILE)) {
+  //   fs.unlinkSync(CHECKPOINT_FILE);
+  //   console.log('🧹 Checkpoint file removed');
+  // }
+  console.log(`✅ Checkpoint preserved: ${CHECKPOINT_FILE}`);
 }
 
 // Run
