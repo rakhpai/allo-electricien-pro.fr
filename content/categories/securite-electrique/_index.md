@@ -43,7 +43,21 @@ featuredLocations:
     note: "Diagnostic sécurité gratuit"
   - name: "Seine-Saint-Denis"
     url: "/electricien/93/"
-    note: "Intervention urgente 24/7"
+    note: "Intervention urgence 24/7"
+
+featuredVideos:
+  - title: "432 Vidéos Électriciens Sécurité"
+    url: "/videos/"
+    description: "Experts en sécurité électrique"
+  - title: "Électriciens Sécurité Paris (75)"
+    url: "/electricien/75/"
+    description: "Diagnostic sécurité immédiat"
+  - title: "Électriciens Seine-Saint-Denis (93)"
+    url: "/electricien/93/"
+    description: "SOS urgence 24/7"
+  - title: "Électriciens Yvelines (78)"
+    url: "/electricien/78/"
+    description: "259 communes couvertes"
 
 sitemap:
   priority: 0.9
@@ -338,6 +352,24 @@ Nos électriciens interviennent en urgence 24/7 partout en Île-de-France :
 - **Seine-et-Marne (77)** : [réseau IDF](/electricien/77/)
 
 ➜ [Trouver un Électricien Près de Chez Vous](/annuaire/)
+
+## 🎬 Vidéos Électriciens Sécurité - Experts en Prévention
+
+Avant de faire appel à un électricien pour un diagnostic de sécurité ou une mise aux normes, découvrez nos **[432 vidéos de présentation d'électriciens experts en sécurité électrique](/videos/)** dans toute l'Île-de-France. Chaque vidéo vous permet de vérifier les qualifications de l'artisan, ses certifications de sécurité (Qualifelec, Consuel) et son expérience en prévention des risques électriques.
+
+### Vidéos Électriciens Sécurité par Département
+- 🚨 **[Électriciens Sécurité Paris avec Vidéos (75)](/electricien/75/)** - 20 arrondissements, spécialistes diagnostic sécurité immédiat
+- 🚨 **[Électriciens Urgence Seine-Saint-Denis avec Vidéos (93)](/electricien/93/)** - SOS 24/7, intervention <30min pour urgences sécurité
+- 🚨 **[Électriciens Diagnostic Yvelines avec Vidéos (78)](/electricien/78/)** - 259 communes couvertes, expertise installations anciennes
+- 🚨 **[Toutes les Vidéos Électriciens IDF](/videos/)** - Galerie complète de 432 professionnels certifiés sécurité
+
+**Pourquoi regarder les vidéos avant un diagnostic de sécurité ?**
+- ✓ Vérifiez les certifications Qualifelec et Consuel de l'électricien
+- ✓ Découvrez son expérience en diagnostic de sécurité et mise aux normes
+- ✓ Confirmez ses spécialités (immeubles anciens, installations vétustes, RE2020)
+- ✓ Établissez un climat de confiance dès le premier contact pour une intervention sereine
+
+➜ [Parcourir les 432 Vidéos Électriciens Certifiés](/videos/)
 
 ---
 
