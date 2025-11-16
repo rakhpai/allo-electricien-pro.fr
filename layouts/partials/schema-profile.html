@@ -1,4 +1,150 @@
 {{/*
-  Profile Schema Partial - Individual Electrician Profile
-  Schema removed as per SEO optimization - profiles are employees of main business
+  Profile Schema - Person + LocalBusiness Schema for Individual Electrician Profiles
+  Implements rich snippets for Google search results
 */}}
+
+{{- if .Params.first_name -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "{{ .Params.first_name }} {{ .Params.last_name }}",
+  "jobTitle": "Électricien{{ if .Params.specialty }} - {{ .Params.specialty }}{{ end }}",
+  "description": "{{ .Params.bio | default (printf "Électricien professionnel depuis %d ans, spécialisé en %s" .Params.years_experience .Params.specialty) }}",
+  {{ if .Params.avatar_url }}"image": "{{ .Params.avatar_url }}",{{ end }}
+  "telephone": "{{ .Params.phone_href | default .Params.phone }}",
+  {{ if .Params.address }}"address": {
+    "@type": "PostalAddress",
+    {{ if .Params.address.addressLocality }}"addressLocality": "{{ .Params.address.addressLocality }}",{{ end }}
+    {{ if .Params.address.postalCode }}"postalCode": "{{ .Params.address.postalCode }}",{{ end }}
+    {{ if .Params.address.addressRegion }}"addressRegion": "{{ .Params.address.addressRegion }}",{{ end }}
+    "addressCountry": "{{ .Params.address.addressCountry | default "FR" }}"
+  },{{ end }}
+  {{ if and .Params.geo .Params.geo.latitude .Params.geo.longitude }}"geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ .Params.geo.latitude }},
+    "longitude": {{ .Params.geo.longitude }}
+  },{{ end }}
+  {{ if .Params.rating }}"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ .Params.rating }}",
+    "reviewCount": "{{ .Params.review_count | default 0 }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },{{ end }}
+  "worksFor": {
+    "@type": "Organization",
+    "name": "ECLAT RAPIDE ELECTRICITE",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  {{ if .Params.services }}"knowsAbout": [
+    {{ range $index, $service := .Params.services }}{{ if $index }}, {{ end }}"{{ $service }}"{{ end }}
+  ],{{ end }}
+  {{ if .Params.coverage_zones }}"areaServed": [
+    {{ range $index, $zone := .Params.coverage_zones }}{{ if $index }}, {{ end }}{
+      "@type": "AdministrativeArea",
+      "name": "{{ $zone }}"
+    }{{ end }}
+  ],{{ end }}
+  {{ if .Params.address.addressLocality }}"homeLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "{{ .Params.address.addressLocality }}",
+      {{ if .Params.address.postalCode }}"postalCode": "{{ .Params.address.postalCode }}",{{ end }}
+      "addressCountry": "FR"
+    }
+  },{{ end }}
+  "url": "{{ .Permalink }}"{{ if .Params.years_experience }},
+  "hasOccupation": {
+    "@type": "Occupation",
+    "name": "Électricien",
+    "experienceRequirements": "{{ .Params.years_experience }} ans d'expérience"
+  }{{ end }}
+}
+</script>
+
+{{/* Additional LocalBusiness Schema for SEO */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ElectricalCompany",
+  "name": "{{ .Params.first_name }} {{ .Params.last_name }} - Électricien{{ if .Params.address.addressLocality }} {{ .Params.address.addressLocality }}{{ end }}",
+  "description": "{{ .Params.bio | default (printf "Service d'électricité professionnel à %s" .Params.address.addressLocality) }}",
+  {{ if .Params.avatar_url }}"image": "{{ .Params.avatar_url }}",{{ end }}
+  "telephone": "{{ .Params.phone_href | default .Params.phone }}",
+  "priceRange": "{{ .Params.price_range | default "€€" }}",
+  {{ if .Params.address }}"address": {
+    "@type": "PostalAddress",
+    {{ if .Params.address.addressLocality }}"addressLocality": "{{ .Params.address.addressLocality }}",{{ end }}
+    {{ if .Params.address.postalCode }}"postalCode": "{{ .Params.address.postalCode }}",{{ end }}
+    {{ if .Params.address.addressRegion }}"addressRegion": "{{ .Params.address.addressRegion }}",{{ end }}
+    "addressCountry": "FR"
+  },{{ end }}
+  {{ if and .Params.geo .Params.geo.latitude .Params.geo.longitude }}"geo": {
+    "@type": "GeoCoordinates",
+    "latitude": {{ .Params.geo.latitude }},
+    "longitude": {{ .Params.geo.longitude }}
+  },{{ end }}
+  {{ if .Params.rating }}"aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "{{ .Params.rating }}",
+    "reviewCount": "{{ .Params.review_count | default 0 }}",
+    "bestRating": "5",
+    "worstRating": "1"
+  },{{ end }}
+  {{ if .Params.available_24_7 }}"openingHours": "Mo-Su 00:00-23:59",{{ end }}
+  "url": "{{ .Permalink }}",
+  {{ if .Params.coverage_zones }}"areaServed": [
+    {{ range $index, $zone := .Params.coverage_zones }}{{ if $index }}, {{ end }}{
+      "@type": "AdministrativeArea",
+      "name": "{{ $zone }}"
+    }{{ end }}
+  ],{{ end }}
+  {{ if .Params.services }}"hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Services d'électricité",
+    "itemListElement": [
+      {{ range $index, $service := .Params.services }}{{ if $index }},{{ end }}
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "{{ $service }}"
+        }
+      }{{ end }}
+    ]
+  },{{ end }}
+  "paymentAccepted": "Cash, Credit Card, Bank Transfer",
+  "currenciesAccepted": "EUR"
+}
+</script>
+
+{{/* Breadcrumb Schema */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Accueil",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Électriciens",
+      "item": "{{ .Site.BaseURL }}profiles/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Params.first_name }} {{ .Params.last_name }}",
+      "item": "{{ .Permalink }}"
+    }
+  ]
+}
+</script>
+{{- end -}}

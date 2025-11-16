@@ -30,8 +30,10 @@
                 >
                 <img
                   src="{{ .Params.images.square | default .Params.avatar_url }}"
-                  alt="{{ .Params.first_name }} {{ .Params.last_name }} - Électricien {{ .Params.specialty }}"
+                  alt="{{ .Params.first_name }} {{ .Params.last_name }}, électricien certifié à {{ .Params.address.addressLocality }}{{ if .Params.address.postalCode }} ({{ .Params.address.postalCode }}){{ end }} - {{ .Params.years_experience }} ans d'expérience en {{ .Params.specialty }}"
                   class="w-full h-full object-cover"
+                  width="400"
+                  height="300"
                   loading="eager"
                 />
               </picture>
@@ -149,6 +151,157 @@
     </div>
   </div>
 </section>
+
+{{/* FAQ Section */}}
+<section class="py-12 md:py-16 bg-white border-t border-gray-100">
+  <div class="container mx-auto px-4">
+    <div class="max-w-5xl mx-auto">
+      <h2 class="text-2xl md:text-3xl font-bold mb-8 text-center">Questions fréquentes</h2>
+
+      <div class="space-y-4">
+        {{/* Question 1: Coverage Area */}}
+        <details class="bg-blue-50 rounded-lg p-6 border border-blue-100 hover:border-blue-300 transition group">
+          <summary class="font-semibold text-lg text-gray-900 cursor-pointer flex items-center justify-between">
+            <span>Quelle est la zone d'intervention de {{ .Params.first_name }} {{ .Params.last_name }} ?</span>
+            <svg class="w-5 h-5 text-blue-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </summary>
+          <div class="mt-4 text-gray-700 leading-relaxed">
+            {{ .Params.first_name }} {{ .Params.last_name }} intervient principalement à {{ .Params.address.addressLocality }}{{ if .Params.address.postalCode }} ({{ .Params.address.postalCode }}){{ end }} et dans toute l'Île-de-France{{ if .Params.coverage_zones }}, notamment dans les départements {{ delimit .Params.coverage_zones ", " }}{{ end }}.
+          </div>
+        </details>
+
+        {{/* Question 2: Experience */}}
+        <details class="bg-blue-50 rounded-lg p-6 border border-blue-100 hover:border-blue-300 transition group">
+          <summary class="font-semibold text-lg text-gray-900 cursor-pointer flex items-center justify-between">
+            <span>Quelle est l'expérience de cet électricien ?</span>
+            <svg class="w-5 h-5 text-blue-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </summary>
+          <div class="mt-4 text-gray-700 leading-relaxed">
+            Avec {{ .Params.years_experience }} ans d'expérience dans le domaine de l'électricité, {{ .Params.first_name }} {{ .Params.last_name }} est spécialisé en {{ .Params.specialty | lower }}. {{ .Params.review_count | default 0 }} clients ont évalué ses services avec une note moyenne de {{ .Params.rating }}/5.
+          </div>
+        </details>
+
+        {{/* Question 3: Services */}}
+        <details class="bg-blue-50 rounded-lg p-6 border border-blue-100 hover:border-blue-300 transition group">
+          <summary class="font-semibold text-lg text-gray-900 cursor-pointer flex items-center justify-between">
+            <span>Quels services propose cet électricien ?</span>
+            <svg class="w-5 h-5 text-blue-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </summary>
+          <div class="mt-4 text-gray-700 leading-relaxed">
+            {{ .Params.first_name }} {{ .Params.last_name }} propose les services suivants : {{ delimit .Params.services ", " }}. Chaque intervention est réalisée dans le respect des normes en vigueur.
+          </div>
+        </details>
+
+        {{/* Question 4: Availability */}}
+        <details class="bg-blue-50 rounded-lg p-6 border border-blue-100 hover:border-blue-300 transition group">
+          <summary class="font-semibold text-lg text-gray-900 cursor-pointer flex items-center justify-between">
+            <span>{{ if .Params.available_24_7 }}Cet électricien est-il disponible 24h/24 ?{{ else }}Quels sont les horaires d'intervention ?{{ end }}</span>
+            <svg class="w-5 h-5 text-blue-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </summary>
+          <div class="mt-4 text-gray-700 leading-relaxed">
+            {{ if .Params.available_24_7 }}
+            Oui, {{ .Params.first_name }} {{ .Params.last_name }} propose un service d'urgence 24h/24 et 7j/7 pour répondre à tous vos besoins en électricité, même les week-ends et jours fériés.
+            {{ else }}
+            {{ .Params.first_name }} {{ .Params.last_name }} intervient sur rendez-vous. N'hésitez pas à le contacter pour convenir d'un horaire qui vous convient.
+            {{ end }}
+          </div>
+        </details>
+
+        {{/* Question 5: Pricing */}}
+        <details class="bg-blue-50 rounded-lg p-6 border border-blue-100 hover:border-blue-300 transition group">
+          <summary class="font-semibold text-lg text-gray-900 cursor-pointer flex items-center justify-between">
+            <span>Comment obtenir un devis gratuit ?</span>
+            <svg class="w-5 h-5 text-blue-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </summary>
+          <div class="mt-4 text-gray-700 leading-relaxed">
+            Contactez {{ .Params.first_name }} {{ .Params.last_name }} au {{ .Params.phone }} pour obtenir un devis gratuit et sans engagement. Un diagnostic précis vous sera proposé avant toute intervention.
+          </div>
+        </details>
+
+        {{/* Question 6: Certifications */}}
+        <details class="bg-blue-50 rounded-lg p-6 border border-blue-100 hover:border-blue-300 transition group">
+          <summary class="font-semibold text-lg text-gray-900 cursor-pointer flex items-center justify-between">
+            <span>Cet électricien est-il certifié ?</span>
+            <svg class="w-5 h-5 text-blue-600 group-open:rotate-180 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+            </svg>
+          </summary>
+          <div class="mt-4 text-gray-700 leading-relaxed">
+            Oui, {{ .Params.first_name }} {{ .Params.last_name }} est un professionnel qualifié membre du réseau ECLAT RAPIDE ELECTRICITE. Toutes les interventions sont garanties et conformes aux normes NF C 15-100.
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{/* FAQ Schema */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la zone d'intervention de {{ .Params.first_name }} {{ .Params.last_name }} ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ .Params.first_name }} {{ .Params.last_name }} intervient principalement à {{ .Params.address.addressLocality }}{{ if .Params.address.postalCode }} ({{ .Params.address.postalCode }}){{ end }} et dans toute l'Île-de-France{{ if .Params.coverage_zones }}, notamment dans les départements {{ delimit .Params.coverage_zones ", " }}{{ end }}."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle est l'expérience de cet électricien ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Avec {{ .Params.years_experience }} ans d'expérience dans le domaine de l'électricité, {{ .Params.first_name }} {{ .Params.last_name }} est spécialisé en {{ .Params.specialty | lower }}. {{ .Params.review_count | default 0 }} clients ont évalué ses services avec une note moyenne de {{ .Params.rating }}/5."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quels services propose cet électricien ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ .Params.first_name }} {{ .Params.last_name }} propose les services suivants : {{ delimit .Params.services ", " }}. Chaque intervention est réalisée dans le respect des normes en vigueur."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "{{ if .Params.available_24_7 }}Cet électricien est-il disponible 24h/24 ?{{ else }}Quels sont les horaires d'intervention ?{{ end }}",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "{{ if .Params.available_24_7 }}Oui, {{ .Params.first_name }} {{ .Params.last_name }} propose un service d'urgence 24h/24 et 7j/7 pour répondre à tous vos besoins en électricité, même les week-ends et jours fériés.{{ else }}{{ .Params.first_name }} {{ .Params.last_name }} intervient sur rendez-vous. N'hésitez pas à le contacter pour convenir d'un horaire qui vous convient.{{ end }}"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment obtenir un devis gratuit ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contactez {{ .Params.first_name }} {{ .Params.last_name }} au {{ .Params.phone }} pour obtenir un devis gratuit et sans engagement. Un diagnostic précis vous sera proposé avant toute intervention."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Cet électricien est-il certifié ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, {{ .Params.first_name }} {{ .Params.last_name }} est un professionnel qualifié membre du réseau ECLAT RAPIDE ELECTRICITE. Toutes les interventions sont garanties et conformes aux normes NF C 15-100."
+      }
+    }
+  ]
+}
+</script>
 
 {{/* Coverage Area Section */}}
 {{ if .Params.address }}

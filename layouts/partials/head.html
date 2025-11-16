@@ -21,6 +21,20 @@
 <title>{{ .Site.Title }}</title>
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta name="keywords" content="{{ .Site.Params.keywords }}">
+{{- else if eq .Type "profile" }}
+{{/* Optimized SEO for profile pages - 2025 strategy */}}
+{{- $city := .Params.address.addressLocality | default "" -}}
+{{- $postalCode := .Params.address.postalCode | default "" -}}
+{{- $specialty := .Params.specialty_primary | default .Params.specialty | default "Électricien" -}}
+{{- $fullName := printf "%s %s" .Params.first_name .Params.last_name -}}
+{{/* Title: 60 chars max with city targeting */}}
+<title>{{ $fullName }} - Électricien {{ $city }}{{ if $postalCode }} ({{ $postalCode }}){{ end }}</title>
+{{/* Meta description: 155 chars max with phone and CTA */}}
+<meta name="description" content="{{ $fullName }}, électricien expert à {{ $city }}{{ if $postalCode }} ({{ $postalCode }}){{ end }}. {{ .Params.years_experience }} ans d'expérience en {{ $specialty }}. Devis gratuit 24/7. ☎️ {{ .Params.phone }}">
+{{/* Keywords optimized for local search */}}
+<meta name="keywords" content="électricien {{ $city }}, {{ $specialty | lower }} {{ $city }}{{ if $postalCode }}, électricien {{ $postalCode }}{{ end }}, dépannage électrique {{ $city }}, {{ $fullName }}">
+{{/* Robots directive for indexing */}}
+<meta name="robots" content="index, follow, max-image-preview:large">
 {{- else }}
 <title>{{ .Params.title | default .Title }} | {{ .Site.Title }}</title>
 <meta name="description" content="{{ .Params.description | default .Summary }}">
@@ -31,12 +45,27 @@
 {{- end }}
 
 <!-- Open Graph / Social Media -->
-<meta property="og:type" content="website">
+<meta property="og:type" content="{{ if eq .Type "profile" }}profile{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
+{{- if eq .Type "profile" -}}
+{{- $fullName := printf "%s %s" .Params.first_name .Params.last_name -}}
+{{- $city := .Params.address.addressLocality | default "" -}}
+<meta property="og:title" content="{{ $fullName }} - Électricien à {{ $city }}">
+<meta property="og:description" content="{{ $fullName }}, électricien professionnel à {{ $city }}. {{ .Params.years_experience }} ans d'expérience. Devis gratuit, intervention rapide 24/7.">
+<meta property="og:locale" content="fr_FR">
+{{- else -}}
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Params.title | default .Title }}{{ end }}">
 <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
+{{- end -}}
 {{- $ogImage := "" -}}
-{{- if .Params.cdnImages.og.jpg -}}
+{{- if eq .Type "profile" -}}
+  {{/* Profile pages: use avatar image */}}
+  {{- if .Params.avatar_url -}}
+    {{- $ogImage = .Params.avatar_url -}}
+  {{- else if .Params.images.square -}}
+    {{- $ogImage = .Params.images.square -}}
+  {{- end -}}
+{{- else if .Params.cdnImages.og.jpg -}}
   {{- $ogImage = .Params.cdnImages.og.jpg -}}
 {{- else if .Params.images.og -}}
   {{- $ogImage = printf "%simages/og/%s.jpg" .Site.BaseURL .Params.images.og -}}
@@ -44,9 +73,15 @@
 {{- if $ogImage }}
 <meta property="og:image" content="{{ $ogImage }}">
 <meta property="og:image:secure_url" content="{{ $ogImage }}">
+{{- if eq .Type "profile" -}}
+<meta property="og:image:width" content="400">
+<meta property="og:image:height" content="400">
+<meta property="og:image:alt" content="{{ .Params.first_name }} {{ .Params.last_name }}, électricien professionnel à {{ .Params.address.addressLocality }}">
+{{- else -}}
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Service électricien professionnel {{ .Params.city | title }} {{ .Params.zipCode }}">
+{{- end -}}
 <meta property="og:image:type" content="image/jpeg">
 {{- end }}
 
@@ -71,12 +106,23 @@
 {{ end }}
 
 <!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="{{ if eq .Type "profile" }}summary{{ else }}summary_large_image{{ end }}">
+{{- if eq .Type "profile" -}}
+{{- $fullName := printf "%s %s" .Params.first_name .Params.last_name -}}
+{{- $city := .Params.address.addressLocality | default "" -}}
+<meta name="twitter:title" content="{{ $fullName }} - Électricien à {{ $city }}">
+<meta name="twitter:description" content="{{ $fullName }}, électricien professionnel à {{ $city }}. {{ .Params.years_experience }} ans d'expérience.">
+{{- else -}}
 <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Params.title | default .Title }}{{ end }}">
 <meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description | default .Summary }}{{ end }}">
+{{- end -}}
 {{- if $ogImage }}
 <meta name="twitter:image" content="{{ $ogImage }}">
+{{- if eq .Type "profile" -}}
+<meta name="twitter:image:alt" content="{{ .Params.first_name }} {{ .Params.last_name }}, électricien {{ .Params.address.addressLocality }}">
+{{- else -}}
 <meta name="twitter:image:alt" content="{{ .Params.title | default .Title }}">
+{{- end -}}
 {{- end }}
 
 <!-- Canonical URL -->

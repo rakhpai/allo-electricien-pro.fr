@@ -1,0 +1,931 @@
+{{ define "main" }}
+{{ partial "hero.html" . }}
+
+<!-- Featured Videos Section -->
+{{ partial "featured-videos.html" . }}
+
+<!-- Departments Section - Île-de-France Coverage -->
+<section id="departments" class="py-16 bg-gradient-to-br from-blue-50 via-white to-indigo-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-7xl mx-auto">
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          Électricien par Département - Île-de-France
+        </h2>
+        <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+          Notre réseau d'électriciens qualifiés couvre les 8 départements d'Île-de-France.
+          Découvrez nos services par zone géographique.
+        </p>
+      </div>
+
+      <!-- Department Cards Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+
+        <!-- Paris (75) -->
+        <a href="/electricien/75/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-blue-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              75
+            </div>
+            <svg class="w-6 h-6 text-blue-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Paris</h3>
+          <p class="text-sm text-gray-600">20 arrondissements</p>
+          <p class="text-xs text-blue-600 mt-2 font-medium">Cœur historique</p>
+        </a>
+
+        <!-- Hauts-de-Seine (92) -->
+        <a href="/electricien/92/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-indigo-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              92
+            </div>
+            <svg class="w-6 h-6 text-indigo-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Hauts-de-Seine</h3>
+          <p class="text-sm text-gray-600">36 communes</p>
+          <p class="text-xs text-indigo-600 mt-2 font-medium">La Défense, Ouest</p>
+        </a>
+
+        <!-- Seine-Saint-Denis (93) -->
+        <a href="/electricien/93/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-purple-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              93
+            </div>
+            <svg class="w-6 h-6 text-purple-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Seine-Saint-Denis</h3>
+          <p class="text-sm text-gray-600">40 communes</p>
+          <p class="text-xs text-purple-600 mt-2 font-medium">Saint-Denis, Nord-Est</p>
+        </a>
+
+        <!-- Val-de-Marne (94) -->
+        <a href="/electricien/94/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-pink-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              94
+            </div>
+            <svg class="w-6 h-6 text-pink-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Val-de-Marne</h3>
+          <p class="text-sm text-gray-600">47 communes</p>
+          <p class="text-xs text-pink-600 mt-2 font-medium">Créteil, Sud-Est</p>
+        </a>
+
+        <!-- Seine-et-Marne (77) -->
+        <a href="/electricien/77/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-green-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              77
+            </div>
+            <svg class="w-6 h-6 text-green-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Seine-et-Marne</h3>
+          <p class="text-sm text-gray-600">507 communes</p>
+          <p class="text-xs text-green-600 mt-2 font-medium">Meaux, Grande couronne Est</p>
+        </a>
+
+        <!-- Yvelines (78) -->
+        <a href="/electricien/78/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-teal-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              78
+            </div>
+            <svg class="w-6 h-6 text-teal-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Yvelines</h3>
+          <p class="text-sm text-gray-600">259 communes</p>
+          <p class="text-xs text-teal-600 mt-2 font-medium">Versailles, Grande couronne Ouest</p>
+        </a>
+
+        <!-- Essonne (91) -->
+        <a href="/electricien/91/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-orange-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              91
+            </div>
+            <svg class="w-6 h-6 text-orange-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Essonne</h3>
+          <p class="text-sm text-gray-600">194 communes</p>
+          <p class="text-xs text-orange-600 mt-2 font-medium">Évry, Grande couronne Sud</p>
+        </a>
+
+        <!-- Val-d'Oise (95) -->
+        <a href="/electricien/95/" class="group relative bg-white rounded-xl shadow-md hover:shadow-xl transition-all duration-300 p-6 border border-gray-100 hover:border-blue-400">
+          <div class="flex items-start justify-between mb-3">
+            <div class="bg-red-600 text-white text-xl font-bold rounded-lg w-12 h-12 flex items-center justify-center">
+              95
+            </div>
+            <svg class="w-6 h-6 text-red-600 transform group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Val-d'Oise</h3>
+          <p class="text-sm text-gray-600">184 communes</p>
+          <p class="text-xs text-red-600 mt-2 font-medium">Cergy, Grande couronne Nord</p>
+        </a>
+
+      </div>
+
+      <!-- IDF Overview Link -->
+      <div class="mt-8 text-center">
+        <a href="/electricien/" class="inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-lg transition-all duration-300 shadow-lg hover:shadow-xl">
+          <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
+          </svg>
+          Voir tous nos électriciens en Île-de-France
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Services Section -->
+<section id="services" class="py-16 bg-gray-50" aria-labelledby="services-heading" itemscope itemtype="https://schema.org/ItemList">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <!-- Enhanced Heading with Visual Hierarchy -->
+      <h2 id="services-heading" class="text-4xl md:text-5xl font-black text-center mb-12 leading-tight">
+        <span class="block text-gray-900 mb-2">Urgence Électricité Paris</span>
+        <span class="block text-2xl md:text-3xl text-gray-700 font-semibold mb-3">
+          Dépannage & Installation
+        </span>
+        <span class="inline-flex items-center gap-2 text-3xl md:text-4xl">
+          <span class="animate-pulse">⚡</span>
+          <span class="bg-gradient-to-r from-red-600 to-orange-500 bg-clip-text text-transparent font-black">
+            24h/24
+          </span>
+        </span>
+      </h2>
+
+      <!-- Service Cards Grid -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6 lg:gap-8">
+
+        <!-- Card 1: Emergency Service -->
+        <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement"
+                 class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
+                        border-2 border-transparent hover:border-red-500/30
+                        transform transition-all duration-500 hover:-translate-y-2
+                        overflow-hidden p-8">
+          <link itemprop="url" href="/depannage-electricite-paris/">
+
+          <!-- Animated Gradient Overlay -->
+          <div class="absolute inset-0 bg-gradient-to-br from-red-500/0 via-transparent to-orange-500/0
+                      group-hover:from-red-500/5 group-hover:to-orange-500/5
+                      transition-all duration-500 pointer-events-none rounded-2xl overflow-hidden"></div>
+
+            <!-- Urgency Badge -->
+            <div class="absolute -top-3 -right-3 z-20">
+              <div class="relative">
+                <span class="absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75 animate-ping"></span>
+                <span class="relative inline-flex items-center gap-1 bg-red-600 text-white text-xs font-bold px-3 py-1 rounded-full shadow-lg">
+                  <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z"/>
+                  </svg>
+                  URGENCE 24/7
+                </span>
+              </div>
+            </div>
+
+            <!-- Content with z-index layering -->
+            <div class="relative z-10">
+              <!-- Modern SVG Icon -->
+              <div class="mb-6 relative">
+                <div class="w-20 h-20 mx-auto bg-gradient-to-br from-red-500/10 to-red-600/10 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                  <svg class="w-10 h-10 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/>
+                  </svg>
+                </div>
+              </div>
+
+              <!-- Title -->
+              <h3 itemprop="name" class="text-xl font-bold text-gray-900 mb-2 group-hover:text-red-600 transition">
+                Panne Électrique ?
+                <span class="block text-2xl mt-1">Intervention &lt;30min</span>
+              </h3>
+
+              <!-- Benefits List -->
+              <ul class="space-y-2 mb-4 text-sm" itemprop="description">
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Intervention 24/7</strong> - Même jours fériés</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>&lt;30 min</strong> - Garantie de rapidité</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Devis gratuit</strong> - Tarifs transparents</span>
+                </li>
+              </ul>
+
+              <!-- Pricing Preview -->
+              <div class="mt-4 p-3 bg-gradient-to-r from-gray-50 to-red-50 rounded-lg border border-red-200">
+                <p class="text-sm">
+                  <span class="text-lg font-black text-gray-900">À partir de 65€/h</span>
+                  <span class="block text-xs text-gray-600 mt-1">
+                    ✓ Déplacement offert • ✓ Devis gratuit • ✓ Garantie 2 ans
+                  </span>
+                </p>
+              </div>
+
+              <!-- Trust Signals -->
+              <div class="mt-4 pt-4 border-t border-gray-100 flex items-center justify-between text-xs text-gray-600">
+                <div class="flex items-center gap-1">
+                  <svg class="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                  </svg>
+                  <span class="font-semibold">4.9/5</span>
+                  <span class="text-gray-400">(845 avis)</span>
+                </div>
+                <div class="flex items-center gap-1">
+                  <div class="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
+                  <span class="font-semibold">Disponible</span>
+                </div>
+              </div>
+
+              <!-- Dual CTAs -->
+              <div class="mt-6 flex flex-col gap-3">
+                <a href="tel:+33644644824"
+                   class="inline-flex items-center justify-center gap-2 bg-red-600 hover:bg-red-700
+                          text-white font-bold py-3 px-6 rounded-xl transition-all duration-300
+                          shadow-lg hover:shadow-xl hover:scale-105 cursor-pointer">
+                  <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z"/>
+                  </svg>
+                  Appeler Maintenant
+                </a>
+                <a href="/depannage-electricite-paris/" class="text-center text-red-600 font-semibold inline-flex items-center justify-center gap-1 hover:gap-2 transition-all">
+                  Ou voir détails & tarifs
+                  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                  </svg>
+                </a>
+              </div>
+            </div>
+
+          <meta itemprop="provider" content="SOS Électricien Paris">
+          <meta itemprop="areaServed" content="Paris, Île-de-France">
+        </article>
+
+        <!-- Card 2: Installation Service -->
+        <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement">
+          <a href="/services/installation-electrique-paris/" itemprop="url"
+             class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
+                    border-2 border-transparent hover:border-blue-500/30
+                    transform transition-all duration-500 hover:-translate-y-2
+                    overflow-hidden p-8">
+
+            <!-- Animated Gradient Overlay -->
+            <div class="absolute inset-0 bg-gradient-to-br from-blue-500/0 via-transparent to-indigo-500/0
+                        group-hover:from-blue-500/5 group-hover:to-indigo-500/5
+                        transition-all duration-500 pointer-events-none"></div>
+
+            <!-- Content with z-index layering -->
+            <div class="relative z-10">
+              <!-- Modern SVG Icon -->
+              <div class="mb-6 relative">
+                <div class="w-20 h-20 mx-auto bg-gradient-to-br from-blue-500/10 to-blue-600/10 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                  <svg class="w-10 h-10 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z"/>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+                  </svg>
+                </div>
+              </div>
+
+              <!-- Title -->
+              <h3 itemprop="name" class="text-xl font-bold text-gray-900 mb-2 group-hover:text-blue-600 transition">
+                Installation Électrique
+                <span class="block text-lg font-normal mt-1 text-gray-600">Professionnelle & Certifiée</span>
+              </h3>
+
+              <!-- Benefits List -->
+              <ul class="space-y-2 mb-4 text-sm" itemprop="description">
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Prises & Interrupteurs</strong> - Installation neuve</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Tableaux électriques</strong> - Mise à niveau</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Luminaires & Éclairage</strong> - Pose complète</span>
+                </li>
+              </ul>
+
+              <!-- Pricing Preview -->
+              <div class="mt-4 p-3 bg-gradient-to-r from-gray-50 to-blue-50 rounded-lg border border-blue-200">
+                <p class="text-sm">
+                  <span class="text-lg font-black text-gray-900">À partir de 75€/h</span>
+                  <span class="block text-xs text-gray-600 mt-1">
+                    ✓ Devis détaillé gratuit • ✓ Travaux garantis 2 ans
+                  </span>
+                </p>
+              </div>
+
+              <!-- Trust Signals -->
+              <div class="mt-4 pt-4 border-t border-gray-100 flex items-center justify-between text-xs text-gray-600">
+                <div class="flex items-center gap-1">
+                  <svg class="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                  </svg>
+                  <span class="font-semibold">4.9/5</span>
+                  <span class="text-gray-400">(620 avis)</span>
+                </div>
+                <div class="flex items-center gap-1">
+                  <span class="bg-blue-100 text-blue-800 text-xs font-bold px-2 py-1 rounded-full">Certifié NF</span>
+                </div>
+              </div>
+
+              <!-- CTA -->
+              <div class="mt-6">
+                <span class="inline-flex items-center gap-2 text-blue-600 font-bold group-hover:gap-3 transition-all">
+                  Devis Gratuit 24h
+                  <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                  </svg>
+                </span>
+              </div>
+            </div>
+
+            <meta itemprop="provider" content="SOS Électricien Paris">
+            <meta itemprop="areaServed" content="Paris, Île-de-France">
+          </a>
+        </article>
+
+        <!-- Card 3: Compliance/Standards Service -->
+        <article itemscope itemtype="https://schema.org/Service" itemprop="itemListElement">
+          <a href="/conseils/" itemprop="url"
+             class="group relative block bg-white rounded-2xl shadow-lg hover:shadow-2xl
+                    border-2 border-transparent hover:border-green-500/30
+                    transform transition-all duration-500 hover:-translate-y-2
+                    overflow-hidden p-8">
+
+            <!-- Animated Gradient Overlay -->
+            <div class="absolute inset-0 bg-gradient-to-br from-green-500/0 via-transparent to-emerald-500/0
+                        group-hover:from-green-500/5 group-hover:to-emerald-500/5
+                        transition-all duration-500 pointer-events-none"></div>
+
+            <!-- Content with z-index layering -->
+            <div class="relative z-10">
+              <!-- Modern SVG Icon -->
+              <div class="mb-6 relative">
+                <div class="w-20 h-20 mx-auto bg-gradient-to-br from-green-500/10 to-green-600/10 rounded-2xl flex items-center justify-center group-hover:scale-110 transition-transform duration-300">
+                  <svg class="w-10 h-10 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                  </svg>
+                </div>
+              </div>
+
+              <!-- Title -->
+              <h3 itemprop="name" class="text-xl font-bold text-gray-900 mb-2 group-hover:text-green-600 transition">
+                Conformité NF C 15-100
+                <span class="block text-lg font-normal mt-1 text-gray-600">Obligatoire vente/location</span>
+              </h3>
+
+              <!-- Benefits List -->
+              <ul class="space-y-2 mb-4 text-sm" itemprop="description">
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Diagnostic électrique</strong> - Complet & détaillé</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Mise aux normes</strong> - Conformité garantie</span>
+                </li>
+                <li class="flex items-start gap-2">
+                  <svg class="w-5 h-5 text-green-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
+                    <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"/>
+                  </svg>
+                  <span><strong>Certificat Consuel</strong> - Attestation officielle</span>
+                </li>
+              </ul>
+
+              <!-- Pricing Preview -->
+              <div class="mt-4 p-3 bg-gradient-to-r from-gray-50 to-green-50 rounded-lg border border-green-200">
+                <p class="text-sm">
+                  <span class="text-lg font-black text-gray-900">À partir de 199€</span>
+                  <span class="block text-xs text-gray-600 mt-1">
+                    ✓ Diagnostic offert • ✓ Devis détaillé gratuit
+                  </span>
+                </p>
+              </div>
+
+              <!-- Trust Signals -->
+              <div class="mt-4 pt-4 border-t border-gray-100 flex items-center justify-between text-xs text-gray-600">
+                <div class="flex items-center gap-1">
+                  <svg class="w-4 h-4 text-yellow-400" fill="currentColor" viewBox="0 0 20 20">
+                    <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z"/>
+                  </svg>
+                  <span class="font-semibold">4.9/5</span>
+                  <span class="text-gray-400">(380 avis)</span>
+                </div>
+                <div class="flex items-center gap-1">
+                  <span class="bg-green-100 text-green-800 text-xs font-bold px-2 py-1 rounded-full">Expert Consuel</span>
+                </div>
+              </div>
+
+              <!-- CTA -->
+              <div class="mt-6">
+                <span class="inline-flex items-center gap-2 text-green-600 font-bold group-hover:gap-3 transition-all">
+                  Vérifier ma conformité
+                  <svg class="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                  </svg>
+                </span>
+              </div>
+            </div>
+
+            <meta itemprop="provider" content="SOS Électricien Paris">
+            <meta itemprop="areaServed" content="Paris, Île-de-France">
+          </a>
+        </article>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Schema.org Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Service",
+          "name": "Dépannage Électricité Paris - Intervention < 30min",
+          "description": "Service d'urgence électricité Paris 24/7. Intervention garantie en moins de 30 minutes pour panne de courant, court-circuit, disjoncteur.",
+          "url": "{{ .Site.BaseURL }}/depannage-electricite-paris/",
+          "areaServed": {
+            "@type": "City",
+            "name": "Paris"
+          },
+          "availableChannel": {
+            "@type": "ServiceChannel",
+            "serviceUrl": "{{ .Site.BaseURL }}/depannage-electricite-paris/",
+            "servicePhone": "+33-1-44-90-11-31"
+          },
+          "hoursAvailable": {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+              "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"
+            ],
+            "opens": "00:00",
+            "closes": "23:59"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Service",
+          "name": "Installation Électrique Professionnelle Paris",
+          "description": "Installation électrique professionnelle : prises, interrupteurs, luminaires, tableaux électriques. Travaux certifiés NF et garantis 2 ans.",
+          "url": "{{ .Site.BaseURL }}/sos-electricien/",
+          "areaServed": {
+            "@type": "City",
+            "name": "Paris"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Service",
+          "name": "Mise aux Normes NF C 15-100 Paris",
+          "description": "Diagnostic électrique complet et mise aux normes NF C 15-100. Certificat Consuel pour vente ou location. Conformité garantie.",
+          "url": "{{ .Site.BaseURL }}/conseils/",
+          "areaServed": {
+            "@type": "City",
+            "name": "Paris"
+          }
+        }
+      }
+    ]
+  }
+  </script>
+</section>
+
+<!-- Paris Arrondissements Section -->
+<section id="paris-arrondissements" class="py-16 bg-gradient-to-br from-blue-50 to-white border-t border-gray-100">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          Électricien Paris - Tous les Arrondissements
+        </h2>
+        <p class="text-lg text-gray-600 max-w-3xl mx-auto">
+          Intervention rapide dans les 20 arrondissements de Paris. Nos électriciens certifiés sont disponibles 24h/24 pour vos urgences électriques partout dans la capitale.
+        </p>
+      </div>
+
+      <!-- Paris Arrondissements Grid -->
+      <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4 mb-8">
+        {{ $parisArrondissements := slice }}
+        {{ $seenZips := slice }}
+        {{ $generalParis := dict }}
+
+        {{ range .Site.Data.sites.sites }}
+          {{ if hasPrefix .zipCode "75" }}
+            {{ if eq (len .zipCode) 5 }}
+              {{ $zipCode := .zipCode }}
+              {{ if not (in $seenZips $zipCode) }}
+                {{ $seenZips = $seenZips | append $zipCode }}
+                {{ $arrNum := substr .zipCode 3 2 }}
+                {{ $arrNumInt := 0 }}
+                {{ if eq (substr $arrNum 0 1) "0" }}
+                  {{ $arrNumInt = int (substr $arrNum 1 1) }}
+                {{ else }}
+                  {{ $arrNumInt = int $arrNum }}
+                {{ end }}
+                {{ if and (ge $arrNumInt 1) (le $arrNumInt 20) }}
+                  {{ $parisArrondissements = $parisArrondissements | append (dict "num" $arrNum "numInt" $arrNumInt "url" .url "city" .city) }}
+                {{ end }}
+              {{ end }}
+            {{ else if eq .citySlug "paris" }}
+              {{ $generalParis = dict "url" .url "city" .city }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        {{ $sorted := sort $parisArrondissements "numInt" }}
+
+        {{ if $generalParis.url }}
+        <a href="{{ $generalParis.url }}"
+           class="group relative bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-6 border-2 border-transparent hover:border-primary overflow-hidden">
+          <div class="absolute inset-0 bg-gradient-to-br from-primary/5 to-blue-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+          <div class="relative z-10">
+            <div class="text-4xl font-black text-gray-200 group-hover:text-primary/20 transition-colors duration-300 mb-2">
+              ⚡
+            </div>
+            <div class="text-sm font-semibold text-gray-900 group-hover:text-primary transition-colors duration-300">
+              Paris
+            </div>
+            <div class="flex items-center gap-1 mt-2 text-xs text-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <span>Voir les électriciens</span>
+              <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+
+        {{ range $sorted }}
+        <a href="{{ .url }}"
+           class="group relative bg-white rounded-lg shadow-md hover:shadow-xl transition-all duration-300 p-6 border-2 border-transparent hover:border-primary overflow-hidden">
+
+          <!-- Hover gradient effect -->
+          <div class="absolute inset-0 bg-gradient-to-br from-primary/5 to-blue-500/5 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+
+          <!-- Content -->
+          <div class="relative z-10">
+            <div class="text-4xl font-black text-gray-200 group-hover:text-primary/20 transition-colors duration-300 mb-2">
+              {{ strings.TrimLeft "0" .num }}
+            </div>
+            <div class="text-sm font-semibold text-gray-900 group-hover:text-primary transition-colors duration-300">
+              Paris {{ strings.TrimLeft "0" .num }}{{ if eq .num "01" }}er{{ else }}e{{ end }}
+            </div>
+            <div class="flex items-center gap-1 mt-2 text-xs text-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+              <span>Voir les électriciens</span>
+              <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+            </div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+
+      <!-- CTA to Paris main page -->
+      <div class="text-center">
+        <a href="/electricien-paris/"
+           class="inline-flex items-center gap-2 bg-primary hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-xl text-lg shadow-lg transform transition-all duration-300 hover:scale-105">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/>
+          </svg>
+          Voir tous les électriciens à Paris
+        </a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Cornerstone Content Showcase -->
+<section id="cornerstone-content" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+
+      <!-- Section Header -->
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+          Ressources & Services Électricité
+        </h2>
+        <p class="text-lg text-gray-600">
+          Guides complets, tarifs transparents et zones d'intervention pour tous vos besoins électriques
+        </p>
+      </div>
+
+      <!-- Cornerstone Cards Grid -->
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">
+
+        <!-- Card 1: Annuaire -->
+        <a href="/annuaire/"
+           class="group bg-gradient-to-br from-blue-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-primary">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-primary/10 rounded-full flex items-center justify-center group-hover:bg-primary/20 transition-colors">
+              <svg class="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-primary transition-colors">
+            Annuaire Complet
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Trouvez l'électricien le plus proche dans 408 communes d'Île-de-France.
+          </p>
+          <span class="inline-flex items-center gap-1 text-primary font-semibold">
+            Parcourir l'annuaire
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 2: Services -->
+        <a href="/services/"
+           class="group bg-gradient-to-br from-green-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-green-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-green-600/10 rounded-full flex items-center justify-center group-hover:bg-green-600/20 transition-colors">
+              <svg class="w-8 h-8 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2V6zM14 6a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2V6zM4 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2H6a2 2 0 01-2-2v-2zM14 16a2 2 0 012-2h2a2 2 0 012 2v2a2 2 0 01-2 2h-2a2 2 0 01-2-2v-2z"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-green-600 transition-colors">
+            Tous nos Services
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Dépannage, installation, mise aux normes : découvrez nos prestations.
+          </p>
+          <span class="inline-flex items-center gap-1 text-green-600 font-semibold">
+            Voir les services
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 3: Tarifs -->
+        <a href="/tarifs/"
+           class="group bg-gradient-to-br from-yellow-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-yellow-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-yellow-600/10 rounded-full flex items-center justify-center group-hover:bg-yellow-600/20 transition-colors">
+              <svg class="w-8 h-8 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-yellow-600 transition-colors">
+            Tarifs & Devis
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Grilles tarifaires transparentes et devis gratuit sous 24h.
+          </p>
+          <span class="inline-flex items-center gap-1 text-yellow-600 font-semibold">
+            Consulter les tarifs
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 4: Zones d'Intervention -->
+        <a href="/zones-intervention/"
+           class="group bg-gradient-to-br from-red-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-red-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-red-600/10 rounded-full flex items-center justify-center group-hover:bg-red-600/20 transition-colors">
+              <svg class="w-8 h-8 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-red-600 transition-colors">
+            Zones d'Intervention
+          </h3>
+          <p class="text-gray-600 mb-4">
+            Paris & 8 départements IDF couverts. Voir la carte complète.
+          </p>
+          <span class="inline-flex items-center gap-1 text-red-600 font-semibold">
+            Voir les zones
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+        <!-- Card 5: Video Gallery -->
+        <a href="/videos/"
+           class="group bg-gradient-to-br from-purple-50 to-white rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 p-8 border-2 border-transparent hover:border-purple-600">
+          <div class="mb-4">
+            <div class="w-16 h-16 bg-purple-600/10 rounded-full flex items-center justify-center group-hover:bg-purple-600/20 transition-colors">
+              <svg class="w-8 h-8 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z"/>
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+            </div>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3 group-hover:text-purple-600 transition-colors">
+            Vidéos Électriciens
+          </h3>
+          <p class="text-gray-600 mb-4">
+            432 vidéos de présentation d'électriciens dans toute l'IDF.
+          </p>
+          <span class="inline-flex items-center gap-1 text-purple-600 font-semibold">
+            Voir les vidéos
+            <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </span>
+        </a>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- Directory Section -->
+<section id="directory" class="py-16 bg-white">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-4">
+        Annuaire Électricien Paris & Île-de-France - 408 Professionnels
+      </h2>
+      <p class="text-center text-gray-600 mb-12 text-lg">
+        {{ .Site.Data.sites.total_sites }} électriciens dans {{ len .Site.Data.sites.departments }} départements
+      </p>
+
+      <!-- Department Tabs with Enhanced Labels -->
+      <div class="mb-8">
+        <div class="flex flex-wrap gap-2 justify-center">
+          <button class="dept-filter-btn active bg-primary text-white px-6 py-3 rounded-full font-semibold hover:bg-blue-700 transition-all duration-300 shadow-md hover:shadow-lg" data-dept="all">
+            <span class="flex items-center gap-2">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM4.332 8.027a6.012 6.012 0 011.912-2.706C6.512 5.73 6.974 6 7.5 6A1.5 1.5 0 019 7.5V8a2 2 0 004 0 2 2 0 011.523-1.943A5.977 5.977 0 0116 10c0 .34-.028.675-.083 1H15a2 2 0 00-2 2v2.197A5.973 5.973 0 0110 16v-2a2 2 0 00-2-2 2 2 0 01-2-2 2 2 0 00-1.668-1.973z"/>
+              </svg>
+              Tous les départements
+              <span class="bg-white/20 px-2 py-0.5 rounded-full text-sm">{{ .Site.Data.sites.total_sites }}</span>
+            </span>
+          </button>
+
+          {{ $deptNames := dict "75" "Paris" "77" "Seine-et-Marne" "78" "Yvelines" "91" "Essonne" "92" "Hauts-de-Seine" "93" "Seine-Saint-Denis" "94" "Val-de-Marne" "95" "Val-d'Oise" }}
+
+          {{ range .Site.Data.sites.departments }}
+          <button class="dept-filter-btn bg-gray-200 text-gray-700 px-6 py-3 rounded-full font-semibold hover:bg-gray-300 transition-all duration-300 shadow-md hover:shadow-lg" data-dept="{{ . }}">
+            <span class="flex items-center gap-2">
+              {{ . }} - {{ index $deptNames . }}
+              <span class="bg-gray-300 px-2 py-0.5 rounded-full text-sm">{{ index $.Site.Data.sites.stats . }}</span>
+            </span>
+          </button>
+          {{ end }}
+        </div>
+      </div>
+
+      <!-- Search Box -->
+      <div class="mb-8 max-w-2xl mx-auto">
+        <input type="text"
+               id="city-search"
+               placeholder="Rechercher une commune..."
+               class="w-full px-6 py-4 text-lg border-2 border-gray-300 rounded-lg focus:border-primary focus:outline-none">
+      </div>
+
+      <!-- Cities Grid -->
+      <div id="cities-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {{ range .Site.Data.sites.sites }}
+        {{ $citySlug := .citySlug }}
+        {{ $hasVideo := false }}
+        {{ if and $citySlug $.Site.Data.commune_videos }}
+          {{ if index $.Site.Data.commune_videos $citySlug }}
+            {{ $hasVideo = true }}
+          {{ end }}
+        {{ end }}
+        <div class="city-card bg-white rounded-lg shadow-lg p-6 hover:shadow-xl transition"
+             data-city="{{ .city }}"
+             data-zip="{{ .zipCode }}"
+             data-dept="{{ substr .zipCode 0 2 }}"
+             data-has-video="{{ $hasVideo }}">
+          <div class="flex items-start justify-between mb-2">
+            <h3 class="text-xl font-bold text-gray-900 flex-1">{{ .city }}</h3>
+            {{ if $hasVideo }}
+            <div class="ml-2 flex-shrink-0">
+              <span class="inline-flex items-center gap-1 bg-red-100 text-red-700 text-xs font-semibold px-2 py-1 rounded-full" title="Vidéo disponible">
+                <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"/>
+                </svg>
+                Vidéo
+              </span>
+            </div>
+            {{ end }}
+          </div>
+          <p class="text-gray-600 mb-4">{{ .zipCode }}</p>
+          <a href="{{ .url }}" class="text-primary font-semibold hover:underline inline-flex items-center gap-1">
+            Électricien {{ .city }}
+            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </a>
+        </div>
+        {{ end }}
+      </div>
+
+      <div id="no-results" class="hidden text-center py-12">
+        <p class="text-gray-600 text-lg">Aucune commune trouvée.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Map Section -->
+<section id="coverage" class="py-16 bg-gray-50">
+  <div class="container mx-auto px-4">
+    <div class="max-w-6xl mx-auto">
+      <h2 class="text-3xl md:text-4xl font-bold text-center text-gray-900 mb-12">
+        Zones d'Intervention Urgence Électricité - Paris & 8 Départements IDF
+      </h2>
+      <div class="bg-white rounded-lg shadow-lg p-4">
+        <div id="homepage-map" class="h-96 md:h-[600px] rounded-lg"></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Initialize Map -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Initialize map centered on Île-de-France
+    const map = L.map('homepage-map').setView([48.8566, 2.3522], 9);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    // Add markers for all sites
+    const markers = L.markerClusterGroup();
+
+    {{ range .Site.Data.sites.sites }}
+    markers.addLayer(L.marker([{{ .coordinates.lat }}, {{ .coordinates.lng }}])
+      .bindPopup('<b>{{ .city }}</b><br>{{ .zipCode }}<br><a href="{{ .url }}" class="text-primary font-semibold">Électricien {{ .city }}</a>'));
+    {{ end }}
+
+    map.addLayer(markers);
+  });
+</script>
+{{ end }}
