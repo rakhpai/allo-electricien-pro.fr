@@ -51,7 +51,7 @@ jobs:
       - name: Build Hugo site
         if: ${{ !inputs.skip_build }}
         run: |
-          hugo --gc --minify --environment production --verbose
+          hugo --gc --minify --environment production
 
       - name: Verify build output
         run: |
