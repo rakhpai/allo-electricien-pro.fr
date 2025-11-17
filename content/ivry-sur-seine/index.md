@@ -6,8 +6,8 @@ zipCode: '94200'
 department: '94'
 keyword: Électricien Urgence Ivry-Sur-Seine 94200
 company: CircuitIvry94
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien urgence Ivry-Sur-Seine 94200 ⚡ Installation, réparation, panne
   électrique. Dépannage immédiat 24h/7j. Technicien qualifié. Devis gratuit.
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-ivry-sur-seine-94200-video.jpg
 introText: >-
-  À Ivry-sur-Seine, commune dynamique du Val-de-Marne caractérisée par un
-  habitat diversifié allant des immeubles collectifs aux maisons individuelles,
-  les bâtiments présentent des configurations électriques variées. Les
-  installations anciennes et modernes nécessitent des interventions régulières
-  pour garantir la sécurité et la conformité des normes en vigueur. Nos
-  électriciens interviennent rapidement dans toute la zone pour assurer
-  l'entretien, la réparation et l'installation de vos systèmes électriques.
-introGeneratedAt: '2025-11-12T17:04:42.652Z'
+  À Ivry-sur-Seine, commune dynamique du Val-de-Marne, les résidences
+  collectives et pavillons nécessitent une expertise électrique de qualité pour
+  garantir sécurité et conformité. Que vous habitiez un immeuble ancien ou
+  récent du 94200, l'entretien et la rénovation de vos installations électriques
+  demandent des professionnels fiables et réactifs. Le réseau ALLO ELECTRICIEN
+  PRO couvre Ivry-sur-Seine avec une intervention en moins de 30 minutes, fort
+  de 410+ électriciens certifiés Qualifelec
+introGeneratedAt: '2025-11-17T09:57:17.723Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à IVRY-SUR-SEINE
 electriciansAvailable: 7

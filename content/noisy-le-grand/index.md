@@ -6,8 +6,8 @@ zipCode: '93160'
 department: '93'
 keyword: Électricien d'Urgence Noisy-Le-Grand
 company: UrgenceWatt93
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien urgence Noisy-Le-Grand 93160 ⚡ Tableau, court-circuit, panne.
   Dépannage immédiat 24h/7j. Artisan certifié. Devis gratuit. UrgenceWatt93.
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-noisy-le-grand-93160-video.jpg
 introText: >-
-  À Noisy-le-Grand, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant pavillons individuels et petits collectifs requiert une
-  expertise électrique adaptée aux réalités locales. Les installations anciennes
-  côtoient les rénovations modernes, nécessitant des interventions techniques
-  fiables et conformes aux normes actuelles. Nos électriciens interviennent
-  rapidement sur l'ensemble du 93160 pour tous vos besoins en dépannage,
-  installation et maintenance électrique.
-introGeneratedAt: '2025-11-12T15:18:52.479Z'
+  À Noisy-le-Grand, commune dynamique de Seine-Saint-Denis, les résidences
+  pavillonnaires et petits collectifs demandent une expertise électrique de
+  proximité et réactive. Que ce soit pour l'entretien de votre installation, la
+  mise aux normes ou une intervention d'urgence, nos électriciens maîtrisent les
+  spécificités du 93160. Le réseau ALLO ELECTRICIEN PRO couvre Noisy-le-Grand
+  avec une intervention garantie en moins de 30 minutes, grâce à nos 410+
+  électriciens certifiés Qualifelec et RGE dispon
+introGeneratedAt: '2025-11-17T09:56:30.117Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à NOISY-LE-GRAND
 electriciansAvailable: 5

@@ -6,8 +6,8 @@ zipCode: '94000'
 department: '94'
 keyword: Électricien d'Urgence Creteil
 company: VoltPro75
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence Creteil 94000 ⚡ Installation, panne électrique,
   court-circuit. Intervention immédiate 24h/7j. Devis gratuit. VoltPro75
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-creteil-94000-video.jpg
 introText: >-
-  À Créteil, commune dynamique du Val-de-Marne en première couronne sud de
-  l'Île-de-France, l'habitat résidentiel et les petits collectifs demandent une
-  expertise électrique de proximité constante. Les installations anciennes des
-  pavillons et les systèmes modernes des immeubles récents nécessitent des
-  interventions régulières pour garantir votre sécurité et votre confort. Nos
-  électriciens interviennent rapidement dans tout le 94000 et les quartiers
-  environnants pour tous vos dépannages et installations.
-introGeneratedAt: '2025-11-12T15:19:21.445Z'
+  À Créteil, commune dynamique du Val-de-Marne, les résidences collectives et
+  pavillons demandent une expertise électrique fiable et réactive. Que vous
+  habitiez près du lac ou dans le centre-ville, vos installations électriques
+  méritent un professionnel qualifié pour diagnostics, rénovations ou dépannages
+  urgents. Le réseau ALLO ELECTRICIEN PRO couvre Créteil 94000 avec intervention
+  sous 30 minutes, fort de 410+ électriciens certifiés Qualifelec et RGE à votre
+  service.
+introGeneratedAt: '2025-11-17T09:57:04.516Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CRETEIL
 electriciansAvailable: 6

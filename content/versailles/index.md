@@ -6,8 +6,8 @@ zipCode: '78000'
 department: '78'
 keyword: Électricien Urgence Versailles
 company: VERSAILLESExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence Versailles 78 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez
@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-versailles-78000-video.jpg
 introText: >-
-  À Versailles, dans le 78000, le parc immobilier diversifié alliant demeures
-  historiques, pavillons résidentiels et petits collectifs demande une expertise
-  électrique adaptée et régulière. Les installations anciennes comme les
-  constructions modernes de cette commune des Yvelines requièrent des
-  interventions professionnelles fiables et conformes aux normes actuelles.  Nos
-  électriciens interviennent rapidement sur l'ensemble du secteur versaillais
-  pour tous vos dépannages, installations.
-introGeneratedAt: '2025-11-12T15:16:45.493Z'
+  À Versailles, commune prestigieuse des Yvelines, les résidences historiques et
+  pavillons modernes requièrent une expertise électrique adaptée à leurs
+  spécificités. Vos installations domestiques et petits collectifs méritent une
+  intervention rapide et professionnelle pour garantir votre sécurité. Le réseau
+  ALLO ELECTRICIEN PRO couvre Versailles 78000 avec nos électriciens certifiés
+  Qualifelec, disponibles en moins de 30 minutes pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T09:54:31.585Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VERSAILLES
 electriciansAvailable: 6

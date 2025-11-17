@@ -6,8 +6,8 @@ zipCode: '94400'
 department: '94'
 keyword: Électricien 24/7 Vitry-Sur-Seine
 company: VITRY-SUR-SEINEWatt
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien 24/7 Vitry-Sur-Seine 94400 ⚡ Panne, court-circuit, tableau
   électrique. Dépannage rapide 24h/7j. Intervention garantie. Devis gratuit
@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vitry-sur-seine-94400-video.jpg
 introText: >-
-  À Vitry-sur-Seine, commune dynamique du Val-de-Marne, l'habitat résidentiel et
-  les petits collectifs requièrent une expertise électrique de proximité adaptée
-  aux réalités locales. Les installations anciennes des quartiers établis comme
-  les nouveaux développements demandent des interventions fiables et conformes
-  aux normes actuelles. Nos électriciens couvrent l'ensemble du 94400 avec une
-  disponibilité immédiate pour tous vos dépannages et travaux.
-introGeneratedAt: '2025-11-12T15:20:16.852Z'
+  À Vitry-sur-Seine, commune dynamique du Val-de-Marne, le parc immobilier
+  diversifié alliant pavillons individuels et petits collectifs requiert une
+  expertise électrique de proximité. Vos installations, mises aux normes ou
+  dépannages d'urgence, méritent des professionnels maîtrisant les spécificités
+  du secteur 94400. Le réseau ALLO ELECTRICIEN PRO couvre Vitry-sur-Seine avec
+  intervention en moins de 30 minutes, grâce à nos 410+ électriciens certifiés
+  Qualifelec disponibles 24h/
+introGeneratedAt: '2025-11-17T09:57:54.065Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VITRY-SUR-SEINE
 electriciansAvailable: 6

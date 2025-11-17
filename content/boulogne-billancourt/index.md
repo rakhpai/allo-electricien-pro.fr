@@ -6,8 +6,8 @@ zipCode: '92100'
 department: '92'
 keyword: Intervention Électricien Boulogne-Billancourt
 company: AmpèrePro92
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Intervention électricien Boulogne-Billancourt 92100 ⚡ Panne, dépannage,
   réparation. Urgence 24h/7j. Technicien certifié. Devis gratuit. Appelez
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-boulogne-billancourt-92100-video.jpg
 introText: >-
-  À Boulogne-Billancourt, commune dynamique des Hauts-de-Seine, le patrimoine
-  immobilier se caractérise par un habitat diversifié allant des immeubles
-  haussmanniens aux résidences modernes. Les installations électriques de ces
-  bâtiments variés nécessitent des interventions adaptées, du dépannage
-  d'urgence à la mise aux normes complète. Nos électriciens interviennent
-  rapidement dans tout le 92100 pour assurer la sécurité et la performance de
-  vos équipements électriques.
-introGeneratedAt: '2025-11-12T16:15:27.376Z'
+  À Boulogne-Billancourt, commune dynamique des Hauts-de-Seine, les résidences
+  individuelles et petits immeubles demandent une expertise électrique de
+  qualité et de proximité. Vos installations, mises aux normes ou dépannages
+  urgents nécessitent des professionnels réactifs et fiables maîtrisant les
+  spécificités du 92100. Le réseau ALLO ELECTRICIEN PRO couvre
+  Boulogne-Billancourt avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec à votre service 24h/24
+introGeneratedAt: '2025-11-17T09:54:50.514Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à BOULOGNE-BILLANCOURT
 electriciansAvailable: 8

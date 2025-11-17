@@ -6,8 +6,8 @@ zipCode: '92400'
 department: '92'
 keyword: Dépannage Électricien Courbevoie 92400
 company: Élec92Master
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Courbevoie 92400 ⚡ Panne, tableau, court-circuit.
   Intervention immédiate 24h/7j. Artisan certifié. Devis gratuit. Élec92Master.
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-courbevoie-92400-video.jpg
 introText: >-
-  À Courbevoie, commune dynamique des Hauts-de-Seine, le parc immobilier
-  diversifié alliant petits collectifs et maisons individuelles requiert une
-  expertise électrique de proximité adaptée. Les installations anciennes
-  côtoient les rénovations modernes, nécessitant des interventions régulières
-  pour garantir sécurité et conformité aux normes actuelles. Nos électriciens
-  interviennent rapidement dans tout le 92400 et ses alentours, disponibles pour
-  tous vos dépannages et travaux d'électricité.
-introGeneratedAt: '2025-11-12T15:17:29.408Z'
+  À Courbevoie, commune dynamique des Hauts-de-Seine, les résidences
+  individuelles et petits collectifs demandent une expertise électrique de
+  qualité pour garantir sécurité et conformité. Que ce soit pour une
+  installation, une rénovation ou une maintenance, vos installations électriques
+  méritent des professionnels fiables et réactifs. ALLO ELECTRICIEN PRO couvre
+  Courbevoie 92400 avec ses électriciens certifiés Qualifelec, intervenant en
+  moins de 30 minutes, 24h/24 et 7j/7.
+introGeneratedAt: '2025-11-17T09:55:10.036Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à COURBEVOIE
 electriciansAvailable: 8

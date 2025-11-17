@@ -6,8 +6,8 @@ zipCode: '93270'
 department: '93'
 keyword: Électricien Urgence SEVRAN
 company: SEVRANExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence SEVRAN 93 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-sevran-93270-video.jpg
 introText: >-
-  À Sevran (93270), commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant maisons individuelles et petits collectifs requiert une
-  expertise électrique de proximité. Que ce soit pour l'entretien de vos
-  installations, la mise aux normes ou les dépannages d'urgence, nos
-  électriciens maîtrisent parfaitement les spécificités du secteur. Nous
-  intervenons rapidement sur l'ensemble de Sevran et ses alentours avec
-  réactivité et professionnalisme.
-introGeneratedAt: '2025-11-12T15:19:13.376Z'
+  À Sevran, commune dynamique de Seine-Saint-Denis, les résidences
+  pavillonnaires et petits immeubles collectifs demandent une expertise
+  électrique de proximité constante. Installations, rénovations, dépannages :
+  vos besoins électriques nécessitent des professionnels fiables et réactifs
+  maîtrisant les spécificités du secteur. Le réseau ALLO ELECTRICIEN PRO couvre
+  Sevran 93270 avec intervention en moins de 30 minutes, fort de 410+
+  électriciens certifiés Qualifelec et RGE.
+introGeneratedAt: '2025-11-17T09:56:48.759Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à SEVRAN
 electriciansAvailable: 6

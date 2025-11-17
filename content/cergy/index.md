@@ -6,8 +6,8 @@ zipCode: 95000-95800
 department: '95'
 keyword: Dépannage Électricien Cergy 95000-95800
 company: CERGYAide
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Cergy 95 ⚡ Installation, réparation, panne électrique.
   Urgence 24h/7j. Intervention express. Devis gratuit. CERGYAide certifié.
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-cergy-95000-95800-video.jpg
 introText: >-
-  À Cergy, commune dynamique du Val-d'Oise (95000-95800), l'habitat mixte
-  alliant pavillons individuels et petits collectifs requiert une expertise
-  électrique de proximité adaptée. Les installations anciennes comme modernes
-  des quartiers résidentiels demandent des interventions régulières et fiables
-  pour garantir votre sécurité. Nos électriciens couvrent l'ensemble de Cergy
-  avec une disponibilité rapide et une connaissance approfondie des spécificités
-  locales.
-introGeneratedAt: '2025-11-12T15:20:34.309Z'
+  À Cergy (95000-95800), commune dynamique du Val-d'Oise, l'habitat mixte
+  alliant pavillons et petits collectifs demande une expertise électrique de
+  proximité constante. Que ce soit pour l'entretien de votre installation, la
+  mise aux normes ou une dépannage urgent, nos électriciens maîtrisent les
+  spécificités du secteur. Le réseau ALLO ELECTRICIEN PRO couvre Cergy avec
+  intervention en moins de 30 minutes, 24h/24, grâce à nos 410+ électriciens
+  certifiés Qualifelec et RG
+introGeneratedAt: '2025-11-17T09:58:01.659Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CERGY
 electriciansAvailable: 5

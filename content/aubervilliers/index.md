@@ -6,8 +6,8 @@ zipCode: '93300'
 department: '93'
 keyword: Électricien Urgence Aubervilliers 93300
 company: DépanneWatt77
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien Aubervilliers 93300 ⚡ Installation, réparation, panne électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. DépanneWatt77 certifié.
@@ -57,13 +57,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-aubervilliers-93300-video.jpg
 introText: >-
   À Aubervilliers, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant petits collectifs et habitations individuelles requiert une
-  expertise électrique de proximité adaptée. Les installations anciennes des
-  quartiers résidentiels et les besoins croissants en modernisation électrique
-  demandent une intervention professionnelle régulière et fiable. Nous couvrons
-  l'ensemble du 93300 avec une disponibilité immédiate pour tous vos dépannages
-  et travaux électriques.
-introGeneratedAt: '2025-11-12T15:18:16.947Z'
+  diversifié comprend pavillons, petits immeubles et logements collectifs
+  demandant une maintenance électrique régulière. Les installations anciennes et
+  les besoins croissants en électricité rendent indispensable un électricien
+  fiable et réactif dans le 93300. Le réseau ALLO ELECTRICIEN PRO couvre
+  Aubervilliers avec 410+ électriciens certifiés Qualifelec et RGE, garantissant
+  une intervention en moins de 30 minutes, 24h/24, pour tous
+introGeneratedAt: '2025-11-17T09:55:56.130Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à AUBERVILLIERS
 electriciansAvailable: 8

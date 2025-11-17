@@ -6,8 +6,8 @@ zipCode: '93800'
 department: '93'
 keyword: SOS Électricien Epinay-Sur-Seine
 company: FixWatt93
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Epinay-Sur-Seine 93800 ⚡ Court-circuit, panne, installation.
   Dépannage 24h/7j. Intervention rapide. Devis gratuit. Artisan certifié
@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-epinay-sur-seine-93800-video.jpg
 introText: >-
-  À Epinay-sur-Seine, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant maisons individuelles et petits collectifs requiert une
-  expertise électrique adaptée aux réalités locales. Les installations anciennes
-  des quartiers résidentiels et les nouveaux aménagements demandent des
-  interventions fiables et conformes aux normes actuelles. Nos électriciens
-  interviennent rapidement sur l'ensemble du code postal 93800 pour tous vos
-  dépannages, installations et mises aux normes.
-introGeneratedAt: '2025-11-12T15:18:40.532Z'
+  À Epinay-sur-Seine (93800), cette commune dynamique de Seine-Saint-Denis
+  combine habitat pavillonnaire et petits collectifs demandant une expertise
+  électrique de proximité. Vos installations domestiques et tertiaires méritent
+  des interventions fiables et conformes aux normes actuelles. Le réseau ALLO
+  ELECTRICIEN PRO couvre Epinay-sur-Seine avec intervention sous 30 minutes,
+  fort de 410+ électriciens certifiés Qualifelec et RGE disponibles 24/7.
+introGeneratedAt: '2025-11-17T09:56:14.492Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à EPINAY-SUR-SEINE
 electriciansAvailable: 7

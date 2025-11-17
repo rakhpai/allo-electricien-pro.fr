@@ -6,8 +6,8 @@ zipCode: '77100'
 department: '77'
 keyword: Dépannage Électricien Meaux 77100
 company: MEAUXFlash77
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Meaux 77100 ⚡ Panne, installation, réparation tableau.
   Intervention immédiate 24h/7j. Devis gratuit. MEAUXFlash77 certifié.
@@ -56,13 +56,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-meaux-77100-video.jpg
 introText: >-
   À Meaux, commune dynamique de Seine-et-Marne, le parc immobilier diversifié
-  alliant maisons individuelles et petits collectifs requiert une expertise
-  électrique de proximité adaptée. Les installations anciennes des quartiers
-  résidentiels et les besoins croissants en modernisation électrique demandent
-  des interventions fiables et professionnelles. Nos électriciens couvrent
-  l'ensemble du secteur 77100 avec une disponibilité immédiate pour tous vos
-  dépannages et installations.
-introGeneratedAt: '2025-11-12T15:16:22.663Z'
+  alliant maisons individuelles, petits collectifs et commerces demande une
+  expertise électrique de qualité. Les installations anciennes comme modernes
+  requièrent des interventions fiables et conformes aux normes actuelles. Le
+  réseau ALLO ELECTRICIEN PRO couvre Meaux avec 410+ électriciens certifiés
+  Qualifelec et RGE, garantissant une intervention en moins de 30 minutes,
+  24h/24, pour tous vos besoins électriques.
+introGeneratedAt: '2025-11-17T09:54:16.627Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à MEAUX
 electriciansAvailable: 5

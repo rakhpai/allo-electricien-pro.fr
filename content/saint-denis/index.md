@@ -6,8 +6,8 @@ zipCode: '93200'
 department: '93'
 keyword: Électricien Urgence SAINT-DENIS
 company: SAINTDENISExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence SAINT-DENIS 93 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-saint-denis-93200-video.jpg
 introText: >-
-  À Saint-Denis en Seine-Saint-Denis, le tissu urbain mêle habitat collectif,
-  petits immeubles et zones commerciales demandant une expertise électrique
-  adaptée aux réalités locales. Les installations anciennes et les nouveaux
-  projets de rénovation requièrent des interventions fiables et conformes aux
-  normes actuelles. Nos électriciens interviennent rapidement sur l'ensemble du
-  93200 et ses alentours pour tous vos besoins en électricité générale et
-  dépannage d'urgence.
-introGeneratedAt: '2025-11-12T15:19:01.701Z'
+  À Saint-Denis, commune dynamique de Seine-Saint-Denis, les résidences
+  collectives et pavillons anciens requièrent une expertise électrique adaptée
+  aux enjeux de sécurité et de conformité. Les installations vieillissantes et
+  les demandes croissantes en électricité exigent des interventions fiables et
+  rapides. Le réseau ALLO ELECTRICIEN PRO couvre Saint-Denis 93200 avec nos
+  électriciens certifiés Qualifelec, garantissant une intervention en moins de
+  30 minutes et une disponibilité 24/7.
+introGeneratedAt: '2025-11-17T09:56:44.656Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à SAINT-DENIS
 electriciansAvailable: 6

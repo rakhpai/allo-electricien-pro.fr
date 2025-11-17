@@ -6,8 +6,8 @@ zipCode: '93000'
 department: '93'
 keyword: Urgence Électricien Bobigny
 company: BOBIGNYAidE93
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Urgence électricien Bobigny 93000 ⚡ Installation, réparation, panne
   électrique. Dépannage immédiat 24h/7j. Artisan certifié. Intervention rapide.
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-bobigny-93000-video.jpg
 introText: >-
-  À Bobigny, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant petits collectifs et habitations individuelles requiert une
-  expertise électrique adaptée aux réalités locales. Les installations anciennes
-  des quartiers résidentiels et les besoins croissants en conformité électrique
-  demandent une intervention professionnelle régulière et fiable.  Nos
-  électriciens interviennent rapidement sur l'ensemble du 93000 pour garantir
-  votre sécurité et le bon fonctionnement.
-introGeneratedAt: '2025-11-12T15:18:24.760Z'
+  À Bobigny, commune dynamique de Seine-Saint-Denis, les résidences collectives
+  et pavillons requièrent une expertise électrique de qualité pour garantir
+  sécurité et conformité. Vos installations domestiques et tertiaires méritent
+  l'intervention de professionnels qualifiés maîtrisant les normes actuelles. Le
+  réseau ALLO ELECTRICIEN PRO couvre Bobigny 93000 avec plus de 410 électriciens
+  certifiés Qualifelec, garantissant une intervention en moins de 30 minutes,
+  24h/24.
+introGeneratedAt: '2025-11-17T09:56:03.472Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à BOBIGNY
 electriciansAvailable: 5

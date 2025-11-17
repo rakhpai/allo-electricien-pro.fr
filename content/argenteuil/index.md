@@ -6,8 +6,8 @@ zipCode: '95100'
 department: '95'
 keyword: SOS Électricien Argenteuil 95100
 company: ARGENTEUILExpress
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Argenteuil 95100 ⚡ Tableau, panne, installation. Intervention
   immédiate 24h/7j. Artisan qualifié. Devis gratuit. ARGENTEUILExpress.
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-argenteuil-95100-video.jpg
 introText: >-
-  À Argenteuil, commune dynamique du Val-d'Oise, le patrimoine bâti se
-  caractérise par une diversité architecturale allant des immeubles collectifs
-  aux maisons individuelles. Les installations électriques de ce territoire
-  varié nécessitent des interventions adaptées aux normes actuelles et aux
-  spécificités de chaque type de construction. Nos électriciens interviennent
-  rapidement dans toute la zone d'Argenteuil pour assurer l'entretien, la
-  rénovation et la sécurité de vos systèmes électriques.
-introGeneratedAt: '2025-11-12T16:15:58.931Z'
+  À Argenteuil, commune dynamique du Val-d'Oise, le parc immobilier diversifié
+  alliant maisons individuelles et petits collectifs demande une expertise
+  électrique de proximité constante. Vos installations, mises aux normes et
+  maintenance requièrent des professionnels réactifs maîtrisant les spécificités
+  du secteur. Le réseau ALLO ELECTRICIEN PRO couvre Argenteuil 95100 avec
+  intervention en moins de 30 minutes, fort de 410+ électriciens certifiés
+  Qualifelec et RGE.
+introGeneratedAt: '2025-11-17T09:57:57.835Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à ARGENTEUIL
 electriciansAvailable: 5

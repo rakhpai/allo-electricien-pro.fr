@@ -6,8 +6,8 @@ zipCode: '92160'
 department: '92'
 keyword: Électricien Urgence Antony 92160
 company: AntonyWatt77
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien Antony 92160 ⚡ Panne électrique, installation, réparation.
   Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan certifié
@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-antony-92160-video.jpg
 introText: >-
-  À Antony, commune dynamique des Hauts-de-Seine, l'habitat résidentiel et les
-  petits collectifs demandent une expertise électrique de qualité adaptée aux
-  normes actuelles. Les installations anciennes des pavillons comme les systèmes
-  modernes des immeubles récents nécessitent des interventions fiables et
-  conformes aux standards de sécurité. Nos électriciens interviennent rapidement
-  sur l'ensemble du secteur 92160 pour tous vos dépannages, installations et
-  mises aux normes.
-introGeneratedAt: '2025-11-12T15:16:56.575Z'
+  À Antony, commune dynamique des Hauts-de-Seine, l'habitat pavillonnaire et les
+  petits immeubles demandent une expertise électrique de proximité constante.
+  Vos installations domestiques et tertiaires nécessitent des interventions
+  fiables et rapides pour garantir votre sécurité quotidienne. Le réseau ALLO
+  ELECTRICIEN PRO couvre Antony 92160 avec nos électriciens certifiés
+  Qualifelec, disponibles en moins de 30 minutes pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T09:54:38.866Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à ANTONY
 electriciansAvailable: 7

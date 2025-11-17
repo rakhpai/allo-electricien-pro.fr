@@ -6,8 +6,8 @@ zipCode: '92300'
 department: '92'
 keyword: Électricien Urgence Levallois-Perret
 company: FixLevallois92
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien urgence Levallois-Perret 92300 ⚡ Panne, réparation, installation.
   Dépannage 24h/7j. Artisan certifié. Intervention rapide. Devis gratuit!
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-levallois-perret-92300-video.jpg
 introText: >-
-  À Levallois-Perret, commune dynamique des Hauts-de-Seine, le parc immobilier
-  diversifié alliant petits collectifs et maisons individuelles requiert une
-  expertise électrique de proximité adaptée. Les installations anciennes
-  côtoient les rénovations modernes, nécessitant des interventions techniques
-  fiables et conformes aux normes actuelles. Nos électriciens interviennent
-  rapidement sur l'ensemble du 92300 et ses alentours pour tous vos besoins en
-  électricité générale et dépannage d'urgence.
-introGeneratedAt: '2025-11-12T15:17:37.574Z'
+  À Levallois-Perret, commune dynamique des Hauts-de-Seine, les résidences
+  individuelles et petits immeubles demandent une expertise électrique de
+  proximité et de confiance. Que ce soit pour l'entretien de votre installation,
+  la mise aux normes ou une intervention d'urgence, nos électriciens maîtrisent
+  les spécificités du secteur 92300. Le réseau ALLO ELECTRICIEN PRO couvre
+  Levallois-Perret avec une intervention garantie en moins de 30 minutes,
+  24h/24, grâce à nos 410+ électriciens cert
+introGeneratedAt: '2025-11-17T09:55:21.603Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à LEVALLOIS-PERRET
 electriciansAvailable: 8

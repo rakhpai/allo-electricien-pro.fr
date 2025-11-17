@@ -6,8 +6,8 @@ zipCode: '92700'
 department: '92'
 keyword: Dépannage Électricien Colombes 92700
 company: COLOMBESFlash
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Colombes 92700 ⚡ Panne, tableau électrique,
   court-circuit. Intervention immédiate 24h/7j. COLOMBESFlash certifié. Devis
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-colombes-92700-video.jpg
 introText: >-
-  À Colombes, en plein cœur des Hauts-de-Seine, cette commune dynamique regroupe
-  un habitat varié allant des pavillons individuels aux petits immeubles
-  collectifs. Les installations électriques de ces bâtiments demandent une
-  expertise régulière, qu'il s'agisse de maintenance, de rénovation ou de mise
-  aux normes. Nos électriciens interviennent rapidement dans tout le 92700 et
-  ses alentours pour assurer la sécurité et le bon fonctionnement de vos
-  installations.
-introGeneratedAt: '2025-11-12T15:17:25.739Z'
+  À Colombes, en plein cœur des Hauts-de-Seine, les résidences pavillonnaires et
+  petits immeubles demandent une expertise électrique fiable et réactive. Vos
+  installations domestiques et tertiaires méritent des professionnels qualifiés
+  capables d'intervenir rapidement sur tous types de défaillances. Le réseau
+  ALLO ELECTRICIEN PRO couvre Colombes 92700 avec plus de 410 électriciens
+  certifiés Qualifelec, garantissant une intervention en moins de 30 minutes,
+  24h/24.
+introGeneratedAt: '2025-11-17T09:55:06.017Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à COLOMBES
 electriciansAvailable: 6

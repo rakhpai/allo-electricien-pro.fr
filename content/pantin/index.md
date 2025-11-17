@@ -6,8 +6,8 @@ zipCode: '93500'
 department: '93'
 keyword: Dépannage Électricien Pantin
 company: PANTINFlash
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Pantin 93500 ⚡ Panne, installation, réparation.
   Intervention immédiate 24h/7j garantie. Devis gratuit. Artisan certifié. Tel.
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-pantin-93500-video.jpg
 introText: >-
-  À Pantin, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant petits collectifs et maisons individuelles requiert une
-  expertise électrique de proximité adaptée. Les installations anciennes des
-  bâtiments résidentiels et commerciaux du 93500 demandent des interventions
-  régulières et sécurisées pour garantir conformité et performance. Nos
-  électriciens couvrent l'ensemble de Pantin avec une disponibilité rapide pour
-  tous vos dépannages et travaux d'électricité.
-introGeneratedAt: '2025-11-12T15:18:56.331Z'
+  À Pantin, en Seine-Saint-Denis, les résidences individuelles et petits
+  immeubles collectifs demandent une expertise électrique de proximité et
+  réactive. Vos installations, mises aux normes ou dépannages d'urgence,
+  nécessitent des professionnels maîtrisant les spécificités du bâti local. ALLO
+  ELECTRICIEN PRO couvre Pantin 93500 avec ses électriciens certifiés
+  Qualifelec, garantissant une intervention en moins de 30 minutes, disponibles
+  24h/24 pour tous vos besoins électriques.
+introGeneratedAt: '2025-11-17T09:56:37.343Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à PANTIN
 electriciansAvailable: 6

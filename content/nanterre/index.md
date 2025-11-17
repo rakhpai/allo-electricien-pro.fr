@@ -6,8 +6,8 @@ zipCode: '92000'
 department: '92'
 keyword: Intervention Électricien Nanterre
 company: ÉlectriService Nanterre
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Intervention électricien Nanterre 92000 ⚡ Panne, installation, réparation.
   Dépannage express 24h/7j. Artisan certifié. Devis gratuit. Tel. rapide!
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-nanterre-92000-video.jpg
 introText: >-
-  À Nanterre, commune dynamique des Hauts-de-Seine, le parc immobilier
-  diversifié alliant pavillons individuels et petits collectifs requiert une
-  expertise électrique adaptée aux réalités locales. Les installations anciennes
-  côtoient les rénovations modernes, nécessitant des interventions régulières
-  pour garantir sécurité et conformité aux normes en vigueur. Notre équipe
-  intervient rapidement sur l'ensemble de Nanterre 92000, disponible pour tous
-  vos dépannages et travaux électriques.
-introGeneratedAt: '2025-11-12T15:17:42.016Z'
+  À Nanterre, commune dynamique des Hauts-de-Seine, les résidences individuelles
+  et petits immeubles collectifs requièrent une expertise électrique fiable et
+  réactive. Vos installations domestiques et professionnelles méritent
+  l'intervention de professionnels qualifiés, capables de résoudre tout
+  dysfonctionnement rapidement. Le réseau ALLO ELECTRICIEN PRO couvre Nanterre
+  92000 avec une intervention garantie en moins de 30 minutes, fort de 410+
+  électriciens certifiés Qualifelec et RGE.
+introGeneratedAt: '2025-11-17T09:55:25.311Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à NANTERRE
 electriciansAvailable: 8

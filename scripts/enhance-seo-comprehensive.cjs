@@ -217,10 +217,23 @@ Requirements:
 - Paragraph 2 (60-80 words): Explain electrical needs specific to this area, common issues
 - Paragraph 3 (60-80 words): Service coverage, rapid response, local expertise
 
+BRAND INTEGRATION FOR ALLO ELECTRICIEN PRO:
+- ${cityName} is served by the ALLO ELECTRICIEN PRO network
+- 410+ certified electricians across Île-de-France
+- Track record: 14,580+ interventions, 4.8/5 rating (2,450+ reviews)
+- Guaranteed <30min response time for ${cityName} residents
+- All electricians are Qualifelec certified with RGE qualification
+
+In paragraph 3, naturally mention that ${cityName} residents benefit from the ALLO ELECTRICIEN PRO network's rapid response and extensive experience. Use subtle phrases like:
+- "Le réseau ALLO ELECTRICIEN PRO dessert ${cityName} avec..."
+- "Nos 410+ électriciens certifiés interviennent à ${cityName}..."
+- "Fort de 14 580+ interventions réussies, le réseau garantit..."
+
 Style:
 - Professional, informative French
 - Mention specific neighborhoods/landmarks if major city
 - Reference local building characteristics (Haussmannien, pavillons, etc.)
+- Subtle brand integration in paragraph 3 (not promotional)
 - Natural, not marketing fluff
 
 Return ONLY the 3 paragraphs, separated by double line breaks. No title, no quotes.`;
@@ -337,24 +350,43 @@ Format as JSON array:
   }
 ]
 
+BRAND CONTEXT FOR ALLO ELECTRICIEN PRO:
+- Part of network of 410+ certified electricians
+- 4.8/5 rating based on 2,450+ Google reviews
+- 14,580+ successful interventions completed
+- <30 minute guaranteed response time
+- 24/7 availability across all ${dept} communes
+- Qualifelec & RGE certified professionals
+
+REQUIRED MENTIONS:
+1. Reason 1 (map icon): Must mention "Membre du réseau ALLO ELECTRICIEN PRO avec 410+ électriciens en Île-de-France"
+2. Reason 2 (clock icon): Must include "<30 minutes" response time and "réseau disponible 24/7"
+3. Reason 3 (euro/star icon): Must cite "4,8/5 sur 2 450+ avis Google" for trust
+
 Focus on:
-1. Local knowledge/proximity (map icon)
-2. Speed/availability (clock icon)
-3. Pricing/transparency (euro icon)
+1. Local knowledge/proximity (map icon) + network size
+2. Speed/availability (clock icon) + <30min guarantee
+3. Trust/quality (star icon) + 4.8/5 rating
 
 EXEMPLES EN FRANÇAIS:
 {
-  "title": "Connaissance parfaite de ${cityName}",
-  "description": "Nos électriciens maîtrisent les spécificités architecturales de ${cityName}. Expérience locale approfondie du parc immobilier et des contraintes techniques du secteur.",
+  "title": "Réseau local expert de ${cityName}",
+  "description": "Membre du réseau ALLO ELECTRICIEN PRO avec 410+ électriciens certifiés en Île-de-France. Nos professionnels maîtrisent les spécificités architecturales de ${cityName} et interviennent rapidement dans toute la commune.",
   "icon": "map"
+}
+{
+  "title": "Intervention ultra-rapide garantie",
+  "description": "Grâce au réseau ALLO ELECTRICIEN PRO, intervention garantie en moins de 30 minutes à ${cityName}. Disponibilité 24h/24 et 7j/7 avec plus de 410 électriciens mobilisables en Île-de-France.",
+  "icon": "clock"
 }
 
 EXIGENCES STRICTES:
 - TOUT LE CONTENU DOIT ÊTRE EN FRANÇAIS
 - Chaque description: 30-50 mots EN FRANÇAIS
-- Mettre en avant les avantages LOCAUX
+- Mettre en avant les avantages LOCAUX + RÉSEAU
+- Mention obligatoire du réseau dans chaque raison
 - Spécifique à ${cityName} ou ${dept}
-- Ton professionnel et rassurant
+- Ton professionnel et rassurant (subtil, pas promotionnel)
 - PAS D'ANGLAIS - 100% FRANÇAIS
 
 Return ONLY valid JSON array with FRENCH content.`;
@@ -427,24 +459,43 @@ Format as JSON array:
   }
 ]
 
+BRAND STATS TO INTEGRATE:
+- Company: ALLO ELECTRICIEN PRO
+- Rating: 4.8/5 (2,450+ avis Google)
+- Experience: 14,580+ interventions réalisées
+- Network: 410+ électriciens certifiés Qualifelec/RGE
+- Response: Garantie <30 minutes
+
 Topics to cover:
 1. Pricing for ${cityName}
-2. Service areas/neighborhoods
-3. Weekend/emergency availability
+2. Service areas/neighborhoods (mention network size)
+3. Weekend/emergency availability (mention 24/7 via network)
 4. Types of buildings serviced
-5. Compliance/certifications
+5. Compliance/certifications (mention Qualifelec, RGE)
 
 EXEMPLES EN FRANÇAIS:
 {
   "question": "Quels sont les tarifs d'un électricien à ${cityName} ${commune.zip_code} ?",
-  "answer": "Les tarifs à ${cityName} varient de 65€ à 85€/heure selon l'intervention. Devis gratuit systématique avant travaux. Majoration de 30-50% pour urgences nocturnes ou week-end selon la réglementation en vigueur."
+  "answer": "Le réseau ALLO ELECTRICIEN PRO pratique des tarifs transparents à ${cityName} : de 65€ à 85€/heure selon l'intervention. Devis gratuit systématique avant travaux. Majoration de 30-50% pour urgences nocturnes ou week-end."
 }
+{
+  "question": "Couvrez-vous tous les quartiers de ${cityName} ?",
+  "answer": "Oui, nos 410+ électriciens du réseau ALLO ELECTRICIEN PRO couvrent l'ensemble de ${cityName} et toute l'Île-de-France. Intervention garantie en moins de 30 minutes dans votre secteur."
+}
+
+INTEGRATION REQUIREMENTS:
+- FAQ 1 (pricing): Can mention "réseau ALLO ELECTRICIEN PRO pratique des tarifs transparents"
+- FAQ 2 (coverage): Must mention network size "410+ électriciens couvrent toute l'Île-de-France"
+- FAQ 3 (availability): Must state "24/7 via le réseau ALLO ELECTRICIEN PRO"
+- FAQ 5 (certifications): Must cite "Tous nos électriciens sont certifiés Qualifelec et RGE"
+
+At least 2 FAQs should naturally mention ALLO ELECTRICIEN PRO network or stats.
 
 EXIGENCES STRICTES:
 - TOUT LE CONTENU DOIT ÊTRE EN FRANÇAIS
 - Les questions DOIVENT mentionner "${cityName}" ou "${commune.zip_code}"
 - Réponses: précises, utiles, 30-60 mots EN FRANÇAIS
-- Ton professionnel et informatif
+- Ton professionnel et informatif (subtil sur le réseau)
 - Total: 200-300 mots combinés
 - PAS D'ANGLAIS - 100% FRANÇAIS
 
@@ -526,9 +577,18 @@ Format as JSON object:
   ]
 }
 
+BRAND TRUST SIGNALS TO INCLUDE IN INTRO:
+- "Le réseau ALLO ELECTRICIEN PRO à ${cityName}"
+- "Nos 410+ électriciens certifiés Qualifelec"
+- "Note de 4,8/5 basée sur 2 450+ avis Google"
+- "14 580+ interventions réussies en Île-de-France"
+- "Garantie décennale et assurance RC Pro incluses"
+
+Intro must mention at least 2 of these trust signals to establish network credibility.
+
 EXEMPLE EN FRANÇAIS:
 {
-  "intro": "Nos tarifs d'électricien à ${cityName} sont transparents et compétitifs. Nous proposons des devis gratuits détaillés avant intervention. Paiement échelonné possible pour travaux importants. Toutes nos prestations incluent garantie décennale et assurance professionnelle.",
+  "intro": "Nos tarifs d'électricien ALLO ELECTRICIEN PRO à ${cityName} sont transparents et compétitifs. Fort de 14 580+ interventions et d'une note de 4,8/5 sur 2 450+ avis, notre réseau de 410+ électriciens certifiés Qualifelec propose des devis gratuits détaillés. Paiement échelonné possible. Garantie décennale incluse.",
   "pricing_points": [
     {
       "title": "Dépannage urgence 24/7",

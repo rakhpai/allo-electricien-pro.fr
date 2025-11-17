@@ -6,8 +6,8 @@ zipCode: '92110'
 department: '92'
 keyword: Intervention Électricien Clichy
 company: CLICHYLight
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Intervention électricien Clichy 92110 ⚡ Panne, installation, réparation.
   Service 24h/7j immédiat. Fiable et rapide. Devis gratuit. CLICHYLight
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-clichy-92110-video.jpg
 introText: >-
-  À Clichy, commune dynamique des Hauts-de-Seine, le parc immobilier diversifié
-  comprend pavillons individuels et petits collectifs demandant une expertise
-  électrique de proximité. Les installations anciennes et les rénovations
-  fréquentes dans ce secteur résidentiel nécessitent des interventions rapides
-  et fiables de professionnels maîtrisant les normes actuelles.  Nos
-  électriciens interviennent rapidement sur Clichy 92110 et ses alentours pour
-  tous vos besoins en électricité généra.
-introGeneratedAt: '2025-11-12T15:17:21.244Z'
+  À Clichy, en plein cœur des Hauts-de-Seine, le parc immobilier mêle pavillons
+  individuels et petits collectifs demandant une expertise électrique constante.
+  Les installations anciennes comme récentes de cette commune dynamique
+  nécessitent des interventions régulières pour garantir sécurité et conformité.
+  Le réseau ALLO ELECTRICIEN PRO couvre Clichy avec 410+ électriciens certifiés
+  Qualifelec, assurant une intervention en moins de 30 minutes, 24h/24, pour
+  tous vos besoins électriques.
+introGeneratedAt: '2025-11-17T09:55:01.819Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CLICHY
 electriciansAvailable: 7

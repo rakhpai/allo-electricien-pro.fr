@@ -6,8 +6,8 @@ zipCode: '92200'
 department: '92'
 keyword: Urgence Électricien Neuilly-Sur-Seine
 company: Ampère92
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Urgence électricien Neuilly-Sur-Seine 92200 ⚡ Panne, installation, réparation.
   Dépannage 24h/7j. Intervention immédiate. Devis gratuit. Ampère92 certifié.
@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-neuilly-sur-seine-92200-video.jpg
 introText: >-
-  À Neuilly-sur-Seine, commune prestigieuse des Hauts-de-Seine, le parc
-  immobilier combine élégantes villas, immeubles haussmanniens et résidences
-  modernes exigeant une maintenance électrique régulière et de qualité. Nos
-  électriciens maîtrisent les installations anciennes comme contemporaines,
-  intervenant sur les systèmes complexes de ce secteur résidentiel haut de
-  gamme. Nous couvrons l'intégralité de la commune 92200 avec une disponibilité
-  rapide pour tous vos dépannages et installations électriques.
-introGeneratedAt: '2025-11-12T15:17:49.664Z'
+  À Neuilly-sur-Seine, cette commune prestigieuse des Hauts-de-Seine conjugue
+  villas cossues et immeubles haussmanniens exigeant une expertise électrique de
+  haut niveau. Vos installations, mises aux normes ou dépannages urgents,
+  requièrent des professionnels maîtrisant les spécificités du 92200. Le réseau
+  ALLO ELECTRICIEN PRO couvre Neuilly-sur-Seine avec intervention sous 30
+  minutes, fort de 410+ électriciens certifiés Qualifelec et disponibles 24h/24.
+introGeneratedAt: '2025-11-17T09:55:29.434Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à NEUILLY-SUR-SEINE
 electriciansAvailable: 8

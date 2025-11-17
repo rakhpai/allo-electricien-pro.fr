@@ -6,8 +6,8 @@ zipCode: '94300'
 department: '94'
 keyword: Électricien Urgence Vincennes
 company: Moreau94
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien urgence Vincennes 94300 ⚡ Réparation panne, tableau électrique,
   court-circuit. Intervention 24h/7j rapide. Devis gratuit immédiat. Moreau94.
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vincennes-94300-video.jpg
 introText: >-
-  À Vincennes, commune dynamique du Val-de-Marne aux portes de Paris, l'habitat
-  résidentiel et les petits collectifs demandent une expertise électrique de
-  qualité et de proximité. Les installations anciennes des pavillons vincennois
-  et les rénovations des immeubles du centre-ville requièrent des interventions
-  fiables et conformes aux normes actuelles.  Nos électriciens interviennent
-  rapidement sur l'ensemble de Vincennes 94300 et ses alentours pour tous vos
-  besoins en é.
-introGeneratedAt: '2025-11-12T15:20:12.334Z'
+  À Vincennes, commune dynamique du Val-de-Marne, les résidences pavillonnaires
+  et petits collectifs demandent une expertise électrique de qualité. Vos
+  installations, rénovations et dépannages nécessitent des professionnels
+  maîtrisant les normes actuelles et les spécificités du bâti local. Le réseau
+  ALLO ELECTRICIEN PRO couvre Vincennes 94300 avec intervention en moins de 30
+  minutes, fort de 410+ électriciens certifiés Qualifelec et RGE à votre
+  service.
+introGeneratedAt: '2025-11-17T09:57:49.687Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VINCENNES
 electriciansAvailable: 7

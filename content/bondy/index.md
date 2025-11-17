@@ -6,8 +6,8 @@ zipCode: '93140'
 department: '93'
 keyword: SOS Électricien Bondy
 company: DépanneMaster
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Bondy 93140 ⚡ Panne, court-circuit, tableau électrique.
   Intervention 24h/7j. Artisan certifié DépanneMaster. Devis gratuit. Appelez
@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-bondy-93140-video.jpg
 introText: >-
-  À Bondy, commune dynamique de Seine-Saint-Denis, le parc immobilier diversifié
-  alliant pavillons individuels et petits collectifs requiert une expertise
-  électrique de proximité adaptée. Les installations anciennes des quartiers
-  résidentiels et les besoins croissants en modernisation électrique demandent
-  des interventions fiables et conformes aux normes actuelles.  Nos électriciens
-  interviennent rapidement sur l'ensemble de Bondy et ses alentours, disponibles
-  pour diagnostics, dépan.
-introGeneratedAt: '2025-11-12T15:18:29.079Z'
+  À Bondy, commune dynamique de Seine-Saint-Denis, les résidences pavillonnaires
+  et petits immeubles collectifs demandent une expertise électrique de proximité
+  constante. Installations anciennes, mises aux normes, dépannages urgents : vos
+  besoins électriques méritent des professionnels réactifs et qualifiés. Le
+  réseau ALLO ELECTRICIEN PRO couvre Bondy 93140 avec intervention sous 30
+  minutes, fort de 410+ électriciens certifiés Qualifelec et RGE.
+introGeneratedAt: '2025-11-17T09:56:07.168Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à BONDY
 electriciansAvailable: 5

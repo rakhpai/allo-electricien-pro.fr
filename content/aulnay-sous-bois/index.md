@@ -6,8 +6,8 @@ zipCode: '93600'
 department: '93'
 keyword: Électricien Urgence AULNAY-SOUS-BOIS
 company: AULNAYSOUSBOISExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence AULNAY-SOUS-BOIS 93 ⚡ Court-circuit, panne,
   installation. Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié.
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-aulnay-sous-bois-93600-video.jpg
 introText: >-
-  À Aulnay-sous-Bois, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié alliant maisons individuelles et petits collectifs requiert une
-  expertise électrique de proximité adaptée. Les installations anciennes des
-  quartiers résidentiels et les besoins croissants en modernisation électrique
-  demandent des interventions fiables et rapides. Nous couvrons l'ensemble du
-  code postal 93600 avec une disponibilité immédiate pour tous vos dépannages et
-  travaux électriques.
-introGeneratedAt: '2025-11-12T15:18:20.735Z'
+  À Aulnay-sous-Bois (93600), cette commune dynamique de Seine-Saint-Denis
+  conjugue habitat pavillonnaire et petits collectifs demandant une expertise
+  électrique de proximité. Vos installations domestiques et tertiaires méritent
+  des interventions fiables, qu'il s'agisse de dépannages urgents ou de mises
+  aux normes dans les quartiers résidentiels. ALLO ELECTRICIEN PRO couvre
+  Aulnay-sous-Bois avec son réseau de 410+ électriciens certifiés Qualifelec,
+  garantissant une intervention en moins de 30
+introGeneratedAt: '2025-11-17T09:55:59.846Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à AULNAY-SOUS-BOIS
 electriciansAvailable: 6

@@ -116,10 +116,17 @@ Commune: ${cityName}
 Code postal: ${commune.zip_code}
 Département: ${commune.department} - ${dept}
 
+BRAND CONTEXT:
+- Cet électricien est membre du réseau ALLO ELECTRICIEN PRO
+- Le réseau compte 410+ électriciens certifiés en Île-de-France
+- Performance réseau: 14 580+ interventions, note 4,8/5 (2 450+ avis)
+- Garanties: intervention <30min, disponibilité 24/7
+
 Générez une bio personnalisée (40-60 mots) qui:
 - Mentionne la commune "${cityName}" naturellement
 - Intègre la spécialité de l'électricien
 - Évoque les caractéristiques locales (bâtiments haussmanniens, pavillons, immeubles modernes, etc.)
+- Mentionne subtilement "membre du réseau ALLO ELECTRICIEN PRO" ou "réseau ALLO ELECTRICIEN PRO"
 - Reste professionnelle et rassurante
 - Inclut des références géographiques locales si pertinent
 
@@ -127,6 +134,7 @@ IMPORTANT:
 - EXACTEMENT 40-60 mots
 - 100% en français
 - Ton professionnel et local
+- Mention du réseau naturelle et subtile (pas promotionnelle)
 - Pas de marketing agressif
 
 Retournez UNIQUEMENT le texte de la bio, sans guillemets ni explication.`;
@@ -247,17 +255,23 @@ async function generateTrustSignal(electrician, commune) {
 Commune: ${cityName}
 Expérience: ${electrician.years_experience} ans
 
+BRAND CONTEXT:
+- Membre du réseau ALLO ELECTRICIEN PRO
+- Stats réseau: 4,8/5 (2 450+ avis), 14 580+ interventions, 410+ électriciens
+- Garanties: <30min, 24/7, certifications Qualifelec
+
 Générez un signal de confiance court (10-15 mots) pour cet électricien dans ${cityName}.
 
 EXEMPLES:
 - "127 interventions réussies à ${cityName}"
 - "Disponible sous 20min dans ${cityName}"
 - "${electrician.years_experience} ans d'expérience dans le secteur ${commune.zip_code}"
-- "95% de clients satisfaits à ${cityName}"
+- "Réseau ALLO ELECTRICIEN PRO : 4,8/5 sur 2 450+ avis"
+- "Membre réseau certifié - intervention <30min à ${cityName}"
 
 IMPORTANT:
 - 10-15 mots exactement
-- Chiffre/stat si possible
+- Peut mentionner stats réseau OU stats individuelles
 - Crédible et professionnel
 - 100% en français
 

@@ -6,8 +6,8 @@ zipCode: '91090'
 department: '91'
 keyword: Dépannage Électricien Evry
 company: AideVolt91
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Evry 91090 ⚡ Panne, installation, réparation.
   Intervention immédiate garantie. Devis gratuit. AideVolt91 certifié. Appelez
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-evry-91090-video.jpg
 introText: >-
-  À Évry, en Essonne, les habitations individuelles et les petits collectifs
-  demandent une expertise électrique adaptée aux normes actuelles et aux
-  installations existantes. Nos électriciens maîtrisent les particularités du
-  secteur, des rénovations aux mises aux normes indispensables dans les
-  logements anciens comme modernes. Nous intervenons rapidement dans tout le
-  91090 et ses alentours, disponibles pour diagnostiquer et résoudre vos
-  problèmes électriques avec professionnalisme.
-introGeneratedAt: '2025-11-12T15:16:52.713Z'
+  À Évry, commune dynamique de l'Essonne, les résidences individuelles et petits
+  collectifs requièrent une expertise électrique de qualité pour garantir
+  sécurité et conformité. Que vous habitiez un pavillon ou un immeuble, les
+  installations électriques demandent un entretien régulier et des interventions
+  fiables. Le réseau ALLO ELECTRICIEN PRO couvre Évry 91090 avec nos
+  électriciens certifiés Qualifelec, garantissant une intervention en moins de
+  30 minutes, 24h/24.
+introGeneratedAt: '2025-11-17T09:54:35.410Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à EVRY
 electriciansAvailable: 5

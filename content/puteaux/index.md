@@ -6,8 +6,8 @@ zipCode: '92800'
 department: '92'
 keyword: Urgence Électricien Puteaux
 company: VoltDupont92
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Urgence Électricien Puteaux 92800 ⚡ Panne, installation, réparation.
   Intervention immédiate 24h/7j. Artisan VoltDupont92 certifié. Devis gratuit!
@@ -55,14 +55,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-puteaux-92800-video.jpg
 introText: >-
-  À Puteaux, en plein cœur des Hauts-de-Seine, nos électriciens interviennent
-  dans cette commune dynamique caractérisée par ses immeubles collectifs et ses
-  résidences individuelles. Les installations électriques de ces bâtiments
-  exigent une expertise pointue et une connaissance approfondie des normes
-  actuelles pour garantir votre sécurité. Nous couvrons l'ensemble du 92800 avec
-  des interventions rapides et réactives pour tous vos dépannages et
-  installations électriques.
-introGeneratedAt: '2025-11-12T15:17:53.483Z'
+  À Puteaux, en plein cœur des Hauts-de-Seine, les résidences individuelles et
+  petits immeubles demandent une expertise électrique fiable et réactive. Vos
+  installations domestiques et tertiaires méritent des professionnels qualifiés
+  maîtrisant les normes actuelles et les spécificités du 92800. ALLO ELECTRICIEN
+  PRO vous couvre avec son réseau de 410+ électriciens certifiés Qualifelec,
+  garantissant une intervention en moins de 30 minutes, 24h/24.
+introGeneratedAt: '2025-11-17T09:55:33.218Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à PUTEAUX
 electriciansAvailable: 5

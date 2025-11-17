@@ -6,8 +6,8 @@ zipCode: '94500'
 department: '94'
 keyword: Électricien Urgence Champigny-Sur-Marne
 company: Watt77
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien urgence Champigny-sur-Marne 94500 ⚡ Installation, panne,
   réparation. Dépannage immédiat 24h/7j. Intervention rapide. Devis gratuit.
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champigny-sur-marne-94500-video.jpg
 introText: >-
-  À Champigny-sur-Marne, commune dynamique du Val-de-Marne, l'habitat
-  résidentiel diversifié alliant pavillons individuels et petits collectifs
-  demande une expertise électrique de proximité adaptée. Les installations
-  anciennes des quartiers établis comme ceux proches de la Marne nécessitent des
-  interventions régulières et fiables pour garantir sécurité et conformité.  Nos
-  électriciens interviennent rapidement sur l'ensemble du 94500 et ses
-  alentours, disponibles pour tous vos dépannage.
-introGeneratedAt: '2025-11-12T15:19:17.203Z'
+  À Champigny-sur-Marne (94500), cette commune dynamique du Val-de-Marne
+  conjugue habitat pavillonnaire et petits collectifs demandant une expertise
+  électrique de proximité. Que vous habitiez une maison individuelle ou un
+  immeuble, l'entretien et la sécurité de vos installations électriques restent
+  primordiaux pour votre confort quotidien. Le réseau ALLO ELECTRICIEN PRO
+  couvre Champigny-sur-Marne avec 410+ électriciens certifiés Qualifelec et RGE,
+  garantissant une intervention en moins de
+introGeneratedAt: '2025-11-17T09:57:00.211Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CHAMPIGNY-SUR-MARNE
 electriciansAvailable: 8

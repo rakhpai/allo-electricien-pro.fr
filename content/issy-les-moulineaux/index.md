@@ -6,8 +6,8 @@ zipCode: '92130'
 department: '92'
 keyword: Électricien d'Urgence Issy-Les-Moulineaux 92130
 company: Volt92Express
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'Urgence Issy-Les-Moulineaux 92130 ⚡ Installation, réparation,
   panne. Dépannage 24h/7j. Intervention garantie. Devis gratuit. Volt92Express.
@@ -56,13 +56,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-issy-les-moulineaux-92130-video.jpg
 introText: >-
   À Issy-les-Moulineaux, commune dynamique des Hauts-de-Seine, le parc
-  immobilier diversifié alliant pavillons résidentiels et petits collectifs
-  requiert une expertise électrique de proximité. Vos installations domestiques
-  et tertiaires méritent l'intervention de professionnels maîtrisant les normes
-  actuelles et les spécificités du secteur 92130. Nous couvrons l'ensemble de la
-  commune avec une disponibilité rapide pour tous vos dépannages et travaux
-  électriques.
-introGeneratedAt: '2025-11-12T15:17:33.536Z'
+  immobilier diversifié alliant pavillons individuels et petits collectifs
+  requiert une expertise électrique de qualité et de proximité. Vos
+  installations domestiques, rénovations et dépannages urgents méritent des
+  professionnels maîtrisant les spécificités du secteur 92130. Le réseau ALLO
+  ELECTRICIEN PRO couvre Issy-les-Moulineaux avec une intervention garantie en
+  moins de 30 minutes, 24h/24, grâce à nos 410+ élect
+introGeneratedAt: '2025-11-17T09:55:17.366Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à ISSY-LES-MOULINEAUX
 electriciansAvailable: 6

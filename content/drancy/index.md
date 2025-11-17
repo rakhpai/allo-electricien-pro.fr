@@ -6,8 +6,8 @@ zipCode: '93700'
 department: '93'
 keyword: Intervention Électricien Drancy
 company: DépanneDrancy93
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Intervention électricien Drancy 93700 ⚡ Panne, installation, tableau
   électrique. Dépannage immédiat 24h/7j. Devis gratuit. Artisan certifié
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-drancy-93700-video.jpg
 introText: >-
-  À Drancy, en Seine-Saint-Denis, notre expertise électrique s'adapte au tissu
-  urbain diversifié de cette commune dynamique, où cohabitent pavillons
-  individuels et immeubles collectifs demandant une maintenance régulière. Les
-  installations électriques de ces habitations, souvent anciennes, requièrent
-  des interventions professionnelles fiables et conformes aux normes actuelles. 
-  Nous couvrons l'intégralité du secteur 93700 avec une disponibilité immédiate
-  pour diagnostiquer, réparer ou rénover vo.
-introGeneratedAt: '2025-11-12T15:18:36.835Z'
+  À Drancy, commune dynamique de Seine-Saint-Denis, les résidences
+  pavillonnaires et petits immeubles collectifs requièrent une expertise
+  électrique de proximité et de confiance. Vos installations domestiques et
+  tertiaires méritent des interventions rapides et sécurisées, réalisées par des
+  professionnels qualifiés. Le réseau ALLO ELECTRICIEN PRO couvre Drancy 93700
+  avec une intervention en moins de 30 minutes, fort de 410+ électriciens
+  certifiés Qualifelec et RGE à votre service.
+introGeneratedAt: '2025-11-17T09:56:10.944Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à DRANCY
 electriciansAvailable: 7

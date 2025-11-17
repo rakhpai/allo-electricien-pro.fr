@@ -227,6 +227,18 @@ SPECIFIC CONTEXT FOR ${cityName}:
     }
   }
 
+  // Add brand context
+  const brandContext = `
+BRAND CONTEXT FOR ALLO ELECTRICIEN PRO:
+- Network: 410+ certified electricians across Île-de-France
+- Performance: 14,580+ interventions completed, 4.8/5 rating (2,450+ reviews)
+- Response: <30 minutes intervention time, 24/7 availability
+- Coverage: ${cityName} is served by our ${dept} network professionals
+- Certifications: All electricians are Qualifelec and RGE certified
+
+IMPORTANT: In sentence 3, naturally mention that ${cityName} is served by the ALLO ELECTRICIEN PRO network with rapid response capability.
+`;
+
   return `You are a local content writer with deep knowledge of French geography, especially Île-de-France region.
 
 Generate a compelling introduction for electrician services in:
@@ -236,6 +248,7 @@ CODE POSTAL: ${commune.zip_code}
 DÉPARTEMENT: ${dept} - ${DEPARTMENT_NAMES[dept] || 'Île-de-France'}
 Type: ${getTierDescription(tier)}
 ${localContext}
+${brandContext}
 
 CRITICAL REQUIREMENTS:
 - Write EXACTLY 3 sentences (no more, no less)
@@ -245,8 +258,8 @@ CRITICAL REQUIREMENTS:
 
 SENTENCE STRUCTURE (EXACTLY 3 SENTENCES):
 1. First sentence (140-160 chars): Open with ${cityName} or "À ${cityName}", describe location character and context
-2. Second sentence (180-200 chars): Explain why electrical services matter here, mention building types
-3. Third sentence (120-160 chars): Coverage area and rapid response availability
+2. Second sentence (170-190 chars): Explain why electrical services matter here, mention building types
+3. Third sentence (130-170 chars): Mention ALLO ELECTRICIEN PRO network presence in ${cityName}, <30min rapid response, and 410+ electricians if space permits
 
 CONTENT FOCUS:
 - Include 1-2 local references based on location type
@@ -255,7 +268,7 @@ CONTENT FOCUS:
 - End with service coverage and availability
 
 DO NOT INCLUDE:
-- Company names or phone numbers
+- Phone numbers (let template handle this)
 - Prices or specific tariffs
 - Generic statements that could apply anywhere
 - Marketing fluff or excessive adjectives

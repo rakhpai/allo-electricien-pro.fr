@@ -6,8 +6,8 @@ zipCode: '93190'
 department: '93'
 keyword: Électricien d'Urgence Livry-Gargan 93190
 company: LivryÉlecPro
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence Livry-Gargan 93190 ⚡ Panne électrique, installation,
   réparation. Dépannage immédiat 24h/7j. Technicien qualifié. Devis gratuit.
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-livry-gargan-93190-video.jpg
 introText: >-
-  À Livry-Gargan, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié composé de pavillons et petits collectifs demande une expertise
-  électrique de proximité adaptée. Les installations anciennes et les besoins de
-  modernisation des habitations du secteur requièrent des interventions fiables
-  et conformes aux normes actuelles. Nous couvrons l'ensemble du code postal
-  93190 avec une disponibilité rapide pour tous vos dépannages et travaux
-  électriques.
-introGeneratedAt: '2025-11-12T15:18:44.667Z'
+  À Livry-Gargan, commune dynamique de Seine-Saint-Denis, les résidences
+  pavillonnaires et petits collectifs demandent une expertise électrique fiable
+  et réactive. Vos installations, mises aux normes ou dépannages urgents,
+  nécessitent des professionnels maîtrisant les spécificités du secteur 93190.
+  Le réseau ALLO ELECTRICIEN PRO couvre Livry-Gargan avec intervention en moins
+  de 30 minutes, fort de 410+ électriciens certifiés Qualifelec et disponibles
+  24h/24.
+introGeneratedAt: '2025-11-17T09:56:21.676Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à LIVRY-GARGAN
 electriciansAvailable: 5

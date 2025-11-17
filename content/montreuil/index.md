@@ -6,8 +6,8 @@ zipCode: '93100'
 department: '93'
 keyword: Électricien Urgence MONTREUIL
 company: MONTREUILExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence MONTREUIL 93 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-montreuil-93100-video.jpg
 introText: >-
-  À Montreuil (93100), commune dynamique de Seine-Saint-Denis, nos électriciens
-  interviennent dans les pavillons, petits collectifs et commerces du secteur
-  avec une expertise locale reconnue. Les installations électriques de ces
-  bâtiments anciens et modernes demandent une connaissance approfondie des
-  normes et des spécificités du territoire. Nous assurons une intervention
-  rapide sur toute la commune pour vos dépannages, mises aux normes et
-  installations électriques.
-introGeneratedAt: '2025-11-12T15:18:48.556Z'
+  À Montreuil en Seine-Saint-Denis, cette commune dynamique du 93 combine
+  habitat pavillonnaire et immeubles collectifs anciens demandant une expertise
+  électrique régulière. Les installations anciennes des petits immeubles et
+  maisons individuelles du secteur nécessitent des interventions fiables et
+  conformes aux normes actuelles. Le réseau ALLO ELECTRICIEN PRO couvre
+  Montreuil avec 410+ électriciens certifiés Qualifelec et RGE, garantissant une
+  intervention en moins de 30 minutes, 24h/24.
+introGeneratedAt: '2025-11-17T09:56:26.112Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à MONTREUIL
 electriciansAvailable: 7

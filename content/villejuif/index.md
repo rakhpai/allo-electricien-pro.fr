@@ -6,8 +6,8 @@ zipCode: '94800'
 department: '94'
 keyword: Électricien Urgence Villejuif
 company: CircuitVillejuif
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien Villejuif 94 ⚡ Court-circuit, panne, installation. Urgence 24h/7j.
   Intervention immédiate. Devis gratuit. CircuitVillejuif certifié. Appelez!
@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-villejuif-94800-video.jpg
 introText: >-
-  À Villejuif, commune dynamique du Val-de-Marne située au sud de Paris, les
-  habitations individuelles et petits collectifs requièrent une expertise
-  électrique de qualité adaptée au territoire. Les installations anciennes des
-  pavillons et les systèmes modernes des résidences récentes demandent des
-  interventions précises et conformes aux normes actuelles. Nos électriciens
-  interviennent rapidement dans tout le 94800 pour garantir votre sécurité
-  électrique et votre confort quotidien.
-introGeneratedAt: '2025-11-12T15:20:07.997Z'
+  À Villejuif, commune dynamique du Val-de-Marne, les résidences pavillonnaires
+  et petits immeubles collectifs requièrent une expertise électrique de
+  proximité et de confiance. Que ce soit pour l'entretien de votre installation,
+  la mise aux normes ou une intervention d'urgence, nos électriciens maîtrisent
+  les spécificités du secteur 94800. Le réseau ALLO ELECTRICIEN PRO couvre
+  Villejuif avec une intervention garantie en moins de 30 minutes, grâce à nos
+  410+ électriciens certifiés Qualifelec et
+introGeneratedAt: '2025-11-17T09:57:46.039Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VILLEJUIF
 electriciansAvailable: 5
