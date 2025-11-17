@@ -1,10 +1,10 @@
 baseURL = "https://allo-electricien.pro/"
 languageCode = "fr-FR"
-title = "SOS Électricien Paris | Dépannage Électricité Urgence 24/7 IDF"
+title = "ALLO ELECTRICIEN PRO | Réseau 410+ Électriciens IDF 24/7"
 enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
 
 [params]
-  description = "SOS Électricien Paris & IDF ⚡ Dépannage électricité en urgence <30min. 410 professionnels 24/7. Court-circuit, panne totale, installation. ☎️ 06 44 64 48 24"
+  description = "ALLO ELECTRICIEN PRO ⚡ Réseau de 410+ électriciens certifiés en Île-de-France. Intervention <30min garantie, 24/7. 4.8/5 (2450+ avis). ☎️ 06 44 64 48 24"
 
   # Company Information
   companyName = "ECLAT RAPIDE ELECTRICITE"
@@ -53,7 +53,7 @@ enableGitInfo = true  # Enable Git info for lastmod dates in sitemap
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
+  # tag = "tags"  # Disabled: tags no longer generate pages or links
 
 [markup]
   [markup.goldmark]

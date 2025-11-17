@@ -216,9 +216,9 @@ function adjustTextLength(text, targetMin = 440, targetMax = 520) {
 function validateIntroText(text, cityName, zipCode, department) {
   const errors = [];
 
-  // Check length (acceptable range with buffer)
-  if (text.length < 440) {
-    errors.push(`Too short: ${text.length} chars (min 440)`);
+  // Check length (acceptable range with buffer) - Updated for brand integration
+  if (text.length < 450) {
+    errors.push(`Too short: ${text.length} chars (min 450)`);
   }
   if (text.length > 520) {
     errors.push(`Too long: ${text.length} chars (max 520)`);
@@ -286,21 +286,30 @@ Contexte spécifique pour ${commune.city}:
   const retryFeedback = commune.previousLength ?
     `\n⚠️ ATTENTION: Tentative précédente était ${commune.previousLength} caractères - TROP LONG!\nGénérez EXACTEMENT 430-470 caractères cette fois.\n` : '';
 
-  const prompt = `Générez EXACTEMENT 3 phrases pour un texte d'introduction contextuel pour un électricien à ${commune.city} (${commune.zipCode}).
+  const prompt = `Générez EXACTEMENT 3 phrases pour un texte d'introduction contextuel pour un électricien ALLO ELECTRICIEN PRO à ${commune.city} (${commune.zipCode}).
 ${retryFeedback}
 ${contextualElements}
 
 Instructions STRICTES:
 1. EXACTEMENT 3 phrases, séparées par des points
-2. Longueur totale: 430-470 caractères (OBLIGATOIRE)
+2. Longueur totale: 450-500 caractères (OBLIGATOIRE) - augmenté pour inclure la marque
 3. Première phrase: Contexte géographique et architectural (mentionner ${commune.city} et caractéristiques locales)
 4. Deuxième phrase: Besoins électriques spécifiques de la zone
-5. Troisième phrase: Notre présence et disponibilité locale
+5. Troisième phrase: OBLIGATOIREMENT mentionner le réseau "ALLO ELECTRICIEN PRO" + notre disponibilité locale
+
+BRAND INTEGRATION (MANDATORY):
+- La phrase 3 DOIT contenir "ALLO ELECTRICIEN PRO" OU "réseau ALLO ELECTRICIEN"
+- Peut aussi mentionner: "410+ électriciens" OU "intervention <30min" OU "24/7"
+- L'intégration doit être naturelle, pas promotionnelle
 
 Structure OBLIGATOIRE des 3 phrases:
 1. "À [Ville], [contexte géographique/architectural], [type de bâtiments]..."
 2. "Les installations [caractéristiques] nécessitent [besoins spécifiques]..."
-3. "Nos électriciens interviennent [rapidité/zone] pour [services]..."
+3. "Le réseau ALLO ELECTRICIEN PRO [couvre/dessert] ${commune.city} [avec/pour] [rapidité/services]..." OU "Nos électriciens du réseau ALLO ELECTRICIEN interviennent [rapidité/zone] pour [services]..."
+
+Exemples pour phrase 3:
+- "Le réseau ALLO ELECTRICIEN PRO dessert ${commune.city} avec intervention en moins de 30 minutes, 410+ électriciens certifiés disponibles 24/7."
+- "Nos électriciens du réseau ALLO ELECTRICIEN interviennent rapidement dans toute la commune pour vos dépannages, rénovations et installations électriques conformes."
 
 INTERDICTIONS:
 - PAS de guillemets
@@ -312,7 +321,7 @@ Département: ${commune.department} (${DEPARTMENT_NAMES[commune.department] || '
 Code postal: ${commune.zipCode}
 Ville exacte: ${commune.city}
 
-Générez UNIQUEMENT le texte de 3 phrases (430-470 caractères):`;
+Générez UNIQUEMENT le texte de 3 phrases (450-500 caractères) avec mention obligatoire de "ALLO ELECTRICIEN PRO" en phrase 3:`;
 
   try {
     const message = await anthropic.messages.create({

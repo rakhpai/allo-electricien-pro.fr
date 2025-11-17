@@ -126,25 +126,29 @@ async function generateSEOTitle(commune) {
   const cityName = toProperCase(commune.city_name || commune.url_path.replace(/^\//, ''));
   const dept = DEPARTMENT_NAMES[commune.department] || 'Île-de-France';
 
-  const prompt = `Generate a French SEO title for an electrician service page.
+  const prompt = `Generate a French SEO title for an ALLO ELECTRICIEN PRO electrician service page.
 
 City: ${cityName}
 Postal Code: ${commune.zip_code}
 Department: ${commune.department} - ${dept}
 
+BRAND REQUIREMENT (MANDATORY):
+- Must include ONE of: "ALLO ELECTRICIEN PRO" OR "Réseau 410+" OR "410+ Électriciens"
+- This establishes brand identity and network size in search results
+
 Requirements:
 - EXACTLY 55-60 characters (strict)
-- Include: city name, service type (électricien/dépannage), urgency signal
+- Include: city name, postal code, service type (électricien/dépannage)
 - Natural French, compelling for clicks
-- Must include postal code OR city name
 - Use symbols like ⚡ | 24/7 for impact
+- Brand mention must be natural and readable
 
-Examples (follow this pattern):
-- "Électricien Urgence Sèvres 92310 | Dépannage 24/7"
-- "⚡ Électricien Sèvres 92310 - Intervention <30min"
-- "Dépannage Électrique Sèvres | Service 24h/24"
+Examples with brand integration:
+- "⚡ Électricien ${cityName} ${commune.zip_code} | ALLO ELECTRICIEN PRO"
+- "Électricien Urgence ${cityName} | Réseau 410+ 24/7"
+- "⚡ 410+ Électriciens ${cityName} ${commune.zip_code} | Dépannage"
 
-Generate ONE title only. Return ONLY the title text, no quotes, no explanation.`;
+Generate ONE branded title only. Return ONLY the title text, no quotes, no explanation.`;
 
   const response = await anthropic.messages.create({
     model: MODEL,
@@ -166,10 +170,14 @@ Generate ONE title only. Return ONLY the title text, no quotes, no explanation.`
 async function generateMetaDescription(commune) {
   const cityName = toProperCase(commune.city_name || commune.url_path.replace(/^\//, ''));
 
-  const prompt = `Generate a French meta description for an electrician service page.
+  const prompt = `Generate a French meta description for an ALLO ELECTRICIEN PRO electrician service page.
 
 City: ${cityName}
 Postal Code: ${commune.zip_code}
+
+BRAND REQUIREMENT (MANDATORY):
+- Must naturally mention "ALLO ELECTRICIEN PRO" OR "réseau 410+ électriciens" OR "réseau ALLO ELECTRICIEN"
+- Establishes credibility and network presence in search snippets
 
 Requirements:
 - EXACTLY 150-160 characters (strict)
@@ -177,11 +185,13 @@ Requirements:
 - Use emojis sparingly (⚡ ⭐)
 - Compelling for click-through rate
 - End with action phrase
+- Brand mention must flow naturally
 
-Example:
-"Électricien d'urgence à Sèvres 92310. Intervention rapide <30min, 24h/24 et 7j/7. Devis gratuit ⚡ Certifié Qualifelec ⭐4.8/5. Appelez maintenant !"
+Examples with brand integration:
+"Électricien ALLO ELECTRICIEN PRO à ${cityName} ${commune.zip_code}. Intervention <30min, 24h/24 ⚡ Réseau 410+ experts. Devis gratuit ⭐4.8/5. Appelez maintenant !"
+"Électricien à ${cityName} ${commune.zip_code}. Dépannage rapide via réseau ALLO ELECTRICIEN PRO. 24/7 disponible ⚡ Devis gratuit ⭐ Contactez-nous !"
 
-Generate ONE description. Return ONLY the description text, no quotes.`;
+Generate ONE branded description. Return ONLY the description text, no quotes.`;
 
   const response = await anthropic.messages.create({
     model: MODEL,

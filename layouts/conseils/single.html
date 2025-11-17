@@ -3,7 +3,7 @@
 <div class="bg-gray-100 border-b border-gray-200 py-3 mt-24">
   <div class="container mx-auto px-4">
     <nav class="flex items-center space-x-2 text-sm">
-      <a href="/" class="text-primary hover:underline">SOS Électricien</a>
+      <a href="/" class="text-primary hover:underline">ALLO ELECTRICIEN PRO</a>
       <span class="text-gray-400">/</span>
       <a href="/conseils/" class="text-primary hover:underline">Conseils</a>
       <span class="text-gray-400">/</span>
@@ -85,12 +85,7 @@
           {{ . }}
         </a>
         {{ end }}
-        {{ range .Params.tags }}
-        <a href="/tags/{{ . | urlize }}/"
-           class="bg-white/10 backdrop-blur-sm px-3 py-1 rounded-full text-xs hover:bg-white/20 transition-colors">
-          #{{ . }}
-        </a>
-        {{ end }}
+        {{/* Tag links removed - tags only used for SEO keywords in schema.org */}}
       </div>
     </div>
   </div>
@@ -215,11 +210,11 @@
   {{ end }}
   "author": {
     "@type": "Person",
-    "name": {{ .Params.author | default "SOS Électricien Paris" | jsonify }}
+    "name": {{ .Params.author | default "ALLO ELECTRICIEN PRO" | jsonify }}
   },
   "publisher": {
     "@type": "Organization",
-    "name": "SOS Électricien Paris",
+    "name": "ALLO ELECTRICIEN PRO",
     "logo": {
       "@type": "ImageObject",
       "url": "{{ .Site.BaseURL }}eleclogos/logo.svg"

@@ -3,7 +3,7 @@
 <div class="bg-gray-100 border-b border-gray-200 py-3 mt-24">
   <div class="container mx-auto px-4">
     <nav class="flex items-center space-x-2 text-sm">
-      <a href="/" class="text-primary hover:underline">SOS Électricien</a>
+      <a href="/" class="text-primary hover:underline">ALLO ELECTRICIEN PRO</a>
       <span class="text-gray-400">/</span>
       <span class="text-gray-600">Conseils & Guides</span>
     </nav>
@@ -205,12 +205,12 @@
 {
   "@context": "https://schema.org",
   "@type": "Blog",
-  "name": "Conseils & Guides Électricité - SOS Électricien Paris",
+  "name": "Conseils & Guides Électricité - ALLO ELECTRICIEN PRO",
   "description": "Expertise professionnelle pour comprendre et résoudre vos problèmes électriques à Paris et en Île-de-France",
   "url": {{ .Permalink | jsonify }},
   "publisher": {
     "@type": "Organization",
-    "name": "SOS Électricien Paris",
+    "name": "ALLO ELECTRICIEN PRO",
     "logo": {
       "@type": "ImageObject",
       "url": "{{ .Site.BaseURL }}eleclogos/logo.svg"
@@ -231,7 +231,7 @@
       {{ end }}
       "author": {
         "@type": "Person",
-        "name": {{ .Params.author | default "SOS Électricien Paris" | jsonify }}
+        "name": {{ .Params.author | default "ALLO ELECTRICIEN PRO" | jsonify }}
       },
       "url": {{ .Permalink | jsonify }}
     }
