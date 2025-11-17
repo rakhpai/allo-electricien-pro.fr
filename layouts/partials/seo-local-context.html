@@ -1,13 +1,40 @@
 {{/*
   SEO Local Context Section
-  Renders AI-generated local context paragraphs
+  Renders AI-generated intro text (priority) or local context paragraphs (fallback)
   Styled to match existing design system
 */}}
 
+{{ $introText := .Params.introText }}
 {{ $localContext := .Params.seoContent.localContext }}
-{{ if $localContext }}
 
-<!-- Local Context Section -->
+{{ if $introText }}
+<!-- Branded Intro Text Section (ALLO ELECTRICIEN PRO) -->
+<section class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg p-6 md:p-8 mb-8">
+  <div class="prose prose-lg max-w-none">
+    <p class="text-gray-700 leading-relaxed text-base md:text-lg">
+      {{ $introText | markdownify }}
+    </p>
+  </div>
+
+  {{/* Optional: Add local visual element */}}
+  <div class="mt-6 pt-6 border-t border-blue-200">
+    <div class="flex flex-wrap gap-2 text-sm text-gray-600">
+      <span class="inline-flex items-center gap-1">
+        <svg class="w-4 h-4 text-primary" fill="currentColor" viewBox="0 0 20 20">
+          <path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"/>
+        </svg>
+        {{ .Params.city }} ({{ .Params.zipCode }})
+      </span>
+      {{ if .Params.department }}
+      <span class="text-gray-400">•</span>
+      <span>Département {{ .Params.department }}</span>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ else if $localContext }}
+<!-- Local Context Section (Fallback) -->
 <section class="bg-gradient-to-br from-blue-50 to-indigo-50 rounded-xl shadow-lg p-6 md:p-8 mb-8">
   <h2 class="text-2xl md:text-3xl font-bold text-gray-900 mb-6">
     {{ $localContext.title | default (printf "Votre Électricien Local à %s (%s)" .Params.city .Params.zipCode) }}
