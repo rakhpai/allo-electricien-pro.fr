@@ -260,30 +260,53 @@ Return ONLY the 3 paragraphs, separated by double line breaks. No title, no quot
 async function generateDetailedServices(commune) {
   const cityName = toProperCase(commune.city_name || commune.url_path.replace(/^\//, ''));
 
-  const prompt = `Generate 4 detailed electrical services for ${cityName}.
+  const prompt = `Generate 4 detailed electrical services for ALLO ELECTRICIEN PRO serving ${cityName}, ${commune.department}.
 
-Format as JSON array with this structure:
+MANDATORY BRAND INTEGRATION:
+- Company: ALLO ELECTRICIEN PRO (must mention in at least 2 services)
+- Network: 410+ certified electricians across Île-de-France
+- Track Record: 14,580+ successful interventions
+- Rating: 4.8/5 stars (2,450+ Google reviews)
+- Response Time: Guaranteed <30 minutes
+- Certifications: Qualifelec, RGE, Garantie décennale
+- Availability: 24/7 emergency service
+
+JSON OUTPUT FORMAT:
 [
   {
-    "title": "Service name",
-    "description": "2-3 sentence description (40-60 words)",
-    "icon": "lightning|tools|certificate|refresh|shield|wrench"
+    "title": "Service name in French (4-8 words)",
+    "description": "Professional French description (40-60 words STRICT)",
+    "icon": "lightning|tools|certificate|refresh"
   }
 ]
 
-Services to cover:
-1. Emergency repair (lightning icon)
-2. Installation/wiring (tools icon)
-3. Safety/compliance (certificate icon)
-4. Renovation (refresh icon)
+REQUIRED SERVICE STRUCTURE:
 
-Requirements:
-- Each description: 40-60 words
-- Specific to electrical work
-- Mention benefits, not just features
-- Professional French
+Service 1 - Emergency Repair (lightning icon):
+- MUST mention: "ALLO ELECTRICIEN PRO" + "<30 minutes" OR "moins de 30 minutes" + "${cityName}"
+- Content: Rapid intervention, 24/7 availability, safety restoration
 
-Return ONLY valid JSON array, nothing else.`;
+Service 2 - Installation & Wiring (tools icon):
+- MUST mention: "410+ électriciens certifiés" OR "Qualifelec"
+- Content: New installations, NFC 15-100 compliance, modern systems
+
+Service 3 - Safety & Certification (certificate icon):
+- MUST mention: "14 580+ interventions" OR "4,8/5" rating
+- Content: Compliance audit, Consuel certification, risk identification
+
+Service 4 - Complete Renovation (refresh icon):
+- MUST mention: "ALLO ELECTRICIEN PRO" OR "réseau" + one trust signal
+- Content: Modernization, efficiency, property value increase
+
+STRICT REQUIREMENTS:
+✓ Each description: EXACTLY 40-60 words
+✓ Each service MUST include at least ONE brand element
+✓ Distribute trust signals - don't use same metric in all 4 services
+✓ Professional French (NOT promotional marketing tone)
+✓ Benefit-focused (safety, comfort, compliance, value)
+✓ Naturally mention ${cityName} where appropriate
+
+Return ONLY the JSON array. NO markdown formatting, NO explanations, NO code blocks.`;
 
   const response = await anthropic.messages.create({
     model: MODEL,
@@ -324,6 +347,23 @@ Return ONLY valid JSON array, nothing else.`;
         icon: "refresh"
       }
     ];
+  }
+
+  // Validate brand integration
+  const allDescriptions = services.map(s => s.description).join(' ');
+  const brandMentions = (allDescriptions.match(/ALLO ELECTRICIEN PRO/gi) || []).length;
+  const hasResponseTime = /<30\s*minutes?|moins de 30 minutes/i.test(allDescriptions);
+  const hasNetwork = /410\+|Qualifelec/i.test(allDescriptions);
+  const hasTrust = /14\s*580\+|4[,.]8\/5/i.test(allDescriptions);
+
+  const validationFailed = [];
+  if (brandMentions < 2) validationFailed.push(`only ${brandMentions} brand mentions (need 2+)`);
+  if (!hasResponseTime) validationFailed.push('missing <30min response time');
+  if (!hasNetwork) validationFailed.push('missing 410+ or Qualifelec');
+  if (!hasTrust) validationFailed.push('missing trust signal (14,580+ or 4.8/5)');
+
+  if (validationFailed.length > 0) {
+    console.log(`    ⚠️  Brand validation issues: ${validationFailed.join(', ')}`);
   }
 
   return {
