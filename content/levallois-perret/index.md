@@ -57,12 +57,12 @@ cdnImages:
 introText: >-
   À Levallois-Perret, commune dynamique des Hauts-de-Seine, les résidences
   individuelles et petits immeubles demandent une expertise électrique de
-  proximité et de confiance. Que ce soit pour l'entretien de votre installation,
-  la mise aux normes ou une intervention d'urgence, nos électriciens maîtrisent
-  les spécificités du secteur 92300. Le réseau ALLO ELECTRICIEN PRO couvre
-  Levallois-Perret avec une intervention garantie en moins de 30 minutes,
-  24h/24, grâce à nos 410+ électriciens cert
-introGeneratedAt: '2025-11-17T09:55:21.603Z'
+  qualité et de proximité. Vos installations, mises aux normes ou dépannages
+  urgents nécessitent des professionnels réactifs et fiables qui connaissent le
+  territoire. Le réseau ALLO ELECTRICIEN PRO couvre Levallois-Perret 92300 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24/7 pour tous vos
+introGeneratedAt: '2025-11-17T12:01:29.194Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à LEVALLOIS-PERRET
 electriciansAvailable: 8

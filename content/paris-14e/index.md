@@ -6,12 +6,12 @@ zipCode: '75014'
 department: '75'
 keyword: Électricien Urgence Paris 14e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 14e (75014) ⚡ Dépannage électricité urgence
-  <30min Montparnasse, Denfert, Alésia. Panne, court-circuit 24/7. ☎️ 06 44 95
-  55 55
+  06 44 64 48 24 SOS Électricien Paris 14e (75014) ⚡ Dépannage électricité
+  urgence <30min Montparnasse, Denfert, Alésia. Panne, court-circuit 24/7. ☎️ 06
+  44 95 55 55
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-14-75014-video.jpg
 introText: >-
-  À Paris 14e, arrondissement résidentiel et dynamique du sud parisien, les
-  immeubles haussmanniens côtoient des constructions modernes demandant une
-  expertise électrique constante. Les installations anciennes et les rénovations
-  nombreuses dans le 75014 requièrent des électriciens maîtrisant les normes
-  actuelles et les spécificités du patrimoine bâti local. Nous intervenons
-  rapidement dans tout Paris 14e pour diagnostiquer, installer et entretenir vos
-  systèmes électriques avec professionnalisme.
-introGeneratedAt: '2025-11-12T15:15:23.572Z'
+  À Paris 14e, arrondissement dynamique du sud parisien, les immeubles
+  haussmanniens côtoient des constructions modernes nécessitant une expertise
+  électrique adaptée. Les installations anciennes comme récentes demandent une
+  maintenance régulière et des interventions fiables pour garantir votre
+  sécurité. Le réseau ALLO ELECTRICIEN PRO couvre Paris 14e 75014 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24h/24 pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T10:18:17.889Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 14e
 electriciansAvailable: 8

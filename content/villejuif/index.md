@@ -56,13 +56,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-villejuif-94800-video.jpg
 introText: >-
   À Villejuif, commune dynamique du Val-de-Marne, les résidences pavillonnaires
-  et petits immeubles collectifs requièrent une expertise électrique de
-  proximité et de confiance. Que ce soit pour l'entretien de votre installation,
-  la mise aux normes ou une intervention d'urgence, nos électriciens maîtrisent
-  les spécificités du secteur 94800. Le réseau ALLO ELECTRICIEN PRO couvre
-  Villejuif avec une intervention garantie en moins de 30 minutes, grâce à nos
-  410+ électriciens certifiés Qualifelec et
-introGeneratedAt: '2025-11-17T09:57:46.039Z'
+  et petits immeubles collectifs demandent une expertise électrique de proximité
+  et réactive. Que vous habitiez près de la Mairie ou dans les quartiers
+  résidentiels, l'entretien et la sécurité de vos installations électriques sont
+  essentiels. Le réseau ALLO ELECTRICIEN PRO couvre Villejuif 94800 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24/7 pour
+introGeneratedAt: '2025-11-17T12:02:59.131Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VILLEJUIF
 electriciansAvailable: 5

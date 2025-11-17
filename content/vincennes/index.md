@@ -56,13 +56,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vincennes-94300-video.jpg
 introText: >-
   À Vincennes, commune dynamique du Val-de-Marne, les résidences pavillonnaires
-  et petits collectifs demandent une expertise électrique de qualité. Vos
-  installations, rénovations et dépannages nécessitent des professionnels
-  maîtrisant les normes actuelles et les spécificités du bâti local. Le réseau
-  ALLO ELECTRICIEN PRO couvre Vincennes 94300 avec intervention en moins de 30
-  minutes, fort de 410+ électriciens certifiés Qualifelec et RGE à votre
-  service.
-introGeneratedAt: '2025-11-17T09:57:49.687Z'
+  et petits immeubles demandent une expertise électrique de proximité constante.
+  Vos installations, rénovations et dépannages nécessitent des professionnels
+  connaissant parfaitement le territoire et ses spécificités. Le réseau ALLO
+  ELECTRICIEN PRO couvre Vincennes 94300 avec intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24/7 pour
+  tous vos besoins.
+introGeneratedAt: '2025-11-17T12:03:02.756Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VINCENNES
 electriciansAvailable: 7

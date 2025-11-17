@@ -6,12 +6,12 @@ zipCode: '75005'
 department: '75'
 keyword: Électricien Urgence Paris 5e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 5e (75005) ⚡ Dépannage électricité urgence
-  <30min Quartier Latin, Panthéon, Sorbonne. Panne, court-circuit 24/7. ☎️ 06 44
-  95 55 55
+  06 44 64 48 24 SOS Électricien Paris 5e (75005) ⚡ Dépannage électricité
+  urgence <30min Quartier Latin, Panthéon, Sorbonne. Panne, court-circuit 24/7.
+  ☎️ 06 44 95 55 55
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-5-75005-video.jpg
 introText: >-
-  À Paris 5e, le Quartier Latin et ses environs regroupent des immeubles
-  haussmanniens et des résidences universitaires demandant une expertise
-  électrique spécialisée. Les installations anciennes de ce secteur historique
-  du 75005 nécessitent des interventions régulières pour garantir sécurité et
-  conformité aux normes actuelles. Nos électriciens interviennent rapidement
-  dans tout Paris 5e pour diagnostiquer, réparer et moderniser vos installations
-  électriques avec professionnalisme.
-introGeneratedAt: '2025-11-12T15:14:46.280Z'
+  À Paris 5e, le Quartier Latin concentre des immeubles haussmanniens et des
+  bâtiments universitaires exigeant une expertise électrique de haut niveau. Les
+  installations anciennes et les besoins croissants en électricité demandent des
+  interventions rapides et fiables pour garantir votre sécurité. Le réseau ALLO
+  ELECTRICIEN PRO couvre Paris 5e 75005 avec une intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T10:17:20.831Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 5e
 electriciansAvailable: 7

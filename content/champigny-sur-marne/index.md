@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-champigny-sur-marne-94500-video.jpg
 introText: >-
-  À Champigny-sur-Marne (94500), cette commune dynamique du Val-de-Marne
-  conjugue habitat pavillonnaire et petits collectifs demandant une expertise
-  électrique de proximité. Que vous habitiez une maison individuelle ou un
-  immeuble, l'entretien et la sécurité de vos installations électriques restent
-  primordiaux pour votre confort quotidien. Le réseau ALLO ELECTRICIEN PRO
-  couvre Champigny-sur-Marne avec 410+ électriciens certifiés Qualifelec et RGE,
-  garantissant une intervention en moins de
-introGeneratedAt: '2025-11-17T09:57:00.211Z'
+  À Champigny-sur-Marne, commune dynamique du Val-de-Marne, les résidences
+  pavillonnaires et petits collectifs demandent une expertise électrique de
+  proximité constante. Vos installations domestiques et tertiaires nécessitent
+  des interventions fiables pour garantir sécurité et conformité aux normes
+  actuelles. Le réseau ALLO ELECTRICIEN PRO couvre Champigny-sur-Marne 94500
+  avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et disponibilité 24/7.
+introGeneratedAt: '2025-11-17T12:02:40.397Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CHAMPIGNY-SUR-MARNE
 electriciansAvailable: 8

@@ -6,12 +6,12 @@ zipCode: '75012'
 department: '75'
 keyword: Électricien Urgence Paris 12e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 12e (75012) ⚡ Dépannage électricité urgence
-  <30min Bercy, Nation, Gare de Lyon. Panne, court-circuit 24/7. ☎️ 06 44 95 55
-  55
+  06 44 64 48 24 SOS Électricien Paris 12e (75012) ⚡ Dépannage électricité
+  urgence <30min Bercy, Nation, Gare de Lyon. Panne, court-circuit 24/7. ☎️ 06
+  44 95 55 55
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-12-75012-video.jpg
 introText: >-
-  À Paris 12e, arrondissement dynamique alliant immeubles haussmanniens et
-  constructions modernes, les besoins en électricité sont constants et variés.
-  Les appartements anciens comme les bâtiments récents du quartier Bercy
-  requièrent une expertise pointue pour garantir sécurité et conformité aux
-  normes actuelles. Nos électriciens interviennent rapidement dans tout le
-  75012, disponibles pour diagnostics, rénovations et dépannages d'urgence.
-introGeneratedAt: '2025-11-12T15:15:15.449Z'
+  À Paris 12e, arrondissement dynamique du sud-est parisien, les immeubles
+  haussmanniens côtoient des résidences modernes nécessitant une expertise
+  électrique constante. Les installations anciennes et les rénovations récentes
+  demandent des interventions fiables et conformes aux normes actuelles. Le
+  réseau ALLO ELECTRICIEN PRO couvre Paris 12e 75012 avec une intervention en
+  moins de 30 minutes, 410+ électriciens certifiés Qualifelec et RGE disponibles
+  24h/24 pour tous vos besoins.
+introGeneratedAt: '2025-11-17T10:17:55.671Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 12e
 electriciansAvailable: 8

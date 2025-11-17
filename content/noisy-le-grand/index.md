@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-noisy-le-grand-93160-video.jpg
 introText: >-
-  À Noisy-le-Grand, commune dynamique de Seine-Saint-Denis, les résidences
-  pavillonnaires et petits collectifs demandent une expertise électrique de
-  proximité et réactive. Que ce soit pour l'entretien de votre installation, la
-  mise aux normes ou une intervention d'urgence, nos électriciens maîtrisent les
-  spécificités du 93160. Le réseau ALLO ELECTRICIEN PRO couvre Noisy-le-Grand
-  avec une intervention garantie en moins de 30 minutes, grâce à nos 410+
-  électriciens certifiés Qualifelec et RGE dispon
-introGeneratedAt: '2025-11-17T09:56:30.117Z'
+  À Noisy-le-Grand, cette commune dynamique de Seine-Saint-Denis conjugue
+  habitat pavillonnaire et petits collectifs demandant une expertise électrique
+  de proximité. Vos installations domestiques et tertiaires méritent des
+  interventions fiables, conformes aux normes actuelles et réalisées par des
+  professionnels qualifiés. Le réseau ALLO ELECTRICIEN PRO couvre Noisy-le-Grand
+  93160 avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T12:02:24.527Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à NOISY-LE-GRAND
 electriciansAvailable: 5

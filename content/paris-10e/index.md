@@ -6,11 +6,11 @@ zipCode: '75010'
 department: '75'
 keyword: Électricien Urgence Paris 10e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  SOS Électricien Paris 10e (75010) ⚡ Dépannage électricité urgence <30min
-  Gare du Nord, Gare de l'Est, Canal Saint-Martin. Panne, court-circuit, intervention
+  SOS Électricien Paris 10e (75010) ⚡ Dépannage électricité urgence <30min Gare
+  du Nord, Gare de l'Est, Canal Saint-Martin. Panne, court-circuit, intervention
   24/7. ☎️ 06 44 64 48 24
 niche: électricité
 kwSource: électricité
@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-10-75010-video.jpg
 introText: >-
-  À Paris 10e, arrondissement dynamique aux façades haussmanniennes et immeubles
-  anciens, les installations électriques demandent une expertise particulière et
-  régulière. Les logements parisiens du 75010, souvent datant du XIXe siècle,
-  nécessitent des interventions d'électriciens qualifiés pour garantir sécurité
-  et conformité aux normes actuelles. Nous couvrons l'ensemble du quartier avec
-  une disponibilité immédiate pour tous vos dépannages et travaux électriques.
-introGeneratedAt: '2025-11-12T15:15:07.388Z'
+  À Paris 10e, arrondissement dynamique du cœur parisien, les immeubles
+  haussmanniens et bâtiments modernes exigent une expertise électrique de haut
+  niveau. Les installations anciennes comme les rénovations contemporaines
+  nécessitent des interventions fiables et conformes aux normes actuelles. Le
+  réseau ALLO ELECTRICIEN PRO couvre Paris 10e 75010 avec une intervention en
+  moins de 30 minutes, 410+ électriciens certifiés Qualifelec et RGE disponibles
+  24h/24.
+introGeneratedAt: '2025-11-17T10:17:47.385Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 10e
 electriciansAvailable: 8

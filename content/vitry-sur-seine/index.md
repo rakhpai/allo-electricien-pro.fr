@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-vitry-sur-seine-94400-video.jpg
 introText: >-
-  À Vitry-sur-Seine, commune dynamique du Val-de-Marne, le parc immobilier
-  diversifié alliant pavillons individuels et petits collectifs requiert une
-  expertise électrique de proximité. Vos installations, mises aux normes ou
-  dépannages d'urgence, méritent des professionnels maîtrisant les spécificités
-  du secteur 94400. Le réseau ALLO ELECTRICIEN PRO couvre Vitry-sur-Seine avec
-  intervention en moins de 30 minutes, grâce à nos 410+ électriciens certifiés
-  Qualifelec disponibles 24h/
-introGeneratedAt: '2025-11-17T09:57:54.065Z'
+  À Vitry-sur-Seine, commune dynamique du Val-de-Marne, l'habitat résidentiel et
+  les petits collectifs demandent une expertise électrique fiable et réactive.
+  Que vous habitiez un pavillon ou un immeuble, vos installations électriques
+  méritent l'intervention de professionnels qualifiés et disponibles rapidement.
+  Le réseau ALLO ELECTRICIEN PRO couvre Vitry-sur-Seine 94400 avec intervention
+  en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et RGE,
+  disponibles 24h/24 pour tous v
+introGeneratedAt: '2025-11-17T12:03:07.052Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VITRY-SUR-SEINE
 electriciansAvailable: 6

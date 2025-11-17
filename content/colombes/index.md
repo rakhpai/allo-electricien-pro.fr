@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-colombes-92700-video.jpg
 introText: >-
-  À Colombes, en plein cœur des Hauts-de-Seine, les résidences pavillonnaires et
-  petits immeubles demandent une expertise électrique fiable et réactive. Vos
-  installations domestiques et tertiaires méritent des professionnels qualifiés
-  capables d'intervenir rapidement sur tous types de défaillances. Le réseau
-  ALLO ELECTRICIEN PRO couvre Colombes 92700 avec plus de 410 électriciens
-  certifiés Qualifelec, garantissant une intervention en moins de 30 minutes,
-  24h/24.
-introGeneratedAt: '2025-11-17T09:55:06.017Z'
+  À Colombes, cette commune dynamique des Hauts-de-Seine, les habitations
+  pavillonnaires et petits immeubles demandent une expertise électrique de
+  qualité et de proximité. Que vous habitiez près de la Seine ou dans les
+  quartiers résidentiels, vos installations électriques méritent des
+  professionnels fiables et réactifs. Le réseau ALLO ELECTRICIEN PRO couvre
+  Colombes 92700 avec intervention en moins de 30 minutes, 410+ électriciens
+  certifiés Qualifelec et disponibilité 24/7 pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T12:01:17.563Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à COLOMBES
 electriciansAvailable: 6

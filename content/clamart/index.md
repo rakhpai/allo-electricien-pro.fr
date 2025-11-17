@@ -55,14 +55,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-clamart-92140-video.jpg
 introText: >-
-  À Clamart, en plein cœur des Hauts-de-Seine, les maisons individuelles et
-  petits collectifs demandent une expertise électrique de qualité pour garantir
-  sécurité et conformité. Vos installations domestiques et tertiaires méritent
-  l'intervention de professionnels maîtrisant les normes actuelles et les
-  spécificités du bâti local. Le réseau ALLO ELECTRICIEN PRO couvre Clamart
-  92140 avec 410+ électriciens certifiés et une intervention en moins de 30
-  minutes, disponibles 24h/24.
-introGeneratedAt: '2025-11-17T09:54:54.540Z'
+  À Clamart, cette commune dynamique des Hauts-de-Seine conjugue habitat
+  pavillonnaire et petits collectifs demandant une expertise électrique de
+  qualité. Vos installations domestiques et tertiaires méritent des
+  interventions fiables et conformes aux normes actuelles. Le réseau ALLO
+  ELECTRICIEN PRO couvre Clamart 92140 avec intervention sous 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7 pour tous vos besoins.
+introGeneratedAt: '2025-11-17T12:01:10.086Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CLAMART
 electriciansAvailable: 6

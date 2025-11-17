@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-montreuil-93100-video.jpg
 introText: >-
-  À Montreuil en Seine-Saint-Denis, cette commune dynamique du 93 combine
-  habitat pavillonnaire et immeubles collectifs anciens demandant une expertise
-  électrique régulière. Les installations anciennes des petits immeubles et
-  maisons individuelles du secteur nécessitent des interventions fiables et
-  conformes aux normes actuelles. Le réseau ALLO ELECTRICIEN PRO couvre
-  Montreuil avec 410+ électriciens certifiés Qualifelec et RGE, garantissant une
-  intervention en moins de 30 minutes, 24h/24.
-introGeneratedAt: '2025-11-17T09:56:26.112Z'
+  À Montreuil, commune dynamique de Seine-Saint-Denis, les résidences
+  individuelles et petits immeubles collectifs demandent une expertise
+  électrique de proximité constante. Que ce soit pour des rénovations, des
+  dépannages urgents ou des installations neuves, vos installations électriques
+  méritent des professionnels fiables et réactifs. Le réseau ALLO ELECTRICIEN
+  PRO couvre Montreuil 93100 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T12:02:20.713Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à MONTREUIL
 electriciansAvailable: 7

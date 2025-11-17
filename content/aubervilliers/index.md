@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-aubervilliers-93300-video.jpg
 introText: >-
-  À Aubervilliers, commune dynamique de Seine-Saint-Denis, le parc immobilier
-  diversifié comprend pavillons, petits immeubles et logements collectifs
-  demandant une maintenance électrique régulière. Les installations anciennes et
-  les besoins croissants en électricité rendent indispensable un électricien
-  fiable et réactif dans le 93300. Le réseau ALLO ELECTRICIEN PRO couvre
-  Aubervilliers avec 410+ électriciens certifiés Qualifelec et RGE, garantissant
-  une intervention en moins de 30 minutes, 24h/24, pour tous
-introGeneratedAt: '2025-11-17T09:55:56.130Z'
+  À Aubervilliers, commune dynamique de Seine-Saint-Denis, les résidences
+  collectives et pavillons anciens demandent une expertise électrique régulière
+  et fiable. Vos installations domestiques et professionnelles méritent des
+  interventions rapides et sécurisées, adaptées aux spécificités du bâti local.
+  Le réseau ALLO ELECTRICIEN PRO couvre Aubervilliers 93300 avec intervention en
+  moins de 30 minutes, 410+ électriciens certifiés Qualifelec et disponibilité
+  24h/24.
+introGeneratedAt: '2025-11-17T12:01:52.317Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à AUBERVILLIERS
 electriciansAvailable: 8

@@ -6,12 +6,12 @@ zipCode: '75008'
 department: '75'
 keyword: Électricien Urgence Paris 8e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 8e (75008) ⚡ Dépannage électricité urgence
-  <30min Champs-Élysées, Madeleine, Concorde. Panne, court-circuit 24/7. ☎️ 06
-  44 95 55 55
+  06 44 64 48 24 SOS Électricien Paris 8e (75008) ⚡ Dépannage électricité
+  urgence <30min Champs-Élysées, Madeleine, Concorde. Panne, court-circuit 24/7.
+  ☎️ 06 44 95 55 55
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -57,13 +57,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-8-75008-video.jpg
 introText: >-
   À Paris 8e, arrondissement prestigieux aux immeubles haussmanniens et
-  bâtiments modernes, les installations électriques demandent une expertise
-  particulière et régulière. Les résidences, bureaux et commerces du 75008
-  nécessitent des interventions fiables pour garantir sécurité et conformité aux
-  normes actuelles. Nos électriciens interviennent rapidement dans tout Paris 8e
-  pour diagnostiquer, réparer et moderniser vos installations avec
-  professionnalisme.
-introGeneratedAt: '2025-11-12T15:14:58.476Z'
+  bâtiments modernes, la fiabilité électrique est essentielle pour les
+  résidences et commerces du secteur. Les installations anciennes comme récentes
+  demandent une expertise pointue et une intervention rapide pour garantir votre
+  sécurité. Le réseau ALLO ELECTRICIEN PRO couvre Paris 8e 75008 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T10:17:32.121Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 8e
 electriciansAvailable: 7

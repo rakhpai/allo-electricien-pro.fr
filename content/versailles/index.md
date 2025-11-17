@@ -57,12 +57,12 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-versailles-78000-video.jpg
 introText: >-
   À Versailles, commune prestigieuse des Yvelines, les résidences historiques et
-  pavillons modernes requièrent une expertise électrique adaptée à leurs
-  spécificités. Vos installations domestiques et petits collectifs méritent une
-  intervention rapide et professionnelle pour garantir votre sécurité. Le réseau
-  ALLO ELECTRICIEN PRO couvre Versailles 78000 avec nos électriciens certifiés
-  Qualifelec, disponibles en moins de 30 minutes pour tous vos dépannages.
-introGeneratedAt: '2025-11-17T09:54:31.585Z'
+  pavillons modernes demandent une expertise électrique de qualité. Vos
+  installations domestiques et petits collectifs nécessitent des interventions
+  fiables et conformes aux normes actuelles. Le réseau ALLO ELECTRICIEN PRO
+  couvre Versailles 78000 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7.
+introGeneratedAt: '2025-11-17T12:00:51.367Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à VERSAILLES
 electriciansAvailable: 6

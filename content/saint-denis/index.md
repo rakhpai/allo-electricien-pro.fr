@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-saint-denis-93200-video.jpg
 introText: >-
-  À Saint-Denis, commune dynamique de Seine-Saint-Denis, les résidences
-  collectives et pavillons anciens requièrent une expertise électrique adaptée
-  aux enjeux de sécurité et de conformité. Les installations vieillissantes et
-  les demandes croissantes en électricité exigent des interventions fiables et
-  rapides. Le réseau ALLO ELECTRICIEN PRO couvre Saint-Denis 93200 avec nos
-  électriciens certifiés Qualifelec, garantissant une intervention en moins de
-  30 minutes et une disponibilité 24/7.
-introGeneratedAt: '2025-11-17T09:56:44.656Z'
+  À Saint-Denis, commune dynamique de Seine-Saint-Denis, les logements
+  collectifs et pavillons anciens requièrent une expertise électrique régulière
+  pour garantir sécurité et conformité. Les installations vieillissantes et les
+  besoins croissants en électricité domestique demandent des interventions
+  fiables et rapides. Le réseau ALLO ELECTRICIEN PRO couvre Saint-Denis 93200
+  avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et disponibilité 24/7 pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T12:02:33.068Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à SAINT-DENIS
 electriciansAvailable: 6

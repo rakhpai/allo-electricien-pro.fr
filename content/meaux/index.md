@@ -56,13 +56,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-meaux-77100-video.jpg
 introText: >-
   À Meaux, commune dynamique de Seine-et-Marne, le parc immobilier diversifié
-  alliant maisons individuelles, petits collectifs et commerces demande une
-  expertise électrique de qualité. Les installations anciennes comme modernes
-  requièrent des interventions fiables et conformes aux normes actuelles. Le
-  réseau ALLO ELECTRICIEN PRO couvre Meaux avec 410+ électriciens certifiés
-  Qualifelec et RGE, garantissant une intervention en moins de 30 minutes,
-  24h/24, pour tous vos besoins électriques.
-introGeneratedAt: '2025-11-17T09:54:16.627Z'
+  alliant maisons individuelles et petits collectifs requiert une expertise
+  électrique de qualité. Que vous habitiez le centre-ville historique ou les
+  quartiers résidentiels, l'entretien et la sécurité de vos installations
+  électriques sont essentiels. Le réseau ALLO ELECTRICIEN PRO couvre Meaux 77100
+  avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T12:00:43.695Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à MEAUX
 electriciansAvailable: 5

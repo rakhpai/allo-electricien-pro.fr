@@ -6,8 +6,8 @@ zipCode: '75001'
 department: '75'
 keyword: Électricien Urgence Paris 1er
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Paris 1er (75001) ⚡ Dépannage électricité urgence <30min
   Louvre, Châtelet, Les Halles. Panne, court-circuit, intervention 24/7. ☎️ 06
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-1-75001-video.jpg
 introText: >-
-  À Paris 1er, au cœur du Louvre et des Halles, les immeubles haussmanniens et
-  bâtiments historiques demandent une expertise électrique particulière et
-  adaptée. Les installations anciennes de ce secteur touristique et résidentiel
-  requièrent des interventions professionnelles maîtrisant les normes de
-  sécurité et la préservation du patrimoine. Nos électriciens interviennent
-  rapidement dans le 75001 pour tous vos dépannages, mises aux normes et travaux
-  d'électricité générale.
-introGeneratedAt: '2025-11-12T15:14:23.175Z'
+  À Paris 1er, au cœur de la capitale historique, les immeubles haussmanniens et
+  les bâtiments patrimoniaux demandent une expertise électrique particulière et
+  respectueuse des normes. Les installations anciennes de ce quartier central
+  nécessitent des interventions précises et sécurisées pour garantir votre
+  confort et votre sécurité. Le réseau ALLO ELECTRICIEN PRO couvre Paris 1er
+  75001 avec une intervention en moins de 30 minutes, 410+ électriciens
+  certifiés Qualifelec et RGE disponibles 24h/24 pour tous v
+introGeneratedAt: '2025-11-17T12:00:26.725Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 1er
 electriciansAvailable: 8

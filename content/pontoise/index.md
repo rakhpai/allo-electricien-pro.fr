@@ -6,8 +6,8 @@ zipCode: '95300'
 department: '95'
 keyword: SOS Électricien Pontoise 95300
 company: Dupont Volt 95
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Pontoise 95300 ⚡ Installation, réparation, tableau électrique.
   Urgence 24h/7j. Intervention immédiate. Devis gratuit. Dupont Volt 95
@@ -55,15 +55,6 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-pontoise-95300-video.webp
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-pontoise-95300-video.jpg
-introText: >-
-  À Pontoise, commune dynamique du Val-d'Oise, l'habitat résidentiel et les
-  petits collectifs demandent une expertise électrique de proximité adaptée aux
-  réalités locales. Les installations anciennes des quartiers établis et les
-  constructions récentes nécessitent des interventions fiables et conformes aux
-  normes actuelles. Nos électriciens interviennent rapidement sur l'ensemble de
-  Pontoise 95300 pour tous vos besoins en électricité générale et dépannage
-  d'urgence.
-introGeneratedAt: '2025-11-12T15:20:38.570Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à PONTOISE
 electriciansAvailable: 6
@@ -240,5 +231,13 @@ seoContent:
 seoEnhanced: true
 seoEnhancedAt: '2025-11-15T15:41:46.672Z'
 seoContentWordCount: 651
+introText: >-
+  À Pontoise, commune dynamique du Val-d'Oise, l'habitat résidentiel et les
+  petits collectifs demandent une expertise électrique fiable et réactive. Vos
+  installations, mises aux normes ou dépannages urgents, méritent des
+  professionnels qualifiés connaissant le secteur. Le réseau ALLO ELECTRICIEN
+  PRO couvre Pontoise 95300 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7 pour tous vos besoins.
+introGeneratedAt: '2025-11-17T12:03:18.460Z'
 ---
 

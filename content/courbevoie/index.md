@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-courbevoie-92400-video.jpg
 introText: >-
-  À Courbevoie, commune dynamique des Hauts-de-Seine, les résidences
-  individuelles et petits collectifs demandent une expertise électrique de
-  qualité pour garantir sécurité et conformité. Que ce soit pour une
-  installation, une rénovation ou une maintenance, vos installations électriques
-  méritent des professionnels fiables et réactifs. ALLO ELECTRICIEN PRO couvre
-  Courbevoie 92400 avec ses électriciens certifiés Qualifelec, intervenant en
-  moins de 30 minutes, 24h/24 et 7j/7.
-introGeneratedAt: '2025-11-17T09:55:10.036Z'
+  À Courbevoie, commune dynamique des Hauts-de-Seine, les résidences collectives
+  et pavillons demandent une expertise électrique fiable et réactive. Que ce
+  soit pour des installations neuves, des rénovations ou des dépannages urgents,
+  vos équipements électriques méritent une prise en charge professionnelle. Le
+  réseau ALLO ELECTRICIEN PRO couvre Courbevoie 92400 avec intervention en moins
+  de 30 minutes, 410+ électriciens certifiés Qualifelec et RGE disponibles
+  24h/24.
+introGeneratedAt: '2025-11-17T12:01:21.293Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à COURBEVOIE
 electriciansAvailable: 8

@@ -6,12 +6,12 @@ zipCode: '75006'
 department: '75'
 keyword: Électricien Urgence Paris 6e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 6e (75006) ⚡ Dépannage électricité urgence
-  <30min Saint-Germain-des-Prés, Luxembourg, Odéon. Panne, court-circuit 24/7.
-  ☎️ 06 44 64 48 24
+  06 44 64 48 24 SOS Électricien Paris 6e (75006) ⚡ Dépannage électricité
+  urgence <30min Saint-Germain-des-Prés, Luxembourg, Odéon. Panne, court-circuit
+  24/7. ☎️ 06 44 64 48 24
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,13 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-6-75006-video.jpg
 introText: >-
-  À Paris 6e, le cœur historique du Quartier Latin regroupe des immeubles
-  haussmanniens et des bâtiments anciens demandant une expertise électrique
-  particulière. Les installations électriques de ces résidences et petits
-  commerces nécessitent des interventions régulières pour garantir sécurité et
-  conformité aux normes actuelles. Nos électriciens interviennent rapidement
-  dans tout le 75006 pour tous vos dépannages, entretiens et mises aux normes.
-introGeneratedAt: '2025-11-12T15:14:50.532Z'
+  À Paris 6e, le cœur historique de la Rive Gauche concentre des immeubles
+  haussmanniens et des résidences modernes exigeant une expertise électrique de
+  haut niveau. Les installations anciennes côtoient les rénovations
+  contemporaines, nécessitant des interventions adaptées et sécurisées. Le
+  réseau ALLO ELECTRICIEN PRO couvre Paris 6e 75006 avec intervention en moins
+  de 30 minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T10:17:24.843Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 6e
 electriciansAvailable: 7

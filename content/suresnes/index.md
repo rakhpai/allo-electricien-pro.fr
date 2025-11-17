@@ -56,13 +56,12 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-suresnes-92150-video.jpg
 introText: >-
   À Suresnes, commune résidentielle des Hauts-de-Seine dominant la Seine, les
-  maisons individuelles et petits immeubles demandent une expertise électrique
-  fiable et réactive. Vos installations, rénovations et dépannages nécessitent
-  des professionnels connaissant les spécificités du bâti local et les normes en
-  vigueur. ALLO ELECTRICIEN PRO couvre Suresnes 92150 avec ses électriciens
-  certifiés Qualifelec, garantissant une intervention en moins de 30 minutes et
-  une disponibilité 24h/24.
-introGeneratedAt: '2025-11-17T09:55:48.376Z'
+  maisons individuelles et petits collectifs requièrent une expertise électrique
+  de qualité. Installations anciennes, rénovations, dépannages urgents : vos
+  besoins électriques demandent des professionnels fiables et réactifs. Le
+  réseau ALLO ELECTRICIEN PRO couvre Suresnes 92150 avec intervention en moins
+  de 30 minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T12:01:48.285Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à SURESNES
 electriciansAvailable: 8

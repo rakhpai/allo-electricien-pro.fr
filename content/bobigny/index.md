@@ -57,13 +57,12 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-bobigny-93000-video.jpg
 introText: >-
   À Bobigny, commune dynamique de Seine-Saint-Denis, les résidences collectives
-  et pavillons requièrent une expertise électrique de qualité pour garantir
-  sécurité et conformité. Vos installations domestiques et tertiaires méritent
-  l'intervention de professionnels qualifiés maîtrisant les normes actuelles. Le
-  réseau ALLO ELECTRICIEN PRO couvre Bobigny 93000 avec plus de 410 électriciens
-  certifiés Qualifelec, garantissant une intervention en moins de 30 minutes,
-  24h/24.
-introGeneratedAt: '2025-11-17T09:56:03.472Z'
+  et pavillons requièrent une expertise électrique fiable et réactive. Vos
+  installations domestiques et professionnelles méritent des interventions
+  rapides et sécurisées pour garantir votre confort quotidien. Le réseau ALLO
+  ELECTRICIEN PRO couvre Bobigny 93000 avec intervention sous 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7.
+introGeneratedAt: '2025-11-17T12:02:00.009Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à BOBIGNY
 electriciansAvailable: 5

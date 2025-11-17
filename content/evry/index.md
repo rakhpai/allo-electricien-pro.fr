@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-evry-91090-video.jpg
 introText: >-
-  À Évry, commune dynamique de l'Essonne, les résidences individuelles et petits
-  collectifs requièrent une expertise électrique de qualité pour garantir
-  sécurité et conformité. Que vous habitiez un pavillon ou un immeuble, les
-  installations électriques demandent un entretien régulier et des interventions
-  fiables. Le réseau ALLO ELECTRICIEN PRO couvre Évry 91090 avec nos
-  électriciens certifiés Qualifelec, garantissant une intervention en moins de
-  30 minutes, 24h/24.
-introGeneratedAt: '2025-11-17T09:54:35.410Z'
+  Évry, commune dynamique de l'Essonne en Île-de-France, concentre un habitat
+  varié alliant pavillons individuels et petits collectifs demandant une
+  expertise électrique de proximité. Les installations anciennes et les besoins
+  de modernisation des logements évryens requièrent des interventions fiables et
+  rapides. Le réseau ALLO ELECTRICIEN PRO couvre Évry 91090 avec intervention en
+  moins de 30 minutes, 410+ électriciens certifiés Qualifelec et disponibilité
+  24/7 pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T12:00:55.192Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à EVRY
 electriciansAvailable: 5

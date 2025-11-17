@@ -6,8 +6,8 @@ zipCode: '75002'
 department: '75'
 keyword: Électricien Urgence Paris 2e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Paris 2e (75002) ⚡ Dépannage électricité urgence <30min
   Bourse, Opéra, Sentier. Panne, court-circuit, intervention 24/7. ☎️ 06 44 95
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-2-75002-video.jpg
 introText: >-
-  À Paris 2e, arrondissement historique du cœur de la capitale, les immeubles
-  haussmanniens et bâtiments anciens demandent une expertise électrique
-  particulière et régulière. Les installations électriques de ces structures
-  patrimonialesrequièrent des interventions conformes aux normes actuelles,
-  qu'il s'agisse de rénovations ou de dépannages urgents. Nos électriciens
-  interviennent rapidement dans le 75002 et ses alentours pour assurer la
-  sécurité et la fiabilité de vos installations.
-introGeneratedAt: '2025-11-12T15:14:27.105Z'
+  À Paris 2e, cœur historique de la capitale, les immeubles haussmanniens et
+  bâtiments anciens demandent une expertise électrique particulière pour
+  garantir sécurité et conformité. Les installations électriques de ces
+  structures patrimoniales nécessitent des interventions précises et
+  respectueuses des normes actuelles. Le réseau ALLO ELECTRICIEN PRO couvre
+  Paris 2e 75002 avec une intervention en moins de 30 minutes, 410+ électriciens
+  certifiés Qualifelec et RGE disponibles 24h/24 pour tous vos besoins.
+introGeneratedAt: '2025-11-17T10:17:09.660Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 2e
 electriciansAvailable: 7

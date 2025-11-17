@@ -56,14 +56,13 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-creteil-94000-video.jpg
 introText: >-
-  À Créteil, commune dynamique du Val-de-Marne, les résidences collectives et
-  pavillons demandent une expertise électrique fiable et réactive. Que vous
-  habitiez près du lac ou dans le centre-ville, vos installations électriques
-  méritent un professionnel qualifié pour diagnostics, rénovations ou dépannages
-  urgents. Le réseau ALLO ELECTRICIEN PRO couvre Créteil 94000 avec intervention
-  sous 30 minutes, fort de 410+ électriciens certifiés Qualifelec et RGE à votre
-  service.
-introGeneratedAt: '2025-11-17T09:57:04.516Z'
+  À Creteil, commune dynamique du Val-de-Marne, les résidences individuelles et
+  petits collectifs demandent une expertise électrique de proximité constante.
+  Que ce soit pour l'entretien de votre installation, la mise aux normes ou une
+  urgence électrique, nos professionnels maîtrisent les spécificités du secteur.
+  Le réseau ALLO ELECTRICIEN PRO couvre Creteil 94000 avec intervention en moins
+  de 30 minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T12:02:44.024Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CRETEIL
 electriciansAvailable: 6

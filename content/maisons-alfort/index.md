@@ -6,8 +6,8 @@ zipCode: '94700'
 department: '94'
 keyword: Intervention Électricien Maisons-Alfort
 company: Watt94
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Intervention électricien Maisons-Alfort 94700 ⚡ Installation, réparation,
   court-circuit. Dépannage 24h/7j immédiat. Rapide et fiable. Devis gratuit.
@@ -55,15 +55,6 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-maisons-alfort-94700-video.webp
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-maisons-alfort-94700-video.jpg
-introText: >-
-  À Maisons-Alfort, commune dynamique du Val-de-Marne, les habitations
-  individuelles et petits collectifs demandent une expertise électrique de
-  qualité adaptée aux normes actuelles. Vos installations domestiques,
-  chauffages et systèmes de sécurité nécessitent l'intervention de
-  professionnels maîtrisant les spécificités du secteur 94700. Nous couvrons
-  l'ensemble de Maisons-Alfort avec des interventions rapides et une
-  disponibilité réactive pour tous vos dépannages électriques.
-introGeneratedAt: '2025-11-12T15:19:59.152Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à MAISONS-ALFORT
 electriciansAvailable: 6
@@ -245,5 +236,14 @@ seoContent:
 seoEnhanced: true
 seoEnhancedAt: '2025-11-15T15:37:46.447Z'
 seoContentWordCount: 654
+introText: >-
+  À Maisons-Alfort, commune dynamique du Val-de-Marne, les résidences
+  pavillonnaires et petits immeubles collectifs requièrent une expertise
+  électrique de proximité et de confiance. Que ce soit pour l'entretien, la
+  rénovation ou les dépannages d'urgence, vos installations électriques méritent
+  des professionnels qualifiés et réactifs. Le réseau ALLO ELECTRICIEN PRO
+  couvre Maisons-Alfort 94700 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibil
+introGeneratedAt: '2025-11-17T12:02:51.491Z'
 ---
 

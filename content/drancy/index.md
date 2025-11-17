@@ -58,12 +58,12 @@ cdnImages:
 introText: >-
   À Drancy, commune dynamique de Seine-Saint-Denis, les résidences
   pavillonnaires et petits immeubles collectifs requièrent une expertise
-  électrique de proximité et de confiance. Vos installations domestiques et
-  tertiaires méritent des interventions rapides et sécurisées, réalisées par des
-  professionnels qualifiés. Le réseau ALLO ELECTRICIEN PRO couvre Drancy 93700
-  avec une intervention en moins de 30 minutes, fort de 410+ électriciens
-  certifiés Qualifelec et RGE à votre service.
-introGeneratedAt: '2025-11-17T09:56:10.944Z'
+  électrique de proximité et de confiance. Vos installations, mises aux normes
+  ou dépannages urgents méritent des professionnels maîtrisant parfaitement le
+  territoire et ses enjeux spécifiques. Le réseau ALLO ELECTRICIEN PRO couvre
+  Drancy 93700 avec intervention en moins de 30 minutes, 410+ électriciens
+  certifiés Qualifelec et disponibilité 24/7 pour tous vos besoins.
+introGeneratedAt: '2025-11-17T12:02:07.697Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à DRANCY
 electriciansAvailable: 7

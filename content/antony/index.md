@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-antony-92160-video.jpg
 introText: >-
-  À Antony, commune dynamique des Hauts-de-Seine, l'habitat pavillonnaire et les
-  petits immeubles demandent une expertise électrique de proximité constante.
-  Vos installations domestiques et tertiaires nécessitent des interventions
-  fiables et rapides pour garantir votre sécurité quotidienne. Le réseau ALLO
-  ELECTRICIEN PRO couvre Antony 92160 avec nos électriciens certifiés
-  Qualifelec, disponibles en moins de 30 minutes pour tous vos dépannages.
-introGeneratedAt: '2025-11-17T09:54:38.866Z'
+  À Antony, commune dynamique des Hauts-de-Seine, les maisons individuelles et
+  petits collectifs demandent une expertise électrique de confiance et de
+  proximité. Vos installations, mises aux normes ou dépannages d'urgence,
+  méritent des professionnels réactifs et qualifiés pour garantir votre
+  sécurité. Le réseau ALLO ELECTRICIEN PRO couvre Antony 92160 avec intervention
+  en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T12:00:59.208Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à ANTONY
 electriciansAvailable: 7

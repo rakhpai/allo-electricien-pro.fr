@@ -57,12 +57,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-bondy-93140-video.jpg
 introText: >-
   À Bondy, commune dynamique de Seine-Saint-Denis, les résidences pavillonnaires
-  et petits immeubles collectifs demandent une expertise électrique de proximité
-  constante. Installations anciennes, mises aux normes, dépannages urgents : vos
-  besoins électriques méritent des professionnels réactifs et qualifiés. Le
-  réseau ALLO ELECTRICIEN PRO couvre Bondy 93140 avec intervention sous 30
-  minutes, fort de 410+ électriciens certifiés Qualifelec et RGE.
-introGeneratedAt: '2025-11-17T09:56:07.168Z'
+  et petits immeubles collectifs requièrent une expertise électrique de
+  proximité et de confiance. Vos installations, mises aux normes et maintenance
+  demandent des professionnels réactifs connaissant les spécificités du
+  territoire. Le réseau ALLO ELECTRICIEN PRO couvre Bondy 93140 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24h/24.
+introGeneratedAt: '2025-11-17T12:02:03.695Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à BONDY
 electriciansAvailable: 5

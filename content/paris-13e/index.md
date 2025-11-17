@@ -6,12 +6,12 @@ zipCode: '75013'
 department: '75'
 keyword: Électricien Urgence Paris 13e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 13e (75013) ⚡ Dépannage électricité urgence
-  <30min Bibliothèque, Butte-aux-Cailles, Italie. Panne, court-circuit 24/7. ☎️
-  06 44 64 48 24
+  06 44 64 48 24 SOS Électricien Paris 13e (75013) ⚡ Dépannage électricité
+  urgence <30min Bibliothèque, Butte-aux-Cailles, Italie. Panne, court-circuit
+  24/7. ☎️ 06 44 64 48 24
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-13-75013-video.jpg
 introText: >-
-  À Paris 13e, arrondissement dynamique caractérisé par ses immeubles
-  haussmanniens et ses résidences modernes, les besoins en électricité sont
-  constants et variés. Les appartements anciens comme les constructions récentes
-  du quartier requièrent une expertise électrique adaptée, qu'il s'agisse de
-  mises aux normes ou de dépannages urgents. Nos électriciens interviennent
-  rapidement dans tout le 75013 pour assurer la sécurité et le confort de votre
-  installation électrique.
-introGeneratedAt: '2025-11-12T15:15:19.428Z'
+  À Paris 13e, arrondissement dynamique aux façades haussmanniennes et immeubles
+  modernes, les installations électriques demandent une expertise reconnue. Les
+  logements collectifs et petits commerces du quartier nécessitent des
+  interventions fiables et conformes aux normes actuelles. Le réseau ALLO
+  ELECTRICIEN PRO couvre Paris 13e 75013 avec intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24h/24 pour
+  tous vos dépannages.
+introGeneratedAt: '2025-11-17T10:18:06.564Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 13e
 electriciansAvailable: 8

@@ -56,13 +56,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-livry-gargan-93190-video.jpg
 introText: >-
   À Livry-Gargan, commune dynamique de Seine-Saint-Denis, les résidences
-  pavillonnaires et petits collectifs demandent une expertise électrique fiable
-  et réactive. Vos installations, mises aux normes ou dépannages urgents,
-  nécessitent des professionnels maîtrisant les spécificités du secteur 93190.
-  Le réseau ALLO ELECTRICIEN PRO couvre Livry-Gargan avec intervention en moins
-  de 30 minutes, fort de 410+ électriciens certifiés Qualifelec et disponibles
-  24h/24.
-introGeneratedAt: '2025-11-17T09:56:21.676Z'
+  pavillonnaires et petits collectifs demandent une expertise électrique de
+  proximité et réactive. Que ce soit pour des installations neuves, des
+  rénovations ou des dépannages urgents, vos installations électriques méritent
+  des professionnels qualifiés et disponibles. Le réseau ALLO ELECTRICIEN PRO
+  couvre Livry-Gargan 93190 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et RGE, disponibles 24h/24
+introGeneratedAt: '2025-11-17T12:02:15.413Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à LIVRY-GARGAN
 electriciansAvailable: 5

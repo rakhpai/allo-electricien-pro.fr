@@ -6,8 +6,8 @@ zipCode: '75004'
 department: '75'
 keyword: Électricien Urgence Paris 4e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   SOS Électricien Paris 4e (75004) ⚡ Dépannage électricité urgence <30min Hôtel
   de Ville, Notre-Dame, Bastille, Marais. Panne, court-circuit 24/7. ☎️ 06 44 95
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-4-75004-video.jpg
 introText: >-
-  À Paris 4e, au cœur de l'île de la Cité et du Marais, les immeubles
-  haussmanniens et médiévaux demandent une expertise électrique particulière et
-  adaptée à leurs contraintes architecturales. Les installations anciennes de ce
-  quartier historique nécessitent des interventions régulières pour garantir
-  sécurité et conformité aux normes actuelles. Nos électriciens interviennent
-  rapidement dans le 75004 pour tous vos dépannages, rénovations et mises aux
-  normes.
-introGeneratedAt: '2025-11-12T15:14:38.596Z'
+  À Paris 4e, le Marais et l'Île de la Cité concentrent un patrimoine
+  architectural remarquable mêlant immeubles haussmanniens et bâtiments
+  historiques exigeant une expertise électrique particulière. Ces structures
+  anciennes nécessitent des interventions délicates et conformes aux normes
+  actuelles pour garantir sécurité et performance énergétique. Le réseau ALLO
+  ELECTRICIEN PRO couvre Paris 4e 75004 avec une intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et RGE disponibles 24h/
+introGeneratedAt: '2025-11-17T10:17:17.077Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 4e
 electriciansAvailable: 7

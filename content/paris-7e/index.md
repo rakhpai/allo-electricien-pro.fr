@@ -6,12 +6,12 @@ zipCode: '75007'
 department: '75'
 keyword: Électricien Urgence Paris 7e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 7e (75007) ⚡ Dépannage électricité urgence
-  <30min Tour Eiffel, Invalides, Musée d'Orsay. Panne, court-circuit 24/7. ☎️ 06
-  44 95 55 55
+  06 44 64 48 24 SOS Électricien Paris 7e (75007) ⚡ Dépannage électricité
+  urgence <30min Tour Eiffel, Invalides, Musée d'Orsay. Panne, court-circuit
+  24/7. ☎️ 06 44 95 55 55
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-7-75007-video.jpg
 introText: >-
-  À Paris 7e, arrondissement prestigieux aux immeubles haussmanniens et
-  bâtiments patrimoniaux, les installations électriques requièrent une expertise
-  particulière et conforme aux normes strictes. Les appartements anciens, les
-  copropriétés et les commerces du quartier demandent des interventions
-  électriques régulières pour garantir sécurité et conformité. Nos électriciens
-  interviennent rapidement dans le 75007 et ses alentours, disponibles pour tous
-  vos dépannages et installations.
-introGeneratedAt: '2025-11-12T15:14:54.475Z'
+  À Paris 7e, arrondissement prestigieux du cœur de la capitale, les immeubles
+  haussmanniens et résidences modernes demandent une expertise électrique de
+  haut niveau pour garantir sécurité et conformité. Les installations anciennes
+  côtoient les rénovations contemporaines, nécessitant des interventions
+  adaptées et des diagnostics précis.  Le réseau ALLO ELECTRICIEN PRO couvre
+  Paris 7e 75007 avec intervention en moins de 30 minutes, 410+ électriciens
+  certif.
+introGeneratedAt: '2025-11-17T10:17:28.669Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 7e
 electriciansAvailable: 7

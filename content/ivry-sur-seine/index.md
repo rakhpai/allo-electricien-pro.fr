@@ -57,13 +57,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-ivry-sur-seine-94200-video.jpg
 introText: >-
   À Ivry-sur-Seine, commune dynamique du Val-de-Marne, les résidences
-  collectives et pavillons nécessitent une expertise électrique de qualité pour
-  garantir sécurité et conformité. Que vous habitiez un immeuble ancien ou
-  récent du 94200, l'entretien et la rénovation de vos installations électriques
-  demandent des professionnels fiables et réactifs. Le réseau ALLO ELECTRICIEN
-  PRO couvre Ivry-sur-Seine avec une intervention en moins de 30 minutes, fort
-  de 410+ électriciens certifiés Qualifelec
-introGeneratedAt: '2025-11-17T09:57:17.723Z'
+  collectives et pavillons requièrent une expertise électrique fiable et
+  réactive. Que ce soit pour des installations neuves, des rénovations ou des
+  dépannages urgents, vos installations électriques méritent des professionnels
+  qualifiés. Le réseau ALLO ELECTRICIEN PRO couvre Ivry-sur-Seine 94200 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T12:02:47.800Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à IVRY-SUR-SEINE
 electriciansAvailable: 7

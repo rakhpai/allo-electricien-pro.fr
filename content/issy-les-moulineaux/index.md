@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-issy-les-moulineaux-92130-video.jpg
 introText: >-
-  À Issy-les-Moulineaux, commune dynamique des Hauts-de-Seine, le parc
-  immobilier diversifié alliant pavillons individuels et petits collectifs
-  requiert une expertise électrique de qualité et de proximité. Vos
-  installations domestiques, rénovations et dépannages urgents méritent des
-  professionnels maîtrisant les spécificités du secteur 92130. Le réseau ALLO
-  ELECTRICIEN PRO couvre Issy-les-Moulineaux avec une intervention garantie en
-  moins de 30 minutes, 24h/24, grâce à nos 410+ élect
-introGeneratedAt: '2025-11-17T09:55:17.366Z'
+  À Issy-les-Moulineaux, commune dynamique des Hauts-de-Seine, les résidences
+  individuelles et petits immeubles demandent une expertise électrique de
+  qualité et de proximité. Que vous habitiez près de la Seine ou dans les
+  quartiers résidentiels, vos installations électriques méritent des
+  professionnels fiables et réactifs. Le réseau ALLO ELECTRICIEN PRO couvre
+  Issy-les-Moulineaux 92130 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7
+introGeneratedAt: '2025-11-17T12:01:24.930Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à ISSY-LES-MOULINEAUX
 electriciansAvailable: 6

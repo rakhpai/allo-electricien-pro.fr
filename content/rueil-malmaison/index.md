@@ -6,8 +6,8 @@ zipCode: '92500'
 department: '92'
 keyword: Électricien Urgence RUEIL-MALMAISON
 company: RUEILMALMAISONExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien d'urgence RUEIL-MALMAISON 92 ⚡ Court-circuit, panne, installation.
   Intervention 24h/7j garantie. Devis gratuit. Artisan qualifié. Appelez
@@ -55,15 +55,6 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-rueil-malmaison-92500-video.webp
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-rueil-malmaison-92500-video.jpg
-introText: >-
-  À Rueil-Malmaison, commune dynamique des Hauts-de-Seine, l'habitat diversifié
-  comprend des maisons individuelles, des immeubles collectifs et des bâtiments
-  tertiaires aux architectures variées. Les installations électriques de ces
-  différents types de constructions nécessitent des interventions adaptées, du
-  dépannage urgent à la mise aux normes complète. Nos électriciens interviennent
-  rapidement dans toute la zone 92500 pour assurer la sécurité et la performance
-  de vos équipements électriques.
-introGeneratedAt: '2025-11-12T16:15:32.279Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à RUEIL-MALMAISON
 electriciansAvailable: 6
@@ -234,5 +225,13 @@ seoContent:
 seoEnhanced: true
 seoEnhancedAt: '2025-11-15T15:28:01.758Z'
 seoContentWordCount: 637
+introText: >-
+  À Rueil-Malmaison, commune dynamique des Hauts-de-Seine, les résidences
+  pavillonnaires et petits immeubles demandent une expertise électrique de
+  qualité. Vos installations, rénovations et dépannages nécessitent des
+  professionnels fiables connaissant les spécificités du secteur. Le réseau ALLO
+  ELECTRICIEN PRO couvre Rueil-Malmaison 92500 avec intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24/7.
+introGeneratedAt: '2025-11-17T12:01:44.700Z'
 ---
 

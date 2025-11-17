@@ -57,13 +57,13 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-sevran-93270-video.jpg
 introText: >-
   À Sevran, commune dynamique de Seine-Saint-Denis, les résidences
-  pavillonnaires et petits immeubles collectifs demandent une expertise
-  électrique de proximité constante. Installations, rénovations, dépannages :
-  vos besoins électriques nécessitent des professionnels fiables et réactifs
-  maîtrisant les spécificités du secteur. Le réseau ALLO ELECTRICIEN PRO couvre
-  Sevran 93270 avec intervention en moins de 30 minutes, fort de 410+
-  électriciens certifiés Qualifelec et RGE.
-introGeneratedAt: '2025-11-17T09:56:48.759Z'
+  pavillonnaires et petits collectifs requièrent une expertise électrique fiable
+  et réactive. Vos installations domestiques et tertiaires méritent des
+  interventions de qualité, conformes aux normes actuelles. Le réseau ALLO
+  ELECTRICIEN PRO couvre Sevran 93270 avec intervention en moins de 30 minutes,
+  410+ électriciens certifiés Qualifelec et disponibilité 24/7 pour tous vos
+  dépannages.
+introGeneratedAt: '2025-11-17T12:02:36.902Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à SEVRAN
 electriciansAvailable: 6

@@ -55,14 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-cergy-95000-95800-video.jpg
 introText: >-
-  À Cergy (95000-95800), commune dynamique du Val-d'Oise, l'habitat mixte
-  alliant pavillons et petits collectifs demande une expertise électrique de
-  proximité constante. Que ce soit pour l'entretien de votre installation, la
-  mise aux normes ou une dépannage urgent, nos électriciens maîtrisent les
-  spécificités du secteur. Le réseau ALLO ELECTRICIEN PRO couvre Cergy avec
-  intervention en moins de 30 minutes, 24h/24, grâce à nos 410+ électriciens
-  certifiés Qualifelec et RG
-introGeneratedAt: '2025-11-17T09:58:01.659Z'
+  À Cergy, commune dynamique du Val-d'Oise, les résidences pavillonnaires et
+  petits collectifs demandent une expertise électrique de qualité et de
+  proximité. Vos installations domestiques et tertiaires méritent des
+  professionnels fiables pour garantir sécurité et conformité. Le réseau ALLO
+  ELECTRICIEN PRO couvre Cergy 95000-95800 avec intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24/7 pour
+  tous vos dépannages.
+introGeneratedAt: '2025-11-17T12:03:14.586Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CERGY
 electriciansAvailable: 5

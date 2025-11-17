@@ -55,13 +55,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-puteaux-92800-video.jpg
 introText: >-
-  À Puteaux, en plein cœur des Hauts-de-Seine, les résidences individuelles et
-  petits immeubles demandent une expertise électrique fiable et réactive. Vos
-  installations domestiques et tertiaires méritent des professionnels qualifiés
-  maîtrisant les normes actuelles et les spécificités du 92800. ALLO ELECTRICIEN
-  PRO vous couvre avec son réseau de 410+ électriciens certifiés Qualifelec,
-  garantissant une intervention en moins de 30 minutes, 24h/24.
-introGeneratedAt: '2025-11-17T09:55:33.218Z'
+  À Puteaux, commune dynamique des Hauts-de-Seine, les résidences individuelles
+  et petits immeubles demandent une expertise électrique de qualité pour
+  garantir sécurité et conformité. Que ce soit pour une installation, une
+  rénovation ou une urgence électrique, nos professionnels maîtrisent les
+  spécificités du bâti local. Le réseau ALLO ELECTRICIEN PRO couvre Puteaux
+  92800 avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T12:01:40.794Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à PUTEAUX
 electriciansAvailable: 5

@@ -6,8 +6,8 @@ zipCode: '77000'
 department: '77'
 keyword: Électricien Urgence Melun
 company: ElecMaster77
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Électricien urgence Melun 77000 ⚡ Panne électrique, installation, réparation
   tableau. Intervention immédiate 24h/7j. Devis gratuit. ElecMaster77 certifié.
@@ -54,15 +54,6 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-melun-77000-video.webp
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-melun-77000-video.jpg
-introText: >-
-  À Melun, préfecture de Seine-et-Marne, le parc immobilier diversifié associe
-  maisons individuelles, petits collectifs et bâtiments anciens demandant une
-  expertise électrique particulière. Nos électriciens maîtrisent les
-  installations résidentielles et tertiaires du secteur, garantissant conformité
-  et sécurité pour chaque intervention. Nous couvrons l'ensemble de la commune
-  77000 et ses alentours avec une disponibilité rapide pour répondre à vos
-  urgences électriques.
-introGeneratedAt: '2025-11-12T15:16:36.551Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à MELUN
 electriciansAvailable: 5
@@ -247,5 +238,14 @@ seoContent:
 seoEnhanced: true
 seoEnhancedAt: '2025-11-15T15:19:14.166Z'
 seoContentWordCount: 695
+introText: >-
+  À Melun, commune dynamique de Seine-et-Marne, les résidences individuelles et
+  petits collectifs demandent une expertise électrique de qualité et de
+  proximité. Que ce soit pour l'entretien de votre installation, la mise aux
+  normes ou une intervention d'urgence, nos électriciens maîtrisent les
+  spécificités du bâti local. Le réseau ALLO ELECTRICIEN PRO couvre Melun 77000
+  avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T12:00:47.492Z'
 ---
 

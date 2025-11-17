@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-clichy-92110-video.jpg
 introText: >-
-  À Clichy, en plein cœur des Hauts-de-Seine, le parc immobilier mêle pavillons
-  individuels et petits collectifs demandant une expertise électrique constante.
-  Les installations anciennes comme récentes de cette commune dynamique
-  nécessitent des interventions régulières pour garantir sécurité et conformité.
-  Le réseau ALLO ELECTRICIEN PRO couvre Clichy avec 410+ électriciens certifiés
-  Qualifelec, assurant une intervention en moins de 30 minutes, 24h/24, pour
-  tous vos besoins électriques.
-introGeneratedAt: '2025-11-17T09:55:01.819Z'
+  À Clichy, commune dynamique des Hauts-de-Seine, les résidences individuelles
+  et petits immeubles collectifs demandent une expertise électrique de proximité
+  et réactive. Vos installations, mises aux normes ou dépannages urgents
+  nécessitent des professionnels fiables qui connaissent les spécificités du
+  bâti local. Le réseau ALLO ELECTRICIEN PRO couvre Clichy 92110 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24/7 pour tous vos besoins
+introGeneratedAt: '2025-11-17T12:01:14.007Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CLICHY
 electriciansAvailable: 7

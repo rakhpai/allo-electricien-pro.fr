@@ -6,12 +6,12 @@ zipCode: '75011'
 department: '75'
 keyword: Électricien d'Urgence Paris 11
 company: Paris 11Watt
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 11e (75011) ⚡ Dépannage électricité urgence
-  <30min Bastille, République, Nation, Oberkampf. Panne, court-circuit 24/7. ☎️
-  06 44 64 48 24
+  06 44 64 48 24 SOS Électricien Paris 11e (75011) ⚡ Dépannage électricité
+  urgence <30min Bastille, République, Nation, Oberkampf. Panne, court-circuit
+  24/7. ☎️ 06 44 64 48 24
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-11-75011-video.jpg
 introText: >-
-  À Paris 11, arrondissement dynamique aux façades haussmanniennes et immeubles
-  anciens, les installations électriques demandent une expertise particulière et
-  régulière. Les appartements parisiens, les petits commerces et les bureaux du
-  quartier nécessitent des interventions d'électriciens qualifiés pour garantir
-  sécurité et conformité. Nous couvrons l'ensemble du 75011 avec une
-  disponibilité immédiate pour tous vos dépannages et travaux électriques.
-introGeneratedAt: '2025-11-12T15:15:11.364Z'
+  À Paris 11, arrondissement dynamique du cœur de la capitale, les immeubles
+  haussmanniens et les petits collectifs demandent une expertise électrique de
+  qualité. Les installations anciennes et les rénovations modernes nécessitent
+  des interventions fiables et conformes aux normes actuelles. Le réseau ALLO
+  ELECTRICIEN PRO couvre Paris 11 75011 avec plus de 410 électriciens certifiés
+  Qualifelec et RGE, garantissant une intervention en moins de 30 minutes,
+  24h/24 et 7j/7.
+introGeneratedAt: '2025-11-17T10:17:51.119Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 11
 electriciansAvailable: 7

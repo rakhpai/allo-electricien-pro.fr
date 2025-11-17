@@ -58,12 +58,12 @@ cdnImages:
 introText: >-
   À Asnières-sur-Seine, commune dynamique des Hauts-de-Seine, les résidences
   pavillonnaires et petits immeubles demandent une expertise électrique de
-  proximité et de confiance. Vos installations, rénovations et dépannages
-  nécessitent des professionnels maîtrisant les spécificités du 92600 et ses
-  enjeux de sécurité électrique. Le réseau ALLO ELECTRICIEN PRO couvre
-  Asnières-sur-Seine avec 410+ électriciens certifiés, garantissant une
-  intervention en moins de 30 minutes, 24h/24.
-introGeneratedAt: '2025-11-17T09:54:42.771Z'
+  proximité et de confiance. Que ce soit pour une installation, une rénovation
+  ou une urgence électrique, nos professionnels maîtrisent les spécificités du
+  bâti local. Le réseau ALLO ELECTRICIEN PRO couvre Asnières-sur-Seine 92600
+  avec intervention en moins de 30 minutes, 410+ électriciens certifiés
+  Qualifelec et disponibilité 24/7 pour tous
+introGeneratedAt: '2025-11-17T12:01:02.771Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à ASNIERES-SUR-SEINE
 electriciansAvailable: 7

@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-aulnay-sous-bois-93600-video.jpg
 introText: >-
-  À Aulnay-sous-Bois (93600), cette commune dynamique de Seine-Saint-Denis
-  conjugue habitat pavillonnaire et petits collectifs demandant une expertise
-  électrique de proximité. Vos installations domestiques et tertiaires méritent
-  des interventions fiables, qu'il s'agisse de dépannages urgents ou de mises
-  aux normes dans les quartiers résidentiels. ALLO ELECTRICIEN PRO couvre
-  Aulnay-sous-Bois avec son réseau de 410+ électriciens certifiés Qualifelec,
-  garantissant une intervention en moins de 30
-introGeneratedAt: '2025-11-17T09:55:59.846Z'
+  À Aulnay-sous-Bois, commune dynamique de Seine-Saint-Denis, les résidences
+  pavillonnaires et petits collectifs demandent une expertise électrique de
+  proximité constante. Installations, dépannages et mises aux normes sont
+  essentiels pour sécuriser votre habitat et vos équipements. Le réseau ALLO
+  ELECTRICIEN PRO couvre Aulnay-sous-Bois 93600 avec intervention en moins de 30
+  minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24/7 pour
+  tous vos besoins.
+introGeneratedAt: '2025-11-17T12:01:55.972Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à AULNAY-SOUS-BOIS
 electriciansAvailable: 6

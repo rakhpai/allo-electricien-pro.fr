@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-chelles-77500-video.jpg
 introText: >-
-  À Chelles, en Seine-et-Marne, le parc immobilier diversifié associe maisons
-  individuelles et petits collectifs demandant une expertise électrique
-  constante. Installations anciennes, mises aux normes, dépannages urgents : vos
-  besoins électriques méritent des professionnels qualifiés et réactifs. Le
-  réseau ALLO ELECTRICIEN PRO couvre Chelles 77500 avec intervention sous 30
-  minutes, fort de 410+ électriciens certifiés Qualifelec et RGE disponibles
-  24h/24.
-introGeneratedAt: '2025-11-17T09:54:04.104Z'
+  À Chelles, commune dynamique de Seine-et-Marne, le parc immobilier diversifié
+  alliant pavillons individuels et petits collectifs requiert une expertise
+  électrique de proximité. Vos installations domestiques et tertiaires méritent
+  une prise en charge rapide et professionnelle pour garantir sécurité et
+  conformité. Le réseau ALLO ELECTRICIEN PRO couvre Chelles 77500 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  RGE disponibles 24h/24.
+introGeneratedAt: '2025-11-17T12:00:40.044Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à CHELLES
 electriciansAvailable: 6

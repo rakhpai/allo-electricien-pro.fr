@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-neuilly-sur-seine-92200-video.jpg
 introText: >-
-  À Neuilly-sur-Seine, cette commune prestigieuse des Hauts-de-Seine conjugue
-  villas cossues et immeubles haussmanniens exigeant une expertise électrique de
-  haut niveau. Vos installations, mises aux normes ou dépannages urgents,
-  requièrent des professionnels maîtrisant les spécificités du 92200. Le réseau
-  ALLO ELECTRICIEN PRO couvre Neuilly-sur-Seine avec intervention sous 30
-  minutes, fort de 410+ électriciens certifiés Qualifelec et disponibles 24h/24.
-introGeneratedAt: '2025-11-17T09:55:29.434Z'
+  À Neuilly-sur-Seine, commune résidentielle prisée des Hauts-de-Seine, les
+  villas et petits immeubles demandent une expertise électrique de qualité. Vos
+  installations, rénovations et dépannages nécessitent des professionnels
+  maîtrisant les normes actuelles et les spécificités du bâti local. Le réseau
+  ALLO ELECTRICIEN PRO couvre Neuilly-sur-Seine 92200 avec intervention en moins
+  de 30 minutes, 410+ électriciens certifiés Qualifelec et disponibilité 24/7
+  pour tous vos besoins
+introGeneratedAt: '2025-11-17T12:01:37.096Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à NEUILLY-SUR-SEINE
 electriciansAvailable: 8

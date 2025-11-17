@@ -6,12 +6,12 @@ zipCode: '75009'
 department: '75'
 keyword: Électricien Urgence Paris 9e
 company: PExpert
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
-  06 44 64 48 24 SOS Électricien Paris 9e (75009) ⚡ Dépannage électricité urgence
-  <30min Opéra, Pigalle, Grands Boulevards. Panne, court-circuit 24/7. ☎️ 06 44
-  95 55 55
+  06 44 64 48 24 SOS Électricien Paris 9e (75009) ⚡ Dépannage électricité
+  urgence <30min Opéra, Pigalle, Grands Boulevards. Panne, court-circuit 24/7.
+  ☎️ 06 44 95 55 55
 niche: électricité
 kwSource: électricité
 coordinates:
@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-paris-9-75009-video.jpg
 introText: >-
-  À Paris 9e, arrondissement dynamique aux façades haussmanniennes et immeubles
-  modernes, les besoins électriques sont constants et diversifiés pour les
-  résidents et commerces du quartier. Les installations anciennes côtoient les
-  rénovations contemporaines, exigeant une expertise pointue en dépannage,
-  maintenance et mise aux normes électriques. Nous intervenons rapidement dans
-  tout le 75009, du Faubourg-Montmartre aux alentours de la Gare Saint-Lazare,
-  avec une disponibilité adaptée aux urgences.
-introGeneratedAt: '2025-11-12T15:15:03.607Z'
+  À Paris 9e, arrondissement dynamique du centre parisien, les immeubles
+  haussmanniens et les bâtiments modernes exigent une expertise électrique
+  pointue et réactive. Vos installations électriques, tableaux et systèmes de
+  sécurité méritent des professionnels qualifiés maîtrisant les normes
+  parisiennes. Le réseau ALLO ELECTRICIEN PRO couvre Paris 9e 75009 avec
+  intervention en moins de 30 minutes, 410+ électriciens certifiés Qualifelec et
+  disponibilité 24h/24 pour tous vos dépannages.
+introGeneratedAt: '2025-11-17T10:17:43.554Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à Paris 9e
 electriciansAvailable: 7

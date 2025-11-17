@@ -6,8 +6,8 @@ zipCode: '94130'
 department: '94'
 keyword: Dépannage Électricien Nogent-Sur-Marne
 company: WattMaster94
-phone: "06 44 64 48 24"
-phoneRaw: "0644644824"
+phone: 06 44 64 48 24
+phoneRaw: 0644644824
 description: >-
   Dépannage électricien Nogent-Sur-Marne 94 ⚡ Panne, réparation, installation.
   Urgence 24h/7j. WattMaster94 certifié. Intervention garantie. Devis gratuit.
@@ -54,15 +54,6 @@ cdnImages:
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-nogent-sur-marne-94130-video.webp
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-nogent-sur-marne-94130-video.jpg
-introText: >-
-  À Nogent-sur-Marne, commune dynamique du Val-de-Marne située en bordure de
-  Marne, l'habitat résidentiel et les petits collectifs demandent une expertise
-  électrique de qualité et de proximité. Les installations anciennes des
-  pavillons comme les systèmes modernes des immeubles nécessitent des
-  interventions fiables et conformes aux normes actuelles. Nos électriciens
-  interviennent rapidement dans le 94130 et ses alentours pour tous vos besoins
-  en dépannage, installation et maintenance électrique.
-introGeneratedAt: '2025-11-12T15:20:03.770Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à NOGENT-SUR-MARNE
 electriciansAvailable: 8
@@ -237,5 +228,14 @@ seoContent:
 seoEnhanced: true
 seoEnhancedAt: '2025-11-15T15:38:20.694Z'
 seoContentWordCount: 663
+introText: >-
+  À Nogent-sur-Marne, commune dynamique du Val-de-Marne située en bordure de
+  Marne, les résidences pavillonnaires et petits immeubles demandent une
+  expertise électrique de qualité. Vos installations, mises aux normes ou
+  rénovations, nécessitent des professionnels fiables connaissant les
+  spécificités du secteur. Le réseau ALLO ELECTRICIEN PRO couvre
+  Nogent-sur-Marne 94130 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24
+introGeneratedAt: '2025-11-17T12:02:55.206Z'
 ---
 

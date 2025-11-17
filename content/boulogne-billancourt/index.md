@@ -58,12 +58,12 @@ cdnImages:
 introText: >-
   À Boulogne-Billancourt, commune dynamique des Hauts-de-Seine, les résidences
   individuelles et petits immeubles demandent une expertise électrique de
-  qualité et de proximité. Vos installations, mises aux normes ou dépannages
-  urgents nécessitent des professionnels réactifs et fiables maîtrisant les
-  spécificités du 92100. Le réseau ALLO ELECTRICIEN PRO couvre
-  Boulogne-Billancourt avec intervention en moins de 30 minutes, 410+
-  électriciens certifiés Qualifelec à votre service 24h/24
-introGeneratedAt: '2025-11-17T09:54:50.514Z'
+  qualité. Vos installations domestiques et professionnelles méritent
+  l'intervention de professionnels qualifiés, capables de diagnostiquer et
+  résoudre tout problème rapidement. Le réseau ALLO ELECTRICIEN PRO couvre
+  Boulogne-Billancourt 92100 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7 pour tous vos be
+introGeneratedAt: '2025-11-17T12:01:06.473Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à BOULOGNE-BILLANCOURT
 electriciansAvailable: 8

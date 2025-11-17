@@ -56,14 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-pantin-93500-video.jpg
 introText: >-
-  À Pantin, en Seine-Saint-Denis, les résidences individuelles et petits
-  immeubles collectifs demandent une expertise électrique de proximité et
-  réactive. Vos installations, mises aux normes ou dépannages d'urgence,
-  nécessitent des professionnels maîtrisant les spécificités du bâti local. ALLO
-  ELECTRICIEN PRO couvre Pantin 93500 avec ses électriciens certifiés
-  Qualifelec, garantissant une intervention en moins de 30 minutes, disponibles
-  24h/24 pour tous vos besoins électriques.
-introGeneratedAt: '2025-11-17T09:56:37.343Z'
+  À Pantin, commune dynamique de Seine-Saint-Denis, les résidences collectives
+  et pavillons requièrent une expertise électrique fiable et réactive. Vos
+  installations, du diagnostic à la rénovation, méritent des professionnels
+  maîtrisant les normes actuelles et les spécificités du bâti local. Le réseau
+  ALLO ELECTRICIEN PRO couvre Pantin 93500 avec intervention sous 30 minutes,
+  410+ électriciens certifiés Qualifelec et disponibilité 24/7 pour tous vos
+  urgences.
+introGeneratedAt: '2025-11-17T12:02:29.353Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à PANTIN
 electriciansAvailable: 6

@@ -56,13 +56,14 @@ cdnImages:
     jpg: >-
       https://eedbqzgrcqenopeyjwjj.supabase.co/storage/v1/object/public/processed-images/allo-electricien.pro/video/electricien-urgence-epinay-sur-seine-93800-video.jpg
 introText: >-
-  À Epinay-sur-Seine (93800), cette commune dynamique de Seine-Saint-Denis
-  combine habitat pavillonnaire et petits collectifs demandant une expertise
-  électrique de proximité. Vos installations domestiques et tertiaires méritent
-  des interventions fiables et conformes aux normes actuelles. Le réseau ALLO
-  ELECTRICIEN PRO couvre Epinay-sur-Seine avec intervention sous 30 minutes,
-  fort de 410+ électriciens certifiés Qualifelec et RGE disponibles 24/7.
-introGeneratedAt: '2025-11-17T09:56:14.492Z'
+  À Epinay-sur-Seine, commune dynamique de Seine-Saint-Denis, l'habitat
+  résidentiel et les petits collectifs demandent une expertise électrique de
+  proximité constante. Que vous habitiez un pavillon ou un immeuble, les
+  installations électriques nécessitent un entretien régulier et des
+  interventions fiables pour votre sécurité. Le réseau ALLO ELECTRICIEN PRO
+  couvre Epinay-sur-Seine 93800 avec intervention en moins de 30 minutes, 410+
+  électriciens certifiés Qualifelec et disponibilité 24/7 pour tous
+introGeneratedAt: '2025-11-17T12:02:11.559Z'
 heroEnhanced: true
 heroSubheading: Intervention Express <30min à EPINAY-SUR-SEINE
 electriciansAvailable: 7
